@@ -133,6 +133,9 @@
             <button class="banner-pearls-btn" id="btnViewLessonNotes">
               <span>⭐️ High-Yield Pearls</span>
             </button>
+            <button class="banner-reset-btn" id="btnOpenResetModal" title="Reset your answers">
+              <span>🔄 Reset</span>
+            </button>
           </div>
         </div>
       </section>
@@ -228,6 +231,43 @@
       </div>
       <div class="notes-modal-body search-results-scroll" id="globalSearchResults">
         <p class="search-placeholder-text">Type at least 2 characters to search across all 43 masterclasses...</p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Reset Progress Confirmation Modal -->
+  <div class="notes-modal-overlay" id="resetModal">
+    <div class="notes-modal-content reset-modal-box">
+      <div class="notes-modal-header">
+        <div class="notes-modal-title">
+          <h3>🔄 Reset Progress / إعادة تعيين التقدم</h3>
+          <p>Choose how you want to reset your practice session</p>
+        </div>
+        <button class="nav-icon-btn modal-close-btn" id="btnCloseResetModal">✕</button>
+      </div>
+      <div class="reset-modal-body">
+        <p class="reset-description">
+          Want to re-test yourself from 0? You can clear answered questions for this lesson, or start completely fresh across all 43 masterclasses.
+        </p>
+        <div class="reset-options-list">
+          <button class="reset-action-btn primary-reset" id="btnResetCurrentLesson">
+            <div class="reset-btn-icon">📝</div>
+            <div class="reset-btn-text">
+              <strong>Reset Current Lesson (<span id="resetLessonName">Lesson 1</span>)</strong>
+              <span>Clears answered MCQs and restores fresh 0/42 state for this lecture</span>
+            </div>
+          </button>
+          <button class="reset-action-btn danger-reset" id="btnResetAllBank">
+            <div class="reset-btn-icon">⚠️</div>
+            <div class="reset-btn-text">
+              <strong>Reset Entire Bank (All 43 Classes • 1,806 MCQs)</strong>
+              <span>Clears all saved answers and progress across the entire Renal module</span>
+            </div>
+          </button>
+        </div>
+        <div class="reset-modal-footer">
+          <button class="btn-cancel" id="btnCancelReset">Cancel / إلغاء</button>
+        </div>
       </div>
     </div>
   </div>

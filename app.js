@@ -263,6 +263,36 @@ class AppController {
       document.getElementById('notesModal')?.classList.remove('open');
     });
 
+    // Reset Progress modal trigger
+    document.getElementById('btnOpenResetModal')?.addEventListener('click', () => {
+      this.sound.playClick();
+      this.openResetModal();
+    });
+
+    document.getElementById('btnCloseResetModal')?.addEventListener('click', () => {
+      this.sound.playClick();
+      this.closeResetModal();
+    });
+
+    document.getElementById('btnCancelReset')?.addEventListener('click', () => {
+      this.sound.playClick();
+      this.closeResetModal();
+    });
+
+    document.getElementById('btnResetCurrentLesson')?.addEventListener('click', () => {
+      this.resetCurrentLessonProgress();
+    });
+
+    document.getElementById('btnResetAllBank')?.addEventListener('click', () => {
+      this.resetAllProgress();
+    });
+
+    document.getElementById('resetModal')?.addEventListener('click', (e) => {
+      if (e.target.id === 'resetModal') {
+        this.closeResetModal();
+      }
+    });
+
     // Global Search trigger
     document.getElementById('btnGlobalSearch')?.addEventListener('click', () => {
       this.sound.playClick();
@@ -281,6 +311,7 @@ class AppController {
       } else if (e.key === 'Escape') {
         document.getElementById('notesModal')?.classList.remove('open');
         document.getElementById('globalSearchModal')?.classList.remove('open');
+        this.closeResetModal();
         this.closeSidebar();
       }
     });
@@ -741,6 +772,78 @@ class AppController {
         });
       });
     });
+  }
+
+  // ================= Reset Progress Logic =================
+  openResetModal() {
+    const modal = document.getElementById('resetModal');
+    if (!modal) return;
+    const nameEl = document.getElementById('resetLessonName');
+    if (nameEl && this.currentLessonData) {
+      nameEl.textContent = `${this.currentLessonData.id}. ${this.currentLessonData.title}`;
+    }
+    modal.classList.add('open');
+  }
+
+  closeResetModal() {
+    const modal = document.getElementById('resetModal');
+    if (!modal) return;
+    modal.classList.remove('open');
+  }
+
+  resetCurrentLessonProgress() {
+    if (!this.currentLessonData) return;
+    const lessonId = this.currentLessonData.id;
+    const padId = lessonId.toString().padStart(2, '0');
+    const prefix = `TM-R-${padId}-`;
+
+    // Remove all answers matching this lesson
+    let clearedCount = 0;
+    Object.keys(this.userAnswers).forEach(key => {
+      if (key.startsWith(prefix)) {
+        delete this.userAnswers[key];
+        clearedCount++;
+      }
+    });
+
+    localStorage.setItem('tm_user_answers', JSON.stringify(this.userAnswers));
+    this.sound.playClick();
+    this.closeResetModal();
+    this.updateBanner();
+    this.renderLessonsList();
+    this.renderCurrentView();
+
+    this.showToast(`Lesson ${lessonId} reset! Cleared ${clearedCount} answered MCQs (0/42).`);
+  }
+
+  resetAllProgress() {
+    const totalCleared = Object.keys(this.userAnswers).length;
+    this.userAnswers = {};
+    localStorage.removeItem('tm_user_answers');
+    this.sound.playClick();
+    this.closeResetModal();
+    this.updateBanner();
+    this.renderLessonsList();
+    this.renderCurrentView();
+
+    this.showToast(`All progress reset! Cleared ${totalCleared} answers across all 43 classes.`);
+  }
+
+  showToast(message) {
+    let toast = document.getElementById('tmToast');
+    if (!toast) {
+      toast = document.createElement('div');
+      toast.id = 'tmToast';
+      toast.className = 'tm-toast';
+      document.body.appendChild(toast);
+    }
+    toast.textContent = message;
+    toast.classList.add('show');
+
+    clearTimeout(this.toastTimer);
+    this.toastTimer = setTimeout(() => {
+      toast.classList.remove('show');
+    }, 2800);
   }
 
   // ================= Bookmarked Questions Mode =================
