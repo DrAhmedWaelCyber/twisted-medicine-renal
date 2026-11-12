@@ -876,32 +876,35 @@ body {
   color: #ffffff;
 }
 
-/* ================= Explanation / High-Yield Box ================= */
+/* ================= Answer Result Box ================= */
 .explanation-box {
-  margin-top: 0.4rem;
-  padding: 1rem 1.15rem;
+  margin-top: 0.5rem;
+  padding: 0.7rem 1rem;
   border-radius: var(--radius-md);
-  background: linear-gradient(135deg, rgba(59, 130, 246, 0.08), rgba(16, 185, 129, 0.08));
-  border-left: 4px solid var(--primary);
-  border-top: 1px solid var(--border-light);
-  border-right: 1px solid var(--border-light);
-  border-bottom: 1px solid var(--border-light);
-  font-size: 0.88rem;
-  line-height: 1.55;
+  background: var(--success-light);
+  border: 1px solid var(--success-border);
+  border-left: 4px solid var(--success);
+  font-size: 0.92rem;
+  line-height: 1.45;
   color: var(--text-main);
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: wrap;
   animation: fadeIn 0.25s ease;
 }
 
-.explanation-header {
-  display: flex;
-  align-items: center;
-  gap: 0.4rem;
+.correct-ans-label {
   font-weight: 700;
-  color: var(--primary);
-  margin-bottom: 0.4rem;
-  font-size: 0.82rem;
-  text-transform: uppercase;
-  letter-spacing: 0.02em;
+  color: var(--success);
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.correct-ans-text {
+  color: var(--text-main);
+  font-weight: 500;
 }
 
 @keyframes fadeIn {

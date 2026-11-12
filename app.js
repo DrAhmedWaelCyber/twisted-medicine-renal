@@ -614,12 +614,9 @@ class AppController {
           `;
         }).join('')}
       </div>
-      <div class="explanation-box" style="display: ${userAnswer ? 'block' : 'none'};">
-        <div class="explanation-header">
-          <span>💡 High-Yield Board Landmark</span>
-        </div>
-        <div><strong>Correct Answer: [${q.correct_option}]</strong></div>
-        <div style="margin-top: 0.4rem; white-space: pre-line;">${q.explanation || 'Refer to the Master High-Yield Pearls Table for full comparative rules.'}</div>
+      <div class="explanation-box" style="display: ${userAnswer ? 'flex' : 'none'};">
+        <span class="correct-ans-label">✅ Correct Answer: [${q.correct_option}]</span>
+        ${q.options[q.correct_option] ? `<span class="correct-ans-text">— ${q.options[q.correct_option]}</span>` : ''}
       </div>
     `;
 
@@ -664,7 +661,7 @@ class AppController {
     });
 
     const expBox = cardElement.querySelector('.explanation-box');
-    if (expBox) expBox.style.display = 'block';
+    if (expBox) expBox.style.display = 'flex';
 
     this.updateBanner();
     this.renderLessonsList();
@@ -916,9 +913,8 @@ class AppController {
               ${['A', 'B', 'C', 'D', 'E'].map(k => q.options[k] ? `<div style="font-size: 0.88rem; color: var(--text-muted);"><strong>[${k}]</strong> ${q.options[k]}</div>` : '').join('')}
             </div>
           ` : `
-            <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--success); margin-bottom: 0.75rem; font-weight: 700;">Correct Answer & Landmark</div>
-            <div style="font-size: 1.25rem; font-weight: 800; color: var(--success); margin-bottom: 0.75rem;">Option [${q.correct_option}]: ${q.options[q.correct_option] || ''}</div>
-            <div style="font-size: 0.90rem; color: var(--text-main); line-height: 1.55; white-space: pre-line; background: var(--bg-surface); padding: 0.9rem; border-radius: var(--radius-md); border: 1px solid var(--border-color);">${q.explanation}</div>
+            <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--success); margin-bottom: 0.75rem; font-weight: 700;">Correct Answer</div>
+            <div style="font-size: 1.25rem; font-weight: 800; color: var(--success); padding: 1.25rem; background: var(--success-light); border-radius: var(--radius-md); border: 1px solid var(--success-border);">Option [${q.correct_option}]: ${q.options[q.correct_option] || ''}</div>
           `}
         </div>
 
