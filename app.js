@@ -1,6 +1,7 @@
 /**
  * Twisted Medicine • Renal System MCQ Master Bank
  * Core Application Engine & State Architecture
+ * Responsive Cross-Platform Edition (Mobile, Tablet, iPad & Desktop)
  */
 
 // ================= Web Audio API Synthesizer =================
@@ -191,13 +192,45 @@ class AppController {
       });
     }
 
-    // Navigation mode tabs
+    // Desktop nav tabs
     const navTabs = document.querySelectorAll('.nav-tab-btn');
     navTabs.forEach(tab => {
-      tab.addEventListener('click', (e) => {
+      tab.addEventListener('click', () => {
         const mode = tab.dataset.mode;
         this.switchMode(mode);
       });
+    });
+
+    // Mobile bottom navigation bar tabs
+    const mobileTabs = document.querySelectorAll('.mobile-tab-btn[data-mode]');
+    mobileTabs.forEach(tab => {
+      tab.addEventListener('click', () => {
+        const mode = tab.dataset.mode;
+        this.switchMode(mode);
+      });
+    });
+
+    // Mobile Lessons Menu button (in bottom nav)
+    document.getElementById('mobileBtnMenu')?.addEventListener('click', () => {
+      this.sound.playClick();
+      this.openSidebar();
+    });
+
+    // Top hamburger sidebar toggle button
+    document.getElementById('btnSidebarToggle')?.addEventListener('click', () => {
+      this.sound.playClick();
+      this.openSidebar();
+    });
+
+    // Close sidebar button
+    document.getElementById('btnCloseSidebar')?.addEventListener('click', () => {
+      this.sound.playClick();
+      this.closeSidebar();
+    });
+
+    // Sidebar backdrop click
+    document.getElementById('sidebarBackdrop')?.addEventListener('click', () => {
+      this.closeSidebar();
     });
 
     // Tag filter buttons
@@ -248,6 +281,7 @@ class AppController {
       } else if (e.key === 'Escape') {
         document.getElementById('notesModal')?.classList.remove('open');
         document.getElementById('globalSearchModal')?.classList.remove('open');
+        this.closeSidebar();
       }
     });
 
@@ -256,24 +290,29 @@ class AppController {
     searchInput?.addEventListener('input', (e) => {
       this.handleGlobalSearch(e.target.value);
     });
+  }
 
-    // Mobile sidebar toggle
-    const toggleBtn = document.getElementById('btnSidebarToggle');
-    const sidebar = document.getElementById('sidebar');
-    if (window.innerWidth <= 900 && toggleBtn) {
-      toggleBtn.style.display = 'flex';
-      toggleBtn.addEventListener('click', () => {
-        sidebar.classList.toggle('open');
-      });
-    }
+  openSidebar() {
+    document.getElementById('sidebar')?.classList.add('open');
+    document.getElementById('sidebarBackdrop')?.classList.add('active');
+  }
+
+  closeSidebar() {
+    document.getElementById('sidebar')?.classList.remove('open');
+    document.getElementById('sidebarBackdrop')?.classList.remove('active');
   }
 
   switchMode(mode) {
     this.currentMode = mode;
     this.sound.playClick();
 
-    // Update active nav tab
+    // Update active nav tab on desktop
     document.querySelectorAll('.nav-tab-btn').forEach(b => {
+      b.classList.toggle('active', b.dataset.mode === mode);
+    });
+
+    // Update active nav tab on mobile bottom bar
+    document.querySelectorAll('.mobile-tab-btn[data-mode]').forEach(b => {
       b.classList.toggle('active', b.dataset.mode === mode);
     });
 
@@ -314,6 +353,7 @@ class AppController {
   renderDepartmentPills() {
     const container = document.getElementById('deptPillContainer');
     if (!container || !this.curriculum) return;
+    container.innerHTML = '';
 
     const allPill = document.createElement('button');
     allPill.className = `dept-pill ${this.activeDeptFilter === 'ALL' ? 'active' : ''}`;
@@ -341,7 +381,6 @@ class AppController {
     depts.forEach(dept => {
       const pill = document.createElement('button');
       pill.className = `dept-pill ${this.activeDeptFilter === dept ? 'active' : ''}`;
-      // Shorten label for pill display
       const shortName = dept.split('&')[0].trim();
       pill.textContent = shortName;
       pill.onclick = () => {
@@ -369,11 +408,8 @@ class AppController {
       const item = document.createElement('div');
       item.className = `lesson-item ${mc.id === this.currentLessonId ? 'active' : ''}`;
       
-      // Calculate progress
       const answeredInLesson = Object.keys(this.userAnswers).filter(k => k.startsWith(`TM-R-${mc.id.toString().padStart(2, '0')}-`)).length;
       const progressPct = Math.round((answeredInLesson / 42) * 100);
-
-      // Dept badge class
       const deptClass = this.getDeptBadgeClass(mc.department);
 
       item.innerHTML = `
@@ -393,9 +429,7 @@ class AppController {
       item.onclick = () => {
         this.sound.playClick();
         this.loadLesson(mc.id);
-        if (window.innerWidth <= 900) {
-          document.getElementById('sidebar')?.classList.remove('open');
-        }
+        this.closeSidebar();
       };
 
       list.appendChild(item);
@@ -424,6 +458,9 @@ class AppController {
       this.updateBanner();
       this.renderLessonsList();
       this.renderCurrentView();
+
+      // Scroll to top of content smoothly
+      document.getElementById('mainContent')?.scrollTo({ top: 0, behavior: 'smooth' });
     } catch (e) {
       console.error(`Error loading lesson ${lessonId}:`, e);
     }
@@ -438,7 +475,6 @@ class AppController {
     document.getElementById('bannerPages').textContent = d.booklet_pages;
     document.getElementById('bannerTitle').textContent = `${d.id}. ${d.title}`;
     
-    // Stats calculation
     const answeredCount = d.questions.filter(q => {
       const gid = `TM-R-${d.id.toString().padStart(2, '0')}-${q.num.toString().padStart(2, '0')}`;
       return this.userAnswers[gid] !== undefined;
@@ -472,12 +508,10 @@ class AppController {
 
     let questions = this.currentLessonData.questions;
 
-    // Apply tag filter
     if (this.activeTagFilter !== 'ALL') {
       questions = questions.filter(q => q.category.toUpperCase() === this.activeTagFilter);
     }
 
-    // Apply quick search query
     if (this.quickQuery) {
       questions = questions.filter(q => 
         q.text.toLowerCase().includes(this.quickQuery) ||
@@ -487,7 +521,7 @@ class AppController {
 
     if (questions.length === 0) {
       container.innerHTML = `
-        <div style="text-align: center; padding: 3rem; color: var(--text-muted); background: var(--bg-card); border-radius: var(--radius-lg); border: 1px solid var(--border-color);">
+        <div style="text-align: center; padding: 3rem 1.5rem; color: var(--text-muted); background: var(--bg-card); border-radius: var(--radius-lg); border: 1px solid var(--border-color);">
           <span style="font-size: 2.5rem; display: block; margin-bottom: 0.8rem;">🔍</span>
           <h3>No questions matched your filter</h3>
           <p style="font-size: 0.85rem; margin-top: 0.3rem;">Try selecting a different tag or clearing your search term.</p>
@@ -511,7 +545,6 @@ class AppController {
     card.className = 'question-card';
     card.id = `card-${gid}`;
 
-    // Tag badge class
     let tagClass = 'tag-exam';
     if (q.category === 'Core') tagClass = 'tag-core';
     else if (q.category === 'Faculty') tagClass = 'tag-faculty';
@@ -525,7 +558,7 @@ class AppController {
           <span class="q-tag-badge ${tagClass}">${q.tag}</span>
         </div>
         <div class="card-actions">
-          <button class="btn-star ${isBookmarked ? 'active' : ''}" title="Bookmark question">
+          <button class="btn-star ${isBookmarked ? 'active' : ''}" title="Bookmark question" aria-label="Save Question">
             ${isBookmarked ? '★' : '☆'}
           </button>
         </div>
@@ -559,17 +592,15 @@ class AppController {
       </div>
     `;
 
-    // Option click handling
     const optionBtns = card.querySelectorAll('.option-btn');
     optionBtns.forEach(btn => {
       btn.addEventListener('click', () => {
-        if (this.userAnswers[gid]) return; // already answered
+        if (this.userAnswers[gid]) return;
         const chosenKey = btn.dataset.key;
         this.handleAnswerSelection(gid, q, chosenKey, card);
       });
     });
 
-    // Bookmark button
     const starBtn = card.querySelector('.btn-star');
     starBtn?.addEventListener('click', () => {
       this.toggleBookmark(gid);
@@ -591,7 +622,6 @@ class AppController {
       this.sound.playWrong();
     }
 
-    // Update UI option buttons
     const btns = cardElement.querySelectorAll('.option-btn');
     btns.forEach(b => {
       const k = b.dataset.key;
@@ -602,11 +632,9 @@ class AppController {
       }
     });
 
-    // Reveal explanation
     const expBox = cardElement.querySelector('.explanation-box');
     if (expBox) expBox.style.display = 'block';
 
-    // Update banner stats
     this.updateBanner();
     this.renderLessonsList();
   }
@@ -646,7 +674,7 @@ class AppController {
         <table class="notes-table">
           <thead>
             <tr>
-              <th style="width: 32%;">Domain / System</th>
+              <th style="min-width: 140px; width: 32%;">Domain / Topic</th>
               <th>High-Yield Examination Rules & Clinical Landmarks</th>
             </tr>
           </thead>
@@ -670,7 +698,7 @@ class AppController {
     const modal = document.getElementById('globalSearchModal');
     const input = document.getElementById('globalSearchInput');
     modal?.classList.add('open');
-    setTimeout(() => input?.focus(), 100);
+    setTimeout(() => input?.focus(), 120);
   }
 
   handleGlobalSearch(query) {
@@ -679,7 +707,7 @@ class AppController {
     const q = query.toLowerCase().trim();
 
     if (q.length < 2) {
-      resultsContainer.innerHTML = `<p style="color: var(--text-muted); text-align: center; padding: 2rem;">Type at least 2 characters to search across all 43 masterclasses...</p>`;
+      resultsContainer.innerHTML = `<p class="search-placeholder-text">Type at least 2 characters to search across all 43 masterclasses...</p>`;
       return;
     }
 
@@ -690,7 +718,7 @@ class AppController {
     ).slice(0, 30);
 
     if (matches.length === 0) {
-      resultsContainer.innerHTML = `<p style="color: var(--text-muted); text-align: center; padding: 2rem;">No questions found matching "${query}".</p>`;
+      resultsContainer.innerHTML = `<p class="search-placeholder-text">No questions found matching "${query}".</p>`;
       return;
     }
 
@@ -723,7 +751,7 @@ class AppController {
 
     if (this.bookmarks.length === 0) {
       container.innerHTML = `
-        <div style="text-align: center; padding: 4rem; color: var(--text-muted); background: var(--bg-card); border-radius: var(--radius-lg); border: 1px solid var(--border-color);">
+        <div style="text-align: center; padding: 4rem 1.5rem; color: var(--text-muted); background: var(--bg-card); border-radius: var(--radius-lg); border: 1px solid var(--border-color);">
           <span style="font-size: 3rem; display: block; margin-bottom: 1rem;">🔖</span>
           <h3>No Bookmarked Questions Yet</h3>
           <p style="font-size: 0.9rem; margin-top: 0.5rem;">Click the star icon (☆) on any question in Study Mode to pin it here for focused revision.</p>
@@ -732,7 +760,6 @@ class AppController {
       return;
     }
 
-    // Load all flat questions if not cached
     if (!this.allQuestionsCache) {
       const res = await fetch('data/all_questions.json');
       this.allQuestionsCache = await res.json();
@@ -770,36 +797,34 @@ class AppController {
     if (questions.length === 0) return;
 
     const q = questions[this.flashcardIndex];
-    const gid = `TM-R-${this.currentLessonData.id.toString().padStart(2, '0')}-${q.num.toString().padStart(2, '0')}`;
-    const isBookmarked = this.bookmarks.includes(gid);
 
     stage.innerHTML = `
-      <div style="max-width: 650px; margin: 2rem auto; perspective: 1000px;">
+      <div style="max-width: 650px; margin: 1.5rem auto;">
         <div style="display: flex; align-items: center; justify-content: space-between; margin-bottom: 1rem;">
           <span style="font-weight: 700; color: var(--primary);">Card ${this.flashcardIndex + 1} of ${questions.length}</span>
-          <span style="font-size: 0.8rem; color: var(--text-muted);">${q.tag}</span>
+          <span style="font-size: 0.78rem; color: var(--text-muted);">${q.tag}</span>
         </div>
         
-        <div id="flashcardBox" style="background: var(--bg-card); border: 2px solid var(--border-color); border-radius: var(--radius-lg); padding: 2.5rem 2rem; min-height: 320px; display: flex; flex-direction: column; justify-content: center; cursor: pointer; transition: all 0.3s ease; box-shadow: var(--shadow-lg);">
+        <div id="flashcardBox" style="background: var(--bg-card); border: 2px solid var(--border-color); border-radius: var(--radius-xl); padding: 2rem 1.5rem; min-height: 280px; display: flex; flex-direction: column; justify-content: center; cursor: pointer; transition: all 0.3s ease; box-shadow: var(--shadow-lg);">
           ${!this.flashcardFlipped ? `
-            <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-dim); margin-bottom: 0.75rem;">Question Prompt (Click to reveal answer)</div>
-            <div style="font-size: 1.15rem; line-height: 1.6; font-weight: 500;">${q.text}</div>
-            <div style="margin-top: 1.5rem; display: flex; flex-direction: column; gap: 0.4rem;">
+            <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--text-dim); margin-bottom: 0.75rem;">Question Prompt (Click to reveal answer)</div>
+            <div style="font-size: 1.08rem; line-height: 1.55; font-weight: 500;">${q.text}</div>
+            <div style="margin-top: 1.25rem; display: flex; flex-direction: column; gap: 0.4rem;">
               ${['A', 'B', 'C', 'D', 'E'].map(k => q.options[k] ? `<div style="font-size: 0.88rem; color: var(--text-muted);"><strong>[${k}]</strong> ${q.options[k]}</div>` : '').join('')}
             </div>
           ` : `
-            <div style="font-size: 0.8rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--success); margin-bottom: 0.75rem; font-weight: 700;">Correct Answer & Landmark</div>
-            <div style="font-size: 1.35rem; font-weight: 800; color: var(--success); margin-bottom: 0.75rem;">Option [${q.correct_option}]: ${q.options[q.correct_option] || ''}</div>
-            <div style="font-size: 0.92rem; color: var(--text-main); line-height: 1.55; white-space: pre-line; background: var(--bg-surface); padding: 1rem; border-radius: var(--radius-md); border: 1px solid var(--border-color);">${q.explanation}</div>
+            <div style="font-size: 0.75rem; text-transform: uppercase; letter-spacing: 0.05em; color: var(--success); margin-bottom: 0.75rem; font-weight: 700;">Correct Answer & Landmark</div>
+            <div style="font-size: 1.25rem; font-weight: 800; color: var(--success); margin-bottom: 0.75rem;">Option [${q.correct_option}]: ${q.options[q.correct_option] || ''}</div>
+            <div style="font-size: 0.90rem; color: var(--text-main); line-height: 1.55; white-space: pre-line; background: var(--bg-surface); padding: 0.9rem; border-radius: var(--radius-md); border: 1px solid var(--border-color);">${q.explanation}</div>
           `}
         </div>
 
-        <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 1.5rem;">
-          <button class="filter-btn" id="btnPrevCard" ${this.flashcardIndex === 0 ? 'disabled' : ''}>← Previous</button>
-          <button class="filter-btn" id="btnFlipCard" style="background: var(--primary); color: white; border-color: var(--primary);">
+        <div style="display: flex; align-items: center; justify-content: space-between; margin-top: 1.25rem; gap: 0.5rem;">
+          <button class="filter-btn" id="btnPrevCard" ${this.flashcardIndex === 0 ? 'disabled' : ''} style="flex: 1; justify-content: center;">← Previous</button>
+          <button class="filter-btn" id="btnFlipCard" style="flex: 1.5; justify-content: center; background: var(--primary); color: white; border-color: var(--primary); font-weight: 700;">
             ${this.flashcardFlipped ? 'Show Question' : 'Flip Card ↻'}
           </button>
-          <button class="filter-btn" id="btnNextCard" ${this.flashcardIndex === questions.length - 1 ? 'disabled' : ''}>Next →</button>
+          <button class="filter-btn" id="btnNextCard" ${this.flashcardIndex === questions.length - 1 ? 'disabled' : ''} style="flex: 1; justify-content: center;">Next →</button>
         </div>
       </div>
     `;
@@ -842,22 +867,21 @@ class AppController {
 
     stage.innerHTML = `
       <div class="exam-summary-card" style="text-align: left; max-width: 650px;">
-        <h2 style="font-size: 1.5rem; margin-bottom: 0.5rem; color: var(--text-main);">⏱️ Timed Examination Mode</h2>
-        <p style="color: var(--text-muted); font-size: 0.9rem; margin-bottom: 1.5rem;">Simulate real faculty and board testing conditions with countdown timing, neutral radio choices without spoilers, and a full diagnostic breakdown at the end.</p>
+        <h2 style="font-size: 1.4rem; margin-bottom: 0.5rem; color: var(--text-main);">⏱️ Timed Examination Mode</h2>
+        <p style="color: var(--text-muted); font-size: 0.88rem; margin-bottom: 1.4rem;">Simulate real faculty and board testing conditions with countdown timing, neutral radio choices without spoilers, and a full diagnostic breakdown at the end.</p>
         
         <div style="display: flex; flex-direction: column; gap: 1rem; margin-bottom: 1.5rem;">
           <div>
-            <label style="font-size: 0.82rem; font-weight: 700; color: var(--text-dim); text-transform: uppercase;">Examination Scope</label>
-            <select id="examScopeSelect" style="width: 100%; padding: 0.65rem 1rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); background: var(--bg-input); color: var(--text-main); font-size: 0.92rem; margin-top: 0.4rem;">
+            <label style="font-size: 0.80rem; font-weight: 700; color: var(--text-dim); text-transform: uppercase;">Examination Scope</label>
+            <select id="examScopeSelect" style="width: 100%; padding: 0.65rem 0.85rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); background: var(--bg-input); color: var(--text-main); font-size: 0.90rem; margin-top: 0.4rem;">
               <option value="lesson">Current Lesson (${this.currentLessonData.title}) • 42 MCQs</option>
-              <option value="dept">Whole Department (${this.currentLessonData.department})</option>
               <option value="quick10">Quick Sprint (10 Random MCQs)</option>
               <option value="quick25">Standard Mock (25 Random MCQs)</option>
             </select>
           </div>
           <div>
-            <label style="font-size: 0.82rem; font-weight: 700; color: var(--text-dim); text-transform: uppercase;">Time Allowance</label>
-            <select id="examTimeSelect" style="width: 100%; padding: 0.65rem 1rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); background: var(--bg-input); color: var(--text-main); font-size: 0.92rem; margin-top: 0.4rem;">
+            <label style="font-size: 0.80rem; font-weight: 700; color: var(--text-dim); text-transform: uppercase;">Time Allowance</label>
+            <select id="examTimeSelect" style="width: 100%; padding: 0.65rem 0.85rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); background: var(--bg-input); color: var(--text-main); font-size: 0.90rem; margin-top: 0.4rem;">
               <option value="42">1 minute per question (Standard Board Pace)</option>
               <option value="30">Speed Run (45 seconds per question)</option>
               <option value="0">Untimed Practice</option>
@@ -911,12 +935,12 @@ class AppController {
     const selected = this.examState.answers[q.id];
 
     stage.innerHTML = `
-      <div style="max-width: 800px; margin: 1rem auto;">
+      <div style="max-width: 800px; margin: 0.5rem auto;">
         <!-- Exam Header -->
-        <div style="display: flex; align-items: center; justify-content: space-between; background: var(--bg-card); padding: 1rem 1.5rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); margin-bottom: 1.5rem;">
+        <div style="display: flex; align-items: center; justify-content: space-between; background: var(--bg-card); padding: 0.85rem 1.15rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); margin-bottom: 1.25rem;">
           <div>
             <span style="font-weight: 700; color: var(--primary);">Question ${this.examState.currentIndex + 1} of ${this.examState.questions.length}</span>
-            <div style="font-size: 0.75rem; color: var(--text-dim); margin-top: 0.2rem;">Answered: ${Object.keys(this.examState.answers).length}/${this.examState.questions.length}</div>
+            <div style="font-size: 0.72rem; color: var(--text-dim); margin-top: 0.15rem;">Answered: ${Object.keys(this.examState.answers).length}/${this.examState.questions.length}</div>
           </div>
           <button class="filter-btn" id="btnFinishExam" style="background: var(--danger-light); color: var(--danger); border-color: var(--danger-border); font-weight: 700;">
             Submit Exam
@@ -924,7 +948,7 @@ class AppController {
         </div>
 
         <!-- Question Card -->
-        <div class="question-card" style="margin-bottom: 1.5rem;">
+        <div class="question-card" style="margin-bottom: 1.25rem;">
           <div class="q-badge-group">
             <span class="q-num-badge">Q${q.num.toString().padStart(2, '0')}</span>
             <span class="q-tag-badge tag-exam">${q.tag}</span>
@@ -945,21 +969,23 @@ class AppController {
         </div>
 
         <!-- Navigation Buttons -->
-        <div style="display: flex; align-items: center; justify-content: space-between;">
-          <button class="filter-btn" id="btnExamPrev" ${this.examState.currentIndex === 0 ? 'disabled' : ''}>← Previous</button>
-          <div style="display: flex; gap: 0.4rem; overflow-x: auto; max-width: 450px; padding: 0.3rem;" id="examPalette">
+        <div style="display: flex; flex-direction: column; gap: 0.85rem;">
+          <div style="display: flex; align-items: center; justify-content: space-between;">
+            <button class="filter-btn" id="btnExamPrev" ${this.examState.currentIndex === 0 ? 'disabled' : ''}>← Previous</button>
+            <button class="filter-btn" id="btnExamNext" ${this.examState.currentIndex === this.examState.questions.length - 1 ? 'disabled' : ''}>Next →</button>
+          </div>
+          <!-- Palette Grid / Scroll -->
+          <div style="display: flex; gap: 0.35rem; overflow-x: auto; padding: 0.4rem 0.2rem; -webkit-overflow-scrolling: touch;" id="examPalette">
             ${this.examState.questions.map((item, idx) => `
-              <button class="filter-btn" style="min-width: 32px; height: 32px; padding: 0; display: flex; align-items: center; justify-content: center; ${this.examState.answers[item.id] ? 'background: var(--primary-light); color: var(--primary); font-weight: 700;' : ''} ${idx === this.examState.currentIndex ? 'border-color: var(--primary);' : ''}" data-idx="${idx}">
+              <button class="filter-btn" style="min-width: 34px; height: 34px; padding: 0; display: flex; align-items: center; justify-content: center; flex-shrink: 0; ${this.examState.answers[item.id] ? 'background: var(--primary-light); color: var(--primary); font-weight: 700;' : ''} ${idx === this.examState.currentIndex ? 'border-color: var(--primary);' : ''}" data-idx="${idx}">
                 ${idx + 1}
               </button>
             `).join('')}
           </div>
-          <button class="filter-btn" id="btnExamNext" ${this.examState.currentIndex === this.examState.questions.length - 1 ? 'disabled' : ''}>Next →</button>
         </div>
       </div>
     `;
 
-    // Option pick handler
     stage.querySelectorAll('.option-btn').forEach(btn => {
       btn.addEventListener('click', () => {
         const opt = btn.dataset.opt;
@@ -969,7 +995,6 @@ class AppController {
       });
     });
 
-    // Palette jump
     stage.querySelectorAll('#examPalette button').forEach(btn => {
       btn.addEventListener('click', () => {
         this.examState.currentIndex = parseInt(btn.dataset.idx);
@@ -1023,33 +1048,33 @@ class AppController {
 
     stage.innerHTML = `
       <div class="exam-summary-card">
-        <h2 style="font-size: 1.6rem; color: var(--text-main);">Exam Performance Report</h2>
-        <p style="color: var(--text-muted); font-size: 0.88rem; margin-top: 0.3rem;">Standard Faculty Diagnostic Evaluation</p>
+        <h2 style="font-size: 1.5rem; color: var(--text-main);">Exam Performance Report</h2>
+        <p style="color: var(--text-muted); font-size: 0.85rem; margin-top: 0.3rem;">Standard Faculty Diagnostic Evaluation</p>
         
         <div class="score-circle" style="--percent: ${pct};">
           <span class="score-text">${pct}%</span>
         </div>
 
-        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 1rem; margin: 1.5rem 0;">
-          <div style="background: var(--success-light); padding: 0.85rem; border-radius: var(--radius-md); border: 1px solid var(--success-border);">
-            <div style="font-size: 1.4rem; font-weight: 800; color: var(--success);">${correct}</div>
-            <div style="font-size: 0.75rem; color: var(--text-main); font-weight: 600;">Correct</div>
+        <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.75rem; margin: 1.25rem 0;">
+          <div style="background: var(--success-light); padding: 0.75rem; border-radius: var(--radius-md); border: 1px solid var(--success-border);">
+            <div style="font-size: 1.35rem; font-weight: 800; color: var(--success);">${correct}</div>
+            <div style="font-size: 0.72rem; color: var(--text-main); font-weight: 600;">Correct</div>
           </div>
-          <div style="background: var(--danger-light); padding: 0.85rem; border-radius: var(--radius-md); border: 1px solid var(--danger-border);">
-            <div style="font-size: 1.4rem; font-weight: 800; color: var(--danger);">${incorrect}</div>
-            <div style="font-size: 0.75rem; color: var(--text-main); font-weight: 600;">Incorrect</div>
+          <div style="background: var(--danger-light); padding: 0.75rem; border-radius: var(--radius-md); border: 1px solid var(--danger-border);">
+            <div style="font-size: 1.35rem; font-weight: 800; color: var(--danger);">${incorrect}</div>
+            <div style="font-size: 0.72rem; color: var(--text-main); font-weight: 600;">Incorrect</div>
           </div>
-          <div style="background: var(--bg-surface-elevated); padding: 0.85rem; border-radius: var(--radius-md); border: 1px solid var(--border-color);">
-            <div style="font-size: 1.4rem; font-weight: 800; color: var(--text-dim);">${unanswered}</div>
-            <div style="font-size: 0.75rem; color: var(--text-muted); font-weight: 600;">Skipped</div>
+          <div style="background: var(--bg-surface-elevated); padding: 0.75rem; border-radius: var(--radius-md); border: 1px solid var(--border-color);">
+            <div style="font-size: 1.35rem; font-weight: 800; color: var(--text-dim);">${unanswered}</div>
+            <div style="font-size: 0.72rem; color: var(--text-muted); font-weight: 600;">Skipped</div>
           </div>
         </div>
 
-        <div style="display: flex; gap: 0.8rem; justify-content: center;">
-          <button class="nav-tab-btn active" id="btnRetakeExam" style="border-radius: var(--radius-md); padding: 0.6rem 1.2rem;">
+        <div style="display: flex; gap: 0.6rem; justify-content: center; flex-wrap: wrap;">
+          <button class="nav-tab-btn active" id="btnRetakeExam" style="border-radius: var(--radius-md); padding: 0.6rem 1.1rem;">
             Retake Exam
           </button>
-          <button class="filter-btn" id="btnBackToStudy" style="border-radius: var(--radius-md); padding: 0.6rem 1.2rem;">
+          <button class="filter-btn" id="btnBackToStudy" style="border-radius: var(--radius-md); padding: 0.6rem 1.1rem;">
             Back to Study Mode
           </button>
         </div>

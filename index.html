@@ -2,29 +2,43 @@
 <html lang="en" data-theme="dark">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
   <title>Twisted Medicine • Renal System MCQ Bank (1806 Questions)</title>
   <link rel="stylesheet" href="styles.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🩺</text></svg>">
+  <meta name="theme-color" content="#0f172a">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
 </head>
 <body>
 
   <!-- Top Navbar -->
   <header class="navbar">
-    <div class="brand-wrapper" id="btnHome">
-      <div class="brand-icon">
-        <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
-          <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>
+    <div class="navbar-left">
+      <!-- Sidebar Toggle (Visible on Mobile & Tablet) -->
+      <button class="nav-icon-btn mobile-menu-btn" id="btnSidebarToggle" title="Open Lessons Menu" aria-label="Open Curriculum">
+        <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+          <line x1="3" y1="12" x2="21" y2="12"></line>
+          <line x1="3" y1="6" x2="21" y2="6"></line>
+          <line x1="3" y1="18" x2="21" y2="18"></line>
         </svg>
-      </div>
-      <div class="brand-text">
-        <h1>Twisted Medicine</h1>
-        <span>Renal System Master MCQ Bank • 1,806 Questions</span>
+      </button>
+
+      <div class="brand-wrapper" id="btnHome">
+        <div class="brand-icon">
+          <svg width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>
+          </svg>
+        </div>
+        <div class="brand-text">
+          <h1>Twisted Medicine</h1>
+          <span>Renal Module Bank • 1,806 MCQs</span>
+        </div>
       </div>
     </div>
 
-    <!-- Navigation Tabs / Mode Selector -->
-    <nav class="nav-center">
+    <!-- Navigation Tabs / Mode Selector (Desktop / Laptop View) -->
+    <nav class="nav-center desktop-nav">
       <button class="nav-tab-btn active" data-mode="study" id="tabStudy">
         <span>🎓</span> Study
       </button>
@@ -45,29 +59,27 @@
     <!-- Navigation Right Actions -->
     <div class="nav-actions">
       <!-- Search Input Shortcut -->
-      <button class="nav-icon-btn" id="btnGlobalSearch" title="Search all 1806 MCQs (Ctrl+K)">
-        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+      <button class="nav-icon-btn" id="btnGlobalSearch" title="Search all 1806 MCQs (Ctrl+K)" aria-label="Search">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round">
           <circle cx="11" cy="11" r="8"></circle>
           <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
         </svg>
       </button>
 
       <!-- Sound Toggle -->
-      <button class="nav-icon-btn" id="btnSoundToggle" title="Toggle Sound Effects">
+      <button class="nav-icon-btn" id="btnSoundToggle" title="Toggle Sound Effects" aria-label="Toggle Sound">
         <span id="soundIcon">🔊</span>
       </button>
 
       <!-- Theme Toggle (Dark / Light) -->
-      <button class="nav-icon-btn" id="btnThemeToggle" title="Toggle Theme (Dark / Light)">
+      <button class="nav-icon-btn" id="btnThemeToggle" title="Toggle Theme" aria-label="Toggle Theme">
         <span id="themeIcon">🌙</span>
-      </button>
-
-      <!-- Sidebar Toggle for Mobile -->
-      <button class="nav-icon-btn" id="btnSidebarToggle" title="Toggle Lessons Menu" style="display: none;">
-        <span>☰</span>
       </button>
     </div>
   </header>
+
+  <!-- Mobile Backdrop Overlay for Sidebar -->
+  <div class="sidebar-backdrop" id="sidebarBackdrop"></div>
 
   <!-- App Layout Container -->
   <div class="app-container">
@@ -76,8 +88,12 @@
     <aside class="sidebar" id="sidebar">
       <div class="sidebar-header">
         <div class="sidebar-title">
-          <h2>Curriculum Explorer</h2>
-          <span style="font-size: 0.75rem; color: var(--primary); font-weight: 700;">43 Classes</span>
+          <div style="display: flex; align-items: center; gap: 0.5rem;">
+            <h2>Curriculum</h2>
+            <span class="curriculum-badge">43 Classes</span>
+          </div>
+          <!-- Close button for mobile -->
+          <button class="sidebar-close-btn" id="btnCloseSidebar" aria-label="Close menu">✕</button>
         </div>
         <!-- Department Filter Pills -->
         <div class="dept-pill-select" id="deptPillContainer">
@@ -100,7 +116,7 @@
           <div class="banner-meta">
             <div class="banner-badge-group">
               <span class="lesson-dept-badge dept-anatomy" id="bannerDept">Anatomy & Embryology</span>
-              <span style="font-size: 0.75rem; color: var(--text-dim);" id="bannerPages">Booklet Pages 1 - 4</span>
+              <span class="banner-pages-pill" id="bannerPages">Booklet Pages 1 - 4</span>
             </div>
             <h2 class="banner-title" id="bannerTitle">1. Kidney - Anatomy Lecture</h2>
             <p class="banner-subtitle" id="bannerSubtitle">Standard Board & End-Module Practice Bank • 42 High-Yield Exam MCQs</p>
@@ -110,11 +126,11 @@
               <span class="stat-val" id="statCompleted">0/42</span>
               <span class="stat-lbl">Solved</span>
             </div>
-            <div class="stat-item" style="border-left: 1px solid var(--border-color); padding-left: 1rem;">
+            <div class="stat-item stat-border">
               <span class="stat-val" id="statAccuracy">0%</span>
               <span class="stat-lbl">Accuracy</span>
             </div>
-            <button class="filter-btn" id="btnViewLessonNotes" style="margin-left: 0.5rem; background: var(--primary-light); color: var(--primary); border-color: var(--primary-border);">
+            <button class="banner-pearls-btn" id="btnViewLessonNotes">
               <span>⭐️ High-Yield Pearls</span>
             </button>
           </div>
@@ -123,13 +139,13 @@
 
       <!-- Filter & Search Toolbar -->
       <div class="filter-bar">
-        <div class="filter-pills" id="tagFilters">
+        <div class="filter-pills-scroll" id="tagFilters">
           <button class="filter-btn active" data-tag="ALL">All MCQs</button>
           <button class="filter-btn" data-tag="CORE">⭐️ Core Exam</button>
-          <button class="filter-btn" data-tag="EXAM">📅 2019-2025 Exam</button>
-          <button class="filter-btn" data-tag="FACULTY">🏛️ Faculty Exam</button>
-          <button class="filter-btn" data-tag="CLINICAL">🩺 Clinical Vignette</button>
-          <button class="filter-btn" data-tag="PRACTICAL">🔬 Practical MCQ</button>
+          <button class="filter-btn" data-tag="EXAM">📅 Past Exams</button>
+          <button class="filter-btn" data-tag="FACULTY">🏛️ Faculty</button>
+          <button class="filter-btn" data-tag="CLINICAL">🩺 Clinical</button>
+          <button class="filter-btn" data-tag="PRACTICAL">🔬 Practical</button>
         </div>
 
         <div class="search-box-wrap">
@@ -156,6 +172,34 @@
     </main>
   </div>
 
+  <!-- Mobile Bottom Navigation Bar (Visible on mobile/tablet screens <= 768px) -->
+  <nav class="mobile-bottom-bar" id="mobileBottomBar">
+    <button class="mobile-tab-btn active" data-mode="study">
+      <span class="tab-icon">🎓</span>
+      <span class="tab-label">Study</span>
+    </button>
+    <button class="mobile-tab-btn" data-mode="exam">
+      <span class="tab-icon">⏱️</span>
+      <span class="tab-label">Exam</span>
+    </button>
+    <button class="mobile-tab-btn" data-mode="flashcards">
+      <span class="tab-icon">⚡</span>
+      <span class="tab-label">Flashcards</span>
+    </button>
+    <button class="mobile-tab-btn" data-mode="notes">
+      <span class="tab-icon">⭐️</span>
+      <span class="tab-label">Tables</span>
+    </button>
+    <button class="mobile-tab-btn" data-mode="bookmarks">
+      <span class="tab-icon">🔖</span>
+      <span class="tab-label">Saved</span>
+    </button>
+    <button class="mobile-tab-btn" id="mobileBtnMenu">
+      <span class="tab-icon">📚</span>
+      <span class="tab-label">Lessons</span>
+    </button>
+  </nav>
+
   <!-- Note ⭐️ & Comparison Tables Modal -->
   <div class="notes-modal-overlay" id="notesModal">
     <div class="notes-modal-content">
@@ -164,7 +208,7 @@
           <h3 id="notesModalTitle">TWISTED MEDICINE HIGH-YIELD MATRIX</h3>
           <span id="notesModalSubtitle">Comparative Matrix & Board Examination Landmarks</span>
         </div>
-        <button class="nav-icon-btn" id="btnCloseNotesModal" style="border: none; background: transparent; font-size: 1.25rem;">✕</button>
+        <button class="nav-icon-btn modal-close-btn" id="btnCloseNotesModal">✕</button>
       </div>
       <div class="notes-modal-body" id="notesModalBody">
         <!-- Injected via JavaScript -->
@@ -174,15 +218,16 @@
 
   <!-- Global Search Modal -->
   <div class="notes-modal-overlay" id="globalSearchModal">
-    <div class="notes-modal-content" style="max-width: 750px;">
-      <div class="notes-modal-header">
-        <div class="notes-modal-title" style="flex: 1;">
-          <input type="text" id="globalSearchInput" placeholder="Search 1,806 MCQs by keyword, disease, drug, anatomy..." style="width: 100%; padding: 0.6rem 1rem; border-radius: var(--radius-md); border: 1px solid var(--border-color); background: var(--bg-input); color: var(--text-main); font-size: 1rem; outline: none;">
+    <div class="notes-modal-content global-search-dialog">
+      <div class="notes-modal-header search-dialog-header">
+        <div class="search-input-wrapper">
+          <span class="search-modal-icon">🔍</span>
+          <input type="text" id="globalSearchInput" placeholder="Search 1,806 MCQs by keyword, disease, drug, anatomy..." autocomplete="off">
         </div>
-        <button class="nav-icon-btn" id="btnCloseSearchModal" style="margin-left: 1rem; border: none; background: transparent; font-size: 1.25rem;">✕</button>
+        <button class="nav-icon-btn modal-close-btn" id="btnCloseSearchModal">✕</button>
       </div>
-      <div class="notes-modal-body" id="globalSearchResults" style="max-height: 60vh;">
-        <p style="color: var(--text-muted); text-align: center; padding: 2rem;">Type at least 2 characters to search across all 43 masterclasses...</p>
+      <div class="notes-modal-body search-results-scroll" id="globalSearchResults">
+        <p class="search-placeholder-text">Type at least 2 characters to search across all 43 masterclasses...</p>
       </div>
     </div>
   </div>
