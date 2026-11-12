@@ -1,0 +1,997 @@
+{
+  "items" : [
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.974583333282794,
+      "w" : 0.42669173130279475,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 27 MCQ Masterclass",
+      "x" : 0.2509398567355887
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.9593023256540698,
+      "w" : 0.567669164354556,
+      "conf" : 1,
+      "text" : "Twisted Medicine Medical Series • Uropathogens, Virulence, Diagnostic Bacteriology & Culture • Standard Practice Bank",
+      "x" : 0.3233082777725562
+    },
+    {
+      "h" : 0.01049586190117724,
+      "y" : 0.9745639533623771,
+      "w" : 0.06399427533235424,
+      "conf" : 1,
+      "text" : "Page 2 of 4",
+      "x" : 0.9285714283354005
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.9368055557579178,
+      "w" : 0.41729323869125173,
+      "conf" : 1,
+      "text" : "Q15. [2025 Exam] Which diagnostic biochemical reaction rapidly",
+      "x" : 0.26127820070488705
+    },
+    {
+      "h" : 0.01173772546980123,
+      "y" : 0.9230200260291028,
+      "w" : 0.41729323869125184,
+      "conf" : 1,
+      "text" : "differentiates Pseudomonas aeruginosa from all members of the",
+      "x" : 0.2612782024436088
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.9091569766170058,
+      "w" : 0.17857142543724164,
+      "conf" : 1,
+      "text" : "Enterobacteriaceae family?",
+      "x" : 0.14191729518327062
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.8945833331710658,
+      "w" : 0.09774435826294031,
+      "conf" : 1,
+      "text" : "[A] Catalase test",
+      "x" : 0.09962406177944855
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.8815277779638522,
+      "w" : 0.35902254500893016,
+      "conf" : 1,
+      "text" : "[B] Cytochrome Oxidase test (Pseudomonas is Oxidase Positive;",
+      "x" : 0.23026315191102775
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.8698611110137939,
+      "w" : 0.23496240304580784,
+      "conf" : 1,
+      "text" : "Enterobacteriaceae are Oxidase Negative)",
+      "x" : 0.17011277960526316
+    },
+    {
+      "h" : 0.008888889153798485,
+      "y" : 0.8561111111868658,
+      "w" : 0.10526315674003639,
+      "conf" : 1,
+      "text" : "[C] Coagulase test",
+      "x" : 0.10526315921052629
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.8437499999273256,
+      "w" : 0.10338345163593526,
+      "conf" : 1,
+      "text" : "[D] Methyl red test",
+      "x" : 0.10432330654761912
+    },
+    {
+      "h" : 0.00874676995807222,
+      "y" : 0.8299289405025345,
+      "w" : 0.11842104859012738,
+      "conf" : 1,
+      "text" : "[E] Bile solubility test",
+      "x" : 0.1099624074953007
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.9368055557760864,
+      "w" : 0.44736838872101903,
+      "conf" : 1,
+      "text" : "Q22. [2023 Exam] CLED (Cystine-Lactose-Electrolyte-Deficient) Agar",
+      "x" : 0.7255639172305761
+    },
+    {
+      "h" : 0.011737725469801119,
+      "y" : 0.923020026004878,
+      "w" : 0.3966165373944105,
+      "conf" : 1,
+      "text" : "is widely utilized in diagnostic urine bacteriology because its",
+      "x" : 0.7020676741306389
+    },
+    {
+      "h" : 0.01176356527540423,
+      "y" : 0.9099515505830671,
+      "w" : 0.22744360456871182,
+      "conf" : 1,
+      "text" : "electrolyte deficiency specifically:",
+      "x" : 0.6193609060463657
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.894583333525255,
+      "w" : 0.25,
+      "conf" : 1,
+      "text" : "[A] Kills all normal urethral skin flora instantly",
+      "x" : 0.6287593953712407
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.8815277775793819,
+      "w" : 0.38157894044021845,
+      "conf" : 1,
+      "text" : "[B] Selectively accelerates the growth of Mycobacterium tuberculosis",
+      "x" : 0.6945488785401002
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.8684722220179791,
+      "w" : 0.43421050784058246,
+      "conf" : 1,
+      "text" : "[C] Prevents the 'Swarming' growth of Protes species, permitting clear colony",
+      "x" : 0.7208646670817669
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.8561111110528478,
+      "w" : 0.25375938826889377,
+      "conf" : 1,
+      "text" : "counting and isolation of mixed uropathogens",
+      "x" : 0.632518794329574
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.843750000090843,
+      "w" : 0.29887217913147013,
+      "conf" : 1,
+      "text" : "[D] Enhances beta-hemolysis of Group A streptococci",
+      "x" : 0.6531954924577067
+    },
+    {
+      "h" : 0.00874676995807222,
+      "y" : 0.8299289405267591,
+      "w" : 0.27819547783462883,
+      "conf" : 1,
+      "text" : "[E) Converts Gram-negative bacteria into L-torms",
+      "x" : 0.6428571474937341
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.8073611111773114,
+      "w" : 0.817669164354556,
+      "conf" : 1,
+      "text" : "Q16. [2024 Exam] Pseudomonas aeruginosa produces characteristic Q23. [2021 Exam] Serratia marcescens, an opportunistic",
+      "x" : 0.46146617563439823
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.7943055554705598,
+      "w" : 0.4379698961094761,
+      "conf" : 1,
+      "text" : "water-soluble pigments on nutrient agar. Which pigment imparts its",
+      "x" : 0.2697368348057647
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.7943055554705598,
+      "w" : 0.36842105955978166,
+      "conf" : 1,
+      "text" : "uropathogen, produces which colonial hallmark at room",
+      "x" : 0.6842105201754388
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.7812500000726744,
+      "w" : 0.16729322772159755,
+      "conf" : 1,
+      "text" : "classic bluish-green hue?",
+      "x" : 0.1362781971616541
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7812499999273255,
+      "w" : 0.09022555978584423,
+      "conf" : 1,
+      "text" : "temperature?",
+      "x" : 0.5488721789473685
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7652616279796511,
+      "w" : 0.1635338284830495,
+      "conf" : 1,
+      "text" : "[A] Prodigiosin (magenta red)",
+      "x" : 0.13439849896616532
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.7659883720445737,
+      "w" : 0.17481202619869363,
+      "conf" : 1,
+      "text" : "[A] Colorless, pinpoint colonies",
+      "x" : 0.5911654106203008
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7521802324854652,
+      "w" : 0.4078947460797088,
+      "conf" : 1,
+      "text" : "[B] Pyocyanin (blue) combined with Pyoverdine (fluorescent yellow-green)",
+      "x" : 0.25469924404135347
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.752180232630814,
+      "w" : 0.34962405239738736,
+      "conf" : 1,
+      "text" : "[B] Golden-yellow colonies surrounded by clear beta-hemolysis",
+      "x" : 0.6785714320676692
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.7398255813226744,
+      "w" : 0.12030075369422852,
+      "conf" : 1,
+      "text" : "[C] Violacein (purple)",
+      "x" : 0.10902255488721807
+    },
+    {
+      "h" : 0.010297157499525311,
+      "y" : 0.7390374678280656,
+      "w" : 0.3270676569660991,
+      "conf" : 1,
+      "text" : "[C] Bright red\/magenta non-diffusible pigment (Prodigiosin)",
+      "x" : 0.6672932371710525
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.725972222163541,
+      "w" : 0.10714285087448329,
+      "conf" : 1,
+      "text" : "[D] Melanin (black)",
+      "x" : 0.10432330999373429
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.7259722224239576,
+      "w" : 0.24624058979179764,
+      "conf" : 1,
+      "text" : "[D] Diffuse bluish-green fluorescent pigment",
+      "x" : 0.6268797023261278
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.7129166667353747,
+      "w" : 0.2612781867459898,
+      "conf" : 1,
+      "text" : "[E] Carotenoid staphyloxanthin (golden yellow)",
+      "x" : 0.17951127492951133
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.7129166666203067,
+      "w" : 0.2293232987031587,
+      "conf" : 1,
+      "text" : "[E] Jet-black colonies with metallic sheen",
+      "x" : 0.6184210493734337
+    },
+    {
+      "h" : 0.011757106251186755,
+      "y" : 0.67884366922331,
+      "w" : 0.4003759256633043,
+      "conf" : 1,
+      "text" : "Q17. [2023 Exam] What is the primary mechanism of action of",
+      "x" : 0.2528195448684211
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.6649709303052327,
+      "w" : 0.36278195521713247,
+      "conf" : 1,
+      "text" : "Exotoxin A, the major lethal virulence factor secreted by",
+      "x" : 0.2340225600187969
+    },
+    {
+      "h" : 0.010310077667236461,
+      "y" : 0.6518217052672236,
+      "w" : 0.17857142543724164,
+      "conf" : 1,
+      "text" : "Pseudomonas aeruginosa?",
+      "x" : 0.1419172917449875
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.6373611108864007,
+      "w" : 0.23684209718025473,
+      "conf" : 1,
+      "text" : "[A] Pore formation in host cell lipid bilayers",
+      "x" : 0.16917293377192977
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.6243055556307376,
+      "w" : 0.3947368213206551,
+      "conf" : 1,
+      "text" : "[B] ADP-ribosylation of Elongation Factor 2 (EF-2), completely arresting",
+      "x" : 0.24812029417293252
+    },
+    {
+      "h" : 0.01028423786163335,
+      "y" : 0.6112467699486765,
+      "w" : 0.15413533587150657,
+      "conf" : 1,
+      "text" : "eukaryotic protein synthesis",
+      "x" : 0.12969924774436092
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.5995833331374452,
+      "w" : 0.38721804478286753,
+      "conf" : 1,
+      "text" : "[C] Cleavage of SNARE proteins blocking neurotransmitter exocytosis",
+      "x" : 0.24436089580200518
+    },
+    {
+      "h" : 0.00872738997141509,
+      "y" : 0.585752583984235,
+      "w" : 0.3966165373944105,
+      "conf" : 1,
+      "text" : "[D] Hyperactivation of adenylate cyclase via Gs alpha subunit activation",
+      "x" : 0.2490601553336465
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.5719476745094476,
+      "w" : 0.24248120152290395,
+      "conf" : 1,
+      "text" : "[E] Hydrolysis of membrane sphingomyelin",
+      "x" : 0.1719924842340225
+    },
+    {
+      "h" : 0.011757105721367789,
+      "y" : 0.6788436694736846,
+      "w" : 0.4172932386912517,
+      "conf" : 1,
+      "text" : "Q24. [2025 Exam] Extended-Spectrum Beta-Lactamases (ESBLs)",
+      "x" : 0.7142857090695489
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.664970930141715,
+      "w" : 0.40037592566330416,
+      "conf" : 1,
+      "text" : "produced by multi-drug resistant E. coli and Klebsiella strains",
+      "x" : 0.7058270626644738
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.6526162791424419,
+      "w" : 0.13721804478286748,
+      "conf" : 1,
+      "text" : "confer resistance to:",
+      "x" : 0.5742481220159774
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.637361111301152,
+      "w" : 0.1898496121832315,
+      "conf" : 1,
+      "text" : "[A] Vancomycin and linezolid only",
+      "x" : 0.5986842128994361
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.6243055556307376,
+      "w" : 0.26691729108863893,
+      "conf" : 1,
+      "text" : "[B] Aminoglycosides and macrolides exclusively",
+      "x" : 0.6372180424436091
+    },
+    {
+      "h" : 0.01028423786163335,
+      "y" : 0.6112467701424749,
+      "w" : 0.41165413434860265,
+      "conf" : 1,
+      "text" : "[C] Penicillins, 1st\/2nd\/3rd\/4th generation Cephalosporins, and Aztreonam",
+      "x" : 0.7095864730263156
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.5995833332646254,
+      "w" : 0.26503759695419216,
+      "conf" : 1,
+      "text" : "(hydrolyzed by ESBLs; inhibited by clavulanate)",
+      "x" : 0.6381578980498119
+    },
+    {
+      "h" : 0.008727390236324739,
+      "y" : 0.585752583876005,
+      "w" : 0.1879699180487846,
+      "conf" : 1,
+      "text" : "[D] Polymyxin B and Colistin only",
+      "x" : 0.5977443640350876
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.571947674249031,
+      "w" : 0.21052631348007278,
+      "conf" : 1,
+      "text" : "[E] Metronidazole and Tinidazole only",
+      "x" : 0.6090225598370925
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.5501388888441968,
+      "w" : 0.40037592566330427,
+      "conf" : 1,
+      "text" : "Q18. [2022 Exam] What microbiological properties definitively",
+      "x" : 0.2528195538768796
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.5370833331556137,
+      "w" : 0.3909774330517613,
+      "conf" : 1,
+      "text" : "identify Staphylococcus saprophyticus, the classic cause of",
+      "x" : 0.2462405966165415
+    },
+    {
+      "h" : 0.011724805831909157,
+      "y" : 0.5233042637876761,
+      "w" : 0.1484962315288574,
+      "conf" : 1,
+      "text" : "'Honeymoon Cystitis'?",
+      "x" : 0.12499999752506277
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.5079295866051785,
+      "w" : 0.257518798477096,
+      "conf" : 1,
+      "text" : "[A] Gram-negative rod, oxidase positive, motile",
+      "x" : 0.18139098001879692
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.494861111013794,
+      "w" : 0.3721804478286754,
+      "conf" : 1,
+      "text" : "[B] Gram-positive cocci in clusters, Catalase (+), Coagulase (-), and",
+      "x" : 0.23872180078947372
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.48401162797965114,
+      "w" : 0.15413533587150655,
+      "conf" : 1,
+      "text" : "NOVOBIOCIN RESISTANT",
+      "x" : 0.12969925004699243
+    },
+    {
+      "h" : 0.010290697415669792,
+      "y" : 0.47014534885109793,
+      "w" : 0.36654134348602624,
+      "conf" : 1,
+      "text" : "[C] Gram-positive cocci in pairs, Catalase (-), Novobiocin sensitive",
+      "x" : 0.2340225518092106
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.45708333350708635,
+      "w" : 0.3289473511005459,
+      "conf" : 1,
+      "text" : "[D] Gram-positive spore-forming bacillus, strictly anaerobic",
+      "x" : 0.2152255584273185
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.444027777579382,
+      "w" : 0.31390975414635375,
+      "conf" : 1,
+      "text" : "[E] Acid-fast coccobacillus staining red on Ziehl-Neelsen",
+      "x" : 0.2077067721491226
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.5501388888078597,
+      "w" : 0.4154135226174964,
+      "conf" : 1,
+      "text" : "Q25. [Faculty Exam] What is the drug class of choice for treating",
+      "x" : 0.7152255691024435
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.5370833332646254,
+      "w" : 0.42293229915528396,
+      "conf" : 1,
+      "text" : "severe, invasive urosepsis caused by confirmed ESBL-producing",
+      "x" : 0.7171052684445487
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.5239825583091084,
+      "w" : 0.1353383396787664,
+      "conf" : 0.5,
+      "text" : "Enterobacteriaceae?",
+      "x" : 0.5733082726817041
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.5079295864598297,
+      "w" : 0.2706766793575327,
+      "conf" : 1,
+      "text" : "[A] First-generation cephalosporins (Cephalexin)",
+      "x" : 0.6390977398496243
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.4948611111591428,
+      "w" : 0.18421052977989083,
+      "conf" : 1,
+      "text" : "[B] Oral Amoxicillin monotherapy",
+      "x" : 0.5958646634962406
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.4818055554705598,
+      "w" : 0.3233082686972052,
+      "conf" : 1,
+      "text" : "[C] Carbapenems (e.g., Meropenem, Imipenem-Cilastatin)",
+      "x" : 0.6654135306015039
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.46875000009084306,
+      "w" : 0.17481202619869363,
+      "conf" : 1,
+      "text" : "[D] Tetracyclines (Doxycycline)",
+      "x" : 0.591165415718985
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.4556944445294402,
+      "w" : 0.1672932277215976,
+      "conf" : 1,
+      "text" : "[E] Macrolides (Erythromycin)",
+      "x" : 0.5874060167105262
+    },
+    {
+      "h" : 0.011627906163533486,
+      "y" : 0.4215116279796512,
+      "w" : 0.42669173130279475,
+      "conf" : 1,
+      "text" : "Q19. [2021 Exam] Isolation of Staphylococcus aureus from a urine",
+      "x" : 0.2659774489426691
+    },
+    {
+      "h" : 0.010290697945488758,
+      "y" : 0.40764534874970576,
+      "w" : 0.43796989610947606,
+      "conf" : 1,
+      "text" : "culture without previous catheterization or instrumentation strongly",
+      "x" : 0.27161654573308264
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.39389534877906984,
+      "w" : 0.0676691698393832,
+      "conf" : 1,
+      "text" : "suggests:",
+      "x" : 0.08646616473684213
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.38013888896803744,
+      "w" : 0.22744360456871182,
+      "conf" : 1,
+      "text" : "[A] Uncomplicated acute bacterial cystitis",
+      "x" : 0.16635338630169166
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.36707041352200176,
+      "w" : 0.3120300600119069,
+      "conf" : 1,
+      "text" : "[B] Normal resident contamination from the perineal skin",
+      "x" : 0.20676692119360893
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.35247093025678294,
+      "w" : 0.44172932825698685,
+      "conf" : 1,
+      "text" : "[C] Hematogenous bacteremic seeding from a distant focus (e.g., endocarditis,",
+      "x" : 0.26973684946741827
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.34084302337693795,
+      "w" : 0.1898496121832315,
+      "conf" : 1,
+      "text" : "forming renal cortical abscesses",
+      "x" : 0.1437969956453633
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.32776162796148256,
+      "w" : 0.34398494805473806,
+      "conf" : 1,
+      "text" : "[D] Immediate indication for emergency kidney transplantation",
+      "x" : 0.22274436520206756
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.3146802326489824,
+      "w" : 0.34022555978584423,
+      "conf" : 1,
+      "text" : "[E] Chronic asymptomatic carrier state requiring no treatment",
+      "x" : 0.22086466590695475
+    },
+    {
+      "h" : 0.011627906163533486,
+      "y" : 0.42151162783430235,
+      "w" : 0.4172932386912517,
+      "conf" : 1,
+      "text" : "Q26. [2022 Exam] Asymptomatic Bacteriuria (ASB) is common in",
+      "x" : 0.7142857090695489
+    },
+    {
+      "h" : 0.010290697415669792,
+      "y" : 0.4076453489177162,
+      "w" : 0.38345861263535663,
+      "conf" : 1,
+      "text" : "clinical practice. In which of the following patient groups is",
+      "x" : 0.6954887154135341
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.3945833331407847,
+      "w" : 0.3834586565139737,
+      "conf" : 1,
+      "text" : "screening and antibiotic treatment STRICTLY MANDATED?",
+      "x" : 0.6973684258458646
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.3793604650678294,
+      "w" : 0.2744360895657352,
+      "conf" : 1,
+      "text" : "[A] Healthy non-pregnant premenopausal women",
+      "x" : 0.640977439035088
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.36627906969476753,
+      "w" : 0.31578947022010917,
+      "conf" : 1,
+      "text" : "[B] Elderly nursing home residents with chronic catheters",
+      "x" : 0.6616541313909775
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.35247093010537783,
+      "w" : 0.43421050784058235,
+      "conf" : 1,
+      "text" : "[C] Pregnant females, patients undergoing urological procedures with mucosal",
+      "x" : 0.7189849623355262
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.3408430233466571,
+      "w" : 0.25375938826889377,
+      "conf" : 1,
+      "text" : "bleeding, and early renal transplant recipients",
+      "x" : 0.6325188001644736
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.32776162802810077,
+      "w" : 0.3026315674003639,
+      "conf" : 1,
+      "text" : "[D] Healthy adult males before routine physical exams",
+      "x" : 0.6550751930137843
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.314680232630814,
+      "w" : 0.31578947022010917,
+      "conf" : 1,
+      "text" : "[E] Postmenopausal women with controlled hypertension",
+      "x" : 0.6616541384962406
+    },
+    {
+      "h" : 0.011718346277872715,
+      "y" : 0.2921963826540688,
+      "w" : 0.8947367774420381,
+      "conf" : 1,
+      "text" : "Q20. [2020 Exam] Enterococcus faecalis (Group D Streptococcus) is Q27. [Core Exam] A UTI is clinically classified as 'Complicated' when",
+      "x" : 0.499999995300752
+    },
+    {
+      "h" : 0.011744186083475716,
+      "y" : 0.27912790695922174,
+      "w" : 0.8101503878167685,
+      "conf" : 1,
+      "text" : "an important hospital-acquired uropathogen. What laboratory profile which of the following factors is present in the patient?",
+      "x" : 0.45770677501879686
+    },
+    {
+      "h" : 0.011627906163533486,
+      "y" : 0.26598837228682165,
+      "w" : 0.1635338284830495,
+      "conf" : 1,
+      "text" : "identifies this organism?",
+      "x" : 0.13251879946741846
+    },
+    {
+      "h" : 0.01028423786163335,
+      "y" : 0.26375323000287393,
+      "w" : 0.3007518732659171,
+      "conf" : 1,
+      "text" : "[A] Age between 18 and 35 in a non-pregnant female",
+      "x" : 0.6541353433583958
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.250694444387431,
+      "w" : 0.37030073175492,
+      "conf" : 1,
+      "text" : "[A] Catalase (+), coagulase (+), beta-hemolytic Gram-positive cocci",
+      "x" : 0.23778195951597736
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.2506944443692623,
+      "w" : 0.3364661495776421,
+      "conf" : 1,
+      "text" : "[B] Symptoms lasting less than 24 hours in a healthy student",
+      "x" : 0.6719924845676692
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.23763888887447793,
+      "w" : 0.30075187326591707,
+      "conf" : 1,
+      "text" : "[B] Oxidase (+), non-motile Gram-negative diplococci |",
+      "x" : 0.20112782456140338
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.23763888911359915,
+      "w" : 0.36090223914337705,
+      "conf" : 1,
+      "text" : "[C] Infection caused by antibiotic-sensitive E. coli in an outpatient",
+      "x" : 0.6842105245614034
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.22458333313744533,
+      "w" : 0.4210526269601456,
+      "conf" : 1,
+      "text" : "[C] Catalase (-), Gram-positive cocci in pairs\/chains, hydrolyzes Bile Esculin",
+      "x" : 0.25939848922305797
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.22458333322828822,
+      "w" : 0.4097744182748472,
+      "conf" : 1,
+      "text" : "[D] Presence of urinary catheter, male sex, urinary tract obstruction\/stone,",
+      "x" : 0.7086466216635339
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.21291666686255467,
+      "w" : 0.2443608956573508,
+      "conf" : 1,
+      "text" : "(black slant), and grows in 6.5% NaCl broth",
+      "x" : 0.1729323348997492
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.21291666686255467,
+      "w" : 0.2500000000000001,
+      "conf" : 1,
+      "text" : "pregnancy, diabetes, or immunosuppression",
+      "x" : 0.6306391019110273
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.1998611113374893,
+      "w" : 0.31954885848900294,
+      "conf" : 1,
+      "text" : "[D] Alpha-hemolytic, optochin-sensitive, bile-soluble cocci",
+      "x" : 0.2105263197838345
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.19986111088640085,
+      "w" : 0.2631578808804368,
+      "conf" : 1,
+      "text" : "[E] Spontaneous resolution after drinking water",
+      "x" : 0.6353383422305765
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.18680555575791785,
+      "w" : 0.3120300600119069,
+      "conf" : 1,
+      "text" : "[E] Gram-negative coccobacilli requiring X and V factors",
+      "x" : 0.20676692119360893
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.16347222240578896,
+      "w" : 0.4041353139321981,
+      "conf" : 1,
+      "text" : "Q21. [2024 Exam] Catheter-Associated Urinary Tract Infections",
+      "x" : 0.2546992521616541
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.15041666669903736,
+      "w" : 0.38721804478286753,
+      "conf" : 1,
+      "text" : "(CAUTI) are heavily promoted by bacterial Biofilm formation",
+      "x" : 0.24436089741541364
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.1373611110770725,
+      "w" : 0.21992480609161577,
+      "conf" : 1,
+      "text" : "because the extracellular matrix:",
+      "x" : 0.16259398505639094
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.12136627916061055,
+      "w" : 0.2725563734919797,
+      "conf" : 1,
+      "text" : "[A] Converts all bacteria into spore-forming bacilli",
+      "x" : 0.18890977784304502
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.10828488366642447,
+      "w" : 0.3759398360975692,
+      "conf" : 1,
+      "text" : "[B] Increases urine flow rate, causing physical erosion of the ureters",
+      "x" : 0.23872179981203023
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.09593023248546517,
+      "w" : 0.3909774330517613,
+      "conf" : 1,
+      "text" : "[C] Shields embedded bacteria from antimicrobial penetration and host",
+      "x" : 0.2462405966165415
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.08357558151647276,
+      "w" : 0.12781954120167033,
+      "conf" : 1,
+      "text" : "phagocytic defenses",
+      "x" : 0.11654135551378439
+    },
+    {
+      "h" : 0.01030361758338072,
+      "y" : 0.07042958645982961,
+      "w" : 0.30451126153481084,
+      "conf" : 1,
+      "text" : "[D] Hydrolyzes all urinary Tamm-Horsfall mucoproteins",
+      "x" : 0.2030075137218047
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.057361111159142775,
+      "w" : 0.3063909776085662,
+      "conf" : 1,
+      "text" : "[E] Completely suppresses bacterial gene transcription",
+      "x" : 0.2020676742794484
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.16347222242395765,
+      "w" : 0.40225564173705974,
+      "conf" : 1,
+      "text" : "Q28. [Core Exam] If an unpreserved urine specimen cannot be",
+      "x" : 0.7067669223214285
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.15041666671720605,
+      "w" : 0.43421050784058235,
+      "conf" : 1,
+      "text" : "examined or cultured immediately, how must it be handled to avoid",
+      "x" : 0.7227443565601506
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.1373611112224214,
+      "w" : 0.25375938826889377,
+      "conf" : 1,
+      "text" : "false-positive bacterial colony counts?",
+      "x" : 0.6306390935150378
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.12209302332848837,
+      "w" : 0.24812028392624452,
+      "conf" : 1,
+      "text" : "[A] Kept in an incubator at 37°C for 24 hours",
+      "x" : 0.627819551973684
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.1082848838117732,
+      "w" : 0.22180450022606268,
+      "conf" : 1,
+      "text" : "[B] Diluted 1:100 in sterile boiling water",
+      "x" : 0.6146616569078948
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.09593023248546517,
+      "w" : 0.2518796941344469,
+      "conf" : 1,
+      "text" : "[C] Mixed with equal volumes of 95% ethanol",
+      "x" : 0.6296992449718046
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.08208333312261618,
+      "w" : 0.42105262696014567,
+      "conf" : 1,
+      "text" : "[D] Immediately refrigerated at 4°C (stable for up to 24 hours) or collected in",
+      "x" : 0.7142857213032578
+    },
+    {
+      "h" : 0.01030361758338072,
+      "y" : 0.07042958662334714,
+      "w" : 0.12781954120167027,
+      "conf" : 1,
+      "text" : "boric acid preservative",
+      "x" : 0.5695488737781954
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.05736111101379393,
+      "w" : 0.27631578370018195,
+      "conf" : 1,
+      "text" : "[E] Centrifuged at 10,000 rpm and frozen at -80°C",
+      "x" : 0.6419172904699249
+    },
+    {
+      "h" : 0.018908268610636325,
+      "y" : 0.015268088208855501,
+      "w" : 0.5225563734919797,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal Microbiology Master Class • Strictly Grounded in Faculty & Board Exam TO pers",
+      "x" : 0.29887218916040076
+    },
+    {
+      "h" : 0.008733849790361181,
+      "y" : 0.020355297233377534,
+      "w" : 0.16917293282569867,
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8778195509868421
+    }
+  ],
+  "page" : 104
+}

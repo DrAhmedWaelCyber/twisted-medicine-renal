@@ -1,0 +1,912 @@
+{
+  "id": 26,
+  "title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+  "department": "Microbiology",
+  "department_desc": "Urinary microbiome, bacterial, viral and fungal urinary tract infections",
+  "booklet_pages": "Pages 101 - 104",
+  "pdf_pages": [
+    103,
+    104,
+    105,
+    106
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 27 - HIGH-YIELD UROPATHOGENS & DIAGNOSTIC BACTERIOLOGY MATRIX",
+  "summary_table": [
+    {
+      "domain": "Uropathogen /",
+      "content": "[B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks"
+    },
+    {
+      "domain": "Classification",
+      "content": "Antibiotics"
+    },
+    {
+      "domain": "Uropathogenic E. coli",
+      "content": "Lactose fermenter: dry, flat rose-pink colonies on Uncomplicated cystitis & acute pyelonephritis. Type 1 pili (FimH): binds bladder facet uroplakins."
+    },
+    {
+      "domain": "(UPEC)",
+      "content": "MacConkey with bile precipitate. Oxidase(-). P-fimbriae (Pap): binds renal Gal-Gal receptors."
+    },
+    {
+      "domain": "Gram(-) rod, motile, IMViC",
+      "content": "Rx: Nitrofurantoin, Fosfomycin, TMP-SMZ."
+    },
+    {
+      "domain": "++--",
+      "content": "K1 capsule: antiphagocytic. HlyA: pore cytotoxin."
+    },
+    {
+      "domain": "Beta-hemolytic on blood agar.",
+      "content": "Pyelonephritis: Ciprofloxacin, Ceftriaxone."
+    },
+    {
+      "domain": "(Causes 80-90% of UTIs)",
+      "content": "Nosocomial & catheter-associated UTIs,"
+    },
+    {
+      "domain": "Lactose fermenter: large, highly mucoid,",
+      "content": "Abundant hypermucoviscous polysaccharide capsule bacteremia."
+    },
+    {
+      "domain": "Gram(-) rod, non-motile",
+      "content": "dome-shaped pink colonies. Citrate(+), VP(+), resists complement-mediated lysis and phagocytosis. Rx: Ceftriaxone, Cefepime; Carbapenems"
+    },
+    {
+      "domain": "Indole(-). Thick capsule.",
+      "content": "Plasmids carry ESBLs / CRE. (Meropenem) for ESBL strains. Struvite calculi with recurrent UTIs and alkaline"
+    },
+    {
+      "domain": "Proteus mirabilis",
+      "content": "Non-lactose fermenter (pale on MacConkey). Potent Urease enzyme: hydrolyzes urea into NH3 + urine (coffin-lid crystals). Swarming on blood agar (inhibited by CLED). CO2; elevates urine pH >7.5-8.0, precipitating Mg2+ &"
+    },
+    {
+      "domain": "Gram(-) rod, highly motile",
+      "content": "Rx: Fluoroquinolones, Ceftriaxone + stone H2S(+). P. mirabilis indole(-); P. vulgaris indole(+). NH4+ into Struvite Staghorn Calculi."
+    },
+    {
+      "domain": "(Stone-forming uropathogen)",
+      "content": "removal. Catheter-associated UTI (CAUTI), urosepsis in Exotoxin A: ADP-ribosylates EF-2, halting protein Obligate aerobe, non-lactose fermenter. Oxidase"
+    },
+    {
+      "domain": "Pseudomonas aeruginosa",
+      "content": "ICU and immunocompromised. positive. Forms bluish-green pigments (Pyocyanin synthesis. Biofilm formation on Foley catheters. High"
+    },
+    {
+      "domain": "Gram(-) rod, motile",
+      "content": "Rx: Piperacillin-Tazobactam, Cefepime,"
+    },
+    {
+      "domain": "(Opportunistic ICU pathogen)",
+      "content": "intrinsic multidrug resistance. Carbapenems."
+    },
+    {
+      "domain": "Staphylococcus",
+      "content": "Catalase positive, Coagulase negative (CoNS). Surface hemagglutinins and lactosamine-specific Second most common cause of acute community"
+    },
+    {
+      "domain": "saprophyticus",
+      "content": "Characteristically NOVOBIOCIN RESISTANT adhesins adhering to human urothelium. Moderate cystitis in young, sexually active females."
+    },
+    {
+      "domain": "Gram(+) cocci in clusters",
+      "content": "Rx: TMP-SMZ, Nitrofurantoin, or Amoxicillin. urease activity. (differentiates from sensitive S. epidermidis)."
+    },
+    {
+      "domain": "Special Uropathogens:",
+      "content": "TB: RIPE anti-tuberculous regimen."
+    },
+    {
+      "domain": "• M. tuberculosis (Acid-fast) Sterile Pyuria: pus cells with sterile routine culture.",
+      "content": "TB: hematogenous caseating granulomas. Chlamydia: Doxycycline (100 mg BID) /"
+    },
+    {
+      "domain": "TB: ZN stain, Lowenstein-Jensen, MGIT.",
+      "content": "Chlamydia: non-gonococcal urethritis. Azithromycin."
+    },
+    {
+      "domain": "(Intracellular)",
+      "content": "Adenovirus: viral PCR, urine electron microscopy. Adenovirus: cytolytic replication in bladder epithelium. Adeno: self-limiting hemorrhagic cystitis."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In quantitative diagnostic microbiology, what colony count from a clean-catch midstream urine void defines 'Significant Bacteriuria' in an asymptomatic individual?",
+      "options": {
+        "A": ">= 10^5 CFU/mL of a single bacterial species (Kass criteria)",
+        "B": ">= 10^2 CFU/mL of normal skin commensals",
+        "C": "Any detectable bacterial growth regardless of colony count",
+        "D": "Exactly 10^4 CFU/mL of mixed polymicrobial organisms",
+        "E": ">= 10^7 CFU/mL accompanied by macroscopic hematuria"
+      },
+      "correct_option": "A",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Regarding the normal flora and sterility of the urinary tract, which statement is CORRECT?",
+      "options": {
+        "A": "Bladder urine is sterile; anterior urethra has resident flora (e.g., S. epidermidis)",
+        "B": "The renal pelvis and calyces normally harbor abundant anaerobic flora",
+        "C": "Normal bladder urine consistently contains >10^5 CFU/mL coliforms",
+        "D": "The posterior urethra in females is heavily colonized by Bacteroides",
+        "E": "Glomerular filtrate normally contains high concentrations of yeast"
+      },
+      "correct_option": "A",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which microorganism is the single most common causative pathogen of both uncomplicated community-acquired cystitis and acute pyelonephritis (-80-90%)?",
+      "options": {
+        "A": "Uropathogenic Escherichia coli (UPEC)",
+        "B": "Klebsiella pneumoniae",
+        "E": "Staphylococcus saprophyticus",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correct_option": "A",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "When urine from a patient with suspected urosepsis is inoculated, which selective differential medium allows selective growth of Gram-negative enteric bacilli?",
+      "options": {
+        "A": "MacConkey Agar (contains bile salts and crystal violet inhibiting Gram-positives)",
+        "B": "Thayer-Martin chocolate agar",
+        "C": "Sabouraud Dextrose Agar",
+        "D": "Lowenstein-Jensen egg-based medium",
+        "E": "Buffered Charcoal Yeast Extract (BCYE) agar"
+      },
+      "correct_option": "A",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "On MacConkey agar, Uropathogenic E. coli is readily distinguished from non-lactose fermenters by producing which characteristic colonial morphology?",
+      "options": {
+        "A": "Dry, flat, rose-pink colonies with surrounding precipitated bile salts (rapid",
+        "B": "Colorless, translucent, pale colonies",
+        "C": "Large, highly mucoid, coalescent pink colonies",
+        "D": "Diffuse swarming film covering the entire agar surface",
+        "E": "Jet-black colonies with metallic hydrogen sulfide rings"
+      },
+      "correct_option": "C",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "The Capsular K-antigen (specifically K1 serotype) of Uropathogenic E. coli is most strongly associated with strains that cause:",
+      "options": {
+        "A": "Upper UTI (Acute Pyelonephritis), systemic bacteremia, and neonatal meningitis by resisting phagocytosis",
+        "B": "Uncomplicated honeymoon cystitis",
+        "C": "Asymptomatic bacteriuria in elderly males",
+        "D": "Acute hemorrhagic urethritis in athletes",
+        "E": "Urolithiasis without parenchymal inflammation"
+      },
+      "correct_option": "A",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which specialized virulence organelle enables UPEC strains to ascend to the renal pelvis and adhere to digalactoside (Gal-Gal) receptors on renal tubular epithelium?",
+      "options": {
+        "A": "Pyelonephritis-associated P-fimbriae (Pap pili)",
+        "B": "Type 1 (mannose-sensitive) common fimbriae",
+        "C": "Curli surface amyloid fibers",
+        "D": "Single polar monotrichous flagellum",
+        "E": "Type IV sex pilus"
+      },
+      "correct_option": "A",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the primary role of Type 1 (Mannose-Sensitive) Fimbriae (FimH adhesin) in the pathogenesis of urinary tract infections caused by E. coli?",
+      "options": {
+        "A": "Adherence to mannosylated uroplakin proteins on superficial bladder umbrella (facet) cells",
+        "B": "Direct invasion of renal medullary collecting ducts",
+        "C": "Enzymatic hydrolysis of urea into ammonia and CO2",
+        "D": "Inactivation of circulating aminoglycoside antibiotics",
+        "E": "Promoting swarming across solid agar surfaces"
+      },
+      "correct_option": "C",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Alpha-Hemolysin (HlyA) produced by virulent uropathogenic E. coli strains contributes to renal parenchymal damage primarily by:",
+      "options": {
+        "A": "Acting as a pore-forming cytotoxin that lyses host erythrocytes and tubular epithelial cells",
+        "B": "Cleaving secretory IgA antibodies at the hinge region",
+        "C": "Precipitating calcium oxalate crystals inside nephrons",
+        "D": "Chelating iron from transferrin via enterobactin receptors",
+        "E": "Blocking basolateral sodium-potassium ATPase pumps"
+      },
+      "correct_option": "C",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which biochemical profile on standard IMViC testing definitively confirms the species identification of typical Escherichia coli?",
+      "options": {
+        "A": "Indole (-), Methyl Red (-), Voges-Proskauer (+), Citrate (+) [-++]",
+        "B": "Indole (+), Methyl Red (+), Voges-Proskauer (-), Citrate (-) [++--]",
+        "C": "Indole (-), Methyl Red (+), Voges-Proskauer (-), Citrate (+) [-+-+]",
+        "D": "Indole (+), Methyl Red (-), Voges-Proskauer (+), Citrate (-) [+-+-]",
+        "E": "Indole (-), Methyl Red (-), Voges-Proskauer (-), Citrate (-) [----]"
+      },
+      "correct_option": "B",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Klebsiella pneumoniae is an important uropathogen producing hospital-acquired UTIs. What microbiological features characterize this organism?",
+      "options": {
+        "A": "Gram-negative, actively motile rod with peritrichous flagella",
+        "B": "Gram-negative, non-motile bacillus with a prominent polysaccharide capsule, forming large mucoid pink colonies",
+        "C": "Gram-positive coccus arranged in chains that hydrolyzes bile esculin",
+        "D": "Oxidase-positive rod producing blue pyocyanin pigment",
+        "E": "Acid-fast rod requiring lipid-rich egg media for isolation"
+      },
+      "correct_option": "B",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Friedlander's bacillus (Klebsiella pneumoniae) possesses which major antiphagocytic virulence factor responsible for its mucoid appearance?",
+      "options": {
+        "A": "Peptidoglycan cell wall devoid of teichoic acids",
+        "B": "Abundant hypermucoviscous capsular polysaccharide (K-antigen)",
+        "C": "Secretory lgA protease",
+        "D": "Endotoxin-free lipid A core",
+        "E": "Heat-labile enterotoxin (LT)"
+      },
+      "correct_option": "B",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In the microbiology laboratory, Proteus mirabilis is immediately suspected on blood agar plates due to which unique phenotypic growth characteristic?",
+      "options": {
+        "A": "Formation of small, pinpoint, beta-hemolytic colonies",
+        "B": "Phenomenon of 'Swarming' growth (cyclic waves of motile differentiation forming a thin film across the plate)",
+        "C": "Golden-yellow carotenoid pigment production",
+        "D": "Jet-black colonial discoloration due to tellurite reduction",
+        "E": "Inability to grow under aerobic atmospheric conditions"
+      },
+      "correct_option": "B",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the critical clinical consequence of the exceptionally potent Urease enzyme produced by Proteus mirabilis in urinary tract infections?",
+      "options": {
+        "A": "Direct destruction of glomerular podocyte pedicels",
+        "B": "Massive elevation of urinary pH (>7.5-8.0), precipitating Magnesium Ammonium Phosphate (Struvite) Staghorn Calculi",
+        "C": "Severe metabolic acidosis with hyperchloremia",
+        "D": "Precipitation of pure radiolucent uric acid stones",
+        "E": "Complete lysis of all host platelets in the renal vein"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Microbial Infections of Urinary Tract - Microbiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Pseudomonas aeruginosa produces characteristic Q23. [2021 Exam] Serratia marcescens, an opportunistic water-soluble pigments on nutrient agar. Which pigment imparts its classic bluish-green hue?",
+      "options": {
+        "A": "Prodigiosin (magenta red)",
+        "B": "Pyocyanin (blue) combined with Pyoverdine (fluorescent yellow-green)",
+        "C": "Violacein (purple)",
+        "D": "Melanin (black)",
+        "E": "Carotenoid staphyloxanthin (golden yellow)"
+      },
+      "correct_option": "D",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the primary mechanism of action of Exotoxin A, the major lethal virulence factor secreted by Pseudomonas aeruginosa?",
+      "options": {
+        "A": "Pore formation in host cell lipid bilayers",
+        "B": "ADP-ribosylation of Elongation Factor 2 (EF-2), completely arresting eukaryotic protein synthesis",
+        "C": "Cleavage of SNARE proteins blocking neurotransmitter exocytosis",
+        "D": "Hyperactivation of adenylate cyclase via Gs alpha subunit activation",
+        "E": "Hydrolysis of membrane sphingomyelin"
+      },
+      "correct_option": "D",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What microbiological properties definitively identify Staphylococcus saprophyticus, the classic cause of 'Honeymoon Cystitis'?",
+      "options": {
+        "A": "Gram-negative rod, oxidase positive, motile",
+        "B": "Gram-positive cocci in clusters, Catalase (+), Coagulase (-), and NOVOBIOCIN RESISTANT",
+        "C": "Gram-positive cocci in pairs, Catalase (-), Novobiocin sensitive",
+        "D": "Gram-positive spore-forming bacillus, strictly anaerobic",
+        "E": "Acid-fast coccobacillus staining red on Ziehl-Neelsen"
+      },
+      "correct_option": "B",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Isolation of Staphylococcus aureus from a urine culture without previous catheterization or instrumentation strongly suggests:",
+      "options": {
+        "A": "Uncomplicated acute bacterial cystitis",
+        "B": "Normal resident contamination from the perineal skin",
+        "C": "Hematogenous bacteremic seeding from a distant focus (e.g., endocarditis, forming renal cortical abscesses",
+        "D": "Immediate indication for emergency kidney transplantation",
+        "E": "Chronic asymptomatic carrier state requiring no treatment"
+      },
+      "correct_option": "C",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Enterococcus faecalis (Group D Streptococcus) is Q27. [Core Exam] A UTI is clinically classified as 'Complicated' when an important hospital-acquired uropathogen. What laboratory profile which of the following factors is present in the patient? identifies this organism?",
+      "options": {
+        "A": "Catalase (+), coagulase (+), beta-hemolytic Gram-positive cocci",
+        "B": "Oxidase (+), non-motile Gram-negative diplococci |",
+        "C": "Catalase (-), Gram-positive cocci in pairs/chains, hydrolyzes Bile Esculin (black slant), and grows in 6.5% NaCl broth",
+        "D": "Alpha-hemolytic, optochin-sensitive, bile-soluble cocci",
+        "E": "Gram-negative coccobacilli requiring X and V factors"
+      },
+      "correct_option": "D",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Catheter-Associated Urinary Tract Infections (CAUTI) are heavily promoted by bacterial Biofilm formation because the extracellular matrix:",
+      "options": {
+        "A": "Converts all bacteria into spore-forming bacilli",
+        "B": "Increases urine flow rate, causing physical erosion of the ureters",
+        "C": "Shields embedded bacteria from antimicrobial penetration and host phagocytic defenses",
+        "D": "Hydrolyzes all urinary Tamm-Horsfall mucoproteins",
+        "E": "Completely suppresses bacterial gene transcription"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Microbial Infections of Urinary Tract - Microbiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 23 covering high-yield concepts in Microbial Infections of Urinary Tract - Microbiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Extended-Spectrum Beta-Lactamases (ESBLs) produced by multi-drug resistant E. coli and Klebsiella strains confer resistance to:",
+      "options": {
+        "A": "Vancomycin and linezolid only",
+        "B": "Aminoglycosides and macrolides exclusively",
+        "C": "Penicillins, 1st/2nd/3rd/4th generation Cephalosporins, and Aztreonam (hydrolyzed by ESBLs; inhibited by clavulanate)",
+        "D": "Polymyxin B and Colistin only",
+        "E": "Metronidazole and Tinidazole only"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What is the drug class of choice for treating severe, invasive urosepsis caused by confirmed ESBL-producing Enterobacteriaceae?",
+      "options": {
+        "A": "First-generation cephalosporins (Cephalexin)",
+        "B": "Oral Amoxicillin monotherapy",
+        "C": "Carbapenems (e.g., Meropenem, Imipenem-Cilastatin)",
+        "D": "Tetracyclines (Doxycycline)",
+        "E": "Macrolides (Erythromycin)"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Asymptomatic Bacteriuria (ASB) is common in clinical practice. In which of the following patient groups is screening and antibiotic treatment STRICTLY MANDATED?",
+      "options": {
+        "A": "Age between 18 and 35 in a non-pregnant female",
+        "B": "Symptoms lasting less than 24 hours in a healthy student",
+        "C": "Infection caused by antibiotic-sensitive E. coli in an outpatient",
+        "D": "Presence of urinary catheter, male sex, urinary tract obstruction/stone, pregnancy, diabetes, or immunosuppression",
+        "E": "Spontaneous resolution after drinking water"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 27 covering high-yield concepts in Microbial Infections of Urinary Tract - Microbiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "If an unpreserved urine specimen cannot be examined or cultured immediately, how must it be handled to avoid false-positive bacterial colony counts?",
+      "options": {
+        "A": "Kept in an incubator at 37°C for 24 hours",
+        "B": "Diluted 1:100 in sterile boiling water",
+        "C": "Mixed with equal volumes of 95% ethanol",
+        "D": "Immediately refrigerated at 4°C (stable for up to 24 hours) or collected in boric acid preservative",
+        "E": "Centrifuged at 10,000 rpm and frozen at -80°C"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Microbial Infections of Urinary Tract - Microbiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Urogenital Tuberculosis results from hematogenous dissemination of M. tuberculosis. What is its characteristic pathological and diagnostic presentation?",
+      "options": {
+        "A": "Acute hemorrhagic cystitis with prominent eosinophiluria",
+        "B": "Extensive bilateral staghorn calculi of calcium oxalate",
+        "C": "Diffuse bilateral clear cell carcinomas in Bowman capsules",
+        "D": "Sterile pyuria with microhematuria, cortical caseating granulomas, and acid-fast bacilli on Ziehl-Neelsen stain of 3 early-morning urines",
+        "E": "Instant bacteremia within 2 hours of pulmonary inhalation"
+      },
+      "correct_option": "D",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Chlamydia trachomatis (serovars D-K) is a major Q38. [2021 Exam] On chemical urine dipstick testing, why can a cause of non-gonococcal urethritis and sterile pyuria. What unique biological trait characterizes this organism?",
+      "options": {
+        "A": "Readily cultivated on standard sheep blood agar",
+        "B": "Motile spirochete visualized by dark-field microscopy",
+        "C": "Heavy spore producer surviving in chlorinated swimming pools",
+        "D": "Obligate intracellular bacterium possessing biphasic lifecycle (infectious Elementary Body and metabolically active Reticulate Body)",
+        "E": "Encapsulated Gram-positive diplococcus fermenting inulin"
+      },
+      "correct_option": "D",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Leptospira interrogans is a zoonotic spirochete that infects humans via contaminated water. How is this organism identified microscopically?",
+      "options": {
+        "A": "Gram stain showing thick Gram-positive rods with central spores",
+        "B": "Acid-fast staining demonstrating branching red beaded filaments",
+        "C": "Giemsa stain demonstrating multinucleated giant cells",
+        "D": "Dark-field microscopy of blood/urine demonstrating thin, tightly coiled, flexible spirochetes with hooked ends and rapid flexing motility",
+        "E": "India ink preparation revealing wide gelatinous capsules"
+      },
+      "correct_option": "D",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In the severe icteric form of leptospirosis (Weil's Disease), which classic clinical triad results from capillary endothelial damage and hepatic-renal injury?",
+      "options": {
+        "A": "Massive proteinuria, generalized edema, and hyperlipidemia",
+        "B": "Acute flaccid paralysis, diplopia, and dry mouth",
+        "C": "High fever, bilateral staghorn calculi, and priapism",
+        "D": "Jaundice (hepatic damage), Hemorrhagic diathesis (capillary fragility), and Acute Kidney Injury (uremia)",
+        "E": "Trismus, risus sardonicus, and opisthotonos"
+      },
+      "correct_option": "D",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Adenovirus serotypes 11 and 21 are well-recognized causes of which distinctive, acute, self-limiting urological disorder in young children and transplant recipients?",
+      "options": {
+        "A": "Chronic pyelonephritic contracted kidney",
+        "B": "Minimal change lipoid nephrosis",
+        "C": "Xanthogranulomatous pyelonephritis",
+        "D": "Acute Hemorrhagic Cystitis (sudden onset of gross hematuria, dysuria, and frequency with sterile bacterial cultures)",
+        "E": "Primary bilateral hydronephrosis"
+      },
+      "correct_option": "D",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Polyomavirus BK (BK Virus) nephropathy is an important cause of allograft failure in kidney transplant recipients. What pathognomonic finding appears in urine cytology?",
+      "options": {
+        "A": "Maltese-cross oval fat bodies under polarized light",
+        "B": "Muddy brown granular casts of necrotic epithelium",
+        "C": "Acanthocytes with Mickey-Mouse pseudopodia blebs",
+        "D": "Sulfur granules with radiating Splendore-Hoeppli clubs",
+        "E": "'Decoy Cells' (shed urothelial cells with markedly enlarged nuclei containing ground-glass basophilic viral inclusion bodies)"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Microbial Infections of Urinary Tract - Microbiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Ureaplasma urealyticum causes non-gonococcal urethritis. Why is it intrinsically resistant to Beta-lactams?",
+      "options": {
+        "A": "Enterococcus destroys all nitrite by secreting catalase",
+        "B": "The patient drank excessive cranberry juice, neutralizing reagents",
+        "C": "Enterococcus produces high levels of ascorbic acid that bleaches the pad",
+        "D": "The dipstick only reacts with viral envelope proteins",
+        "E": "Enterococcus faecalis lacks the Nitrate Reductase enzyme required to convert dietary nitrate into nitrite"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 38 covering high-yield concepts in Microbial Infections of Urinary Tract - Microbiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In semi-quantitative urine culture using a standard calibrated wire loop (volume = 0.001 mL / 1 pL), what colony count represents significant bacteriuria (10^5 CFU/mL)?",
+      "options": {
+        "A": "Exactly 1 colony on the entire plate",
+        "B": "Exactly 10 colonies on the agar plate",
+        "C": "Complete confluent lawn without individual colonies",
+        "D": "10,000 colonies counted under stereomicroscope",
+        "E": "100 or more colonies on the agar plate (100 colonies × 1,000 = 100,000 = 10^5 CFU/mL)"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Which of the following oral antimicrobial agents is recommended as first-line empirical therapy for acute uncomplicated lower bacterial cystitis?",
+      "options": {
+        "A": "Intravenous Vancomycin monotherapy",
+        "B": "High-dose oral Gentamicin for 14 days",
+        "C": "Intramuscular Streptomycin daily",
+        "D": "Oral Metronidazole alone for 10 days",
+        "E": "Nitrofurantoin (100 mg BID for 5 days) or Fosfomycin trometamol (3 g single dose)"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A 23-year-old female presents with acute dysuria. Urine culture yields Gram(+) cocci in clusters that are catalase(+), coagulase(-), and novobiocin-resistant. Pathogen:",
+      "options": {
+        "A": "Staphylococcus epidermidis",
+        "B": "Streptococcus agalactiae (Group B)",
+        "C": "Enterococcus faecalis [DJ Staphylococcus aureus",
+        "E": "Staphylococcus saprophyticus (common in young sexually active temales)"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A catheterized ICU patient develops fever. Urine yields motile, oxidase(+), non-lactose fermenting Gram(-) rods producing pyocyanin. Diagnosis:",
+      "options": {
+        "A": "Escherichia coli urosepsis",
+        "B": "Klebsiella pneumoniae ESBL infection",
+        "C": "Proteus mirabilis stone-forming infection",
+        "D": "Serratia marcescens prodigiosin bacteremia",
+        "E": "Pseudomonas aeruginosa catheter-associated urinary infection (CAUTI)"
+      },
+      "correct_option": "E",
+      "explanation": "**Uropathogen /**: [B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks\n\n**Classification**: Antibiotics",
+      "masterclass_id": 26,
+      "masterclass_title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology"
+    }
+  ]
+}

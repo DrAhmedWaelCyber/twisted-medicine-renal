@@ -1,0 +1,957 @@
+{
+  "page" : 36,
+  "items" : [
+    {
+      "x" : 0.2777777772633745,
+      "y" : 0.9774224804997624,
+      "w" : 0.4897119294172563,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 9 MCQ Masterclass",
+      "conf" : 1,
+      "h" : 0.013178293969896115
+    },
+    {
+      "x" : 0.3569958955761312,
+      "y" : 0.9651162791182171,
+      "w" : 0.6481481108275599,
+      "text" : "Twisted Medicine Medical Series • Renal Vasculature, Glomerular & Non-Glomerular Circulation • Standard Practice Bank",
+      "conf" : 1,
+      "h" : 0.00872092988755968
+    },
+    {
+      "x" : 0.9351851860322625,
+      "y" : 0.9767441861284264,
+      "w" : 0.06808360117786338,
+      "text" : "Page 2 of 4",
+      "conf" : 1,
+      "h" : 0.009459814495510477
+    },
+    {
+      "x" : 0.2520576185956789,
+      "y" : 0.9345930233284884,
+      "w" : 0.4341563578671629,
+      "text" : "Q15. [2025 Exam] Vasa Recta Spuriae (False Vasa Recta) represent",
+      "conf" : 1,
+      "h" : 0.011627906163533597
+    },
+    {
+      "x" : 0.26131688004115206,
+      "y" : 0.9207848837936046,
+      "w" : 0.45679008435903107,
+      "text" : ">95% of medullary straight vessels and embryologically\/histologically",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.08539094776234565,
+      "y" : 0.9076453487315372,
+      "w" : 0.1008230485256363,
+      "text" : "originate from:",
+      "conf" : 1,
+      "h" : 0.01029069794548887
+    },
+    {
+      "x" : 0.15432099170096011,
+      "y" : 0.8917151163517443,
+      "w" : 0.24279835539044076,
+      "text" : "[A] The renal capsule perforating arteries",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.14917695860768163,
+      "y" : 0.8808333332585692,
+      "w" : 0.23251028480769706,
+      "text" : "[B] Interlobar arteries in Bertin columns",
+      "conf" : 1,
+      "h" : 0.008888888888888835
+    },
+    {
+      "x" : 0.1553497942644033,
+      "y" : 0.8691666664054102,
+      "w" : 0.2448559647086281,
+      "text" : "[C] Direct branches of the main renal vein",
+      "conf" : 1,
+      "h" : 0.011666666666666714
+    },
+    {
+      "x" : 0.18106996172839498,
+      "y" : 0.8575193796326808,
+      "w" : 0.29629629363054,
+      "text" : "[D] Efferent Arterioles of Juxtamedullary Glomeruli",
+      "conf" : 1,
+      "h" : 0.011705425580342599
+    },
+    {
+      "x" : 0.1255144051440329,
+      "y" : 0.8459302326162791,
+      "w" : 0.18518518651806337,
+      "text" : "[E] The internal pudendal artery",
+      "conf" : 1,
+      "h" : 0.00872092988755968
+    },
+    {
+      "x" : 0.7376543133401923,
+      "y" : 0.9345930232073644,
+      "w" : 0.4588477176690251,
+      "text" : "Q22. [2022 Exam] Ludwig's Arteriole (Arteriola Recta Spuria of Ludwig)",
+      "conf" : 1,
+      "h" : 0.011627906163533597
+    },
+    {
+      "x" : 0.6666666609739371,
+      "y" : 0.9207848836967054,
+      "w" : 0.34156377060608295,
+      "text" : "is an extraglomerular vessel that arises from an:",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.6882716108710559,
+      "y" : 0.9055490959329157,
+      "w" : 0.3559670598252014,
+      "text" : "[A] Efferent arteriole and terminates in the renal pelvis lumen",
+      "conf" : 1,
+      "h" : 0.011679586304558676
+    },
+    {
+      "x" : 0.6615226387860081,
+      "y" : 0.893888888850253,
+      "w" : 0.3024691215851023,
+      "text" : "[B] Arcuate vein and empties into the thoracic duct",
+      "conf" : 1,
+      "h" : 0.008888888888888946
+    },
+    {
+      "x" : 0.698559675488683,
+      "y" : 0.8822351420073438,
+      "w" : 0.37654320099068883,
+      "text" : "[C] Interlobar artery and supplies the adrenal medulla exclusively",
+      "conf" : 1,
+      "h" : 0.011692505942450637
+    },
+    {
+      "x" : 0.7170781823388205,
+      "y" : 0.8698611110622435,
+      "w" : 0.4176954353380502,
+      "text" : "[D] Interlobular artery or afferent arteriole and bypasses the glomerulus",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6049382730452675,
+      "y" : 0.8597383722202034,
+      "w" : 0.18930040515443813,
+      "text" : "directly to peritubular capillaries",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.5977366277006173,
+      "y" : 0.8466569767986918,
+      "w" : 0.17489711593531965,
+      "text" : "[E] Internal iliac artery directly",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.22325103351337441,
+      "y" : 0.8131944443510938,
+      "w" : 0.3765432009906889,
+      "text" : "Q16. [2024 Exam] Vasa Recta Vera (True Vasa Recta) are",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.18621398665980812,
+      "y" : 0.7994412145828484,
+      "w" : 0.306584340221477,
+      "text" : "aglomerular arterioles that arise directly from:",
+      "conf" : 1,
+      "h" : 0.011673126220703156
+    },
+    {
+      "x" : 0.13271605270919057,
+      "y" : 0.7841569767684109,
+      "w" : 0.19958847573718186,
+      "text" : "[A] The inferior mesenteric artery",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.24074074417009594,
+      "y" : 0.771802325387597,
+      "w" : 0.4156378500116697,
+      "text" : "[B] Arcuate or Interlobular Arteries directly, bypassing glomeruli (due to",
+      "conf" : 1,
+      "h" : 0.011627906163533486
+    },
+    {
+      "x" : 0.11213992033607673,
+      "y" : 0.7594476745397287,
+      "w" : 0.15843620540211037,
+      "text" : "glomerular degeneration)",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.1368312787722907,
+      "y" : 0.7485885014493503,
+      "w" : 0.2078189250058348,
+      "text" : "[C] The thoracic duct cisterna chyli",
+      "conf" : 1,
+      "h" : 0.011711886194017196
+    },
+    {
+      "x" : 0.14814815102880652,
+      "y" : 0.7376388888078595,
+      "w" : 0.23045267548950965,
+      "text" : "[D] Splenic arterial trabecular branches",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.1368312725994514,
+      "y" : 0.7259722219728691,
+      "w" : 0.2078189250058348,
+      "text" : "[E] Subscapular circumflex arteries",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.25925925477366263,
+      "y" : 0.6911337208575581,
+      "w" : 0.4485596470862815,
+      "text" : "Q17. [2023 Exam] Descending Vasa Recta (arteriolar straight vessels)",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.21707819543895726,
+      "y" : 0.6772642117552586,
+      "w" : 0.3683127397261326,
+      "text" : "are histologically characterized in the outer medulla by:",
+      "conf" : 1,
+      "h" : 0.01175064563751227
+    },
+    {
+      "x" : 0.2386831344307267,
+      "y" : 0.662083333282794,
+      "w" : 0.41152263137529477,
+      "text" : "[A] Highly fenestrated wide sinusoidal capillaries lacking any pericytes",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.2397119393261316,
+      "y" : 0.6504166668443863,
+      "w" : 0.4135802167016755,
+      "text" : "[B] Continuous non-fenestrated endothelium surrounded by contractile",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.12139917400548705,
+      "y" : 0.6387532300255354,
+      "w" : 0.17695472525350703,
+      "text" : "pericytes and smooth muscle",
+      "conf" : 1,
+      "h" : 0.010284237331814161
+    },
+    {
+      "x" : 0.18724280349794223,
+      "y" : 0.6271802326308138,
+      "w" : 0.30864197353147116,
+      "text" : "[C] Thick keratinized stratified squamous epithelium",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.19341564187242788,
+      "y" : 0.6155523256359012,
+      "w" : 0.3209876534324022,
+      "text" : "[D] Absence of any basal lamina or extracellular matrix",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.16975309098079544,
+      "y" : 0.6039244186288759,
+      "w" : 0.27366254314686517,
+      "text" : "[E] Elastic laminae thicker than the renal artery",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.7345679067901234,
+      "y" : 0.8131944443510938,
+      "w" : 0.4444444284499066,
+      "text" : "Q23. [2023 Exam) Perforating Radiate Arteries (Arteria Perforantes)",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.7304526705349795,
+      "y" : 0.7987467700455757,
+      "w" : 0.436213991177157,
+      "text" : "originate from interlobular arteries, penetrate the renal capsule, and",
+      "conf" : 1,
+      "h" : 0.01028423786163335
+    },
+    {
+      "x" : 0.5720164588477367,
+      "y" : 0.7863888888166324,
+      "w" : 0.12345678701340779,
+      "text" : "anastomose with:",
+      "conf" : 1,
+      "h" : 0.008888888888888946
+    },
+    {
+      "x" : 0.6995884829903977,
+      "y" : 0.7703036172232438,
+      "w" : 0.37860081030887627,
+      "text" : "[A] The hepatic portal vein tributaries inside the liver parenchyma",
+      "conf" : 1,
+      "h" : 0.011718345748053638
+    },
+    {
+      "x" : 0.609053494650206,
+      "y" : 0.7587209301841086,
+      "w" : 0.19753085442309104,
+      "text" : "[B] Duodenal submucosal plexus",
+      "conf" : 1,
+      "h" : 0.00872092988755968
+    },
+    {
+      "x" : 0.6615226331618655,
+      "y" : 0.7470930234496124,
+      "w" : 0.3024691215851022,
+      "text" : "[C] The pulmonary capillary bed via the diaphragm",
+      "conf" : 1,
+      "h" : 0.011627906163533597
+    },
+    {
+      "x" : 0.6162551453017833,
+      "y" : 0.735520026126002,
+      "w" : 0.21193414364220964,
+      "text" : "[D] The coronary sinus of the heart",
+      "conf" : 1,
+      "h" : 0.01173772546980123
+    },
+    {
+      "x" : 0.7170781934362138,
+      "y" : 0.7231782947158191,
+      "w" : 0.41358021670167544,
+      "text" : "[E] Subcapsular\/perirenal adipose arterial plexus (derived from lumbar,",
+      "conf" : 1,
+      "h" : 0.010310077667236461
+    },
+    {
+      "x" : 0.5925925953360767,
+      "y" : 0.7115277777880095,
+      "w" : 0.16460904535257592,
+      "text" : "suprarenal, & colic arteries)",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.7366255068587108,
+      "y" : 0.6911337208575581,
+      "w" : 0.45267486572265625,
+      "text" : "Q24. [2021 Exam] In chronic, progressive Atherosclerotic Renal Artery",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.7253086400205762,
+      "y" : 0.6772642114645611,
+      "w" : 0.42592592059441325,
+      "text" : "Stenosis, the clinical significance of the capsular and subcapsular",
+      "conf" : 1,
+      "h" : 0.011750645637512047
+    },
+    {
+      "x" : 0.6193415641460904,
+      "y" : 0.664195736066975,
+      "w" : 0.2181069955885785,
+      "text" : "collateral arterial plexus is that it:",
+      "conf" : 1,
+      "h" : 0.011724805831909157
+    },
+    {
+      "x" : 0.7314814870113169,
+      "y" : 0.6490277777213912,
+      "w" : 0.44238684312352594,
+      "text" : "[A] May maintain cortical viability and prevent total ischemic renal gangrene",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6430041196502057,
+      "y" : 0.6373611113193206,
+      "w" : 0.26543208188230893,
+      "text" : "[B] Directly causes rupture of the renal pelvis",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6872428027777775,
+      "y" : 0.6256944443510938,
+      "w" : 0.35390945050701406,
+      "text" : "[C] Completely reverses systemic renovascular hypertension",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6604938309156377,
+      "y" : 0.6140374677917283,
+      "w" : 0.30041151226691487,
+      "text" : "[D] Secretes aldosterone into the renal parenchyma",
+      "conf" : 1,
+      "h" : 0.0102971574995252
+    },
+    {
+      "x" : 0.6460905384259259,
+      "y" : 0.6024709302870639,
+      "w" : 0.27572015246505255,
+      "text" : "[E] Eliminates the need for glomerular filtration",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.7397119306241429,
+      "y" : 0.5697351418998954,
+      "w" : 0.45473249903265034,
+      "text" : "Q25. [Faculty Exam] The wall of the renal pelvis, calyces, and the upper",
+      "conf" : 1,
+      "h" : 0.011692506472269715
+    },
+    {
+      "x" : 0.7119341496570647,
+      "y" : 0.5559722224206181,
+      "w" : 0.4032921461189318,
+      "text" : "ureter receive their nutrient non-glomerular blood supply from",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.5658436202331962,
+      "y" : 0.5429166667804847,
+      "w" : 0.11111110711247674,
+      "text" : "branches of the:",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.5915637839763375,
+      "y" : 0.5268217052732798,
+      "w" : 0.16255143603438849,
+      "text" : "[A] Inferior epigastric artery",
+      "conf" : 1,
+      "h" : 0.01031007766723635
+    },
+    {
+      "x" : 0.6594650155349795,
+      "y" : 0.5152616278343023,
+      "w" : 0.3024691215851022,
+      "text" : "[B] Superior mesenteric artery branches exclusively",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.6100823078532236,
+      "y" : 0.5043604650322739,
+      "w" : 0.19958847573718186,
+      "text" : "[C] Celiac axis terminal arterioles",
+      "conf" : 1,
+      "h" : 0.00872093015246922
+    },
+    {
+      "x" : 0.7283950562757202,
+      "y" : 0.4920704134129901,
+      "w" : 0.4362139911771571,
+      "text" : "[D] Main Renal Artery, its segmental branches, and accessory renal arteries",
+      "conf" : 1,
+      "h" : 0.01030361758338072
+    },
+    {
+      "x" : 0.5853909445730453,
+      "y" : 0.48041666689555246,
+      "w" : 0.15432098676573558,
+      "text" : "[E] Internal thoracic artery",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.7222222192729768,
+      "y" : 0.44773578853543894,
+      "w" : 0.42386828728441917,
+      "text" : "Q26. [Core Concept] The renal capsule itself receives dual arterial",
+      "conf" : 1,
+      "h" : 0.01175064563751227
+    },
+    {
+      "x" : 0.6718106940672155,
+      "y" : 0.43386627904554265,
+      "w" : 0.3312757000233393,
+      "text" : "blood supply from which two anatomical sources?",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.6121399211591219,
+      "y" : 0.41791666654136317,
+      "w" : 0.20781892500583476,
+      "text" : "[A] Pulmonary and splenic arteries",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6327160534636487,
+      "y" : 0.4062500000726744,
+      "w" : 0.24485596470862814,
+      "text" : "[B] Hepatic artery proper and cystic artery",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6234567923868312,
+      "y" : 0.39458333312261606,
+      "w" : 0.22633743286132812,
+      "text" : "[C] Femoral artery and obturator artery",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6635802507458846,
+      "y" : 0.3829295865870098,
+      "w" : 0.3065843642132837,
+      "text" : "[DJ Left gastric artery and inferior phrenic artery only",
+      "conf" : 1,
+      "h" : 0.01030361758338083
+    },
+    {
+      "x" : 0.7263374453189302,
+      "y" : 0.3713662789425872,
+      "w" : 0.4320987725407822,
+      "text" : "[E] Perforating branches of interlobular arteries (from within) and Perirenal",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.609053494650206,
+      "y" : 0.3597383720203489,
+      "w" : 0.19753085442309104,
+      "text" : "capsular branches (from without)",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.24897118899176973,
+      "y" : 0.5697351421163555,
+      "w" : 0.4279835059207941,
+      "text" : "Q18. [2022 Exam] Ascending Vasa Recta (venous straight vessels)",
+      "conf" : 1,
+      "h" : 0.011692505942450526
+    },
+    {
+      "x" : 0.2479423921553497,
+      "y" : 0.5559722220179792,
+      "w" : 0.42592592059441337,
+      "text" : "differ ultrastructurally from descending vasa recta by possessing:",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.248971186213992,
+      "y" : 0.5399709302083333,
+      "w" : 0.4320987725407822,
+      "text" : "[A] Continuous non-fenestrated endothelium with multiple smooth muscle",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.052469135313786025,
+      "y" : 0.5283430232013082,
+      "w" : 0.03909464902098073,
+      "text" : "layers",
+      "conf" : 1,
+      "h" : 0.007267441749572612
+    },
+    {
+      "x" : 0.20370369801097413,
+      "y" : 0.5174289405138651,
+      "w" : 0.34156377060608295,
+      "text" : "[B] Striated skeletal muscle fibers in their tunica adventitia",
+      "conf" : 1,
+      "h" : 0.008746769693162681
+    },
+    {
+      "x" : 0.18724279320987672,
+      "y" : 0.5051388888893069,
+      "w" : 0.3086419735314711,
+      "text" : "[C] Luminal valves identical to lower extremity veins",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.2448559617798355,
+      "y" : 0.4934722224387867,
+      "w" : 0.4238682872844192,
+      "text" : "[D] Extremely thin, highly Fenestrated Endothelium optimized for passive",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.09465020781892997,
+      "y" : 0.4818055556159086,
+      "w" : 0.12345678701340776,
+      "text" : "solute\/water uptake",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.18724280349794223,
+      "y" : 0.47014534874970587,
+      "w" : 0.30864197353147116,
+      "text" : "[E] Occluding tight junctions impermeable to all ions",
+      "conf" : 1,
+      "h" : 0.010290697945488758
+    },
+    {
+      "x" : 0.254115233641975,
+      "y" : 0.44694767449127903,
+      "w" : 0.4382715765035377,
+      "text" : "Q19. [2021 Exam] In the renal medullary countercurrent system, the",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.25720165356652924,
+      "y" : 0.43459302335271316,
+      "w" : 0.4485596470862815,
+      "text" : "Vasa Recta act specifically as 'Countercurrent Exchangers' because:",
+      "conf" : 1,
+      "h" : 0.011627906163533486
+    },
+    {
+      "x" : 0.2623456866598077,
+      "y" : 0.41791666654136317,
+      "w" : 0.45884771766902516,
+      "text" : "[A] Hairpin loops and high permeability allow passive exchange, preserving the",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.1347736612139918,
+      "y" : 0.4062499998304265,
+      "w" : 0.20370370636946,
+      "text" : "osmotic gradient without washout",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.25925926080246914,
+      "y" : 0.3953036175623911,
+      "w" : 0.4526748657226562,
+      "text" : "[B] They actively pump sodium and chloride out of the medulla into the cortex",
+      "conf" : 1,
+      "h" : 0.011718345748053638
+    },
+    {
+      "x" : 0.23559671457475978,
+      "y" : 0.38292958665362814,
+      "w" : 0.4053497794289259,
+      "text" : "[C] They synthesize concentrated hypertonic urea directly from blood",
+      "conf" : 1,
+      "h" : 0.01030361758338072
+    },
+    {
+      "x" : 0.06378600720353078,
+      "y" : 0.3720930231494056,
+      "w" : 0.06188477810073949,
+      "text" : "ammonia",
+      "conf" : 1,
+      "h" : 0.009291225009494308
+    },
+    {
+      "x" : 0.2520576204732508,
+      "y" : 0.35973837221414734,
+      "w" : 0.4382715765035377,
+      "text" : "[D] Blood flows through them at ultra-rapid velocities exceeding arterial jet",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.05246913515089165,
+      "y" : 0.3481104650436047,
+      "w" : 0.03909464902098074,
+      "text" : "speed",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.23353910133744837,
+      "y" : 0.3365277777395598,
+      "w" : 0.4012345607925511,
+      "text" : "LE They prevent any water from returning to the systemic circulation",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.2582304601165978,
+      "y" : 0.3255587854171516,
+      "w" : 0.4465020617599007,
+      "text" : "Q20. [2020 Exam] What is the primary hemodynamic consequence of",
+      "conf" : 1,
+      "h" : 0.011673126220703156
+    },
+    {
+      "x" : 0.2469135873113852,
+      "y" : 0.31180555577608654,
+      "w" : 0.4238682872844192,
+      "text" : "slow, sluggish blood flow (less than 10% of total RBF) through the",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.08024691200274353,
+      "y" : 0.2994444444083163,
+      "w" : 0.09465020257721907,
+      "text" : "Vasa Recta?",
+      "conf" : 1,
+      "h" : 0.008888888888888946
+    },
+    {
+      "x" : 0.1604938303497942,
+      "y" : 0.2841569767986919,
+      "w" : 0.25514403529137186,
+      "text" : "[A] Infarction of the outer cortical labyrinth",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.18724280349794223,
+      "y" : 0.27252906984011627,
+      "w" : 0.30864197353147116,
+      "text" : "[B] Thrombosis of the arcuate veins in all individuals",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.2314814854526748,
+      "y" : 0.2602357881348704,
+      "w" : 0.3971193421561763,
+      "text" : "[C] Minimizes solute washout, preserving medullary hyperosmolality",
+      "conf" : 1,
+      "h" : 0.011750646167331236
+    },
+    {
+      "x" : 0.17078189759945112,
+      "y" : 0.24781976751453488,
+      "w" : 0.27572015246505255,
+      "text" : "[DJ Drops GFR to zero during normal hydration",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.1903292234224964,
+      "y" : 0.23694121477664692,
+      "w" : 0.3189300201224081,
+      "text" : "[E] Converts medullary interstitial fluid into pure water",
+      "conf" : 1,
+      "h" : 0.011673126220703156
+    },
+    {
+      "x" : 0.7191358076903291,
+      "y" : 0.3255587853929269,
+      "w" : 0.4176954833216636,
+      "text" : "Q27. [2025 Exam] Histologically, how do the walls of Interlobular",
+      "conf" : 1,
+      "h" : 0.011673126220703156
+    },
+    {
+      "x" : 0.7211934184842248,
+      "y" : 0.3118055555338383,
+      "w" : 0.4176954353380503,
+      "text" : "Arteries differ from Interlobular Veins running beside them in the",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.56995884739369,
+      "y" : 0.2987144704468147,
+      "w" : 0.11934155638112953,
+      "text" : "cortical labyrinth?",
+      "conf" : 1,
+      "h" : 0.013126614358690003
+    },
+    {
+      "x" : 0.6995884820987652,
+      "y" : 0.2841569767986919,
+      "w" : 0.37860081030887616,
+      "text" : "[A] Arteries have transitional epithelium, veins have mesothelium",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.7119341567215364,
+      "y" : 0.27180232538759697,
+      "w" : 0.4032921461189318,
+      "text" : "[B] Veins have thicker media and higher smooth muscle than arteries",
+      "conf" : 1,
+      "h" : 0.011627906163533597
+    },
+    {
+      "x" : 0.7181069906893005,
+      "y" : 0.2609625321719346,
+      "w" : 0.41563785001166964,
+      "text" : "[C] Arteries have distinct internal elastic lamina & thicker circular media",
+      "conf" : 1,
+      "h" : 0.010297157499525311
+    },
+    {
+      "x" : 0.7078189349794237,
+      "y" : 0.2485885014509136,
+      "w" : 0.3950617088461823,
+      "text" : "[D] Arteries are sinusoidal tubes completely lacking smooth muscle",
+      "conf" : 1,
+      "h" : 0.01171188566419823
+    },
+    {
+      "x" : 0.6872361172574937,
+      "y" : 0.23690023633969248,
+      "w" : 0.35814093343866693,
+      "text" : "[E] Veins have thick muscular adventitia with cartilage rings",
+      "conf" : 1,
+      "h" : 0.01181159549289279
+    },
+    {
+      "x" : 0.2500000043467077,
+      "y" : 0.20348837194767433,
+      "w" : 0.4300411392307881,
+      "text" : "Q21. [2024 Exam] The Non-Glomerular Arterial Blood Supply of the",
+      "conf" : 1,
+      "h" : 0.011627906163533597
+    },
+    {
+      "x" : 0.7366255068587108,
+      "y" : 0.20421511620639549,
+      "w" : 0.45267486572265625,
+      "text" : "Q28. [2020 Exam] Aglomerular arterioles that arise due to progressive",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.2644032998971191,
+      "y" : 0.19040697684108537,
+      "w" : 0.4629629363054,
+      "text" : "kidney includes which of the following specialized vascular pathways?",
+      "conf" : 1,
+      "h" : 0.011627906163533486
+    },
+    {
+      "x" : 0.7294238760973935,
+      "y" : 0.18968023263081402,
+      "w" : 0.46707815494177474,
+      "text" : "obsolescence and atrophy of cortical glomeruli with aging are termed:",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.26028806015946515,
+      "y" : 0.17513888869884797,
+      "w" : 0.4547324990326504,
+      "text" : "[A] Ludwig's Arterioles, Arteria Perforantes (capsular branches), and Nutrient",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.5956790152606308,
+      "y" : 0.1751388887775786,
+      "w" : 0.17489711593531954,
+      "text" : "[A] Arteriolae rectae spuriae",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.10905349965706441,
+      "y" : 0.1634722219728691,
+      "w" : 0.15226336545164482,
+      "text" : "vessels to calyces\/pelvis",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.21913580867626867,
+      "y" : 0.15182170540045997,
+      "w" : 0.3724279823543141,
+      "text" : "[B] Coronary collateral arteries and internal mammary branches",
+      "conf" : 1,
+      "h" : 0.01031007766723635
+    },
+    {
+      "x" : 0.19958848153292172,
+      "y" : 0.14098837212936055,
+      "w" : 0.3333333333333333,
+      "text" : "[C] Splenic cords of Billroth and central follicular arteries",
+      "conf" : 1,
+      "h" : 0.011627906163533597
+    },
+    {
+      "x" : 0.16563786450617263,
+      "y" : 0.12863372100290688,
+      "w" : 0.2654320818823088,
+      "text" : "[D] Celiac trunk direct capillary anastomoses",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.6893004070473252,
+      "y" : 0.15182170527327976,
+      "w" : 0.3580246931351956,
+      "text" : "[C] Arteriolae Rectae Verae (Isaac-Ludwig arteriole bypasses)",
+      "conf" : 1,
+      "h" : 0.01031007766723624
+    },
+    {
+      "x" : 0.5936214012602881,
+      "y" : 0.1409883721656977,
+      "w" : 0.16666666666666663,
+      "text" : "[D] Central follicular arteries",
+      "conf" : 1,
+      "h" : 0.00872092988755968
+    },
+    {
+      "x" : 0.625514407133059,
+      "y" : 0.12936046503227389,
+      "w" : 0.23045267548950965,
+      "text" : "[E] Cavernous sinusoids of the medulla",
+      "conf" : 1,
+      "h" : 0.00872093015246922
+    },
+    {
+      "x" : 0.13683127831790118,
+      "y" : 0.11707041352200176,
+      "w" : 0.20781892500583482,
+      "text" : "[E] Ductus venosus bypass vessels",
+      "conf" : 1,
+      "h" : 0.01030361758338083
+    },
+    {
+      "x" : 0.3179012416923867,
+      "y" : 0.013846899178233563,
+      "w" : 0.5699588127855986,
+      "text" : "Twisted Medicine • Renal Histology Master Class • Strictly Grounded in Faculty & Board 5gn Past Papers",
+      "conf" : 1,
+      "h" : 0.018972867329915433
+    },
+    {
+      "x" : 0.8734567900205762,
+      "y" : 0.019660852735567502,
+      "w" : 0.19135802646852884,
+      "text" : "Confidential Student Revision Bank",
+      "conf" : 1,
+      "h" : 0.007344961166381836
+    }
+  ]
+}

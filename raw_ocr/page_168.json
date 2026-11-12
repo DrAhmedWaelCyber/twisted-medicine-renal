@@ -1,0 +1,973 @@
+{
+  "items" : [
+    {
+      "y" : 0.966534237534699,
+      "h" : 0.01751291963789192,
+      "text" : "Twisted Medicinai seen! System, Mos Uestrucesture athy on as terrogical Emergencies • Standard Practice Bank",
+      "conf" : 1,
+      "x" : 0.3750000056234335,
+      "w" : 0.6748120152290394
+    },
+    {
+      "y" : 0.9694767439932293,
+      "h" : 0.011804327434963735,
+      "text" : "Page 2 of 4",
+      "conf" : 1,
+      "x" : 0.9210526311396281,
+      "w" : 0.07899061541690999
+    },
+    {
+      "y" : 0.9368055557942551,
+      "h" : 0.01027777777777783,
+      "text" : "Q15. [2025 Exam] What behavior characteristically distinguishes",
+      "conf" : 1,
+      "x" : 0.25939850173872164,
+      "w" : 0.4398496121832315
+    },
+    {
+      "y" : 0.9288436694752479,
+      "h" : 0.0117571051915486,
+      "text" : "acute Renal Colic from acute Peritoneal Peritonitis?",
+      "conf" : 1,
+      "x" : 0.21522556951754365,
+      "w" : 0.3515037465318341
+    },
+    {
+      "y" : 0.915697674491279,
+      "h" : 0.011627906163533486,
+      "text" : "[A] Colic patients lie perfectly still because any movement triggers pain",
+      "conf" : 1,
+      "x" : 0.23590226059680444,
+      "w" : 0.3966165373944105
+    },
+    {
+      "y" : 0.9055490959208032,
+      "h" : 0.011679586304558676,
+      "text" : "[B] Colic patients display generalized board-like involuntary rigidity",
+      "conf" : 1,
+      "x" : 0.22368421517857134,
+      "w" : 0.37218044782867543
+    },
+    {
+      "y" : 0.8953552972333776,
+      "h" : 0.008733849790361181,
+      "text" : "[C] Colic patients have bilateral flaccid lower extremity paralysis",
+      "conf" : 1,
+      "x" : 0.2171052676456766,
+      "w" : 0.35902254500893016
+    },
+    {
+      "y" : 0.8852357884869894,
+      "h" : 0.01175064563751227,
+      "text" : "[D] Colic patients have immediate pain relief on deep inspiration",
+      "conf" : 1,
+      "x" : 0.21804511245300748,
+      "w" : 0.36090223914337705
+    },
+    {
+      "y" : 0.8743055557470167,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Colic patients writhe & pace restlessly; Peritonitis patients lie completely",
+      "conf" : 1,
+      "x" : 0.2481203049624059,
+      "w" : 0.42105262696014556
+    },
+    {
+      "y" : 0.8648255814437984,
+      "h" : 0.00872092988755968,
+      "text" : "motionless",
+      "conf" : 1,
+      "x" : 0.07048872290100247,
+      "w" : 0.06578947022010917
+    },
+    {
+      "y" : 0.8386272605724896,
+      "h" : 0.011698966026306157,
+      "text" : "Q16. [2024 Exam] Which anatomical location along the ureter is",
+      "conf" : 1,
+      "x" : 0.25563910194235573,
+      "w" : 0.4323307917668269
+    },
+    {
+      "y" : 0.8277616279614826,
+      "h" : 0.010174418555365605,
+      "text" : "the narrowest constriction and most common site of stone",
+      "conf" : 1,
+      "x" : 0.2377819598449247,
+      "w" : 0.3966165373944105
+    },
+    {
+      "y" : 0.8175872094234495,
+      "h" : 0.010174418555365716,
+      "text" : "impaction?",
+      "conf" : 1,
+      "x" : 0.07800752014411022,
+      "w" : 0.0808270671743013
+    },
+    {
+      "y" : 0.8059722220845974,
+      "h" : 0.01027777777777783,
+      "text" : "[A] The Ureterovesical Junction (UVJ) traversing the bladder wall",
+      "conf" : 1,
+      "x" : 0.21616541948621532,
+      "w" : 0.3571428508744833
+    },
+    {
+      "y" : 0.7957848837936046,
+      "h" : 0.010174418555365716,
+      "text" : "[B] The Ureteropelvic Junction (UPJ) at the renal pelvis exit",
+      "conf" : 1,
+      "x" : 0.2020676746553883,
+      "w" : 0.32894735110054596
+    },
+    {
+      "y" : 0.7841569766170058,
+      "h" : 0.010174418555365605,
+      "text" : "[C] The crossing of the ureter over iliac vessels at the pelvic brim",
+      "conf" : 1,
+      "x" : 0.21804511057330833,
+      "w" : 0.36090223914337705
+    },
+    {
+      "y" : 0.774722222011923,
+      "h" : 0.011666666666666714,
+      "text" : "[D] The mid-ureter adjacent to third lumbar transverse process",
+      "conf" : 1,
+      "x" : 0.21334587052004994,
+      "w" : 0.35150374653183414
+    },
+    {
+      "y" : 0.7637532299544243,
+      "h" : 0.01028423786163335,
+      "text" : "[E] The infundibulum connecting upper calyx to the renal pelvis",
+      "conf" : 1,
+      "x" : 0.21616541948621532,
+      "w" : 0.3571428508744833
+    },
+    {
+      "y" : 0.739037467809897,
+      "h" : 0.010297157499525311,
+      "text" : "Q17. [2023 Exam] What is the rationale of Medical Expulsive",
+      "conf" : 1,
+      "x" : 0.2443609090852128,
+      "w" : 0.4097744182748473
+    },
+    {
+      "y" : 0.7281976745058139,
+      "h" : 0.01162790722317164,
+      "text" : "Therapy (MET) using Tamsulosin for distal ureteral stones (5-10",
+      "conf" : 1,
+      "x" : 0.25563910206766916,
+      "w" : 0.432330835645444
+    },
+    {
+      "y" : 0.7180232557170543,
+      "h" : 0.00872092988755968,
+      "text" : "mm)?",
+      "conf" : 0.5,
+      "x" : 0.05827067600250629,
+      "w" : 0.041353383396787666
+    },
+    {
+      "y" : 0.7063888889471523,
+      "h" : 0.011666666666666603,
+      "text" : "[A] Loop diuretics to create high-pressure hydronephrosis",
+      "conf" : 1,
+      "x" : 0.19830827565789458,
+      "w" : 0.3214285526234498
+    },
+    {
+      "y" : 0.69615633077669,
+      "h" : 0.011757106251186755,
+      "text" : "[B] Alpha-1 blocker relaxes distal ureteral smooth muscle, accelerating stone",
+      "conf" : 1,
+      "x" : 0.25093985389097734,
+      "w" : 0.4266917313027947
+    },
+    {
+      "y" : 0.6860465117206122,
+      "h" : 0.008972296184963646,
+      "text" : "passage",
+      "conf" : 1,
+      "x" : 0.06390977531404096,
+      "w" : 0.052700451344230216
+    },
+    {
+      "y" : 0.6751388888441968,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Muscarinic agonists to stimulate violent detrusor contractions",
+      "conf" : 1,
+      "x" : 0.21992481658834576,
+      "w" : 0.36466164935157935
+    },
+    {
+      "y" : 0.6649709303234013,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Potassium-sparing diuretics to acidify the collecting duct",
+      "conf" : 1,
+      "x" : 0.2058270718749999,
+      "w" : 0.336466149577642
+    },
+    {
+      "y" : 0.6548546511307334,
+      "h" : 0.01029069741566968,
+      "text" : "[E] Broad-spectrum oral penicillins to dissolve ureteral adventitia",
+      "conf" : 1,
+      "x" : 0.21898496845238075,
+      "w" : 0.362781933277824
+    },
+    {
+      "y" : 0.640261628034157,
+      "h" : 0.010174418555365827,
+      "text" : "Q18. [2022 Exam] What are the evidence-based likelihoods of",
+      "conf" : 1,
+      "x" : 0.24812030380639089,
+      "w" : 0.4172932386912518
+    },
+    {
+      "y" : 0.6286337208575581,
+      "h" : 0.010174418555365716,
+      "text" : "spontaneous passage for ureteral calculi based on diameter?",
+      "conf" : 1,
+      "x" : 0.24530074495614063,
+      "w" : 0.4154135226174964
+    },
+    {
+      "y" : 0.6170704135401703,
+      "h" : 0.01030361758338083,
+      "text" : "[A] Calculi <5 mm have ~80-90% passage rate; stones >10 mm have <10%",
+      "conf" : 1,
+      "x" : 0.2509398567355887,
+      "w" : 0.42669173130279475
+    },
+    {
+      "y" : 0.6090116281007751,
+      "h" : 0.011627906163533486,
+      "text" : "passage (require intervention)",
+      "conf" : 1,
+      "x" : 0.1231203010964912,
+      "w" : 0.1710526269601456
+    },
+    {
+      "y" : 0.5966569765746124,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Calculi of all sizes have an identical 50% spontaneous passage rate",
+      "conf" : 1,
+      "x" : 0.2340225628759396,
+      "w" : 0.39285714912551667
+    },
+    {
+      "y" : 0.5865277777395598,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Calculi >15 mm pass spontaneously in >95% of adult male patients",
+      "conf" : 1,
+      "x" : 0.2359022596052631,
+      "w" : 0.39661653739441044
+    },
+    {
+      "y" : 0.5769799739966852,
+      "h" : 0.011737725999620197,
+      "text" : "[D] Calculi <3 mm require immediate open radical nephrectomy",
+      "conf" : 1,
+      "x" : 0.2161654137844612,
+      "w" : 0.35714285087448333
+    },
+    {
+      "y" : 0.5661337210210755,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Calculi never pass spontaneously regardless of anatomical size",
+      "conf" : 1,
+      "x" : 0.22274436553101493,
+      "w" : 0.37030073175492
+    },
+    {
+      "y" : 0.5515374676463796,
+      "h" : 0.010297157499525311,
+      "text" : "Q19. [2021 Exam] Which of the following conditions represents an",
+      "conf" : 1,
+      "x" : 0.262218039544173,
+      "w" : 0.4454887165258806
+    },
+    {
+      "y" : 0.5399709301780522,
+      "h" : 0.010174418555365716,
+      "text" : "ABSOLUTE CONTRAINDICATION to Shock Wave Lithotripsy",
+      "conf" : 1,
+      "x" : 0.2349624011278197,
+      "w" : 0.39097743305176136
+    },
+    {
+      "y" : 0.5305232557170543,
+      "h" : 0.00872092988755968,
+      "text" : "(ESWL)?",
+      "conf" : 0.5,
+      "x" : 0.06672932233709276,
+      "w" : 0.05827067722784026
+    },
+    {
+      "y" : 0.5181944445294403,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Solitary functioning kidney with non-obstructing stone",
+      "conf" : 1,
+      "x" : 0.19830827603383444,
+      "w" : 0.3214285526234498
+    },
+    {
+      "y" : 0.5079295865870099,
+      "h" : 0.01030361758338083,
+      "text" : "[B] Patient age over 65 years with normal blood pressure",
+      "conf" : 1,
+      "x" : 0.19642857539943598,
+      "w" : 0.31766916435455606
+    },
+    {
+      "y" : 0.49781976749636625,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Renal stone located in middle minor calyx measuring 8 mm",
+      "conf" : 1,
+      "x" : 0.21240601940789464,
+      "w" : 0.34962405239738725
+    },
+    {
+      "y" : 0.48763888892292734,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Pregnancy, uncorrected coagulopathy\/bleeding diathesis, and active UTI",
+      "conf" : 1,
+      "x" : 0.24812030739348348,
+      "w" : 0.42105262696014556
+    },
+    {
+      "y" : 0.4767474161853386,
+      "h" : 0.0087273899714152,
+      "text" : "[E] Presence of a functioning double-J ureteral stent",
+      "conf" : 1,
+      "x" : 0.18233083189223045,
+      "w" : 0.28947366458061874
+    },
+    {
+      "y" : 0.4512532299362557,
+      "h" : 0.010284237861633239,
+      "text" : "Q20. [2020 Exam] What is the procedure of choice for treating",
+      "conf" : 1,
+      "x" : 0.25000000526315774,
+      "w" : 0.42105262696014556
+    },
+    {
+      "y" : 0.4411337210513566,
+      "h" : 0.010174418555365605,
+      "text" : "large, complex Staghorn Calculi (>20 mm) in the renal pelvis?",
+      "conf" : 1,
+      "x" : 0.24812030776942334,
+      "w" : 0.42105262696014556
+    },
+    {
+      "y" : 0.4295704135583389,
+      "h" : 0.01030361758338083,
+      "text" : "[A] Conservative outpatient observation with oral allopurinol",
+      "conf" : 1,
+      "x" : 0.20488722222744352,
+      "w" : 0.3345864554431951
+    },
+    {
+      "y" : 0.41930555559773997,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Repeated sessions of shock wave lithotripsy (ESWL) without drainage",
+      "conf" : 1,
+      "x" : 0.23966165918702995,
+      "w" : 0.40413531393219804
+    },
+    {
+      "y" : 0.4091569767986919,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Oral potassium citrate chemolysis for all stone compositions",
+      "conf" : 1,
+      "x" : 0.2152255683505638,
+      "w" : 0.3552631567400364
+    },
+    {
+      "y" : 0.39902777783645915,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Bilateral laparoscopic ureteral reimplantation",
+      "conf" : 1,
+      "x" : 0.1748120277568923,
+      "w" : 0.27443608956573506
+    },
+    {
+      "y" : 0.3873611113193207,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Percutaneous Nephrolithotomy (PCNL) with nephroscopic lithotripsy",
+      "conf" : 1,
+      "x" : 0.23496240996240597,
+      "w" : 0.39473682132065513
+    },
+    {
+      "y" : 0.35319767461240303,
+      "h" : 0.011627906163533597,
+      "text" : "Q21. [2024 Exam] What laser technology is the gold standard for",
+      "conf" : 1,
+      "x" : 0.2593985028822053,
+      "w" : 0.43984961218323143
+    },
+    {
+      "y" : 0.3423546511125649,
+      "h" : 0.010290697415669792,
+      "text" : "intracorporeal stone pulverization during flexible Ureteroscopy",
+      "conf" : 1,
+      "x" : 0.25281955425281943,
+      "w" : 0.4304511195716886
+    },
+    {
+      "y" : 0.33284883713852975,
+      "h" : 0.0088729757732815,
+      "text" : "(RIRS)?",
+      "conf" : 1,
+      "x" : 0.06390977377784883,
+      "w" : 0.052673471479601004
+    },
+    {
+      "y" : 0.3204295865870098,
+      "h" : 0.01030361758338083,
+      "text" : "[A] Holmium:YAG (or Thulium Fiber) Laser, dusting stones of all compositions",
+      "conf" : 1,
+      "x" : 0.25093985495770665,
+      "w" : 0.42669173130279475
+    },
+    {
+      "y" : 0.3103197675145349,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Carbon dioxide (CO2) continuous wave laser",
+      "conf" : 1,
+      "x" : 0.17105263424812028,
+      "w" : 0.26691729108863904
+    },
+    {
+      "y" : 0.30013888879695844,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Argon beam coagulator with high-frequency monopolar cautery",
+      "conf" : 1,
+      "x" : 0.22368421424812027,
+      "w" : 0.37218044782867543
+    },
+    {
+      "y" : 0.28997093030523263,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Helium-neon low-energy biological stimulation laser",
+      "conf" : 1,
+      "x" : 0.1926691781015036,
+      "w" : 0.31015036587746003
+    },
+    {
+      "y" : 0.2783430230862403,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Pulsed dye laser limited strictly to calcium carbonate stones",
+      "conf" : 1,
+      "x" : 0.2142857147869674,
+      "w" : 0.35338344066628097
+    },
+    {
+      "y" : 0.9374999999515503,
+      "h" : 0.011666666666666603,
+      "text" : "Q22. [2023 Exam] What complication termed 'Steinstrasse'",
+      "conf" : 1,
+      "x" : 0.7180451060776946,
+      "w" : 0.40225564173705974
+    },
+    {
+      "y" : 0.9272642115856851,
+      "h" : 0.01175064563751227,
+      "text" : "(stone street) can occur following Shock Wave Lithotripsy",
+      "conf" : 1,
+      "x" : 0.7124060101033836,
+      "w" : 0.39473682132065513
+    },
+    {
+      "y" : 0.917151162900893,
+      "h" : 0.009518290625678216,
+      "text" : "(ESWL)?",
+      "conf" : 0.5,
+      "x" : 0.5460526326105524,
+      "w" : 0.06220971003956799
+    },
+    {
+      "y" : 0.9055555556436317,
+      "h" : 0.008888889153798374,
+      "text" : "[A] Complete acute infarction of the main renal vein",
+      "conf" : 1,
+      "x" : 0.6616541390037594,
+      "w" : 0.293233074788821
+    },
+    {
+      "y" : 0.8945833335070864,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Pulverized stone fragments line up and columnate in ureter, causing",
+      "conf" : 1,
+      "x" : 0.7142857076441105,
+      "w" : 0.3984962095895489
+    },
+    {
+      "y" : 0.8851744186531008,
+      "h" : 0.00872092988755968,
+      "text" : "obstruction",
+      "conf" : 1,
+      "x" : 0.5516917304824561,
+      "w" : 0.06954886945865724
+    },
+    {
+      "y" : 0.874305555294717,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Formation of a giant retroperitoneal hematoma",
+      "conf" : 1,
+      "x" : 0.6607142905701753,
+      "w" : 0.291353380654374
+    },
+    {
+      "y" : 0.8647642117068091,
+      "h" : 0.011750645637512158,
+      "text" : "[D] Metastatic calcification of splenic and mesenteric vessels",
+      "conf" : 1,
+      "x" : 0.6860902312656638,
+      "w" : 0.34210525392029123
+    },
+    {
+      "y" : 0.8539244186773256,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Erosion of stone fragments into inferior vena cava",
+      "conf" : 1,
+      "x" : 0.6719924864348368,
+      "w" : 0.3139097541463538
+    },
+    {
+      "y" : 0.83932170540046,
+      "h" : 0.01031007766723624,
+      "text" : "Q23. [2021 Exam] What is the mechanism of Thiazides",
+      "conf" : 1,
+      "x" : 0.7030075249373431,
+      "w" : 0.36842105955978166
+    },
+    {
+      "y" : 0.8277616279312014,
+      "h" : 0.010174418555365716,
+      "text" : "(Chlorthalidone\/Indapamide) in preventing recurrent Calcium",
+      "conf" : 1,
+      "x" : 0.7246240670739346,
+      "w" : 0.4154135226174964
+    },
+    {
+      "y" : 0.8175872094357122,
+      "h" : 0.010933126873440169,
+      "text" : "stones?",
+      "conf" : 1,
+      "x" : 0.544172932774216,
+      "w" : 0.054740346309351984
+    },
+    {
+      "y" : 0.8059722220361478,
+      "h" : 0.010277777777777719,
+      "text" : "[A] They directly chelate calcium in collecting duct forming precipitate",
+      "conf" : 1,
+      "x" : 0.7124060216165411,
+      "w" : 0.394736821320655
+    },
+    {
+      "y" : 0.7950193796326808,
+      "h" : 0.011705425580342599,
+      "text" : "[B] Inhibiting distal NaCl induces volume contraction, enhancing Proximal",
+      "conf" : 1,
+      "x" : 0.7189849580513785,
+      "w" : 0.4078947022010918
+    },
+    {
+      "y" : 0.7856782947448888,
+      "h" : 0.01031007766723624,
+      "text" : "Calcium reabsorption",
+      "conf" : 1,
+      "x" : 0.5789473704887218,
+      "w" : 0.12406014196312232
+    },
+    {
+      "y" : 0.775416666717206,
+      "h" : 0.01027777777777783,
+      "text" : "[C] They acidify the urine to pH <4.0 to dissolve calcium crystals",
+      "conf" : 1,
+      "x" : 0.696428565507519,
+      "w" : 0.3552631567400364
+    },
+    {
+      "y" : 0.7652616279614826,
+      "h" : 0.010174418555365605,
+      "text" : "[D] They stimulate intestinal calcium absorption to saturate bone matrix",
+      "conf" : 1,
+      "x" : 0.7171052681156014,
+      "w" : 0.3966165373944105
+    },
+    {
+      "y" : 0.7551388888408572,
+      "h" : 0.01027777777777783,
+      "text" : "[E] They inhibit the production of osteocytic FGF-23",
+      "conf" : 1,
+      "x" : 0.6597744312656644,
+      "w" : 0.28947366458061874
+    },
+    {
+      "y" : 0.7397642120104784,
+      "h" : 0.011750646167331347,
+      "text" : "Q24. [2025 Exam] What is the primary daily urine volume goal",
+      "conf" : 1,
+      "x" : 0.7293233124812029,
+      "w" : 0.42105262696014556
+    },
+    {
+      "y" : 0.7281976744670543,
+      "h" : 0.011627906163533597,
+      "text" : "recommended by guidelines to prevent recurrent",
+      "conf" : 1,
+      "x" : 0.6870300808583958,
+      "w" : 0.34022555978584423
+    },
+    {
+      "y" : 0.7187500001695737,
+      "h" : 0.010174418555365605,
+      "text" : "nephrolithiasis?",
+      "conf" : 1,
+      "x" : 0.5733082722431078,
+      "w" : 0.11278195521713241
+    },
+    {
+      "y" : 0.7063888888018033,
+      "h" : 0.011666666666666603,
+      "text" : "[A] Urine volume maintained strictly below 500 mL\/day to avoid polyuria",
+      "conf" : 1,
+      "x" : 0.7171052698934834,
+      "w" : 0.40413531393219804
+    },
+    {
+      "y" : 0.6961563305020906,
+      "h" : 0.011757105721367789,
+      "text" : "[B] Urine volume exceeding 10 Liters per day using loop diuretics",
+      "conf" : 1,
+      "x" : 0.700187976096491,
+      "w" : 0.37030073175492006
+    },
+    {
+      "y" : 0.6853197675145348,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Urine output limited strictly to nighttime hours",
+      "conf" : 1,
+      "x" : 0.6560150422932329,
+      "w" : 0.2819548880428311
+    },
+    {
+      "y" : 0.675843023104614,
+      "h" : 0.011686046388414195,
+      "text" : "[D] Urine volume >= 2.0 to 2.5 Liters\/day (fluid intake ~ 2.5-3.0 L\/d) to dilute",
+      "conf" : 1,
+      "x" : 0.7293233051378447,
+      "w" : 0.4285714034979332
+    },
+    {
+      "y" : 0.6656976744670543,
+      "h" : 0.00872092988755968,
+      "text" : "supersaturation",
+      "conf" : 1,
+      "x" : 0.5610902270989974,
+      "w" : 0.09210526488994542
+    },
+    {
+      "y" : 0.6548546511307334,
+      "h" : 0.01029069741566968,
+      "text" : "[E] Zero urine volume by consuming only hypertonic saline solutions",
+      "conf" : 1,
+      "x" : 0.7058270740288219,
+      "w" : 0.38157894044021845
+    },
+    {
+      "y" : 0.6395348837936046,
+      "h" : 0.00872092988755968,
+      "text" : "Q25. [2020 Exam] Why does excessive dietary Sodium intake",
+      "conf" : 1,
+      "x" : 0.7236842156954886,
+      "w" : 0.41353380654374106
+    },
+    {
+      "y" : 0.6286337210210755,
+      "h" : 0.010174418555365716,
+      "text" : "(>2,000 mg\/day) significantly increase calcium stone recurrence?",
+      "conf" : 1,
+      "x" : 0.7387218100563908,
+      "w" : 0.44360900045212526
+    },
+    {
+      "y" : 0.6170704135220018,
+      "h" : 0.01030361758338083,
+      "text" : "[A] High sodium intake directly converts uric acid into sodium urate",
+      "conf" : 1,
+      "x" : 0.7039473730968044,
+      "w" : 0.37406012002381384
+    },
+    {
+      "y" : 0.6075710594861349,
+      "h" : 0.008746769693162681,
+      "text" : "[B] Sodium expands ECF, blunting proximal tubular parallel Calcium",
+      "conf" : 1,
+      "x" : 0.7039473747180449,
+      "w" : 0.37781955217132457
+    },
+    {
+      "y" : 0.5973837209786822,
+      "h" : 0.00872092988755968,
+      "text" : "reabsorption and increasing Hypercalciuria",
+      "conf" : 1,
+      "x" : 0.6353383498746865,
+      "w" : 0.2406014854491485
+    },
+    {
+      "y" : 0.5872222222639385,
+      "h" : 0.008888889153798374,
+      "text" : "[C] Sodium ions stimulate parathyroid adenoma formation in 48 hours",
+      "conf" : 1,
+      "x" : 0.7095864596804513,
+      "w" : 0.3890977169780059
+    },
+    {
+      "y" : 0.5762532299770858,
+      "h" : 0.010284237331814383,
+      "text" : "[D] Sodium precipitates directly with citrate forming insoluble rocks",
+      "conf" : 1,
+      "x" : 0.7039473680137844,
+      "w" : 0.3740601200238137
+    },
+    {
+      "y" : 0.5661337210029069,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Sodium blocks Tamm-Horsfall mucoprotein synthesis in thick ascending limb",
+      "conf" : 1,
+      "x" : 0.7377819593045112,
+      "w" : 0.44172932825698685
+    },
+    {
+      "y" : 0.5501388891135993,
+      "h" : 0.01027777777777783,
+      "text" : "Q26. [2022 Exam] What is 'Post-Obstructive Diuresis' (POD), and",
+      "conf" : 1,
+      "x" : 0.73590226193609,
+      "w" : 0.43421050784058235
+    },
+    {
+      "y" : 0.5399709301598838,
+      "h" : 0.010174418555365716,
+      "text" : "what physiological phenomenon defines it after relieving",
+      "conf" : 1,
+      "x" : 0.7105263093358398,
+      "w" : 0.3872180447828676
+    },
+    {
+      "y" : 0.5305555556307378,
+      "h" : 0.008888888888888835,
+      "text" : "bilateral obstruction?",
+      "conf" : 1,
+      "x" : 0.5902255620770678,
+      "w" : 0.1466165373944105
+    },
+    {
+      "y" : 0.5174289405025343,
+      "h" : 0.00874676995807222,
+      "text" : "[A] Complete persistent anuria lasting for >2 weeks post-decompression",
+      "conf" : 1,
+      "x" : 0.7171052681625938,
+      "w" : 0.40037592566330416
+    },
+    {
+      "y" : 0.5079295864779982,
+      "h" : 0.01030361758338083,
+      "text" : "[B] High urine output (>200 mL\/h for > 2h) driven by retained urea osmotic",
+      "conf" : 1,
+      "x" : 0.7246240549577069,
+      "w" : 0.4154135226174964
+    },
+    {
+      "y" : 0.49781976761143404,
+      "h" : 0.010174418555365716,
+      "text" : "diuresis & medullary washout",
+      "conf" : 1,
+      "x" : 0.5996240604010026,
+      "w" : 0.1654135335871506
+    },
+    {
+      "y" : 0.48763888882602824,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Massive proteinuria exceeding 20 grams per day without hematuria",
+      "conf" : 1,
+      "x" : 0.7142857208646616,
+      "w" : 0.39473682132065513
+    },
+    {
+      "y" : 0.477470930287064,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Rapid development of severe metabolic alkalosis with hyperkalemia",
+      "conf" : 1,
+      "x" : 0.7152255688674811,
+      "w" : 0.3966165373944105
+    },
+    {
+      "y" : 0.4665697673691861,
+      "h" : 0.00872092988755968,
+      "text" : "[E] Spontaneous development of bilateral staghorn struvite calculi",
+      "conf" : 1,
+      "x" : 0.7001879653430452,
+      "w" : 0.3665413434860262
+    },
+    {
+      "y" : 0.45125322994231193,
+      "h" : 0.01028423786163335,
+      "text" : "Q27. [2024 Exam] What is the critical management rule during",
+      "conf" : 1,
+      "x" : 0.7293233117794485,
+      "w" : 0.42105262696014556
+    },
+    {
+      "y" : 0.441133721002907,
+      "h" : 0.010174418555365716,
+      "text" : "the physiological phase of Post-Obstructive Diuresis?",
+      "conf" : 1,
+      "x" : 0.697368424661654,
+      "w" : 0.36090223914337705
+    },
+    {
+      "y" : 0.43027777772502496,
+      "h" : 0.008888888888888946,
+      "text" : "[A] Replace 100% of urine output volume-for-volume with normal saline",
+      "conf" : 1,
+      "x" : 0.7152255678759398,
+      "w" : 0.3966165373944105
+    },
+    {
+      "y" : 0.41933139547673765,
+      "h" : 0.010419686635335323,
+      "text" : "indefinitely",
+      "conf" : 1,
+      "x" : 0.5488721802639769,
+      "w" : 0.0639744805912591
+    },
+    {
+      "y" : 0.40915697661700584,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Administer high-dose intravenous loop diuretics to clear remaining debris",
+      "conf" : 1,
+      "x" : 0.7283834630404135,
+      "w" : 0.4266917313027947
+    },
+    {
+      "y" : 0.39902777772139125,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Replace ~50-75% of urine losses with 0.45% saline to avoid perpetuating",
+      "conf" : 1,
+      "x" : 0.7293233136278194,
+      "w" : 0.4285714034979332
+    },
+    {
+      "y" : 0.38883720935818966,
+      "h" : 0.007325581444634244,
+      "text" : "iatrogenic diuresis",
+      "conf" : 1,
+      "x" : 0.5686090208333334,
+      "w" : 0.10338345163593521
+    },
+    {
+      "y" : 0.37863372098473835,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Strict absolute fluid restriction to 0 mL per day to stop urine production",
+      "conf" : 1,
+      "x" : 0.724624065343045,
+      "w" : 0.4154135226174964
+    },
+    {
+      "y" : 0.36847222201797913,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Immediate bilateral nephrectomy to control fluid losses",
+      "conf" : 1,
+      "x" : 0.6795112822603382,
+      "w" : 0.3251879628316521
+    },
+    {
+      "y" : 0.35247093030523263,
+      "h" : 0.010174418555365716,
+      "text" : "Q28. [2021 Exam] Which of the following medications is a",
+      "conf" : 1,
+      "x" : 0.7133458711466163,
+      "w" : 0.389097716978006
+    },
+    {
+      "y" : 0.34304909581335497,
+      "h" : 0.011679585774739598,
+      "text" : "documented cause of secondary stones via direct urinary",
+      "conf" : 1,
+      "x" : 0.7105263210526314,
+      "w" : 0.3872180447828676
+    },
+    {
+      "y" : 0.3321220931140988,
+      "h" : 0.010174418555365605,
+      "text" : "crystallization?",
+      "conf" : 1,
+      "x" : 0.5695488734962406,
+      "w" : 0.10526315674003639
+    },
+    {
+      "y" : 0.3197222222733343,
+      "h" : 0.008888888623979407,
+      "text" : "[A] Acetaminophen in normal therapeutic doses",
+      "conf" : 1,
+      "x" : 0.6484962439379698,
+      "w" : 0.26691729108863904
+    },
+    {
+      "y" : 0.3103197674963662,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Topical hydrocortisone cream applied to skin",
+      "conf" : 1,
+      "x" : 0.6503759432330827,
+      "w" : 0.2706766793575328
+    },
+    {
+      "y" : 0.2994444444083163,
+      "h" : 0.008888888888888946,
+      "text" : "[C] Oral calcium gluconate taken with heavy meals",
+      "conf" : 1,
+      "x" : 0.6569548824874688,
+      "w" : 0.2838345821772781
+    },
+    {
+      "y" : 0.2892474160157649,
+      "h" : 0.0087273899714152,
+      "text" : "[D] Triamterene, Sulfadiazine, Indinavir, and high-dose IV Acyclovir",
+      "conf" : 1,
+      "x" : 0.7011278148966167,
+      "w" : 0.37218044782867543
+    },
+    {
+      "y" : 0.2790697673934109,
+      "h" : 0.00872092988755957,
+      "text" : "[E] Subcutaneous regular insulin",
+      "conf" : 1,
+      "x" : 0.60620300447995,
+      "w" : 0.18233082467578965
+    },
+    {
+      "y" : 0.016692506341328017,
+      "h" : 0.018940568500094956,
+      "text" : "Twisted Medicine • Clinical Nephrology & Urology Master Class • Faculty & Board Exal 66",
+      "conf" : 1,
+      "x" : 0.2866541291118423,
+      "w" : 0.49812028392624463
+    },
+    {
+      "y" : 0.022525839780019985,
+      "h" : 0.007273901833428242,
+      "text" : "reparation Confidential - MediSatiStlyderd Relesi om Faculty & Board Exam Past Papers",
+      "conf" : 1,
+      "x" : 0.7424812084586465,
+      "w" : 0.4360902239143377
+    }
+  ],
+  "page" : 168
+}

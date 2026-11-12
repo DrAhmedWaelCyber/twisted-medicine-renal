@@ -1,0 +1,840 @@
+{
+  "id": 1,
+  "title": "Kidney - Anatomy Lecture",
+  "department": "Anatomy & Embryology",
+  "department_desc": "Anatomy and embryonic development of the kidneys, ureters, bladder and urethra",
+  "booklet_pages": "Pages 1 - 4",
+  "pdf_pages": [
+    3,
+    4,
+    5,
+    6
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 1 - HIGH-YIELD ANATOMICAL PEARLS & BOARD EXAM MATRIX",
+  "summary_table": [
+    {
+      "domain": "Vertebral Level & Dimensions",
+      "content": "• Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane)."
+    },
+    {
+      "domain": "Renal Hilum & Coverings",
+      "content": "• Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis."
+    },
+    {
+      "domain": "Posterior Relations",
+      "content": "• Ribs: Left Kidney related to 11th & 12th ribs; Right Kidney related ONLY to 12th rib. • 3 Muscles (Medial to Lateral): Psoas major -> Quadratus lumborum -> Transversus abdominis. • 3 Nerves: Subcostal (T12), Iliohypogastric (L1), Ilioinguinal (L1)."
+    },
+    {
+      "domain": "Anterior Relations",
+      "content": "• Right Kidney: Suprarenal, Liver (peritoneal), 2nd part Duodenum (non-peritoneal), Right Colic Flexure (non-peritoneal), Small"
+    },
+    {
+      "domain": "intestine (peritoneal).",
+      "content": "• Left Kidney: Suprarenal, Stomach (peritoneal, lesser sac), Spleen, Pancreatic tail (non-peritoneal), Left Colic Flexure & Descending Colon (non-peritoneal), Jejunum (peritoneal)."
+    },
+    {
+      "domain": "Vessels & Clinical Syndromes",
+      "content": "• 5 Segmental End-Arteries: Apical, Upper, Middle, Lower, Posterior (NO anastomoses -> infarction upon occlusion). • Brodel's Line: Longitudinal avascular line along posterior lateral border -> ideal for nephrolithotomy. • Nutcracker Syndrome: Compression of Left Renal Vein between SMA and Aorta -> left flank pain, hematuria, and left testicular"
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In the erect adult, the anatomical vertebral extent of the normal kidneys spans from the:",
+      "options": {
+        "A": "T10 to L1 vertebrae",
+        "B": "T12 to L3 vertebrae",
+        "C": "L1 to L5 vertebrae",
+        "D": "T11 to L2 vertebrae",
+        "E": "L2 to S1 vertebrae"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The Right Kidney normally lies approximately 1.5 cm lower than the Left Kidney primarily due to the:",
+      "options": {
+        "A": "Asymmetric position of the abdominal aorta",
+        "B": "Massive downward bulk of the right lobe of the liver",
+        "C": "Direct pressure from the hepatic flexure of the colon",
+        "D": "Presence of the inferior vena cava on the right side",
+        "E": "Traction exerted by the shorter right renal artery"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Regarding the dimensions and average weight of the adult kidney, which statement is CORRECT?",
+      "options": {
+        "A": "Dimensions are 12 cm length, 6 cm width, and 3 cm thickness",
+        "B": "Dimensions are 8 cm length, 4 cm width, and 2 cm thickness",
+        "C": "Dimensions are 16 cm length, 8 cm width, and 4 cm thickness",
+        "D": "Average weight in adult males is approximately 250 grams",
+        "E": "Average weight in adult females exceeds 200 grams"
+      },
+      "correct_option": "A",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The Renal Hilum is a vertical slit situated on the concave medial border of the kidney located at the level of the:",
+      "options": {
+        "A": "Subcostal plane opposite L3 vertebra",
+        "B": "Transtubercular plane opposite L5 vertebra",
+        "C": "Transpyloric plane opposite L1 vertebra",
+        "D": "Intercristal plane opposite L4 vertebra",
+        "E": "Xiphisternal junction opposite T9 vertebra"
+      },
+      "correct_option": "C",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "At the renal hilum, the anatomical arrangement of primary structures from ANTERIOR to POSTERIOR is:",
+      "options": {
+        "A": "Renal Vein, Renal Artery, Renal Pelvis (V-A-P)",
+        "B": "Renal Artery, Renal Vein, Renal Pelvis",
+        "C": "Renal Pelvis, Renal Artery, Renal Vein",
+        "D": "Renal Artery, Renal Pelvis, Renal Vein",
+        "E": "Renal Vein, Renal Pelvis, Renal Artery"
+      },
+      "correct_option": "A",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "All of the following statements concerning the renal hilum are true EXCEPT:",
+      "options": {
+        "A": "It is a vertical longitudinal fissure on the medial border",
+        "B": "It leads internally into a deep cavity termed the renal sinus",
+        "C": "It transmits renal vessels, nerves, and the renal pelvis",
+        "D": "It lies opposite the L1 vertebra on the left side",
+        "E": "It contains the intramural portion of the ureter"
+      },
+      "correct_option": "E",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "The protective coverings investing the kidney include all of the following anatomical layers EXCEPT the:",
+      "options": {
+        "A": "True Fibrous Capsule",
+        "B": "Thoracolumbar fascia",
+        "C": "Perirenal (Perinephric) adipose capsule",
+        "D": "Renal Fascia (Gerota's fascia)",
+        "E": "Pararenal (Paranephric) adipose body"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Fibrous Capsule (True Capsule) of the normal kidney is clinically distinguished by the fact that it:",
+      "options": {
+        "A": "Fuses firmly with the diaphragm superiorly",
+        "B": "Forms the anterior layer of Gerota's fascia",
+        "C": "Strips off smoothly and easily from a healthy renal cortex",
+        "D": "Derives directly from parietal peritoneum",
+        "E": "Is absent over the anterior surface of the kidney"
+      },
+      "correct_option": "C",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "The Perirenal (Perinephric) Fat is clinically significant because it:",
+      "options": {
+        "A": "Separates the anterior and posterior layers of renal fascia",
+        "B": "Completely invests the fibrous capsule and extends into the renal sinus",
+        "C": "Lies external to Gerota's fascia against the posterior abdominal wall",
+        "D": "Is absent in normal adult kidneys",
+        "E": "Derives from the falciform ligament"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The anterior layer of the Renal Fascia (Gerota's Fascia / Fascia of Toldt) passes medially to:",
+      "options": {
+        "A": "Blend with the anterior longitudinal ligament of the spine",
+        "B": "Form the median umbilical ligament",
+        "C": "Attach firmly to the transverse processes of lumbar vertebrae",
+        "D": "Blend with the adventitia of the abdominal aorta and inferior vena cava",
+        "E": "End freely at the lateral border of the psoas major"
+      },
+      "correct_option": "D",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Superior to the upper pole of the kidney, the anterior and posterior layers of Gerota's renal fascia:",
+      "options": {
+        "A": "Remain widely open to communicate with the mediastinum",
+        "B": "Fuse together above the suprarenal gland and attach to the diaphragm",
+        "C": "Enclose the spleen on the left and the gall bladder on the right",
+        "D": "Fuse below the suprarenal gland, excluding it from the sheath",
+        "E": "Blend directly with the fibrous pericardium"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "A CRITICAL anatomical feature of Gerota's Renal Fascia is that along its INFERIOR margin, the layers:",
+      "options": {
+        "A": "Fuse solidly with the iliac crest, preventing downward spread",
+        "B": "Remain open around the ureter, allowing perinephric fluid to track to the pelvis",
+        "C": "Blend directly with the inguinal ligament",
+        "D": "Form a rigid closed fibrous compartment around the bladder",
+        "E": "Fuse with the pectineal ligament of Cooper"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Pararenal (Paranephric) Fat is anatomically located:",
+      "options": {
+        "A": "Deep to the true fibrous capsule within the renal parenchyma",
+        "B": "Between the fibrous capsule and the renal fascia",
+        "C": "External to Gerota's fascia, mainly posterior and posterolateral to the kidney",
+        "D": "Inside the renal sinus surrounding the interlobar arteries",
+        "E": "Exclusively along the medial concave border of the kidney"
+      },
+      "correct_option": "C",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In rapid, severe emaciation or starvation, excessive loss of which protective layer causes Nephroptosis (floating kidney)?",
+      "options": {
+        "A": "Perirenal (perinephric) adipose tissue",
+        "B": "True fibrous capsule",
+        "C": "Fascia of Zuckerkandl",
+        "D": "Fascia of Toldt",
+        "E": "Anterior longitudinal ligament"
+      },
+      "correct_option": "A",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The posterior surface of both kidneys is related superiorly to the Diaphragm, which separates the kidney from the:",
+      "options": {
+        "A": "Greater peritoneal sac",
+        "B": "Costodiaphragmatic pleural recess and 12th rib",
+        "C": "Pericardial cavity",
+        "D": "Omental bursa (lesser sac)",
+        "E": "Left gastric artery"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Regarding rib relations posteriorly, the Left Kidney is related to which ribs, compared to the Right Kidney?",
+      "options": {
+        "A": "Left to 10th & 11th ribs; Right to 11th & 12th ribs",
+        "B": "Left to 11th & 12th ribs; Right ONLY to the 12th rib",
+        "C": "Left to 12th rib only; Right to 11th & 12th ribs",
+        "D": "Both kidneys are related equally to the 10th, 11th, and 12th ribs",
+        "E": "Neither kidney has any direct relation to the thoracic ribs"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "From MEDIAL to LATERAL, the three muscles related to the posterior surface of the kidney below the diaphragm are:",
+      "options": {
+        "A": "Transversus abdominis, Quadratus lumborum, Psoas major",
+        "B": "Quadratus lumborum, Psoas major, lliacus",
+        "C": "Psoas major, Quadratus lumborum, Transversus abdominis",
+        "D": "Psoas major, Rectus abdominis, External oblique",
+        "E": "Latissimus dorsi, Serratus posterior inferior, Psoas major"
+      },
+      "correct_option": "C",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The three nerves that cross downward and laterally behind the posterior surface of the kidney are:",
+      "options": {
+        "A": "Subcostal (T12), lliohypogastric (L1), and llioinguinal (L1) nerves",
+        "B": "Femoral, Obturator, and Genitofemoral nerves",
+        "C": "Lateral femoral cutaneous, Femoral, and Sciatic nerves",
+        "D": "Vagus, Sympathetic trunk, and Greater splanchnic nerves",
+        "E": "Pudendal, Pelvic splanchnic, and Perineal nerves"
+      },
+      "correct_option": "A",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "All of the following structures are directly related to the anterior surface of the RIGHT Kidney EXCEPT the:",
+      "options": {
+        "A": "Body of the Pancreas",
+        "B": "Second (descending) part of the Duodenum",
+        "C": "Right lobe of the Liver (hepatic area",
+        "D": "Right Suprarenal Gland",
+        "E": "Hepatic flexure of the colon"
+      },
+      "correct_option": "A",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which of the following anterior relations of the RIGHT Kidney is NON-PERITONEAL (in direct contact without intervening peritoneum)?",
+      "options": {
+        "A": "Hepatic area (right lobe of liver)",
+        "B": "Coils of the small intestine (jejunum)",
+        "C": "Second part of the Duodenum and Right Colic Flexure",
+        "D": "Gall bladder fundus",
+        "E": "Spleen"
+      },
+      "correct_option": "C",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "The anterior surface of the LEFT Kidney is related to which of the following retroperitoneal (non-peritoneal) structures?",
+      "options": {
+        "A": "Stomach (gastric area)",
+        "B": "Coils of jejunum",
+        "C": "Spleen (splenic area",
+        "D": "Tail of the Pancreas and Left Colic Flexure (descending colon)",
+        "E": "Quadrate lobe of liver"
+      },
+      "correct_option": "D",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The Gastric Area on the anterior surface of the LEFT Kidney is separated from the kidney by which peritoneal space?",
+      "options": {
+        "A": "Hepatorenal pouch of Morison",
+        "B": "Lesser sac (Omental bursa)",
+        "C": "Greater peritoneal cavity proper",
+        "D": "Option D"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which structure is related to the UPPER POLE of both right and left kidneys, capping them anteromedially?",
+      "options": {
+        "A": "Suprarenal (Adrenal) Glands",
+        "B": "Celiac lymph nodes",
+        "C": "Spleen",
+        "D": "Head of the pancreas",
+        "E": "Inferior phrenic ampulla"
+      },
+      "correct_option": "A",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The Hepatorenal Pouch of Morison (lowest point of the peritoneal cavity in the supine position) lies directly between the:",
+      "options": {
+        "A": "Stomach and the spleen",
+        "B": "Right lobe of the Liver and the anterior surface of the Right Kidney",
+        "C": "Urinary bladder and the rectum",
+        "D": "Spleen and the left kidney",
+        "E": "Duodenum and the pancreas"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "During posterior surgical exposure of the kidney through the bed of the 12th rib, which structure is at greatest risk of accidental incision?",
+      "options": {
+        "A": "Inferior vena cava",
+        "B": "Abdominal aorta",
+        "C": "Costodiaphragmatic pleural recess",
+        "D": "Left colic flexure",
+        "E": "Superior mesenteric artery"
+      },
+      "correct_option": "C",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The lower medial area of the anterior surface of BOTH kidneys is in contact with which intraperitoneal organ?",
+      "options": {
+        "A": "Coils of Jejunum (small intestine)",
+        "B": "Transverse colon",
+        "C": "Ascending colon",
+        "D": "Sigmoid colon",
+        "E": "Cecum"
+      },
+      "correct_option": "A",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which structure passes transversely across the middle anterior surface of the Left Kidney, dividing it into supra-colic and infra-colic areas?",
+      "options": {
+        "A": "Splenic artery",
+        "B": "Body and tail of the Pancreas and transverse mesocolon",
+        "C": "Left renal vein",
+        "D": "Left gastroepiploic vessels",
+        "E": "Inferior mesenteric vein"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Regarding peritoneal coverings, which pair of renal anterior relations are BOTH covered by peritoneum?",
+      "options": {
+        "A": "2nd part of duodenum and pancreatic tail",
+        "B": "Right colic flexure and duodenum",
+        "C": "Suprarenal gland and descending colon",
+        "D": "Hepatic area (liver) and Gastric area (stomach)",
+        "E": "Renal pelvis and suprarenal gland"
+      },
+      "correct_option": "D",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "The Renal Columns of Bertin are structurally defined as:",
+      "options": {
+        "A": "Medullary tissue extending into the minor calyces",
+        "B": "Inward extensions of cortical tissue dipping between adjacent medullary pyramids",
+        "C": "Fibrous septa separating the perirenal and pararenal fat",
+        "D": "Specialized collecting ducts inside the renal papilla",
+        "E": "Bands of smooth muscle surrounding the renal pelvis"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "The Renal Papillae (apices of the renal pyramids of Malpighi) empty formed urine directly into the:",
+      "options": {
+        "A": "Renal pelvis",
+        "B": "Major Calyces",
+        "C": "Minor Calyces",
+        "D": "Ureter proper",
+        "E": "Ducts of Bellini"
+      },
+      "correct_option": "C",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The sieve-like perforated area located at the apex of each renal papilla is termed the Area Cribrosa, which transmits the:",
+      "options": {
+        "A": "Terminal openings of the Papillary Ducts of Bellini",
+        "B": "Proximal convoluted tubules",
+        "C": "Arcuate arteries",
+        "D": "Interlobular veins",
+        "E": "Efferent arterioles of juxtamedullary nephrons"
+      },
+      "correct_option": "A",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In the human kidney, the basic urine drainage pathway follows which structural sequence?",
+      "options": {
+        "A": "Papillae -> Major Calyces -> Minor Calyces -> Renal Pelvis -> Ureter",
+        "B": "Papillae -> Minor Calyces (7-13) -> Major Calyces (2-3) -> Renal Pelvis -> Ureter",
+        "C": "Renal Pelvis -> Minor Calyces -> Major Calyces -> Papillae",
+        "D": "Minor Calyces -> Papillae -> Major Calyces -> Ureter",
+        "E": "Pyramids -> Renal Pelvis -> Minor Calyces -> Major Calyces"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The Renal Arteries arise directly from the lateral aspect of the Abdominal Aorta at the vertebral level of:",
+      "options": {
+        "A": "T10-T11",
+        "B": "T12",
+        "C": "L3-L4",
+        "D": "L1-L2 (just below the origin of the Superior Mesenteric Artery)",
+        "E": "L4-L5"
+      },
+      "correct_option": "D",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Regarding the anatomical course of the Renal Arteries, which statement is CORRECT?",
+      "options": {
+        "A": "The left renal artery is significantly longer than the right",
+        "B": "The Right Renal Artery is longer and passes POSTERIOR to the Inferior Vena Cava",
+        "C": "Both renal arteries pass anterior to the renal veins at the hilum",
+        "D": "The right renal artery arises directly from the common iliac artery",
+        "E": "The renal arteries give off no branches prior to entering the hilum"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Each main renal artery typically divides into how many Segmental Arteries upon entering the renal sinus?",
+      "options": {
+        "A": "5 Segmental Arteries (Apical, Upper, Middle, Lower, and Posterior)",
+        "B": "2 segmental arteries (anterior and posterior)",
+        "C": "8 to 18 segmental arteries corresponding to renal pyramids",
+        "D": "12 segmental arteries",
+        "E": "3 segmental arteries (superior, middle, inferior)"
+      },
+      "correct_option": "A",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The Segmental Arteries of the kidney are classified anatomically and surgically as End-Arteries because:",
+      "options": {
+        "A": "They terminate directly into the renal pelvis",
+        "B": "They possess precapillary valves preventing retrograde blood flow",
+        "C": "They lack functional anastomoses, so occlusion produces wedge-shaped infarction",
+        "D": "They anastomose extensively with the contralateral renal artery",
+        "E": "They only supply the fibrous capsule and perinephric fat"
+      },
+      "correct_option": "C",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Brodel's Avascular Line is a critical surgical plane located along the:",
+      "options": {
+        "A": "Medial concave border of the kidney",
+        "B": "Posterior-lateral border between anterior and posterior segmental vascular territories",
+        "C": "Anterior surface between superior and inferior poles",
+        "D": "Upper pole in contact with the suprarenal gland",
+        "E": "Base of the renal pyramids at the corticomedullary junction"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The surgical significance of Brodel's Avascular Line during nephrolithotomy (kidney stone extraction) is that an incision here:",
+      "options": {
+        "A": "Completely avoids the renal collecting system",
+        "B": "Allows direct clamping of the main renal artery",
+        "C": "Enters the peritoneal cavity directly without mobilizing Gerota's fascia",
+        "D": "Minimizes parenchymal bleeding by incising an avascular junction between arterial territories",
+        "E": "Prevents damage to the sympathetic trunk"
+      },
+      "correct_option": "D",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Comparing the right and left renal veins, which anatomical statement is TRUE?",
+      "options": {
+        "A": "Right renal vein is three times longer than left",
+        "B": "Left Renal Vein is -3x longer and crosses anterior to Aorta beneath SMA",
+        "C": "Right renal vein receives right gonadal vein at right angle",
+        "D": "Left renal vein passes posterior to abdominal aorta",
+        "E": "Renal veins are anatomical end-vessels without anastomoses"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Unlike the right gonadal vein which empties into the IVC, the LEFT Gonadal (testicular/ovarian) Vein drains into the:",
+      "options": {
+        "A": "Left Renal Vein at a sharp 90-degree angle",
+        "B": "Inferior mesenteric vein",
+        "C": "Internal iliac vein",
+        "D": "Splenic vein",
+        "E": "Left suprarenal vein directly"
+      },
+      "correct_option": "A",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Nutcracker Syndrome (Renal Vein Entrapment) is caused by compression of the Left Renal Vein between the:",
+      "options": {
+        "A": "Celiac trunk and the splenic vein",
+        "B": "Superior Mesenteric Artery (SMA) and the Abdominal Aorta",
+        "C": "Inferior mesenteric artery and the common iliac artery",
+        "D": "Right renal artery and the inferior vena cava",
+        "E": "Psoas major and the vertebral body of L5"
+      },
+      "correct_option": "B",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A young male presents with left flank pain, hematuria, and a left-sided Varicocele. The most likely anatomical diagnosis is:",
+      "options": {
+        "A": "Torsion of the right spermatic cord",
+        "B": "Obstruction of the right ureteropelvic junction",
+        "C": "Nutcracker Syndrome with left testicular vein hypertension",
+        "D": "Occlusion of the anterior spinal artery",
+        "E": "Fibromuscular dysplasia of right renal artery"
+      },
+      "correct_option": "C",
+      "explanation": "**Vertebral Level & Dimensions**: • Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane).\n\n**Renal Hilum & Coverings**: • Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis.",
+      "masterclass_id": 1,
+      "masterclass_title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology"
+    }
+  ]
+}

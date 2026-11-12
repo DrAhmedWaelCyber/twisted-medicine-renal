@@ -1,0 +1,891 @@
+{
+  "id": 41,
+  "title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+  "department": "Clinical Nephrology & Urology",
+  "department_desc": "Clinical approach, AKI, dialysis, nephrotic/nephritic syndrome, renovascular hypertension, cystics and oncology",
+  "booklet_pages": "Pages 161 - 164",
+  "pdf_pages": [
+    163,
+    164,
+    165,
+    166
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 42 - HIGH-YIELD ACID-BASE & ELECTROLYTE DISORDERS MATRIX",
+  "summary_table": [
+    {
+      "domain": "HAGMA",
+      "content": "MUDPILES / GOLD MARK: Methanol, Uremia, DKA,"
+    },
+    {
+      "domain": "Anion Gap = Na - (Cl + HCO3) > 12.",
+      "content": "Treat underlying cause (Insulin for DKA,"
+    },
+    {
+      "domain": "(High Anion Gap",
+      "content": "Fomepizole/Dialysis for toxic alcohols). NaHCO3"
+    },
+    {
+      "domain": "Correct for albumin: AG + 2.5*(4-Alb).",
+      "content": "Propylene glycol, INH/Iron, Lactic acidosis,"
+    },
+    {
+      "domain": "Acidosis)",
+      "content": "Ethylene glycol, Salicylates. indicated if pH < 7.10 or severe CKD."
+    },
+    {
+      "domain": "NAGMA & RTA",
+      "content": "Type 1: Distal H+-ATPase failure, urine pH > 5.3, Type 1: Oral K-Citrate/NaHCO3. hypokalemia, stones."
+    },
+    {
+      "domain": "UAG < O: GI loss (Diarrhea).",
+      "content": "Type 2: High-dose NaHCO3 + thiazide."
+    },
+    {
+      "domain": "UAG > 0: Renal Tubular Acidosis.",
+      "content": "Type 2: Proximal HCO3 wasting, Fanconi. Type 4: Fludrocortisone, loop diuretics, K+ restriction. Type 4: Hypoaldosteronism, hyperkalemia. Hypovolemic: Renal vs. Extrarenal."
+    },
+    {
+      "domain": "Hyponatremia",
+      "content": "Emergency (seizures): 100 mL 3% Saline boluses."
+    },
+    {
+      "domain": "Plasma Osm < 280 mOsm/kg.",
+      "content": "Chronic: Max rise 6-8 mEq/L/24h to prevent"
+    },
+    {
+      "domain": "Correct for glucose: Na + 0.016*(Glu-100).",
+      "content": "Euvolemic: SIADH, secondary adrenal,"
+    },
+    {
+      "domain": "(Hypotonic Disorders)",
+      "content": "Osmotic Demyelination (ODS). SIADH: Euvolemic, U_osm > 100, U_Na > 30. hypothyroidism. Hypervolemic: CHF, Cirrhosis, Nephrosis. Net unreplaced water loss. Impaired thirst"
+    },
+    {
+      "domain": "Serum Na > 145 mEq/L.",
+      "content": "Correct slowly (<= 10 mEq/L/day) with hypotonic"
+    },
+    {
+      "domain": "Water Deficit = 0.6 * Wt * [(Na/140) - 1].",
+      "content": "fluids (D5W / 0.45% Saline). Rapid correction (elderly/infants) or water diuresis (Central DI vs."
+    },
+    {
+      "domain": "(Free Water Deficit)",
+      "content": "causes Cerebral Edema."
+    },
+    {
+      "domain": "Central DI: dDAVP >50% U_osm rise.",
+      "content": "Nephrogenic DI from Lithium/hypercalcemia)."
+    },
+    {
+      "domain": "Nephrogenic DI: dDAVP <10% rise.",
+      "content": "1. Stabilize: IV Calcium Gluconate (1-3 min). Decreased renal excretion (AKI/CKD, ACEi/ARBs,"
+    },
+    {
+      "domain": "K+ > 6.5 mEq/L or ECG changes.",
+      "content": "2. Shift: IV Insulin 10U + D50W, Salbutamol. K+-sparing diuretics), tissue shift (acidosis, ECG: Peaked T-> PR prolong -> wide QRS -> Sine"
+    },
+    {
+      "domain": "wave -> VFib / Asystole.",
+      "content": "3. Remove: Lokelma, Furosemide, Hemodialysis. rhabdomyolysis, hemolysis)."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which set of laboratory values defines the normal physiological Arterial Blood Gas (ABG) reference range in a healthy adult at sea level?",
+      "options": {
+        "A": "pH 7.35-7.45, PaCO2 35-45 mmHg, HCO3- 22-26 mEq/L",
+        "B": "pH 7.10-7.25, PaCO2 50-60 mmHg, HCO3- 12-16 mEg/L",
+        "C": "pH 7.50-7.65, PaCO2 20-25 mmHg, HCO3- 32-38 mEq/L",
+        "D": "pH 7.35-7.45, PaCO2 15-20 mmHg, HCO3- 8-10 mEq/L",
+        "E": "pH 7.00-7.15, PaCO2 70-80 mmHg, HCO3- 40-50 mEq/L"
+      },
+      "correct_option": "E",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the standard formula for calculating the Serum Anion Gap, and what is its normal physiological reference range?",
+      "options": {
+        "A": "AG = (Na+ + K+) - (Cl-* HCO3-); normal 20-30 mEq/L",
+        "B": "AG = Na+ - (Cl- + HC03-); normal 8-12 mEq/L (unmeasured albumin)",
+        "C": "AG = Cl- - (Na+ + HCO3-); normal 0-4 mEq/L",
+        "D": "AG = (Na+ + Ca2+) / (Cl- + PO4); normal 1-2 mEq/L",
+        "E": "AG = HCO3- - (Na+ + K+); normal -10 to -15 mEq/L"
+      },
+      "correct_option": "B",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Because Serum Albumin accounts for major unmeasured anions, how must the Anion Gap be corrected in hypoalbuminemia?",
+      "options": {
+        "A": "Subtract 5 mEq/L for each 1.0 g/dL drop in albumin",
+        "B": "Multiply calculated anion gap by serum calcium",
+        "C": "Add 2.5 mEq/L to AG for every 1.0 g/dL drop in Albumin below 4.0 g/dL",
+        "D": "Divide calculated AG by total serum globulin level",
+        "E": "Hypoalbuminemia has zero effect on the anion gap"
+      },
+      "correct_option": "B",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In primary Metabolic Acidosis, which physiological formula (Winter's formula) predicts expected respiratory PaCO2 compensation?",
+      "options": {
+        "A": "Expected PaC02 = (2.0 * [HC03-]) + 20",
+        "B": "Expected PaCO2 = [HCO3-1/2",
+        "C": "Expected PaCO2 = (Serum Na+ - Serum CI-) / 2",
+        "D": "Expected PaCO2 = (1.5 * [HCO3-]) + 8 (+/- 2)",
+        "E": "Expected PaCO2 = 40 mmHg permanently"
+      },
+      "correct_option": "D",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which clinical entity represents a classic etiology of High Anion Gap Metabolic Acidosis (HAGMA)?",
+      "options": {
+        "A": "Severe acute secretory diarrhea (cholera)",
+        "B": "Rapid massive infusion of 0.9% normal saline",
+        "C": "Proximal Renal Tubular Acidosis (Type 2 RTA)",
+        "D": "Chronic ureterosigmoidostomy urinary diversion",
+        "E": "Diabetic Ketoacidosis, Lactic Acidosis, Uremia & Toxic Alcohols"
+      },
+      "correct_option": "E",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the diagnostic utility of calculating the Delta-Delta (Delta AG / Delta HCO3-) ratio in a patient with HAGMA?",
+      "options": {
+        "A": "Ratio < 1 indicates concurrent NAGMA; Ratio > 2 indicates concurrent",
+        "B": "Differentiates viral meningitis from bacterial meningitis",
+        "C": "Determines hourly rate of IV potassium replacement",
+        "D": "Confirms complete recovery of renal tubular function",
+        "E": "Directly measures the degree of alveolar dead space"
+      },
+      "correct_option": "A",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the biochemical principle of Urine Anion Gap (UAG Q14. [2022 Exam] What is the pathophysiological mechanism of 'Contraction = Na + K - CI) in differentiating GI vs renal NAGMA?",
+      "options": {
+        "A": "Negative UAG indicates defective renal proton excretion",
+        "B": "Negative UAG (< -10) indicates high unmeasured NH4+ (Diarrhea; Positive UAG indicates impaired renal NH4+ (RTA)",
+        "C": "Positive UAG indicates massive GI bicarbonate loss",
+        "D": "UAG is universally zero in all metabolic disorders",
+        "E": "Positive UAG indicates primary respiratory alkalosis"
+      },
+      "correct_option": "B",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What cellular defect and characteristic laboratory profile define Classical Type 1 (Distal) Renal Tubular Acidosis?",
+      "options": {
+        "A": "Defective PCT carbonic anhydrase; urine pH < 5.3",
+        "B": "Basolateral Na/K-ATPase mutation; hypocalcemia",
+        "C": "Impaired alpha-intercalated H+-ATPase; urine pH > 5.3, Hypokalemia & Nephrocalcinosis",
+        "D": "Aldosterone receptor super-activation; hypernatremia",
+        "E": "Isolated renal glucosuria with normal acid-base status"
+      },
+      "correct_option": "B",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Why do patients with untreated Type 1 Distal RTA frequently develop bilateral Nephrocalcinosis and Calcium Phosphate stones?",
+      "options": {
+        "A": "Massive hyperuricosuria forming pure uric acid stones",
+        "B": "Overexpression of Tamm-Horsfall mucoprotein",
+        "C": "Excessive gastrointestinal absorption of oxalate",
+        "D": "Bone buffering releases Ca/PO4 into alkaline urine (pH > 5.5) with severe Hypocitraturia",
+        "E": "Complete congenital lack of renal PTH receptors"
+      },
+      "correct_option": "D",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the primary pathophysiology of Type 2 (Proximal) RTA, and what clinical syndrome is it characteristically linked to?",
+      "options": {
+        "A": "Impaired apical proton secretion in collecting ducts",
+        "B": "Failure of collecting duct principal cells to reabsorb Na+",
+        "C": "Excessive adrenal aldosterone causing metabolic alkalosis",
+        "D": "Isolated tubular resistance to antidiuretic hormone",
+        "E": "Defective PCT Bicarbonate reabsorption (lowered threshold); associated with Fanconi Syndrome"
+      },
+      "correct_option": "D",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which set of urinary and metabolic abnormalities constitutes generalized Proximal Tubular Dysfunction (Fanconi Syndrome)?",
+      "options": {
+        "A": "Glucosuria (normal glucose), Aminoaciduria, Phosphaturia, Type 2 RTA & Uricosuria",
+        "B": "Heavy nephrotic albuminuria (>10 g/d) with lipid casts",
+        "C": "Isolated macroscopic hematuria with RBC casts",
+        "D": "Oliguria, hyperkalemia, hyperphosphatemia & anuria",
+        "E": "Pure water diuresis with negative urine anion gap"
+      },
+      "correct_option": "E",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What clinical and biochemical profile definitively characterizes Type 4 (Hyperkalemic) Renal Tubular Acidosis?",
+      "options": {
+        "A": "Severe hypokalemia with persistent urine pH > 6.5",
+        "B": "Hyporeninemic Hypoaldosteronism (Diabetic Nephropathy): Hyperkalemia, NAGMA, urine pH < 5.3",
+        "C": "Massive hypercalcemia and hypophosphatemic rickets",
+        "D": "Congenital deficiency of medullary NKCC2 cotransporter",
+        "E": "Severe metabolic alkalosis with urinary potassium wasting"
+      },
+      "correct_option": "A",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which urinary parameter clinically differentiates Saline-Responsive from Saline-Resistant Metabolic Alkalosis?",
+      "options": {
+        "A": "Direct conversion of sodium into bicarbonate by liver",
+        "B": "Massive respiratory hypoventilation raising pH > 7.70",
+        "C": "Suppression of proximal sodium-hydrogen antiporters",
+        "D": "ECF volume loss lacking HCO3- concentrates bicarbonate, plus secondary aldosteronism distal H+/K+ excretion",
+        "E": "Excessive intake of dietary acidic citrus juices"
+      },
+      "correct_option": "C",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 14 covering high-yield concepts in Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "In severe Diabetic Hyperglycemia, by how much does measured serum sodium drop for each 100 mg/dL rise in blood glucose?",
+      "options": {
+        "A": "Drops by ~ 1.6 mEq/L (or 2.0 if glucose >400) due to osmotic water shift",
+        "B": "Drops by exactly 10 mEq/L per 100 mg/dL glucose rise",
+        "C": "Rises by 5.0 mEq/L due to Na-glucose co-transport",
+        "D": "Glucose has zero effect on plasma osmolality or sodium",
+        "E": "Drops by 0.1 mEq/L strictly when patient is febrile"
+      },
+      "correct_option": "A",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In confirmed Hypotonic Hyponatremia (plasma osmolality < 280), what clinical assessment guides initial categorization?",
+      "options": {
+        "A": "Measuring visual acuity and visual field confrontation",
+        "B": "Assessing Clinical ECF Volume: Hypovolemic (dehydration) vs Euvolemic (SIADH) vs Hypervolemic (CHF/Cirrhosis)",
+        "C": "Auscultating for carotid and femoral arterial bruits",
+        "D": "Checking deep tendon reflexes for ankle clonus",
+        "E": "Performing bedside percussion of splenic dullness"
+      },
+      "correct_option": "B",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Which set of laboratory criteria definitively establishes the diagnosis of SIADH?",
+      "options": {
+        "A": "Serum Osmolality > 320, Urine Osm < 100, Urine Na < 10",
+        "B": "Hyperkalemia, serum creatinine > 5 mg/dL & anuria",
+        "C": "Hypotonic Hyponatremia, Inappropriate Urine Concentration (U_osm > 100), Urine Na > 30-40, and Euvolemia",
+        "D": "Hyperglycemia > 500 mg/dL, high anion gap & ketonuria",
+        "E": "BUN:Cr ratio > 30:1 with severe orthostatic hypotension"
+      },
+      "correct_option": "C",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What neurological catastrophe is triggered by overly rapid correction of chronic severe hyponatremia (>8-10 mEq/L/day)?",
+      "options": {
+        "A": "Acute uncal herniation secondary to severe cerebral edema",
+        "B": "Anterior horn cell poliomyelitis-like flaccid paralysis",
+        "C": "Hypertensive encephalopathy with cerebral hemorrhage",
+        "D": "Osmotic Demyelination Syndrome (Central Pontine Myelinolysis) with quadriparesis & 'Locked-In' state",
+        "E": "Complete physiological transection of lumbar spinal cord"
+      },
+      "correct_option": "C",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the recommended maximum safe limit for raising serum sodium in Chronic Hyponatremia to prevent brain demyelination?",
+      "options": {
+        "A": "Maximum increase of 25-30 mEq/L within the first 12 hours",
+        "B": "Serum sodium should be corrected to 140 mEg/L in 6 hours",
+        "C": "Sodium concentration should change by < 1 mEq/L per week",
+        "D": "Rapid bolus correction with 1000 mL 3% saline over 30 min",
+        "E": "Maximum rise of 6 to 8 mEq/L in 24 hours (< 14-16 mEq/L in 48h; 4-6"
+      },
+      "correct_option": "E",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "A patient with severe acute hyponatremia (Na+ 112 mEq/L) presents with active generalized seizures. Immediate drug of choice:",
+      "options": {
+        "A": "IV 100 mL bolus of 3% Hypertonic Saline over 10 min, repeated up to twice to raise Na+ by 4-6 mEq/L",
+        "B": "Free oral water drinking of 2 Liters per hour",
+        "C": "Continuous intravenous infusion of 5% Dextrose in water",
+        "D": "Subcutaneous desmopressin (dDAVP) 4 mcg every 4 hours",
+        "E": "Immediate emergency bilateral nephrectomy"
+      },
+      "correct_option": "E",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the standard formula to calculate the Total Body Free Water Deficit in a hypernatremic adult male?",
+      "options": {
+        "A": "Free Water Deficit = Serum Na+ * Serum K+ / Weight",
+        "B": "Free Water Deficit = 140 - Serum Na+",
+        "C": "Free Water Deficit = Total Body Water * [(Serum Na+ / 140) - 1], where TBW = 0.6 * Weight in kg",
+        "D": "Free Water Deficit = Urine Osmolality / Plasma Osmolality",
+        "E": "Free Water Deficit = Body Surface Area * 10 Liters"
+      },
+      "correct_option": "B",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "How does the Water Deprivation Test followed by Desmopressin (dDAVP) differentiate Central from Nephrogenic Diabetes",
+      "options": {
+        "A": "Both conditions show zero response to desmopressin",
+        "B": "Nephrogenic DI shows massive hyperkalemia after dDAVP",
+        "C": "Central DI causes urine osmolality to drop to zero",
+        "D": "Central DI shows >50% increase in Urine Osmolality after dDAVP; Nephrogenic DI shows minimal response (<10-50%)",
+        "E": "Desmopressin causes immediate hematuria in central DI"
+      },
+      "correct_option": "C",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why must severe Chronic Hypernatremia be corrected SLOWLY (<= 10 mEq/L/day) with hypotonic fluids?",
+      "options": {
+        "A": "Rapid correction causes acute renal papillary necrosis",
+        "B": "Rapid correction triggers immediate hypercalcemic crisis",
+        "C": "Water cannot cross capillary endothelial membranes",
+        "D": "Rapid correction causes permanent destruction of parathyroids",
+        "E": "Brain accumulates idiogenic osmoles; rapid ECF osmolality drop drives water into brain cells, causing Cerebral Edema"
+      },
+      "correct_option": "E",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which pre-analytical artifact explains 'Pseudohyperkalemia' (elevated measured serum K+ with normal in vivo plasma K+ and normal ECG)?",
+      "options": {
+        "A": "In vitro mechanical Hemolysis, fist-clenching during phlebotomy, or marked Thrombocytosis (>500k) / Leukocytosis (>50k)",
+        "B": "Severe arterial blood hypoxemia",
+        "C": "Excessive intake of dietary potassium 10 min prior",
+        "D": "Immediate chilling of blood specimen on dry ice",
+        "E": "Drawing blood strictly from non-dominant forearm vein"
+      },
+      "correct_option": "A",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the classic, progressive Electrocardiographic (ECG) sequence seen with worsening severe Hyperkalemia?",
+      "options": {
+        "A": "Prominent U waves -> ST depression -> T wave inversion -> Torsades",
+        "B": "Peaked T waves -> Prolonged PR & flat P -> Widened QRS -> 'Sine Wave' -> Ventricular Fibrillation / Asystole",
+        "C": "Short QT interval -> Delta waves -> Complete RBBB",
+        "D": "Electrical alternans with low QRS voltage in precordial leads",
+        "E": "Widened PR interval with isolated ST elevation in V1-V3"
+      },
+      "correct_option": "A",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the therapeutic role and onset of IV Calcium Gluconate (10%) in severe Hyperkalemia with ECG changes?",
+      "options": {
+        "A": "Shifts potassium into intracellular fluid within 2 hours",
+        "B": "Binds dietary potassium in the gut over 24 hours",
+        "C": "Immediately (1-3 min) stabilizes cardiac myocyte membrane potential; does NOT lower serum potassium",
+        "D": "Stimulates massive renal potassium excretion via principal cells",
+        "E": "Inhibits parathyroid hormone secretion to prevent arrest"
+      },
+      "correct_option": "B",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Which therapeutic interventions actually ELIMINATE potassium from the body (net negative balance) in severe hyperkalemia?",
+      "options": {
+        "A": "IV Calcium gluconate and IV Regular Insulin with dextrose",
+        "B": "Nebulized salbutamol and intravenous sodium bicarbonate",
+        "C": "Beta-blockers and ACE inhibitors",
+        "D": "Fluid restriction and strict absolute bed rest",
+        "E": "Cation Binders (Lokelma, Patiromer), Loop Diuretics (Furosemide), and"
+      },
+      "correct_option": "E",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What classic ECG changes and life-threatening cardiac arrhythmia are produced by severe Hypokalemia (<2.5 mEq/L)?",
+      "options": {
+        "A": "ST depression, flattened T waves, prominent U waves, prolonged QT/QU, [A] Serum HCO3- decreases by 2.0 mEq/L for each 10 rise in PaCO2 predisposing to Torsades de Pointes",
+        "B": "Tall peaked T waves and sine wave ventricular flutter",
+        "C": "Delta waves and short PR interval (WPW pattern)",
+        "D": "Electrical alternans and pericardial knock",
+        "E": "Bifascicular block with persistent sinus bradycardia"
+      },
+      "correct_option": "A",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Why must concomitant Hypomagnesemia be corrected when treating refractory Hypokalemia?",
+      "options": {
+        "A": "Magnesium directly converts potassium to sodium in liver",
+        "B": "Magnesium inhibits ROMK channels; low Mg2+ disinhibits ROMK, causing continuous renal potassium wasting",
+        "C": "Magnesium is required for GI absorption of carbohydrates",
+        "D": "Hypomagnesemia causes irreversible necrosis of all nephrons",
+        "E": "Magnesium blocks all voltage-gated calcium channels"
+      },
+      "correct_option": "B",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which clinical and genetic features distinguish Gitelman Syndrome from Bartter Syndrome?",
+      "options": {
+        "A": "Gitelman is severe infantile disease with hypercalciuria",
+        "B": "Bartter syndrome causes severe hypertension and acidosis",
+        "C": "Gitelman is NCCT (DCT) mutation; presents in adults/teens with Hypokalemia, Metabolic Alkalosis & Hypocalciuria",
+        "D": "Gitelman is caused by activating mutation of ENaC channel",
+        "E": "Both syndromes are caused by excessive adrenal cortisol"
+      },
+      "correct_option": "C",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the genetic and pathophysiological basis of Liddle Syndrome, an inherited cause of hypertension with hypokalemia?",
+      "options": {
+        "A": "Inactivating mutation in the mineralocorticoid receptor",
+        "B": "Excessive secretion of renin by juxtaglomerular tumors",
+        "C": "Loss-of-function mutation of 11-beta-HSD2 enzyme",
+        "D": "Gain-of-function ENaC mutation preventing degradation; constitutive Na+ reabsorption with LOW Renin & LOW Aldosterone",
+        "E": "Complete absence of renal alpha-intercalated cells"
+      },
+      "correct_option": "D",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the definitive medical management for",
+      "options": {
+        "A": "Intravenous Spironolactone 400 mg daily",
+        "B": "Emergency hemodialysis against pure hydrochloric acid bath",
+        "C": "High-dose acetazolamide and ammonium chloride",
+        "D": "Free water restriction and high-dose loop diuretics",
+        "E": "IV Isotonic Normal Saline (0.9% NaCI) and Potassium Chloride (KCI) to restore volume and replenish chloride"
+      },
+      "correct_option": "E",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What classic triad of laboratory abnormalities defines Modern Milk-Alkali (Calcium-Alkali) Syndrome from calcium antacids?",
+      "options": {
+        "A": "Hypocalcemia, severe hyperphosphatemia & HAGMA",
+        "B": "Hypercalcemia, Metabolic Alkalosis, and Acute Kidney Injury (renal",
+        "C": "Hyperkalemia, hyponatremia & normal anion gap acidosis",
+        "D": "Severe hypoglycemia, hypokalemia & respiratory alkalosis",
+        "E": "Hypocalcemia, hypomagnesemia & persistent hypokalemia"
+      },
+      "correct_option": "B",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In chronic Respiratory Acidosis (sustained PaC02 > 45 mmHg), how does the normal kidney compensate over 3 to 5 days?",
+      "options": {
+        "B": "Renal tubules excrete all filtered bicarbonate into urine",
+        "C": "Serum HCO3- increases by ~3.5 to 4.0 mEq/L for every 10 mmHg rise in",
+        "D": "Kidneys synthesize massive volatile hydrochloric acid",
+        "E": "Compensatory renal mechanisms do not exist for lungs"
+      },
+      "correct_option": "C",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which clinical and laboratory findings differentiate Ethylene Glycol ingestion from Methanol poisoning in severe HAGMA?",
+      "options": {
+        "A": "Methanol causes pancreatitis; ethylene glycol causes optic demyelination",
+        "B": "Ethylene glycol causes hypokalemia with normal anion gap",
+        "C": "Methanol produces bright red urine under Wood's lamp",
+        "D": "Ethylene glycol causes AKI with envelope Calcium Oxalate crystals; Methanol causes visual blurring/blindness & optic hyperemia",
+        "E": "Both toxic alcohols produce identical urinary oxalate crystals"
+      },
+      "correct_option": "D",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the pharmacological mechanism of action of Fomepizole (4-methylpyrazole) in toxic alcohol poisoning?",
+      "options": {
+        "A": "Direct chemical chelator precipitating toxic alcohols in stool",
+        "B": "Allosteric activator of hepatic aldehyde dehydrogenase",
+        "C": "Antagonist of GABA receptors in cerebral cortex",
+        "D": "Enzyme that converts methanol directly into glucose",
+        "E": "Competitive Alcohol Dehydrogenase (ADH) Inhibitor, blocking conversion into toxic metabolites (formate, oxalate)"
+      },
+      "correct_option": "E",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 22-year-old female with T1DM presents with vomiting and Kussmaul breathing. Labs: Na+ 132, K+ 5.8, CI- 92, HCO3- 8, Glucose 480 mg/dL, pH 7.15, PaCO2 24 mmHg. Acid-base diagnosis:",
+      "options": {
+        "A": "High Anion Gap Metabolic Acidosis (AG = 32) with expected respiratory compensation (Winter's PaCO2 18-22, mild concurrent respiratory acidosis",
+        "B": "Normal Anion Gap Metabolic Acidosis with primary respiratory acidosis",
+        "C": "Pure metabolic alkalosis with complete renal compensation",
+        "D": "Mixed respiratory alkalosis and normal anion gap acidosis",
+        "E": "Isolated Type 1 Distal Renal Tubular Acidosis"
+      },
+      "correct_option": "A",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 44-year-old female with Sjögren's syndrome has Saline-Responsive Metabolic Alkalosis caused by vomiting or gastric suction? weakness. Labs: Na+ 140, K+ 2.2, CI- 116, HCO3- 14, pH 7.26. Urine Na+ 45, K+ 30, CI- 25 (UAG = +50), urine pH 6.8. KUB: medullary nephrocalcinosis. Diagnosis:",
+      "options": {
+        "A": "Severe acute secretory diarrhea with hypovolemia",
+        "B": "Classic Type 1 (Distal) RTA (NAGMA, Positive UAG, persistent urine pH > 5.5, hypokalemia & nephrocalcinosis)",
+        "C": "Type 4 Hyperkalemic Renal Tubular Acidosis",
+        "E": "Diabetic ketoacidosis with secondary hypokalemia"
+      },
+      "correct_option": "B",
+      "explanation": "**HAGMA**: MUDPILES / GOLD MARK: Methanol, Uremia, DKA,\n\n**Anion Gap = Na - (Cl + HCO3) > 12.**: Treat underlying cause (Insulin for DKA,",
+      "masterclass_id": 41,
+      "masterclass_title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    }
+  ]
+}

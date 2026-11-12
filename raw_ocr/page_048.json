@@ -1,0 +1,997 @@
+{
+  "page" : 48,
+  "items" : [
+    {
+      "text" : "Twisted Medicine • Renal System Module • Lecture 12 MCQ Masterclass",
+      "x" : 0.2870370455075443,
+      "w" : 0.5082304372727495,
+      "y" : 0.9774224804225952,
+      "h" : 0.013178294499715193,
+      "conf" : 1
+    },
+    {
+      "text" : "Twisted Medicine Medical Series • Tubular Transport, Glucose Tm, SGLT, Secretion & Tubulopathies • Standard Practice Bank",
+      "x" : 0.36934156567215354,
+      "w" : 0.6728394706294222,
+      "y" : 0.9643217054231215,
+      "h" : 0.010310077137417273,
+      "conf" : 1
+    },
+    {
+      "text" : "Page 2 of 4",
+      "x" : 0.9351851860342304,
+      "w" : 0.0679349479435375,
+      "y" : 0.9767441862499906,
+      "h" : 0.008852884769439684,
+      "conf" : 1
+    },
+    {
+      "text" : "Q15. [2025 Exam] Under normal physiological conditions, what",
+      "x" : 0.24999999462448572,
+      "w" : 0.4300411392307882,
+      "y" : 0.9426388888590258,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "percentage of the filtered load of glucose is reabsorbed by the",
+      "x" : 0.2479423921553497,
+      "w" : 0.42592592059441337,
+      "y" : 0.9295704135220018,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "text" : "proximal tubule?",
+      "x" : 0.09465020725308637,
+      "w" : 0.11934155638112962,
+      "y" : 0.9164244186954942,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Exactly 50%, with the remaining half reabsorbed in the loop of Henle",
+      "x" : 0.2438271675240053,
+      "w" : 0.42181070195803855,
+      "y" : 0.9033430233284884,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] 100% (virtually all glucose is cleared from the tubular lumen, urine is",
+      "x" : 0.24279835810699582,
+      "w" : 0.4197530686480444,
+      "y" : 0.8917151163517442,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "glucose-free)",
+      "x" : 0.0740740730376236,
+      "w" : 0.08275100420106132,
+      "y" : 0.8800872091578341,
+      "h" : 0.012166979047987247,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Less than 10%, because glucose is mostly excreted in normal urine",
+      "x" : 0.2407407448971193,
+      "w" : 0.41563785001166964,
+      "y" : 0.8684722220361478,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Highly variable, fluctuating between 0% and 100% every hour",
+      "x" : 0.22427984017489697,
+      "w" : 0.38271602894525103,
+      "y" : 0.8568055556340772,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] 20% by SGLT2 and 80% by passive paracellular solvent drag",
+      "x" : 0.22325103356481465,
+      "w" : 0.3806584196270636,
+      "y" : 0.8451453487315372,
+      "h" : 0.01029069794548887,
+      "conf" : 1
+    },
+    {
+      "text" : "Q22. [2023 Exam] In addition to lowering blood glucose, SGLT2",
+      "x" : 0.7273662606652949,
+      "w" : 0.4300411392307881,
+      "y" : 0.9419121447985962,
+      "h" : 0.011731265915764677,
+      "conf" : 1
+    },
+    {
+      "text" : "inhibitors provide renal protection by increasing distal NaCl",
+      "x" : 0.7160493868312756,
+      "w" : 0.41152263137529477,
+      "y" : 0.9295704135401703,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "text" : "delivery to the macula densa, which:",
+      "x" : 0.6368312715020576,
+      "w" : 0.2530864019813778,
+      "y" : 0.915697674370155,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Constricts the efferent arteriole, increasing intraglomerular pressure",
+      "x" : 0.7181070028120711,
+      "w" : 0.41563785001166964,
+      "y" : 0.9033430233284884,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Activates Tubuloglomerular Feedback (TGF) to constrict the afferent",
+      "x" : 0.7201646045953362,
+      "w" : 0.4197530686480444,
+      "y" : 0.8924806203673192,
+      "h" : 0.011705425580342599,
+      "conf" : 1
+    },
+    {
+      "text" : "arteriole, reducing hyperfiltration",
+      "x" : 0.6069958879972563,
+      "w" : 0.19341563578671628,
+      "y" : 0.8801388890346556,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Stimulates massive systemic renin release, causing severe hypertension",
+      "x" : 0.7335390991152262,
+      "w" : 0.4465020617599008,
+      "y" : 0.8684722220361478,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Paralyzes podocytes, causing widespread foot process detachment",
+      "x" : 0.7181070000411521,
+      "w" : 0.41563785001166953,
+      "y" : 0.8568055556159087,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Shuts off all medullary blood flow through the vasa recta",
+      "x" : 0.685185191015089,
+      "w" : 0.3497942318706393,
+      "y" : 0.8451453487497058,
+      "h" : 0.010290697945488758,
+      "conf" : 1
+    },
+    {
+      "text" : "Q16. [2024 Exam] The high-capacity, low-affinity Sodium-Glucose",
+      "x" : 0.2582304571399176,
+      "w" : 0.4465020617599007,
+      "y" : 0.814680232630814,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "Cotransporter SGLT2 is located on the apical membrane of which",
+      "x" : 0.25823044709362153,
+      "w" : 0.44650206175990076,
+      "y" : 0.8015374676827167,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "text" : "nephron segment?",
+      "x" : 0.10082304395061731,
+      "w" : 0.13168723628206075,
+      "y" : 0.7884722222604401,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Thick ascending limb of Henle in the outer medulla",
+      "x" : 0.19238683659122066,
+      "w" : 0.3189300201224081,
+      "y" : 0.77682170540046,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Medullary collecting duct responding to antidiuretic hormone",
+      "x" : 0.21913580524691345,
+      "w" : 0.372427982354314,
+      "y" : 0.7644799739966853,
+      "h" : 0.011737725999620308,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Late distal convoluted tubule and initial connecting tubule",
+      "x" : 0.2119341608539094,
+      "w" : 0.3580246931351956,
+      "y" : 0.7529069768168605,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Early proximal tubule (S1 and S2 segments), reabsorbing ~90% of filtered",
+      "x" : 0.25925925548696854,
+      "w" : 0.45267486572265625,
+      "y" : 0.7405523255208333,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "glucose",
+      "x" : 0.058641974794238695,
+      "w" : 0.051440328921911846,
+      "y" : 0.7281976742732559,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "Q23. [2021 Exam] The Organic Anion Transport (OAT) system in",
+      "x" : 0.7304526821673523,
+      "w" : 0.436213991177157,
+      "y" : 0.8154069767926356,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "text" : "the proximal tubule actively secretes endogenous and exogenous",
+      "x" : 0.7355967123251028,
+      "w" : 0.4506172803962756,
+      "y" : 0.801537467809897,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "text" : "anions, including:",
+      "x" : 0.5771604915980796,
+      "w" : 0.13374484560024813,
+      "y" : 0.7884722222604402,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Para-aminohippurate (PAH), penicillin, furosemide, thiazides, and urate",
+      "x" : 0.7283950650205759,
+      "w" : 0.4362139911771571,
+      "y" : 0.7761272605724896,
+      "h" : 0.011698966026306157,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Sodium, chloride, and potassium ions",
+      "x" : 0.6316872458333334,
+      "w" : 0.2427983553904408,
+      "y" : 0.7652616279614826,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Glucose, amino acids, and bicarbonate ions",
+      "x" : 0.6502057659807954,
+      "w" : 0.2798353711014273,
+      "y" : 0.7529069768410853,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Creatinine, morphine, and cimetidine only",
+      "x" : 0.6430041178806584,
+      "w" : 0.2654320818823088,
+      "y" : 0.7412790698255813,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Urea, inulin, and mannitol exclusively",
+      "x" : 0.6296296320164608,
+      "w" : 0.2386831127622593,
+      "y" : 0.7296447027649816,
+      "h" : 0.00873385005527072,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Descending thin limb of Henle in juxtamedullary nephrons",
+      "x" : 0.21296296746399168,
+      "w" : 0.36008230245338296,
+      "y" : 0.7173546511489021,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "text" : "Q17. [2023 Exam] Once transported across the apical membrane",
+      "x" : 0.25514404026063076,
+      "w" : 0.44032920981353185,
+      "y" : 0.6881944443692624,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "by SGLT2, glucose exits the proximal tubular cell into the",
+      "x" : 0.23148148803154983,
+      "w" : 0.39300409952799475,
+      "y" : 0.6751388888260282,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "interstitial space across the basolateral membrane via:",
+      "x" : 0.22119342034465012,
+      "w" : 0.3765432009906889,
+      "y" : 0.6620833332646253,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Facilitated diffusion mediated by GLUT2 uniporters",
+      "x" : 0.19444444982853207,
+      "w" : 0.32304526275058965,
+      "y" : 0.6490277777395599,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Primary active transport by the basolateral Na+\/K+ ATPase",
+      "x" : 0.21707819543895726,
+      "w" : 0.3683127397261326,
+      "y" : 0.6373611113193206,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Paracellular retrograde back-leak through tight junctions",
+      "x" : 0.20884774248971177,
+      "w" : 0.3518518411888266,
+      "y" : 0.6256944443692624,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Apical countertransport coupled to hydrogen ion secretion",
+      "x" : 0.21296295846193425,
+      "w" : 0.36008230245338296,
+      "y" : 0.6140374676827167,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Receptor-mediated endocytosis into peritubular capillaries",
+      "x" : 0.21399177558299018,
+      "w" : 0.36213991177157034,
+      "y" : 0.6024709303052327,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "Q24. [2025 Exam] Basolateral uptake of organic anions (e.g., PAH,",
+      "x" : 0.7366255068587108,
+      "w" : 0.45267486572265625,
+      "y" : 0.6875,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "text" : "penicillin) into proximal tubule cells via OAT1 and OAT3 is an",
+      "x" : 0.7211934226680381,
+      "w" : 0.4218107019580385,
+      "y" : 0.6751388887775787,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "example of:",
+      "x" : 0.5524691368562482,
+      "w" : 0.08448997833443894,
+      "y" : 0.6620639535496691,
+      "h" : 0.010717466142442511,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Simple passive diffusion driven by blood hydrostatic pressure",
+      "x" : 0.6995884836762687,
+      "w" : 0.3786008103088764,
+      "y" : 0.649722222011923,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Direct primary ATP hydrolysis by the OAT transporter protein",
+      "x" : 0.698559675488683,
+      "w" : 0.37654320099068883,
+      "y" : 0.637361111301152,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Paracellular bulk flow across claudin-1 tight junctions",
+      "x" : 0.6769547366769546,
+      "w" : 0.33333333333333326,
+      "y" : 0.625694444387431,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Tertiary active transport (coupled to outward movement of",
+      "x" : 0.6893004054869686,
+      "w" : 0.36213991177157023,
+      "y" : 0.614037467664548,
+      "h" : 0.0102971574995252,
+      "conf" : 1
+    },
+    {
+      "text" : "alpha-ketoglutarate down its gradient)",
+      "x" : 0.6213991732510289,
+      "w" : 0.22222221422495336,
+      "y" : 0.6024709301598838,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Receptor-mediated endocytosis via clathrin-coated pits",
+      "x" : 0.6800411465363514,
+      "w" : 0.34362137992427033,
+      "y" : 0.5908430231831396,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "Q25. [Faculty Exam] Why does co-administration of Probenecid",
+      "x" : 0.7273662479080936,
+      "w" : 0.434156357867163,
+      "y" : 0.5618055556791872,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "prolong the half-life and therapeutic blood levels of Penicillin?",
+      "x" : 0.7222222150891635,
+      "w" : 0.42798350592079404,
+      "y" : 0.5480200261002138,
+      "h" : 0.011737725999620308,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Probenecid destroys bacterial beta-lactamase enzymes directly",
+      "x" : 0.7057613207818929,
+      "w" : 0.39094649020980743,
+      "y" : 0.5356782947158191,
+      "h" : 0.010310077667236461,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Probenecid precipitates penicillin into insoluble crystals in muscle",
+      "x" : 0.7129629697187927,
+      "w" : 0.405349779428926,
+      "y" : 0.5240277777395599,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Probenecid competitively inhibits basolateral OAT transporters, blocking",
+      "x" : 0.7314814888545952,
+      "w" : 0.4423867951399125,
+      "y" : 0.5116569768727246,
+      "h" : 0.011686045858595229,
+      "conf" : 1
+    },
+    {
+      "text" : "tubular secretion of penicillin",
+      "x" : 0.5967078218106995,
+      "w" : 0.17283949462122883,
+      "y" : 0.5006944443692625,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Probenecid stimulates hepatic metabolism of all beta-lactam antibiotics",
+      "x" : 0.7273662594855965,
+      "w" : 0.4341563578671629,
+      "y" : 0.48903746780989693,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Probenecid blocks glomerular filtration of penicillin across the GBM",
+      "x" : 0.7160493888203014,
+      "w" : 0.41152263137529477,
+      "y" : 0.47819767461240303,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "text" : "Q18. [2022 Exam] In the late proximal tubule (S3 segment), the",
+      "x" : 0.24691358554526738,
+      "w" : 0.4238682872844192,
+      "y" : 0.5618055557579179,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "remaining ~10% of filtered glucose is cleared with high affinity and",
+      "x" : 0.26132314171923876,
+      "w" : 0.4569305803790782,
+      "y" : 0.5479879975595812,
+      "h" : 0.012569265365600657,
+      "conf" : 1
+    },
+    {
+      "text" : "low capacity by:",
+      "x" : 0.09156378796296291,
+      "w" : 0.11728394706294222,
+      "y" : 0.53415697686531,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] SGLT1 cotransporters coupling 2 Na+ ions to 1 glucose molecule (exiting",
+      "x" : 0.25720165169753073,
+      "w" : 0.44855964708628143,
+      "y" : 0.5210755814498547,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "via basolateral GLUT1)",
+      "x" : 0.10288065610425252,
+      "w" : 0.1399176855507137,
+      "y" : 0.5101744185562016,
+      "h" : 0.00872092988755957,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Simple non-ionic diffusion through paracellular pores",
+      "x" : 0.19855967630315483,
+      "w" : 0.3312757000233392,
+      "y" : 0.49781976751453483,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] SGLT2 cotransporters coupling 1 Na+ to 1 glucose molecule",
+      "x" : 0.22016461279835384,
+      "w" : 0.37448559167250145,
+      "y" : 0.4876388888260281,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Apical NHE3 antiporters operating in reverse",
+      "x" : 0.17695473731138525,
+      "w" : 0.28806583236598365,
+      "y" : 0.475972222405789,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Active pinocytosis followed by lysosomal degradation",
+      "x" : 0.19958848153292172,
+      "w" : 0.3333333333333333,
+      "y" : 0.4643217053822914,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "text" : "Q19. [2021 Exam] In a healthy adult male, the maximum rate at",
+      "x" : 0.2479423921553497,
+      "w" : 0.42592592059441337,
+      "y" : 0.43386627916061044,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "which the kidneys can reabsorb glucose (Transport Maximum,",
+      "x" : 0.24794239399862805,
+      "w" : 0.4300411392307881,
+      "y" : 0.42001937956156965,
+      "h" : 0.011705426110161676,
+      "conf" : 1
+    },
+    {
+      "text" : "Tm_G) averages approximately:",
+      "x" : 0.14609053775720157,
+      "w" : 0.2222222142249533,
+      "y" : 0.40764534873153735,
+      "h" : 0.01029069794548887,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] 50 mg\/min",
+      "x" : 0.07613168868312753,
+      "w" : 0.08641974731061443,
+      "y" : 0.3945833331226162,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] 375 mg\/min (and -300 mg\/min in healthy adult females)",
+      "x" : 0.20679011911008238,
+      "w" : 0.3477366225524518,
+      "y" : 0.38292958647799824,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] 1000 mg\/min",
+      "x" : 0.08333333459362138,
+      "w" : 0.1008230485256363,
+      "y" : 0.3713662791606104,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] 125 mg\/min (exactly equal to normal GFR",
+      "x" : 0.16872427997256514,
+      "w" : 0.27160493382867773,
+      "y" : 0.3597383719234496,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Infinite (glucose transport can never be saturated at any plasma level)",
+      "x" : 0.2458847808984909,
+      "w" : 0.43415635786716295,
+      "y" : 0.34817829474488876,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "text" : "Q26. [2022 Exam] The Organic Cation Transport (OCT) system",
+      "x" : 0.7232510330246913,
+      "w" : 0.4218107019580385,
+      "y" : 0.43386627914244186,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "secretes cationic drugs (e.g., cimetidine). Apical exit via MATE is",
+      "x" : 0.733539087208505,
+      "w" : 0.4465020617599007,
+      "y" : 0.4207848836482559,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "driven by:",
+      "x" : 0.5504115229387251,
+      "w" : 0.07634058538472877,
+      "y" : 0.40770348854494093,
+      "h" : 0.01098569869995114,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Simple non-ionic passive diffusion down electrical gradients",
+      "x" : 0.6954732572016459,
+      "w" : 0.37037034904432,
+      "y" : 0.3945833331226162,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Direct ATP hydrolysis by basolateral Na+\/K+ ATPase",
+      "x" : 0.6779835389917696,
+      "w" : 0.3353909426515207,
+      "y" : 0.38365633052475206,
+      "h" : 0.011757105191548711,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Paracellular solvent drag across anion-selective pores",
+      "x" : 0.6810699631172838,
+      "w" : 0.3415637706060829,
+      "y" : 0.3713662791606104,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Binding to filtered Tamm-Horsfall glycoprotein in the lumen",
+      "x" : 0.6923868358281893,
+      "w" : 0.3641975210897578,
+      "y" : 0.35973837218386634,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Electroneutral H+\/organic cation antiport driven by lumen H+ gradient",
+      "x" : 0.7232510341306584,
+      "w" : 0.42592592059441337,
+      "y" : 0.34817829476305734,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "text" : "Q20. [2020 Exam] Although theoretical Tm_G is reached at plasma",
+      "x" : 0.2613168707818931,
+      "w" : 0.4526748657226563,
+      "y" : 0.30666666659608205,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "text" : "glucose -300 mg\/dL, glucose first appears in urine at a Renal",
+      "x" : 0.24588477788065832,
+      "w" : 0.42181070195803855,
+      "y" : 0.2936111113338556,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "text" : "Threshold' of ~180-200 mg\/dL. This difference is known as:",
+      "x" : 0.2376543169341564,
+      "w" : 0.40534977942892586,
+      "y" : 0.279854651279364,
+      "h" : 0.010290697945488758,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] The 'Splay' phenomenon (due to nephron heterogeneity and low carrier",
+      "x" : 0.2520576204732508,
+      "w" : 0.4382715765035377,
+      "y" : 0.26819444452944025,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "affinity near saturation)",
+      "x" : 0.10288065658436218,
+      "w" : 0.13991768555071368,
+      "y" : 0.2565277776762812,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] The Bayliss myogenic reflex",
+      "x" : 0.12757201882716043,
+      "w" : 0.18930040515443813,
+      "y" : 0.24486111117731146,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Autoregulation of renal blood flow",
+      "x" : 0.1430041188957475,
+      "w" : 0.22016460490676593,
+      "y" : 0.23328488379360451,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] The Filtration Fraction equilibrium",
+      "x" : 0.1419753113683127,
+      "w" : 0.21810699558857852,
+      "y" : 0.2216569767986919,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Glomerulotubular balance",
+      "x" : 0.12037037255658431,
+      "w" : 0.17489711593531965,
+      "y" : 0.20930232565406992,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "Q21. [2024 Exam] SGLT2 inhibitors (e.g., Empagliflozin,",
+      "x" : 0.22427983827160483,
+      "w" : 0.3786008103088762,
+      "y" : 0.17884366935256052,
+      "h" : 0.011757105721367789,
+      "conf" : 1
+    },
+    {
+      "text" : "Dapagliflozin) lower blood glucose in Type 2 Diabetes Mellitus",
+      "x" : 0.2469135749485598,
+      "w" : 0.4238682872844193,
+      "y" : 0.16642441855014528,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "primarily by:",
+      "x" : 0.08024691471193414,
+      "w" : 0.09053497794289259,
+      "y" : 0.15334302334665711,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Directly stimulating insulin secretion from pancreatic beta cells",
+      "x" : 0.2283950552126203,
+      "w" : 0.39094649020980743,
+      "y" : 0.14098837204457365,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Inhibiting apical SGLT2 in S1 PCT, inducing therapeutic glucosuria and",
+      "x" : 0.251028810946502,
+      "w" : 0.43621399117715703,
+      "y" : 0.12941214481469437,
+      "h" : 0.011731266445583866,
+      "conf" : 1
+    },
+    {
+      "text" : "natriuresis",
+      "x" : 0.06687242911462202,
+      "w" : 0.06800075746932119,
+      "y" : 0.11773255819457717,
+      "h" : 0.009116293589274127,
+      "conf" : 0.5
+    },
+    {
+      "text" : "[C] Destroying GLUT2 transporters on hepatic cell membranes",
+      "x" : 0.21810700051440318,
+      "w" : 0.3703703730361267,
+      "y" : 0.10541666651108217,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Blocking glucose filtration across the glomerular basement membrane",
+      "x" : 0.24794239220679,
+      "w" : 0.4300411392307881,
+      "y" : 0.09375000009084311,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Stimulating glucose synthesis by medullary collecting duct cells",
+      "x" : 0.22839506563786,
+      "w" : 0.3909464902098073,
+      "y" : 0.08208333312261606,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "Q27. [Core Concept] Uric acid handling in the human kidney is",
+      "x" : 0.7242798371742112,
+      "w" : 0.42386828728441917,
+      "y" : 0.30666666659608205,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "text" : "complex and involves which sequential four-component process",
+      "x" : 0.7335391002314814,
+      "w" : 0.4465020617599007,
+      "y" : 0.29430555559773997,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "in the proximal tubule?",
+      "x" : 0.592592591872428,
+      "w" : 0.16460904535257592,
+      "y" : 0.27985465119578823,
+      "h" : 0.01029069794548887,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Non-filtration, complete distal secretion, and collecting duct uptake",
+      "x" : 0.7139917736213992,
+      "w" : 0.40740741273892,
+      "y" : 0.26819444452944025,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Complete filtration with zero reabsorption (clearance equals GFR)",
+      "x" : 0.7119341496570647,
+      "w" : 0.4032921461189318,
+      "y" : 0.2565277779638522,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Primary active secretion in the thin ascending limb without any filtration",
+      "x" : 0.728395068998628,
+      "w" : 0.4362139911771571,
+      "y" : 0.24486111115914277,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Filtration, reabsorption (via URAT1), secretion, and post-secretory uptake",
+      "x" : 0.7355967153292178,
+      "w" : 0.45061728039627547,
+      "y" : 0.23328488379360451,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Continuous synthesis by tubular epithelial cells from urea precursors",
+      "x" : 0.7201646143004113,
+      "w" : 0.4197530686480444,
+      "y" : 0.2216569767986919,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "Q28. [Core Concept] The uricosuric drug Probenecid promotes",
+      "x" : 0.7263374528395061,
+      "w" : 0.42798355390440745,
+      "y" : 0.1795704135401704,
+      "h" : 0.01030361758338072,
+      "conf" : 1
+    },
+    {
+      "text" : "urinary excretion of uric acid in patients with chronic gout",
+      "x" : 0.710905353765432,
+      "w" : 0.3971193421561763,
+      "y" : 0.1664244186773255,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "primarily by:",
+      "x" : 0.5576131703017833,
+      "w" : 0.09465020257721901,
+      "y" : 0.15334302337693795,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Inhibiting apical URAT1 and GLUT9, blocking proximal urate reabsorption",
+      "x" : 0.7355967153292178,
+      "w" : 0.45061728039627547,
+      "y" : 0.14026162797965108,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Stimulating filtration of uric acid by dilating afferent arterioles",
+      "x" : 0.697530865329218,
+      "w" : 0.3744855916725015,
+      "y" : 0.12941214487283392,
+      "h" : 0.0117312653859456,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Inhibiting xanthine oxidase in hepatocytes, blocking uric acid synthesis",
+      "x" : 0.7263374528806583,
+      "w" : 0.4320987725407822,
+      "y" : 0.11707041354017039,
+      "h" : 0.01030361758338072,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Binding uric acid in the bladder to form soluble calcium salts",
+      "x" : 0.6965020536008233,
+      "w" : 0.37242798235431407,
+      "y" : 0.10611111105284776,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Acidifying the urine to convert uric acid into volatile ammonia gas",
+      "x" : 0.709876547201646,
+      "w" : 0.3991769514743636,
+      "y" : 0.09375000007267442,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Boar 4 fam Past Papers",
+      "x" : 0.32098766008230445,
+      "w" : 0.5761316647319674,
+      "y" : 0.014573643574683492,
+      "h" : 0.017519379191928364,
+      "conf" : 1
+    },
+    {
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321,
+      "w" : 0.19135801447262546,
+      "y" : 0.01966085278616625,
+      "h" : 0.007344961166381836,
+      "conf" : 1
+    }
+  ]
+}

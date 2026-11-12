@@ -1,0 +1,875 @@
+{
+  "id": 35,
+  "title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+  "department": "Clinical Nephrology & Urology",
+  "department_desc": "Clinical approach, AKI, dialysis, nephrotic/nephritic syndrome, renovascular hypertension, cystics and oncology",
+  "booklet_pages": "Pages 137 - 140",
+  "pdf_pages": [
+    139,
+    140,
+    141,
+    142
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 36 - HIGH-YIELD ACUTE KIDNEY INJURY & RRT MATRIX",
+  "summary_table": [
+    {
+      "domain": "U_Na > 40 mEq/L, U_osm < 350",
+      "content": "nephrotoxins. Loop diuretics only for volume overload."
+    },
+    {
+      "domain": "Intrinsic AKI: ATN",
+      "content": "tight junctions causing back-leak of filtrate; tubular cast"
+    },
+    {
+      "domain": "BUN:Cr < 15:1, Isosthenuria (1.010)",
+      "content": "obstruction. Ischemic: pars recta S3 & TAL. Toxic: Anticipate diuretic phase (risk of severe"
+    },
+    {
+      "domain": "Sediment: Muddy Brown Casts",
+      "content": "Aminoglycosides, Contrast, Myoglobin. hypokalemia/hypovolemia). Stage 1: Cr 1.5-1.9x or >=0.3 rise; UO <0.5 Novel biomarkers: NGAL (plasma/urine troponin), Standardized staging system correlating directly with"
+    },
+    {
+      "domain": "mL/kg/h for 6-12h",
+      "content": "patient mortality and ICU length of stay. Serum KIM-1 (proximal tubule), NephroCheck (TIMP-2 x"
+    },
+    {
+      "domain": "(Standard Definition)",
+      "content": "creatinine is delayed (24-48h); urine output criteria allow IGFBP7 cell cycle arrest). FST: Furosemide 1-1.5 mg/kg Stage 3: Cr 3.0x or >=4.0 or RRT; UO <0.3 for earlier detection. predicts non-response."
+    },
+    {
+      "domain": ">=24h or anuria >=12h",
+      "content": "1. Stabilize: IV Calcium Gluconate (immediate). Depolarizes resting membrane potential of cardiac 2. Shift: IV Insulin 10U + Dextrose 50%, Salbutamol Serum K+ > 6.5 mEq/L or ECG changes: Peaked myocytes, inactivating fast voltage-gated Na+ channels,"
+    },
+    {
+      "domain": "Emergency Hyperkalemia",
+      "content": "T waves, PR prolongation, widened QRS, sine nebulizer, NaHCO3. slowing intraventricular conduction, leading to fatal"
+    },
+    {
+      "domain": "(Cardiotoxicity)",
+      "content": "3. Remove: Lokelma, Patiromer, Loop diuretics,"
+    },
+    {
+      "domain": "wave, asystole.",
+      "content": "arrhythmias. Emergency RRT."
+    },
+    {
+      "domain": "A: Refractory Acidosis (pH <7.15)",
+      "content": "IHD: Diffusion + ultrafiltration (intermittent, efficient, Catheter Access: Right Internal Jugular vein preferred."
+    },
+    {
+      "domain": "E: Severe Hyperkalemia (>6.5)",
+      "content": "causes DDS if too rapid). Avoid Subclavian vein (stenosis destroys arm for AV"
+    },
+    {
+      "domain": "RRT Indications (AEIOU)",
+      "content": "I: Ingestions (SLIME: Salicylate, Li, Methanol, CRRT (CVVH/CVVHD): Convection/diffusion 24h/d;"
+    },
+    {
+      "domain": "& Modalities (HD, PD, CRRT) Ethylene glycol)",
+      "content": "fistula). DDS prevention: slow initial blood flow (<200 preferred for unstable septic shock in ICU."
+    },
+    {
+      "domain": "O: Pulmonary Overload",
+      "content": "mL/min) and short sessions (2 hours). PD: Peritoneal membrane diffusion."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Under KDIGO guidelines, Acute Kidney Injury (AKI) is formally defined by which serum creatinine criteria?",
+      "options": {
+        "A": "Constrict afferent arterioles by promoting endothelin-1 transcription",
+        "B": "Precipitate insoluble calcium crystals inside the loop of Henle",
+        "C": "Inhibit sodium-potassium ATPase pumps along the proximal tubule",
+        "D": "Stimulate uninhibited aldosterone secretion from adrenal cortex",
+        "E": "Block angiotensin Il action, causing efferent arteriolar vasodilation and"
+      },
+      "correct_option": "C",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 2 covering high-yield concepts in Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 3 covering high-yield concepts in Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 4 covering high-yield concepts in Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 5 covering high-yield concepts in Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "[2020 Exam Which urinary and biochemical indices distinguish Prerenal Azotemia from Intrinsic ATN?",
+      "options": {
+        "A": "Prerenal: FENa > 3%, U_Na > 50 mEq/L; ATN: FENa < 1%",
+        "B": "Prerenal: FENa < 1%, U_Na < 20, U_osm > 500, BUN:Cr > 20:1; ATN:",
+        "C": "Prerenal: fixed specific gravity at 1.010 with granular casts",
+        "D": "Both conditions produce identical urinary sodium (>60 mEq/L)",
+        "E": "Prerenal azotemia always produces massive proteinuria (>5 g/d)"
+      },
+      "correct_option": "B",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In an oliguric patient on Loop Diuretics, which diagnostic test reliably identifies prerenal AKI?",
+      "options": {
+        "A": "FE_Urea < 35% indicates prerenal; > 50% indicates ATN",
+        "B": "FENa is superior and completely unaffected by diuretics",
+        "C": "Serum uric acid to creatinine ratio exclusively",
+        "D": "Random spot urine glucose concentration",
+        "E": "24-hour urinary calcium excretion"
+      },
+      "correct_option": "B",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the characteristic microscopic urinalysis sediment finding in Acute Tubular Necrosis (ATN)?",
+      "options": {
+        "A": "Dysmorphic red blood cells with acanthocytes and RBC casts",
+        "B": "Abundant white blood cell casts with marked eosinophiluria",
+        "C": "Broad waxy casts with Maltese cross fatty oval bodies",
+        "D": "Muddy brown granular casts and sloughed renal tubular epithelial (RTE) cell casts",
+        "E": "Completely clear, acellular sediment devoid of any casts"
+      },
+      "correct_option": "E",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What microscopic urinalysis finding strongly points toward Acute Glomerulonephritis (e.g., RPGN) rather than ATN?",
+      "options": {
+        "A": "Renal vein thrombosis; magnetic resonance angiography",
+        "B": "Outflow obstruction; Renal Ultrasound to assess hydronephrosis",
+        "C": "Glomerular capillary thrombosis; 24-hr urine electrophoresis",
+        "D": "Toxic tubular necrosis; immediate percutaneous renal biopsy",
+        "E": "Renal artery stenosis; nuclear MAG3 renogram"
+      },
+      "correct_option": "A",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 10 covering high-yield concepts in Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 11 covering high-yield concepts in Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In which clinical situation can Postrenal Obstructive AKI occur WITHOUT visible hydronephrosis on ultrasound?",
+      "options": {
+        "A": "Continuous Furosemide infusion for 7 days",
+        "B": "Furosemide with saline; serum potassium elevation",
+        "C": "IV Furosemide 1.0-1.5 mg/kg; urine output < 200 mL in first 2 hours",
+        "D": "Oral Furosemide 20 mg; urine output > 1000 mL/24h",
+        "E": "Subcutaneous injection causing localized skin necrosis"
+      },
+      "correct_option": "B",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 13 covering high-yield concepts in Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which novel renal biomarker rises in urine and plasma within 2 to 4 hours of tubular injury, serving as the 'Renal Troponin'?",
+      "options": {
+        "A": "Neutrophil Gelatinase-Associated Lipocalin (NGAL)",
+        "B": "Blood Urea Nitrogen (BUN)",
+        "D": "Urinary Urobilinogen",
+        "E": "Serum Alkaline Phosphatase"
+      },
+      "correct_option": "E",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In Rhabdomyolysis-induced AKI, what primary mechanisms drive myoglobin-mediated renal tubular damage?",
+      "options": {
+        "A": "Autoantibody production against podocyte nephrin proteins",
+        "B": "Intratubular cast obstruction with Tamm-Horsfall protein, heme-mediated oxidative toxicity, and vasoconstriction",
+        "C": "Direct bacterial infection of proximal tubule lysosomes",
+        "D": "Selective destruction of medullary interstitial cells of Cajal",
+        "E": "Severe systemic metabolic alkalosis precipitating urate crystals"
+      },
+      "correct_option": "B",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the most effective evidence-based preventive strategy for Contrast-Induced Nephropathy (CIN)?",
+      "options": {
+        "A": "Prophylactic hemodialysis started 10 minutes post-contrast",
+        "B": "Complete fluid restriction for 24 hours prior to imaging",
+        "C": "Oral potassium chloride supplementation",
+        "D": "Isotonic IV saline volume expansion before and after, with minimal contrast",
+        "E": "High-dose IV loop diuretics prior to contrast injection"
+      },
+      "correct_option": "B",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which classic ECG sequence corresponds to progressively worsening Hyperkalemia in AKI?",
+      "options": {
+        "A": "Peaked T waves -> prolonged PR -> widened QRS -> sine wave -> VFib",
+        "B": "Prominent U waves -> ST depression -> QT prolongation -> Torsades",
+        "C": "Electrical alternans with low QRS voltage in all leads",
+        "D": "Delta waves with short PR interval and wide QRS complexes",
+        "E": "ST segment elevation in leads II, III, and aVF with depression"
+      },
+      "correct_option": "A",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In a patient with severe Hyperkalemia (K+ 7.2 mEq/L) and widened QRS complexes, what is the IMMEDIATE first medication?",
+      "options": {
+        "A": "Oral sodium polystyrene sulfonate (Kayexalate) with sorbitol",
+        "B": "Intravenous loop diuretic bolus to induce kaliuresis",
+        "C": "Subcutaneous regular insulin without dextrose",
+        "D": "Intravenous Calcium Gluconate (10%) to stabilize cardiac myocyte resting membrane potential",
+        "E": "Oral potassium-sparing diuretic"
+      },
+      "correct_option": "D",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "How do IV Regular Insulin and Dextrose act to rapidly lower serum potassium concentration in emergency hyperkalemia?",
+      "options": {
+        "A": "Directly bind and chelate circulating potassium ions in serum",
+        "B": "Precipitate potassium into insoluble potassium phosphate in bone",
+        "C": "Stimulate Na+/K+-ATPase pumps, shifting extracellular potassium into intracellular compartment within 15-30 min",
+        "D": "Induce massive gastrointestinal secretion of potassium in stool",
+        "E": "Increase glomerular filtration rate tenfold"
+      },
+      "correct_option": "C",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which adjuvant agent shifts potassium into cells by stimulating beta-2 adrenergic receptors and adenylate",
+      "options": {
+        "A": "Intravenous Propranolol",
+        "B": "Inhaled or nebulized Salbutamol (Albuterol) in high doses (10-20 mg)",
+        "C": "Oral Metoprolol tartrate",
+        "D": "Intramuscular Epinephrine in microdoses",
+        "E": "Inhaled Ipratropium bromide"
+      },
+      "correct_option": "B",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the clinical consensus on routine Loop Diuretics (e.g., Furosemide) in established AKI?",
+      "options": {
+        "A": "Indicated for volume overload; do NOT reduce mortality or aid recovery",
+        "B": "Mandatory in all patients to convert oliguric to non-oliguric AKI",
+        "C": "Completely contraindicated in all stages under any circumstances",
+        "D": "Recommended as first-line replacement for hemodialysis",
+        "E": "Proven to reverse established ischemic necrosis within 6 hours"
+      },
+      "correct_option": "A",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Why is 'Renal-Dose Dopamine' (1-3 mcg/kg/min) no longer recommended in clinical practice for AKI prevention or treatment?",
+      "options": {
+        "A": "It causes instantaneous bilateral cortical necrosis in 100% of cases",
+        "B": "It permanently down-regulates all renal beta-adrenergic receptors",
+        "C": "It is rapidly converted into cyanide within proximal tubules",
+        "D": "Multiple clinical trials showed NO benefit in GFR recovery or mortality, with potential risks of arrhythmias and ischemia",
+        "E": "It has zero vasodilatory effect on splanchnic circulation"
+      },
+      "correct_option": "D",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In fluid resuscitation of sepsis-induced prerenal AKI, which intravenous fluid is preferred over 0.9%",
+      "options": {
+        "A": "10% Dextrose in water without electrolytes",
+        "B": "Hydroxyethyl starch (HES) colloids in high volumes",
+        "C": "Balanced crystalloids (e.g., Lactated Ringer's or Plasma-Lyte) to avoid hyperchloremic metabolic acidosis and renal vasoconstriction",
+        "D": "Hypertonic 3% sodium chloride boluses",
+        "E": "Sterile distilled water intravenously"
+      },
+      "correct_option": "C",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the typical clinical course and primary hazard during the Diuretic (Recovery) Phase of Acute Tubular Necrosis?",
+      "options": {
+        "A": "Rapid onset of severe hyperkalemic metabolic acidosis",
+        "B": "Massive polyuria (3-5 L/day) with severe risk of hypokalemia, hypomagnesemia, and profound volume depletion",
+        "C": "Recurrent anuria requiring daily hemodialysis for 6 months",
+        "D": "Severe hypertension secondary to intravascular volume expansion",
+        "E": "Irreversible loss of 100% of functional nephrons"
+      },
+      "correct_option": "E",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which clinical triad classically characterizes Atheroembolic Renal Disease (Cholesterol Embolization) following vascular catheterization?",
+      "options": {
+        "A": "Livedo reticularis, blue toes with intact pulses, and eosinophilia/hypocomplementemia with biconvex needle-shaped clefts",
+        "B": "Massive macroscopic hematuria, flank mass, and severe polycythemia",
+        "C": "High fever, bilateral costovertebral tenderness, and WBC casts",
+        "D": "Sudden painless anuria, bilateral loin collaterals, and high LDH",
+        "E": "Periorbital facial edema, low C3, and elevated ASO titer"
+      },
+      "correct_option": "E",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the characteristic clinical presentation of Abdominal Compartment Syndrome causing acute oliguric AKI?",
+      "options": {
+        "A": "Intra-abdominal pressure < 5 mmHg with collapsed vena cava",
+        "B": "Massive polyuria with severe respiratory alkalosis",
+        "C": "Completely soft, scaphoid abdomen with absent bowel sounds",
+        "D": "Spontaneous disappearance of renal capsular vessels",
+        "E": "Intra-abdominal pressure > 20 mmHg with tense distended abdomen, causing renal vein compression and reduced perfusion"
+      },
+      "correct_option": "E",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In Intermittent Hemodialysis (IHD), which physical transport principle drives the clearance of small uremic solutes (urea, creatinine)?",
+      "options": {
+        "A": "Active primary transport driven by ATP-dependent pump cassettes",
+        "B": "Bulk fluid convection without any solute concentration gradient",
+        "C": "Diffusion across a semipermeable membrane down a solute concentration gradient between blood and dialysate [DJ Osmotic drag induced by hypertonic albumin solutions",
+        "E": "Pinocytosis by dialyzer synthetic hollow fibers"
+      },
+      "correct_option": "C",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the defining physical mechanism of Ultrafiltration during hemodialysis?",
+      "options": {
+        "A": "Active enzymatic pumping of sodium ions against electrochemical gradient",
+        "B": "Movement of solvent (water) across semipermeable membrane driven by a hydrostatic pressure gradient (transmembrane pressure)",
+        "C": "Electrical migration of charged ions toward the anode",
+        "D": "Simple thermal expansion of plasma volume inside dialyzer",
+        "E": "Capillary action along hollow fiber outer walls"
+      },
+      "correct_option": "B",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which anatomical site is preferred as FIRST CHOICE for a temporary non-tunneled dialysis catheter?",
+      "options": {
+        "A": "Right Internal Jugular Vein (straight path to RA; lowest stenosis risk)",
+        "B": "Left Subclavian Vein (high risk of central venous stenosis)",
+        "C": "Femoral Vein (high infection and thrombosis risk)",
+        "D": "External Jugular Vein exclusively",
+        "E": "Cephalic Vein in the anatomical snuffbox"
+      },
+      "correct_option": "A",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why should the Subclavian Vein be strictly AVOIDED for temporary hemodialysis catheter placement whenever possible?",
+      "options": {
+        "A": "Subclavian catheterization always causes immediate aortic dissection",
+        "B": "Blood flow in the subclavian vein is too sluggish to support dialysis",
+        "C": "The subclavian vein contains valves that permanently entrap catheters",
+        "D": "Dialysis catheters dissolve when exposed to subclavian venous blood",
+        "E": "High incidence of Subclavian Vein Stenosis (up to 40-50%), permanently destroying the ipsilateral arm for future AV access"
+      },
+      "correct_option": "E",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What causes Dialysis Disequilibrium Syndrome (DDS) during initial vigorous hemodialysis?",
+      "options": {
+        "A": "Rapid infusion of potassium causing acute flaccid paralysis",
+        "B": "Massive air embolism entering the left ventricle",
+        "C": "Rapid urea clearance lowers blood osmolality, driving water into brain",
+        "D": "Severe hypercalcemia causing systemic arterial calcification",
+        "E": "Direct toxic reaction to ethylene oxide dialyzer sterilant"
+      },
+      "correct_option": "D",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the primary operational difference between Continuous Renal Replacement Therapy (CRRT) and Intermittent Hemodialysis (IHD)?",
+      "options": {
+        "A": "CRRT uses high blood flow rates (500 mL/min) over 2 hours",
+        "B": "CRRT is performed exclusively through the peritoneal membrane",
+        "C": "CRRT operates 24 hours/day at slow, gentle clearance rates, making it ideal for hemodynamically unstable ICU patients with septic shock",
+        "D": "CRRT cannot remove fluid or correct severe metabolic acidosis",
+        "E": "CRRT requires no vascular access or anticoagulation"
+      },
+      "correct_option": "C",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which regional anticoagulation strategy is preferred in CRRT to minimize systemic bleeding risks in critically ill patients?",
+      "options": {
+        "A": "High-dose unfractionated heparin boluses every 2 hours",
+        "B": "Intravenous warfarin infusion targeted to INR > 5.0",
+        "C": "Oral aspirin combined with clopidogrel",
+        "D": "Direct recombinant tissue plasminogen activator (tPA)",
+        "E": "Regional Citrate Anticoagulation (infusing citrate pre-filter to chelate Ca2+, and calcium chloride post-filter into patient)"
+      },
+      "correct_option": "E",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In Peritoneal Dialysis (PD), what physiological membrane serves as the semipermeable barrier?",
+      "options": {
+        "A": "The anterior abdominal wall rectus sheath",
+        "B": "The mucosal lining of the transverse colon",
+        "C": "Patient's Peritoneal Membrane (mesothelium, interstitium, capillaries)",
+        "D": "Synthetic cellulose acetate hollow fibers in a plastic cylinder",
+        "E": "The visceral pleura covering the lower lung lobes"
+      },
+      "correct_option": "D",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the defining clinical diagnostic criteria for Peritoneal Dialysis-Associated Peritonitis?",
+      "options": {
+        "A": "Presence of visible frank blood in stool with severe jaundice",
+        "B": "Persistent clear effluent with negative bacterial cultures",
+        "C": "Severe pain exclusively on the anterior thigh during walking",
+        "D": "Isolated elevation of serum amylase with zero peritoneal leukocytes",
+        "E": "At least 2 of: cloudy peritoneal effluent with abdominal pain; effluent WBC > 100/uL with > 50% PMNs; positive effluent Gram stain/culture"
+      },
+      "correct_option": "D",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Which toxic ingestion is classically dialyzable by emergency hemodialysis due to low molecular weight, low protein binding, and small Vd?",
+      "options": {
+        "A": "Digoxin and Tricyclic Antidepressants (high Vd and tissue binding)",
+        "B": "Benzodiazepines and Barbiturates exclusively",
+        "C": "Toxic alcohols (Methanol, Ethylene glycol), Lithium, and Salicylate (Aspirin)",
+        "D": "Iron and Lead (require deferoxamine / chelation)",
+        "E": "Organophosphates and Snake venom"
+      },
+      "correct_option": "C",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 65-year-old in septic shock has oliguria, K+ 6.8 with peaked T waves, and pH 7.12. MAP is 62 mmHg. Immediate management?",
+      "options": {
+        "A": "IV Calcium Gluconate immediately, insulin/dextrose, and urgent CRRT",
+        "B": "Oral Kayexalate and discharge home to clinic next week",
+        "C": "IV loop diuretics bolus of 500 mg without monitoring",
+        "D": "Bilateral ureteral stenting under general anesthesia",
+        "E": "Subcutaneous heparin and observation for 48 hours"
+      },
+      "correct_option": "A",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 52-year-old HD patient develops fever, chills, and rigors during dialysis. Catheter blood culture grows S. aureus. Management?",
+      "options": {
+        "A": "Catheter-Related Bloodstream Infection (CRBSI); IV Vancomycin &",
+        "B": "Dialysis Disequilibrium Syndrome; administer hypertonic saline",
+        "C": "Peritoneal dialysis peritonitis; instill intraperitoneal ampicillin",
+        "D": "Acute pulmonary embolism; start oral warfarin immediately",
+        "E": "Normal post-dialysis reaction; oral acetaminophen alone"
+      },
+      "correct_option": "B",
+      "explanation": "**U_Na > 40 mEq/L, U_osm < 350**: nephrotoxins. Loop diuretics only for volume overload.\n\n**Intrinsic AKI: ATN**: tight junctions causing back-leak of filtrate; tubular cast",
+      "masterclass_id": 35,
+      "masterclass_title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    }
+  ]
+}

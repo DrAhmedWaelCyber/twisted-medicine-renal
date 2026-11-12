@@ -1,0 +1,1037 @@
+{
+  "items" : [
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.9818055557128078,
+      "w" : 0.11090225011303131,
+      "conf" : 1,
+      "text" : "Twisted Medicine",
+      "x" : 0.10996240422932337
+    },
+    {
+      "h" : 0.008888888888888835,
+      "y" : 0.9811111111739719,
+      "w" : 0.3120300600119069,
+      "conf" : 1,
+      "text" : "• Renal System Module • Lecture 30 MCQ Masterclass",
+      "x" : 0.3327067630169174
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.9658430231286337,
+      "w" : 0.6409774330517612,
+      "conf" : 1,
+      "text" : "Twisted Medicine Medical Series • Enzymes, Isoenzymes, Urinary Enzymes, NGAL, KIM-1 & GFR Biomarkers • Standard Practice Bank",
+      "x" : 0.500939847767857
+    },
+    {
+      "h" : 0.008888889153798485,
+      "y" : 0.9811111112110906,
+      "w" : 0.06578947022010917,
+      "conf" : 1,
+      "text" : "Page 1 of 4",
+      "x" : 0.9125939860588972
+    },
+    {
+      "h" : 0.013081394831339521,
+      "y" : 0.9440406975436046,
+      "w" : 0.601503746531834,
+      "conf" : 1,
+      "text" : "30. CLINICAL ENZYMOLOGY & RENAL BIOMARKERS - BIOCHEMISTRY LECTURE",
+      "x" : 0.498120295263158
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.9323611112560419,
+      "w" : 0.5413533587150656,
+      "conf" : 1,
+      "text" : "Twisted Medicine Biochemistry Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "x" : 0.5000000058270675
+    },
+    {
+      "h" : 0.011744185553656639,
+      "y" : 0.908372092863078,
+      "w" : 0.43421050784058235,
+      "conf" : 1,
+      "text" : "Q01. [2025 Exam] In clinical enzymology, functional serum",
+      "x" : 0.2716165341165416
+    },
+    {
+      "h" : 0.010504824320475281,
+      "y" : 0.8946220931099632,
+      "w" : 0.06024262615453418,
+      "conf" : 1,
+      "text" : "enzymes",
+      "x" : 0.08458646691810941
+    },
+    {
+      "h" : 0.011627906163533486,
+      "y" : 0.8953488371608527,
+      "w" : 0.11090225011303131,
+      "conf" : 1,
+      "text" : "(plasma-specific",
+      "x" : 0.1870300733395991
+    },
+    {
+      "h" : 0.010785500208536747,
+      "y" : 0.8946220928967403,
+      "w" : 0.06594334704510862,
+      "conf" : 1,
+      "text" : "enzymes)",
+      "x" : 0.2941729322583654
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.8960755814680232,
+      "w" : 0.052631578370018195,
+      "conf" : 1,
+      "text" : "distinct",
+      "x" : 0.4135338354636591
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.8953488372674419,
+      "w" : 0.03195488530041757,
+      "conf" : 1,
+      "text" : "from",
+      "x" : 0.47274436122180447
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.8815277775612134,
+      "w" : 0.2518796941344469,
+      "conf" : 1,
+      "text" : "non-functional enzymes because they:",
+      "x" : 0.18045113096804505
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.8655523256722384,
+      "w" : 0.34774435826294037,
+      "conf" : 1,
+      "text" : "[A] Lack catalytic activity under normal physiological conditions",
+      "x" : 0.22838346299342097
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.8524709303052325,
+      "w" : 0.4323307917668269,
+      "conf" : 1,
+      "text" : "[B] Perform physiological functions in blood and have higher activity in plasma",
+      "x" : 0.26879699968671655
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.8408430232013082,
+      "w" : 0.1879699180487846,
+      "conf" : 1,
+      "text" : "than tissues (e.g., clotting factors)",
+      "x" : 0.14849623825187977
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.827761628034157,
+      "w" : 0.28195488804283114,
+      "conf" : 1,
+      "text" : "[C] Appear in circulation only after cellular necrosis",
+      "x" : 0.1954887225093985
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.8146802324854652,
+      "w" : 0.28195488804283114,
+      "conf" : 1,
+      "text" : "[D] Are synthesized exclusively by renal podocytes",
+      "x" : 0.19548871710526333
+    },
+    {
+      "h" : 0.010297157499525311,
+      "y" : 0.8015374676645481,
+      "w" : 0.3383458437120889,
+      "conf" : 1,
+      "text" : "[E] Are excreted unchanged in large amounts in normal urine",
+      "x" : 0.22180450563909798
+    },
+    {
+      "h" : 0.011763566335042275,
+      "y" : 0.7849515504134934,
+      "w" : 0.43233083564544394,
+      "conf" : 1,
+      "text" : "Q02. [2024 Exam] Which of the following definitions correctly",
+      "x" : 0.2725563873746868
+    },
+    {
+      "h" : 0.011627906163533597,
+      "y" : 0.7718023256782945,
+      "w" : 0.3890977169780059,
+      "conf" : 1,
+      "text" : "describes 'Isoenzymes' (isozymes) in clinical biochemistry?",
+      "x" : 0.249060156860902
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.755138888743958,
+      "w" : 0.42669173130279475,
+      "conf" : 1,
+      "text" : "[A] Physically distinct enzyme variants catalyzing the same chemical reaction",
+      "x" : 0.2659774455200501
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.7434722224387866,
+      "w" : 0.26879698522308587,
+      "conf" : 1,
+      "text" : "but differing in amino acid sequence and kinetics",
+      "x" : 0.18890977107612789
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.7304166668955525,
+      "w" : 0.3327067613087482,
+      "conf" : 1,
+      "text" : "[B] Identical proteins synthesized by different organ systems",
+      "x" : 0.22086465749530088
+    },
+    {
+      "h" : 0.01029069794548887,
+      "y" : 0.7173546512502942,
+      "w" : 0.3139097541463538,
+      "conf" : 1,
+      "text" : "[C] Non-protein cofactors essential for enzyme activation",
+      "x" : 0.21146616018170447
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7042151163517443,
+      "w" : 0.3684210595597816,
+      "conf" : 1,
+      "text" : "[D] Enzymes that catalyze completely opposite metabolic reactions",
+      "x" : 0.24060150989974913
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.6911337208575581,
+      "w" : 0.3909774330517613,
+      "conf" : 1,
+      "text" : "[E] Inactive proenzymes that require proteolytic cleavage for activation",
+      "x" : 0.24812029423558918
+    },
+    {
+      "h" : 0.011698966026306268,
+      "y" : 0.6613727393063863,
+      "w" : 0.43421050784058235,
+      "conf" : 1,
+      "text" : "Q03. [2023 Exam] Lactate Dehydrogenase (LDH) exists as five",
+      "x" : 0.27349624602913525
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.6475290698401162,
+      "w" : 0.4360902239143377,
+      "conf" : 1,
+      "text" : "tetrameric isoenzymes. Which LDH isoenzyme is predominant in",
+      "x" : 0.2725563982456138
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.6344476745094478,
+      "w" : 0.26691729108863904,
+      "conf" : 1,
+      "text" : "healthy renal tubular and cardiac tissue?",
+      "x" : 0.18796992814849617
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.6184722220179792,
+      "w" : 0.2312029928376056,
+      "conf" : 1,
+      "text" : "[A] LDH-4 (HM3) predominant in placenta",
+      "x" : 0.1701127848449247
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.6054166668955524,
+      "w" : 0.4154135226174964,
+      "conf" : 1,
+      "text" : "[B] LDH-1 (H4) and LDH-2 (H3M1) predominant in myocardium and kidney",
+      "x" : 0.26033834067199263
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.5806944445112716,
+      "w" : 0.28759397044617185,
+      "conf" : 1,
+      "text" : "[C] Anodal LDH-X found exclusively in spermatozoa",
+      "x" : 0.19830827427161646
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.5676388889680374,
+      "w" : 0.2857142763117249,
+      "conf" : 1,
+      "text" : "[D] LDH-3 (H2M2) predominant in pulmonary tissue",
+      "x" : 0.19736842462406007
+    },
+    {
+      "h" : 0.011757105721367678,
+      "y" : 0.5538436694010102,
+      "w" : 0.31015036587746,
+      "conf" : 1,
+      "text" : "[E] LDH-5 (M4) predominant in skeletal muscle and liver",
+      "x" : 0.20958646468515038
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.5377777777005059,
+      "w" : 0.4342105078405823,
+      "conf" : 1,
+      "text" : "Q04. [2022 Exam] In acute renal cortical infarction, which serum",
+      "x" : 0.2734962359335841
+    },
+    {
+      "h" : 0.011724805831909269,
+      "y" : 0.5233042638966878,
+      "w" : 0.4360902239143377,
+      "conf" : 1,
+      "text" : "enzyme pattern is characteristically observed within 24 to 48",
+      "x" : 0.27255639642857127
+    },
+    {
+      "h" : 0.00872092988755957,
+      "y" : 0.5116279069040697,
+      "w" : 0.04887217913147017,
+      "conf" : 1,
+      "text" : "hours?",
+      "x" : 0.07894736781015038
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.49486111114097414,
+      "w" : 0.34586464218918495,
+      "conf" : 1,
+      "text" : "[A] Isolated marked elevation of serum Lipase without amylase",
+      "x" : 0.22744361334586455
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.4818055556159086,
+      "w" : 0.34586464218918495,
+      "conf" : 1,
+      "text" : "[B] Severe isolated depression of serum Alkaline Phosphatase",
+      "x" : 0.22744361478696726
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.46874999994549416,
+      "w" : 0.28759397044617185,
+      "conf" : 1,
+      "text" : "[C] Selective ten-fold elevation of Acid Phosphatase",
+      "x" : 0.19830826708176702
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.4556944443659228,
+      "w" : 0.40977441827484723,
+      "conf" : 1,
+      "text" : "[D] Marked persistent elevation of total serum LDH (with LDH-1 exceeding",
+      "x" : 0.25939849111842117
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.44402777755031225,
+      "w" : 0.11842104859012739,
+      "conf" : 1,
+      "text" : "LDH-2, 'flipped LDH')",
+      "x" : 0.11372180569548869
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.4295704135583389,
+      "w" : 0.37781955217132457,
+      "conf" : 1,
+      "text" : "[E] Complete disappearance of circulating Alanine Aminotransferase",
+      "x" : 0.24342105735432318
+    },
+    {
+      "h" : 0.013113695250617119,
+      "y" : 0.41350129181434364,
+      "w" : 0.43421050784058235,
+      "conf" : 1,
+      "text" : "Q05. [2021 Exam] Why are intact intracellular enzymes (ALT, AST,",
+      "x" : 0.2734962448073307
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.40041666688072347,
+      "w" : 0.3421052539202911,
+      "conf" : 1,
+      "text" : "LDH) present in normal urine only in trace amounts?",
+      "x" : 0.22556391405075177
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.38444767449127903,
+      "w" : 0.3082706717430131,
+      "conf" : 1,
+      "text" : "[A] Podocytes carry positive charges repelling enzymes",
+      "x" : 0.20864662167919779
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.37136627914244186,
+      "w" : 0.31015036587746,
+      "conf" : 1,
+      "text" : "[B] Tubules rapidly hydrolyze enzymes into nitrogen gas",
+      "x" : 0.2095864692669172
+    },
+    {
+      "h" : 0.011627906163533486,
+      "y" : 0.3590116281007752,
+      "w" : 0.32518796283165213,
+      "conf" : 1,
+      "text" : "[C] Enzymes are destroyed by Tamm-Horsfall mucoprotein",
+      "x" : 0.2171052634398496
+    },
+    {
+      "h" : 0.010290697415669792,
+      "y" : 0.34514534877236747,
+      "w" : 0.31578947022010917,
+      "conf" : 1,
+      "text" : "[D] Urothelium synthesizes competitive enzyme inhibitors",
+      "x" : 0.21240601296992484
+    },
+    {
+      "h" : 0.011718345748053638,
+      "y" : 0.3328036175623911,
+      "w" : 0.4003759256633043,
+      "conf" : 1,
+      "text" : "[E] High molecular weight prevents filtration, and tubular turnover sheds",
+      "x" : 0.2528195444313911
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.28997093030523247,
+      "w" : 0.43233083564544394,
+      "conf" : 1,
+      "text" : "Q06. [2020 Exam] N-Acetyl-beta-D-glucosaminidase (NAG) is a",
+      "x" : 0.2725563953007518
+    },
+    {
+      "h" : 0.011698966026306157,
+      "y" : 0.2761272608389625,
+      "w" : 0.43421050784058235,
+      "conf" : 1,
+      "text" : "high-yield urinary biomarker. In which subcellular organelle of the",
+      "x" : 0.27349624602913525
+    },
+    {
+      "h" : 0.011673126220703045,
+      "y" : 0.2630587855140508,
+      "w" : 0.17481202619869363,
+      "conf" : 1,
+      "text" : "nephron is NAG localized?",
+      "x" : 0.14191729389097746
+    },
+    {
+      "h" : 0.011627906163533486,
+      "y" : 0.24709302344961243,
+      "w" : 0.34022555978584423,
+      "conf" : 1,
+      "text" : "[A] Inner mitochondrial matrix of collecting duct principal cells",
+      "x" : 0.22274436105889722
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.2332848838117732,
+      "w" : 0.2650375969541921,
+      "conf" : 1,
+      "text" : "[B] Endoplasmic reticulum of podocyte pedicels",
+      "x" : 0.18515037925281946
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.2216569767986919,
+      "w" : 0.37593983609756926,
+      "conf" : 1,
+      "text" : "[C] Lysosomes of Proximal Convoluted Tubule (PCT) epithelial cells",
+      "x" : 0.24248120770676682
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.20857558130450582,
+      "w" : 0.2913533806543741,
+      "conf" : 1,
+      "text" : "[D] Nuclear chromatin of glomerular endothelial cells",
+      "x" : 0.1983082670347745
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.19542958655672882,
+      "w" : 0.30827067174301315,
+      "conf" : 1,
+      "text" : "[E] Brush border microvillar membrane of loop of Henle",
+      "x" : 0.20676692243107753
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.16642441869549418,
+      "w" : 0.43421050784058235,
+      "conf" : 1,
+      "text" : "Q07. [2024 Exam] Because urinary NAG has a high molecular",
+      "x" : 0.27349624602913525
+    },
+    {
+      "h" : 0.01176356527540423,
+      "y" : 0.15254844956228175,
+      "w" : 0.40977441827484723,
+      "conf" : 1,
+      "text" : "weight (~130-140 kDa), its elevated presence in urine signifies:",
+      "x" : 0.2593985030701752
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.13736111130115203,
+      "w" : 0.3496240523973872,
+      "conf" : 1,
+      "text" : "[A] Severe glomerular charge selectivity loss with intact tubules",
+      "x" : 0.22932331264097733
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.1243055556307377,
+      "w" : 0.2913533806543741,
+      "conf" : 1,
+      "text" : "[B] Failure of medullary countercurrent multiplication",
+      "x" : 0.1983082658208022
+    },
+    {
+      "h" : 0.010284237861633239,
+      "y" : 0.11124677006374428,
+      "w" : 0.40977441827484723,
+      "conf" : 1,
+      "text" : "[C] Massive overproduction of lysosomal enzymes by hepatic Kupffer cells",
+      "x" : 0.25939849111842117
+    },
+    {
+      "h" : 0.01031007766723624,
+      "y" : 0.09817829472672024,
+      "w" : 0.35338344066628097,
+      "conf" : 1,
+      "text" : "[D] Complete absence of systemic antidiuretic hormone release",
+      "x" : 0.2293233126879698
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.08502906969476753,
+      "w" : 0.4304511195716886,
+      "conf" : 1,
+      "text" : "[E] Direct proximal tubular cell injury and lysosomal rupture (cannot be filtered",
+      "x" : 0.26785713855263166
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.0726744184956396,
+      "w" : 0.07142856907793124,
+      "conf" : 1,
+      "text" : "from serum)",
+      "x" : 0.08834586550751877
+    },
+    {
+      "h" : 0.011744185553656639,
+      "y" : 0.9083720926692795,
+      "w" : 0.43421050784058224,
+      "conf" : 1,
+      "text" : "Q08. [2022 Exam] Gamma-Glutamyl Transferase (GGT) and Alanine",
+      "x" : 0.7283834619987468
+    },
+    {
+      "h" : 0.011718345748053638,
+      "y" : 0.8953036174533795,
+      "w" : 0.43421050784058224,
+      "conf" : 1,
+      "text" : "Aminopeptidase (AAP) are clinically utilized as sensitive urinary",
+      "x" : 0.7283834640742479
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.8815277775975505,
+      "w" : 0.31015036587746003,
+      "conf" : 1,
+      "text" : "markers for damage to which tubular structure?",
+      "x" : 0.6663533873355263
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.8655523255571704,
+      "w" : 0.30827067174301304,
+      "conf" : 1,
+      "text" : "[A] Cytoplasmic dense granules of juxtaglomerular cells",
+      "x" : 0.6635338294486217
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.8524709301598836,
+      "w" : 0.2518796941344469,
+      "conf" : 1,
+      "text" : "[B] Tight junctions of the thick ascending limb",
+      "x" : 0.6353383416666669
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.8408430233103197,
+      "w" : 0.3759398360975693,
+      "conf" : 1,
+      "text" : "[C] Apical Brush Border Microvilli of the Proximal Convoluted Tubule",
+      "x" : 0.6992481249999998
+    },
+    {
+      "h" : 0.01028423786163335,
+      "y" : 0.8262532299544243,
+      "w" : 0.3721804478286753,
+      "conf" : 1,
+      "text" : "[D] Glomerular slit diaphragms between adjacent podocyte pedicels",
+      "x" : 0.6973684247744361
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.8146802326126454,
+      "w" : 0.3552631567400363,
+      "conf" : 1,
+      "text" : "[E] Basolateral membrane Na+\/K+ ATPase transport complexes",
+      "x" : 0.6870300796287592
+    },
+    {
+      "h" : 0.01176356527540423,
+      "y" : 0.7849515505951795,
+      "w" : 0.43421050784058224,
+      "conf" : 1,
+      "text" : "Q09. [2023 Exam] Which of the following nephrotoxic clinical",
+      "x" : 0.7283834640742479
+    },
+    {
+      "h" : 0.011627906163533486,
+      "y" : 0.7718023257751938,
+      "w" : 0.4360902239143377,
+      "conf" : 1,
+      "text" : "settings characteristically shows a sharp rise in urinary brush",
+      "x" : 0.727443613596491
+    },
+    {
+      "h" : 0.011692506472269715,
+      "y" : 0.7572351423231254,
+      "w" : 0.4191729108863903,
+      "conf" : 1,
+      "text" : "border enzymes (GGT, NAG) prior to serum creatinine elevation?",
+      "x" : 0.7208646658458646
+    },
+    {
+      "h" : 0.01030361758338072,
+      "y" : 0.7420704134129901,
+      "w" : 0.4097744182748472,
+      "conf" : 1,
+      "text" : "[A] Early Aminoglycoside (Gentamicin) or Cisplatin-induced tubular toxicity",
+      "x" : 0.714285709163534
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7289244186773256,
+      "w" : 0.291353380654374,
+      "conf" : 1,
+      "text" : "[B] Benign essential hypertension without proteinuria",
+      "x" : 0.6569548920739346
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7158430232315891,
+      "w" : 0.27631578370018195,
+      "conf" : 1,
+      "text" : "[C] Uncomplicated acute cystitis in young females",
+      "x" : 0.6475563863721806
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7027616277374031,
+      "w" : 0.23496240304580784,
+      "conf" : 1,
+      "text" : "[D] Primary psychogenic water intoxication",
+      "x" : 0.628759396585213
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.689680232630814,
+      "w" : 0.2819548880428311,
+      "conf" : 1,
+      "text" : "[E] Renal agenesis with compensatory hypertrophy",
+      "x" : 0.6503759426691729
+    },
+    {
+      "h" : 0.011698966026306268,
+      "y" : 0.6613727393063863,
+      "w" : 0.43421050784058224,
+      "conf" : 1,
+      "text" : "Q10. [2021 Exam] Alkaline Phosphatase (ALP) in renal tissue is",
+      "x" : 0.7283834640742479
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.647529069858285,
+      "w" : 0.43421050784058224,
+      "conf" : 1,
+      "text" : "concentrated primarily along the proximal tubule brush border. Its",
+      "x" : 0.7283834640742479
+    },
+    {
+      "h" : 0.013333333333333308,
+      "y" : 0.6344444443297905,
+      "w" : 0.30639097760856626,
+      "conf" : 1,
+      "text" : "physiological function in tubular fluid involves:",
+      "x" : 0.6644736821115289
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.6184722220179792,
+      "w" : 0.35902254500893016,
+      "conf" : 1,
+      "text" : "[A] Direct active primary extrusion of potassium into tubular urine",
+      "x" : 0.6889097789238721
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.6054166668228781,
+      "w" : 0.2819548880428312,
+      "conf" : 1,
+      "text" : "[B] Catalyzing the conversion of ammonia into urea",
+      "x" : 0.6522556375000002
+    },
+    {
+      "h" : 0.01029069794548887,
+      "y" : 0.5923546512502942,
+      "w" : 0.24436089565735075,
+      "conf" : 1,
+      "text" : "[C] Decarboxylation of glutamine in acidosis",
+      "x" : 0.6315789432957395
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.579215116224564,
+      "w" : 0.4304511195716886,
+      "conf" : 1,
+      "text" : "[D] Hydrolysis of organic phosphate esters to facilitate transcellular phosphate",
+      "x" : 0.7246240547697369
+    },
+    {
+      "h" : 0.011208026674058624,
+      "y" : 0.567587209475041,
+      "w" : 0.05108275094707604,
+      "conf" : 1,
+      "text" : "handling",
+      "x" : 0.5347744362410167
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.5545704133766529,
+      "w" : 0.27631578370018184,
+      "conf" : 1,
+      "text" : "[E] Synthesis of Tamm-Horsfall glycoprotein casts",
+      "x" : 0.6475563875234962
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.5377777775648471,
+      "w" : 0.43233083564544394,
+      "conf" : 1,
+      "text" : "Q11. [2025 Exam] Serum Amylase (~45 kDa) is filtered by glomeruli.",
+      "x" : 0.7274436133458646
+    },
+    {
+      "h" : 0.011724805831909157,
+      "y" : 0.5233042635938778,
+      "w" : 0.4360902239143378,
+      "conf" : 1,
+      "text" : "What is the clinical significance of Amylase:Creatinine Clearance",
+      "x" : 0.7274436068922308
+    },
+    {
+      "h" : 0.010297157499525311,
+      "y" : 0.5109625323354519,
+      "w" : 0.09586466412849348,
+      "conf" : 1,
+      "text" : "Ratio (ACCR)?",
+      "x" : 0.5592105272744361
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.49486111114097414,
+      "w" : 0.31015036587746003,
+      "conf" : 1,
+      "text" : "[A] ACCR is universally zero in all human disease states",
+      "x" : 0.6663533873355263
+    },
+    {
+      "h" : 0.00874676995807222,
+      "y" : 0.4825710594732408,
+      "w" : 0.295112768923268,
+      "conf" : 1,
+      "text" : "[B] ACCR differentiates calcium from uric acid stones",
+      "x" : 0.6569548822994989
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.46875000009084306,
+      "w" : 0.37218044782867543,
+      "conf" : 1,
+      "text" : "[C] ACCR rises (>5%) in Acute Pancreatitis due to impaired tubular",
+      "x" : 0.6954887264567667
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.45639534890988365,
+      "w" : 0.07142856907793116,
+      "conf" : 1,
+      "text" : "reabsorption",
+      "x" : 0.5469924820958647
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.44402777794568365,
+      "w" : 0.300751873265917,
+      "conf" : 1,
+      "text" : "[D] ACCR measures the rate of renal gluconeogenesis",
+      "x" : 0.6616541315789475
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.43097222213304703,
+      "w" : 0.3270676569660991,
+      "conf" : 1,
+      "text" : "[E] ACCR is elevated exclusively in pure prerenal azotemia",
+      "x" : 0.6729323266917294
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.41347222235128334,
+      "w" : 0.43421050784058224,
+      "conf" : 1,
+      "text" : "Q12. [2020 Exam] In Rhabdomyolysis-induced acute tubular injury,",
+      "x" : 0.7283834640742479
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.4004166668625549,
+      "w" : 0.43421050784058235,
+      "conf" : 1,
+      "text" : "which serum muscle enzyme elevates dramatically (often",
+      "x" : 0.7283834629887216
+    },
+    {
+      "h" : 0.011686045858595118,
+      "y" : 0.38665697693328666,
+      "w" : 0.3646616493515793,
+      "conf" : 1,
+      "text" : ">10,000-50,000 U\/L) serving as the hallmark biomarker?",
+      "x" : 0.6917293278665412
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.37136627912427317,
+      "w" : 0.15789473511005458,
+      "conf" : 1,
+      "text" : "[A] Acid phosphatase (ACP)",
+      "x" : 0.5883458666353383
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.3582848836482559,
+      "w" : 0.36842105955978166,
+      "conf" : 1,
+      "text" : "[B] Creatine Kinase (CK \/ CPK, specifically the CK-MM isoenzyme)",
+      "x" : 0.6954887181203009
+    },
+    {
+      "h" : 0.01029069794548887,
+      "y" : 0.34514534873153735,
+      "w" : 0.09586466412849348,
+      "conf" : 1,
+      "text" : "[C] Serum lipase",
+      "x" : 0.5573308282659775
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.33208333312261606,
+      "w" : 0.23684209718025484,
+      "conf" : 1,
+      "text" : "[D] Cholinesterase (pseudocholinesterase)",
+      "x" : 0.6296992504887218
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.31902777790934644,
+      "w" : 0.1973684106603275,
+      "conf" : 1,
+      "text" : "[E] Alanine aminotransferase (ALT)",
+      "x" : 0.6080827047697369
+    },
+    {
+      "h" : 0.011724805831909157,
+      "y" : 0.28919573628499823,
+      "w" : 0.43421050784058224,
+      "conf" : 1,
+      "text" : "Q13. [Faculty Exam] Renin, an enzymatic hormone synthesized by",
+      "x" : 0.7283834640742479
+    },
+    {
+      "h" : 0.011698966026306157,
+      "y" : 0.2761272606693888,
+      "w" : 0.4360902239143377,
+      "conf" : 1,
+      "text" : "juxtaglomerular cells, is classified biochemically as which type of",
+      "x" : 0.7274436017543862
+    },
+    {
+      "h" : 0.010780188242594413,
+      "y" : 0.2623546512843329,
+      "w" : 0.058442999526462036,
+      "conf" : 1,
+      "text" : "enzyme?",
+      "x" : 0.5404135343771654
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.24781976738735467,
+      "w" : 0.2800751719690757,
+      "conf" : 1,
+      "text" : "[A] Thiol decarboxylase dependent on vitamin B12",
+      "x" : 0.6494360867246242
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.2332848838117732,
+      "w" : 0.2612781867459899,
+      "conf" : 1,
+      "text" : "[B] Glycosyl transferase requiring UP-glucose",
+      "x" : 0.64191729649906
+    },
+    {
+      "h" : 0.01174418555365675,
+      "y" : 0.2208720926692796,
+      "w" : 0.27631578370018195,
+      "conf" : 1,
+      "text" : "[C] Serine esterase requiring pyridoxal phosphate",
+      "x" : 0.6475563916979951
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.2085755813226744,
+      "w" : 0.3646616493515794,
+      "conf" : 1,
+      "text" : "[D] Aspartyl (acid) Protease that cleaves the Leu10-Val11 bond of",
+      "x" : 0.6917293172305767
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.19549418611918606,
+      "w" : 0.0939849590243923,
+      "conf" : 1,
+      "text" : "Angiotensinogen",
+      "x" : 0.5582706776315789
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.18236111091689455,
+      "w" : 0.3345864554431951,
+      "conf" : 1,
+      "text" : "[E] Metallo-endopeptidase identical to neutral endopeptidase",
+      "x" : 0.6785714325187968
+    },
+    {
+      "h" : 0.011718345748053638,
+      "y" : 0.1671963827767562,
+      "w" : 0.43421050784058235,
+      "conf" : 1,
+      "text" : "Q14. [Core Exam] Angiotensin Converting Enzyme (ACE), located",
+      "x" : 0.7283834562969926
+    },
+    {
+      "h" : 0.01176356527540423,
+      "y" : 0.15254844956228175,
+      "w" : 0.43421050784058235,
+      "conf" : 1,
+      "text" : "on vascular and renal brush border membranes, is biochemically",
+      "x" : 0.7283834658834585
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.13953488377906975,
+      "w" : 0.12406015293277661,
+      "conf" : 1,
+      "text" : "characterized as a:",
+      "x" : 0.5733082719172933
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.12281976753270352,
+      "w" : 0.2518796941344468,
+      "conf" : 1,
+      "text" : "[A] Selenium-requiring antioxidant peroxidase",
+      "x" : 0.6372180482612781
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.11046511623062027,
+      "w" : 0.28947366458061874,
+      "conf" : 1,
+      "text" : "[B] Calcium-dependent lysosomal endoribonuclease",
+      "x" : 0.6541353335213034
+    },
+    {
+      "h" : 0.01176356527540423,
+      "y" : 0.09745155067996636,
+      "w" : 0.43233079176682687,
+      "conf" : 1,
+      "text" : "[C] Zinc-containing Metallo-dipeptidyl carboxypeptidase (converts Ang | to Ang",
+      "x" : 0.7255639033208022
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.08502906974321706,
+      "w" : 0.1560150300059534,
+      "conf" : 1,
+      "text" : "Il and degrades Bradykinin)",
+      "x" : 0.5874060124373435
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.07194767450944772,
+      "w" : 0.2913533806543741,
+      "conf" : 1,
+      "text" : "[D] Magnesium-activated cytoplasmic phosphorylase",
+      "x" : 0.6569548908599623
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.05886627901526165,
+      "w" : 0.1898496121832315,
+      "conf" : 1,
+      "text" : "[E] Copper-binding amine oxidase",
+      "x" : 0.6043233058975566
+    },
+    {
+      "h" : 0.018024529351128526,
+      "y" : 0.010247544404638154,
+      "w" : 0.505779472038439,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Clinical Biochemistry & Renal Biomarkers Master Class • Faculty & Board Exam Propagation",
+      "x" : 0.30547393783005267
+    },
+    {
+      "h" : 0.007499999999999951,
+      "y" : 0.012361111036242545,
+      "w" : 0.24812028392624452,
+      "conf" : 1,
+      "text" : "Confidential - Dedicated for Medical Student Revision",
+      "x" : 0.8214285745300751
+    }
+  ],
+  "page" : 115
+}

@@ -1,0 +1,850 @@
+{
+  "id": 7,
+  "title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+  "department": "Histology",
+  "department_desc": "Microscopic architecture of renal cortex, filtration barrier, loop of Henle and vasculature",
+  "booklet_pages": "Pages 25 - 28",
+  "pdf_pages": [
+    27,
+    28,
+    29,
+    30
+  ],
+  "question_count": 42,
+  "matrix_title": "Twisted Medicine High-Yield Pearls: Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+  "summary_table": [
+    {
+      "domain": "Glomerular Basement",
+      "content": "• Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,"
+    },
+    {
+      "domain": "Membrane (GBM)",
+      "content": "progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to"
+    },
+    {
+      "domain": "Podocytes & Slit Diaphragm",
+      "content": "loss of negative charges -> selective massive albuminuria."
+    },
+    {
+      "domain": "pedicels.",
+      "content": "• Finnish Nephrotic Syndrome: NPHS1 mutation in nephrin. • Filtration Slits: 25-40 nm wide, bridged by ~6 nm Slit Diaphragm. • Molecules: Nephrin (NPHS1), Podocin (NPHS2), CD2AP, Synaptopodin. • Size Barrier: Molecules < 1.8 nm filter freely; > 4.2 nm blocked. • Dextran clearance order: Cationic (+) > Neutral (0) > Anionic (-)."
+    },
+    {
+      "domain": "Selectivity of Renal Barrier",
+      "content": "• Loss of negative charge yields pure selective proteinuria without • Charge Barrier: Polyanionic heparan sulfate & podocalyxin strongly repel anionic proteins (Albumin radius = 3.6 nm, but blocked by negative structural tears."
+    },
+    {
+      "domain": "charge).",
+      "content": "• Stellate cells in central stalk between capillary loops enclosed in • Phagocytic clearance: Clears trapped proteins/immune complexes"
+    },
+    {
+      "domain": "Intraglomerular Mesangium",
+      "content": "from GBM."
+    },
+    {
+      "domain": "common GBM.",
+      "content": "• IgA Nephropathy (Berger): Granular mesangial lgA deposits & • Contractile filaments (actin/myosin) with Angiotensin II, ET-1, ANP"
+    },
+    {
+      "domain": "receptors.",
+      "content": "proliferation. • Synthesize amorphous mesangial matrix (collagen IV, V, fibronectin). • Diabetic Nephropathy: Nodular Kimmelstiel-Wilson lesions."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The endothelial cells of the glomerular blood capillaries are histologically characterized by which distinct feature?",
+      "options": {
+        "A": "Continuous non-fenestrated endothelium",
+        "B": "Fenestrations (70-100 nm) lacking closing diaphragms",
+        "C": "Stratified cuboidal endothelial lining",
+        "D": "Sinusoidal gaps over 1 micrometer",
+        "E": "Fenestrations with closing diaphragms"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The Glomerular Basement Membrane (GBM) has an average thickness of 300-350 nm and is developmentally formed by:",
+      "options": {
+        "A": "Fusion of the basal laminae produced jointly by capillary endothelial cells and podocytes",
+        "B": "Secretory activity of macula densa cells at the vascular pole",
+        "C": "Condensation of parietal epithelial cell ground substance",
+        "D": "Infiltration of circulating plasma fibronectin and albumin",
+        "E": "Secretory activity of intraglomerular mesangial cells exclusively"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Under the transmission electron microscope, the Glomerular Basement Membrane exhibits which distinct 3-layered ultrastructure?",
+      "options": {
+        "A": "Inner circular, middle longitudinal, and outer elastic lamina",
+        "B": "Lamina rara interna, central Lamina densa, and subepithelial Lamina rara externa",
+        "C": "Endothelial glycocalyx, peritubular lamina, and podocalyxin coat",
+        "D": "Zonula occludens, zonula adherens, and macula adherens",
+        "E": "Lamina lucida, lamina propria, and lamina adventitia"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which biochemical component of the Lamina Densa of the GBM forms the physical molecular meshwork acting as a mechanical size filter?",
+      "options": {
+        "A": "Type I and Type Ill fibrillar collagen fibers",
+        "B": "Elastin fibers and fibrillin microfibrils",
+        "C": "Hyaluronic acid glycosaminoglycan chains exclusively",
+        "D": "Type IV Collagen alpha-3, alpha-4, and alpha-5 chains cross-linked by laminin and nidogen",
+        "E": "Pure keratan sulfate proteoglycans without collagenous core"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2021 Exam The Lamina Rara Interna and Lamina Rara Externa of the GBM are rich in which polyanionic molecule conferring negative electrical charge?",
+      "options": {
+        "A": "Neutral dermatan sulfate",
+        "B": "Chondroitin-4-sulfate only",
+        "C": "Type Il fibrillar procollagen",
+        "D": "Positively charged basic histone proteins",
+        "E": "Heparan sulfate proteoglycan (Perlecan and Agrin)"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Goodpasture Syndrome is an autoimmune disease characterized by rapidly progressive glomerulonephritis and pulmonary hemorrhage due to autoantibodies directed against:",
+      "options": {
+        "A": "Nephrin transmembrane immunoglobulin-like protein in the slit diaphragm",
+        "B": "Endothelial cell vascular endothelial cadherin junctions",
+        "C": "Non-collagenous domain 1 (NC1) of the alpha-3 chain of Type IV Collagen in the GBM and alveoli",
+        "D": "Mesangial smooth muscle alpha-actin filaments",
+        "E": "Podocalyxin sialoprotein on the podocyte apical membrane"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Alport Syndrome is a hereditary nephropathy with hematuria, sensorineural deafness, and ocular lens abnormalities caused by genetic mutations in:",
+      "options": {
+        "A": "WT1 gene causing diffuse mesangial sclerosis",
+        "B": "ACTN4 gene encoding alpha-actinin-4",
+        "C": "NPHS1 gene encoding nephrin protein",
+        "D": "PKD1 gene encoding polycystin-1 protein",
+        "E": "COL4A5 gene encoding the alpha-5 chain of Type IV Collagen, causing a basket-weave split GBM"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The endothelial luminal surface of glomerular capillaries is coated by a thick Glycocalyx whose strong negative charge is primarily due to:",
+      "options": {
+        "A": "Lipoprotein lipase enzymes exclusively",
+        "B": "Alkaline phosphatase and carbonic anhydrase",
+        "C": "Sialoproteins including Podocalyxin and polyanionic proteoglycans",
+        "D": "Neutral glucose and galactose residues without sulfate",
+        "E": "Positively charged arginine-rich histones"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the primary physiological function of the thick, polyanionic Glycocalyx lining the glomerular capillary endothelium?",
+      "options": {
+        "A": "Preventing adherence of blood cells and providing an initial electrostatic barrier against negative proteins",
+        "B": "Active pinocytosis of albumin into the urinary space",
+        "C": "Synthesis of circulating renin into the afferent arteriole",
+        "D": "Generation of hydrostatic pressure through active contraction",
+        "E": "Secretion of hypertonic fluid into Bowman's capsule"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In diabetic nephropathy, advanced glycation end-products (AGEs) cross-link structural proteins, leading early in the disease histologically to:",
+      "options": {
+        "A": "Thinning and focal disappearance of the lamina densa",
+        "B": "Complete absence of podocyte foot processes from birth",
+        "C": "Selective proliferation of parietal epithelial cells into crescents",
+        "D": "Progressive diffuse thickening of the Glomerular Basement Membrane (GBM)",
+        "E": "Hyperplasia of fenestrated capillary endothelium"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The negatively charged sialic acid resides present on both the endothelial glycocalyx and podocyte cell coats are designated chemically as:",
+      "options": {
+        "A": "Fibronectin",
+        "B": "Integrin alpha-1",
+        "C": "Podocalyxin",
+        "D": "Tenascin",
+        "E": "Entactin"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Under physiological conditions, the Glomerular Basement Membrane is in direct contact with which two cell types along its surfaces?",
+      "options": {
+        "A": "Juxtaglomerular granular cells internally and macula densa externally",
+        "B": "Endothelial cells internally and Podocyte pedicels externally (and Mesangial",
+        "C": "Red blood cells internally and interstitial macrophages externally [DJ Peritubular fibroblasts internally and proximal tubule cells externally",
+        "E": "Parietal epithelial cells internally and podocytes externally"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "On Periodic Acid-Schiff (PAS) histological staining of a normal kidney section, the Glomerular Basement Membrane stains intensely positive (magenta-pink) because it is: A Composed purely of nucleic acids and nucleoproteins",
+      "options": {
+        "B": "Rich in unconjugated bilirubin and ferritin pigments",
+        "C": "Composed entirely of hydrophobic triglycerides and neutral lipids",
+        "D": "Rich in neutral glycoproteins, laminin, and proteoglycan carbohydrate moieties",
+        "E": "Infiltrated by mineralized calcium hydroxyapatite crystals"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "In Thin Basement Membrane Disease (Benign Familial Hematuria), electron microscopy demonstrates which characteristic ultrastructural lesion? |",
+      "options": {
+        "A": "Complete obliteration of the urinary space by collagen fibers",
+        "B": "Massive subepithelial humps of immune complexes",
+        "C": "Diffuse and uniform thinning of the lamina densa of the GBM to 150-250 nm without immune deposits",
+        "D": "Subendothelial wire-loop deposits with capillary necrosis",
+        "E": "Spike-and-dome epimembranous projections"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Glomerular Blood Capillaries & Renal Barrier - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Between adjacent interdigitating secondary foot processes (pedicels) of podocytes lies an elongated space known as the:",
+      "options": {
+        "A": "Canal of Schlemm",
+        "B": "Urinary space of Bowman's capsule (lumbar slit)",
+        "C": "Filtration Slit (Slit pore, 25 to 40 nm wide)",
+        "D": "Lacis space of Goormaghtigh",
+        "E": "Fenestration pore (70 to 100 nm wide)"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "The filtration slits between adjacent podocyte pedicels are bridged by a thin, specialized electron-dense membrane known as the:",
+      "options": {
+        "A": "Mesangial anchoring lamina",
+        "B": "Zonula adherens complex",
+        "C": "Endothelial closing diaphragm",
+        "D": "Parietal basal membrane",
+        "E": "Filtration Slit Diaphragm (thickness ~6 nm)"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Nephrin is a critical transmembrane immunoglobulin-superfamily protein of the slit diaphragm encoded by which gene mutated in Congenital Nephrotic Syndrome (Finnish type)?",
+      "options": {
+        "A": "WT1 gene",
+        "B": "PKD1 gene",
+        "C": "NPHS2 gene [DJ COL4A3 gene LE] NPHS1 gene",
+        "D": "Option D"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Podocin is a specialized hairpin membrane scaffolding protein of the slit diaphragm encoded by the NPHS2 gene that functions primarily to:",
+      "options": {
+        "A": "Degrade circulating albumin into oligopeptides within the urinary space",
+        "B": "Synthesize heparan sulfate chains for the lamina rara interna",
+        "C": "Constrict the afferent arteriole in response to elevated sodium",
+        "D": "Anchor nephrin and CD2AP to the podocyte actin cytoskeleton within lipid raft microdomains",
+        "E": "Inhibit the enzymatic action of renin in juxtaglomerular cells"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "The actin cytoskeleton inside podocyte foot processes (pedicels) is linked to the slit diaphragm and cell membrane via which intracellular bridging proteins?",
+      "options": {
+        "A": "Desmin and neurofilament proteins",
+        "B": "Synaptopodin and CD2-associated protein (CD2AP)",
+        "C": "Myosin heavy chain and tropomyosin only",
+        "D": "Keratin 18 and vimentin dimers",
+        "E": "Tubulin alpha and beta heterodimers exclusively"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Mutations in the ACTN4 gene encoding alpha-Actinin-4 in podocytes disrupt the actin cytoskeleton cross-linking and clinically cause:",
+      "options": {
+        "A": "Benign familial hematuria with normal renal function",
+        "B": "Renal cell carcinoma derived from collecting duct epithelium",
+        "C": "Autosomal dominant Focal Segmental Glomerulosclerosis (FSGS) with progressive nephrotic syndrome",
+        "D": "Polycystic kidney disease with hepatic cysts",
+        "E": "Immediate acute tubular necrosis within the first week of life"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Glomerular Blood Capillaries & Renal Barrier - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the primary pathogenetic mechanism responsible for selective massive albuminuria in Minimal Change Disease?",
+      "options": {
+        "A": "Obstruction of the proximal convoluted tubule brush border",
+        "B": "Deficiency of systemic plasma albumin synthesis by hepatocytes",
+        "C": "Mechanical rupture and wide macroscopic tearing of the lamina densa",
+        "D": "Loss of the negative electrostatic charge barrier (heparan sulfate/podocalyxin) on the filtration membrane",
+        "E": "Severe spasm of the efferent arteriole raising pressure above 120 mmHg"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The podocyte pedicels attach firmly to the underlying Lamina Rara Externa of the GBM through which specialized transmembrane adhesion heterodimers?",
+      "options": {
+        "A": "Selectin-L and ICAM-1 dimers",
+        "B": "Connexin-43 gap junction hemichannels",
+        "C": "Cadherin-E and claudin-1 complexes",
+        "D": "Occludin and tight junction protein ZO-1",
+        "E": "Integrin alpha-3 / beta-1 and Dystroglycan complexes"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Under the scanning electron microscope (SEM), podocytes exhibit an intricate architecture characterized by:",
+      "options": {
+        "A": "Elongated spindle-shaped cells arranged in circular concentric lamellae",
+        "B": "Cuboidal cells covered with densely packed uniform brush border microvilli",
+        "C": "Flask-shaped cells with umbrella-like apical facet membranes",
+        "D": "Large cell bodies suspended in the urinary space giving off primary branches that divide into interdigitating pedicels",
+        "E": "Flat polygonal plates completely fused without intervening spaces"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Why are podocytes unable to undergo rapid regeneration and replacement following severe toxic, ischemic, or inflammatory injury?",
+      "options": {
+        "A": "Rely strictly on diffusion from urine",
+        "B": "Completely lack cell nuclei and ribosomes",
+        "C": "Terminally differentiated post-mitotic cells",
+        "D": "Cytoplasm filled with dense collagen bundles",
+        "E": "Rapid daily programmed apoptosis"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In Membranous Glomerulopathy, immune complexes deposit between the GBM and podocytes, appearing on electron microscopy as:",
+      "options": {
+        "A": "Subendothelial wire-loop lesions",
+        "B": "Subepithelial deposits with GBM spikes",
+        "C": "Mesangial vascular pole deposits",
+        "D": "Intramembranous ribbon dense deposits",
+        "E": "Linear IgG along lamina rara interna"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "[Core Concept The primary filtration slit diaphragm acts not merely as a passive sieve, but also serves as a signaling hub via interaction with:",
+      "options": {
+        "A": "Nuclear steroid receptors promoting testosterone synthesis",
+        "B": "Voltage-gated sodium channels initiating action potentials along capillaries",
+        "C": "Adrenergic alpha-1 receptors causing rhythmic podocyte peristalsis",
+        "D": "Lysosomal hydrolases degrading filtered urea and creatinine",
+        "E": "Intracellular adapter proteins CD2AP and TRPC6 calcium channels regulating podocyte morphology"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Glomerular Blood Capillaries & Renal Barrier - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "[2024 Exam) Regarding size selectivity of the filtration barrier, which statement regarding molecular radius (effective diameter) is TRUE?",
+      "options": {
+        "A": "Molecules < 0.5 nm blocked by pores",
+        "B": "Molecules 2-4 nm require pinocytosis",
+        "C": "All molecules up to 10 nm filter 100%",
+        "D": "Radius < 1.8 nm filters freely; > 4.2 nm blocked",
+        "E": "Filtration depends only on lipid solubility"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Serum albumin has an effective molecular radius of ~3.6 nm, yet less than 0.1% appears in the normal primary filtrate primarily because:",
+      "options": {
+        "A": "Net negative charge repelled by GBM polyanions",
+        "B": "Retrograde vesicular transport into lumen",
+        "C": "Degraded by endothelial peptidases",
+        "D": "Radius exceeds fenestral diameter (70 nm)",
+        "E": "Irreversible binding to hemoglobin"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "When comparing the renal clearance of neutral, cationic, and anionic Dextrans of identical molecular radius (e.g., 3.0 nm):",
+      "options": {
+        "A": "Cationic filters most, anionic filters least",
+        "B": "Cationic precipitates at endothelial pores",
+        "C": "All dextrans filter at identical clearance",
+        "D": "Neutral dextrans are completely blocked",
+        "E": "Anionic dextrans filter with highest clearance"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Intraglomerular Mesangial Cells are specialized stellate perivascular cells embedded in an amorphous matrix that оссиру:",
+      "options": {
+        "A": "Surrounding Gerota's renal fascia",
+        "B": "Floating freely in Bowman's space",
+        "C": "Parietal layer of Bowman's capsule",
+        "D": "Central stalk between capillary loops inside GBM",
+        "E": "Luminal intravascular capillary valves"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Histologically and functionally, Intraglomerular Mesangial Cells are considered modified vascular cells that possess:",
+      "options": {
+        "A": "Contractile microfilaments (actin, myosin) with receptors for Angiotensin I| and Endothelin to modulate capillary surface area",
+        "B": "Microvilli brush border specialized for active sodium reabsorption",
+        "C": "Skeletal muscle sarcomeres capable of voluntary conscious contraction",
+        "D": "Abundant myelin sheaths for high-velocity nerve impulse transmission",
+        "E": "Endocrine storage granules filled with parathyroid hormone"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In addition to contractile structural support, which crucial defensive function is performed by Intraglomerular Mesangial Cells?",
+      "options": {
+        "A": "Phagocytosis and endocytic clearance of trapped macromolecules, proteins, and immune complexes from the GBM",
+        "B": "Generation of action potentials to stimulate juxtaglomerular renin release",
+        "C": "Active secretion of glomerular filtrate into the neck of the proximal tubule",
+        "D": "Production of calcitriol (active 1,25-dihydroxyvitamin D3)",
+        "E": "Synthesis of circulating systemic complement proteins C3 and C4"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Glomerular Blood Capillaries & Renal Barrier - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "In lgA Nephropathy (Berger Disease), immunofluorescence microscopy classically reveals diagnostic deposition of lgA immune complexes in the:",
+      "options": {
+        "A": "Parietal layer of Bowman's capsule in a continuous linear pattern",
+        "B": "Glomerular mesangium in a granular pattern with associated mesangial cell proliferation",
+        "C": "Loop of Henle thin descending limb basement membrane",
+        "D": "Proximal convoluted tubule brush border microvilli",
+        "E": "Endothelial glycocalyx of the arcuate and interlobar arteries"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Kimmelstiel-Wilson lesions (nodular glomerulosclerosis) in advanced diabetic nephropathy are characterized histologically by:",
+      "options": {
+        "A": "Marked atrophy and complete loss of all mesangial matrix proteins",
+        "B": "Acellular, PAS-positive, spherical laminated nodular expansions of mesangial matrix in the periphery of glomerular tufts",
+        "C": "Diffuse infiltration of the urinary space by polymorphonuclear neutrophils",
+        "D": "Focal rupture of the parietal layer with necrotizing crescent formation",
+        "E": "Amyloid fibril deposition strictly localized to the efferent arteriolar wall"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why does the normal Glomerular Capillary Hydrostatic Pressure (Pgc ~50 mmHg) remain significantly higher than systemic capillary pressure (~20 mmHg)?",
+      "options": {
+        "A": "Thoracic duct drains into urinary space",
+        "B": "Situated between afferent and narrower efferent arterioles",
+        "C": "Active mesangial pumping into lumen",
+        "D": "Granular adrenaline constriction of loops",
+        "E": "Retrograde venous valves in renal vein"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Under the light microscope, the Parietal Layer of Bowman's Capsule is distinguished from the Visceral Layer by its histology, consisting of:",
+      "options": {
+        "A": "A simple squamous epithelium resting on a thin basal lamina, transitioning to simple cuboidal at the urinary pole",
+        "B": "Vascular endothelial cells with fenestrations lacking diaphragms",
+        "C": "Pseudostratified columnar ciliated epithelium with goblet cells",
+        "D": "Transitional epithelium (urothelium) with superficial umbrella cells",
+        "E": "Podocytes with interdigitating pedicels and filtration slits"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In Rapidly Progressive Glomerulonephritis (RPGN), the hallmark histological finding of 'Crescents' filling Bowman's urinary space is formed by the proliferation of:",
+      "options": {
+        "A": "Parietal epithelial cells mixed with infiltrating monocytes, macrophages, and fibrin strands",
+        "B": "Intraglomerular capillary endothelial cells exclusively",
+        "C": "Erythrocytes and platelets clotted within the capillary lumen",
+        "D": "Peritubular fibroblasts and vascular smooth muscle cells",
+        "E": "Visceral podocytes and juxtaglomerular renin-secreting cells"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which vasoactive mediator causes relaxation of mesangial cells, thereby increasing glomerular filtration surface area and augmenting the ultrafiltration coefficient (Kf)?",
+      "options": {
+        "A": "Angiotensin Il and Endothelin-1",
+        "B": "Platelet-Derived Growth Factor (PDGF) and Serotonin",
+        "C": "Thromboxane A2 and Leukotriene C4",
+        "D": "Vasopressin (Antidiuretic Hormone) and Norepinephrine",
+        "E": "Atrial Natriuretic Peptide (ANP) and Nitric Oxide (NO)"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Basement**: • Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,\n\n**Membrane (GBM)**: progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to",
+      "masterclass_id": 7,
+      "masterclass_title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology"
+    }
+  ]
+}

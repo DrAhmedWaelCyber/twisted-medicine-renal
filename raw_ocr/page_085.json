@@ -1,0 +1,941 @@
+{
+  "items" : [
+    {
+      "h" : 0.013178294499715193,
+      "y" : 0.9774224804225952,
+      "w" : 0.5082304372727495,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 22 MCQ Masterclass",
+      "x" : 0.2870370455075443
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.9759722222059344,
+      "w" : 0.06790123345716947,
+      "conf" : 1,
+      "text" : "Page 3 of 4",
+      "x" : 0.9351851849022634
+    },
+    {
+      "h" : 0.01031007766723635,
+      "y" : 0.9643217054186286,
+      "w" : 0.7345678941258844,
+      "conf" : 1,
+      "text" : "Twisted Medicine Medical Series • CKD, ESRD, Contracted Kidney, ACKD, Uremic Toxins & Multiorgan Pathology • Standard Practice Bank",
+      "x" : 0.400205770498971
+    },
+    {
+      "h" : 0.011673126220703045,
+      "y" : 0.9505587853929268,
+      "w" : 0.3847736622552452,
+      "conf" : 1,
+      "text" : "Q29. [2025 Exam] The primary initiating trigger of Secondary",
+      "x" : 0.22736625995370352
+    },
+    {
+      "h" : 0.01028423786163335,
+      "y" : 0.9512532299544243,
+      "w" : 0.34773662255245197,
+      "conf" : 1,
+      "text" : "Q36. [2023 Exam] What urine specific gravity pattern is",
+      "x" : 0.688271608415638
+    },
+    {
+      "h" : 0.011666666666666603,
+      "y" : 0.9375000000968992,
+      "w" : 0.325102872068777,
+      "conf" : 1,
+      "text" : "Hyperparathyroidism in Chronic Kidney Disease is:",
+      "x" : 0.19753086961591204
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.9375000000581395,
+      "w" : 0.430041139230788,
+      "conf" : 1,
+      "text" : "characteristically observed in patients entering advanced End-Stage",
+      "x" : 0.7294238726131685
+    },
+    {
+      "h" : 0.01028423786163335,
+      "y" : 0.9237467701909245,
+      "w" : 0.4135802167016755,
+      "conf" : 1,
+      "text" : "[A] Primary adenomatous transformation of all four parathyroid glands",
+      "x" : 0.23971194104938254
+    },
+    {
+      "h" : 0.008888888888888946,
+      "y" : 0.9244444443986263,
+      "w" : 0.09876542721154558,
+      "conf" : 1,
+      "text" : "Renal Disease?",
+      "x" : 0.5637860072427985
+    },
+    {
+      "h" : 0.011698966026306157,
+      "y" : 0.9113727390399133,
+      "w" : 0.34362137992427033,
+      "conf" : 1,
+      "text" : "[B] Direct toxic activation of the thyroid gland by creatinine",
+      "x" : 0.20473251388888875
+    },
+    {
+      "h" : 0.01031007766723635,
+      "y" : 0.9106782946479897,
+      "w" : 0.4320987725407822,
+      "conf" : 1,
+      "text" : "[A] Fixed Isosthenuria at 1.010 (equilibrating with plasma osmolality ~300",
+      "x" : 0.7283950545267492
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.8990277777213912,
+      "w" : 0.4465020617599007,
+      "conf" : 1,
+      "text" : "[C] Massive hypercalcemia directly stimulating the calcium-sensing receptor",
+      "x" : 0.2561728450874484
+    },
+    {
+      "h" : 0.010456829071044949,
+      "y" : 0.8989825580152272,
+      "w" : 0.06592991666973769,
+      "conf" : 0.5,
+      "text" : "mOsm\/kg)",
+      "x" : 0.5473251035504643
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.887361111301152,
+      "w" : 0.3847736622552452,
+      "conf" : 1,
+      "text" : "[D] Excessive urinary excretion of parathyroid hormone fragments",
+      "x" : 0.2253086467849793
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.8873611113193206,
+      "w" : 0.24691357402681557,
+      "conf" : 1,
+      "text" : "[B] Persistent hyposthenuria fixed at 1.001",
+      "x" : 0.6378600847736625
+    },
+    {
+      "h" : 0.008888888888888946,
+      "y" : 0.8750000000726744,
+      "w" : 0.45473249903265034,
+      "conf" : 1,
+      "text" : "[E] Phosphate retention and reduced renal synthesis of 1,25-(OH)2-Vitamin D3",
+      "x" : 0.2602880715277776
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.8743055555762318,
+      "w" : 0.24691357402681557,
+      "conf" : 1,
+      "text" : "[C] Maximal hypersthenuria fixed at 1.045",
+      "x" : 0.6358024684156379
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.8633720930595931,
+      "w" : 0.06584361814103037,
+      "conf" : 1,
+      "text" : "(Calcitriol)",
+      "x" : 0.0658436222222222
+    },
+    {
+      "h" : 0.01028423786163335,
+      "y" : 0.8612467702090931,
+      "w" : 0.30864197353147094,
+      "conf" : 1,
+      "text" : "D. Wild hourly fluctuations between 1.002 and 1.040",
+      "x" : 0.6687242836934155
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.8495833333009626,
+      "w" : 0.3600823024533829,
+      "conf" : 1,
+      "text" : "[E] Complete absence of any measurable urine solute content",
+      "x" : 0.6944444489454731
+    },
+    {
+      "h" : 0.011686045858595118,
+      "y" : 0.8241569769696238,
+      "w" : 0.40329219410254524,
+      "conf" : 1,
+      "text" : "Q37. [2022 Exam] Which type of urinary cast in the microscopic",
+      "x" : 0.7160493826131686
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.810319767369186,
+      "w" : 0.4197530686480445,
+      "conf" : 1,
+      "text" : "sediment is pathognomonic of advanced chronic renal failure and",
+      "x" : 0.7222222152263378
+    },
+    {
+      "h" : 0.00872092988755957,
+      "y" : 0.7979651161821706,
+      "w" : 0.11934155638112964,
+      "conf" : 1,
+      "text" : "tubular dilatation?",
+      "x" : 0.5720164589163237
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7841569769137597,
+      "w" : 0.2818930044114214,
+      "conf" : 1,
+      "text" : "[A] Hyaline casts formed after vigorous exercise",
+      "x" : 0.6553497946844994
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7710755814861918,
+      "w" : 0.26131686324593406,
+      "conf" : 1,
+      "text" : "[B] Broad, Waxy Casts (Renal Failure Casts')",
+      "x" : 0.6430041184927984
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.759447674491279,
+      "w" : 0.28395061372960895,
+      "conf" : 1,
+      "text" : "[C] Fatty casts with Maltese-cross birefringence",
+      "x" : 0.6543209923868312
+    },
+    {
+      "h" : 0.011627906163533597,
+      "y" : 0.7470930234496124,
+      "w" : 0.2880658323659836,
+      "conf" : 1,
+      "text" : "[D] White blood cell casts of acute pyelonephritis",
+      "x" : 0.656378601303155
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7347383721475291,
+      "w" : 0.26131686324593406,
+      "conf" : 1,
+      "text" : "[E] Pure calcium phosphate crystalline casts",
+      "x" : 0.6430041184927984
+    },
+    {
+      "h" : 0.014722222222222192,
+      "y" : 0.8226388886506033,
+      "w" : 0.43209877254078216,
+      "conf" : 1,
+      "text" : "030. [2024 Exam] What early compensatory hormone is secreted by",
+      "x" : 0.2510288029492456
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.8103197675145348,
+      "w" : 0.43621399117715703,
+      "conf" : 1,
+      "text" : "osteocytes to promote urinary phosphate excretion as GFR begins to",
+      "x" : 0.2530864241152263
+    },
+    {
+      "h" : 0.008720930417378758,
+      "y" : 0.7979651162881541,
+      "w" : 0.10082304852563631,
+      "conf" : 1,
+      "text" : "decline in CKD?",
+      "x" : 0.08539094640132029
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.7834302325096899,
+      "w" : 0.15432098676573555,
+      "conf" : 1,
+      "text" : "[A] Growth Hormone (GH)",
+      "x" : 0.11008230195473259
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.771802325508721,
+      "w" : 0.22427982354314074,
+      "conf" : 1,
+      "text" : "[B] Insulin-like Growth Factor 1 (IGF-1)",
+      "x" : 0.14506172559156386
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.759447674491279,
+      "w" : 0.2716049338286778,
+      "conf" : 1,
+      "text" : "[C] Transforming Growth Factor-alpha (TGF-a)",
+      "x" : 0.16872428255144029
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7478197675436047,
+      "w" : 0.23868311276225926,
+      "conf" : 1,
+      "text" : "[D] Fibroblast Growth Factor 23 (FGF-23)",
+      "x" : 0.15226337580246915
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.734738372117248,
+      "w" : 0.20370370636945997,
+      "conf" : 1,
+      "text" : "[E] Atrial Natriuretic Peptide (ANP)",
+      "x" : 0.13477366594650192
+    },
+    {
+      "h" : 0.0117571051915486,
+      "y" : 0.6961563305247522,
+      "w" : 0.44238679513991247,
+      "conf" : 1,
+      "text" : "Q31. [2023 Exam] Renal Osteodystrophy encompasses a spectrum of",
+      "x" : 0.2561728390603566
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.6838662791424419,
+      "w" : 0.38683127157343256,
+      "conf" : 1,
+      "text" : "skeletal lesions. High-turnover bone disease driven by severe",
+      "x" : 0.22839506559670775
+    },
+    {
+      "h" : 0.011705426110161676,
+      "y" : 0.6700193796584689,
+      "w" : 0.26954732451049035,
+      "conf" : 1,
+      "text" : "secondary hyperparathyroidism is termed:",
+      "x" : 0.16975309091220836
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.6562499999818314,
+      "w" : 0.3847736622552452,
+      "conf" : 1,
+      "text" : "[A] Osteitis Fibrosa Cystica (von Recklinghausen disease of bone)",
+      "x" : 0.22530863716563798
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.6438888890893744,
+      "w" : 0.3127571921678459,
+      "conf" : 1,
+      "text" : "[B] Adynamic Bone Disease with osteoblast inactivity",
+      "x" : 0.1893004165980794
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.6315277775793819,
+      "w" : 0.2592592539277467,
+      "conf" : 1,
+      "text" : "[C] Osteopetrosis with marble bone density",
+      "x" : 0.16255144465020563
+    },
+    {
+      "h" : 0.00872093015246933,
+      "y" : 0.6206395349435013,
+      "w" : 0.34979423187063924,
+      "conf" : 1,
+      "text" : "[D] Pure Osteomalacia with defective osteoid mineralization",
+      "x" : 0.2078189256687244
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.6068055556159087,
+      "w" : 0.26131686324593406,
+      "conf" : 1,
+      "text" : "[E] Scurvy secondary to vitamin C deficiency",
+      "x" : 0.16358025126886128
+    },
+    {
+      "h" : 0.011757106251186755,
+      "y" : 0.6961563308057599,
+      "w" : 0.44238684312352605,
+      "conf" : 1,
+      "text" : "Q38. [2021 Exam] In patients with CKD, hyperphosphatemia promotes",
+      "x" : 0.7355967122427983
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.6838662791242733,
+      "w" : 0.27777776178324,
+      "conf" : 1,
+      "text" : "systemic vascular calcification primarily by:",
+      "x" : 0.6532921845421809
+    },
+    {
+      "h" : 0.011705426110161676,
+      "y" : 0.6700193795131201,
+      "w" : 0.45267486572265625,
+      "conf" : 1,
+      "text" : "[A] Destroying all vascular elastic fibers through free radical lipid peroxidation",
+      "x" : 0.7386831200274352
+    },
+    {
+      "h" : 0.01029069794548887,
+      "y" : 0.6576453487315372,
+      "w" : 0.4444444284499066,
+      "conf" : 1,
+      "text" : "[B] Inducing vascular smooth muscle cells to phenotypic transdifferentiation",
+      "x" : 0.7366255199588476
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.6460755814680232,
+      "w" : 0.14814814681527,
+      "conf" : 1,
+      "text" : "into osteoblast-like cells",
+      "x" : 0.5884773687242797
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.6329295863629304,
+      "w" : 0.3559670598252016,
+      "conf" : 1,
+      "text" : "[C] Converting aortic endothelial cells into mature adipocytes",
+      "x" : 0.6923868280864199
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.6213662791606105,
+      "w" : 0.3312757000233393,
+      "conf" : 1,
+      "text" : "[D] Inhibiting parathyroid hormone release from the neck",
+      "x" : 0.680041156404321
+    },
+    {
+      "h" : 0.011627906163533597,
+      "y" : 0.6090116280523256,
+      "w" : 0.36419752108975767,
+      "conf" : 1,
+      "text" : "[E] Precipitating pure uric acid crystals inside the carotid sinus",
+      "x" : 0.6944444400977366
+    },
+    {
+      "h" : 0.011692505942450637,
+      "y" : 0.5697351417772081,
+      "w" : 0.4238682872844192,
+      "conf" : 1,
+      "text" : "Q32. [2022 Exam] The histological lesion of 'Osteomalacia' in adult",
+      "x" : 0.2469135796982168
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.5559722220543164,
+      "w" : 0.3580246931351956,
+      "conf" : 1,
+      "text" : "renal osteodystrophy is pathologically characterized by:",
+      "x" : 0.2119341608539094
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.5429166668773838,
+      "w" : 0.43827157650353776,
+      "conf" : 1,
+      "text" : "[A] Excessive unmineralized osteoid seams coating bone trabeculae due to",
+      "x" : 0.2520576058641978
+    },
+    {
+      "h" : 0.011679586304558676,
+      "y" : 0.5305490959329157,
+      "w" : 0.1172839470629422,
+      "conf" : 1,
+      "text" : "Calcitriol deficiency",
+      "x" : 0.09362140113168718
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.5181944445476089,
+      "w" : 0.3271604813869644,
+      "conf" : 1,
+      "text" : "[B] Complete absence of bone marrow vascular spaces",
+      "x" : 0.1965020617026748
+    },
+    {
+      "h" : 0.011692506472269715,
+      "y" : 0.5072351422940556,
+      "w" : 0.37860081030887627,
+      "conf" : 1,
+      "text" : "[C] Proliferation of immature blast cells destroying bony cortices",
+      "x" : 0.22222222600823038
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.49416666645385976,
+      "w" : 0.40329214611893177,
+      "conf" : 1,
+      "text" : "[D] Extensive replacement of cortical bone by lamellar adipose tissue",
+      "x" : 0.23456790000000008
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.4818055556159086,
+      "w" : 0.32921809070515184,
+      "conf" : 1,
+      "text" : "[E] Total osteoclastic arrest without osteoid production",
+      "x" : 0.19753086968449912
+    },
+    {
+      "h" : 0.011692506472269715,
+      "y" : 0.5697351422940556,
+      "w" : 0.4444444284499067,
+      "conf" : 1,
+      "text" : "Q39. [2025 Exam] Why does metabolic acidosis develop predictably in",
+      "x" : 0.7366255188477365
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.557361111256042,
+      "w" : 0.3497942318706393,
+      "conf" : 1,
+      "text" : "advanced CKD when GFR falls below ~20-25 mL\/min?",
+      "x" : 0.6893004170781891
+    },
+    {
+      "h" : 0.011718345748053638,
+      "y" : 0.5421963827767561,
+      "w" : 0.38888888089162,
+      "conf" : 1,
+      "text" : "[A] Excessive respiratory retention of dissolved carbon dioxide gas",
+      "x" : 0.7067901239711933
+    },
+    {
+      "h" : 0.010290697415669792,
+      "y" : 0.5298546511489021,
+      "w" : 0.44032920981353185,
+      "conf" : 1,
+      "text" : "[B] Impaired renal excretion of fixed metabolic acids (phosphates, sulfates)",
+      "x" : 0.7325102935699588
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.5181944445476089,
+      "w" : 0.23251028480769698,
+      "conf" : 1,
+      "text" : "and reduced proximal ammoniagenesis",
+      "x" : 0.6306584391203702
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.5065277780123019,
+      "w" : 0.4465020617599008,
+      "conf" : 1,
+      "text" : "[C] Complete destruction of all gastrointestinal carbonic anhydrase enzymes",
+      "x" : 0.7355967003772295
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.49347222205431635,
+      "w" : 0.41563785001166964,
+      "conf" : 1,
+      "text" : "D] Massive hypersecretion of hydrogen ions by surviving principal cells",
+      "x" : 0.7222222274176955
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.4818055556340772,
+      "w" : 0.3806584196270636,
+      "conf" : 1,
+      "text" : "[E] Rapid conversion of circulating albumin into hydrochloric acid",
+      "x" : 0.702674901877572
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.443333333403918,
+      "w" : 0.4506172803962755,
+      "conf" : 1,
+      "text" : "Q33. [2021 Exam] In contrast to high-turnover disease, 'Adynamic Bone",
+      "x" : 0.2602880618998629
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.42957041352200176,
+      "w" : 0.38271602894525103,
+      "conf" : 1,
+      "text" : "Disease' in ESRD patients is pathologically characterized by:",
+      "x" : 0.22633745334362126
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.41497093030523263,
+      "w" : 0.3765432009906889,
+      "conf" : 1,
+      "text" : "[A] Heavy infiltration of the bone marrow by amyloid light chains",
+      "x" : 0.22119342191358005
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.40334302331031974,
+      "w" : 0.36831273972613254,
+      "conf" : 1,
+      "text" : "[B] Massive osteoclastic tunneling forming cystic bone tumors",
+      "x" : 0.21707819390432087
+    },
+    {
+      "h" : 0.011627906163533486,
+      "y" : 0.39098837216569765,
+      "w" : 0.36008230245338296,
+      "conf" : 1,
+      "text" : "[C] Severe hypercalcemia with periosteal new bone formation",
+      "x" : 0.21296296746399168
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.37863372100290704,
+      "w" : 0.4403292098135318,
+      "conf" : 1,
+      "text" : "[D] Marked suppression of both osteoblasts and osteoclasts with low bone",
+      "x" : 0.25308642709190643
+    },
+    {
+      "h" : 0.008888888623979296,
+      "y" : 0.3677777777024409,
+      "w" : 0.2283950421795155,
+      "conf" : 1,
+      "text" : "turnover and normal or low PTH levels",
+      "x" : 0.1471193377572018
+    },
+    {
+      "h" : 0.00873385005527072,
+      "y" : 0.3546447027649817,
+      "w" : 0.3004115122669148,
+      "conf" : 1,
+      "text" : "[E] Universal complete resistance to bone fractures",
+      "x" : 0.1831275750205761
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.442638888986206,
+      "w" : 0.3950617088461822,
+      "conf" : 1,
+      "text" : "Q40. [Faculty Exam] What is the primary mechanism of severe",
+      "x" : 0.711934160329218
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.4295704133948215,
+      "w" : 0.38271602894525114,
+      "conf" : 1,
+      "text" : "secondary immune deficiency in advanced uremic patients?",
+      "x" : 0.7037036973251031
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.41497093017805226,
+      "w" : 0.4341563578671629,
+      "conf" : 1,
+      "text" : "[A] Suppression of leukocyte chemotaxis, phagocytosis, and cell-mediated",
+      "x" : 0.7294238628858025
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.4033430232315891,
+      "w" : 0.22222221422495336,
+      "conf" : 1,
+      "text" : "immunity by circulating uremic toxins",
+      "x" : 0.6234567864197533
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.3917151163517441,
+      "w" : 0.38271602894525114,
+      "conf" : 1,
+      "text" : "[B] Total congenital aplasia of the bone marrow lymphoid lineage",
+      "x" : 0.7037037100823043
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.37863372102107556,
+      "w" : 0.3888888808916201,
+      "conf" : 1,
+      "text" : "[C] Complete destruction of the spleen by calcium oxalate crystals",
+      "x" : 0.7067901283179012
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.36707041352200176,
+      "w" : 0.337448551969708,
+      "conf" : 1,
+      "text" : "[D] Absolute lack of helper T cells due to thymic infarction",
+      "x" : 0.6831275762345679
+    },
+    {
+      "h" : 0.00873385005527072,
+      "y" : 0.35464470277951654,
+      "w" : 0.29012344168417104,
+      "conf" : 1,
+      "text" : "[E] Genetic absence of all MHC Class I molecules",
+      "x" : 0.6574074110339505
+    },
+    {
+      "h" : 0.01162790722317164,
+      "y" : 0.3154069768023256,
+      "w" : 0.4444444284499066,
+      "conf" : 1,
+      "text" : "Q34. [2020 Exam] What is 'Tertiary Hyperparathyroidism' in the setting",
+      "x" : 0.2572016505349793
+    },
+    {
+      "h" : 0.011750645637512158,
+      "y" : 0.30226421156146027,
+      "w" : 0.24279835539044076,
+      "conf" : 1,
+      "text" : "of chronic longstanding renal failure?",
+      "x" : 0.1543209836076819
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.28847222242395765,
+      "w" : 0.3703703730361267,
+      "conf" : 1,
+      "text" : "[A] Spontaneous development of autonomous, uninhibited PTH",
+      "x" : 0.21810700051440318
+    },
+    {
+      "h" : 0.01031007766723635,
+      "y" : 0.27682170540045997,
+      "w" : 0.31687241080422074,
+      "conf" : 1,
+      "text" : "hypersecretion unresponsive to serum calcium levels",
+      "x" : 0.191358029972565
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.26526162796148256,
+      "w" : 0.3909464902098074,
+      "conf" : 1,
+      "text" : "[B] Complete infarction and disappearance of all parathyroid tissue",
+      "x" : 0.22839506661522624
+    },
+    {
+      "h" : 0.011627906163533486,
+      "y" : 0.2529069767926356,
+      "w" : 0.3765432009906889,
+      "conf" : 1,
+      "text" : "[C] Ectopic secretion of PTH by proximal convoluted tubule cells",
+      "x" : 0.22119342191358005
+    },
+    {
+      "h" : 0.011750645637512158,
+      "y" : 0.23976421170680912,
+      "w" : 0.3127571921678459,
+      "conf" : 1,
+      "text" : "[D] Hypoparathyroidism caused by aluminum toxicity",
+      "x" : 0.1893004167352536
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.22747093032340115,
+      "w" : 0.3292180907051518,
+      "conf" : 1,
+      "text" : "[E] Congenital agenesis of the calcium-sensing receptor",
+      "x" : 0.19753086831275707
+    },
+    {
+      "h" : 0.011627906163533597,
+      "y" : 0.3154069768168605,
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "text" : "Q41. [Core Exam] A 56-year-old diabetic male with hypertension has",
+      "x" : 0.7294238736882716
+    },
+    {
+      "h" : 0.010297157499525311,
+      "y" : 0.30153746769361783,
+      "w" : 0.4362139911771571,
+      "conf" : 1,
+      "text" : "GFR 11 mL\/min\/1.73m2, BUN 92 mg\/dL, Cr 6.8 mg\/dL, and bilaterally",
+      "x" : 0.7325102837037039
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.28847222242395765,
+      "w" : 0.3847736622552451,
+      "conf" : 1,
+      "text" : "shrunken kidneys (7.5 cm) on ultrasound. His renal status is:",
+      "x" : 0.7067901282664608
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.27541666673537457,
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "text" : "[A] KDIGO Stage 5 Chronic Kidney Disease (End-Stage Renal Disease)",
+      "x" : 0.715020571064815
+    },
+    {
+      "h" : 0.010284237861633239,
+      "y" : 0.26375323000893014,
+      "w" : 0.32304526275058953,
+      "conf" : 1,
+      "text" : "[B] Acute Prerenal Azotemia with intact tubular reserve",
+      "x" : 0.6738683132458847
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.2506944443692623,
+      "w" : 0.30864197353147105,
+      "conf" : 1,
+      "text" : "[C] Acute Interstitial Nephritis responsive to steroids",
+      "x" : 0.6666666718106993
+    },
+    {
+      "h" : 0.010297158029344389,
+      "y" : 0.23903746764188655,
+      "w" : 0.29835390294872743,
+      "conf" : 1,
+      "text" : "[D] Minimal Change Disease in complete remission",
+      "x" : 0.663580249005487
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.22597222240578907,
+      "w" : 0.3600823024533829,
+      "conf" : 1,
+      "text" : "[E] Unilateral Renal Infarction with compensatory hypertrophy",
+      "x" : 0.6923868372770916
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.18819444422391357,
+      "w" : 0.4423868431235259,
+      "conf" : 1,
+      "text" : "Q35. [2024 Exam] According to the KDIGO CKD classification, Stage 5",
+      "x" : 0.25617283508230454
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.17513888869884797,
+      "w" : 0.3621399117715704,
+      "conf" : 1,
+      "text" : "CKD (End-Stage Renal Disease) corresponds to a GFR of:",
+      "x" : 0.21604937818930053
+    },
+    {
+      "h" : 0.008888888888888946,
+      "y" : 0.16138888884085723,
+      "w" : 0.4197530686480445,
+      "conf" : 1,
+      "text" : "[A] GFR < 15 mL\/min\/1.73m2 (or initiation of renal replacement therapy)",
+      "x" : 0.24279834866255165
+    },
+    {
+      "h" : 0.008888889153798374,
+      "y" : 0.14972222228816323,
+      "w" : 0.2592592539277467,
+      "conf" : 1,
+      "text" : "[B] GFR between 30 and 44 mL\/min\/1.73m?",
+      "x" : 0.16255143708847747
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.1373611110770725,
+      "w" : 0.2633744725641215,
+      "conf" : 1,
+      "text" : "[C] GFR between 45 and 59 mL\/min\/1.73m2",
+      "x" : 0.1646090495884775
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.1256944444177121,
+      "w" : 0.2633744725641215,
+      "conf" : 1,
+      "text" : "[D] GFR between 60 and 89 mL\/min\/1.73m2",
+      "x" : 0.164609057887517
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.11263888882602813,
+      "w" : 0.33127572401514593,
+      "conf" : 1,
+      "text" : "[E] GFR > 90 mL\/min\/1.73m2 with persistent albuminuria",
+      "x" : 0.19855967409465017
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.18819444422391357,
+      "w" : 0.4341563578671629,
+      "conf" : 1,
+      "text" : "Q42. [Clini Exam] A 60-year-old female on chronic hemodialysis for 9",
+      "x" : 0.7314814771399176
+    },
+    {
+      "h" : 0.011673126220703156,
+      "y" : 0.17444121448594901,
+      "w" : 0.4444444284499066,
+      "conf" : 1,
+      "text" : "years develops flank pain and hematuria. Ultrasound shows shrunken",
+      "x" : 0.7345678941015092
+    },
+    {
+      "h" : 0.011698966026306157,
+      "y" : 0.16137273930638635,
+      "w" : 0.4238682872844193,
+      "conf" : 1,
+      "text" : "cystic kidneys (ACKD) and a 3.5-cm solid cortical mass. Diagnosis:",
+      "x" : 0.7263374538580246
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.1475290698885659,
+      "w" : 0.3189300201224081,
+      "conf" : 1,
+      "text" : "[A] Angiomyolipoma secondary to Tuberous Sclerosis",
+      "x" : 0.6718107049039779
+    },
+    {
+      "h" : 0.010297157499525311,
+      "y" : 0.13596253223855254,
+      "w" : 0.37037034904432,
+      "conf" : 1,
+      "text" : "[B] Retroperitoneal liposarcoma invading the renal parenchyma",
+      "x" : 0.6975308580246915
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.12281976741763567,
+      "w" : 0.2530864019813778,
+      "conf" : 1,
+      "text" : "C. Chronic pyelonephritic cortical abscess",
+      "x" : 0.6388888846707821
+    },
+    {
+      "h" : 0.01028423786163335,
+      "y" : 0.11124677005768818,
+      "w" : 0.34567901323426453,
+      "conf" : 1,
+      "text" : "[D] Benign cortical oncocytoma without malignant potential",
+      "x" : 0.6872427954732512
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.09958333326462532,
+      "w" : 0.411522631375295,
+      "conf" : 1,
+      "text" : "[E] Renal Cell Carcinoma complicating Acquired Cystic Kidney Disease",
+      "x" : 0.7181070010288064
+    },
+    {
+      "h" : 0.018908268610636436,
+      "y" : 0.015268088305754712,
+      "w" : 0.5720164460955925,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal Pathology Master Class • Strictly Grounded in Faculty & Board Som Past Papers",
+      "x" : 0.3189300458161864
+    },
+    {
+      "h" : 0.007344961166381836,
+      "y" : 0.01966085278616625,
+      "w" : 0.19135801447262546,
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321
+    }
+  ],
+  "page" : 85
+}

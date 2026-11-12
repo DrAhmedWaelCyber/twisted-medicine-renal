@@ -1,0 +1,1085 @@
+{
+  "items" : [
+    {
+      "conf" : 1,
+      "y" : 0.966534237534699,
+      "w" : 0.6748120152290394,
+      "x" : 0.3750000056234335,
+      "h" : 0.01751291963789192,
+      "text" : "Twisted Medicinai seen! System, Mos Uestrucesture athy on as terrogical Emergencies • Standard Practice Bank"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9694767442690178,
+      "w" : 0.07942201900962098,
+      "x" : 0.9210526311319354,
+      "h" : 0.013734834988911926,
+      "text" : "Page 3 of 4"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9381944443692624,
+      "w" : 0.4229323430339009,
+      "x" : 0.25093985385338335,
+      "h" : 0.01027777777777783,
+      "text" : "Q29. [2025 Exam] A patient with an obstructing ureteral stone"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9272642120104784,
+      "w" : 0.4398496121832315,
+      "x" : 0.25939850063909764,
+      "h" : 0.011750646167331236,
+      "text" : "has fever (39.2°C), rigors, and hypotension ('Infected Obstructed"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9164244184350776,
+      "w" : 0.1898496121832315,
+      "x" : 0.1343984946428572,
+      "h" : 0.010174418555365716,
+      "text" : "Kidney'). Immediate action?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9055555556290968,
+      "w" : 0.4060150300059534,
+      "x" : 0.24060150781954873,
+      "h" : 0.008888889153798374,
+      "text" : "[A] Discharge home with oral ciprofloxacin and outpatient clinic follow-up"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8945833331226162,
+      "w" : 0.44172932825698685,
+      "x" : 0.25845865103383453,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Immediate Extracorporeal Shock Wave Lithotripsy (ESWL) to pulverize stone"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8844476745094476,
+      "w" : 0.32894735110054596,
+      "x" : 0.20206767328477435,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Elective open ureterolithotomy scheduled 3 weeks later"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8750000000726744,
+      "w" : 0.4097744182748473,
+      "x" : 0.24248120812969917,
+      "h" : 0.008888888888888946,
+      "text" : "[D] Emergency Decompression (Retrograde DJ Stent or PCN) + IV Fluids &"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8648255814437984,
+      "w" : 0.15413533587150657,
+      "x" : 0.11654135595238085,
+      "h" : 0.00872092988755968,
+      "text" : "Broad-Spectrum Antibiotics"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8546447028037414,
+      "w" : 0.3571428508744833,
+      "x" : 0.21616541948621532,
+      "h" : 0.00873385005527072,
+      "text" : "[E] High-dose oral tamsulosin and vigorous outpatient hydration"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.840048449442721,
+      "w" : 0.40037592566330427,
+      "x" : 0.2396616547305764,
+      "h" : 0.011763565805223197,
+      "text" : "Q30. [2024 Exam] Why is immediate stone lithotripsy (e.g.,"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8299806202607302,
+      "w" : 0.4398496121832315,
+      "x" : 0.25939850063909764,
+      "h" : 0.011705426639980754,
+      "text" : "Ureteroscopy laser) CONTRAINDICATED in an infected obstructed"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8183333332973288,
+      "w" : 0.13345864554431952,
+      "x" : 0.10620300885338343,
+      "h" : 0.011666666666666603,
+      "text" : "kidney with sepsis?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8073611111591428,
+      "w" : 0.3984962534681659,
+      "x" : 0.23684210924812024,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Laser energy permanently converts bacteria into toxic viral particles"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7972383722202034,
+      "w" : 0.44172932825698696,
+      "x" : 0.2584586468280075,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Endoscopy causes instantaneous calcification of contralateral normal kidney"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7870833332646254,
+      "w" : 0.4379698961094761,
+      "x" : 0.256578952843045,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Infected stones are completely immune to laser light and ultrasound waves"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7768217052369426,
+      "w" : 0.3984962095895489,
+      "x" : 0.236842100281955,
+      "h" : 0.01031007766723635,
+      "text" : "[D] Ureteral stents cannot be inserted if the stone has been fragmented"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7659883721293604,
+      "w" : 0.3928571491255167,
+      "x" : 0.23402256130169163,
+      "h" : 0.00872092988755968,
+      "text" : "[E] High-pressure irrigation forces bacteria\/endotoxins into renal veins,"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7558333332941247,
+      "w" : 0.17857142543724164,
+      "x" : 0.12687969627192994,
+      "h" : 0.008888888623979407,
+      "text" : "triggering fatal Uroseptic Shock"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.712916666808049,
+      "w" : 0.4398496121832315,
+      "x" : 0.25939850173872164,
+      "h" : 0.01027777777777783,
+      "text" : "Q31. [2023 Exam] In Acute Urinary Retention (AUR) with a tense,"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7027616279796511,
+      "w" : 0.4248120152290394,
+      "x" : 0.2518797034962405,
+      "h" : 0.010174418555365716,
+      "text" : "tender bladder to umbilicus, what is the initial management of"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6918604651853533,
+      "w" : 0.05271023627582169,
+      "x" : 0.06578947434275358,
+      "h" : 0.009008586671617302,
+      "text" : "choice?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6802777777395599,
+      "w" : 0.4454887165258807,
+      "x" : 0.26033835143327055,
+      "h" : 0.008888888888888835,
+      "text" : "[A] Immediate gentle decompression via Foley Catheter (or Suprapubic Catheter"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.670784883775436,
+      "w" : 0.10338345163593526,
+      "x" : 0.09116541482612778,
+      "h" : 0.010174418555365605,
+      "text" : "if contraindicated)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6598837209883721,
+      "w" : 0.39473682132065513,
+      "x" : 0.23496240996240597,
+      "h" : 0.00872092988755968,
+      "text" : "[B] High-dose intravenous loop diuretics to force immediate micturition"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6504166666990373,
+      "w" : 0.4304511195716885,
+      "x" : 0.2528195434915415,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Performing an emergency transurethral prostate resection (TURP) within 1"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6402616279796511,
+      "w" : 0.03007518568114357,
+      "x" : 0.05263157944862154,
+      "h" : 0.007267441749572723,
+      "text" : "hour"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6293604650564987,
+      "w" : 0.3759398360975692,
+      "x" : 0.22744361372180438,
+      "h" : 0.00872093015246933,
+      "text" : "[D] Administering oral oxybutynin to relax the urinary bladder dome"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6205878552014037,
+      "w" : 0.3778195521713246,
+      "x" : 0.22838345830200502,
+      "h" : 0.011731265915764677,
+      "text" : "[E] Ordering an outpatient renal MRI and advising warm water baths"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6054166664929136,
+      "w" : 0.4304511195716885,
+      "x" : 0.254699255294486,
+      "h" : 0.01027777777777783,
+      "text" : "Q32. [2022 Exam] A 16-year-old male presents with sudden left"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5944509042350946,
+      "w" : 0.41165413434860265,
+      "x" : 0.24718045429981195,
+      "h" : 0.011679585774739598,
+      "text" : "testicular pain (2h), horizontal high-riding testis, and ABSENT"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5835755814861918,
+      "w" : 0.22180450022606257,
+      "x" : 0.15413534111842098,
+      "h" : 0.010174418555365605,
+      "text" : "remasteric reflex. Management?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5727357884385398,
+      "w" : 0.3383458437120889,
+      "x" : 0.20676692293233068,
+      "h" : 0.011750645637512158,
+      "text" : "[A] Acute epididymo-orchitis; discharge on oral ciprofloxacin"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5625000000726745,
+      "w" : 0.4360902239143377,
+      "x" : 0.2556391031954886,
+      "h" : 0.011666666666666603,
+      "text" : "[B] Testicular Torsion; immediate Surgical Exploration, Detorsion, and Bilateral"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5523255814922481,
+      "w" : 0.12781954120167033,
+      "x" : 0.10338346077694227,
+      "h" : 0.00872092988755968,
+      "text" : "Orchiopexy (<6 hours)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5414244185501453,
+      "w" : 0.39097743305176125,
+      "x" : 0.23308270187969932,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Varicocele; schedule elective outpatient ligation of spermatic veins"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5312500000726744,
+      "w" : 0.40977441827484723,
+      "x" : 0.24248120710526308,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Torsion of appendix testis; prescribe oral ibuprofen & scrotal elevation"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5218023256177327,
+      "w" : 0.41165413434860265,
+      "x" : 0.24342105777725553,
+      "h" : 0.011627906163533486,
+      "text" : "[E] Testicular seminoma; perform emergency radical inguinal orchiectomy"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.49781976749636625,
+      "w" : 0.42669173130279475,
+      "x" : 0.2528195542058269,
+      "h" : 0.010174418555365605,
+      "text" : "Q33. [2021 Exam] What physical examination finding ('Prehn|'s"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.48694121450204736,
+      "w" : 0.43421050784058235,
+      "x" : 0.25657895171052625,
+      "h" : 0.011673126750522234,
+      "text" : "Sign') differentiates Acute Epididymitis from Testicular Torsion?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.47458333330096264,
+      "w" : 0.41541352261749637,
+      "x" : 0.2453007570723683,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Torsion pain is completely relieved by deep palpation of femoral artery"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.46432170540046,
+      "w" : 0.42669173130279475,
+      "x" : 0.2509398567355887,
+      "h" : 0.01031007766723624,
+      "text" : "[B] Epididymitis causes an immediate loss of contralateral cremasteric reflex"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.45498062036575604,
+      "w" : 0.41541352261749637,
+      "x" : 0.24718044593515048,
+      "h" : 0.011705426110161676,
+      "text" : "[C] Scrotal elevation RELIEVES pain in Epididymitis (+ Prehn), but does NOT"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.44542958670207766,
+      "w" : 0.1729323210945925,
+      "x" : 0.12593984943609027,
+      "h" : 0.01030361758338083,
+      "text" : "relieve pain in Torsion (- Prehn)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.43531976761143404,
+      "w" : 0.42481201522903933,
+      "x" : 0.2499999955513786,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Both conditions display identical complete pain resolution upon elevation"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4237467701727559,
+      "w" : 0.422932299155284,
+      "x" : 0.24906015566259387,
+      "h" : 0.01028423786163335,
+      "text" : "[E] Elevation of hemiscrotum triggers immediate ipsilateral pupillary dilation"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.37941214506506904,
+      "w" : 0.4360902239143377,
+      "x" : 0.2575188024436089,
+      "h" : 0.011731265915764677,
+      "text" : "Q34. [2020 Exam] Why is Bilateral Orchiopexy mandatory during"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.36916666687708966,
+      "w" : 0.4379698961094761,
+      "x" : 0.25845865099624055,
+      "h" : 0.011666666666666714,
+      "text" : "emergency surgical exploration for unilateral Testicular Torsion?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3582848837936046,
+      "w" : 0.42857140349793316,
+      "x" : 0.25187970639097723,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Torsion is an infectious bacterial process spreading via scrotal lymphatics"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.34817829472672024,
+      "w" : 0.4078947460797089,
+      "x" : 0.24154135848214275,
+      "h" : 0.01031007766723624,
+      "text" : "[B] Fixing the contralateral normal testis stimulates massive testosterone"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.33720930240429753,
+      "w" : 0.05651292725486947,
+      "x" : 0.0657894743880118,
+      "h" : 0.009204095204671137,
+      "text" : "synthesis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.32776162796148256,
+      "w" : 0.422932299155284,
+      "x" : 0.24906015566259387,
+      "h" : 0.010174418555365605,
+      "text" : "[C] The contralateral testis invariably undergoes spontaneous necrosis in 24"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3175872093568313,
+      "w" : 0.037593984158239634,
+      "x" : 0.05639097791353381,
+      "h" : 0.007267441749572723,
+      "text" : "hours"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3073611111591428,
+      "w" : 0.4248120152290394,
+      "x" : 0.2518797034962405,
+      "h" : 0.01027777777777783,
+      "text" : "[D] The anatomical predisposing anomaly ('Bell-Clapper Deformity') is almost"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.29874676999712607,
+      "w" : 0.12406014196312229,
+      "x" : 0.10150375733082712,
+      "h" : 0.01028423786163335,
+      "text" : "universally BILATERAL"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.28708333328279395,
+      "w" : 0.44736843259963605,
+      "x" : 0.2612781999624059,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Bilateral fixation prevents future development of benign prostatic hyperplasia"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.27330426382401335,
+      "w" : 0.4041353139321981,
+      "x" : 0.24154135843515023,
+      "h" : 0.011724805831909157,
+      "text" : "Q35. [2024 Exam] Fournier|'s Gangrene is a life-threatening"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2616569768953862,
+      "w" : 0.40225564173705963,
+      "x" : 0.24060150075187978,
+      "h" : 0.011686046388414195,
+      "text" : "urological emergency defined as which pathological entity?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2507170542237807,
+      "w" : 0.3947368213206552,
+      "x" : 0.23308270545112791,
+      "h" : 0.01310077508290608,
+      "text" : "[A] Benign viral papilloma involving the glans penis and coronal sulcus"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2405523255268895,
+      "w" : 0.39097743305176136,
+      "x" : 0.2349624011278197,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Autoimmune sclerosing fibrosis of the retroperitoneal compartment"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.23111111129509582,
+      "w" : 0.42293229915528396,
+      "x" : 0.25093985667293206,
+      "h" : 0.011666666666666603,
+      "text" : "[C] Localized allergic contact dermatitis responding to topical hydrocortisone"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.22014534873153735,
+      "w" : 0.3872180447828675,
+      "x" : 0.23120301235902244,
+      "h" : 0.01029069794548887,
+      "text" : "[D] Pure fungal infection of the urinary bladder urothelium in athletes"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.20930232550872085,
+      "w" : 0.4172932386912518,
+      "x" : 0.24624059628759412,
+      "h" : 0.00872092988755968,
+      "text" : "[E] Rapidly progressive, polymicrobial Necrotizing Fasciitis of perineum and"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.19916666662536853,
+      "w" : 0.09774435826294033,
+      "x" : 0.08834586588345864,
+      "h" : 0.008888888623979296,
+      "text" : "external genitalia"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.938194444387431,
+      "w" : 0.389097716978006,
+      "x" : 0.713345869525376,
+      "h" : 0.010277777777777719,
+      "text" : "Q36. [2023 Exam] What is the mandatory, non-negotiable"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9280523254905524,
+      "w" : 0.41353380654374106,
+      "x" : 0.723684205357143,
+      "h" : 0.010174418555365716,
+      "text" : "cornerstone of clinical management in Fournier|'s Gangrene?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9164244185319768,
+      "w" : 0.4379698961094761,
+      "x" : 0.7340225490914789,
+      "h" : 0.010174418555365605,
+      "text" : "[A] Emergency Radical Surgical Debridement of necrotic tissue + IV Antibiotics"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9069444444419368,
+      "w" : 0.09022555978584434,
+      "x" : 0.5620300737468672,
+      "h" : 0.008888888888888946,
+      "text" : "& Resuscitation"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8960755814680232,
+      "w" : 0.4360902239143377,
+      "x" : 0.7330827140350875,
+      "h" : 0.010174418555365605,
+      "text" : "[B] Conservative local antiseptic washes and hyperbaric oxygen therapy alone"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8859625323172833,
+      "w" : 0.42481201522903944,
+      "x" : 0.7274436143327065,
+      "h" : 0.010297157499525311,
+      "text" : "[C] Oral ciprofloxacin and outpatient follow-up in the wound clinic next week"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8764114985248614,
+      "w" : 0.42293229915528396,
+      "x" : 0.7265037523496243,
+      "h" : 0.011711885664198118,
+      "text" : "[D] Immediate bilateral orchiectomy and permanent cystectomy in all cases"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8655523256359012,
+      "w" : 0.37030073175492006,
+      "x" : 0.7001879745535713,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Topical nystatin powder applied to the perineum every 4 hours"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8408430233103197,
+      "w" : 0.37406012002381384,
+      "x" : 0.7058270723449247,
+      "h" : 0.010174418555365716,
+      "text" : "Q37. [2021 Exam] How is Ischemic (Low-Flow) Priapism"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8306944445294402,
+      "w" : 0.4285714034979331,
+      "x" : 0.7312030146616538,
+      "h" : 0.010277777777777719,
+      "text" : "differentiated from Non-Ischemic Priapism upon corporal blood"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8183139534156977,
+      "w" : 0.07706766793575326,
+      "x" : 0.555451126856203,
+      "h" : 0.00872092988755968,
+      "text" : "aspiration?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8073611111409742,
+      "w" : 0.42293229915528396,
+      "x" : 0.7283834639332705,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Ischemic: bright red arterial blood, normal pH >7.40; Non-ischemic: dark"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7979651161821706,
+      "w" : 0.07894736755502729,
+      "x" : 0.5545112768796991,
+      "h" : 0.00872092988755957,
+      "text" : "venous blood"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.787083333282794,
+      "w" : 0.379699224366463,
+      "x" : 0.7048872243734333,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Ischemic: rigid, painful, Dark Hypoxic\/Acidotic blood (pH <7.25);"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7775484493200336,
+      "w" : 0.22744360456871182,
+      "x" : 0.6306390990914786,
+      "h" : 0.01176356527540423,
+      "text" : "Non-ischemic: painless, Bright Red blood"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7674806204868799,
+      "w" : 0.4191729108863903,
+      "x" : 0.7246240671365913,
+      "h" : 0.011705426110161676,
+      "text" : "[C] Ischemic priapism occurs exclusively in neonates following circumcision"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7565277775975506,
+      "w" : 0.4191729108863903,
+      "x" : 0.7246240653900375,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Non-ischemic priapism leads to complete cavernous tissue necrosis in 4"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7470930231104651,
+      "w" : 0.0338345849196916,
+      "x" : 0.5338345869674186,
+      "h" : 0.00872092988755968,
+      "text" : "hours"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7369444443840913,
+      "w" : 0.43233083564544394,
+      "x" : 0.7312030021146618,
+      "h" : 0.008888888888888946,
+      "text" : "[E] Both types have identical neutral cavernous blood gas values and painless"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.727470930287064,
+      "w" : 0.04511277989292217,
+      "x" : 0.5394736847744361,
+      "h" : 0.007267441749572834,
+      "text" : "courses"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7129166668807234,
+      "w" : 0.3928571491255167,
+      "x" : 0.7152255688204885,
+      "h" : 0.010277777777777719,
+      "text" : "Q38. [2025 Exam] What is the immediate pharmacological"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7027616278343023,
+      "w" : 0.4060150300059534,
+      "x" : 0.7180451060150379,
+      "h" : 0.010174418555365605,
+      "text" : "intervention for persistent Ischemic Priapism after corporal"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6911337210513566,
+      "w" : 0.07894736755502729,
+      "x" : 0.5563909787593986,
+      "h" : 0.010174418555365716,
+      "text" : "aspiration?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6795704135401703,
+      "w" : 0.40037592566330427,
+      "x" : 0.7152255705827066,
+      "h" : 0.01030361758338083,
+      "text" : "[A] Intracorporal injection of high-dose sodium nitroprusside vasodilator"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6693055556159087,
+      "w" : 0.34210525392029123,
+      "x" : 0.6860902312656638,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Intramuscular injection of broad-spectrum cephalosporins"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6591569768168604,
+      "w" : 0.4154135226174963,
+      "x" : 0.7227443678258143,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Intracorporal Alpha-1 Agonist (Phenylephrine titrated every 3-5 min) to"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6497222221686025,
+      "w" : 0.15037593663295845,
+      "x" : 0.592105265037594,
+      "h" : 0.008888888623979407,
+      "text" : "contract cavernous muscle"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6395348837936046,
+      "w" : 0.3966165373944105,
+      "x" : 0.7152255688674811,
+      "h" : 0.00872092988755968,
+      "text" : "[D] Intravenous bolus of unfractionated heparin and tissue plasminogen"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6293604649767125,
+      "w" : 0.05088964663847673,
+      "x" : 0.5422932324851588,
+      "h" : 0.009212279849582172,
+      "text" : "activator"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6184722223237188,
+      "w" : 0.35902254500893016,
+      "x" : 0.6945488720864661,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Intracorporal injection of high-potency topical hydrocortisone"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6054166668773838,
+      "w" : 0.4172932386912519,
+      "x" : 0.727443604849624,
+      "h" : 0.01027777777777783,
+      "text" : "Q39. [2020 Exam] A 28-year-old male reports an audible 'pop'"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5937499999454943,
+      "w" : 0.43421050784058224,
+      "x" : 0.7340225509633459,
+      "h" : 0.010277777777777719,
+      "text" : "during intercourse, followed by severe pain, detumescence, and"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5835755813771804,
+      "w" : 0.22180450022606268,
+      "x" : 0.6278195460996241,
+      "h" : 0.010174418555365716,
+      "text" : "'Eggplant Deformity'. Diagnosis?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5719476743943799,
+      "w" : 0.42105262696014556,
+      "x" : 0.7255639027568924,
+      "h" : 0.010174418555365605,
+      "text" : "[A] Superficial penile contusion; managed conservatively with ice packs and"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5625000000363372,
+      "w" : 0.04323308027364814,
+      "x" : 0.5385338351268798,
+      "h" : 0.00872092988755968,
+      "text" : "NSAIDs"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.551537467567649,
+      "w" : 0.4379698961094761,
+      "x" : 0.7340225636278193,
+      "h" : 0.010297157499525311,
+      "text" : "[B] Peyroniel's disease acute exacerbation; treated with oral vitamin E therapy"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5421447027908473,
+      "w" : 0.4398496121832315,
+      "x" : 0.7349623986842109,
+      "h" : 0.00873384979036107,
+      "text" : "[C] Gonococcal acute anterior urethritis; treated with intramuscular ceftriaxone"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.531250000090843,
+      "w" : 0.4304511195716886,
+      "x" : 0.732142862523496,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Penile Fracture (Rupture of Tunica Albuginea); requires Emergent Surgical"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.521802325629845,
+      "w" : 0.07894736755502729,
+      "x" : 0.5563909787593986,
+      "h" : 0.00872092988755968,
+      "text" : "Suture Repair"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5109625323581133,
+      "w" : 0.39097743305176125,
+      "x" : 0.7105263171679198,
+      "h" : 0.010297158029344389,
+      "text" : "[E] High-flow priapism; treated with emergency selective embolization"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.49781976751453483,
+      "w" : 0.4454887165258806,
+      "x" : 0.7396616615601501,
+      "h" : 0.010174418555365605,
+      "text" : "Q40. [2022 Exam] In blunt trauma, how is Intraperitoneal Bladder"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4862467701727559,
+      "w" : 0.37781955217132446,
+      "x" : 0.7058270723919171,
+      "h" : 0.01028423786163335,
+      "text" : "Rupture differentiated from Extraperitoneal Rupture on"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.47529069786001643,
+      "w" : 0.0923005357052592,
+      "x" : 0.562969925598553,
+      "h" : 0.012589159011840767,
+      "text" : "cystography?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.46432170540046,
+      "w" : 0.44360900045212526,
+      "x" : 0.7368421126566413,
+      "h" : 0.01031007766723624,
+      "text" : "[A] Intraperitoneal: contrast confined to Retzius space; Extraperitoneal: outlines"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.45421511610949616,
+      "w" : 0.07330826869720519,
+      "x" : 0.5516917297305766,
+      "h" : 0.010174418555365605,
+      "text" : "liver capsule"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4447222222491094,
+      "w" : 0.4304511195716886,
+      "x" : 0.7302631650689222,
+      "h" : 0.008888888623979296,
+      "text" : "[B] Intraperitoneal rupture occurs exclusively in patients with empty bladders"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.43386627914244186,
+      "w" : 0.42105262696014556,
+      "x" : 0.7255639167919797,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Extraperitoneal rupture requires emergency open peritoneal lavage and"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4244186045542636,
+      "w" : 0.07518796831647923,
+      "x" : 0.5526315776942357,
+      "h" : 0.00872092988755968,
+      "text" : "splenectomy"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.41347222240578907,
+      "w" : 0.44172932825698685,
+      "x" : 0.7359022630012528,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Both types display identical diffuse clouding confined strictly to the scrotum"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4033430232013081,
+      "w" : 0.4078947460797089,
+      "x" : 0.7208646565554513,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Intraperitoneal: contrast outlines bowel loops (Emergent Laparotomy);"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.39458333348891783,
+      "w" : 0.3045112615348109,
+      "x" : 0.6691729285244362,
+      "h" : 0.01027777777777783,
+      "text" : "Extraperitoneal: pelvic 'flame' extravasation (Catheter)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.38013888898620607,
+      "w" : 0.4248120152290392,
+      "x" : 0.7312030117669173,
+      "h" : 0.01027777777777783,
+      "text" : "Q41. [Clinical Vignette] A 56-year-old diabetic female has right"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3691666668625549,
+      "w" : 0.4379698961094761,
+      "x" : 0.7359022611137216,
+      "h" : 0.011666666666666603,
+      "text" : "flank pain, fever (39.5°C), BP 80\/48, and a 7-mm obstructing UPJ"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3582848838117732,
+      "w" : 0.28571427631172486,
+      "x" : 0.659774439661654,
+      "h" : 0.010174418555365716,
+      "text" : "stone with hydronephrosis. Management?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3466569768350291,
+      "w" : 0.41353380654374106,
+      "x" : 0.7236842156954886,
+      "h" : 0.010174418555365716,
+      "text" : "[A] IV Resuscitation, Broad-Spectrum Antibiotics (Meropenem), and Urgent"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3372222221928273,
+      "w" : 0.18421052977989083,
+      "x" : 0.6090225594611528,
+      "h" : 0.008888888623979407,
+      "text" : "Decompression (PCN or DJ Stent)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3262532298272441,
+      "w" : 0.3853383287091121,
+      "x" : 0.707706762100564,
+      "h" : 0.01028423786163335,
+      "text" : "[B] Schedule outpatient shock wave lithotripsy (ESWL) for next week"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.31613372087572683,
+      "w" : 0.3984962095895488,
+      "x" : 0.7161654085526317,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Immediate open right radical nephrectomy under general anesthesia"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3066666668625549,
+      "w" : 0.40037592566330416,
+      "x" : 0.7171052681625938,
+      "h" : 0.011666666666666603,
+      "text" : "[D] Perform immediate rigid ureteroscopy and laser stone fragmentation"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2957848837754361,
+      "w" : 0.4154135226174964,
+      "x" : 0.7227443660949247,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Administer high-dose oral tamsulosin and discharge with oral hydration"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2733042635954411,
+      "w" : 0.394736821320655,
+      "x" : 0.7161654168233083,
+      "h" : 0.011724806361728235,
+      "text" : "Q42. [Clinical Vignette] A 15-year-old male has acute right"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2623611113193206,
+      "w" : 0.4060150300059534,
+      "x" : 0.723684217293233,
+      "h" : 0.01027777777777783,
+      "text" : "testicular pain (2h), horizontal high-riding testis, and absent"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2514114985248615,
+      "w" : 0.22180450022606257,
+      "x" : 0.6315789436716794,
+      "h" : 0.011711885664198118,
+      "text" : "cremasteric reflex. Management?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.23976421160990996,
+      "w" : 0.4097744182748473,
+      "x" : 0.7218045044486218,
+      "h" : 0.011750645637512158,
+      "text" : "[A] Obtain an elective outpatient scrotal MRI and prescribe oral amoxicillin"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.22969638265406878,
+      "w" : 0.3966165373944106,
+      "x" : 0.7152255611842107,
+      "h" : 0.011718346277872715,
+      "text" : "[B] Immediate Emergency Scrotal Exploration with Detorsion & Bilateral"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2201453487678744,
+      "w" : 0.12969924630577145,
+      "x" : 0.5817669189144736,
+      "h" : 0.01029069794548887,
+      "text" : "Orchiopexy (<6 hours)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.21002906982194774,
+      "w" : 0.4097744182748472,
+      "x" : 0.7199248171522554,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Perform manual detorsion and discharge home without surgery if pain"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.18968023261264533,
+      "w" : 0.41353380654374106,
+      "x" : 0.7218045164473683,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Initiate high-dose intravenous corticosteroids for acute mumps orchitis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.17957041349172087,
+      "w" : 0.4097744182748472,
+      "x" : 0.7180451196115285,
+      "h" : 0.01030361758338083,
+      "text" : "[E] Apply scrotal ice packs and observe in the pediatric ward for 24 hours"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.015988372480620183,
+      "w" : 0.9248119713504223,
+      "x" : 0.5000000122807013,
+      "h" : 0.023255812327067082,
+      "text" : "Twisted Medicine • Clinical Nephrology & Urology Master Class • Facully & Board Exa sparation Confidential - Mecisityan Reidin Faculty & Board Exam Past Papers"
+    }
+  ],
+  "page" : 169
+}

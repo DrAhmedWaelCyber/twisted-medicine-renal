@@ -1,0 +1,1029 @@
+{
+  "items" : [
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "y" : 0.9781976745155039,
+      "text" : "Twisted Medicine",
+      "x" : 0.11316872695473243,
+      "w" : 0.1604938267162011
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.975972222405789,
+      "text" : "• Renal System Module • Lecture 7 MCQ Masterclass",
+      "x" : 0.36419753648833997,
+      "w" : 0.33744855196970813
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.9651162792151162,
+      "text" : "Twisted Medicine Medical Series • Glomerular Capillaries, Filtration Barrier & Mesangium",
+      "x" : 0.2705761300754459,
+      "w" : 0.47530864019813773
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.975972222163541,
+      "text" : "Page 1 of 4",
+      "x" : 0.9341563782578876,
+      "w" : 0.0699588427753568
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.9651162791182171,
+      "text" : "Standard Board & End-Module Practice Bank",
+      "x" : 0.848765436111111,
+      "w" : 0.2407407220804466
+    },
+    {
+      "h" : 0.014534883499145557,
+      "conf" : 1,
+      "y" : 0.943313953452035,
+      "text" : "7. GLOMERULAR BLOOD CAPILLARIES & RENAL BARRIER - HISTOLOGY LECTURE",
+      "x" : 0.49794237854938284,
+      "w" : 0.6625514000466783
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.9251388888260281,
+      "text" : "Twisted Medicine Histology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "x" : 0.5000000056790121,
+      "w" : 0.5679012274592178
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "y" : 0.9018217052732798,
+      "text" : "Q01. [2025 Exam] The endothelial cells of the glomerular blood",
+      "x" : 0.23559670275205774,
+      "w" : 0.4053497794289259
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "y" : 0.8887532299544243,
+      "text" : "capillaries are histologically characterized by which distinct feature?",
+      "x" : 0.2541152307613168,
+      "w" : 0.44238684312352594
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.8743055553431667,
+      "text" : "[A] Continuous non-fenestrated endothelium",
+      "x" : 0.16255143635116617,
+      "w" : 0.25925925392774674
+    },
+    {
+      "h" : 0.010284237861633239,
+      "conf" : 1,
+      "y" : 0.8612467700940253,
+      "text" : "[B] Fenestrations (70-100 nm) lacking closing diaphragms",
+      "x" : 0.20473250456104275,
+      "w" : 0.3436213799242704
+    },
+    {
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "y" : 0.8502777777005059,
+      "text" : "[C] Stratified cuboidal endothelial lining",
+      "x" : 0.14711933947187936,
+      "w" : 0.22839504217951553
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "y" : 0.8386111111349179,
+      "text" : "[D] Sinusoidal gaps over 1 micrometer",
+      "x" : 0.14506173213305887,
+      "w" : 0.22427982354314074
+    },
+    {
+      "h" : 0.012353914048936598,
+      "conf" : 1,
+      "y" : 0.8267797787698217,
+      "text" : "[E] Fenestrations with closing diaphragms",
+      "x" : 0.15534595858318428,
+      "w" : 0.24918845314649662
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.7812499999091569,
+      "text" : "Q02. [2024 Exam] The Glomerular Basement Membrane (GBM) has an",
+      "x" : 0.2582304470421811,
+      "w" : 0.45061728039627547
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.7667151163517442,
+      "text" : "average thickness of 300-350 nm and is developmentally formed by:",
+      "x" : 0.25617284694787357,
+      "w" : 0.44650206175990076
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.752180232630814,
+      "text" : "[A] Fusion of the basal laminae produced jointly by capillary endothelial cells",
+      "x" : 0.25514403736625507,
+      "w" : 0.44444442844990667
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.7398255814680232,
+      "text" : "and podocytes",
+      "x" : 0.07716049493312754,
+      "w" : 0.08847736262675351
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.7289244185501453,
+      "text" : "[B] Secretory activity of macula densa cells at the vascular pole",
+      "x" : 0.21604937808641986,
+      "w" : 0.3703703730361267
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "y" : 0.7173546512502942,
+      "text" : "[C] Condensation of parietal epithelial cell ground substance",
+      "x" : 0.20781892414266137,
+      "w" : 0.35390945050701406
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.7056944443840913,
+      "text" : "[D] Infiltration of circulating plasma fibronectin and albumin",
+      "x" : 0.20576131104252418,
+      "w" : 0.34979423187063924
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.6940277775309324,
+      "text" : "[E] Secretory activity of intraglomerular mesangial cells exclusively",
+      "x" : 0.2263374550754456,
+      "w" : 0.39094649020980743
+    },
+    {
+      "h" : 0.011744185553656639,
+      "conf" : 1,
+      "y" : 0.6583720928994152,
+      "text" : "Q03. [2023 Exam] Under the transmission electron microscope, the",
+      "x" : 0.2530864252572015,
+      "w" : 0.44032920981353185
+    },
+    {
+      "h" : 0.011718346277872715,
+      "conf" : 1,
+      "y" : 0.6453036173459312,
+      "text" : "Glomerular Basement Membrane exhibits which distinct 3-layered",
+      "x" : 0.2458847745884773,
+      "w" : 0.4259259205944133
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.6322674419573644,
+      "text" : "ultrastructure?",
+      "x" : 0.08950617479423861,
+      "w" : 0.1172839470629422
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "y" : 0.6170704135401703,
+      "text" : "[A] Inner circular, middle longitudinal, and outer elastic lamina",
+      "x" : 0.21399177558299018,
+      "w" : 0.36213991177157034
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.6054166664929136,
+      "text" : "[B] Lamina rara interna, central Lamina densa, and subepithelial Lamina rara",
+      "x" : 0.25411523377914924,
+      "w" : 0.44650206175990076
+    },
+    {
+      "h" : 0.007428683704800099,
+      "conf" : 1,
+      "y" : 0.5937500000753623,
+      "text" : "externa",
+      "x" : 0.05658436299679133,
+      "w" : 0.051485493498028445
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.5820833331407848,
+      "text" : "[C] Endothelial glycocalyx, peritubular lamina, and podocalyxin coat",
+      "x" : 0.22839506666666654,
+      "w" : 0.39506170884618214
+    },
+    {
+      "h" : 0.011692505942450637,
+      "conf" : 1,
+      "y" : 0.5697351420679058,
+      "text" : "[D] Zonula occludens, zonula adherens, and macula adherens",
+      "x" : 0.2119341624142659,
+      "w" : 0.36213991177157034
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "y" : 0.5595930234496124,
+      "text" : "[E] Lamina lucida, lamina propria, and lamina adventitia",
+      "x" : 0.19444444639917688,
+      "w" : 0.3271604813869644
+    },
+    {
+      "h" : 0.011698966026306157,
+      "conf" : 1,
+      "y" : 0.5363727390399136,
+      "text" : "Q04. [2022 Exam] Which biochemical component of the Lamina Densa",
+      "x" : 0.2592592609739369,
+      "w" : 0.4526748657226563
+    },
+    {
+      "h" : 0.011724805831909157,
+      "conf" : 1,
+      "y" : 0.5233042637150018,
+      "text" : "of the GBM forms the physical molecular meshwork acting as a",
+      "x" : 0.23662550931069967,
+      "w" : 0.40740741273891995
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.5101744185319768,
+      "text" : "mechanical size filter?",
+      "x" : 0.10699588292181074,
+      "w" : 0.14814814681527
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.4948611111773113,
+      "text" : "[A] Type I and Type Ill fibrillar collagen fibers",
+      "x" : 0.16358025018004108,
+      "w" : 0.26131686324593406
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "y" : 0.48401162795542635,
+      "text" : "[B] Elastin fibers and fibrillin microfibrils",
+      "x" : 0.15020576529492444,
+      "w" : 0.23868311276225926
+    },
+    {
+      "h" : 0.01176356527540423,
+      "conf" : 1,
+      "y" : 0.47245155063151667,
+      "text" : "[C] Hyaluronic acid glycosaminoglycan chains exclusively",
+      "x" : 0.19958847741769548,
+      "w" : 0.33744855196970813
+    },
+    {
+      "h" : 0.013178294499715082,
+      "conf" : 1,
+      "y" : 0.4600775195289552,
+      "text" : "[D] Type IV Collagen alpha-3, alpha-4, and alpha-5 chains cross-linked by",
+      "x" : 0.24176954310699592,
+      "w" : 0.4218107019580385
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "y" : 0.44846253233545186,
+      "text" : "laminin and nidogen",
+      "x" : 0.09362140126886138,
+      "w" : 0.12551439633159517
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.43680555577608654,
+      "text" : "[E] Pure keratan sulfate proteoglycans without collagenous core",
+      "x" : 0.22119342198216713,
+      "w" : 0.38065841962706365
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.41569767449127915,
+      "text" : "Q05. 2021 Exam The Lamina Rara Interna and Lamina Rara Externa of",
+      "x" : 0.2623456847479423,
+      "w" : 0.45884771766902516
+    },
+    {
+      "h" : 0.011698966026306157,
+      "conf" : 1,
+      "y" : 0.4011272608389625,
+      "text" : "the GBM are rich in which polyanionic molecule conferring negative",
+      "x" : 0.251028812037037,
+      "w" : 0.4362139911771571
+    },
+    {
+      "h" : 0.011673126220703156,
+      "conf" : 1,
+      "y" : 0.3880587854656013,
+      "text" : "electrical charge?",
+      "x" : 0.09670782105624134,
+      "w" : 0.12757201764568593
+    },
+    {
+      "h" : 0.0087403098742167,
+      "conf" : 1,
+      "y" : 0.37353682156190415,
+      "text" : "[A] Neutral dermatan sulfate",
+      "x" : 0.11625514194958853,
+      "w" : 0.16666666666666666
+    },
+    {
+      "h" : 0.011673126220703045,
+      "conf" : 1,
+      "y" : 0.3619412144859492,
+      "text" : "[B] Chondroitin-4-sulfate only",
+      "x" : 0.11831275997942377,
+      "w" : 0.17078188530304145
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.3495833331858949,
+      "text" : "[C] Type Il fibrillar procollagen",
+      "x" : 0.12037036738683135,
+      "w" : 0.1790123345716944
+    },
+    {
+      "h" : 0.011698966026306157,
+      "conf" : 1,
+      "y" : 0.3386272609600865,
+      "text" : "[D] Positively charged basic histone proteins",
+      "x" : 0.16255143635116612,
+      "w" : 0.26337447256412144
+    },
+    {
+      "h" : 0.011737725469801119,
+      "conf" : 1,
+      "y" : 0.3269799739951221,
+      "text" : "[E] Heparan sulfate proteoglycan (Perlecan and Agrin)",
+      "x" : 0.1893004075617285,
+      "w" : 0.3168724108042207
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "y" : 0.29361111091062564,
+      "text" : "Q06. [2020 Exam] Goodpasture Syndrome is an autoimmune disease",
+      "x" : 0.25411522259945146,
+      "w" : 0.4423867951399126
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "y" : 0.27985465126846265,
+      "text" : "characterized by rapidly progressive glomerulonephritis and",
+      "x" : 0.22736625028292196,
+      "w" : 0.38888888089162005
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.2667151163699128,
+      "text" : "pulmonary hemorrhage due to autoantibodies directed against:",
+      "x" : 0.23868313271604924,
+      "w" : 0.4115226313752949
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.2506944443692623,
+      "text" : "[A] Nephrin transmembrane immunoglobulin-like protein in the slit diaphragm",
+      "x" : 0.2572016536351164,
+      "w" : 0.45267486572265625
+    },
+    {
+      "h" : 0.01175064563751227,
+      "conf" : 1,
+      "y" : 0.23976421158568506,
+      "text" : "[B] Endothelial cell vascular endothelial cadherin junctions",
+      "x" : 0.2016460862654322,
+      "w" : 0.34156377060608295
+    },
+    {
+      "h" : 0.01162790722317164,
+      "conf" : 1,
+      "y" : 0.22819767447674405,
+      "text" : "[C] Non-collagenous domain 1 (NC1) of the alpha-3 chain of Type IV Collagen",
+      "x" : 0.2561728440123456,
+      "w" : 0.4506172803962756
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "y" : 0.2173546512321256,
+      "text" : "in the GBM and alveoli",
+      "x" : 0.09979423695987656,
+      "w" : 0.13786007623252627
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.20569444454760893,
+      "text" : "[D] Mesangial smooth muscle alpha-actin filaments",
+      "x" : 0.18415638243312749,
+      "w" : 0.3065843642132837
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.1940277775793819,
+      "text" : "[E] Podocalyxin sialoprotein on the podocyte apical membrane",
+      "x" : 0.215020582270233,
+      "w" : 0.3683127397261326
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "y" : 0.17151162785852725,
+      "text" : "Q07. [2024 Exam] Alport Syndrome is a hereditary nephropathy with",
+      "x" : 0.2520576058641978,
+      "w" : 0.43827157650353776
+    },
+    {
+      "h" : 0.01174418555365675,
+      "conf" : 1,
+      "y" : 0.15837209281462833,
+      "text" : "hematuria, sensorineural deafness, and ocular lens abnormalities",
+      "x" : 0.24279834684499335,
+      "w" : 0.42386828728441917
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.14458333312261618,
+      "text" : "caused by genetic mutations in:",
+      "x" : 0.14403292551440317,
+      "w" : 0.22222221422495333
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.13013888884085723,
+      "text" : "[A] WT1 gene causing diffuse mesangial sclerosis",
+      "x" : 0.17798353419067234,
+      "w" : 0.2942386843123526
+    },
+    {
+      "h" : 0.011692505942450526,
+      "conf" : 1,
+      "y" : 0.11776485812589271,
+      "text" : "[B] ACTN4 gene encoding alpha-actinin-4",
+      "x" : 0.1532921851508915,
+      "w" : 0.24485596470862814
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "y" : 0.10611111105284776,
+      "text" : "[C] NPHS1 gene encoding nephrin protein",
+      "x" : 0.1543209860082305,
+      "w" : 0.24691357402681552
+    },
+    {
+      "h" : 0.011679586304558676,
+      "conf" : 1,
+      "y" : 0.09445090406708434,
+      "text" : "[D] PKD1 gene encoding polycystin-1 protein",
+      "x" : 0.1625514359396435,
+      "w" : 0.26337447256412144
+    },
+    {
+      "h" : 0.011718345748053638,
+      "conf" : 1,
+      "y" : 0.08280361736859265,
+      "text" : "[E] COL4A5 gene encoding the alpha-5 chain of Type IV Collagen, causing a",
+      "x" : 0.25102879924554206,
+      "w" : 0.44032920981353185
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.07122093017441855,
+      "text" : "basket-weave split GBM",
+      "x" : 0.10390946360082307,
+      "w" : 0.14197530686480445
+    },
+    {
+      "h" : 0.01176356527540412,
+      "conf" : 1,
+      "y" : 0.9025484493684832,
+      "text" : "Q08. [2022 Exam] The endothelial luminal surface of glomerular",
+      "x" : 0.716049386265432,
+      "w" : 0.41152263137529477
+    },
+    {
+      "h" : 0.011673126220703156,
+      "conf" : 1,
+      "y" : 0.8880587851749036,
+      "text" : "capillaries is coated by a thick Glycocalyx whose strong negative",
+      "x" : 0.7170781846965022,
+      "w" : 0.41769548332166373
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.8756944442239135,
+      "text" : "charge is primarily due to:",
+      "x" : 0.5936213963305899,
+      "w" : 0.1707818853030414
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.8597383719234497,
+      "text" : "[A] Lipoprotein lipase enzymes exclusively",
+      "x" : 0.631687246844993,
+      "w" : 0.24691357402681557
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "y" : 0.8488888889619812,
+      "text" : "[B] Alkaline phosphatase and carbonic anhydrase",
+      "x" : 0.6543209924554182,
+      "w" : 0.2880658323659837
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.8365277777395599,
+      "text" : "[C] Sialoproteins including Podocalyxin and polyanionic proteoglycans",
+      "x" : 0.7139917763374484,
+      "w" : 0.40740741273892
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.8248611112224215,
+      "text" : "[D] Neutral glucose and galactose residues without sulfate",
+      "x" : 0.6800411466049385,
+      "w" : 0.33950616128789546
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.8131944442420822,
+      "text" : "[E] Positively charged arginine-rich histones",
+      "x" : 0.6358024659465021,
+      "w" : 0.25514403529137186
+    },
+    {
+      "h" : 0.011679586304558565,
+      "conf" : 1,
+      "y" : 0.7805490959571404,
+      "text" : "Q09. [2023 Exam] What is the primary physiological function of the",
+      "x" : 0.7253086473508229,
+      "w" : 0.4300411392307881
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.766715116224564,
+      "text" : "thick, polyanionic Glycocalyx lining the glomerular capillary",
+      "x" : 0.6995884725823045,
+      "w" : 0.38271602894525103
+    },
+    {
+      "h" : 0.008720930417378758,
+      "conf" : 1,
+      "y" : 0.7543604651283915,
+      "text" : "endothelium?",
+      "x" : 0.5545267488883172,
+      "w" : 0.08847736862470523
+    },
+    {
+      "h" : 0.011686045858595118,
+      "conf" : 1,
+      "y" : 0.7383430229819266,
+      "text" : "[A] Preventing adherence of blood cells and providing an initial electrostatic",
+      "x" : 0.7283950647462276,
+      "w" : 0.44032920981353196
+    },
+    {
+      "h" : 0.00872738997141509,
+      "conf" : 1,
+      "y" : 0.7267474161611138,
+      "text" : "barrier against negative proteins",
+      "x" : 0.6039094674125514,
+      "w" : 0.19135801447262557
+    },
+    {
+      "h" : 0.01176356527540423,
+      "conf" : 1,
+      "y" : 0.7150484493200336,
+      "text" : "[B] Active pinocytosis of albumin into the urinary space",
+      "x" : 0.6697530832304528,
+      "w" : 0.3189300201224081
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.7042151163335755,
+      "text" : "[C] Synthesis of circulating renin into the afferent arteriole",
+      "x" : 0.6779835432870369,
+      "w" : 0.3353909426515207
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.6926388890831053,
+      "text" : "[D] Generation of hydrostatic pressure through active contraction",
+      "x" : 0.6995884711934158,
+      "w" : 0.37860081030887627
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.6809722219876981,
+      "text" : "[E] Secretion of hypertonic fluid into Bowman's capsule",
+      "x" : 0.6707818983539093,
+      "w" : 0.3209876534324023
+    },
+    {
+      "h" : 0.011744185553656639,
+      "conf" : 1,
+      "y" : 0.6583720929357524,
+      "text" : "Q10. [2021 Exam] In diabetic nephropathy, advanced glycation",
+      "x" : 0.7109053548096707,
+      "w" : 0.40123456079255104
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.6445833335070864,
+      "text" : "end-products (AGEs) cross-link structural proteins, leading early in the",
+      "x" : 0.7366255067901237,
+      "w" : 0.456790084359031
+    },
+    {
+      "h" : 0.011692506472269715,
+      "conf" : 1,
+      "y" : 0.6322351418998954,
+      "text" : "disease histologically to:",
+      "x" : 0.5936213964677641,
+      "w" : 0.1707818853030415
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "y" : 0.6170704134129901,
+      "text" : "[A] Thinning and focal disappearance of the lamina densa",
+      "x" : 0.6769547282921812,
+      "w" : 0.33744855196970813
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.6054166668955524,
+      "text" : "[B] Complete absence of podocyte foot processes from birth",
+      "x" : 0.6841563741512348,
+      "w" : 0.3559670598252014
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.5937500000545057,
+      "text" : "[C] Selective proliferation of parietal epithelial cells into crescents",
+      "x" : 0.6995884821502056,
+      "w" : 0.38271602894525103
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.5820833331226162,
+      "text" : "[D] Progressive diffuse thickening of the Glomerular Basement Membrane",
+      "x" : 0.7242798425925923,
+      "w" : 0.4320987725407822
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 0.30000001192092896,
+      "y" : 0.5697674418120156,
+      "text" : "(GBM)",
+      "x" : 0.528806583676269,
+      "w" : 0.04115226133814398
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.5588662791242733,
+      "text" : "[E] Hyperplasia of fenestrated capillary endothelium",
+      "x" : 0.6604938309670783,
+      "w" : 0.30452673090328963
+    },
+    {
+      "h" : 0.011698966026306157,
+      "conf" : 1,
+      "y" : 0.5363727393063864,
+      "text" : "Q11. [2025 Exam] The negatively charged sialic acid resides present",
+      "x" : 0.7345679068415636,
+      "w" : 0.4485596470862815
+    },
+    {
+      "h" : 0.011724805831909269,
+      "conf" : 1,
+      "y" : 0.5233042638361258,
+      "text" : "on both the endothelial glycocalyx and podocyte cell coats are",
+      "x" : 0.7098765499314127,
+      "w" : 0.4032921461189318
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.5094476743943799,
+      "text" : "designated chemically as:",
+      "x" : 0.5936213963305899,
+      "w" : 0.1707818853030414
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.49486111106224356,
+      "text" : "[A] Fibronectin",
+      "x" : 0.553497940877915,
+      "w" : 0.09053497794289267
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.4832848838117732,
+      "text" : "[B] Integrin alpha-1",
+      "x" : 0.5627572030606995,
+      "w" : 0.11316871643066406
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 0.5,
+      "y" : 0.4716569768168605,
+      "text" : "[C] Podocalyxin",
+      "x" : 0.555555557133059,
+      "w" : 0.09465020257721901
+    },
+    {
+      "h" : 0.010600893232557418,
+      "conf" : 1,
+      "y" : 0.46002906984722725,
+      "text" : "[D] Tenascin",
+      "x" : 0.5462962975643013,
+      "w" : 0.07624359250818413
+    },
+    {
+      "h" : 0.008888889153798374,
+      "conf" : 1,
+      "y" : 0.44916666676915384,
+      "text" : "[E] Entactin",
+      "x" : 0.5411522622085049,
+      "w" : 0.0699588427753568
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.4149709302083334,
+      "text" : "Q12. [2020 Exam] Under physiological conditions, the Glomerular",
+      "x" : 0.718106988820302,
+      "w" : 0.4238682872844193
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "y" : 0.40182170540045997,
+      "text" : "Basement Membrane is in direct contact with which two cell types",
+      "x" : 0.7222222264609053,
+      "w" : 0.4238682872844193
+    },
+    {
+      "h" : 0.011673126220703156,
+      "conf" : 1,
+      "y" : 0.3880587854656013,
+      "text" : "along its surfaces?",
+      "x" : 0.575102882887517,
+      "w" : 0.13374484560024813
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.3728197674963662,
+      "text" : "[A] Juxtaglomerular granular cells internally and macula densa externally",
+      "x" : 0.7201646143518518,
+      "w" : 0.4238682872844193
+    },
+    {
+      "h" : 0.011673126220703156,
+      "conf" : 1,
+      "y" : 0.3619412146434104,
+      "text" : "[B] Endothelial cells internally and Podocyte pedicels externally (and Mesangial",
+      "x" : 0.7376543152520577,
+      "w" : 0.4588477176690251
+    },
+    {
+      "h" : 0.011698966026306157,
+      "conf" : 1,
+      "y" : 0.3386272607178386,
+      "text" : "[C] Red blood cells internally and interstitial macrophages externally",
+      "x" : 0.7067901168381346,
+      "w" : 0.39711931816436974
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "y" : 0.32625322997259293,
+      "text" : "[DJ Peritubular fibroblasts internally and proximal tubule cells externally",
+      "x" : 0.7181070010802468,
+      "w" : 0.41563785001166964
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.3146802326126453,
+      "text" : "[E] Parietal epithelial cells internally and podocytes externally",
+      "x" : 0.6862139962191357,
+      "w" : 0.3559670598252016
+    },
+    {
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "y" : 0.2936111112950958,
+      "text" : "Q13. [Faculty Exam] On Periodic Acid-Schiff (PAS) histological staining",
+      "x" : 0.7386831313786009,
+      "w" : 0.45679013234264454
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "y" : 0.2798546511307334,
+      "text" : "of a normal kidney section, the Glomerular Basement Membrane stains",
+      "x" : 0.7386831321399177,
+      "w" : 0.45679013234264454
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.2667151163699128,
+      "text" : "intensely positive (magenta-pink) because it is:",
+      "x" : 0.6646090573559669,
+      "w" : 0.30864197353147105
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.25069444424208215,
+      "text" : "A Composed purely of nucleic acids and nucleoproteins",
+      "x" : 0.6759259217849796,
+      "w" : 0.33127570002333917
+    },
+    {
+      "h" : 0.011750645637512158,
+      "conf" : 1,
+      "y" : 0.23976421160990996,
+      "text" : "[B] Rich in unconjugated bilirubin and ferritin pigments",
+      "x" : 0.6676954679355284,
+      "w" : 0.3189300201224081
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.22747093020833342,
+      "text" : "[C] Composed entirely of hydrophobic triglycerides and neutral lipids",
+      "x" : 0.7078189233882032,
+      "w" : 0.3991769514743637
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.2158430232315891,
+      "text" : "[D] Rich in neutral glycoproteins, laminin, and proteoglycan carbohydrate",
+      "x" : 0.7191357954389578,
+      "w" : 0.4218107019580386
+    },
+    {
+      "h" : 0.007267441749572723,
+      "conf" : 1,
+      "y" : 0.20566860470566856,
+      "text" : "moieties",
+      "x" : 0.5349794245370372,
+      "w" : 0.053497938240099185
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.1940277775612133,
+      "text" : "[E] Infiltrated by mineralized calcium hydroxyapatite crystals",
+      "x" : 0.6841563829989712,
+      "w" : 0.35185184118882673
+    },
+    {
+      "h" : 0.01162790722317164,
+      "conf" : 1,
+      "y" : 0.17151162796511626,
+      "text" : "Q14. [Core Concept] In Thin Basement Membrane Disease (Benign",
+      "x" : 0.7232510330658435,
+      "w" : 0.42592592059441325
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "y" : 0.1576453488874351,
+      "text" : "Familial Hematuria), electron microscopy demonstrates which",
+      "x" : 0.7088477316100824,
+      "w" : 0.40123456079255115
+    },
+    {
+      "h" : 0.008733849790361292,
+      "conf" : 1,
+      "y" : 0.1453552972576022,
+      "text" : "characteristic ultrastructural lesion? |",
+      "x" : 0.6296296336076816,
+      "w" : 0.23868311276225918
+    },
+    {
+      "h" : 0.011731265915764677,
+      "conf" : 1,
+      "y" : 0.12941214506506893,
+      "text" : "[A] Complete obliteration of the urinary space by collagen fibers",
+      "x" : 0.6944444490997941,
+      "w" : 0.37242798235431396
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.11847222201797925,
+      "text" : "[B] Massive subepithelial humps of immune complexes",
+      "x" : 0.6697530904578188,
+      "w" : 0.32304526275058965
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.10680555563407718,
+      "text" : "[C] Diffuse and uniform thinning of the lamina densa of the GBM to 150-250",
+      "x" : 0.7325102936728394,
+      "w" : 0.4485596470862814
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "y" : 0.09444444436926247,
+      "text" : "nm without immune deposits",
+      "x" : 0.5946502079218106,
+      "w" : 0.17283950661713232
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.08357558144985472,
+      "text" : "[D] Subendothelial wire-loop deposits with capillary necrosis",
+      "x" : 0.6841563829989712,
+      "w" : 0.35185184118882673
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.0719476743459303,
+      "text" : "[E] Spike-and-dome epimembranous projections",
+      "x" : 0.6491769500342937,
+      "w" : 0.2818930044114215
+    },
+    {
+      "h" : 0.015988371107313326,
+      "conf" : 1,
+      "y" : 0.013808139704457434,
+      "text" : "Twisted Medicine • Renal Histology Master Class - Strictly Grounded in Faculty & Board Eg Past Papers",
+      "x" : 0.31790124406721504,
+      "w" : 0.5699588127855985
+    },
+    {
+      "h" : 0.00874676995807222,
+      "conf" : 1,
+      "y" : 0.017428940575208995,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567930384087,
+      "w" : 0.19135801447262557
+    }
+  ],
+  "page" : 27
+}

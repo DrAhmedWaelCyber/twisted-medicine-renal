@@ -1,0 +1,869 @@
+{
+  "id": 23,
+  "title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+  "department": "Pathology",
+  "department_desc": "Glomerulonephritis, nephrotic syndrome, ATN, CKD, pyelonephritis and urological tumors",
+  "booklet_pages": "Pages 89 - 92",
+  "pdf_pages": [
+    91,
+    92,
+    93,
+    94
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 24 — HIGH-YIELD RENAL & URINARY TRACT TUMORS MATRIX",
+  "summary_table": [
+    {
+      "domain": "Papillary RCC",
+      "content": "PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &"
+    },
+    {
+      "domain": "Distal Tubule (~10-15%)",
+      "content": "macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with"
+    },
+    {
+      "domain": "Chromophobe RCC &",
+      "content": "Oncocytoma: 100% benign, cured by Oncocytoma: sheets of uniform eosinophilic central stellate scar. Chromophobe: multiple cells packed with mitochondria. Chromophobe: resection. Chromophobe: indolent"
+    },
+    {
+      "domain": "Oncocytoma",
+      "content": "malignant course, excellent 5-year survival plant-like cell borders, perinuclear halos, Hale chromosome hypodiploidy, tan-brown."
+    },
+    {
+      "domain": "Collecting Duct Intercalated",
+      "content": "(>90%). colloidal iron (+). WT1 deletion/mutation on 11p13 (WAGR, Large painless abdominal mass. Excellent"
+    },
+    {
+      "domain": "Wilms Tumor",
+      "content": "Classic Triphasic pattern: prognosis (>90% cure) with multimodal 1. Blastemal (small round blue cells) Denys-Drash); WT2 on 11p15"
+    },
+    {
+      "domain": "(Nephroblastoma)",
+      "content": "2. Epithelial (primitive tubules/glomeruli) nephrectomy + chemo. Diffuse anaplasia (Beckwith-Wiedemann). Gross: huge, soft,"
+    },
+    {
+      "domain": "Metanephric Blastema (2-5",
+      "content": "3. Stromal (spindled fibromyxoid). Anaplasia = confers drug resistance. tan-gray, circumscribed mass."
+    },
+    {
+      "domain": "yrs)",
+      "content": "p53. Painless gross hematuria. Non-invasive Papillary or solid high-grade pleomorphic"
+    },
+    {
+      "domain": "Urothelial (TCC) Carcinoma",
+      "content": "Smoking #1, aniline dyes, cyclophosphamide, (Ta/T1): TURBT + intravesical BCG. transitional cells; detrusor muscle invasion"
+    },
+    {
+      "domain": "Urothelium of Bladder (>90%)",
+      "content": "phenacetin. Papillary (FGFR3) vs flat/CIS (p53). Field Cancerization -> multifocal recurrences. defines Stage T2. Carcinoma in situ (CIS): flat, Muscle-invasive (T2+): Radical cystectomy. full-thickness atypia. Schistosoma haematobium chronic ova Invasive well-differentiated squamous nests with Commonest bladder cancer in rural Egypt;"
+    },
+    {
+      "domain": "Squamous Cell Bladder CA",
+      "content": "presents with hematuria, dysuria, necroturia; prominent intercellular bridges and keratin irritation, chronic stones, catheters. Gross: large,"
+    },
+    {
+      "domain": "Metaplastic Urothelium",
+      "content": "aggressive local invasion; radical fungating, necrotic, ulcerative exophytic mass. pearls; calcified bilharzial ova in stroma."
+    },
+    {
+      "domain": "(Endemic)",
+      "content": "cystectomy required."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the single most common primary malignant epithelial neoplasm of the kidney in adults, accounting for ~85% to 90% of cases?",
+      "options": {
+        "A": "Wilms Tumor (Nephroblastoma)",
+        "B": "Renal Cell Carcinoma (RCC)",
+        "C": "Renal Angiomyolipoma",
+        "D": "Urothelial Carcinoma of the renal pelvis",
+        "E": "Renal Medullary Carcinoma"
+      },
+      "correct_option": "B",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Renal Angiomyolipoma is a benign mesenchymal hamartoma composed of blood vessels, smooth muscle, and fat. It is strongly associated with:",
+      "options": {
+        "A": "Tuberous Sclerosis complex (mutations in TSC1 on 9q or TSC2 on 16p) architecture, foamy macrophages, and psammoma bodies",
+        "B": "Neurofibromatosis Type 1 (NF1 gene deletion)",
+        "C": "Multiple Endocrine Neoplasia Type 1 (MEN1)",
+        "D": "Familial Adenomatous Polyposis (APC mutation)",
+        "E": "Von Hippel-Lindau disease (VHL deletion on 3p)"
+      },
+      "correct_option": "A",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which gross and microscopic feature is pathognomonic of Renal Oncocytoma, a benign epithelial neoplasm arising from collecting duct intercalated cells?",
+      "options": {
+        "A": "Golden-yellow lobulated mass with extensive calcification",
+        "B": "Mahogany-brown, well-circumscribed mass with a central stellate scar, packed with eosinophilic mitochondria-rich cells",
+        "C": "Multicystic mass filled with mucinous fluid and signet ring cells",
+        "D": "IlI-defined infiltrative white tumor with dense amyloid stroma",
+        "E": "Subcapsular hemorrhagic necrotic mass with psammoma bodies"
+      },
+      "correct_option": "B",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Renal Cortical Adenoma is histologically and Q11. [2025 Exam] Renal Medullary Carcinoma is an clinically distinguished from low-grade renal cell carcinoma primarily by which criterion?",
+      "options": {
+        "A": "Presence of abundant keratin pearls on light microscopy",
+        "B": "Invariable metastasis to mesenteric lymph nodes within 1 month",
+        "C": "Exclusively arising from the transitional epithelium of the pelvis",
+        "D": "Small size (typically < 15mm in diameter) and absence of invasive or [D] Polycystic kidney disease (ADPKD) metastatic potential",
+        "E": "Presence of dense calcified bilharzial ova within the tumor capsule"
+      },
+      "correct_option": "D",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the most prevalent histological subtype of Renal Cell Carcinoma, representing approximately 70% to 80% of all cases?",
+      "options": {
+        "A": "Papillary Renal Cell Carcinoma",
+        "B": "Chromophobe Renal Cell Carcinoma",
+        "C": "Collecting Duct (Bellini) Carcinoma",
+        "D": "Renal Medullary Carcinoma",
+        "E": "Clear Cell Renal Cell Carcinoma (ccRCC)"
+      },
+      "correct_option": "E",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the primary cytogenetic and molecular Q13. [Faculty Exam] The 'Classic Clinical Triad' of Renal Cell hallmark underlying both sporadic and hereditary Clear Cell",
+      "options": {
+        "A": "Translocation t(9;22) creating the BCR-ABL fusion oncoprotein",
+        "B": "Amplification of the N-MYC oncogene on chromosome 2p",
+        "C": "Loss, mutation, or hypermethylation of the VHL tumor suppressor gene [C] Pathognomonic of post-streptococcal glomerulonephritis",
+        "D": "Point mutation in the FGFR3 receptor on chromosome 4p",
+        "E": "Deletion of the WT1 gene on chromosome 11p13"
+      },
+      "correct_option": "C",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why does Clear Cell RCC characteristically exhibit a bright Golden-Yellow gross appearance on cut section?",
+      "options": {
+        "A": "High concentrations of intracellular bilirubin pigments",
+        "B": "Massive accumulation of hemosiderin from past hemorrhages",
+        "C": "Ectopic synthesis of carotenoid pigments by proximal tubule cells",
+        "D": "Extensive deposits of amyloid light chains throughout the stroma",
+        "E": "Abundant intracellular accumulation of neutral lipids, cholesterol, and [E] Thyroid gland follicles glycogen within tumor cells"
+      },
+      "correct_option": "E",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Histologically, Clear Cell RCC is characterized by nests and cords of polygonal cells with clear cytoplasm surrounded by:",
+      "options": {
+        "A": "Thick dense bands of hyaline collagen with zero vascularity",
+        "B": "Concentric rings of stratified squamous epithelium with keratin pearls",
+        "C": "A rich, delicate branching network of thin-walled sinusoidal blood capillaries",
+        "D": "Abortive glomeruli surrounded by blastemal small round blue cells",
+        "E": "Extensive sheets of osteoid and multinucleated osteoclasts"
+      },
+      "correct_option": "C",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Papillary Renal Cell Carcinoma (-10-15% of RCCs) is characterized cytogenetically and microscopically by:",
+      "options": {
+        "A": "Trisomy of chromosomes 7 and 17 (MET oncogene activation), papillary",
+        "B": "VHL gene deletion on 3p with lipid-rich sheets",
+        "C": "Translocation t(11;22) with small round blue cells",
+        "D": "Loss of chromosome 22 with rhabdoid inclusions",
+        "E": "Intercalated cell origin with plant-like cell borders"
+      },
+      "correct_option": "A",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Chromophobe Renal Cell Carcinoma (~5% of RCCs) arises from intercalated cells of collecting ducts and is characterized by:",
+      "options": {
+        "A": "Von Hippel-Lindau disease",
+        "B": "Tuberous Sclerosis complex",
+        "C": "Sickle Cell Trait (HbAS) or Sickle Cell Disease",
+        "D": "Large polygonal cells with prominent cell borders, perinuclear halos, positive Hale colloidal iron stain, and excellent prognosis",
+        "E": "Alport syndrome with COL4A5 mutations"
+      },
+      "correct_option": "D",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 11 covering high-yield concepts in Tumors of the Kidney & Urinary Tract - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the unique mode of local vascular invasion characteristic of Renal Cell Carcinoma that distinguishes it from most other carcinomas?",
+      "options": {
+        "A": "Present in over 90% of patients at initial diagnosis",
+        "B": "Diagnostic of benign angiomyolipoma",
+        "C": "Direct transmural invasion into the descending aorta lumen",
+        "D": "Seen in only -10% of patients, typically indicating advanced or",
+        "E": "Exclusively present in pediatric Wilms tumor"
+      },
+      "correct_option": "B",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 13 covering high-yield concepts in Tumors of the Kidney & Urinary Tract - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the single most common site of distant hematogenous metastasis from Renal Cell Carcinoma?",
+      "options": {
+        "A": "Spleen",
+        "B": "Urinary bladder trigone",
+        "C": "Lungs (producing classic 'cannonball' rounded nodules on chest radiography)",
+        "D": "Skeletal muscle of the upper limbs"
+      },
+      "correct_option": "E",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Tumors of the Kidney & Urinary Tract - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Hypercalcemia in patients with Renal Cell Carcinoma in the ABSENCE of skeletal metastases is primarily mediated by ectopic tumor secretion of:",
+      "options": {
+        "A": "Renin-angiotensin complex",
+        "B": "Active Calcitonin monomer",
+        "C": "Parathyroid Hormone-related Protein (PTHrP) [DJ Thyroid stimulating hormone (TSH)",
+        "E": "Glucagon-like peptide 1 (GLP-1)"
+      },
+      "correct_option": "C",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Stauffer Syndrome is a well-recognized paraneoplastic manifestation of Renal Cell Carcinoma characterized by:",
+      "options": {
+        "A": "Permanent complete destruction of the adrenal cortex",
+        "B": "Extensive calcification of all large peripheral arteries",
+        "C": "Sudden bilateral sensorineural deafness with cataracts",
+        "D": "Acute migratory polyarthritis with positive rheumatoid factor",
+        "E": "Reversible non-metastatic hepatic dysfunction with elevated alkaline phosphatase, prolonged PT, and hepatosplenomegaly"
+      },
+      "correct_option": "E",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In the TNM staging system for Renal Cell Carcinoma, Stage T3 is pathologically defined by tumor that:",
+      "options": {
+        "A": "Is strictly confined to the kidney and measures <= 7 cm",
+        "B": "Has already metastasized to distant organs like lungs or bone",
+        "C": "Invades directly beyond Gerota's fascia into the ipsilateral adrenal gland [B] Aortic coarctation",
+        "D": "Measures < 2 cm and is classified as a cortical adenoma",
+        "E": "Extends into major veins (renal vein/IVC) or invades perinephric fat within Gerota fascia, but not beyond Gerota fascia"
+      },
+      "correct_option": "E",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Von Hippel-Lindau (VHL) disease is an autosomal dominant syndrome predisposing to bilateral multifocal clear cell RCC, as well as:",
+      "options": {
+        "A": "Medullary thyroid carcinoma and mucosal neuromas",
+        "B": "Colonic polyposis, osteomas, and desmoid tumors",
+        "C": "Acoustic neuromas, meningiomas, and ependymomas",
+        "D": "Retinal and cerebellar hemangioblastomas, pheochromocytomas, and pancreatic neuroendocrine tumors/cysts",
+        "E": "Optic gliomas and Lisch nodules of the iris"
+      },
+      "correct_option": "D",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the most common primary malignant Q27. [Core Exam] Beckwith-Wiedemann Syndrome (linked to renal tumor of childhood, typically presenting in children aged 2 11p15 / WT2 / IGF2 overexpression) predisposes to Wilms tumor to 5 years?",
+      "options": {
+        "A": "Clear cell renal cell carcinoma",
+        "B": "Wilms Tumor (Nephroblastoma)",
+        "C": "Renal Oncocytoma",
+        "D": "Angiomyolipoma",
+        "E": "Rhabdoid tumor of the kidney"
+      },
+      "correct_option": "B",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the classic clinical presentation of Wilms Tumor in a preschool child?",
+      "options": {
+        "A": "Gross painless urethral discharge with testicular atrophy",
+        "B": "Severe oliguria, facial edema, and cola-colored urine",
+        "C": "Large, palpable, painless abdominal or flank mass, often noticed by parents during bathing",
+        "D": "Bilateral acute flank pain and high-spiking fevers",
+        "E": "Profound jaundice, ascites, and caput medusae"
+      },
+      "correct_option": "C",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Tumors of the Kidney & Urinary Tract - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "In Wilms Tumor, what histological feature correlates most strongly with unfavorable prognosis and resistance to standard chemotherapy?",
+      "options": {
+        "A": "Abundant blastemal small blue cells",
+        "B": "Presence of mature adipose tissue in stroma",
+        "C": "Well-formed tubular epithelial structures",
+        "D": "Diffuse Anaplasia (characterized by pleomorphic giant nuclei and abnormal multipolar mitotic figures, linked to p53 mutation)",
+        "E": "Extensive necrosis following preoperative biopsy"
+      },
+      "correct_option": "D",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which tumor suppressor gene located on chromosome 11p13 is mutated or deleted in hereditary and sporadic Wilms tumor?",
+      "options": {
+        "A": "VHL gene",
+        "B": "APC gene",
+        "C": "RET proto-oncogene",
+        "D": "MEN1 gene",
+        "E": "WT1 gene (encoding a zinc-finger transcription factor crucial for renal development)"
+      },
+      "correct_option": "E",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "WAGR Syndrome is a contiguous gene deletion syndrome on chromosome 11p13 characterized by Wilms tumor, Genitourinary anomalies, Retardation, and:",
+      "options": {
+        "A": "Anal atresia",
+        "C": "Acoustic neuroma",
+        "D": "Aniridia (complete absence of the iris, due to PAX deletion)",
+        "E": "Adrenal cortical adenoma"
+      },
+      "correct_option": "D",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Denys-Drash Syndrome is caused by dominant point mutations in the WT1 zinc-finger domain and is characterized by a high risk of Wilms tumor, plus:",
+      "options": {
+        "A": "Microcephaly and severe limb shortening",
+        "B": "Hemihypertrophy (asymmetric overgrowth), Macroglossia, Omphalocele, and adrenal cytomegaly",
+        "C": "Total absence of all abdominal organs",
+        "D": "Bilateral aniridia and microphthalmia",
+        "E": "Severe generalized hypoplasia of all viscera"
+      },
+      "correct_option": "C",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 27 covering high-yield concepts in Tumors of the Kidney & Urinary Tract - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the single most important clinical factor contributing to the remarkable >90% overall cure rate of Wilms Tumor today?",
+      "options": {
+        "A": "Spontaneous auto-infarction of the tumor",
+        "B": "Bone marrow transplantation in all stage I patients",
+        "C": "Exclusive treatment with high-dose corticosteroids",
+        "D": "Watchful waiting without surgical intervention",
+        "E": "Multimodal combination therapy utilizing radical nephrectomy combined with adjuvant chemotherapy (Vincristine, Dactinomycin)"
+      },
+      "correct_option": "E",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Tumors of the Kidney & Urinary Tract - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the single most common and classic presenting clinical symptom of Urothelial Carcinoma of the urinary bladder?",
+      "options": {
+        "A": "Severe burning dysuria with purulent discharge",
+        "B": "Bilateral pretibial pitting edema with heavy proteinuria",
+        "C": "Acute urinary retention with marked hypogastric pain",
+        "D": "Painless, intermittent, Gross Hematuria throughout the urinary stream",
+        "E": "Massive pneumaturia and fecaluria"
+      },
+      "correct_option": "D",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which of the following is the single most important established environmental risk factor for Urothelial Carcinoma of the bladder?",
+      "options": {
+        "A": "Cigarette Smoking (exposure to aromatic amines like beta-naphthylamine and polycyclic hydrocarbons)",
+        "B": "High dietary intake of refined sugars",
+        "C": "Chronic alcohol abuse",
+        "D": "Exposure to ionizing solar radiation",
+        "E": "Prolonged treatment with penicillin antibiotics"
+      },
+      "correct_option": "A",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Industrial occupational exposure to which class of chemicals in textile, rubber, and dye workers historically led to high rates of bladder urothelial cancer?",
+      "options": {
+        "A": "Aromatic Amines and Aniline Dyes (e.g., 2-naphthylamine, benzidine)",
+        "B": "Asbestos fibers",
+        "C": "Silica dust particles",
+        "D": "Vinyl chloride monomer",
+        "E": "Benzene solvents"
+      },
+      "correct_option": "A",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The concept of 'Field Defect' (Field Cancerization) in Urothelial Carcinoma explains why patients frequently present with:",
+      "options": {
+        "A": "Single isolated benign tumors that never recur",
+        "B": "Primary brain tumors arising from urothelial cells",
+        "C": "Invariable transformation into hepatic angiosarcoma [DJ Multifocal synchronous or metachronous recurrences throughout the entire urothelial tract (renal pelvis, ureter, bladder, urethra)",
+        "E": "Bilateral renal artery stenosis without bladder lesions"
+      },
+      "correct_option": "D",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In staging bladder urothelial carcinoma, invasion into which anatomical structure (Stage T2) is the critical threshold necessitating Radical Cystectomy?",
+      "options": {
+        "A": "Muscularis Propria (Detrusor Muscle)",
+        "B": "Lamina propria only (Stage T1)",
+        "C": "Submucosal connective tissue capillaries",
+        "D": "Basement membrane without lamina propria involvement",
+        "E": "Prostatic urethral mucosa only"
+      },
+      "correct_option": "A",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Carcinoma In Situ (CIS) of the urinary bladder Q42. [Clinical Vignette] A 52-year-old Egyptian male with past is pathologically characterized as:",
+      "options": {
+        "A": "A flat, non-invasive lesion containing cytologically malignant high-grade keratin pearls and calcified ova. Diagnosis: cells throughout the urothelial thickness, with high risk of invasion",
+        "B": "A benign exophytic papillary growth with normal cytology",
+        "C": "An endophytic glandular proliferation into the perivesical fat",
+        "D": "A keratinizing squamous pearl-forming ulcer",
+        "E": "A submucosal benign smooth muscle leiomyoma"
+      },
+      "correct_option": "A",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Tumors of the Kidney & Urinary Tract - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the sequence of mucosal changes induced by chronic bilharzial ova deposition that leads to Schistosomal Squamous Cell Carcinoma?",
+      "options": {
+        "A": "Atrophy -> fibrosis -> lipoma -> sarcoma",
+        "B": "Chronic inflammation -> Squamous Metaplasia -> Dysplasia -> Invasive Keratinizing Squamous Cell Carcinoma",
+        "C": "Acute necrosis -> complete regeneration without any cellular atypia",
+        "D": "Glandular metaplasia -> signet ring carcinoma -> choriocarcinoma",
+        "E": "Hyperplasia of umbrella cells -> benign papilloma only"
+      },
+      "correct_option": "B",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Grossly and microscopically, Schistosomal Squamous Cell Carcinoma of the bladder characteristically presents as:",
+      "options": {
+        "A": "Multiple small, smooth, transparent polyps with zero ulceration",
+        "B": "A large, bulky, fungating, ulcerative and necrotizing exophytic mass with keratin pearls and surrounding calcified bilharzial ova",
+        "C": "A delicate velvet-like red patch with intact muscularis propria",
+        "D": "A tiny subepithelial nodule strictly localized to the dome",
+        "E": "Diffuse cystic dilatations without cellular proliferation"
+      },
+      "correct_option": "B",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Primary Adenocarcinoma of the urinary bladder localized strictly to the Dome of the bladder arises from malignant transformation of:",
+      "options": {
+        "A": "Prostatic utricle remnants",
+        "B": "Urachal remnants (canal connecting fetal bladder to allantois)",
+        "C": "Mesonephric (Wolffian) duct remnants |",
+        "D": "Paramesonephric (Mullerian) duct remnants",
+        "E": "Primitive cloacal membrane epithelium"
+      },
+      "correct_option": "B",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What is the immunological mechanism of Intravesical BCG immunotherapy for superficial high-grade bladder cancer?",
+      "options": {
+        "A": "Stimulates local cell-mediated Th1 immunity and cytotoxic T cells to destroy tumor cells",
+        "B": "It acts as an alkylating chemotherapy agent directly cross-linking DNA",
+        "C": "It neutralizes circulating erythropoietin molecules",
+        "D": "It physically coats the urothelium with an impermeable rubber barrier",
+        "E": "It permanently blocks all sensory nerve endings in the detrusor"
+      },
+      "correct_option": "A",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A 65-year-old smoker has painless gross hematuria. Biopsy shows high-grade urothelial carcinoma invading detrusor muscle. What is the stage and treatment?",
+      "options": {
+        "A": "Clear Cell Renal Cell Carcinoma invading the bladder",
+        "B": "Transitional Cell Carcinoma (Urothelial Carcinoma)",
+        "C": "Benign Bilharzial Polyp without malignant potential",
+        "D": "Primary Urachal Adenocarcinoma of the dome",
+        "E": "Schistosomal Squamous Cell Carcinoma of the urinary bladder"
+      },
+      "correct_option": "A",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 42 covering high-yield concepts in Tumors of the Kidney & Urinary Tract - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Papillary RCC**: PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &\n\n**Distal Tubule (~10-15%)**: macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with",
+      "masterclass_id": 23,
+      "masterclass_title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology"
+    }
+  ]
+}

@@ -1,0 +1,909 @@
+{
+  "items" : [
+    {
+      "text" : "Twisted Medicine • Renal System Module • Lecture 31 MCQ Masterclass",
+      "conf" : 1,
+      "y" : 0.974583333282794,
+      "x" : 0.27067669880952355,
+      "w" : 0.42481201522903933,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Twisted Medicine Medical Series • Urine Chemistry, Bence-Jones, PKU, Alkaptonuria, MSUD, Cystinuria & Renal Calculi • Standard Practice Bank",
+      "conf" : 1,
+      "y" : 0.9643217052551112,
+      "x" : 0.4069548755325818,
+      "w" : 0.7011277769899129,
+      "h" : 0.01031007766723624
+    },
+    {
+      "text" : "Page 2 of 4",
+      "conf" : 1,
+      "y" : 0.9745833331858949,
+      "x" : 0.9088345853696742,
+      "w" : 0.06578947022010917,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "Q15. [2025 Exam] Classic Phenylketonuria (PKU) is caused by an",
+      "conf" : 1,
+      "y" : 0.9368055557942551,
+      "x" : 0.2697368473449247,
+      "w" : 0.41917291088639014,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "inborn deficiency of which hepatic enzyme?",
+      "conf" : 1,
+      "y" : 0.924441214873546,
+      "x" : 0.2001879744674184,
+      "w" : 0.2875939704461718,
+      "h" : 0.011673126220703045
+    },
+    {
+      "text" : "[A] Tyrosinase",
+      "conf" : 1,
+      "y" : 0.9076453487981555,
+      "x" : 0.09962406159147866,
+      "w" : 0.08646616054729625,
+      "h" : 0.01029069794548887
+    },
+    {
+      "text" : "[B] Phenylalanine Hydroxylase (PAH)",
+      "conf" : 1,
+      "y" : 0.8953036175139415,
+      "x" : 0.16071428925438586,
+      "w" : 0.21240600761451967,
+      "h" : 0.011718345748053638
+    },
+    {
+      "text" : "[C] Homogentisate 1,2-dioxygenase",
+      "conf" : 1,
+      "y" : 0.8829295864598297,
+      "x" : 0.15601503421052643,
+      "w" : 0.2030075150029767,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[D] Fumarylacetoacetate hydrolase",
+      "conf" : 1,
+      "y" : 0.8706395349563953,
+      "x" : 0.15413534083646613,
+      "w" : 0.19924810479477445,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[E] Branched-chain alpha-keto acid dehydrogenase",
+      "conf" : 1,
+      "y" : 0.8582848837936046,
+      "x" : 0.19830827355263153,
+      "w" : 0.2875939704461718,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "Q22. [2023 Exam] Maple Syrup Urine Disease (MSUD) is caused by",
+      "conf" : 1,
+      "y" : 0.9368055556791872,
+      "x" : 0.72086465447995,
+      "w" : 0.4304511195716886,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "a congenital defect in which multienzyme complex?",
+      "conf" : 1,
+      "y" : 0.9237467702090931,
+      "x" : 0.6757518839050751,
+      "w" : 0.336466149577642,
+      "h" : 0.010284237861633239
+    },
+    {
+      "text" : "[A] Pyruvate dehydrogenase complex",
+      "conf" : 1,
+      "y" : 0.9076453489177162,
+      "x" : 0.6118421017230578,
+      "w" : 0.21240600761451967,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "[B] Alpha-ketoglutarate dehydrogenase complex",
+      "conf" : 1,
+      "y" : 0.8960755814861918,
+      "x" : 0.6419172965930451,
+      "w" : 0.26879698522308604,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[C] Branched-Chain Alpha-Keto Acid Dehydrogenase (BCKDH) complex",
+      "conf" : 1,
+      "y" : 0.8829295866233471,
+      "x" : 0.7077067719219924,
+      "w" : 0.40037592566330416,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[D] Succinate dehydrogenase complex",
+      "conf" : 1,
+      "y" : 0.8706395349321705,
+      "x" : 0.6146616577694235,
+      "w" : 0.2180451119571688,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[E] Isocitrate dehydrogenase",
+      "conf" : 1,
+      "y" : 0.8582848836664244,
+      "x" : 0.5855263137453008,
+      "w" : 0.16353382848304943,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "Q16. [2024 Exam] What characteristic odor is classically",
+      "conf" : 1,
+      "y" : 0.8080878550787165,
+      "x" : 0.24060150971177924,
+      "w" : 0.36090223914337705,
+      "h" : 0.01173126538594571
+    },
+    {
+      "text" : "associated with the urine of untreated patients with classic",
+      "conf" : 1,
+      "y" : 0.794305555416054,
+      "x" : 0.24906015204417292,
+      "w" : 0.3815789404402184,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Phenylketonuria (PKU)?",
+      "conf" : 1,
+      "y" : 0.781250000121124,
+      "x" : 0.14003759671052624,
+      "w" : 0.16353382848304954,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[A] Sweet maple syrup or burnt caramel odor",
+      "conf" : 1,
+      "y" : 0.7659883721656977,
+      "x" : 0.1823308302161653,
+      "w" : 0.2518796941344469,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[B] Cabbage-like or rotten fish odor",
+      "conf" : 1,
+      "y" : 0.7536337210029069,
+      "x" : 0.1550751912593984,
+      "w" : 0.19736841066032754,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[C] Musty or 'mousy' odor (due to phenylacetate accumulation)",
+      "conf" : 1,
+      "y" : 0.7405523256722384,
+      "x" : 0.22932331264097733,
+      "w" : 0.3496240523973872,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[D] Sweaty feet odor",
+      "conf" : 1,
+      "y" : 0.7289244185138082,
+      "x" : 0.11372180303101509,
+      "w" : 0.11842104859012736,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[E] Fecal or ammonia odor",
+      "conf" : 1,
+      "y" : 0.716569767369186,
+      "x" : 0.13157894548872184,
+      "w" : 0.15037593663295853,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "Q17. [2023 Exam] In the chemical screening of PKU, adding 10%",
+      "conf" : 1,
+      "y" : 0.6802648582227919,
+      "x" : 0.26597744714912264,
+      "w" : 0.4154135226174964,
+      "h" : 0.011692505942450637
+    },
+    {
+      "text" : "Ferric Chloride (FeCI3) to urine produces which characteristic",
+      "conf" : 1,
+      "y" : 0.6664244186773256,
+      "x" : 0.25939850294486194,
+      "w" : 0.4022556417370597,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "color reaction?",
+      "conf" : 1,
+      "y" : 0.6533430234253876,
+      "x" : 0.10808270817669166,
+      "w" : 0.09962405239738722,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[A] Permanent intense purple-black color",
+      "conf" : 1,
+      "y" : 0.6373611108864007,
+      "x" : 0.171052628508772,
+      "w" : 0.22932329870315868,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[B] Immediate cherry-red ring",
+      "conf" : 1,
+      "y" : 0.6243055557579179,
+      "x" : 0.13909774642857134,
+      "w" : 0.16541353358715064,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Canary yellow precipitate",
+      "conf" : 1,
+      "y" : 0.6112467700637443,
+      "x" : 0.13721804309210534,
+      "w" : 0.16165413434860262,
+      "h" : 0.01028423786163346
+    },
+    {
+      "text" : "[D] Brilliant turquoise blue ring",
+      "conf" : 1,
+      "y" : 0.5995833331556137,
+      "x" : 0.14097744149436098,
+      "w" : 0.1691729328256987,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[E] Transient olive-green color (due to phenylpyruvate)",
+      "conf" : 1,
+      "y" : 0.5872222222736283,
+      "x" : 0.2086466134962406,
+      "w" : 0.3045112615348108,
+      "h" : 0.008888889153798485
+    },
+    {
+      "text" : "Q18. [2022 Exam] The Guthrie Test is a neonatal bacterial",
+      "conf" : 1,
+      "y" : 0.551537467809897,
+      "x" : 0.2443609084586464,
+      "w" : 0.3721804478286754,
+      "h" : 0.010297157499525311
+    },
+    {
+      "text" : "inhibition assay used for mass screening of PKU. What organism",
+      "conf" : 1,
+      "y" : 0.537083333282794,
+      "x" : 0.2687969995614033,
+      "w" : 0.4248120152290394,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "and inhibitor are utilized?",
+      "conf" : 1,
+      "y" : 0.524027777594211,
+      "x" : 0.1419172915601504,
+      "w" : 0.16729322772159752,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[A] Escherichia coli inhibited by penicillin G",
+      "conf" : 1,
+      "y" : 0.5079295866233471,
+      "x" : 0.17575188268327063,
+      "w" : 0.23872179131470167,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[B] Staphylococcus aureus inhibited by novobiocin",
+      "conf" : 1,
+      "y" : 0.49636627923934107,
+      "x" : 0.19548872218045116,
+      "w" : 0.28195488804283114,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[C] Proteus mirabilis inhibited by urea",
+      "conf" : 1,
+      "y" : 0.48401162810077514,
+      "x" : 0.1616541352756892,
+      "w" : 0.2105263134800728,
+      "h" : 0.011627906163533597
+    },
+    {
+      "text" : "[D] Streptococcus pneumoniae inhibited by optochin",
+      "conf" : 1,
+      "y" : 0.47093023260658917,
+      "x" : 0.20206767402882186,
+      "w" : 0.2913533806543741,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[E] Bacillus subtilis inhibited by beta-2-thienylalanine",
+      "conf" : 1,
+      "y" : 0.45857558146802324,
+      "x" : 0.2020676720864661,
+      "w" : 0.2913533806543741,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "Q23. [2021 Exam] Which trio of branched-chain amino acids and",
+      "conf" : 1,
+      "y" : 0.8088662791424419,
+      "x" : 0.715225570833333,
+      "w" : 0.4154135226174964,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "their respective keto-acids accumulate in body fluids and urine in",
+      "conf" : 1,
+      "y" : 0.7943055556340772,
+      "x" : 0.718984967692669,
+      "w" : 0.42293229915528396,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "MSUD?",
+      "conf" : 0.5,
+      "y" : 0.7819767442453853,
+      "x" : 0.532894737349392,
+      "w" : 0.05078619731406697,
+      "h" : 0.008840833240085222
+    },
+    {
+      "text" : "[A] Phenylalanine, Tyrosine, and Tryptophan",
+      "conf" : 1,
+      "y" : 0.7652616279796511,
+      "x" : 0.6306391002067668,
+      "w" : 0.24624058979179764,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] Methionine, Cysteine, and Homocysteine",
+      "conf" : 1,
+      "y" : 0.7536337209847384,
+      "x" : 0.6296992512218045,
+      "w" : 0.24812028392624463,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[C] Glycine, Alanine, and Serine",
+      "conf" : 1,
+      "y" : 0.7405523256722384,
+      "x" : 0.5968045135103384,
+      "w" : 0.17857142543724158,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[D] Leucine, Isoleucine, and Valine",
+      "conf" : 1,
+      "y" : 0.728924418659157,
+      "x" : 0.6033834610902256,
+      "w" : 0.19548871652588062,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[E] Lysine, Arginine, and Histidine",
+      "conf" : 1,
+      "y" : 0.7166279073307205,
+      "x" : 0.6005639111842105,
+      "w" : 0.1898496121832315,
+      "h" : 0.011744185553656639
+    },
+    {
+      "text" : "Q24. [2025 Exam] Which chemical screening test is positive in",
+      "conf" : 1,
+      "y" : 0.6802648580774431,
+      "x" : 0.7086466232456139,
+      "w" : 0.40225564173705974,
+      "h" : 0.011692505942450637
+    },
+    {
+      "text" : "MSUD, producing a heavy yellow-white precipitate with urinary",
+      "conf" : 1,
+      "y" : 0.6656976743822673,
+      "x" : 0.7105263107142858,
+      "w" : 0.4060150300059535,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "keto acids?",
+      "conf" : 1,
+      "y" : 0.6533430233829942,
+      "x" : 0.545112782706767,
+      "w" : 0.07894736755502729,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[A] Ehrlich's aldehyde test",
+      "conf" : 1,
+      "y" : 0.636666666545044,
+      "x" : 0.5798872181061205,
+      "w" : 0.1447368432599636,
+      "h" : 0.008888888623979407
+    },
+    {
+      "text" : "[B] Rothera's nitroprusside test",
+      "conf" : 1,
+      "y" : 0.6243055555338384,
+      "x" : 0.5921052638471177,
+      "w" : 0.17293232109459256,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[C] Hay's surface tension test",
+      "conf" : 1,
+      "y" : 0.6126388889229274,
+      "x" : 0.5883458621553885,
+      "w" : 0.1654135335871506,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[D] Brand's sodium cyanide test",
+      "conf" : 1,
+      "y" : 0.5995833331374452,
+      "x" : 0.5949248090538848,
+      "w" : 0.17857142543724158,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[E] 2,4-Dinitrophenylhydrazine (DNPH) test",
+      "conf" : 1,
+      "y" : 0.587916666717206,
+      "x" : 0.6259398456140353,
+      "w" : 0.24060148544914872,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "Q25. [Faculty Exam] Cystinuria is caused by an inherited transport",
+      "conf" : 1,
+      "y" : 0.5508430232629343,
+      "x" : 0.7227443652067669,
+      "w" : 0.4304511195716886,
+      "h" : 0.011686046918233162
+    },
+    {
+      "text" : "defect in the proximal convoluted tubule and small intestine",
+      "conf" : 1,
+      "y" : 0.537083333282794,
+      "x" : 0.7020676756578945,
+      "w" : 0.3890977169780059,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "affecting:",
+      "conf" : 1,
+      "y" : 0.523982558266715,
+      "x" : 0.5394736836466165,
+      "w" : 0.06390977060083514,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[A] Neutral amino acids exclusively (Tryptophan)",
+      "conf" : 1,
+      "y" : 0.5079295865870099,
+      "x" : 0.6419172965930451,
+      "w" : 0.26879698522308604,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[B] Acidic amino acids (Aspartate and Glutamate)",
+      "conf" : 1,
+      "y" : 0.49563953495639523,
+      "x" : 0.6437969959351502,
+      "w" : 0.27631578370018195,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[C] Aromatic amino acids (Phenylalanine and Tyrosine)",
+      "conf" : 1,
+      "y" : 0.48328488366642447,
+      "x" : 0.6588345826362783,
+      "w" : 0.30639097760856615,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[D] Basic amino acids & cystine (COLA: Cys, Orn, Lys, Arg)",
+      "conf" : 1,
+      "y" : 0.4701453488692665,
+      "x" : 0.671052626065163,
+      "w" : 0.3308270671743013,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "[E] Imino acids (Proline and Hydroxyproline)",
+      "conf" : 1,
+      "y" : 0.4585755813045058,
+      "x" : 0.6287593954182331,
+      "w" : 0.24624058979179775,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "Q19. [2021 Exam] Alkaptonuria is an autosomal recessive inborn",
+      "conf" : 1,
+      "y" : 0.42223837216569765,
+      "x" : 0.26879699943609,
+      "w" : 0.4172932386912518,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "error of tyrosine catabolism caused by deficiency of:",
+      "conf" : 1,
+      "y" : 0.4076453488147609,
+      "x" : 0.23026315989191723,
+      "w" : 0.343984948054738,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "[A] Phenylalanine hydroxylase",
+      "conf" : 1,
+      "y" : 0.39319444452944025,
+      "x" : 0.14285714573934827,
+      "w" : 0.1729323210945925,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[B] Tyrosine transaminase",
+      "conf" : 1,
+      "y" : 0.38013888903465576,
+      "x" : 0.13345864918546357,
+      "w" : 0.15413533587150657,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] p-Hydroxyphenylpyruvate dioxygenase",
+      "conf" : 0.5,
+      "y" : 0.36776485795631897,
+      "x" : 0.17481202711466173,
+      "w" : 0.23684209718025476,
+      "h" : 0.011692505942450637
+    },
+    {
+      "text" : "[D] Homogentisate 1,2-Dioxygenase (Homogentisic Acid Oxidase)",
+      "conf" : 1,
+      "y" : 0.3561111113193206,
+      "x" : 0.24060150836466151,
+      "w" : 0.3684210595597816,
+      "h" : 0.011666666666666714
+    },
+    {
+      "text" : "[E] Fumarylacetoacetate hydrolase",
+      "conf" : 1,
+      "y" : 0.3437500000545059,
+      "x" : 0.15413534078947363,
+      "w" : 0.19548871652588068,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "Q20. [2020 Exam] What is 'Ochronosis' in Alkaptonuria, and what",
+      "conf" : 1,
+      "y" : 0.2936111111981966,
+      "x" : 0.2687969854636594,
+      "w" : 0.42105262696014556,
+      "h" : 0.011666666666666714
+    },
+    {
+      "text" : "long-term debilitating clinical complication does it produce?",
+      "conf" : 1,
+      "y" : 0.2798546510338343,
+      "x" : 0.2528195423245616,
+      "w" : 0.3928571491255167,
+      "h" : 0.01029069741566968
+    },
+    {
+      "text" : "[A] Severe mental retardation with infantile microcephaly",
+      "conf" : 1,
+      "y" : 0.26375322995442424,
+      "x" : 0.214285719548872,
+      "w" : 0.31578947022010917,
+      "h" : 0.01028423786163335
+    },
+    {
+      "text" : "[B] Blue-black cartilage\/sclera pigment and severe Ochronotic Arthritis",
+      "conf" : 1,
+      "y" : 0.2514114984537505,
+      "x" : 0.25093985617167897,
+      "w" : 0.3928571491255167,
+      "h" : 0.011711886194017196
+    },
+    {
+      "text" : "[C] Congenital bilateral cataracts with hepatosplenomegaly",
+      "conf" : 1,
+      "y" : 0.23976421158568506,
+      "x" : 0.21898495829417308,
+      "w" : 0.32894735110054596,
+      "h" : 0.01175064563751227
+    },
+    {
+      "text" : "[D] Multiple radiolucent xanthine bladder stones",
+      "conf" : 1,
+      "y" : 0.2267474161853386,
+      "x" : 0.18890977891603994,
+      "w" : 0.26879698522308587,
+      "h" : 0.0087273899714152
+    },
+    {
+      "text" : "[E] Acute intermittent porphyric neuropathy",
+      "conf" : 1,
+      "y" : 0.21432170525511135,
+      "x" : 0.17481202606516308,
+      "w" : 0.24060148544914856,
+      "h" : 0.01031007766723635
+    },
+    {
+      "text" : "Q26. [2022 Exam] Under microscopic examination of concentrated",
+      "conf" : 1,
+      "y" : 0.42223837203851744,
+      "x" : 0.7218045059210528,
+      "w" : 0.4285714034979331,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "acidic urine, Cystine crystals display which pathognomonic",
+      "conf" : 1,
+      "y" : 0.40764534874970576,
+      "x" : 0.7011278234210525,
+      "w" : 0.3872180447828676,
+      "h" : 0.010290697945488758
+    },
+    {
+      "text" : "appearance?",
+      "conf" : 1,
+      "y" : 0.39462209312499996,
+      "x" : 0.5498120307330826,
+      "w" : 0.08458646641284928,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[A] Coffin-lid rectangular prisms",
+      "conf" : 1,
+      "y" : 0.3786337210029069,
+      "x" : 0.5949248137781953,
+      "w" : 0.17481202619869352,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] Dumbbell-shaped monohydrate stones",
+      "conf" : 1,
+      "y" : 0.3670704135401704,
+      "x" : 0.6250000039160399,
+      "w" : 0.23496240304580795,
+      "h" : 0.01030361758338072
+    },
+    {
+      "text" : "[C] Hexagonal flat plates (benzene ring-like crystals)",
+      "conf" : 1,
+      "y" : 0.3539244186773255,
+      "x" : 0.6522556419924812,
+      "w" : 0.28947368651992733,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[D] Rhomboid radiolucent barrels",
+      "conf" : 1,
+      "y" : 0.34305555560729445,
+      "x" : 0.5986842128524434,
+      "w" : 0.18609022391433772,
+      "h" : 0.008888889153798485
+    },
+    {
+      "text" : "[E] Needle-shaped bundles with negative birefringence",
+      "conf" : 1,
+      "y" : 0.3292151163699128,
+      "x" : 0.6578947406484961,
+      "w" : 0.3045112615348108,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "Q27. [Core Exam] What is the biochemical principle of Brand's",
+      "conf" : 1,
+      "y" : 0.29361111091062564,
+      "x" : 0.7095864619360903,
+      "w" : 0.40413531393219804,
+      "h" : 0.011666666666666714
+    },
+    {
+      "text" : "Sodium Cyanide-Nitroprusside Test for Cystinuria?",
+      "conf" : 1,
+      "y" : 0.27912790720803315,
+      "x" : 0.6738721771616543,
+      "w" : 0.3327067613087481,
+      "h" : 0.011744186083475716
+    },
+    {
+      "text" : "[A] Cyanide oxidizes cystine to insoluble sulfate ions",
+      "conf" : 1,
+      "y" : 0.26375322997259293,
+      "x" : 0.6541353420112781,
+      "w" : 0.293233074788821,
+      "h" : 0.01028423786163335
+    },
+    {
+      "text" : "[B] Cyanide reduces cystine disulfide bonds to free cysteine; nitroprusside",
+      "conf" : 1,
+      "y" : 0.2514114984537505,
+      "x" : 0.7105263226190475,
+      "w" : 0.4097744182748472,
+      "h" : 0.011711886194017196
+    },
+    {
+      "text" : "reacts with sulfhydryl groups forming a cherry-red color",
+      "conf" : 1,
+      "y" : 0.2390374678583465,
+      "x" : 0.6597744412280699,
+      "w" : 0.30827067174301315,
+      "h" : 0.010297157499525311
+    },
+    {
+      "text" : "[C] Nitroprusside directly precipitates calcium ions in urine",
+      "conf" : 1,
+      "y" : 0.22747093030523247,
+      "x" : 0.6682330880639096,
+      "w" : 0.32142855262344994,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[D] Cyanide hydrolyzes peptide bonds in albumin",
+      "conf" : 1,
+      "y" : 0.21432170540045997,
+      "x" : 0.6428571474310776,
+      "w" : 0.2744360895657352,
+      "h" : 0.01031007766723635
+    },
+    {
+      "text" : "[E] Nitroprusside binds specifically to branched-chain keto acids",
+      "conf" : 1,
+      "y" : 0.20276162781613366,
+      "x" : 0.682330822650376,
+      "w" : 0.353383440666281,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "Q21. [2024 Exam] Why does the urine of patients with Alkaptonuria",
+      "conf" : 1,
+      "y" : 0.16419573628499823,
+      "x" : 0.27537594523026304,
+      "w" : 0.4304511195716885,
+      "h" : 0.011724805831909157
+    },
+    {
+      "text" : "Q28. [Core Exam] Classic Homocystinuria is most commonly",
+      "conf" : 1,
+      "y" : 0.16419573616387423,
+      "x" : 0.697368414223058,
+      "w" : 0.4097744182748473,
+      "h" : 0.011724805831909157
+    },
+    {
+      "text" : "test STRONGLY POSITIVE on Benedict's test despite normal blood",
+      "conf" : 1,
+      "y" : 0.1511272607178386,
+      "x" : 0.2734962333646619,
+      "w" : 0.43421050784058235,
+      "h" : 0.011698966026306157
+    },
+    {
+      "text" : "caused by an inborn deficiency of which pyridoxal phosphate",
+      "conf" : 1,
+      "y" : 0.1511272607178386,
+      "x" : 0.7030075120300755,
+      "w" : 0.4060150300059535,
+      "h" : 0.011698966026306157
+    },
+    {
+      "text" : "glucose?",
+      "conf" : 1,
+      "y" : 0.1373277717501853,
+      "x" : 0.08928699960775793,
+      "w" : 0.06243020009000382,
+      "h" : 0.009384800593058351
+    },
+    {
+      "text" : "(B6)-dependent enzyme?",
+      "conf" : 1,
+      "y" : 0.13736111117397187,
+      "x" : 0.5883458619047621,
+      "w" : 0.1654135335871506,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[A] Alkaptonuria causes severe proximal renal glycosuria",
+      "conf" : 1,
+      "y" : 0.12136627901526165,
+      "x" : 0.214285710338346,
+      "w" : 0.31578947022010917,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[A] Methionine synthase",
+      "conf" : 1,
+      "y" : 0.12136627919089155,
+      "x" : 0.577067671491228,
+      "w" : 0.13909773891731447,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] Benedict reagent oxidizes melanin into galactose",
+      "conf" : 1,
+      "y" : 0.10828488384205431,
+      "x" : 0.20394737333959884,
+      "w" : 0.2951127689232679,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] Homocysteine methyltransferase",
+      "conf" : 1,
+      "y" : 0.10973837214752896,
+      "x" : 0.6071428596804511,
+      "w" : 0.20300751500297676,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[C] Homogentisic acid acts as a potent chemical reducing agent",
+      "conf" : 1,
+      "y" : 0.09665697683502911,
+      "x" : 0.23402256083176678,
+      "w" : 0.3552631567400364,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[C] Methylenetetrahydrofolate reductase (MTHFR)",
+      "conf" : 0.5,
+      "y" : 0.09665697668968026,
+      "x" : 0.6456766882283835,
+      "w" : 0.2800751719690757,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[D] Patient urine contains high levels of unabsorbed lactose",
+      "conf" : 1,
+      "y" : 0.08502906984011627,
+      "x" : 0.22274436644736825,
+      "w" : 0.3327067613087482,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[D] Cystathionine gamma-lyase",
+      "conf" : 1,
+      "y" : 0.08502906993701548,
+      "x" : 0.5949248098684211,
+      "w" : 0.1785714254372417,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[E] Patients produce excessive amounts of glucuronic acid",
+      "conf" : 1,
+      "y" : 0.07194767424903098,
+      "x" : 0.2180451156641603,
+      "w" : 0.327067656966099,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[E] Cystathionine Beta-Synthase (CBS)",
+      "conf" : 1,
+      "y" : 0.07194767436409871,
+      "x" : 0.6156015010103384,
+      "w" : 0.2199248060916157,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "Twisted Medicine • Clinical Biochemistry & Urine Chemistry Master Class • Faculty & Board Exa Tr garation",
+      "conf" : 1,
+      "y" : 0.013808139801356478,
+      "x" : 0.3148496284774435,
+      "w" : 0.5131578808804368,
+      "h" : 0.015988371107313326
+    },
+    {
+      "text" : "Confidential - Dedicated for Medical Student Revision",
+      "conf" : 1,
+      "y" : 0.017428940478309618,
+      "x" : 0.8214285754385962,
+      "w" : 0.2406014854491486,
+      "h" : 0.00874676995807222
+    }
+  ],
+  "page" : 120
+}

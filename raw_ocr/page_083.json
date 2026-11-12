@@ -1,0 +1,989 @@
+{
+  "items" : [
+    {
+      "w" : 0.14403291618299185,
+      "conf" : 1,
+      "text" : "Twisted Medicine",
+      "x" : 0.1049382740054869,
+      "h" : 0.011627906163533486,
+      "y" : 0.9781976744670542
+    },
+    {
+      "w" : 0.34362137992427033,
+      "conf" : 1,
+      "text" : "• Renal System Module • Lecture 22 MCQ Masterclass",
+      "x" : 0.3693415695130313,
+      "h" : 0.010277777777777719,
+      "y" : 0.975972222405789
+    },
+    {
+      "w" : 0.7345678941258844,
+      "conf" : 1,
+      "text" : "Twisted Medicine Medical Series • CKD, ESRD, Contracted Kidney, ACKD, Uremic Toxins & Multiorgan Pathology • Standard Practice Bank",
+      "x" : 0.400205770498971,
+      "h" : 0.00872092988755968,
+      "y" : 0.9651162791424419
+    },
+    {
+      "w" : 0.7037036823776534,
+      "conf" : 1,
+      "text" : "22. CHRONIC KIDNEY DISEASE & END-STAGE RENAL FAILURE - PATHOLOGY LECTURE",
+      "x" : 0.4999999935390948,
+      "h" : 0.014722222222222303,
+      "y" : 0.9476388887928255
+    },
+    {
+      "w" : 0.5720164460955925,
+      "conf" : 1,
+      "text" : "Twisted Medicine Pathology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "x" : 0.49999999284979435,
+      "h" : 0.01027777777777783,
+      "y" : 0.9309722224387866
+    },
+    {
+      "w" : 0.06995884877330849,
+      "conf" : 1,
+      "text" : "Page 1 of 4",
+      "x" : 0.9341563777263374,
+      "h" : 0.0087273899714152,
+      "y" : 0.976747416015765
+    },
+    {
+      "w" : 0.4156378500116696,
+      "conf" : 1,
+      "text" : "Q01. [2025 Exam] According to KDIGO guidelines, Chronic Kidney",
+      "x" : 0.24279836083676246,
+      "h" : 0.01031007766723624,
+      "y" : 0.9106782947448888
+    },
+    {
+      "w" : 0.39711931816436963,
+      "conf" : 1,
+      "text" : "Disease (CKD) is formally defined by which diagnostic criteria?",
+      "x" : 0.23353908803155032,
+      "h" : 0.010174418555365716,
+      "y" : 0.8975290696947675
+    },
+    {
+      "w" : 0.37860081030887627,
+      "conf" : 1,
+      "text" : "[A] Transient oliguria lasting less than 48 hours following surgery",
+      "x" : 0.22427983917695468,
+      "h" : 0.01030361758338083,
+      "y" : 0.8829295866051785
+    },
+    {
+      "w" : 0.42592592059441337,
+      "conf" : 1,
+      "text" : "[B] GFR < 60 mL\/min\/1.73m2 or markers of kidney damage present for at",
+      "x" : 0.24588476833847753,
+      "h" : 0.010174418555365605,
+      "y" : 0.8713662790152616
+    },
+    {
+      "w" : 0.09053497794289259,
+      "conf" : 1,
+      "text" : "least 3 months",
+      "x" : 0.0781892992798354,
+      "h" : 0.00872092988755968,
+      "y" : 0.8604651162063953
+    },
+    {
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "text" : "[C] Asymptomatic microscopic hematuria persisting for more than 7 days",
+      "x" : 0.2479423898148147,
+      "h" : 0.010174418555365716,
+      "y" : 0.8466569765746124
+    },
+    {
+      "w" : 0.33539094265152075,
+      "conf" : 1,
+      "text" : "[D] Complete bilateral anuria present for at least 24 hours",
+      "x" : 0.20061728814300403,
+      "h" : 0.0087273899714152,
+      "y" : 0.8357525839478979
+    },
+    {
+      "w" : 0.3477366225524518,
+      "conf" : 1,
+      "text" : "[E] Unilateral hydronephrosis with normal contralateral GFR",
+      "x" : 0.2067901292524003,
+      "h" : 0.010297157499525311,
+      "y" : 0.8234625323354519
+    },
+    {
+      "w" : 0.4320987725407822,
+      "conf" : 1,
+      "text" : "Q08. [2022 Exam] The microscopic hallmark of Benign Hypertensive",
+      "x" : 0.7304526694958848,
+      "h" : 0.01031007766723635,
+      "y" : 0.9106782946177086
+    },
+    {
+      "w" : 0.30864197353147105,
+      "conf" : 1,
+      "text" : "Nephrosclerosis involving intrarenal arterioles is:",
+      "x" : 0.6687242801097393,
+      "h" : 0.011627906163533486,
+      "y" : 0.896802325387597
+    },
+    {
+      "w" : 0.42592592059441325,
+      "conf" : 1,
+      "text" : "[A] Hyperplastic arteriolosclerosis with concentric 'onion-skin' lamellation",
+      "x" : 0.7273662494170098,
+      "h" : 0.01030361758338083,
+      "y" : 0.8829295863629304
+    },
+    {
+      "w" : 0.4465020617599007,
+      "conf" : 1,
+      "text" : "[B] Transmural necrotizing vasculitis with fibrinoid necrosis and PMN cuffing",
+      "x" : 0.7376543154063787,
+      "h" : 0.010174418555365605,
+      "y" : 0.8713662790152616
+    },
+    {
+      "w" : 0.44032920981353196,
+      "conf" : 1,
+      "text" : "[C] Hyaline Arteriolosclerosis (homogeneous pink proteinaceous thickening",
+      "x" : 0.7325102953360767,
+      "h" : 0.010174418555365605,
+      "y" : 0.8582848835513566
+    },
+    {
+      "w" : 0.2427983553904408,
+      "conf" : 1,
+      "text" : "of arteriolar walls with luminal narrowing)",
+      "x" : 0.6358024721707818,
+      "h" : 0.00872092988755968,
+      "y" : 0.8473837210029069
+    },
+    {
+      "w" : 0.4485596470862815,
+      "conf" : 1,
+      "text" : "[D] Aneurysmal dilatation of the interlobular arteries with thrombus formation",
+      "x" : 0.7386831234567903,
+      "h" : 0.010174418555365716,
+      "y" : 0.8350290696402616
+    },
+    {
+      "w" : 0.3806584196270636,
+      "conf" : 1,
+      "text" : "[E] Complete absence of vascular wall collagen and elastic fibers",
+      "x" : 0.702674901877572,
+      "h" : 0.010297157499525311,
+      "y" : 0.8234625323172833
+    },
+    {
+      "w" : 0.43827157650353776,
+      "conf" : 1,
+      "text" : "Q02. [2024 Exam] What is the single most common primary cause of",
+      "x" : 0.25411522259945146,
+      "h" : 0.011724805831909157,
+      "y" : 0.7891957364061222
+    },
+    {
+      "w" : 0.34979423187063924,
+      "conf" : 1,
+      "text" : "End-Stage Renal Disease (ESRD) in developed nations?",
+      "x" : 0.20987654670781888,
+      "h" : 0.01027777777777783,
+      "y" : 0.7754166668625548
+    },
+    {
+      "w" : 0.3251028720687771,
+      "conf" : 1,
+      "text" : "[A] Diabetic Nephropathy (Diabetic Glomerulosclerosis)",
+      "x" : 0.19547324807956118,
+      "h" : 0.01027777777777783,
+      "y" : 0.7623611108864008
+    },
+    {
+      "w" : 0.35390945050701406,
+      "conf" : 1,
+      "text" : "[B] Autosomal Dominant Polycystic Kidney Disease (ADPKD)",
+      "x" : 0.20987653731138564,
+      "h" : 0.010277777777777719,
+      "y" : 0.7493055556791872
+    },
+    {
+      "w" : 0.3312757000233393,
+      "conf" : 1,
+      "text" : "[C] Acute Post-Streptococcal Glomerulonephritis (PSGN)",
+      "x" : 0.19855966664094662,
+      "h" : 0.01027777777777783,
+      "y" : 0.737638888698848
+    },
+    {
+      "w" : 0.17078188530304145,
+      "conf" : 1,
+      "text" : "[D] Chronic Bilharzial Cystitis",
+      "x" : 0.11831275933641969,
+      "h" : 0.008888889153798485,
+      "y" : 0.7252777777118367
+    },
+    {
+      "w" : 0.2757201524650526,
+      "conf" : 1,
+      "text" : "[E] Minimal Change Disease (Lipoid Nephrosis)",
+      "x" : 0.17078188955761323,
+      "h" : 0.01027777777777783,
+      "y" : 0.7129166667353747
+    },
+    {
+      "w" : 0.41563785001166953,
+      "conf" : 1,
+      "text" : "Q09. [2023 Exam] What is the defining histopathological lesion of",
+      "x" : 0.7222222289437583,
+      "h" : 0.011724805831909157,
+      "y" : 0.7891957364061222
+    },
+    {
+      "w" : 0.3950617088461822,
+      "conf" : 1,
+      "text" : "Malignant Hypertensive Nephrosclerosis affecting interlobular",
+      "x" : 0.711934160329218,
+      "h" : 0.01027777777777783,
+      "y" : 0.7754166668625548
+    },
+    {
+      "w" : 0.05761316887237744,
+      "conf" : 1,
+      "text" : "arteries?",
+      "x" : 0.5432098772633744,
+      "h" : 0.00872092988755968,
+      "y" : 0.7630813954215117
+    },
+    {
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "text" : "[A] Hyperplastic Arteriolosclerosis (concentric 'onion-skin' smooth muscle",
+      "x" : 0.7294238736882716,
+      "h" : 0.0087403098742167,
+      "y" : 0.7485368217072529
+    },
+    {
+      "w" : 0.21193414364220964,
+      "conf" : 1,
+      "text" : "proliferation) and Fibrinoid Necrosis",
+      "x" : 0.620370367112483,
+      "h" : 0.011673126220703045,
+      "y" : 0.7369412144859492
+    },
+    {
+      "w" : 0.29218105100235847,
+      "conf" : 1,
+      "text" : "[B] Amyloid light-chain deposition in the adventitia",
+      "x" : 0.660493830812757,
+      "h" : 0.01027777777777783,
+      "y" : 0.7245833332646253
+    },
+    {
+      "w" : 0.26748969120049626,
+      "conf" : 1,
+      "text" : "[C] Dense interstitial infiltration of eosinophils",
+      "x" : 0.6481481526063099,
+      "h" : 0.008888888623979407,
+      "y" : 0.7122222221443777
+    },
+    {
+      "w" : 0.3662551304079452,
+      "conf" : 1,
+      "text" : "[D] Granulomatous giant-cell inflammation of the arcuate veins",
+      "x" : 0.6975308620713305,
+      "h" : 0.01027777777777783,
+      "y" : 0.6998611110770726
+    },
+    {
+      "w" : 0.3724279823543142,
+      "conf" : 1,
+      "text" : "[E] Isolated thinning and stretching of the internal elastic lamina",
+      "x" : 0.7006172901577502,
+      "h" : 0.01027777777777783,
+      "y" : 0.6881944443692624
+    },
+    {
+      "w" : 0.4176954353380503,
+      "conf" : 1,
+      "text" : "Q10. [2021 Exam] A 'Flea-Bitten Kidney' (multiple punctate cortical",
+      "x" : 0.7232510324759944,
+      "h" : 0.011718346277872715,
+      "y" : 0.6671963826540688
+    },
+    {
+      "w" : 0.4444444284499066,
+      "conf" : 1,
+      "text" : "petechial hemorrhages on gross inspection) is characteristically seen",
+      "x" : 0.7345678956790125,
+      "h" : 0.010174418555365605,
+      "y" : 0.6533430231649708
+    },
+    {
+      "w" : 0.19341563578671628,
+      "conf" : 1,
+      "text" : "in all of the following EXCEPT:",
+      "x" : 0.6111111086934158,
+      "h" : 0.010174418555365716,
+      "y" : 0.6402616278524709
+    },
+    {
+      "w" : 0.17695472525350697,
+      "conf" : 1,
+      "text" : "[A] Malignant Nephrosclerosis",
+      "x" : 0.6028806566666667,
+      "h" : 0.0087403098742167,
+      "y" : 0.6264631783072822
+    },
+    {
+      "w" : 0.3312757000233393,
+      "conf" : 1,
+      "text" : "[B] Acute Post-Streptococcal Glomerulonephritis (PSGN)",
+      "x" : 0.6779835349537039,
+      "h" : 0.010297157499525311,
+      "y" : 0.6140374676827167
+    },
+    {
+      "w" : 0.3209876534324022,
+      "conf" : 1,
+      "text" : "[C] Subacute Bacterial Endocarditis (embolic focal GN)",
+      "x" : 0.672839502160494,
+      "h" : 0.010174418555365716,
+      "y" : 0.6024709301780522
+    },
+    {
+      "w" : 0.24485596470862814,
+      "conf" : 1,
+      "text" : "[D] Benign Hypertensive Nephrosclerosis",
+      "x" : 0.6347736666323729,
+      "h" : 0.01031007766723635,
+      "y" : 0.5893217054489097
+    },
+    {
+      "w" : 0.36831273972613265,
+      "conf" : 1,
+      "text" : "[E] Hemolytic Uremic Syndrome \/ Thrombotic Microangiopathy",
+      "x" : 0.6965020622170781,
+      "h" : 0.010174418555365605,
+      "y" : 0.5777616279614826
+    },
+    {
+      "w" : 0.39300409952799475,
+      "conf" : 1,
+      "text" : "Q03. [2023 Exam] In the Brenner Hyperfiltration Hypothesis of",
+      "x" : 0.23148147656893012,
+      "h" : 0.011718345748053749,
+      "y" : 0.6671963825102833
+    },
+    {
+      "w" : 0.40123456079255115,
+      "conf" : 1,
+      "text" : "progressive renal disease, reduction of nephron mass leads to:",
+      "x" : 0.23353908796296322,
+      "h" : 0.010174418555365716,
+      "y" : 0.65334302313469
+    },
+    {
+      "w" : 0.3641975210897578,
+      "conf" : 1,
+      "text" : "[A] Immediate atrophy and collapse of all remaining glomeruli",
+      "x" : 0.2150205822016459,
+      "h" : 0.010174418555365605,
+      "y" : 0.6402616279796511
+    },
+    {
+      "w" : 0.4218107019580385,
+      "conf" : 1,
+      "text" : "[B] Compensatory hyperfiltration and hypertrophy of surviving nephrons,",
+      "x" : 0.24382716576646074,
+      "h" : 0.010174418555365716,
+      "y" : 0.6271802326126454
+    },
+    {
+      "w" : 0.22427982354314072,
+      "conf" : 1,
+      "text" : "driving secondary glomerulosclerosis",
+      "x" : 0.14506172465706457,
+      "h" : 0.010174418555365605,
+      "y" : 0.615552325508721
+    },
+    {
+      "w" : 0.4156378500116696,
+      "conf" : 1,
+      "text" : "[C] Complete suppression of renin synthesis and systemic hypotension",
+      "x" : 0.24074074561042502,
+      "h" : 0.011627906163533486,
+      "y" : 0.6031976742248062
+    },
+    {
+      "w" : 0.4341563578671629,
+      "conf" : 1,
+      "text" : "[D] Spontaneous de novo budding of new nephron units from metanephric",
+      "x" : 0.2500000072359394,
+      "h" : 0.010174418555365716,
+      "y" : 0.5908430233284883
+    },
+    {
+      "w" : 0.06596843551539774,
+      "conf" : 1,
+      "text" : "stem cells",
+      "x" : 0.06584362030326904,
+      "h" : 0.009204113748338516,
+      "y" : 0.5799418606250709
+    },
+    {
+      "w" : 0.3683127397261326,
+      "conf" : 1,
+      "text" : "[E] Selective apoptosis of peritubular capillary endothelial cells",
+      "x" : 0.21707819543895726,
+      "h" : 0.010277777777777719,
+      "y" : 0.5676388889862061
+    },
+    {
+      "w" : 0.3930040995279948,
+      "conf" : 1,
+      "text" : "Q04. [2022 Exam] Which cytokine is recognized as the master",
+      "x" : 0.23148148541152255,
+      "h" : 0.010174418555365716,
+      "y" : 0.5457848837936046
+    },
+    {
+      "w" : 0.38065841962706365,
+      "conf" : 1,
+      "text" : "molecular driver of progressive renal interstitial fibrosis and",
+      "x" : 0.22325102760631008,
+      "h" : 0.011679585774739487,
+      "y" : 0.531950904186645
+    },
+    {
+      "w" : 0.17695472525350706,
+      "conf" : 1,
+      "text" : "glomerulosclerosis in CKD?",
+      "x" : 0.12345678744855978,
+      "h" : 0.010277777777777719,
+      "y" : 0.5181944442871922
+    },
+    {
+      "w" : 0.24074072208044667,
+      "conf" : 1,
+      "text" : "[A] Tumor Necrosis Factor-alpha (TNF-a)",
+      "x" : 0.1532921770576133,
+      "h" : 0.010277777777777719,
+      "y" : 0.5051388888408572
+    },
+    {
+      "w" : 0.14609052550117924,
+      "conf" : 1,
+      "text" : "[B] Interleukin-10 (IL-10)",
+      "x" : 0.10596708001543206,
+      "h" : 0.008888888888888946,
+      "y" : 0.4927777777395598
+    },
+    {
+      "w" : 0.24897118334500296,
+      "conf" : 1,
+      "text" : "[C] Calcitonin gene-related peptide (CGRP)",
+      "x" : 0.15740740429526756,
+      "h" : 0.010277777777777719,
+      "y" : 0.48041666689555246
+    },
+    {
+      "w" : 0.2654320818823089,
+      "conf" : 1,
+      "text" : "[D] Transforming Growth Factor-beta (TGF-B)",
+      "x" : 0.16563785751028817,
+      "h" : 0.011679585774739598,
+      "y" : 0.46804909581335497
+    },
+    {
+      "w" : 0.16872427598485407,
+      "conf" : 1,
+      "text" : "[E] Interferon-gamma (IFN-y)",
+      "x" : 0.11728394850823051,
+      "h" : 0.010277777777777719,
+      "y" : 0.45569444440226
+    },
+    {
+      "w" : 0.42181070195803855,
+      "conf" : 1,
+      "text" : "Q05. [2021 Exam] Gross examination of the 'End-Stage Contracted",
+      "x" : 0.24588477019890273,
+      "h" : 0.011673126220703045,
+      "y" : 0.424441214873546
+    },
+    {
+      "w" : 0.40740741273892,
+      "conf" : 1,
+      "text" : "Kidney' of Chronic Glomerulonephritis characteristically reveals:",
+      "x" : 0.23868312247942397,
+      "h" : 0.01031007766723635,
+      "y" : 0.4106782946177086
+    },
+    {
+      "w" : 0.3744855916725015,
+      "conf" : 1,
+      "text" : "[A] Bilateral marked enlargement (>500 g) with blood-filled cysts",
+      "x" : 0.2222222175411524,
+      "h" : 0.010174418555365716,
+      "y" : 0.39607558134084303
+    },
+    {
+      "w" : 0.37242798235431407,
+      "conf" : 1,
+      "text" : "[B] Soft, swollen flea-bitten kidneys with petechial hemorrhages",
+      "x" : 0.21913579626200297,
+      "h" : 0.010174418555365605,
+      "y" : 0.3844476743459302
+    },
+    {
+      "w" : 0.3930040995279948,
+      "conf" : 1,
+      "text" : "[C] Unilateral renal mass with golden-yellow cortical tumor nodules",
+      "x" : 0.22942387322530855,
+      "h" : 0.010174418555365605,
+      "y" : 0.3713662791606104
+    },
+    {
+      "w" : 0.42592592059441325,
+      "conf" : 1,
+      "text" : "[D] Asymmetrical kidneys with deep U-shaped scars over blunted calyces",
+      "x" : 0.24588477898662542,
+      "h" : 0.010174418555365716,
+      "y" : 0.35973837214752896
+    },
+    {
+      "w" : 0.4135802167016755,
+      "conf" : 1,
+      "text" : "[E] Bilaterally shrunken, pale-gray kidneys with a diffuse, finely granular",
+      "x" : 0.2397119393261316,
+      "h" : 0.00872092988755968,
+      "y" : 0.34738372100290693
+    },
+    {
+      "w" : 0.04938271360577278,
+      "conf" : 1,
+      "text" : "surface",
+      "x" : 0.05761316824417011,
+      "h" : 0.00872092988755968,
+      "y" : 0.33575581380813957
+    },
+    {
+      "w" : 0.4218107019580385,
+      "conf" : 1,
+      "text" : "Q11. [2025 Exam] In the microscopic examination of an End-Stage",
+      "x" : 0.7253086490054867,
+      "h" : 0.010174418555365716,
+      "y" : 0.5457848837936046
+    },
+    {
+      "w" : 0.3991769514743637,
+      "conf" : 1,
+      "text" : "Renal Disease (ESRD) kidney, what is the fate of the glomeruli?",
+      "x" : 0.7139917745370368,
+      "h" : 0.01029069794548887,
+      "y" : 0.5326453487678744
+    },
+    {
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "text" : "[A] Hyperplasia of podocytes forming multilocular benign adenomas",
+      "x" : 0.7170781943672837,
+      "h" : 0.01027777777777783,
+      "y" : 0.5181944445476089
+    },
+    {
+      "w" : 0.38271602894525114,
+      "conf" : 1,
+      "text" : "[B] Transformation into thin-walled functional lymphatic sinuses",
+      "x" : 0.7057613104938274,
+      "h" : 0.010277777777777719,
+      "y" : 0.5065277779638522
+    },
+    {
+      "w" : 0.41358021670167533,
+      "conf" : 1,
+      "text" : "[C] Global Glomerulosclerosis (complete hyalinization and collagenous",
+      "x" : 0.7211934225308639,
+      "h" : 0.01027777777777783,
+      "y" : 0.4934722220361478
+    },
+    {
+      "w" : 0.3189300201224081,
+      "conf" : 1,
+      "text" : "replacement transforming tufts into acellular spheres)",
+      "x" : 0.6718106942729769,
+      "h" : 0.01027777777777783,
+      "y" : 0.4818055554705598
+    },
+    {
+      "w" : 0.44238684312352594,
+      "conf" : 1,
+      "text" : "[D. Complete enzymatic dissolution leaving empty, cystic Bowman's spaces",
+      "x" : 0.7355967133487653,
+      "h" : 0.010277777777777719,
+      "y" : 0.46875000009084306
+    },
+    {
+      "w" : 0.27572015246505255,
+      "conf" : 1,
+      "text" : "[E) Metaplasia into mature lamellar bone tissue",
+      "x" : 0.6522633772427984,
+      "h" : 0.008733849790361181,
+      "y" : 0.4578552972188426
+    },
+    {
+      "w" : 0.4197530686480444,
+      "conf" : 1,
+      "text" : "Q12. [2020 Exam] The histological 'Thyroidization of the Kidney' in",
+      "x" : 0.724279842386831,
+      "h" : 0.01028423786163335,
+      "y" : 0.4237467701909246
+    },
+    {
+      "w" : 0.2736625431468651,
+      "conf" : 1,
+      "text" : "chronic pyelonephritis and ESRD refers to:",
+      "x" : 0.6512345724622769,
+      "h" : 0.01031007766723635,
+      "y" : 0.41067829474488876
+    },
+    {
+      "w" : 0.3806584196270636,
+      "conf" : 1,
+      "text" : "[A] Ectopic functional thyroid follicular tissue in the renal capsule",
+      "x" : 0.7047325150462962,
+      "h" : 0.010174418555365605,
+      "y" : 0.39607558148619193
+    },
+    {
+      "w" : 0.45061728039627547,
+      "conf" : 1,
+      "text" : "[B] Dilated, atrophic tubules with eosinophilic colloid casts resembling thyroid",
+      "x" : 0.7397119386625512,
+      "h" : 0.010174418555365605,
+      "y" : 0.3844476744912789
+    },
+    {
+      "w" : 0.04938271360577273,
+      "conf" : 1,
+      "text" : "follicles",
+      "x" : 0.5390946510288066,
+      "h" : 0.010174418555365716,
+      "y" : 0.372819767514535
+    },
+    {
+      "w" : 0.3991769514743637,
+      "conf" : 1,
+      "text" : "[C] Massive hypersecretion of thyroxine (T4) by proximal tubule cells",
+      "x" : 0.7139917685185185,
+      "h" : 0.011737725469801119,
+      "y" : 0.3605200261260019
+    },
+    {
+      "w" : 0.3909464902098073,
+      "conf" : 1,
+      "text" : "[D] Metastatic follicular thyroid carcinoma invading the renal cortex",
+      "x" : 0.7098765471193413,
+      "h" : 0.01031007766723635,
+      "y" : 0.34817829474488876
+    },
+    {
+      "w" : 0.39300409952799487,
+      "conf" : 1,
+      "text" : "[E] Extensive calcification of thyroid cartilage in the perirenal space",
+      "x" : 0.7088477415380657,
+      "h" : 0.010277777777777719,
+      "y" : 0.33652777772139125
+    },
+    {
+      "w" : 0.39300409952799487,
+      "conf" : 1,
+      "text" : "Q06. [2020 Exam] How does the gross appearance of Chronic",
+      "x" : 0.23148148639403282,
+      "h" : 0.01175064563751227,
+      "y" : 0.3022642117310339
+    },
+    {
+      "w" : 0.34773662255245186,
+      "conf" : 1,
+      "text" : "Pyelonephritis differ from Chronic Glomerulonephritis?",
+      "x" : 0.20884773227880668,
+      "h" : 0.010277777777777719,
+      "y" : 0.28847222227860875
+    },
+    {
+      "w" : 0.3518518411888267,
+      "conf" : 1,
+      "text" : "[A] Chronic pyelonephritis never produces renal volume loss",
+      "x" : 0.20884773076131705,
+      "h" : 0.01027777777777783,
+      "y" : 0.27402777764266073
+    },
+    {
+      "w" : 0.36008230245338296,
+      "conf" : 1,
+      "text" : "[B] Chronic pyelonephritis produces smooth cortical surfaces",
+      "x" : 0.21296296896433453,
+      "h" : 0.01027777777777783,
+      "y" : 0.2623611113193206
+    },
+    {
+      "w" : 0.41769548332166373,
+      "conf" : 1,
+      "text" : "[C] Chronic pyelonephritis shows asymmetrical contraction with coarse",
+      "x" : 0.24176955254629617,
+      "h" : 0.01027777777777783,
+      "y" : 0.2506944443510938
+    },
+    {
+      "w" : 0.09465020257721907,
+      "conf" : 1,
+      "text" : "U-shaped scars",
+      "x" : 0.08230452832647456,
+      "h" : 0.008888889153798374,
+      "y" : 0.23833333327929573
+    },
+    {
+      "w" : 0.42592592059441325,
+      "conf" : 1,
+      "text" : "[D] Chronic glomerulonephritis features unilateral multi-organ abscesses",
+      "x" : 0.24588478076131665,
+      "h" : 0.01027777777777783,
+      "y" : 0.22597222240578907
+    },
+    {
+      "w" : 0.3950617088461822,
+      "conf" : 1,
+      "text" : "[E] Both conditions are grossly identical with diffuse fine granularity",
+      "x" : 0.23045267884773654,
+      "h" : 0.01031007766723635,
+      "y" : 0.21432170537139023
+    },
+    {
+      "w" : 0.43621399117715703,
+      "conf" : 1,
+      "text" : "Q07. [2024 Exam] In Benign Hypertensive Nephrosclerosis, the gross",
+      "x" : 0.2530864241152263,
+      "h" : 0.011692506472269715,
+      "y" : 0.18026485782222346
+    },
+    {
+      "w" : 0.42798350592079404,
+      "conf" : 1,
+      "text" : "appearance of the kidney surface is characteristically described as:",
+      "x" : 0.248971198765432,
+      "h" : 0.010174418555365716,
+      "y" : 0.16642441865915697
+    },
+    {
+      "w" : 0.3890498179309773,
+      "conf" : 1,
+      "text" : "[A] Flea-bitten kidney with multiple petechial cortical hemorrhages",
+      "x" : 0.2273531135256122,
+      "h" : 0.012556734085083066,
+      "y" : 0.15293802886869784
+    },
+    {
+      "w" : 0.40740741273891995,
+      "conf" : 1,
+      "text" : "[B] Markedly enlarged and heavy with yellow-orange amyloid deposits",
+      "x" : 0.23662550931069967,
+      "h" : 0.010174418555365716,
+      "y" : 0.14026162785247104
+    },
+    {
+      "w" : 0.36213991177157034,
+      "conf" : 1,
+      "text" : "[C] Smooth, shiny, pale kidney with an easily stripping capsule",
+      "x" : 0.21399177407407394,
+      "h" : 0.010174418555365605,
+      "y" : 0.12863372098473835
+    },
+    {
+      "w" : 0.4485596470862815,
+      "conf" : 1,
+      "text" : "[D] Large polycystic kidney with thousands of non-communicating fluid cysts",
+      "x" : 0.25720164725651573,
+      "h" : 0.011757105191548711,
+      "y" : 0.11634366947524794
+    },
+    {
+      "w" : 0.44650206175990076,
+      "conf" : 1,
+      "text" : "[E] Finely granular (grain leather) surface due to alternating foci of ischemic",
+      "x" : 0.25617284694787357,
+      "h" : 0.010174418555365605,
+      "y" : 0.1039244186773256
+    },
+    {
+      "w" : 0.19135801447262557,
+      "conf" : 1,
+      "text" : "tubular atrophy and hypertrophy",
+      "x" : 0.12860082543724274,
+      "h" : 0.010290697415669792,
+      "y" : 0.09235465111256491
+    },
+    {
+      "w" : 0.44238684312352594,
+      "conf" : 1,
+      "text" : "Q13. [Faculty Exam] Chronic interstitial changes universal to all forms",
+      "x" : 0.7355967033950619,
+      "h" : 0.011750646167331236,
+      "y" : 0.3022642118651296
+    },
+    {
+      "w" : 0.30658434022147696,
+      "conf" : 1,
+      "text" : "of progressive End-Stage Renal Disease include:",
+      "x" : 0.667695478360768,
+      "h" : 0.01027777777777783,
+      "y" : 0.28847222240578907
+    },
+    {
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "text" : "[A] Intense acute neutrophilic exudation with microabscess formation",
+      "x" : 0.7170781933539094,
+      "h" : 0.008888888623979296,
+      "y" : 0.2747222221540677
+    },
+    {
+      "w" : 0.36213991177157034,
+      "conf" : 1,
+      "text" : "[B] Dense sheets of signet-ring mucin-secreting epithelial cells",
+      "x" : 0.6954732546502058,
+      "h" : 0.01027777777777783,
+      "y" : 0.2623611113193207
+    },
+    {
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "text" : "[C] Total replacement of the interstitium by adipose tissue without fibrous",
+      "x" : 0.7294238736882716,
+      "h" : 0.01027777777777783,
+      "y" : 0.2506944443510938
+    },
+    {
+      "w" : 0.037283366581179034,
+      "conf" : 1,
+      "text" : "tissue",
+      "x" : 0.5329218111603351,
+      "h" : 0.009257740444607143,
+      "y" : 0.238372093102648
+    },
+    {
+      "w" : 0.4444444284499066,
+      "conf" : 1,
+      "text" : "[D] Mononuclear (lymphocytic and macrophage) inflammatory infiltrate with",
+      "x" : 0.7345678938271609,
+      "h" : 0.010277777777777719,
+      "y" : 0.22597222230888975
+    },
+    {
+      "w" : 0.2818930044114215,
+      "conf" : 1,
+      "text" : "extensive interstitial fibrosis and tubular atrophy",
+      "x" : 0.6553497977623457,
+      "h" : 0.01031007766723635,
+      "y" : 0.2143217053822914
+    },
+    {
+      "w" : 0.3744855916725015,
+      "conf" : 1,
+      "text" : "[E] Complete disappearance of all fibroblast-like interstitial cells",
+      "x" : 0.6995884836076816,
+      "h" : 0.010174418555365716,
+      "y" : 0.20276162797965108
+    },
+    {
+      "w" : 0.4176954833216636,
+      "conf" : 1,
+      "text" : "Q14. [Core Exam] What histological vascular change is universally",
+      "x" : 0.7232510329835391,
+      "h" : 0.01030361758338072,
+      "y" : 0.1795704135401704
+    },
+    {
+      "w" : 0.3888888808916199,
+      "conf" : 1,
+      "text" : "observed in the arcuate and interlobular arteries of end-stage",
+      "x" : 0.7088477414866254,
+      "h" : 0.010174418555365716,
+      "y" : 0.16642441865915697
+    },
+    {
+      "w" : 0.12962962696387337,
+      "conf" : 1,
+      "text" : "contracted kidneys?",
+      "x" : 0.5792181086162551,
+      "h" : 0.010174418555365716,
+      "y" : 0.15334302334665711
+    },
+    {
+      "w" : 0.3991769514743637,
+      "conf" : 1,
+      "text" : "[A] Fibromuscular dysplasia with medial 'string-of-beads' aneurysms",
+      "x" : 0.7119341497256518,
+      "h" : 0.010174418555365716,
+      "y" : 0.14026162783430235
+    },
+    {
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "text" : "[B] Amyloid light-chain rings limited exclusively to the adventitial layer",
+      "x" : 0.7170781943672837,
+      "h" : 0.010174418555365716,
+      "y" : 0.12718023264898254
+    },
+    {
+      "w" : 0.3971193181643695,
+      "conf" : 1,
+      "text" : "[C] Severe Arterial Intimal Fibroelastosis with luminal narrowing and",
+      "x" : 0.7109053564128942,
+      "h" : 0.010174418555365605,
+      "y" : 0.1155523256540697
+    },
+    {
+      "w" : 0.248971183345003,
+      "conf" : 1,
+      "text" : "reduplication of the internal elastic lamina",
+      "x" : 0.6368312798696844,
+      "h" : 0.010174418555365605,
+      "y" : 0.1039244186773256
+    },
+    {
+      "w" : 0.4444444284499066,
+      "conf" : 1,
+      "text" : "[D] Atheromatous plaques containing cholesterol clefts in 100% of arterioles",
+      "x" : 0.7345679010973938,
+      "h" : 0.010174418555365716,
+      "y" : 0.0908430230862402
+    },
+    {
+      "w" : 0.43827157650353776,
+      "conf" : 1,
+      "text" : "[E] Dilation and thinning of the arterial media into cavernous hemangiomas",
+      "x" : 0.7314814887860079,
+      "h" : 0.010174418555365716,
+      "y" : 0.07921511635174411
+    },
+    {
+      "w" : 0.5720164460955925,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal Pathology Master Class • Strictly Grounded in Faculty & Board Sxam Past Papers",
+      "x" : 0.3189300458161864,
+      "h" : 0.018908268610636436,
+      "y" : 0.015268088305754712
+    },
+    {
+      "w" : 0.19135801447262546,
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321,
+      "h" : 0.007344961166381836,
+      "y" : 0.01966085278616625
+    }
+  ],
+  "page" : 83
+}

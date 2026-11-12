@@ -1,0 +1,872 @@
+{
+  "id": 43,
+  "title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+  "department": "Clinical Nephrology & Urology",
+  "department_desc": "Clinical approach, AKI, dialysis, nephrotic/nephritic syndrome, renovascular hypertension, cystics and oncology",
+  "booklet_pages": "Pages 169 - 172",
+  "pdf_pages": [
+    171,
+    172,
+    173,
+    174
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 44 — HIGH-YIELD BPH & UROLOGICAL MALIGNANCIES MATRIX",
+  "summary_table": [
+    {
+      "domain": "Wilms Tumor",
+      "content": "Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-"
+    },
+    {
+      "domain": "(2-5y).",
+      "content": "Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing."
+    },
+    {
+      "domain": "11p15.",
+      "content": "smooth). Overall cure rate >90%. Microscopic hematuria, HTN (renin)."
+    },
+    {
+      "domain": "stroma.",
+      "content": "Gold standard: Rigid/Flexible"
+    },
+    {
+      "domain": "Urothelial (TCC, >90%): Smoking",
+      "content": "NMIBC (Ta/T1/CIS): TURBT + Pathognomonic hallmark: Painless"
+    },
+    {
+      "domain": "(#1, aromatic amines).",
+      "content": "Gross Total Hematuria with clots Intravesical BCG immunotherapy."
+    },
+    {
+      "domain": "(Urothelial & SCC)",
+      "content": "Cystoscopy + Biopsy + Urine"
+    },
+    {
+      "domain": "Squamous (SCC): Schistosoma",
+      "content": "MIBC (T2+ detrusor invasion): (>85%). cytology. CT Urography for upper tract Neoadjuvant Cisplatin chemo -> Irritative voiding symptoms if CIS."
+    },
+    {
+      "domain": "haematobium in Egypt.",
+      "content": "Radical Cystectomy + Ileal Conduit."
+    },
+    {
+      "domain": "Arises from urothelium.",
+      "content": "staging. Elevated PSA (>4 ng/mL)."
+    },
+    {
+      "domain": "Origin: Peripheral Zone (- 70-75%).",
+      "content": "Often asymptomatic early. Localized: Radical Prostatectomy or mpMRI -> Transrectal/Transperineal Radiation (+/-ADT)."
+    },
+    {
+      "domain": "Most common male non-skin cancer.",
+      "content": "DRE: Hard, indurated, craggy. Metastatic: ADT (Medical Castration) US Core Biopsy. asymmetrical nodule."
+    },
+    {
+      "domain": "Androgen-dependent",
+      "content": "Metastases: Axial skeleton Gleason Score / ISUP Grade Groups"
+    },
+    {
+      "domain": "adenocarcinoma.",
+      "content": "via GnRH agonists/antagonists (1 to 5). Osteoblastic bone lesions. (Leuprolide/Degarelix) + AR antagonists."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Anatomically and pathologically, Benign Prostatic Hyperplasia (BPH) arises predominantly in which specific anatomical zone of the prostate gland?",
+      "options": {
+        "A": "Transition Zone (surrounding the proximal prostatic urethra)",
+        "B": "Peripheral Zone (site of >70% of prostate adenocarcinomas)",
+        "C": "Anterior Fibromuscular Stroma (completely devoid of glandular tissue)",
+        "D": "Central Zone (surrounding the ejaculatory ducts)",
+        "E": "Seminal Vesicle ampulla"
+      },
+      "correct_option": "A",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In the molecular pathogenesis of BPH, which androgen metabolite is the primary mediator of stromal and epithelial hyperplasia?",
+      "options": {
+        "A": "Androstenedione produced directly by adrenal cortex",
+        "B": "Dihydrotestosterone (DHT), synthesized from testosterone via stromal 5-alpha reductase Type 2",
+        "C": "Dehydroepiandrosterone sulfate (DHEA-S)",
+        "D": "Circulating Estrone produced by peripheral aromatization",
+        "E": "Progesterone synthesized by testicular Leydig cells"
+      },
+      "correct_option": "D",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "In symptomatic BPH, which of the following Lower Urinary Tract Symptoms (LUTS) is categorized as an Obstructive (Voiding) symptom?",
+      "options": {
+        "A": "Urinary Frequency (voiding >8 times per day)",
+        "B": "Urinary Urgency (compelling sudden desire to void)",
+        "C": "Hesitancy, weak urinary stream, intermittency, and terminal dribbling",
+        "D": "Nocturia (waking >2 times at night to urinate)",
+        "E": "Urge Incontinence with involuntary detrusor contractions"
+      },
+      "correct_option": "C",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The International Prostate Symptom Score (IPSS) is widely utilized to grade LUTS severity. What IPSS score range defines Severe BPH symptoms?",
+      "options": {
+        "A": "Score 0 to 7 (Mild symptoms; managed with watchful waiting)",
+        "B": "Score 8 to 19 (Moderate symptoms; managed with medical therapy)",
+        "C": "Score 36 to 50 (Terminal stage)",
+        "D": "Score 20 to 35 (Severe symptoms; strongly indicates surgical intervention or combination medical therapy)",
+        "E": "Any score with microscopic hematuria"
+      },
+      "correct_option": "D",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "On Digital Rectal Examination (DRE), which physical finding characteristically distinguishes uncomplicated BPH from Prostate Adenocarcinoma?",
+      "options": {
+        "A": "Stony-hard, craggy, fixed nodule obliterating the lateral sulcus",
+        "B": "Fluctuant, pulsatile pelvic mass with overlying thrill",
+        "C": "Exquisitely tender, hot, boggy prostate with purulent urethral discharge",
+        "D": "Complete absence of any palpable prostatic tissue",
+        "E": "Symmetrically enlarged, smooth, firm-elastic prostate with a preserved median sulcus and mobile mucosa"
+      },
+      "correct_option": "B",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the primary mechanism of action and clinical onset of Uroselective Alpha-1A Blockers (e.g., Tamsulosin, Silodosin) in BPH?",
+      "options": {
+        "A": "Relaxes dynamic smooth muscle tone in the prostatic stroma, capsule, and bladder neck; provides rapid symptom relief within 24-48 hours",
+        "B": "Shrinks prostate volume by 50% over 12 months IC] Irreversibly blocks testosterone production in testicular Leydig cells",
+        "D": "Direct bactericidal eradication of coliforms in prostatic acini",
+        "E": "Paralyzes detrusor smooth muscle to prevent storage contractions"
+      },
+      "correct_option": "A",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which adverse effect is characteristically associated with Tamsulosin during cataract surgery due to iris dilator muscle blockade?",
+      "options": {
+        "A": "Acute closed-angle glaucoma with permanent blindness",
+        "B": "Intraoperative Floppy Iris Syndrome (IFIS), characterized by progressive intraoperative miosis and iris billowing",
+        "C": "Retinal detachment and vitreous hemorrhage",
+        "D": "Sudden sensorineural hearing loss",
+        "E": "Corneal ulceration with hypopyon"
+      },
+      "correct_option": "A",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "How do 5-Alpha Reductase Inhibitors (5-ARIs: Finasteride, Dutasteride) affect prostate volume and serum Prostate-Specific Antigen (PSA)?",
+      "options": {
+        "A": "Rapidly relax bladder neck within 1 hour with zero change in PSA",
+        "B": "Double serum PSA levels and stimulate epithelial mitosis",
+        "C": "Shrink prostate static volume by ~ 20-25% over 6-12 months and halve (reduce by 50%) serum PSA; measured PSA must be multiplied by 2 for cancer screening",
+        "D": "Completely abolish all renal tubular reabsorption of electrolytes",
+        "E": "Cause irreversible azoospermia and permanent penile fibrosis"
+      },
+      "correct_option": "C",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What was the landmark clinical conclusion of the CombAT trial regarding combination therapy (Tamsulosin + Dutasteride) in men with enlarged prostates (>30g)?",
+      "options": {
+        "A": "Combination therapy was inferior to placebo in all clinical metrics",
+        "B": "Alpha-blocker monotherapy completely halted clinical progression to acute retention",
+        "C": "5-ARI monotherapy was completely ineffective in all prostate sizes",
+        "D": "Dual therapy provided superior symptom relief and reduced risk of acute",
+        "E": "Combination therapy cured prostate adenocarcinoma in 95% of patients"
+      },
+      "correct_option": "D",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which of the following clinical presentations represents an ABSOLUTE indication for surgical intervention (e.g., TURP) in a patient with BPH?",
+      "options": {
+        "A": "Mild nocturia occurring once per night with IPSS score of 5",
+        "B": "Patient preference for lifelong oral medication",
+        "C": "Asymptomatic microscopic hematuria on routine urinalysis",
+        "D": "Normal peak urinary flow rate (>20 mL/s) with small post-void residual",
+        "E": "Refractory urinary retention failing trial without catheter, recurrent UTIs, recurrent gross hematuria, bladder calculi, or bilateral hydronephrosis with renal failure"
+      },
+      "correct_option": "E",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Transurethral Resection of the Prostate (TURP) remains the historical surgical gold standard for BPH. What prostate volume range is ideally suited for standard monopolar/bipolar TURP?",
+      "options": {
+        "A": "Glands between 30 and 80 grams (prostates >80-100g traditionally favored open simple prostatectomy or HoLEP)",
+        "B": "Prostates < 10 grams only",
+        "C": "Glands exceeding 250 grams with retroperitoneal extension",
+        "D": "Any prostate regardless of size, even >500 grams",
+        "E": "Prostates with active invasive metastatic adenocarcinoma"
+      },
+      "correct_option": "A",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the primary pathophysiology of TURP Syndrome' complicating monopolar transurethral prostatic resection?",
+      "options": {
+        "A": "Massive bacterial endotoxemia secondary to infected urine",
+        "B": "Absorption of hypotonic glycine irrigation via open venous sinuses -> hyponatremia & volume overload",
+        "C": "Acute anaphylactic shock to spinal anesthetic agents",
+        "D": "Direct laceration of the external iliac artery causing hypovolemic shock",
+        "E": "Severe acute hyperkalemia caused by bladder perforation"
+      },
+      "correct_option": "B",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What is the immediate, life-saving management protocol when a patient develops severe symptomatic TURP Syndrome (confusion, bradycardia, severe hyponatremia Na <115)?",
+      "options": {
+        "A": "Continue resection rapidly to clear remaining tissue",
+        "B": "Infuse 3 liters of 5% Dextrose in water rapidly",
+        "C": "Terminate surgery immediately, administer IV Furosemide to promote free water excretion, and cautiously infuse 3% Hypertonic Saline to correct severe hyponatremia",
+        "D": "Perform emergent bilateral radical nephrectomy",
+        "E": "Place the patient in prone position with cold water gastric lavage"
+      },
+      "correct_option": "C",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the most common late sexual side effect following successful TURP, occurring in approximately 70% to 80% of treated patients?",
+      "options": {
+        "A": "Complete loss of sexual libido and testicular atrophy",
+        "B": "High-flow non-ischemic priapism",
+        "C": "Severe refractory hypersexuality",
+        "D": "Retrograde Ejaculation due to disruption and incompetence of the internal bladder neck sphincter",
+        "E": "Total penile sensory numbness"
+      },
+      "correct_option": "E",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What specific tumor suppressor gene mutation and chromosomal aberration is pathognomonic of both sporadic and hereditary Clear Cell RCC?",
+      "options": {
+        "A": "Loss/mutation of VHL gene on chr 3p (3p25), stabilizing HIF-1a and overexpressing VEGF/PDGF",
+        "B": "WT1 tumor suppressor gene deletion on chromosome 11p13",
+        "C": "MET proto-oncogene activating mutation on chromosome 7q",
+        "D": "APC gene mutation on chromosome 5q21",
+        "E": "RET proto-oncogene translocation on chromosome 10g"
+      },
+      "correct_option": "C",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which histological and cytogenetic characteristic distinguishes Chromophobe RCC from Clear Cell",
+      "options": {
+        "A": "Abundant lipid and glycogen dissolved during processing, leaving completely empty clear cytoplasm",
+        "B": "Polygonal cells with Perinuclear Halos, Hale colloidal iron (+), multiple losses & great prognosis",
+        "C": "Frond-like fibrovascular cores lined by pseudostratified columnar cells with psammoma bodies",
+        "D": "Sheets of small round blue cells forming Homer Wright rosettes",
+        "E": "Extensive keratin pearls with intercellular bridges"
+      },
+      "correct_option": "B",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The classical 'Too-Late Triad' of Renal Cell Carcinoma includes which three clinical signs, and what is its prognostic significance?",
+      "options": {
+        "A": "Fever, maculopapular rash, and peripheral eosinophilia; indicates early curable disease",
+        "B": "Polyuria, polydipsia, and severe hypoglycemia; indicates early medullary disease",
+        "C": "Gross Hematuria, Flank Pain, and a Palpable Flank Mass; present in <10% of patients and indicates advanced, locally aggressive, or metastatic disease",
+        "D": "Pneumaturia, fecaluria, and recurrent cystitis; indicates colonic invasion",
+        "E": "Hypertension, hypokalemia, and metabolic alkalosis; indicates reninoma"
+      },
+      "correct_option": "C",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the most frequent clinical presentation of Renal Cell Carcinoma in modern urological clinical practice (>60% of newly diagnosed cases)?",
+      "options": {
+        "A": "Severe Polycythemia with elevated hematocrit (caused by ectopic Erythropoietin)",
+        "B": "Gynecomastia with hyperprolactinemia",
+        "C": "Secondary Hyperreninemic Hypertension (caused by renin secretion)",
+        "D": "Cushing syndrome with hypercortisolemia (caused by ectopic ACTH)",
+        "E": "Hypercalcemia with suppressed intact PTH levels"
+      },
+      "correct_option": "D",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 20 covering high-yield concepts in Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is 'Stauffer Syndrome' in patients with Renal Cell Carcinoma, and what is its clinical behavior following nephrectomy?",
+      "options": {
+        "A": "Reversible non-metastatic hepatic dysfunction (high ALP, long PT) mediated by IL-6; resolves post-nephrectomy",
+        "B": "Irreversible hepatic cirrhosis caused by direct metastatic parenchymal destruction",
+        "C": "Severe nephrotic syndrome caused by renal vein thrombosis",
+        "D": "Bilateral adrenal insufficiency due to metastatic destruction",
+        "E": "Acute cerebellar ataxia caused by anti-Purkinje antibodies"
+      },
+      "correct_option": "C",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the single best, gold-standard imaging modality for diagnosing, characterizing, and staging suspected Renal Cell Carcinoma?",
+      "options": {
+        "A": "Plain abdominal radiography (KUB)",
+        "B": "Non-contrast intravenous urography (IVU)",
+        "C": "Triphasic Contrast-Enhanced Abdominal CT (showing avid arterial enhancement, heterogeneous architecture, and wash-out on parenchymal phase)",
+        "D": "Radioisotope DMSA renal cortical scan",
+        "E": "Retrograde cystourethrogram"
+      },
+      "correct_option": "E",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Under modern urological guidelines, what is the surgical standard of care for a localized clinical Tla renal mass (<= 4 cm in diameter)?",
+      "options": {
+        "A": "Radical Nephrectomy removing the entire kidney, Gerota's fascia, and adrenal gland",
+        "B": "Immediate bilateral open radical nephrectomy with hemodialysis",
+        "C": "Lifelong systemic chemotherapy without surgical resection",
+        "D": "Partial Nephrectomy (Nephron-Sparing Surgery), preserving maximum normal renal parenchyma while achieving equivalent oncological control",
+        "E": "Watchful waiting without any imaging surveillance"
+      },
+      "correct_option": "A",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Why is conventional cytotoxic chemotherapy and radiotherapy ineffective in metastatic Clear Cell RCC, and what modern therapy has transformed prognosis?",
+      "options": {
+        "A": "RCC lacks DNA replication; treated exclusively with high-dose aspirin",
+        "B": "Radiotherapy cures 99% of bone and brain metastases in RCC",
+        "C": "Metastatic RCC cells are completely killed by penicillin infusions",
+        "D": "RCC responds solely to surgical excision of all distant organ metastases",
+        "E": "Chemoresistant via P-glycoprotein efflux; treated with VEGFR TKIS (Sunitinib) + Immune Checkpoint Inhibitors"
+      },
+      "correct_option": "B",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the most common malignant renal tumor of childhood (peak age 2 to 5 years), and what classic genetic locus is implicated in its pathogenesis?",
+      "options": {
+        "A": "Wilms Tumor (Nephroblastoma); WT1 and WT2 tumor suppressor genes on chromosome 11p13 and 11p15",
+        "B": "Renal Cell Carcinoma; VHL gene on chromosome 3p",
+        "C": "Neuroblastoma; N-myc amplification on chromosome 1p",
+        "D": "Angiomyolipoma; TSC1 and TSC2 tuberous sclerosis genes",
+        "E": "Clear cell sarcoma; BCOR gene rearrangement"
+      },
+      "correct_option": "E",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the characteristic clinical presentation and classic triphasic histological appearance of Wilms Tumor?",
+      "options": {
+        "A": "Painful gross hematuria in a teenager; histology shows clear cell sheets with chicken-wire vasculature",
+        "B": "Asymptomatic palpable flank mass in toddler; Triphasic (blastema, primitive tubules & stroma",
+        "C": "Severe bilious vomiting and jaundice in a newborn; histology shows pure squamous pearls",
+        "D": "Bilateral hydronephrosis with renal failure; histology shows pure amyloid fibrils",
+        "E": "Painless scrotal swelling; histology shows seminomatous germ cells"
+      },
+      "correct_option": "B",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the most prevalent histological type of urinary bladder cancer worldwide (>90% in industrialized nations) versus its historical epidemiology in rural Egypt?",
+      "options": {
+        "A": "Adenocarcinoma worldwide; Small cell neuroendocrine cancer in Egypt",
+        "B": "Leiomyosarcoma worldwide; Pure choriocarcinoma in Egypt",
+        "C": "Urothelial (TCC, >90%) worldwide; Squamous (SCC) in rural Egypt due to chronic Schistosoma haematobium",
+        "D": "Squamous cell carcinoma worldwide; Transitional cell carcinoma in Egypt",
+        "E": "Clear cell adenocarcinoma in all geographical regions"
+      },
+      "correct_option": "C",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the cardinal, pathognomonic presenting clinical symptom of urinary bladder cancer in over 85% of adult patients?",
+      "options": {
+        "A": "Severe spasmodic ureteral colic radiating to the groin",
+        "B": "Severe acute urinary retention with high fever and rigors",
+        "C": "Continuous bilateral pedal edema with hypoalbuminemia",
+        "D": "Profuse urethral purulent discharge with severe dysuria",
+        "E": "Painless, intermittent, Gross (Macroscopic) Hematuria throughout the entire stream (Total Hematuria)"
+      },
+      "correct_option": "B",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the indispensable, gold-standard diagnostic procedure for detecting, directly visualizing, and biopsying bladder tumors?",
+      "options": {
+        "A": "Rigid or Flexible Cystoscopy combined with Voided Urine Cytology and transurethral biopsy",
+        "B": "Plain abdominal X-ray (KUB)",
+        "C": "Radionuclide renal scintigraphy (MAG3)",
+        "D": "Serum alpha-fetoprotein (AFP) assay",
+        "E": "Percutaneous aspiration of the bladder dome"
+      },
+      "correct_option": "A",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the standard initial therapeutic approach for Non-Muscle Invasive Bladder Cancer (NMIBC: Ta, T1, CIS)?",
+      "options": {
+        "A": "Immediate Radical Cystectomy and bilateral pelvic lymphadenectomy",
+        "B": "Complete TURBT followed by risk-stratified intravesical BCG immunotherapy (or Mitomycin C)",
+        "C": "Systemic intravenous cisplatin chemotherapy alone",
+        "D": "External beam pelvic radiation therapy without surgery",
+        "E": "Lifelong oral ciprofloxacin antimicrobial therapy"
+      },
+      "correct_option": "B",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "When bladder cancer invades the muscularis propria (detrusor muscle layer, Stage T2 or higher), what is the definitive gold-standard curative treatment?",
+      "options": {
+        "A": "Repeated TURBT every 3 months with intravesical saline",
+        "B": "Pure dietary modification and oral cranberry juice extracts",
+        "C": "Neoadjuvant Cisplatin-based Chemotherapy followed by Radical Cystectomy (with pelvic lymphadenectomy and urinary diversion via lleal Conduit or Neobladder)",
+        "D": "Partial urethrectomy with conservative observation",
+        "E": "Bilateral nephrostomy tube placement without tumor excision"
+      },
+      "correct_option": "E",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In which anatomical zone of the prostate gland do the vast majority (~70-75%) of Prostate Adenocarcinomas originate, making them detectable by DRE?",
+      "options": {
+        "A": "Transition Zone (surrounding the urethra)",
+        "B": "Anterior Fibromuscular Stroma",
+        "C": "Central Zone (surrounding the ejaculatory ducts)",
+        "D": "Peripheral Zone (posterior and apical aspects of the prostate)",
+        "E": "Vermontanum exclusively"
+      },
+      "correct_option": "A",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Prostate-Specific Antigen (PSA) is an organ-specific, not cancer-specific, biomarker. Which of the rise in um malignant conditions can cause a significant",
+      "options": {
+        "A": "Pure dehydration with normal urinary stream",
+        "B": "Chronic gastrointestinal peptic ulcer disease",
+        "C": "Excessive intake of oral vitamin C tablets",
+        "D": "Bilateral renal cortical infarction",
+        "E": "Benign Prostatic Hyperplasia (BPH), Acute Prostatitis, Acute Urinary Retention, Prostate Biopsy, and vigorous DRE or ejaculation within 48 hours"
+      },
+      "correct_option": "B",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What classic physical examination finding on Digital Rectal Examination (DRE) is strongly suspicious for Prostate Carcinoma and mandates a prostate biopsy regardless of PSA?",
+      "options": {
+        "A": "Soft, elastic, symmetrically enlarged gland with smooth borders",
+        "B": "Firm-to-hard, indurated, craggy, asymmetrical nodule or fixed irregular area in the peripheral prostate",
+        "C": "Completely non-palpable prostate with exquisite urethral tenderness",
+        "D": "Uniformly boggy prostate with purulent discharge",
+        "E": "Fluctuant midline cyst above the pubic symphysis"
+      },
+      "correct_option": "B",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the definitive procedure required to confirm the diagnosis of prostate cancer in a patient with elevated PSA (>4.0 ng/mL) or an abnormal DRE?",
+      "options": {
+        "A": "Transurethral resection of the bladder neck",
+        "B": "Serum alkaline phosphatase and bone scan",
+        "C": "Multiparametric MRI (mpMRI) followed by Transrectal/Transperineal US-guided Core Needle Biopsy",
+        "D": "Excretory intravenous pyelogram",
+        "E": "Cytological examination of semen"
+      },
+      "correct_option": "C",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In advanced, metastatic, or high-risk prostate cancer, what is the foundational hormonal therapy (Medical Castration), and how does a GnRH Agonist (e.g., Leuprolide) function?",
+      "options": {
+        "A": "Directly destroys Leydig cells via targeted radioactivity",
+        "B": "Stimulates adrenal production of cortisol to compete with testosterone",
+        "C": "Irreversibly blocks 5-alpha reductase in the prostate gland only",
+        "D": "Continuous GnRH receptor stimulation -> receptor down-regulation, suppressing LH & testosterone to castrate levels",
+        "E": "Enhances renal clearance of circulating testosterone"
+      },
+      "correct_option": "D",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What is the most common site of distant hematogenous metastasis in advanced prostate cancer, and what is its characteristic radiological appearance?",
+      "options": {
+        "A": "Lungs; producing multiple cavitary thin-walled cysts",
+        "B": "Brain; producing ring-enhancing frontal lobe lesions",
+        "C": "Liver; producing multiple non-enhancing hypodense cysts",
+        "D": "Spleen; producing massive splenomegaly with hypersplenism",
+        "E": "Axial Skeleton (lumbar spine, pelvis, ribs); producing characteristic DENSE OSTEBLASTIC (OSTEOSCLEROTIC) bone lesions with elevated alkaline phosphatase"
+      },
+      "correct_option": "E",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "During TURP, a male develops confusion, BP 185/105, HR 44 bpm, visual halos, and Na+ drops to 112 mEq/L. Diagnosis and immediate management?",
+      "options": {
+        "A": "TURP Syndrome; stop surgery, IV Furosemide, and cautiously infuse 3% Hypertonic Saline",
+        "B": "Acute myocardial infarction; administer aspirin and emergency coronary catheterization",
+        "C": "Septic shock; administer 4 liters of 0.9% normal saline and vancomycin",
+        "D": "Pulmonary embolism; administer IV tissue plasminogen activator",
+        "E": "Malignant hyperthermia; administer intravenous dantrolene"
+      },
+      "correct_option": "A",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 64-year-old smoker presents with painless gross total hematuria with blood clots for 3 weeks. Renal ultrasound is normal. Most likely diagnosis and next gold-standard step?",
+      "options": {
+        "A": "Acute post-streptococcal glomerulonephritis; perform renal biopsy",
+        "B": "Bladder Urothelial Carcinoma; urgent Rigid/Flexible Cystoscopy with biopsy & urine cytology",
+        "C": "Acute interstitial nephritis; start high-dose oral prednisone",
+        "D": "Renal Cell Carcinoma; schedule emergency partial nephrectomy",
+        "E": "Simple urinary tract infection; prescribe oral nitrofurantoin for 5 days"
+      },
+      "correct_option": "B",
+      "explanation": "**Wilms Tumor**: Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-\n\n**(2-5y).**: Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing.",
+      "masterclass_id": 43,
+      "masterclass_title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    }
+  ]
+}

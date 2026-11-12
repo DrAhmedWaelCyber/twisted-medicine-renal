@@ -1,0 +1,901 @@
+{
+  "id": 40,
+  "title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+  "department": "Clinical Nephrology & Urology",
+  "department_desc": "Clinical approach, AKI, dialysis, nephrotic/nephritic syndrome, renovascular hypertension, cystics and oncology",
+  "booklet_pages": "Pages 157 - 160",
+  "pdf_pages": [
+    159,
+    160,
+    161,
+    162
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 41 - HIGH-YIELD CYSTIC & TUBULOINTERSTITIAL MATRIX",
+  "summary_table": [
+    {
+      "domain": "PKD1 (chr 16, 85%,",
+      "content": "hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry"
+    },
+    {
+      "domain": "(Adult Polycystic",
+      "content": "fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),"
+    },
+    {
+      "domain": "Kidney)",
+      "content": "bilaterally enlarged cystic kidneys."
+    },
+    {
+      "domain": "polycystin-1, ESRD ~ 53y).",
+      "content": "Tolvaptan (V2 antagonist; monitor LFTs)."
+    },
+    {
+      "domain": "ARPKD",
+      "content": "Potter Sequence at birth (pulmonary hypoplasia, Fusiform/cylindrical symmetrical dilation of"
+    },
+    {
+      "domain": "(Infantile Polycystic",
+      "content": "oligohydramnios, Potter facies). Obligate Congenital collecting ducts radiating cortex-to-medulla."
+    },
+    {
+      "domain": "Fibrocystin / Polyductin.",
+      "content": "Spongy kidneys with smooth capsule. Hepatic Fibrosis → portal hypertension, bleeding varices, splenomegaly"
+    },
+    {
+      "domain": "MSK: Sporadic developmental.",
+      "content": "MSK: Recurrent calcium oxalate/phosphate stones &"
+    },
+    {
+      "domain": "Medullary Sponge &",
+      "content": "MSK: Ectasia of medullary collecting ducts. 'Paintbrush' on IVU. nephrocalcinosis; normal GFR."
+    },
+    {
+      "domain": "NPHP/UMOD/MUC1.",
+      "content": "NPHP/ADTKD: Early polyuria/polydipsia, salt-wasting NPHP/ADTKD: Corticomedullary cysts, dense nephropathy, progressive juvenile ESRD. fibrosis, small shrunken kidneys."
+    },
+    {
+      "domain": "Drug-Induced AIN",
+      "content": "Interstitial edema, diffuse T-cell, monocyte, and AKI, sterile pyuria, WBC casts, mild proteinuria (<1g/d),"
+    },
+    {
+      "domain": "Beta-lactams, NSAIDs, PPIs",
+      "content": "eosinophiluria (Hansel). Classic triad (fever, rash, eosinophil infiltration with Tubulitis (BM arthralgia) in only 10-15%. NSAIDs: nephrotic proteinuria"
+    },
+    {
+      "domain": "Nephritis)",
+      "content": "invasion). Glomeruli strictly spared."
+    },
+    {
+      "domain": "(Omeprazole), Sulfa, Cipro.",
+      "content": "+ no rash. Rx: Stop drug, steroids if no recovery."
+    },
+    {
+      "domain": "Analgesic Nephropathy",
+      "content": "Tubular atrophy, dense interstitial fibrosis, and Insidious progressive CKD, sterile pyuria,"
+    },
+    {
+      "domain": "& CTIN",
+      "content": "Renal Papillary Necrosis (sloughed necrotic polyuria/nocturia. High risk of Urothelial (Transitional Cell)"
+    },
+    {
+      "domain": "combination analgesics",
+      "content": "Carcinoma of pelvis/ureter. Rx: Complete analgesic"
+    },
+    {
+      "domain": "(phenacetin +",
+      "content": "papilla; 'Ring shadow sign). cessation."
+    },
+    {
+      "domain": "Balkan, Lead & lgG4",
+      "content": "Balkan: Hypocellular dense fibrosis + upper tract Lead: Saturnine Gout (hyperuricemia), HTN, tubulointerstitial disease"
+    },
+    {
+      "domain": "Nephropathy",
+      "content": "cancer. lgG4-TIN: High serum lgG4, systemic organ involvement Lead: Intranuclear inclusion bodies."
+    },
+    {
+      "domain": "IgG4: Autoimmune systemic.",
+      "content": "(pancreatitis), rapid corticosteroid response. IgG4: Storiform fibrosis + IgG4+ plasma cells."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What primary genetic difference distinguishes PKD1 from PKD2 mutations in ADPKD?",
+      "options": {
+        "A": "PKD1 (chr 16, polycystin-1, 85%) causes earlier ESRD (~53y); PKD2 (chr 4, polycystin-2, 15%) has later ESRD (~70y)",
+        "B": "PKD1 is on chr 4 encoding polycystin-2; PKD2 is on chr 16",
+        "C": "PKD1 cysts are restricted strictly to liver; PKD2 affects kidneys only",
+        "D": "PKD1 is X-linked dominant; PKD2 is autosomal recessive",
+        "E": "Both mutations have identical clinical onset and cause ESRD by age 20"
+      },
+      "correct_option": "A",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "At the cellular level, what secondary messenger abnormality drives tubular cyst growth in ADPKD?",
+      "options": {
+        "A": "Excessive cGMP accumulation with downregulation of adenylyl cyclase",
+        "B": "Primary cilia defect causes low intracellular Ca2+, leading to elevated CAMP that drives CFTR fluid secretion and proliferation",
+        "C": "Complete absence of G-protein coupled vasopressin V2 receptors",
+        "D": "Direct enzymatic inactivation of tubular CFTR chloride channels",
+        "E": "Massive intracellular potassium overload triggering spontaneous apoptosis"
+      },
+      "correct_option": "B",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which of the following represents the single most common EXTRARENAL manifestation of Autosomal Dominant Polycystic Kidney Disease (ADPKD)?",
+      "options": {
+        "A": "Bilateral sensorineural deafness and anterior lenticonus",
+        "B": "Congenital pulmonary hypoplasia with severe respiratory distress",
+        "C": "Polycystic Liver Disease (hepatic cysts present in >70-80% of adult patients)",
+        "D": "Pancreatic islet cell adenomas causing refractory hypoglycemia",
+        "E": "Severe destructive bronchiectasis in both lower lung lobes"
+      },
+      "correct_option": "B",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the most lethal extrarenal vascular complication of ADPKD, and what diagnostic modality is recommended for high-risk screening?",
+      "options": {
+        "A": "Renal vein thrombosis; screened with lower extremity venous duplex",
+        "B": "Aortic coarctation; screened with 12-lead electrocardiography",
+        "C": "Coronary artery dissection; screened with coronary catheter angiography",
+        "D": "Intracranial 'Berry' Aneurysms of Circle of Willis (rupture causes subarachnoid hemorrhage); screened with Magnetic Resonance Angiography (MRA)",
+        "E": "Popliteal artery pseudoaneurysm; screened with plain knee radiographs"
+      },
+      "correct_option": "D",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which specific patient subset with ADPKD warrants presymptomatic screening for Berry Aneurysms by MRA?",
+      "options": {
+        "A": "All asymptomatic infants diagnosed at birth",
+        "B": "Patients with isolated microscopic hematuria and normal BP",
+        "C": "Only patients who have already reached ESRD on dialysis",
+        "D": "Patients over age 80 with completely normal renal function",
+        "E": "Family history of intracranial aneurysm/SAH, previous rupture, high-risk profession (pilots), or new severe headache"
+      },
+      "correct_option": "D",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Which cardiac valvular abnormality is most frequently observed in patients with Autosomal Dominant Polycystic Kidney Disease (~25%)?",
+      "options": {
+        "A": "Mitral Valve Prolapse (MVP; floppy valve due to connective tissue / matrix defect) and aortic root dilation",
+        "B": "Severe calcific aortic stenosis with syncope",
+        "C": "Rheumatic tricuspid stenosis with massive ascites",
+        "D": "Complete transposition of the great arteries",
+        "E": "Infundibular pulmonary stenosis"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "According to the Ravine / Pei ultrasonographic diagnostic criteria for ADPKD (in individuals with a positive family history), what confirms diagnosis at age 15-39?",
+      "options": {
+        "A": "At least 3 unilateral cysts regardless of size",
+        "B": "At least 3 or more kidney cysts (unilateral or bilateral) on renal ultrasound",
+        "C": "At least 10 cysts in each kidney accompanied by liver cirrhosis",
+        "D": "Presence of a single macroscopic simple cortical cyst",
+        "E": "Presence of at least 4 cysts in each kidney (bilaterally) exclusively"
+      },
+      "correct_option": "A",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the pharmacological mechanism of action of Tolvaptan, the first disease-modifying drug approved for rapidly progressive ADPKD?",
+      "options": {
+        "A": "Irreversible inhibitor of primary cilia motility",
+        "B": "Direct recombinant polycystin-1 enzymatic replacement therapy",
+        "C": "Selective Vasopressin V2 Receptor Antagonist; blocks V2R in collecting ducts, lowering intracellular cAMP and inhibiting cyst growth and eGFR decline",
+        "D": "Potent stimulant of renal tubular fluid reabsorption",
+        "E": "Inhibitor of hepatic gluconeogenesis and glycogen breakdown"
+      },
+      "correct_option": "B",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What critical organ toxicity requires mandatory monthly Liver Function Test (LFT) monitoring during the first 18 months of Tolvaptan therapy?",
+      "options": {
+        "A": "Acute necrotizing pancreatitis with hyperamylasemia",
+        "B": "Sudden onset sensorineural ototoxicity",
+        "C": "Severe bone marrow aplasia and agranulocytosis",
+        "D": "Drug-induced Idiosyncratic Hepatotoxicity (potential for fatal acute liver injury)",
+        "E": "Rapid calcification of cardiac conduction pathways"
+      },
+      "correct_option": "D",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why do patients with ADPKD develop early, severe Hypertension often before GFR decline?",
+      "options": {
+        "A": "Excessive dietary salt craving triggered by thirst center mutation",
+        "B": "Complete absence of peripheral vascular sympathetic tone",
+        "C": "Expanding cysts compress intrarenal vessels, causing localized ischemia that activates the intrarenal Renin-Angiotensin System",
+        "D": "Primary hyperaldosteronism caused by bilateral adrenal adenomas",
+        "E": "Direct overproduction of endothelin by asymptomatic hepatic cysts"
+      },
+      "correct_option": "D",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which class of antihypertensive medications is universally recommended as FIRST-LINE therapy to control blood pressure in patients with ADPKD?",
+      "options": {
+        "A": "Renin-Angiotensin System (RAS) Inhibitors (ACE inhibitors or ARBs; e.g., target BP <110/75 in young HALT-PKD cohort)",
+        "B": "Direct-acting arteriolar vasodilators (Hydralazine or Minoxidil)",
+        "C": "Loop diuretics in escalating twice-daily doses",
+        "D": "Centrally acting alpha-2 agonists (Clonidine)",
+        "E": "Non-selective beta-blockers without vasodilating properties"
+      },
+      "correct_option": "A",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "When an ADPKD patient presents with sudden severe localized flank pain, high fever, and shaking rigors with negative routine urine culture, what is the suspected diagnosis?",
+      "options": {
+        "A": "Renal Cell Carcinoma with bone metastasis",
+        "B": "Infected Renal Cyst (Cyst Infection; requires PET/CT or MRI and lipid-soluble antibiotics like Ciprofloxacin)",
+        "C": "Acute primary Addisonian adrenal crisis",
+        "D": "Acute uncomplicated cystitis; treat with oral nitrofurantoin",
+        "E": "Spontaneous bilateral adrenal hemorrhage"
+      },
+      "correct_option": "A",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Why are Fluoroquinolones (e.g., Ciprofloxacin) or TMP-SMZ specifically selected as drugs of choice for treating an infected renal cyst in ADPKD?",
+      "options": {
+        "A": "They act exclusively within the proximal tubular brush border",
+        "B": "They alkalinize intracystic fluid to pH > 9.0 to dissolve cyst walls",
+        "C": "They are lipophilic antimicrobials that effectively penetrate the fibrous, avascular walls and intracystic fluid of renal cysts",
+        "D": "They stimulate rapid renal clearance of urea nitrogen",
+        "E": "They have zero biliary or hepatic clearance"
+      },
+      "correct_option": "B",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the Mayo Imaging Classification (Class 1A to 1E) based upon to predict future risk of rapid progression to ESRD in ADPKD?",
+      "options": {
+        "A": "Number of hepatic cysts on liver ultrasound",
+        "B": "Presence of mitral valve regurgitation on echocardiogram",
+        "C": "Total serum uric acid concentration divided by urinary calcium",
+        "D": "Height-Adjusted Total Kidney Volume (HtTKV) measured by MRI or CT relative to patient age",
+        "E": "Depth of skin pigment discoloration"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Severe in utero ARPKD characteristically presents at birth with which devastating clinical sequence caused by profound Oligohydramnios?",
+      "options": {
+        "A": "Potter Sequence (pulmonary hypoplasia, compressed 'Potter' facies, low-set ears, clubbed feet, and bilateral flank masses)",
+        "B": "Alport ocular lenticonus and sensorineural deafness|",
+        "C": "Macrocytic megaloblastic anemia and hypersegmented neutrophils",
+        "D": "Immediate severe diabetic ketoacidosis and hyperglycemia",
+        "E": "Hydrocephalus with Arnold-Chiari malformation Type I|"
+      },
+      "correct_option": "A",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "In children with ARPKD who survive the neonatal period, which obligate hepatic pathology inevitably develops and dominates long-term clinical care?",
+      "options": {
+        "A": "Hepatocellular carcinoma developing by age 5",
+        "B": "Congenital Hepatic Fibrosis (portal hypertension, splenomegaly, hypersplenism, and bleeding esophageal varices; normal liver synthetic function)",
+        "C": "Acute fulminant hepatic necrosis secondary to hepatitis A",
+        "D": "Massive hepatic steatosis (non-alcoholic fatty liver disease)",
+        "E": "Complete congenital absence of the portal venous system"
+      },
+      "correct_option": "B",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Medullary Sponge Kidney (MSK) is a congenital disorder characterized by which clinical and radiographic hallmark?",
+      "options": {
+        "A": "Rapid development of anuric ESRD by age 25 with normal imaging",
+        "B": "Ectasia of medullary collecting ducts with nephrocalcinosis and calcium stones; 'Paintbrush' / 'Bouquet of flowers' sign on IVU",
+        "C": "Massive subcapsular cortical hematomas requiring embolization",
+        "D": "Complete absence of both renal pyramids on gross inspection",
+        "E": "Severe Fanconi syndrome with generalized proximal tubulopathy"
+      },
+      "correct_option": "C",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Nephronophthisis (NPHP) and ADTKD characteristically display which imaging and clinical profile?",
+      "options": {
+        "A": "Huge palpable kidneys (>25 cm) with massive proteinuria (>10 g/d)",
+        "B": "Marked hydronephrosis with ureteropelvic junction calcification",
+        "C": "Extensive renal cortical infarction with absent renal perfusion",
+        "D": "Normal to SMALL shrunken kidneys with corticomedullary junction cysts, tubulointerstitial fibrosis, polyuria, and progressive ESRD",
+        "E": "Diffuse subepithelial dense deposits on electron microscopy"
+      },
+      "correct_option": "D",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the single most common overall underlying etiology of Acute Interstitial Nephritis (AIN) in clinical practice (~70-75% of cases)?",
+      "options": {
+        "A": "Direct ascending bacterial infection caused by Proteus mirabilis",
+        "B": "Direct external abdominal mechanical trauma",
+        "C": "Primary hyperparathyroidism with calcium stone deposition",
+        "D": "Inherited mutations in proximal tubular sodium transporters",
+        "E": "Drug-induced immune-mediated hypersensitivity reactions (e.g., Antibiotics, NSAIDs, Proton Pump Inhibitors)"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which classes of medications are most frequently implicated in triggering Drug-Induced Acute Interstitial Nephritis?",
+      "options": {
+        "A": "Beta-lactam antibiotics (penicillins, cephalosporins), NSAIDs, Proton Pump Inhibitors (Omeprazole), Sulfonamides, and Ciprofloxacin",
+        "B": "Oral paracetamol and topical hydrocortisone creams",
+        "C": "Pure synthetic intravenous insulin formulations",
+        "D": "Oral calcium carbonate antacids and vitamin D3",
+        "E": "Inhaled albuterol and oral montelukast"
+      },
+      "correct_option": "A",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which urinalysis findings strongly point toward Acute Interstitial Nephritis (AIN) rather than ATN?",
+      "options": {
+        "A": "Muddy brown granular casts with FENa > 2% exclusively",
+        "B": "Dysmorphic red blood cells with RBC casts and proteinuria >5 g/day",
+        "C": "Sterile Pyuria, WBC Casts, mild proteinuria (<1-2 g/d), and Eosinophiluria",
+        "D": "Heavy oval fat bodies showing 'Maltese-cross' birefringence",
+        "E": "Pure hexagonal cystine crystals in highly acidic urine"
+      },
+      "correct_option": "B",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "How does NSAID-induced Acute Interstitial Nephritis (AIN) uniquely present compared to antibiotic AIN?",
+      "options": {
+        "A": "Always presents with high fever, diffuse exfoliative rash, and marked eosinophilia",
+        "B": "Lacks allergic signs (no fever/rash) and uniquely combines AIN with NEPHROTIC-RANGE proteinuria (podocyte effacement)",
+        "C": "Causes immediate complete calcification of the renal cortex",
+        "D": "Restricted strictly to pediatric patients under 5 years of age",
+        "E": "Resolves completely within 2 hours of taking a single dose"
+      },
+      "correct_option": "C",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What is the definitive Gold Standard diagnostic procedure for confirming Acute Interstitial Nephritis and assessing the degree of interstitial fibrosis?",
+      "options": {
+        "A": "Renal Duplex ultrasound measuring resistive index",
+        "B": "Diagnostic cystoscopy and retrograde ureteropyelography",
+        "C": "Intravenous excretory urography with contrast",
+        "D": "24-hour urinary free cortisol excretion assay",
+        "E": "Percutaneous Renal Biopsy (showing interstitial edema, infiltration of T-cells, monocytes, and eosinophils, and Tubulitis with intact glomeruli)"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the single most critical, urgent, and evidence-based first step in managing a patient with confirmed or strongly suspected Drug-Induced AIN?",
+      "options": {
+        "A": "Immediate IDENTIFICATION AND DISCONTINUATION of the offending causative drug",
+        "B": "Immediate emergency hemodialysis via a femoral catheter",
+        "C": "High-dose intravenous loop diuretics bolus of 500 mg",
+        "D": "Empiric administration of broad-spectrum aminoglycosides",
+        "E": "Surgical bilateral ureteral catheter stenting"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "When is a course of Systemic Corticosteroids (e.g., oral Prednisone 1 mg/kg/day) indicated in the management of drug-induced Acute Interstitial Nephritis?",
+      "options": {
+        "A": "Only after the patient has completed at least 6 months of hemodialysis",
+        "B": "If renal function fails to improve within 3 to 7 days following discontinuation of the offending drug, or in biopsy-confirmed severe tubulointerstitial inflammation",
+        "C": "Corticosteroids are strictly contraindicated in all forms of AIN",
+        "D": "Administered exclusively as an intra-arterial bolus during angiography",
+        "E": "Indicated only if the patient develops severe acute gouty arthritis"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "In Proton Pump Inhibitor (PPI)-induced AIN, what clinical feature frequently delays diagnosis?",
+      "options": {
+        "A": "Immediate anuria and excruciating flank pain within 5 minutes",
+        "B": "Sudden onset of massive painless macroscopic hematuria",
+        "C": "Indolent, asymptomatic onset (often months after starting PPI) without allergic signs, predisposing to chronic interstitial fibrosis",
+        "D": "Rapid progression to bilateral staghorn stone formation",
+        "E": "Pathognomonic bright purple discoloration of voided urine"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the clinical definition and classical etiology of 'Analgesic Nephropathy'?",
+      "options": {
+        "A": "Acute allergic anaphylaxis developing immediately after one baby aspirin",
+        "B": "Pure minimal change disease caused by topical lidocaine patches",
+        "C": "Acute tubular necrosis induced exclusively by IV morphine",
+        "D": "Bilateral ureteral obstruction caused by paracetamol crystals",
+        "E": "Chronic tubulointerstitial nephritis and papillary necrosis from cumulative long-term abuse of combination analgesics (phenacetin, acetaminophen, aspirin)"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Patients with chronic Analgesic Nephropathy carry a dramatically increased long-term risk of developing which aggressive malignancy?",
+      "options": {
+        "A": "Transitional Cell (Urothelial) Carcinoma of the renal pelvis, ureters, or bladder (up to 10-fold increased risk)",
+        "B": "Primary renal osteosarcoma",
+        "C": "Clear cell Renal Cell Carcinoma of the proximal tubules",
+        "D": "Multiple Myeloma with light-chain deposition",
+        "E": "Malignant angiomyolipoma with retroperitoneal bleeding"
+      },
+      "correct_option": "A",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the characteristic radiographic appearance of Renal Papillary Necrosis on Retrograde Pyelography or CT Urography?",
+      "options": {
+        "A": "'Snowstorm' granular pattern throughout the renal cortex",
+        "B": "'Ring Shadow' sign (sloughed, necrotic avascular papilla surrounded by radiopaque contrast medium in the medullary cavity)",
+        "C": "Total absence of the left renal shadow with contralateral hypertrophy",
+        "D": "Large calcified staghorn calculus casting the entire renal pelvis",
+        "E": "Complete bilateral occlusion of the proximal main renal arteries"
+      },
+      "correct_option": "B",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which clinical mnemonic 'POSTCARDS' summarizes major causes of Renal Papillary Necrosis?",
+      "options": {
+        "A": "Polycystic, Orthostatic, Sarcoid, TB, Cirrhosis, Alport, Reflux",
+        "B": "Preeclampsia, Osteodystrophy, Sepsis, Trauma, Cancer, Amyloid",
+        "C": "Pyelonephritis, Obstruction, Sickle cell, TB, Analgesics, RVT, Diabetes",
+        "D": "Penicillin, Omeprazole, Sulfa, Thiazides, Cipro, Allopurinol",
+        "E": "Pneumaturia, Oliguria, Strangury, Tenesmus, Colic, Anuria"
+      },
+      "correct_option": "C",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Aristolochic Acid Nephropathy (Balkan Endemic & Chinese Herb Nephropathy) is characterized by:",
+      "options": {
+        "A": "Rapidly progressive immune-complex GN with low serum C3",
+        "B": "Massive hypercalcemia with diffuse medullary nephrocalcinosis",
+        "C": "Formation of large radiopaque ammonium urate calculi",
+        "D": "Extensive hypocellular interstitial fibrosis, tubular atrophy, early severe anemia, and high incidence of upper tract Urothelial Carcinoma",
+        "E": "Acute oliguric renal failure that resolves completely in 24 hours"
+      },
+      "correct_option": "D",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Chronic Lead Nephropathy (Saturnine Gout) typically presents in patients with long-term occupational exposure with which clinical triad?",
+      "options": {
+        "A": "Nephrotic syndrome, bilateral hearing loss, and cataracts",
+        "B": "Extensive pulmonary hemorrhage, hemoptysis, and crescentic GN",
+        "C": "Massive polyuria, hypercalcemia, and proximal renal tubular acidosis",
+        "D": "Acute anuria, severe flank pain, and livedo reticularis",
+        "E": "Chronic tubulointerstitial disease, secondary Hypertension, and severe Hyperuricemia with clinical Gout ('Saturnine Gout')"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "In IgG4-Related Systemic Disease, what is the characteristic tubulointerstitial renal histological",
+      "options": {
+        "A": "Pure minimal change podocytopathy without interstitial changes",
+        "B": "Dense lymphoplasmacytic infiltrate rich in IgG4+ plasma cells with 'Storiform' fibrosis and obliterative phlebitis; corticosteroid-responsive",
+        "C": "Extensive necrotizing granulomas with caseous necrosis",
+        "D": "Continuous linear IgG staining along tubular basement membranes",
+        "E": "Acute ischemic tubular necrosis sparing the interstitium"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the primary pathophysiological defect causing Polyuria and Polydipsia in patients with Chronic Tubulointerstitial Nephritis?",
+      "options": {
+        "A": "Massive hypersecretion of central vasopressin (ADH)",
+        "B": "Primary psychogenic compulsive water drinking",
+        "C": "Tubular resistance to ADH (Nephrogenic Diabetes Insipidus) and loss of medullary hypertonicity due to structural interstitial fibrosis and tubular",
+        "D": "Excessive filtration of unabsorbed glucose exceeding transport maximum",
+        "E": "Total destruction of all glomerular filtration barriers"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which clinical feature strongly distinguishes Tubulointerstitial from primary Glomerular diseases?",
+      "options": {
+        "A": "Tubulointerstitial diseases produce massive proteinuria (>5-10 g/day)",
+        "B": "Tubulointerstitial diseases cause early tubular defects (RTA, salt wasting, polyuria) with modest proteinuria (<1-2 g/d) and NO RBC casts",
+        "C": "Glomerular diseases never produce microscopic hematuria or hypertension",
+        "D": "Tubulointerstitial diseases always present with severe hypoalbuminemic anasarca",
+        "E": "Both disease categories produce identical dysmorphic acanthocytes"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Why does Type 4 (Hyperkalemic) Renal Tubular Acidosis frequently occur in patients with chronic diabetic tubulointerstitial nephropathy?",
+      "options": {
+        "A": "Total destruction of all renal medullary blood vessels",
+        "B": "Complete genetic absence of collecting duct principal cells",
+        "C": "Direct excessive secretion of potassium by proximal tubular cells",
+        "D": "Massive excessive synthesis of systemic aldosterone",
+        "E": "Hyporeninemic Hypoaldosteronism caused by damage to the juxtaglomerular apparatus and interstitium, impairing distal potassium and proton secretion"
+      },
+      "correct_option": "E",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 46-year-old male with ADPKD presents with sudden thunderclap headache and BP 185/110. Head CT shows basal cistern hemorrhage. Diagnosis:",
+      "options": {
+        "A": "Subarachnoid Hemorrhage secondary to a ruptured intracranial Berry Aneurysm (Circle of Willis)",
+        "B": "Hypertensive encephalopathy without structural vascular lesion",
+        "C": "Acute ischemic stroke of the middle cerebral artery",
+        "D": "Bacterial meningitis complicating an infected renal cyst",
+        "E": "Acute subdural hematoma caused by minor head trauma"
+      },
+      "correct_option": "A",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 62-year-old female on Omeprazole develops fever, rash, and creatinine rise from 0.9 to 2.8. Urinalysis: sterile pyuria, WBC casts, eosinophiluria. Management:",
+      "options": {
+        "A": "Acute Tubular Necrosis; administer high-dose IV furosemide",
+        "B": "Drug-Induced AIN; immediately DISCONTINUE causative drug and initiate oral Corticosteroids if no prompt recovery",
+        "C": "Post-streptococcal GN; prescribe oral penicillin V",
+        "D": "Acute Pyelonephritis; start intravenous gentamicin and cipro",
+        "E": "Renal Papillary Necrosis; emergent bilateral ureteral stenting"
+      },
+      "correct_option": "B",
+      "explanation": "**PKD1 (chr 16, 85%,**: hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry\n\n**(Adult Polycystic**: fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),",
+      "masterclass_id": 40,
+      "masterclass_title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    }
+  ]
+}

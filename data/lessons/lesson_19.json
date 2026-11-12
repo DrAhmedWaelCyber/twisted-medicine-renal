@@ -1,0 +1,933 @@
+{
+  "id": 19,
+  "title": "Pharmacology of Diuretics - Pharmacology Lecture",
+  "department": "Pharmacology",
+  "department_desc": "Diuretics, osmotic agents, carbonic anhydrase inhibitors and gout therapy",
+  "booklet_pages": "Pages 73 - 76",
+  "pdf_pages": [
+    75,
+    76,
+    77,
+    78
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 20 — HIGH-YIELD DIURETICS PHARMACOLOGY MATRIX",
+  "summary_table": [
+    {
+      "domain": "Reversibly inhibits apical CA IV &",
+      "content": "Hepatic encephalopathy in cirrhosis"
+    },
+    {
+      "domain": "Carbonic Anhydrase",
+      "content": "Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting."
+    },
+    {
+      "domain": "Inhibitors",
+      "content": "Urine pH -8.0. (NH4+ -> NH3), CaPO4 stones"
+    },
+    {
+      "domain": "cytoplasmic CA II, blocking HCO3-",
+      "content": "Mountain Sickness, urinary (alkaline urine), sulfa allergy, bone Hyperchloremic NAGMA & alkalinization (urate/cystine stones),"
+    },
+    {
+      "domain": "(Acetazolamide,",
+      "content": "metabolic alkalosis. marrow suppression."
+    },
+    {
+      "domain": "Dorzolamide)",
+      "content": "hypokalemia."
+    },
+    {
+      "domain": "Tubule",
+      "content": "Acute reduction of Intracranial Massive water diuresis > solute"
+    },
+    {
+      "domain": "Osmotic Diuretics",
+      "content": "Acute ECF volume expansion &"
+    },
+    {
+      "domain": "(Mannitol IV)",
+      "content": "Pressure (Cerebral Edema), pulmonary edema in CHF; dehydration, loss."
+    },
+    {
+      "domain": "solute; creates luminal osmotic drag",
+      "content": "Initial serum dilution, followed by hyperatremia; contra: active cranial"
+    },
+    {
+      "domain": "Proximal Tubule & Thin",
+      "content": "Intraocular Pressure in acute"
+    },
+    {
+      "domain": "opposing water reabsorption.",
+      "content": "hypernatremia & dehydration. glaucoma, oliguria prophylaxis. bleed, severe CHF."
+    },
+    {
+      "domain": "Inhibits apical NKCC2 cotransporter",
+      "content": "Acute Pulmonary Edema (PGE2 Ototoxicity (cochlear damage;"
+    },
+    {
+      "domain": "Loop / High-Ceiling",
+      "content": "Massive Na+, Cl-, K+ wasting (-25% load). Abolishes lumen (+) venodilation), CHF, Nephrotic"
+    },
+    {
+      "domain": "by competing for chloride site.",
+      "content": "synergistic with aminoglycosides), potential -> Hypercalciuria & syndrome, Cirrhotic ascites, Acute"
+    },
+    {
+      "domain": "(Furosemide,",
+      "content": "Hypokalemia, Hyperuricemia (gout), Hypermagnesuria. Hypercalcemia, GFR < 30 mL/min. sulfa allergy (Ethacrynic acid = no"
+    },
+    {
+      "domain": "Bumetanide, Torsemide,",
+      "content": "Hypokalemic Metabolic"
+    },
+    {
+      "domain": "Ethacrynic Acid)",
+      "content": "sulfa). Alkalosis."
+    },
+    {
+      "domain": "Thiazides & Thiazide-like",
+      "content": "Essential Hypertension (first-line), Na+, Cl-, K+ wasting."
+    },
+    {
+      "domain": "Inhibits apical NCC cotransporter",
+      "content": "Hyperglycemia (low insulin release),"
+    },
+    {
+      "domain": "(HCTZ, Chlorthalidone,",
+      "content": "Enhances Ca2+ reabsorption -> Idiopathic Hypercalciuria (calcium Hyperuricemia (gout), Hypercalcemia,"
+    },
+    {
+      "domain": "(-5% Na+ load). Metolazone acts at",
+      "content": "Hypocalciuria."
+    },
+    {
+      "domain": "low GFR; Chlorthalidone has long",
+      "content": "stones), Nephrogenic DI, Sequential Hyperlipidemia, erectile dysfunction, Blockade with loops. Hypokalemic Metabolic"
+    },
+    {
+      "domain": "t1/2 (-50h).",
+      "content": "sulfa allergy."
+    },
+    {
+      "domain": "Early Distal Tubule (DCT)",
+      "content": "Alkalosis, severe Hyponatremia."
+    },
+    {
+      "domain": "Amiloride/Triamterene block apical",
+      "content": "Spironolactone: Hepatic ascites"
+    },
+    {
+      "domain": "Potassium-Sparing",
+      "content": "Mild natriuresis (~2-3% load). Lethal Hyperkalemia (warning with (DOC), Heart failure (decreases ACE/ARBs/CKD). Spironolactone: Conserves K+ and H+."
+    },
+    {
+      "domain": "Spironolactone/Eplerenone",
+      "content": "Hyperkalemia & Normal Anion mortality - RALES). gynecomastia & impotence Gap Metabolic Acidosis."
+    },
+    {
+      "domain": "Amiloride, Triamterene",
+      "content": "A milome Lidle Syndrome (DOC, SEpierenone avoids this). Triamierene"
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which class of diuretics is characterized as responsible for ~25% of filtered sodium load?",
+      "options": {
+        "A": "Competitive inhibition of apical NCC sodium-chloride cotransporters",
+        "B": "Reversible inhibition of brush-border CA IV and cytoplasmic CA I|",
+        "C": "Non-competitive irreversible blockade of basolateral Na+/K+ ATPase",
+        "D": "Direct opening of paracellular chloride-selective claudin channels",
+        "E": "Blockade of the mineralocorticoid nuclear receptor"
+      },
+      "correct_option": "A",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the primary cellular mechanism of actionQ09. [2023 Exam] What is the primary physiological mechanism by which Mannitol induces diuresis in the nephron?",
+      "options": {
+        "A": "Chronic outpatient management of essential hypertension",
+        "B": "Idiopathic hypercalciuria with recurrent calcium oxalate stones",
+        "C": "Degrades basolateral Aquaporin-3 and Aquaporin-4 water channels",
+        "D": "Blocks water reabsorption in PCT and thin descending limb by osmotic",
+        "E": "Acute reduction of elevated Intracranial Pressure (Cerebral Edema)"
+      },
+      "correct_option": "B",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Why does the diuretic efficacy of Acetazolamide Q10. [2021 Exam] Which clinical scenario represents a major, diminish rapidly after 2 to 3 days of continuous therapy (self-limiting effect)?",
+      "options": {
+        "A": "Treatment of acute hypercalcemia of malignancy",
+        "B": "Eradication of Pseudomonas urinary tract infections",
+        "C": "Reversal of digitalis-induced ventricular tachyarrhythmias",
+        "D": "Reduction of intraocular pressure in Open-Angle Glaucoma",
+        "E": "Prevention of diabetic ketoacidosis"
+      },
+      "correct_option": "C",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the primary therapeutic indication for Q11. [2025 Exam] What dangerous acute complication can occur if topical Carbonic Anhydrase Inhibitors such as Dorzolamide and Mannitol is administered to a patient with severe Congestive Heart Failure?",
+      "options": {
+        "A": "Acute ECF volume expansion and pulmonary edema due to fluid shift",
+        "B": "Immediate vascular collapse and profound hypovolemic shock",
+        "C": "Sudden total thrombosis of both main renal veins",
+        "D": "Severe hypocalcemic tetany with laryngeal stridor",
+        "E": "Permanent irreversible diabetes insipidus"
+      },
+      "correct_option": "D",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In the prophylaxis and treatment of Acute Mountain Sickness (high-altitude pulmonary/cerebral edema), Acetazolamide works by:",
+      "options": {
+        "A": "Directly blocking pulmonary vascular smooth muscle beta-2 receptors",
+        "B": "Paralyzing diaphragm muscle to decrease alveolar ventilation",
+        "C": "Stimulating massive erythropoietin secretion from peritubular cells",
+        "D": "Dilating systemic arterioles to lower systolic blood pressure",
+        "E": "Producing mild metabolic acidosis, stimulating central chemoreceptors"
+      },
+      "correct_option": "E",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Which acid-base and electrolyte disturbance is Q13. [Faculty Exam] Acetazolamide can be utilized clinically to characteristically produced by Carbonic Anhydrase Inhibitors?",
+      "options": {
+        "A": "Hyperchloremic Normal Anion Gap Metabolic Acidosis with hypokalemia substances?",
+        "B": "Hypochloremic metabolic alkalosis with severe hyperkalemia",
+        "C": "High anion gap metabolic acidosis with hypernatremia",
+        "D": "Respiratory acidosis with compensatory hyperbicarbonatemia",
+        "E": "Metabolic alkalosis with isolated hypocalciuria"
+      },
+      "correct_option": "A",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why is Acetazolamide strictly contraindicated in Q14. [Core Exam] Which of the following adverse effects is shared patients with severe Hepatic Cirrhosis?",
+      "options": {
+        "A": "It induces immediate rupture of esophageal varices",
+        "B": "Urine alkalinization converts NH4+ to NH3, increasing encephalopathy",
+        "C": "It directly inhibits hepatic glycogenolysis causing fatal hypoglycemia",
+        "D": "It precipitates as insoluble crystalline casts in the common bile duct",
+        "E": "It completely shuts down hepatic blood flow via portal vein spasm"
+      },
+      "correct_option": "B",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What pharmacokinetic property explains why 'High-Ceiling' because its members inhibit transport in a segment Mannitol must be administered exclusively via the Intravenous (IV) route?",
+      "options": {
+        "A": "It is 100% destroyed by gastric hydrochloric acid within seconds",
+        "B": "It binds irreversibly to oral mucosal epithelial cell membranes",
+        "C": "It is not absorbed from the Gl tract; oral dosing causes osmotic diarrhea",
+        "D": "It is completely metabolized into toxic methanol by salivary amylase",
+        "E": "It precipitates as large crystals in the esophageal lumen"
+      },
+      "correct_option": "C",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 9 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 10 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 11 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In which of the following conditions is intravenous Mannitol therapy strictly CONTRAINDICATED?",
+      "options": {
+        "A": "Severe hypercalcemia and nephrocalcinosis",
+        "B": "Gynaecomastia and anti-androgenic sexual dysfunction",
+        "C": "Spastic tetany and carpopedal spasm",
+        "D": "Allergic hypersensitivity reactions due to a Sulfonamide moiety",
+        "E": "Permanent complete loss of visual acuity"
+      },
+      "correct_option": "B",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 13 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 14 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "At which specific molecular binding domain on Q23. [2021 Exam] Co-administration of Furosemide with which of the NKCC2 cotransporter do Loop Diuretics compete to inhibit ion the following antimicrobials synergistically increases the risk of",
+      "options": {
+        "A": "One of the two chloride-binding sites",
+        "B": "The potassium-binding coordination pocket",
+        "C": "The extracellular sodium-binding regulatory pocket",
+        "D": "The intracellular ATP-binding catalytic domain",
+        "E": "The Tamm-Horsfall glycoprotein anchoring domain"
+      },
+      "correct_option": "A",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "How does intravenous Furosemide produce rapid clinical relief in acute pulmonary edema within 5 to 15 minutes, BEFORE diuresis?",
+      "options": {
+        "A": "It stimulates myocardial beta-1 receptors to increase cardiac contractility [A] De novo hepatic synthesis of uric acid crystals stimulated by the drugs",
+        "B": "Induces renal synthesis of PGE2, increasing systemic venous capacitance [B] Direct chemical conversion of urea into uric acid within renal papillae",
+        "C": "It directly dissolves surfactant in alveolar capillary membranes",
+        "D": "It binds and neutralizes circulating endothelin-1 in pulmonary veins",
+        "E": "It paralyzes bronchial smooth muscle to reduce airway resistance"
+      },
+      "correct_option": "B",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which class of drugs blunts the hemodynamic Q25. [Faculty Exam] Which loop diuretic possesses the longest venodilatory and natriuretic actions of Furosemide by blocking prostaglandin synthesis?",
+      "options": {
+        "A": "They activate intracellular lysosomes that digest paracellular claudins",
+        "B": "They competitively inhibit basolateral Ca2+/Mg2+ ATPases",
+        "C": "They trigger massive precipitation of calcium oxalate in the medulla",
+        "D": "Abolishing NKCC2 dissipates the lumen-positive potential (+8 mV)",
+        "E": "They directly block parathyroid hormone receptors on tubular cells"
+      },
+      "correct_option": "C",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why do Loop Diuretics cause significant urinary Q26. [2022 Exam] Why do Loop Diuretics remain highly effective in patients with advanced renal failure (GFR < 30 mL/min), unlike Thiazide diuretics?",
+      "options": {
+        "A": "The TAL has massive reabsorptive capacity (25% Na+ load) responsive to loops",
+        "B": "They are filtered exclusively through the peritubular capillary walls",
+        "C": "They stimulate direct regeneration of sclerosed nephrons",
+        "D": "They act without entering the tubular lumen or binding any transporter",
+        "E": "They increase systemic blood pressure by 50 mmHg"
+      },
+      "correct_option": "C",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Because Loop Diuretics promote urinary calcium excretion, they are clinically indicated in the emergency hospital management of:",
+      "options": {
+        "A": "Ethacrynic Acid",
+        "B": "Furosemide",
+        "C": "Bumetanide",
+        "E": "Acetazolamide",
+        "D": "Torsemide"
+      },
+      "correct_option": "E",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which of the following loop diuretics does NOT Q28. [Core Exam] How does Furosemide reach its site of action on",
+      "options": {
+        "A": "It is extensively filtered at the glomerulus as an unbound free molecule",
+        "B": "It diffuses directly through the renal capsule into the medulla",
+        "C": "Actively secreted into proximal tubule lumen by organic anion transporters (OAT)",
+        "D": "It is carried inside red blood cells and released in the vasa recta",
+        "E": "It enters TAL cells through basolateral pinocytic vesicles"
+      },
+      "correct_option": "A",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 23 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What mechanism explains the Hyperuricemia and potential precipitation of acute gouty arthritis frequently caused by Loop and Thiazide diuretics?",
+      "options": {
+        "C": "Acetazolamide [DI Chlorothiazide",
+        "D": "Competition for proximal OAT secretion plus volume-contraction reabsorption",
+        "E": "Torsemide",
+        "A": "Furosemide (bioavailability -50% with wide inter-patient variability)",
+        "B": "Ethacrynic acid"
+      },
+      "correct_option": "C",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 25 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 26 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What acid-base and electrolyte disturbance is characteristically induced by chronic high-dose Loop Diuretic therapy?",
+      "options": {
+        "A": "Normal anion gap hyperchloremic metabolic acidosis with hyperkalemia",
+        "B": "Hypokalemic, Hypochloremic Metabolic Alkalosis with hypomagnesemia",
+        "C": "High anion gap lactic acidosis with profound hyperphosphatemia",
+        "D": "Respiratory acidosis with severe systemic hypernatremia",
+        "E": "Pure hyperkalemic metabolic alkalosis"
+      },
+      "correct_option": "B",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 28 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Unlike Loop Diuretics, Thiazides DECREASE urinary calcium excretion (Hypocalciuria) because:",
+      "options": {
+        "A": "They directly chelate and destroy calcium ions inside tubular fluid",
+        "B": "They stimulate massive osteoclastic bone resorption",
+        "C": "They cause direct calcification of Bowman's capsule",
+        "D": "They block 1-alpha-hydroxylase synthesis of calcitriol",
+        "E": "Lower cell Na+ stimulates basolateral Na+/Ca2+ exchange and apical entry"
+      },
+      "correct_option": "E",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Because Thiazides induce Hypocalciuria, they Q38. [2021 Exam] What is the primary mechanism of action of are the first-line pharmacological treatment of choice for preventing recurrent:",
+      "options": {
+        "A": "Idiopathic Hypercalciuria with Calcium Oxalate / Phosphate Stones",
+        "B": "Uric acid radiolucent stones",
+        "C": "Struvite (magnesium ammonium phosphate) staghorn calculi",
+        "D": "Hexagonal cystine kidney stones",
+        "E": "Xanthine urinary stones"
+      },
+      "correct_option": "A",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What paradoxical therapeutic effect do Thiazide Q39. [2025 Exam] Amiloride is the specific drug of choice for",
+      "options": {
+        "A": "They stimulate massive water diuresis exceeding 30 Liters per day",
+        "B": "Produce mild volume depletion, increasing proximal reabsorption and [A] Bartter Syndrome (NKCC2 mutation) reducing urine volume",
+        "C": "They completely restore normal V2 receptor sensitivity in principal cells",
+        "D": "They convert nephrogenic DI into central DI by destroying hypothalamic nuclei",
+        "E": "They synthesize artificial ADH within collecting duct cells"
+      },
+      "correct_option": "B",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which of the following Thiazide-like diuretics has an exceptionally long elimination half-life (~40-60 hours) and adverse effect associated with all Potassium-Sparing Diuretics? superior clinical trial evidence?",
+      "options": {
+        "A": "Chlorothiazide",
+        "B": "Hydrochlorothiazide",
+        "C": "Chlorthalidone",
+        "D": "Acetazolamide",
+        "E": "Triamterene"
+      },
+      "correct_option": "C",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Why is Metolazone uniquely valuable when combined with Loop Diuretics in patients with refractory, resistant failure on Digoxin is prescribed Furosemide without potassium congestive heart failure?",
+      "options": {
+        "A": "It directly dissolves atheromatous plaques in the main renal artery",
+        "B": "It completely prevents any potassium loss caused by loop diuretics",
+        "C": "It is administered as an aerosol and acts exclusively on pulmonary veins [B] Immediate conversion of digoxin into an inactive glucuronide conjugate",
+        "D": "Produces 'Sequential Nephron Blockade' and remains active even at GFR [C] Severe hypercalcemia with myocardial calcification < 30 mL/min",
+        "E": "It replaces the need for dietary sodium restriction entirely"
+      },
+      "correct_option": "D",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which metabolic adverse effect is characteristically associated with chronic Thiazide diuretic therapy?",
+      "options": {
+        "A": "Hyperkalemia and severe metabolic acidosis",
+        "B": "Profound hypocalcemia with symptomatic tetany",
+        "C": "Severe hypoglycemia with hyperinsulinism",
+        "D": "Decreased serum uric acid levels",
+        "E": "Hyperglycemia (impaired insulin release due to hypokalemia) and Hyperlipidemia"
+      },
+      "correct_option": "E",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Why is Eplerenone preferred over Spironolactone in adult male patients requiring long-term aldosterone receptor blockade?",
+      "options": {
+        "A": "Direct competitive inhibition of the mineralocorticoid nuclear receptor",
+        "B": "Gitelman Syndrome (NCC mutation)",
+        "C": "Fanconi Syndrome (generalized proximal tubule defect)",
+        "D": "Liddle Syndrome (pseudo-hyperaldosteronism with low renin & low aldosterone)",
+        "E": "Conn Syndrome (aldosterone-producing adrenal adenoma)"
+      },
+      "correct_option": "B",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 38 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 39 covering high-yield concepts in Pharmacology of Diuretics - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What is the most lethal, life-threatening",
+      "options": {
+        "A": "Acute angle-closure glaucoma",
+        "B": "Massive pulmonary embolism",
+        "C": "Hypokalemic metabolic alkalosis with malignant arrhythmias",
+        "D": "Acute necrotizing pancreatitis",
+        "E": "Severe symptomatic Hyperkalemia (especially with ACEi, ARBs, or CKD)"
+      },
+      "correct_option": "E",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A 55-year-old male with severe congestive heart supplementation. He is at high risk for:",
+      "options": {
+        "A": "Digitalis Toxicity and fatal cardiac arrhythmias triggered by Furosemide-induced Hypokalemia",
+        "D": "Complete resistance to digoxin's inotropic effects",
+        "E": "Acute gouty arthritis in the cervical spine",
+        "B": "Option B",
+        "C": "Option C"
+      },
+      "correct_option": "A",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 60-year-old female with cirrhosis and refractory ascites is treated with high-dose Spironolactone and Furosemide. What is the rational diuretic ratio?",
+      "options": {
+        "A": "Furosemide 160 mg alone without spironolactone to maximize diuresis",
+        "B": "Spironolactone 100 mg to Furosemide 40 mg (maintains normokalemia and blocks hyperaldosteronism)",
+        "C": "Acetazolamide 500 mg combined with mannitol IV infusion",
+        "D": "Hydrochlorothiazide 100 mg alone with potassium chloride 80 mEq",
+        "E": "Triamterene 200 mg combined with indomethacin"
+      },
+      "correct_option": "B",
+      "explanation": "**Reversibly inhibits apical CA IV &**: Hepatic encephalopathy in cirrhosis\n\n**Carbonic Anhydrase**: Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting.",
+      "masterclass_id": 19,
+      "masterclass_title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology"
+    }
+  ]
+}

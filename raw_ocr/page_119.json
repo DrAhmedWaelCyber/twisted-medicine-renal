@@ -1,0 +1,917 @@
+{
+  "items" : [
+    {
+      "text" : "Twisted Medicine • Renal System Module • Lecture 31 MCQ Masterclass",
+      "conf" : 1,
+      "y" : 0.9759722219728691,
+      "x" : 0.2697368351190479,
+      "w" : 0.422932299155284,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Twisted Medicine Medical Series • Urine Chemistry, Bence-Jones, PKU, Alkaptonuria, MSUD, Cystinuria & Renal Calculi • Standard Practice Bank",
+      "conf" : 1,
+      "y" : 0.9636111110283287,
+      "x" : 0.40789472984962416,
+      "w" : 0.6992481047947744,
+      "h" : 0.008888888888888835
+    },
+    {
+      "text" : "Page 1 of 4",
+      "conf" : 1,
+      "y" : 0.9745833330829394,
+      "x" : 0.9097744358552631,
+      "w" : 0.06390977060083514,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "31. CHEMICAL ANALYSIS OF URINE, INBORN ERRORS & CALCULI — BIOCHEMISTRY TUTORIAL",
+      "conf" : 1,
+      "y" : 0.9353617571485882,
+      "x" : 0.4990601439661656,
+      "w" : 0.6409774330517614,
+      "h" : 0.013165374332004043
+    },
+    {
+      "text" : "Twisted Medicine Biochemistry Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "conf" : 1,
+      "y" : 0.9156976743822675,
+      "x" : 0.49906014344454896,
+      "w" : 0.5545112834741194,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "Q01. [2025 Exam] Which pigment is primarily responsible for the",
+      "conf" : 1,
+      "y" : 0.8931944445294402,
+      "x" : 0.2669173001879697,
+      "w" : 0.41729323869125184,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "normal physiological yellow-amber color of freshly voided human",
+      "conf" : 1,
+      "y" : 0.8794121449197203,
+      "x" : 0.27067668641917303,
+      "w" : 0.42481201522903933,
+      "h" : 0.011731265915764788
+    },
+    {
+      "text" : "urine?",
+      "conf" : 1,
+      "y" : 0.8670058141250667,
+      "x" : 0.07988721851381898,
+      "w" : 0.043305285280338744,
+      "h" : 0.010358935462103869
+    },
+    {
+      "text" : "[A] Bilirubin",
+      "conf" : 1,
+      "y" : 0.8502777776973018,
+      "x" : 0.09022556454887216,
+      "w" : 0.06390977060083516,
+      "h" : 0.008888889153798374
+    },
+    {
+      "text" : "[B] Urochrome (a metabolic product of hemoglobin breakdown)",
+      "conf" : 1,
+      "y" : 0.837916666717206,
+      "x" : 0.23120300402255645,
+      "w" : 0.3496240523973872,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Porphobilinogen",
+      "conf" : 1,
+      "y" : 0.8255555556159087,
+      "x" : 0.11278195629699245,
+      "w" : 0.11278195521713247,
+      "h" : 0.008888888888888946
+    },
+    {
+      "text" : "[D] Indican",
+      "conf" : 1,
+      "y" : 0.8131944444661616,
+      "x" : 0.08834586472431077,
+      "w" : 0.06390977060083516,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[E] Homogentisic acid",
+      "conf" : 1,
+      "y" : 0.8008430232629343,
+      "x" : 0.11842105387218041,
+      "w" : 0.12406015293277654,
+      "h" : 0.011686046918233162
+    },
+    {
+      "text" : "Q02. [2024 Exam] A urine specimen that turns dark brown or black",
+      "conf" : 1,
+      "y" : 0.7725290698401164,
+      "x" : 0.273496244906015,
+      "w" : 0.4304511195716885,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "upon standing exposed to air or when alkalinized is characteristic",
+      "conf" : 1,
+      "y" : 0.7572351420679058,
+      "x" : 0.27161654846491207,
+      "w" : 0.42669173130279475,
+      "h" : 0.011692505942450637
+    },
+    {
+      "text" : "of:",
+      "conf" : 1,
+      "y" : 0.7441860464389535,
+      "x" : 0.06766917269736843,
+      "w" : 0.018796992079119813,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[A] Alkaptonuria (accumulation and oxidation of homogentisic acid)",
+      "conf" : 1,
+      "y" : 0.7289244185804264,
+      "x" : 0.2415413472117796,
+      "w" : 0.37030073175492,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] Diabetes mellitus with glucosuria",
+      "conf" : 1,
+      "y" : 0.7164486583690244,
+      "x" : 0.15789299547345437,
+      "w" : 0.20321927320862915,
+      "h" : 0.012386138704088001
+    },
+    {
+      "text" : "[C] Maple syrup urine disease",
+      "conf" : 1,
+      "y" : 0.7042151163335755,
+      "x" : 0.14003759607612776,
+      "w" : 0.16729322772159755,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[D] Cystinuria with hexagonal stones",
+      "conf" : 1,
+      "y" : 0.6918604650193798,
+      "x" : 0.15883458305137854,
+      "w" : 0.20488720913742361,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[E] Acute intermittent porphyria",
+      "conf" : 1,
+      "y" : 0.6795704135583389,
+      "x" : 0.14379699466635332,
+      "w" : 0.1748120261986936,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "Q03. [2023 Exam] On standard commercial urine test strips",
+      "conf" : 1,
+      "y" : 0.6504166666627001,
+      "x" : 0.2490601549107142,
+      "w" : 0.3815789404402184,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "(dipstick), what is the biochemical principle of the Protein test",
+      "conf" : 1,
+      "y" : 0.6373505224273235,
+      "x" : 0.25846403309690513,
+      "w" : 0.40425321577608286,
+      "h" : 0.013670840793185701
+    },
+    {
+      "text" : "pad?",
+      "conf" : 1,
+      "y" : 0.6228197672722868,
+      "x" : 0.07518796961152883,
+      "w" : 0.033834584919691595,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[A] Copper reduction of alkaline tartrate reagent",
+      "conf" : 1,
+      "y" : 0.6082848837936046,
+      "x" : 0.1898496267293232,
+      "w" : 0.266917291088639,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] 'Protein error of indicators' using tetrabromphenol blue (pH 3.0)",
+      "conf" : 1,
+      "y" : 0.5951453488874352,
+      "x" : 0.2406014991541354,
+      "w" : 0.3684210595597816,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "[C] Immunoturbidimetric monoclonal antibody agglutination",
+      "conf" : 1,
+      "y" : 0.5820833331407848,
+      "x" : 0.21992481611842096,
+      "w" : 0.3270676569660991,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[D] Diazonium salt coupling producing an azobilirubin dye",
+      "conf" : 1,
+      "y" : 0.5704295865870099,
+      "x" : 0.2161654175281954,
+      "w" : 0.31954885848900294,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[E] Pseudoperoxidase activity oxidizing tetramethylbenzidine",
+      "conf" : 1,
+      "y" : 0.5588662791242733,
+      "x" : 0.2246240643562029,
+      "w" : 0.33646614957764204,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "Q04. [2022 Exam] Standard urine dipstick protein test pads are",
+      "conf" : 1,
+      "y" : 0.5298546511125648,
+      "x" : 0.2622180501644736,
+      "w" : 0.4041353139321981,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "primarily sensitive to which protein and may completely miss light",
+      "conf" : 1,
+      "y" : 0.5159883720058139,
+      "x" : 0.27349623629699255,
+      "w" : 0.4304511195716886,
+      "h" : 0.011627907223171752
+    },
+    {
+      "text" : "chains?",
+      "conf" : 1,
+      "y" : 0.5029069768531977,
+      "x" : 0.08458646663533835,
+      "w" : 0.0526315783700182,
+      "h" : 0.008720929887559792
+    },
+    {
+      "text" : "[A] Tamm-Horsfall mucoprotein (Uromodulin)",
+      "conf" : 1,
+      "y" : 0.48694444440831625,
+      "x" : 0.18233082286967434,
+      "w" : 0.2518796941344469,
+      "h" : 0.008888888888888835
+    },
+    {
+      "text" : "[B] Beta-2 Microglobulin",
+      "conf" : 1,
+      "y" : 0.47458333326462543,
+      "x" : 0.12406015206766913,
+      "w" : 0.1353383396787664,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Bence-Jones immunoglobulin light chains",
+      "conf" : 1,
+      "y" : 0.46222222215406766,
+      "x" : 0.1823308295864661,
+      "w" : 0.2518796941344469,
+      "h" : 0.008888888623979407
+    },
+    {
+      "text" : "[D] Albumin (highly sensitive to albumin, insensitive to globulins)",
+      "conf" : 1,
+      "y" : 0.4498611108864008,
+      "x" : 0.2349624003132834,
+      "w" : 0.3571428508744833,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[E] Alpha-1 Microglobulin",
+      "conf" : 1,
+      "y" : 0.436805555794255,
+      "x" : 0.12781955065789466,
+      "w" : 0.14285713815586246,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "Q05. [2021 Exam] What is the primary diagnostic utility of the",
+      "conf" : 1,
+      "y" : 0.40764534874970587,
+      "x" : 0.25751880357142837,
+      "w" : 0.39473682132065513,
+      "h" : 0.010290697945488758
+    },
+    {
+      "text" : "Sulfosalicylic Acid (SSA) precipitation test in urinalysis?",
+      "conf" : 1,
+      "y" : 0.39388888908937436,
+      "x" : 0.2415413530388471,
+      "w" : 0.36654134348602624,
+      "h" : 0.011666666666666714
+    },
+    {
+      "text" : "[A] It selectively detects only glucose and galactose",
+      "conf" : 1,
+      "y" : 0.37863372100290704,
+      "x" : 0.20112782431077675,
+      "w" : 0.2857142763117249,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[B] It detects only Bence-Jones protein and is negative for albumin",
+      "conf" : 1,
+      "y" : 0.3670704133948215,
+      "x" : 0.24060149761904787,
+      "w" : 0.36842105955978166,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[C] It differentiates conjugated bilirubin from urobilinogen",
+      "conf" : 1,
+      "y" : 0.35392441851380807,
+      "x" : 0.21334586073778206,
+      "w" : 0.3139097760856623,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[D] It measures the exact quantitative GFR in mL\/min",
+      "conf" : 1,
+      "y" : 0.3423546511852391,
+      "x" : 0.20488722095864653,
+      "w" : 0.29699246305771476,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "[E] It precipitates ALL urinary proteins (albumin, globulins, Bence-Jones,",
+      "conf" : 1,
+      "y" : 0.3292151162972383,
+      "x" : 0.25657895237312023,
+      "w" : 0.4003759256633042,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "glycoproteins)",
+      "conf" : 1,
+      "y" : 0.3175872094718992,
+      "x" : 0.09868421105889721,
+      "w" : 0.0808270671743013,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "Q06. [2020 Exam] What is the unique classical thermal solubility",
+      "conf" : 1,
+      "y" : 0.2863727390399135,
+      "x" : 0.265977450407268,
+      "w" : 0.4154135226174964,
+      "h" : 0.011698966026306157
+    },
+    {
+      "text" : "characteristic of Bence-Jones Protein in Multiple Myeloma?",
+      "conf" : 1,
+      "y" : 0.27330426371500177,
+      "x" : 0.25093984480733095,
+      "w" : 0.38533832870911217,
+      "h" : 0.011724805831909157
+    },
+    {
+      "text" : "[A] Precipitates at 100°C and dissolves upon cooling to 0°C",
+      "conf" : 1,
+      "y" : 0.25792958665362814,
+      "x" : 0.22368421610275666,
+      "w" : 0.33458645544319504,
+      "h" : 0.01030361758338072
+    },
+    {
+      "text" : "[B] Remains permanently insoluble at all temperatures above 37°C",
+      "conf" : 1,
+      "y" : 0.24416666659608194,
+      "x" : 0.24060150989974913,
+      "w" : 0.3721804478286754,
+      "h" : 0.011666666666666603
+    },
+    {
+      "text" : "[C] Precipitates at 40-60°C, redissolves at 100°C, reprecipitates at 60°C",
+      "conf" : 1,
+      "y" : 0.23251937963268066,
+      "x" : 0.2565789459586466,
+      "w" : 0.4003759256633042,
+      "h" : 0.011705425580342599
+    },
+    {
+      "text" : "[D] Dissolves only in 100% concentrated hydrochloric acid",
+      "conf" : 1,
+      "y" : 0.22014534877236736,
+      "x" : 0.21804511541353372,
+      "w" : 0.32330826869720525,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "[E] Evaporates into gas at body temperature",
+      "conf" : 1,
+      "y" : 0.20857558146802324,
+      "x" : 0.17951128236215524,
+      "w" : 0.24999999999999997,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "Q07. [2024 Exam] In patients with Multiple Myeloma, what is the",
+      "conf" : 1,
+      "y" : 0.1656976744186046,
+      "x" : 0.2640977375000002,
+      "w" : 0.4116541343486026,
+      "h" : 0.011627906163533597
+    },
+    {
+      "text" : "chemical nature of Bence-Jones Protein excreted in urine?",
+      "conf" : 1,
+      "y" : 0.15261627899709307,
+      "x" : 0.2481202960056392,
+      "w" : 0.379699224366463,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[A] Monoclonal intact IgG immunoglobulin molecules",
+      "conf" : 1,
+      "y" : 0.13665697689538608,
+      "x" : 0.20300751829573938,
+      "w" : 0.293233074788821,
+      "h" : 0.011686046388414195
+    },
+    {
+      "text" : "[B] Polyclonal IgA secretory components",
+      "conf" : 1,
+      "y" : 0.1243055555822879,
+      "x" : 0.16917292850877208,
+      "w" : 0.2293232987031587,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[C] Polymerized Tamm-Horsfall uromodulin fibrils",
+      "conf" : 1,
+      "y" : 0.1126388888078595,
+      "x" : 0.19266917638627812,
+      "w" : 0.27631578370018195,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[D] Heavy chains of IgM with rheumatoid factor activity",
+      "conf" : 1,
+      "y" : 0.09958333313744533,
+      "x" : 0.20676691221804527,
+      "w" : 0.30451126153481084,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[E] Free monoclonal immunoglobulin light chains (either Kappa or Lambda)",
+      "conf" : 1,
+      "y" : 0.08652777773955977,
+      "x" : 0.26409775134711755,
+      "w" : 0.4191729108863902,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Q08. [2022 Exam] What discrepancy between dipstick and SSA",
+      "conf" : 1,
+      "y" : 0.8931944445294402,
+      "x" : 0.7105263225563908,
+      "w" : 0.4060150300059535,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "testing definitively suggests Bence-Jones Proteinuria (Myeloma",
+      "conf" : 1,
+      "y" : 0.8794121449197203,
+      "x" : 0.713345859468985,
+      "w" : 0.4154135226174963,
+      "h" : 0.011731265915764788
+    },
+    {
+      "text" : "Kidney)?",
+      "conf" : 1,
+      "y" : 0.8655523257404096,
+      "x" : 0.5366541346551748,
+      "w" : 0.06217256679027572,
+      "h" : 0.013490315543280729
+    },
+    {
+      "text" : "[A] Strongly positive dipstick (4+) with completely negative SSA test",
+      "conf" : 1,
+      "y" : 0.8495833331556137,
+      "x" : 0.6926691682565791,
+      "w" : 0.3740601200238137,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[B] Both dipstick and SSA are completely negative in overt myeloma",
+      "conf" : 1,
+      "y" : 0.8379166668625548,
+      "x" : 0.6954887280701753,
+      "w" : 0.3759398360975692,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Negative\/trace dipstick protein with strongly positive (3+\/4+) SSA",
+      "conf" : 1,
+      "y" : 0.8255319326699796,
+      "x" : 0.6954890448338202,
+      "w" : 0.37605874714964516,
+      "h" : 0.011863727569580096
+    },
+    {
+      "text" : "[D] Strongly positive dipstick glucose with negative Benedict test",
+      "conf" : 1,
+      "y" : 0.8131944442057449,
+      "x" : 0.6832706722509401,
+      "w" : 0.3552631567400365,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[E] Both tests show identical trace positivity with alkaline pH",
+      "conf" : 1,
+      "y" : 0.800843023104614,
+      "x" : 0.6710526368421051,
+      "w" : 0.3308270671743012,
+      "h" : 0.011686046388414195
+    },
+    {
+      "text" : "Q09. [2023 Exam] The glucose reagent pad on urine dipsticks uses",
+      "conf" : 1,
+      "y" : 0.7718023256686046,
+      "x" : 0.7227443652067669,
+      "w" : 0.4304511195716886,
+      "h" : 0.01162790722317164
+    },
+    {
+      "text" : "which enzymatic reaction, making it highly specific for D-glucose?",
+      "conf" : 1,
+      "y" : 0.7579295864598297,
+      "x" : 0.7227443565977445,
+      "w" : 0.4304511195716886,
+      "h" : 0.01030361758338072
+    },
+    {
+      "text" : "[A] Glucose Oxidase \/ Peroxidase coupled to a chromogen",
+      "conf" : 1,
+      "y" : 0.7420704135401703,
+      "x" : 0.6691729355639097,
+      "w" : 0.3233082686972053,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[B] Hexokinase coupled to glucose-6-phosphate dehydrogenase",
+      "conf" : 1,
+      "y" : 0.7304166664929136,
+      "x" : 0.685150381860902,
+      "w" : 0.3552631567400364,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Benedict's alkaline cupric tartrate reduction",
+      "conf" : 1,
+      "y" : 0.7180555556436317,
+      "x" : 0.6362781987077066,
+      "w" : 0.257518798477096,
+      "h" : 0.008888889153798374
+    },
+    {
+      "text" : "[D] Alkaline phosphatase coupled with nitroblue tetrazolium",
+      "conf" : 1,
+      "y" : 0.7056944443840913,
+      "x" : 0.6701127764724313,
+      "w" : 0.32894735110054596,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[E] Amyloglucosidase coupled with aldehyde dehydrogenase",
+      "conf" : 1,
+      "y" : 0.6926388890043746,
+      "x" : 0.6748120343045112,
+      "w" : 0.33834586565139735,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "Q10. [2021 Exam] Benedict's qualitative reagent is a non-specific",
+      "conf" : 1,
+      "y" : 0.650416666862555,
+      "x" : 0.717105267349624,
+      "w" : 0.4191729108863902,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "test for reducing sugars that can yield positive results with all",
+      "conf" : 1,
+      "y" : 0.6373611111739718,
+      "x" : 0.7067669105889727,
+      "w" : 0.40225564173705963,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "EXCEPT:",
+      "conf" : 1,
+      "y" : 0.6235465116878144,
+      "x" : 0.5375939855636195,
+      "w" : 0.06019292813595212,
+      "h" : 0.008897696601019911
+    },
+    {
+      "text" : "[A] Glucose",
+      "conf" : 1,
+      "y" : 0.6082848838481104,
+      "x" : 0.5404135335291353,
+      "w" : 0.06578947022010917,
+      "h" : 0.010174418555365827
+    },
+    {
+      "text" : "[B] Galactose (in classic galactosemia)",
+      "conf" : 1,
+      "y" : 0.5951453488692666,
+      "x" : 0.6146616519924812,
+      "w" : 0.21428570174896655,
+      "h" : 0.01029069741566968
+    },
+    {
+      "text" : "[C] Fructose (in essential fructosuria)",
+      "conf" : 1,
+      "y" : 0.583575581522529,
+      "x" : 0.6099624035949248,
+      "w" : 0.20488720913742364,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[D] Sucrose (table sugar, a non-reducing disaccharide)",
+      "conf" : 1,
+      "y" : 0.5704295866233471,
+      "x" : 0.6597744398966165,
+      "w" : 0.304511261534811,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[E] Lactose (in late pregnancy and lactation)",
+      "conf" : 1,
+      "y" : 0.5580878550787164,
+      "x" : 0.6287593988408522,
+      "w" : 0.24624058979179764,
+      "h" : 0.0117312653859456
+    },
+    {
+      "text" : "Q11. [2025 Exam] Rothera's Nitroprusside test for ketone bodies in",
+      "conf" : 1,
+      "y" : 0.5291279072095965,
+      "x" : 0.7227443662828947,
+      "w" : 0.4304511195716886,
+      "h" : 0.011744185553656639
+    },
+    {
+      "text" : "urine reacts positively with which ketone bodies?",
+      "conf" : 1,
+      "y" : 0.5159883721802325,
+      "x" : 0.6682330859210525,
+      "w" : 0.3214285745627583,
+      "h" : 0.01162790722317153
+    },
+    {
+      "text" : "[A] Beta-hydroxybutyrate exclusively",
+      "conf" : 1,
+      "y" : 0.5006944444661616,
+      "x" : 0.6080827035401004,
+      "w" : 0.20112782086852987,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[B] Acetoacetate, Acetone, and Beta-hydroxybutyrate equally",
+      "conf" : 1,
+      "y" : 0.4876388888260281,
+      "x" : 0.6757518830639097,
+      "w" : 0.336466149577642,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Acetoacetate and Acetone (forming a purple\/violet ring; negative with",
+      "conf" : 1,
+      "y" : 0.4759722223876204,
+      "x" : 0.7067669223214285,
+      "w" : 0.40225564173705974,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "beta-hydroxybutyrate)",
+      "conf" : 1,
+      "y" : 0.4629360465843023,
+      "x" : 0.5695488742481203,
+      "w" : 0.12406014196312232,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[D] Free fatty acids and cholesterol esters",
+      "conf" : 1,
+      "y" : 0.4498611113374893,
+      "x" : 0.6231203036419172,
+      "w" : 0.2312029928376056,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[E] Pyruvate and lactate only",
+      "conf" : 1,
+      "y" : 0.4381944443692624,
+      "x" : 0.5874060166353383,
+      "w" : 0.15977442924450147,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "Q12. [2020 Exam] Gerhardt's Ferric Chloride test detects",
+      "conf" : 1,
+      "y" : 0.40837209293575244,
+      "x" : 0.6907894782659773,
+      "w" : 0.3665413434860263,
+      "h" : 0.01174418555365675
+    },
+    {
+      "text" : "Acetoacetate in urine (bordeaux-red color). How is it differentiated",
+      "conf" : 1,
+      "y" : 0.39458333350708646,
+      "x" : 0.7208646573872182,
+      "w" : 0.4266917313027947,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "from salicylates?",
+      "conf" : 1,
+      "y" : 0.3808333332973288,
+      "x" : 0.5639097755639098,
+      "w" : 0.11278195521713252,
+      "h" : 0.011666666666666714
+    },
+    {
+      "text" : "[A] Salicylate color disappears after boiling; acetoacetate persists",
+      "conf" : 1,
+      "y" : 0.3655523254905524,
+      "x" : 0.6860902210526316,
+      "w" : 0.36090223914337694,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[B] Boiling bleaches acetoacetate (heat-labile); salicylate persists",
+      "conf" : 1,
+      "y" : 0.35247093030523263,
+      "x" : 0.6860902315789472,
+      "w" : 0.36090223914337716,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[C] Adding sodium hydroxide immediately bleaches salicylate color only",
+      "conf" : 1,
+      "y" : 0.3408430233284884,
+      "x" : 0.7039473723872178,
+      "w" : 0.3966165373944105,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[D] Salicylates produce a bright yellow color while acetoacetate is blue",
+      "conf" : 1,
+      "y" : 0.32848837228682165,
+      "x" : 0.7001879750939848,
+      "w" : 0.3890977169780059,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "[E] Acetoacetate requires 24h incubation; salicylates are immediate",
+      "conf" : 1,
+      "y" : 0.31613372098473835,
+      "x" : 0.6926691776080826,
+      "w" : 0.37406012002381384,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "Q13. [Faculty Exam] Hay's Sulfur Test is clinically used to detect",
+      "conf" : 1,
+      "y" : 0.2870833331556138,
+      "x" : 0.7161654083176693,
+      "w" : 0.4172932386912518,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "which abnormal constituent in human urine?",
+      "conf" : 1,
+      "y" : 0.27402777767565645,
+      "x" : 0.6531954887850013,
+      "w" : 0.2913533806543741,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[A] Bilirubin (bile pigment)",
+      "conf" : 1,
+      "y" : 0.2579295864598296,
+      "x" : 0.5780075163847118,
+      "w" : 0.14473683229030931,
+      "h" : 0.01030361758338072
+    },
+    {
+      "text" : "[C] Bence-Jones protein",
+      "conf" : 1,
+      "y" : 0.2332848838481104,
+      "x" : 0.5742481187734962,
+      "w" : 0.1372180447828676,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[D] Bile Salts (bile salts lower urine surface tension, causing sulfur powder to",
+      "conf" : 1,
+      "y" : 0.2201453488147609,
+      "x" : 0.7180451157424811,
+      "w" : 0.42105262696014556,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "[E] Hemoglobin",
+      "conf" : 1,
+      "y" : 0.19542958650827913,
+      "x" : 0.5488721789473685,
+      "w" : 0.09022555978584423,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "Q14. [Core Exam] Fouchet's Test is a classical qualitative",
+      "conf" : 1,
+      "y" : 0.16569767422480608,
+      "x" : 0.6926691680764412,
+      "w" : 0.37030073175492006,
+      "h" : 0.011627906163533597
+    },
+    {
+      "text" : "laboratory method specifically utilized to detect:",
+      "conf" : 1,
+      "y" : 0.15182170540045997,
+      "x" : 0.663533839849624,
+      "w" : 0.3157894702201093,
+      "h" : 0.01031007766723635
+    },
+    {
+      "text" : "[A] Glucose in diabetic ketoacidosis",
+      "conf" : 1,
+      "y" : 0.13736111088640085,
+      "x" : 0.606203008489975,
+      "w" : 0.19736841066032762,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[B] Bile Salts in obstructive cholestasis",
+      "conf" : 1,
+      "y" : 0.1250000000484497,
+      "x" : 0.6146616577067667,
+      "w" : 0.21428570174896655,
+      "h" : 0.008888888888888946
+    },
+    {
+      "text" : "[C] Bilirubin in urine (trichloroacetic acid + ferric chloride oxidizes bilirubin to",
+      "conf" : 1,
+      "y" : 0.11263888879695844,
+      "x" : 0.7152255680639098,
+      "w" : 0.4154135226174964,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "green biliverdin)",
+      "conf" : 1,
+      "y" : 0.09958333328279395,
+      "x" : 0.552631579849624,
+      "w" : 0.09022555978584423,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[D] Phenylpyruvate in phenylketonuria",
+      "conf" : 1,
+      "y" : 0.08580426359387777,
+      "x" : 0.6118421040413534,
+      "w" : 0.21240600761451978,
+      "h" : 0.011724805831909157
+    },
+    {
+      "text" : "[E] Bence-Jones protein in multiple myeloma",
+      "conf" : 1,
+      "y" : 0.0748611113193206,
+      "x" : 0.6296992523182956,
+      "w" : 0.2518796941344469,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Twisted Medicine • Clinical Biochemistry & Urine Chemistry Master Class • Faculty & Board Exa Preparation",
+      "conf" : 1,
+      "y" : 0.013808139801356478,
+      "x" : 0.3148496284774435,
+      "w" : 0.5131578808804368,
+      "h" : 0.015988371107313326
+    },
+    {
+      "text" : "Confidential - Dedicated for Medical Student Revision",
+      "conf" : 1,
+      "y" : 0.017428940466197196,
+      "x" : 0.8214285744360901,
+      "w" : 0.24060150738845698,
+      "h" : 0.00874676995807222
+    }
+  ],
+  "page" : 119
+}

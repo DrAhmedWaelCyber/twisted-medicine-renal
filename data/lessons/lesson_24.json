@@ -1,0 +1,871 @@
+{
+  "id": 24,
+  "title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+  "department": "Pathology",
+  "department_desc": "Glomerulonephritis, nephrotic syndrome, ATN, CKD, pyelonephritis and urological tumors",
+  "booklet_pages": "Pages 93 - 96",
+  "pdf_pages": [
+    95,
+    96,
+    97,
+    98
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 25 - HIGH-YIELD UROLITHIASIS & OBSTRUCTIVE UROPATHY MATRIX",
+  "summary_table": [
+    {
+      "domain": "(~10-15% of all stones)",
+      "content": "Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:"
+    },
+    {
+      "domain": "'Infection Calculus'",
+      "content": "Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication."
+    },
+    {
+      "domain": "calculus.",
+      "content": "Persistently acidic urine (pH < 5.5), Gout"
+    },
+    {
+      "domain": "Uric Acid Calculi",
+      "content": "Hard, yellow-brown, smooth or faceted. Micro: Radiolucent (invisible on plain KUB; visible on"
+    },
+    {
+      "domain": "(~5-8% of all stones)",
+      "content": "Rhomboid plates or needles with negative (hyperuricosuria), Tumor Lysis Syndrome CT/US). Treatment: Urinary Alkalinization (Potassium Citrate/NaHC03 to pH 6.5-7), birefringence. Soluble in alkaline solution."
+    },
+    {
+      "domain": "Acid urine stones",
+      "content": "(chemotherapy/leukemia), Lesch-Nyhan syndrome, Allopurinol. severe diarrhea."
+    },
+    {
+      "domain": "Cystine Calculi",
+      "content": "Yellow, waxy, soft/translucent pebbles. Micro: Autosomal recessive Cystinuria (defective proximal Faintly Radio-Opaque (ground-glass due to sulfur)."
+    },
+    {
+      "domain": "(~1-2% of all stones)",
+      "content": "tubular reabsorption of dibasic amino acids: COLA Pathognomonic Hexagonal (6-sided) flat plates Treatment: High hydration (>3-4 L/d), intensive alkalinization (pH > 7.5), Penicillamine / Tiopronin."
+    },
+    {
+      "domain": "Inborn error",
+      "content": "= Cystine, Ornithine, Lysine, Arginine). like benzene rings. Cyanide-nitroprusside (+). Dilation of renal pelvis and calyces with Unilateral: Ureteral stone (UPJ/UVJ), aberrant renal Complications: Pyonephrosis (suppurative"
+    },
+    {
+      "domain": "Hydronephrosis & Uropathy",
+      "content": "artery, UPJ stenosis, tumor. pus-filled sac), acute/chronic pyelonephritis,"
+    },
+    {
+      "domain": "Aseptic dilatation & atrophy",
+      "content": "progressive parenchymal compression atrophy, postrenal CRF, Post-obstructive diuresis upon Bilateral: BPH, posterior urethral valves, cervical cortical thinning, and ultimate conversion to thin"
+    },
+    {
+      "domain": "fluid sac.",
+      "content": "relief. cancer, neurogenic."
+    },
+    {
+      "domain": "Renal Colic & Constrictions",
+      "content": "Pathogenesis: Acute rise in intraluminal pressure Diagnosis: Non-Contrast CT (NCCT) is gold Agonizing crescendo-decrescendo spasmodic"
+    },
+    {
+      "domain": "Acute presentation",
+      "content": "standard. Treatment: NSAID analgesia, hydration, flank pain radiating along T10-L2 dermatomes triggering smooth muscle spasm and capsular stretch. Impaction at 3 constrictions: UPJ, Pelvic alpha-blocker (Tamsulosin) for expulsive therapy to ipsilateral groin/scrotum with hematuria and (<5 mm). Brim, UVJ (3 mm)."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the single most common chemical composition of renal calculi, accounting for approximately 70% to 80% of all urinary stones?",
+      "options": {
+        "A": "Pure uric acid stones",
+        "B": "Calcium Oxalate and Calcium Phosphate stones",
+        "C": "Magnesium ammonium phosphate (struvite) stones",
+        "D": "Pure cystine stones",
+        "E": "Xanthine and dihydroxyadenine stones"
+      },
+      "correct_option": "B",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the primary driving physical process required for the initiation and nucleation of urinary stone formation?",
+      "options": {
+        "A": "Urinary Supersaturation exceeding the solubility product of the crystalloid salt",
+        "B": "Excessive secretion of Tamm-Horsfall mucoprotein by podocytes",
+        "C": "Complete systemic absence of alkaline phosphatase enzyme",
+        "D": "Transcellular fluid secretion by papillary urothelium",
+        "E": "Retrograde lymphatic flow from the bladder into renal parenchyma"
+      },
+      "correct_option": "A",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which endogenous urinary constituent acts as the most potent physiological inhibitor of Calcium Oxalate crystal nucleation and growth?",
+      "options": {
+        "A": "Uric acid",
+        "B": "Citrate (which chelates ionized calcium into a soluble complex)",
+        "C": "Ammonium ions",
+        "D": "Bicarbonate ions",
+        "E": "Inorganic sulfate"
+      },
+      "correct_option": "B",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the single most common metabolic abnormality identified in patients with recurrent Calcium Oxalate nephrolithiasis?",
+      "options": {
+        "A": "Primary hyperparathyroidism",
+        "B": "Type 1 distal renal tubular acidosis",
+        "C": "Systemic sarcoidosis with hypervitaminosis D",
+        "D": "Idiopathic Hypercalciuria with normal serum calcium (eucalcemia)",
+        "E": "Familial hypocalciuric hypercalcemia"
+      },
+      "correct_option": "D",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why do patients with Crohn disease or extensive small bowel resection frequently develop Enteric Hyperoxaluria and calcium oxalate stones?",
+      "options": {
+        "A": "Small bowel resection directly synthesizes oxalate de novo",
+        "B": "Colonic bacteria convert all dietary glucose into oxalic acid",
+        "C": "Intestinal mucosa hypersecretes vitamin C into mesenteric veins",
+        "D": "Bile salts crystallize directly inside renal tubules",
+        "E": "Unabsorbed fatty acids bind luminal calcium, leaving free oxalate to be hyperabsorbed by the colon"
+      },
+      "correct_option": "E",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the microscopic appearance of Calcium Oxalate Dihydrate crystals classically observed in urinary sediment?",
+      "options": {
+        "A": "Coffin-lid shaped rectangular prisms",
+        "B": "Hexagonal benzene-ring shaped crystals",
+        "C": "Bipyramidal 'Envelope' shaped crystals (octahedral)",
+        "D": "Diamond or rhomboid shaped radiolucent plates",
+        "E": "Fine needle-shaped crystals with negative birefringence"
+      },
+      "correct_option": "C",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the initial histological subepithelial nidus for calcium oxalate stone formation on renal papillary surfaces termed?",
+      "options": {
+        "A": "Kimmelstiel-Wilson nodule",
+        "B": "Mallory-Denk hyaline body",
+        "C": "Aschoff body",
+        "D": "Councilman body",
+        "E": "Randall's Plaque (subepithelial interstitial calcium phosphate deposit)"
+      },
+      "correct_option": "E",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What radiological feature distinguishes Calcium Oxalate and Calcium Phosphate calculi on plain abdominal KUB radiographs?",
+      "options": {
+        "A": "They are completely Radiolucent and invisible on plain X-rays",
+        "B": "They appear as bright gaseous lucencies",
+        "C": "They are dense Radio-Opaque shadows with sharp margins",
+        "D": "They display intense acoustic shadowing without X-ray attenuation",
+        "E": "They only enhance after intravenous gadolinium"
+      },
+      "correct_option": "C",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Why does Type 1 Distal RTA predispose to bilateral Nephrocalcinosis and Calcium Phosphate stones?",
+      "options": {
+        "A": "Defective H+ secretion causes alkaline urine (pH > 5.5) and hypocitraturia",
+        "B": "Proximal tubules fail to reabsorb filtered glucose and amino acids",
+        "C": "Collecting ducts hypersecrete uric acid into renal papillae",
+        "D": "Aldosterone resistance causes severe hyperkalemia and crystallization",
+        "E": "Loop of Henle is completely destroyed by autoantibodies"
+      },
+      "correct_option": "A",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which dietary modification is paradoxically CONTRAINDICATED in patients with idiopathic calcium oxalate stones because it increases stone recurrence?",
+      "options": {
+        "A": "Increasing daily oral fluid intake to >2.5-3.0 L/day",
+        "B": "Reducing dietary sodium intake",
+        "C": "Reducing excessive animal protein consumption",
+        "D": "Severe dietary Calcium restriction (which enhances intestinal oxalate absorption)",
+        "E": "Avoiding high-oxalate foods like spinach, nuts, and chocolate"
+      },
+      "correct_option": "D",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which diuretic class is specifically indicated as first-line pharmacological therapy to prevent recurrent calcium nephrolithiasis?",
+      "options": {
+        "A": "Loop Diuretics (Furosemide)",
+        "B": "Carbonic Anhydrase Inhibitors (Acetazolamide)",
+        "C": "Thiazide Diuretics (e.g., Hydrochlorothiazide, Chlorthalidone)",
+        "D": "Osmotic Diuretics (Mannitol)",
+        "E": "Potassium-Sparing Aldosterone Antagonists"
+      },
+      "correct_option": "C",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "How do Thiazide diuretics decrease urinary calcium excretion (causing hypocalciuria) to prevent stone formation?",
+      "options": {
+        "A": "By chemically precipitating calcium inside proximal tubular cells",
+        "B": "By inhibiting NCC in DCT, which enhances basolateral Na+/Ca2+ exchange and proximal Ca2+ reabsorption",
+        "C": "By destroying parathyroid hormone receptors in bone",
+        "D": "By converting calcium into insoluble calcium sulfate",
+        "E": "By blocking intestinal vitamin D absorption directly"
+      },
+      "correct_option": "B",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "How does Vitamin A deficiency pathologically predispose to urinary calculus formation?",
+      "options": {
+        "A": "It directly increases intestinal calcium absorption",
+        "B": "It stimulates hypersecretion of parathyroid hormone",
+        "C": "It inhibits hepatic purine degradation",
+        "D": "It causes squamous metaplasia and desquamation of urinary tract epithelium, providing a nidus for stone crystallization",
+        "E": "It blocks renal ammonia synthesis"
+      },
+      "correct_option": "D",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which of the following conditions does NOT predispose to urolithiasis?",
+      "options": {
+        "A": "Primary hyperparathyroidism",
+        "B": "Chronic urinary tract obstruction",
+        "C": "Hydrocele of the tunica vaginalis testis",
+        "D": "Enteric hyperoxaluria",
+        "E": "Gout with hyperuricosuria"
+      },
+      "correct_option": "C",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Urinary Stones & Obstructive Uropathy - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which bacterial enzyme is essential for the pathogenesis and rapid growth of Struvite renal calculi?",
+      "options": {
+        "A": "Bacterial gelatinase",
+        "B": "Coagulase enzyme",
+        "C": "Urease (splitting urea into ammonia and CO2, raising urine pH > 7.2)",
+        "D": "Streptokinase",
+        "E": "Hyaluronidase"
+      },
+      "correct_option": "C",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which microorganism is most frequently isolated from patients with large infected Struvite staghorn calculi?",
+      "options": {
+        "A": "Escherichia coli (which lacks urease enzyme)",
+        "B": "Candida albicans [C, Streptococcus pyogenes",
+        "D": "Enterobius vermicularis",
+        "E": "Proteus mirabilis (and Proteus vulgaris)"
+      },
+      "correct_option": "E",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the characteristic gross morphological architecture formed by Struvite infection stones occupying the renal pelvis and calyces?",
+      "options": {
+        "A": "Jackstone calculi with sharp outward spikes",
+        "B": "Multiple small, smooth, faceted yellow pebbles",
+        "C": "Concentric laminated mulberry-shaped stones",
+        "D": "Soft, gelatinous fibrinous casts resembling blood clots",
+        "E": "Large branching 'Staghorn' (Dendritic) calculus casting the entire pelvicalyceal system"
+      },
+      "correct_option": "E",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the classic microscopic appearance of Struvite crystals examined in alkaline urine sediment?",
+      "options": {
+        "A": "Bipyramidal envelope-shaped crystals",
+        "B": "Hexagonal benzene-ring shaped plates",
+        "C": "Rhomboid radiolucent yellow plates",
+        "D": "Rectangular prisms resembling 'Coffin-Lids' (triple phosphate)",
+        "E": "Needle-like crystals with strong positive birefringence"
+      },
+      "correct_option": "D",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Why do Uric Acid calculi form almost exclusively in persistently acidic urine (pH < 5.5)?",
+      "options": {
+        "A": "Acidic pH converts uric acid into soluble sodium urate",
+        "B": "At urine pH < 5.35 (pKa of uric acid), insoluble un-ionized uric acid predominates and precipitates",
+        "C": "Uric acid is destroyed by gastric hydrochloric acid in urine",
+        "D": "Acidic urine activates bacterial urease to form uric acid",
+        "E": "Alkaline urine inhibits uric acid excretion completely"
+      },
+      "correct_option": "B",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the defining radiological hallmark of pure Uric Acid stones on plain abdominal KUB radiography?",
+      "options": {
+        "A": "Densely radio-opaque with peripheral calcific rim",
+        "B": "Ring shadow sign with double-contour edges",
+        "C": "Completely Radiolucent (invisible on plain KUB, but visible on non-contrast CT and ultrasound)",
+        "D": "Multiple radiopaque central laminated rings",
+        "E": "Extensive gas shadows filling the calyces"
+      },
+      "correct_option": "C",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Urinary Stones & Obstructive Uropathy - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Cystinuria is an autosomal recessive inborn error of metabolism caused by defective proximal tubular reabsorption of which group of amino acids?",
+      "options": {
+        "A": "Aromatic amino acids (Phenylalanine, Tyrosine, Tryptophan)",
+        "B": "Branched-chain amino acids (Leucine, Isoleucine, Valine)",
+        "C": "Acidic amino acids (Aspartate, Glutamate)",
+        "D": "Dibasic amino acids represented by 'COLA' (Cystine, Ornithine, Lysine, Arginine)",
+        "E": "Neutral amino acids mediated by B0AT1"
+      },
+      "correct_option": "D",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the pathognomonic microscopic appearance of Cystine crystals observed in urine sediment?",
+      "options": {
+        "A": "Coffin-lid rectangular prisms",
+        "B": "Octahedral bipyramidal envelopes",
+        "C": "Needle-shaped birefringent spears",
+        "D": "Amorphous phosphate granular aggregates",
+        "E": "Perfect Hexagonal (six-sided) flat plates resembling benzene rings"
+      },
+      "correct_option": "E",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Which qualitative screening test detects urinary cystine by turning a characteristic cherry-red/purple color?",
+      "options": {
+        "A": "Heat and acetic acid test",
+        "B": "Ehrlich's aldehyde reagent test",
+        "C": "Sulfosalicylic acid turbidity test",
+        "D": "Sodium Cyanide-Nitroprusside Test (Brand's test)",
+        "E": "Rothera's nitroprusside ring test for ketones"
+      },
+      "correct_option": "D",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the radiological appearance of Cystine calculi on non-contrast abdominal radiographs?",
+      "options": {
+        "A": "Completely radiolucent indistinguishable from uric acid",
+        "B": "Extremely dense radio-opaque matching cortical bone",
+        "C": "Faintly Radio-Opaque (ground-glass appearance due to sulfur content)",
+        "D": "Completely invisible on non-contrast CT scans",
+        "E": "Surrounded by a thick rim of radiolucent air"
+      },
+      "correct_option": "C",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the ranking order of urinary calculi by overall radiological density (from most radio-opaque to radiolucent)?",
+      "options": {
+        "A": "Uric acid > Cystine > Struvite > Calcium phosphate",
+        "B": "Calcium phosphate > Calcium oxalate > Struvite > Cystine (faint) > Uric acid (radiolucent)",
+        "C": "Struvite > Calcium oxalate > Uric acid > Cystine",
+        "D": "Cystine > Uric acid > Calcium phosphate > Struvite",
+        "E": "Uric acid > Calcium oxalate > Struvite > Calcium phosphate"
+      },
+      "correct_option": "B",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which rare urinary calculus is associated with Lesch-Nyhan syndrome or severe allopurinol therapy in tumor lysis?",
+      "options": {
+        "A": "Calcium carbonate calculus",
+        "B": "Bilirubin stone",
+        "C": "Magnesium phosphate stone",
+        "D": "Cholesterol calculus",
+        "E": "Xanthine stone (due to xanthine oxidase deficiency/inhibition)"
+      },
+      "correct_option": "E",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Urinary Stones & Obstructive Uropathy - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2024 Exam Which of the three ureteral constriction sites has the narrowest lumen (~3 mm) and is the most common site of stone impaction?",
+      "options": {
+        "A": "Ureteropelvic junction (UPJ)",
+        "B": "Pelvic brim crossing common iliac bifurcation",
+        "C": "Mid-abdominal spindle of the ureter",
+        "D": "Ureterovesical Junction (UVJ / Intramural ureter)",
+        "E": "Upper ureteral third adjacent to psoas major"
+      },
+      "correct_option": "D",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the pathophysiological definition of Hydronephrosis?",
+      "options": {
+        "A": "Aseptic Dilation of the renal pelvis and calyces associated with progressive atrophy of renal parenchyma due to urinary outflow obstruction",
+        "B": "Acute bacterial infection of renal pyramids with microabscesses",
+        "C": "Ectopic cystic transformation of the ureteric bud in utero",
+        "D": "Primary hyperplasia of pelvic transitional urothelium",
+        "E": "Retrograde reflux of pus without any pelvicalyceal enlargement"
+      },
+      "correct_option": "A",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which of the following etiologies characteristically causes UNILATERAL rather than bilateral hydronephrosis?",
+      "options": {
+        "A": "Impacted calculus at the right Ureteropelvic Junction (UPJ)",
+        "B": "Benign Prostatic Hyperplasia (BPH) obstructing bladder outlet",
+        "C": "Advanced Cervical Carcinoma invading bladder floor and bilateral ureters",
+        "D": "Posterior Urethral Valves in male infants",
+        "E": "Neurogenic bladder with urinary retention"
+      },
+      "correct_option": "A",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which congenital vascular anomaly is a well-known extrinsic cause of unilateral ureteropelvic junction obstruction and hydronephrosis?",
+      "options": {
+        "A": "Persistent left superior vena cava",
+        "B": "Nutcracker compression of left renal vein [C Patent ductus arteriosus",
+        "D": "Aberrant (Accessory) Lower-Pole Renal Artery crossing and compressing the UPJ",
+        "E": "Celiac trunk stenosis"
+      },
+      "correct_option": "D",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the typical gross pathological appearance of a kidney subjected to severe, long-standing, complete hydronephrosis?",
+      "options": {
+        "A": "Massive cystic expansion of pelvis and calyces into a thin-walled, fluid-filled multilocular sac with papery thin renal cortex",
+        "B": "Bilaterally shrunken, finely granular kidneys weighing 40 grams each",
+        "C": "Flea-bitten kidney with diffuse petechial hemorrhages",
+        "D": "Golden-yellow variegated cortical tumor with venous thrombus",
+        "E": "Solid pale-tan kidney filled with amyloid deposits"
+      },
+      "correct_option": "A",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the microscopic sequence of parenchymal damage in progressive hydronephrosis due to retrograde back-pressure?",
+      "options": {
+        "A": "Medullary tubular dilation, flattening of tubular epithelium, ischemic interstitial fibrosis, and gradual glomerular hyalinization",
+        "B": "Glomerular crescents form first, followed by podocyte detachment",
+        "C": "Amyloid deposition along the tubular basement membranes",
+        "D": "Acute neutrophilic infiltration with widespread liquefactive necrosis",
+        "E": "Extensive squamous cell metaplasia of all nephron segments"
+      },
+      "correct_option": "A",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Urinary Stones & Obstructive Uropathy - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What dermatomal distribution explains the radiating agonizing spasmodic pain of acute Renal Colic caused by an obstructing ureteral calculus?",
+      "options": {
+        "A": "C3-C5 phrenic nerve dermatomes radiating to the shoulder",
+        "B": "T10-L2 dermatomes radiating from flank to groin or scrotum",
+        "C": "S2-S4 pudendal dermatomes restricted to perianal area",
+        "D": "T4-T6 intercostal dermatomes encircling the sternum",
+        "E": "L4-S1 sciatic nerve dermatomes radiating down the posterior calf"
+      },
+      "correct_option": "B",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the primary hemodynamic mechanism responsible for the severe pain of acute ureteral obstruction?",
+      "options": {
+        "A": "Complete cessation of renal arterial blood flow",
+        "B": "Acute rise in intraluminal pressure triggering ureteral smooth muscle spasm, capsular stretch, and local PGE2 synthesis",
+        "C": "Direct bacterial endotoxin release into renal veins",
+        "D": "Spontaneous rupture of the renal pelvis into the peritoneal cavity",
+        "E": "Compression of the celiac plexus by perinephric fat"
+      },
+      "correct_option": "B",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Why does relief of long-standing bilateral complete urinary tract obstruction characteristically trigger Post-Obstructive Diuresis?",
+      "options": {
+        "A": "Complete loss of cardiac baroreceptor reflexes",
+        "B": "Excretion of accumulated retained urea and solutes acting as osmotic agents, combined with temporary loss of medullary concentrating gradient",
+        "C": "Acute hypersecretion of aldosterone from the adrenal cortex",
+        "D": "Sudden bilateral rupture of collecting ducts into renal veins",
+        "E": "Severe systemic hypokalemia stimulating antidiuretic hormone release"
+      },
+      "correct_option": "B",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Which imaging modality is currently the gold-standard diagnostic investigation for evaluating acute suspected urolithiasis in non-pregnant adults?",
+      "options": {
+        "A": "Non-Contrast Helical Computed Tomography (NCCT) of abdomen and pelvis",
+        "B": "Plain abdominal radiograph (KUB) alone",
+        "C": "Intravenous Urography (IVU) with barium swallow",
+        "D": "Radionuclide renal scan with MAG3",
+        "E": "Magnetic Resonance Angiography (MRA) of renal vessels"
+      },
+      "correct_option": "A",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A 45-year-old male has severe left loin-to-groin colic. CT shows a 4-mm stone at left UVJ. Urine shows envelope crystals. Diagnosis and management:",
+      "options": {
+        "A": "Calcium Oxalate stone; medical expulsive therapy (alpha-blocker & hydration)",
+        "B": "Struvite stone; immediate open nephrectomy",
+        "C": "Uric acid stone; emergency systemic alkalinization and dialysis",
+        "D": "Cystine stone; penicillamine therapy and bilateral stents",
+        "E": "Xanthine stone; surgical ureterolithotomy"
+      },
+      "correct_option": "A",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 48-year-old female with recurrent UTIs has right flank pain. Urine pH is 8.2 with coffin-lid crystals. KUB shows a branched staghorn calculus. Culture grows Proteus. Diagnosis:",
+      "options": {
+        "A": "Calcium oxalate calculus secondary to primary hyperparathyroidism",
+        "B": "Pure radiolucent uric acid calculus secondary to gout",
+        "C": "Renal Cell Carcinoma with dystrophic calcification",
+        "D": "Congenital polycystic kidney disease with cyst hemorrhage",
+        "E": "Infected Struvite Staghorn Calculus (Magnesium Ammonium Phosphate)"
+      },
+      "correct_option": "E",
+      "explanation": "**(~10-15% of all stones)**: Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:\n\n**'Infection Calculus'**: Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication.",
+      "masterclass_id": 24,
+      "masterclass_title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology"
+    }
+  ]
+}

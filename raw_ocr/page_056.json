@@ -1,0 +1,949 @@
+{
+  "page" : 56,
+  "items" : [
+    {
+      "h" : 0.013178294499715193,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 14 MCQ Masterclass",
+      "x" : 0.2870370455075443,
+      "y" : 0.9774224804225952,
+      "w" : 0.5082304372727495,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "Twisted Medicine Medical Series • Renal Handling of Na+, K+, Ca2+, Pi, Mg2+, Urea & Glucose • Standard Practice Bank",
+      "x" : 0.35185185823045256,
+      "y" : 0.965116279127907,
+      "w" : 0.6378600882284297,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01091313150193951,
+      "text" : "Page 2 of 4",
+      "x" : 0.9351851860318658,
+      "y" : 0.9760174419605463,
+      "w" : 0.0681153483360819,
+      "conf" : 1
+    },
+    {
+      "h" : 0.013662638134426586,
+      "text" : "Q15. [2025 Exam] Regarding Potassium (K+) handling by the nephron,",
+      "x" : 0.258246555309958,
+      "y" : 0.9283041870783519,
+      "w" : 0.45080220924233494,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "what percentage of the filtered load is reabsorbed by the Proximal",
+      "x" : 0.2458847808299037,
+      "y" : 0.9149709303052325,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011698966026306157,
+      "text" : "Tubule and TAL combined, regardless of dietary K+ intake?",
+      "x" : 0.22427984017489697,
+      "y" : 0.9011272608752998,
+      "w" : 0.38271602894525103,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "text" : "[A] Less than 10%",
+      "x" : 0.09156378803155002,
+      "y" : 0.8859625323839015,
+      "w" : 0.12139917769522038,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[B] Approximately 85% to 90% (PCT ~67%, TAL ~20%)",
+      "x" : 0.18930041680384072,
+      "y" : 0.8728197675145348,
+      "w" : 0.31687241080422074,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[C] Exactly 50%",
+      "x" : 0.0823045284636488,
+      "y" : 0.8597383721656977,
+      "w" : 0.10288065784382372,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[D] 100% in all nephrons without exception",
+      "x" : 0.15637860396090528,
+      "y" : 0.8466569767986918,
+      "w" : 0.25102879266319034,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[E] 0% (potassium handling begins only in the collecting duct)",
+      "x" : 0.21090534529321,
+      "y" : 0.833575581340843,
+      "w" : 0.36008230245338296,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "Q22. [2023 Exam] In the Proximal Tubule, approximately 65% of filtered",
+      "x" : 0.7376543152520577,
+      "y" : 0.9280523255268895,
+      "w" : 0.4588477176690251,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "Calcium (Ca2+) is reabsorbed predominantly through which route?",
+      "x" : 0.722222216872428,
+      "y" : 0.9149709301780523,
+      "w" : 0.4279835059207939,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[A] Transcellular primary active transport via PMCA pumps",
+      "x" : 0.682098771296296,
+      "y" : 0.8990277777395599,
+      "w" : 0.35185184118882673,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "text" : "[B] Apical endocytosis mediated by megalin receptors",
+      "x" : 0.6656378632716049,
+      "y" : 0.8859625323354519,
+      "w" : 0.3189300441142149,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011711885664198007,
+      "text" : "[C] Passive Paracellular diffusion coupled to water and sodium reabsorption",
+      "x" : 0.7283950594650207,
+      "y" : 0.8735885015720377,
+      "w" : 0.4444444284499067,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[D] Reverse exchange for intracellular glucose molecules",
+      "x" : 0.672839510339506,
+      "y" : 0.8597383721475291,
+      "w" : 0.33333333333333337,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[E] Pinocytosis inside clathrin-coated vesicles",
+      "x" : 0.6409465054269547,
+      "y" : 0.8466569767986918,
+      "w" : 0.26954732451049035,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "text" : "Q16. [2024 Exam] Under normal and high-potassium diets, daily urinary Q23. [2021 Exam] The active, regulated transcellular reabsorption of",
+      "x" : 0.4907407315843624,
+      "y" : 0.8015374676645481,
+      "w" : 0.9156378020280563,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "potassium excretion is determined primarily by regulated potassium",
+      "x" : 0.2530864252572015,
+      "y" : 0.7884722223876204,
+      "w" : 0.44032920981353185,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "Calcium occurs in the Distal Convoluted Tubule (~8-10% of filtered",
+      "x" : 0.7232510234310701,
+      "y" : 0.7884722222786088,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "secretion in which cells?",
+      "x" : 0.11728395342935517,
+      "y" : 0.7754166669110044,
+      "w" : 0.16872427598485404,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "load) and is stimulated by:",
+      "x" : 0.5925925904320989,
+      "y" : 0.7754166667353746,
+      "w" : 0.1728395066171322,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011757105721367678,
+      "text" : "[A] Type A intercalated cells of the outer medullary collecting duct",
+      "x" : 0.2242798418381342,
+      "y" : 0.7586563305020907,
+      "w" : 0.38683127157343256,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011757105721367789,
+      "text" : "[A] Calcitonin stimulating proximal NHE3 exchangers",
+      "x" : 0.6646090587791493,
+      "y" : 0.7586563305505403,
+      "w" : 0.3168724108042208,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[B] Podocytes in the visceral layer of Bowman's capsule",
+      "x" : 0.19650206313443053,
+      "y" : 0.7448611111591428,
+      "w" : 0.3312757000233392,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[B] High dietary phosphate directly opening collecting duct pores",
+      "x" : 0.696502062371399,
+      "y" : 0.7448611111773114,
+      "w" : 0.3806584196270637,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011705425580342599,
+      "text" : "[C] Principal Cells of the Late DCT and Cortical Collecting Duct",
+      "x" : 0.21296296793552794,
+      "y" : 0.7325193796326808,
+      "w" : 0.3641975210897578,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[C] Aldosterone stimulating basolateral chloride channels",
+      "x" : 0.6779835448216733,
+      "y" : 0.7318055556643582,
+      "w" : 0.34362137992427033,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[D] Simple squamous cells of the thin descending Henle limb",
+      "x" : 0.20884773942901233,
+      "y" : 0.7187499998728197,
+      "w" : 0.3559670598252015,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[D] Parathyroid Hormone (PTH) and Calcitriol (1,25-(OH)2D3) stimulating apical",
+      "x" : 0.7366255201646089,
+      "y" : 0.718750000090843,
+      "w" : 0.4609053509790193,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[E] Mesangial cells within the glomerular stalk",
+      "x" : 0.16563785785322366,
+      "y" : 0.7056944442871922,
+      "w" : 0.27366254314686517,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[E] Antidiuretic hormone opening paracellular claudin pores",
+      "x" : 0.6831275779149519,
+      "y" : 0.6940277775793819,
+      "w" : 0.35390945050701406,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011673126220703045,
+      "text" : "Q17. [2023 Exam] What are the two apical potassium channels through Q24. [2025 Exam] Why do Thiazide diuretics cause Hypocalciuria",
+      "x" : 0.48045268608539077,
+      "y" : 0.674441214752422,
+      "w" : 0.8950616608625688,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01031007766723635,
+      "text" : "which Principal Cells secrete K+ into the tubular lumen?",
+      "x" : 0.21296296067386836,
+      "y" : 0.6606782945450342,
+      "w" : 0.36008230245338296,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01031007766723635,
+      "text" : "(reduced urinary calcium excretion), whereas Loop diuretics cause",
+      "x" : 0.7211934102623457,
+      "y" : 0.6606782946177086,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[A] SGLT1 and SGLT2 cotransporters",
+      "x" : 0.14197531227709176,
+      "y" : 0.6445833331226162,
+      "w" : 0.2181069955885785,
+      "conf" : 0.5
+    },
+    {
+      "h" : 0.011627906163533597,
+      "text" : "Hypercalciuria?",
+      "x" : 0.5586419735596708,
+      "y" : 0.6468023255813954,
+      "w" : 0.10493826716201116,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[B] ENaC and NHE3 exchangers",
+      "x" : 0.1296296329218106,
+      "y" : 0.6315277776278315,
+      "w" : 0.1975308544230911,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[A] Thiazides directly bind and precipitate all urinary calcium in ureters",
+      "x" : 0.7119341632373113,
+      "y" : 0.6315277775793819,
+      "w" : 0.41152263137529477,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[C] Aquaporin-1 and Aquaporin-2 pores",
+      "x" : 0.14609053209876555,
+      "y" : 0.6184722224387866,
+      "w" : 0.23045267548950968,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[B] Loop diuretics stimulate parathyroid hormone release ten-fold",
+      "x" : 0.6985596771947871,
+      "y" : 0.6184722220845974,
+      "w" : 0.38477363826343847,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[D] Claudin-16 and Claudin-19 tight junctions",
+      "x" : 0.16358025126886128,
+      "y" : 0.6054166664929136,
+      "w" : 0.26131686324593406,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[C] Thiazides convert calcium into magnesium inside tubular cells",
+      "x" : 0.7006172904320984,
+      "y" : 0.6054166664929136,
+      "w" : 0.3888888808916199,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01029069794548887,
+      "text" : "[E] ROMK (Kir1.1) and high-conductance 'Big K' (BK \/ maxi-K) channels",
+      "x" : 0.2355967009259262,
+      "y" : 0.5923546512502942,
+      "w" : 0.4135802167016755,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010290697415669792,
+      "text" : "[D] Loop diuretics block vitamin D synthesis in the skin",
+      "x" : 0.6666666706790123,
+      "y" : 0.5923546511489021,
+      "w" : 0.3209876534324022,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[E] Thiazides inhibit NCC in DCT, lowering intracellular Nat and stimulating",
+      "x" : 0.7242798397530864,
+      "y" : 0.5792151163226744,
+      "w" : 0.436213991177157,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "basolateral 3Na+\/Ca2+ exchange and apical TRPV5 Ca2+ uptake",
+      "x" : 0.699588483813443,
+      "y" : 0.5676388889862061,
+      "w" : 0.38683127157343267,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "Q18. [2022 Exam] How does Aldosterone enhance potassium secretion",
+      "x" : 0.2613168667181072,
+      "y" : 0.5472383720385174,
+      "w" : 0.4567901323426445,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011744185553656639,
+      "text" : "by Principal Cells in the cortical collecting duct?",
+      "x" : 0.18827160030864212,
+      "y" : 0.5333720926692795,
+      "w" : 0.31069958284965854,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011705426110161676,
+      "text" : "[A] Blocking the basolateral exit of sodium completely",
+      "x" : 0.19032921519204402,
+      "y" : 0.5174806202446319,
+      "w" : 0.3148148014860333,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[B] Directly destroying Type A intercalated cells",
+      "x" : 0.17283951021947858,
+      "y" : 0.5051388890831053,
+      "w" : 0.2839506137296089,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[C. Converting apical potassium channels into water pores",
+      "x" : 0.20267489420438972,
+      "y" : 0.49055232541182175,
+      "w" : 0.3436213799242704,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[D] Inhibiting renal outer medullary blood flow",
+      "x" : 0.1656378645747598,
+      "y" : 0.4789244186773256,
+      "w" : 0.26954732451049035,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[E] Up-regulating basolateral Na+\/K+ ATPase, apical ENaC (creating",
+      "x" : 0.2294238619684501,
+      "y" : 0.46584302342538764,
+      "w" : 0.3971193181643696,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "lumen-negative potential), and apical ROMK",
+      "x" : 0.16049383040123452,
+      "y" : 0.45276162799781977,
+      "w" : 0.2592592539277467,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "Q25. [Faculty Exam] Approximately 80% to 85% of filtered Inorganic",
+      "x" : 0.7242798299382717,
+      "y" : 0.5472383720385174,
+      "w" : 0.436213991177157,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "Phosphate (Pi) is reabsorbed in the Proximal Tubule via which apical",
+      "x" : 0.7294238738425924,
+      "y" : 0.5341569768350292,
+      "w" : 0.44238684312352594,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011718346277872715,
+      "text" : "transport mechanism?",
+      "x" : 0.5833333354252399,
+      "y" : 0.5203036173459312,
+      "w" : 0.15020575613345744,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01173126538594571,
+      "text" : "[A] Passive paracellular diffusion through claudin-2 pores",
+      "x" : 0.6779835448216733,
+      "y" : 0.5044121448243843,
+      "w" : 0.34362137992427033,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011757105191548711,
+      "text" : "[B] Direct ATP-dependent primary active phosphate pumps",
+      "x" : 0.6800411580589848,
+      "y" : 0.49134366937834867,
+      "w" : 0.34773662255245186,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011627906163533486,
+      "text" : "[C] Exchange for luminal bicarbonate ions via Pendrin",
+      "x" : 0.6635802415980798,
+      "y" : 0.4781976743701551,
+      "w" : 0.3189300201224081,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[D] Sodium-Phosphate Cotransporters (NaPi-lla \/ Npt2a and NaPi-lIc)",
+      "x" : 0.7078189340740739,
+      "y" : 0.4658430232994186,
+      "w" : 0.40329219410254524,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "[E] Endocytosis coupled to cubilin receptor complexes",
+      "x" : 0.6656378640689298,
+      "y" : 0.4520348837936047,
+      "w" : 0.3189300441142148,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011705426110161676,
+      "text" : "Q19. [2021 Exam] How does a high tubular fluid flow rate (e.g., during",
+      "x" : 0.25617283392489726,
+      "y" : 0.4200193794888951,
+      "w" : 0.44650206175990076,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "diuretic therapy or volume expansion) stimulate renal potassium",
+      "x" : 0.24074073554526762,
+      "y" : 0.4062499999454941,
+      "w" : 0.4156378500116696,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "secretion?",
+      "x" : 0.06893004235253769,
+      "y" : 0.3938953489341086,
+      "w" : 0.07201645809149593,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[A] It directly activates basolateral parathyroid hormone receptors",
+      "x" : 0.22325102399691363,
+      "y" : 0.3771802325036338,
+      "w" : 0.3847736622552452,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "text" : "[B] It causes mechanical rupture of principal cell membranes",
+      "x" : 0.21399177565157732,
+      "y" : 0.36403746780989704,
+      "w" : 0.36625513040794516,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "text" : "[C] It converts ROMK channels into voltage-gated calcium channels",
+      "x" : 0.22736625730452673,
+      "y" : 0.35027777784272807,
+      "w" : 0.3930040995279948,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[D] It continuously flushes secreted K+ away, maintaining a steep",
+      "x" : 0.22119340929355302,
+      "y" : 0.33791666676565557,
+      "w" : 0.3806584196270637,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01028423786163335,
+      "text" : "lumen-directed concentration gradient",
+      "x" : 0.14609053882030165,
+      "y" : 0.32625322995442424,
+      "w" : 0.23045267548950965,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[E] It halts all basolateral sodium-potassium ATPase activity",
+      "x" : 0.20679011905864209,
+      "y" : 0.31319444424208215,
+      "w" : 0.3518518411888267,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "text" : "Q20. [2020 Exam] During severe dietary Potassium Depletion",
+      "x" : 0.22942386539780532,
+      "y" : 0.29361111091062564,
+      "w" : 0.3930040995279948,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011744186083475716,
+      "text" : "(hypokalemia), which cells actively reabsorb potassium from the",
+      "x" : 0.24074073449931435,
+      "y" : 0.27912790720803315,
+      "w" : 0.4156378500116696,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "collecting duct lumen to conserve K+?",
+      "x" : 0.15740741155692717,
+      "y" : 0.2667151164001939,
+      "w" : 0.24897118334500293,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[A] Principal cells via reverse ENaC transport",
+      "x" : 0.16358024364711943,
+      "y" : 0.25069444424208215,
+      "w" : 0.26131686324593406,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888888888946,
+      "text" : "[B] Type A Intercalated Cells via an apical H+\/K+ ATPase pump",
+      "x" : 0.2160493888888887,
+      "y" : 0.23694444450521535,
+      "w" : 0.37037034904432,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[C] Endothelial cells of the peritubular capillaries",
+      "x" : 0.1738683175240053,
+      "y" : 0.22458333328279395,
+      "w" : 0.2860082230477963,
+      "conf" : 1
+    },
+    {
+      "h" : 0.0087273899714152,
+      "text" : "[D) Macula densa plaque cells via NKCC2 cotransport",
+      "x" : 0.1882715996913582,
+      "y" : 0.21075258386311108,
+      "w" : 0.3148148014860333,
+      "conf" : 1
+    },
+    {
+      "h" : 0.0102971574995252,
+      "text" : "[E] Juxtaglomerular granular cells via renin release",
+      "x" : 0.18004115723593944,
+      "y" : 0.19846253233545186,
+      "w" : 0.2983539029487274,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011705426110161676,
+      "text" : "Q26. [2022 Exam] How does Parathyroid Hormone (PTH) produce its",
+      "x" : 0.7273662477709194,
+      "y" : 0.4200193795131201,
+      "w" : 0.4423867951399125,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "potent Phosphaturic effect (increasing urinary phosphate excretion)?",
+      "x" : 0.7314814758487657,
+      "y" : 0.4062499999091569,
+      "w" : 0.4506172803962756,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[A] It directly occludes glomerular capillary basement membranes to",
+      "x" : 0.7078189366941012,
+      "y" : 0.3902616279796511,
+      "w" : 0.3991769514743637,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010807290607028563,
+      "text" : "phosphate",
+      "x" : 0.5411522625482456,
+      "y" : 0.3786337207685973,
+      "w" : 0.06603377720095072,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[B] It stimulates phosphate precipitation in Bowman's space",
+      "x" : 0.6872428043895746,
+      "y" : 0.36555232570251933,
+      "w" : 0.36213991177157046,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[C] It stimulates endocytic internalization and lysosomal degradation of apical",
+      "x" : 0.7335391003343619,
+      "y" : 0.35247093032340115,
+      "w" : 0.45473249903265034,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "NaPi-lla cotransporters in the PCT",
+      "x" : 0.6080246888117284,
+      "y" : 0.341569767369186,
+      "w" : 0.20370370636946,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[D] It converts inorganic phosphate into pyrophosphate in the bladder",
+      "x" : 0.7088477406790124,
+      "y" : 0.3277616279796512,
+      "w" : 0.4053497794289259,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[E] It activates apical phosphate secretion in the collecting duct",
+      "x" : 0.6934156425411522,
+      "y" : 0.3146802326489824,
+      "w" : 0.3744855916725014,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "Q21. [2024 Exam] Acute Metabolic Alkalosis promotes hypokalemia",
+      "x" : 0.25205761864711923,
+      "y" : 0.16642441865915697,
+      "w" : 0.43827157650353776,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011763566335042386,
+      "text" : "and enhanced urinary potassium excretion primarily because:",
+      "x" : 0.23251029205761306,
+      "y" : 0.15254844957197167,
+      "w" : 0.39917695147436366,
+      "conf" : 1
+    },
+    {
+      "h" : 0.0102971574995252,
+      "text" : "[A] Alkaline urine chemically destroys apical ROMK channels",
+      "x" : 0.21090535579561018,
+      "y" : 0.13596253238390155,
+      "w" : 0.3600823024533829,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[B] Alkalosis precipitates potassium crystals in proximal tubules",
+      "x" : 0.21913579619341586,
+      "y" : 0.12281976741763567,
+      "w" : 0.37654320099068883,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[C] High extracellular pH drives H+ out of cells in exchange for K+, stimulating",
+      "x" : 0.2572016385459536,
+      "y" : 0.1097383720687986,
+      "w" : 0.45267486572265625,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888888888835,
+      "text" : "basolateral Na+\/K+ ATPase and K+ secretion",
+      "x" : 0.1656378645747598,
+      "y" : 0.09888888896198117,
+      "w" : 0.26954732451049035,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[D] Bicarbonate ions bind potassium irreversibly in plasma",
+      "x" : 0.2016460862654322,
+      "y" : 0.08502906971293606,
+      "w" : 0.34156377060608295,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "[E] Alkalosis completely shuts down adrenal aldosterone production",
+      "x" : 0.23045267988683116,
+      "y" : 0.0726744186773256,
+      "w" : 0.3991769514743637,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666603,
+      "text" : "Q27. [Core Concept] Fibroblast Growth Factor 23 (FGF23), secreted by",
+      "x" : 0.7335390901440328,
+      "y" : 0.293611111159437,
+      "w" : 0.45061728039627547,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01029069794548887,
+      "text" : "osteocytes in response to hyperphosphatemia, promotes renal",
+      "x" : 0.7109053447273664,
+      "y" : 0.2798546512321256,
+      "w" : 0.405349779428926,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "phosphate excretion by:",
+      "x" : 0.5874485623113854,
+      "y" : 0.2667151163517441,
+      "w" : 0.15843620540211034,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[A] Stimulating calcitriol synthesis in the loop of Henle",
+      "x" : 0.6656378640689298,
+      "y" : 0.2506944443510938,
+      "w" : 0.3189300441142148,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01028423786163335,
+      "text" : "[B] Down-regulating apical NaPi-lla\/c in PCT (with Klotho cofactor) and",
+      "x" : 0.7129629599108369,
+      "y" : 0.23624676994867638,
+      "w" : 0.41358021670167555,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "inhibiting 1-alpha-hydroxylase",
+      "x" : 0.5956790145833333,
+      "y" : 0.22458333330096264,
+      "w" : 0.1790123465675978,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[C] Blocking glomerular filtration of all divalent anions",
+      "x" : 0.6666666720164607,
+      "y" : 0.21291666686255467,
+      "w" : 0.3209876534324022,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297158029344389,
+      "text" : "[D] Stimulating PTH secretion from the parathyroid glands",
+      "x" : 0.6769547347050754,
+      "y" : 0.19846253235811345,
+      "w" : 0.3415637706060828,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011711886194017196,
+      "text" : "[E] Converting inorganic phosphate into insoluble bone crystals in urine",
+      "x" : 0.7139917739368997,
+      "y" : 0.18608850144935024,
+      "w" : 0.41563785001166964,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01162790722317164,
+      "text" : "Q28. [Core Concept] In Chronic Kidney Disease (CKD), when GFR falls",
+      "x" : 0.7325102925514403,
+      "y" : 0.1656976745058139,
+      "w" : 0.4485596470862814,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011763566335042386,
+      "text" : "below 30 mL\/min, hyperphosphatemia develops and triggers secondary",
+      "x" : 0.7376543255761316,
+      "y" : 0.15254844957197167,
+      "w" : 0.4588477176690252,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01028423786163335,
+      "text" : "hyperparathyroidism primarily because:",
+      "x" : 0.6409465064814812,
+      "y" : 0.13875323000287393,
+      "w" : 0.26543208188230893,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[A] Parathyroid glands undergo ischemic infarction",
+      "x" : 0.6563786058299037,
+      "y" : 0.12281976751453488,
+      "w" : 0.30041151226691476,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[B] The proximal tubule begins synthesizing massive quantities of phosphate",
+      "x" : 0.7314814758487657,
+      "y" : 0.10973837203851744,
+      "w" : 0.4506172803962756,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "[C Calcitriol levels rise to toxic levels in the blood",
+      "x" : 0.655349799211248,
+      "y" : 0.09738372102713178,
+      "w" : 0.2983539029487273,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[D] The liver stops clearing parathyroid hormone from circulation",
+      "x" : 0.6975308705761314,
+      "y" : 0.08357558151647276,
+      "w" : 0.38271602894525103,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01030361758338072,
+      "text" : "[E] Surviving nephrons reach their maximal phosphate excretory capacity and",
+      "x" : 0.7314814769753087,
+      "y" : 0.07042958645982961,
+      "w" : 0.4506172803962756,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "cannot clear the dietary load",
+      "x" : 0.5905349766117971,
+      "y" : 0.058866278997093124,
+      "w" : 0.16872427598485407,
+      "conf" : 1
+    },
+    {
+      "h" : 0.017519379191928475,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & BoarE yam Past Papers",
+      "x" : 0.3209876615226336,
+      "y" : 0.014573643611020815,
+      "w" : 0.5761316647319674,
+      "conf" : 1
+    },
+    {
+      "h" : 0.007344961166381836,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321,
+      "y" : 0.01966085278616625,
+      "w" : 0.19135801447262546,
+      "conf" : 1
+    }
+  ]
+}

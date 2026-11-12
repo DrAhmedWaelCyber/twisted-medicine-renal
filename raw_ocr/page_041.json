@@ -1,0 +1,965 @@
+{
+  "page" : 41,
+  "items" : [
+    {
+      "x" : 0.2870370455075443,
+      "y" : 0.9774224804225952,
+      "w" : 0.5082304372727495,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 10 MCQ Masterclass",
+      "conf" : 1,
+      "h" : 0.013178294499715193
+    },
+    {
+      "x" : 0.33333333934156373,
+      "y" : 0.96432170540046,
+      "w" : 0.6008230245338296,
+      "text" : "Twisted Medicine Medical Series • Renal Blood Flow, Autoregulation & Hemodynamics • Standard Practice Bank",
+      "conf" : 1,
+      "h" : 0.01031007766723624
+    },
+    {
+      "x" : 0.9351851849050745,
+      "y" : 0.976017441730217,
+      "w" : 0.0681153483360818,
+      "text" : "Page 3 of 4",
+      "conf" : 1,
+      "h" : 0.010913131501939621
+    },
+    {
+      "x" : 0.2572016465020577,
+      "y" : 0.9411854007594618,
+      "w" : 0.44855964708628143,
+      "text" : "029. [2025 Exam] Strong activation of Renal Sympathetic Nerves (e.g.,",
+      "conf" : 1,
+      "h" : 0.013184754053751635
+    },
+    {
+      "x" : 0.22119342034465012,
+      "y" : 0.9280523256722384,
+      "w" : 0.3765432009906889,
+      "text" : "during acute severe hemorrhage or shock) produces which",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.10699588223593973,
+      "y" : 0.9149709302083333,
+      "w" : 0.15226336545164482,
+      "text" : "hemodynamic effects?",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.2314814881001369,
+      "y" : 0.9004166669110044,
+      "w" : 0.3971193181643696,
+      "text" : "[A] Marked dilation of both arterioles and a massive increase in RBF",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.22119340929355302,
+      "y" : 0.8880587852718028,
+      "w" : 0.3806584196270637,
+      "text" : "[B] Selective dilation of efferent arterioles with no change in RBF",
+      "conf" : 1,
+      "h" : 0.011673126220703045
+    },
+    {
+      "x" : 0.22839505514403313,
+      "y" : 0.8764114985733111,
+      "w" : 0.3950617088461822,
+      "text" : "[C] Immediate shutdown of renin secretion by juxtaglomerular cells",
+      "conf" : 1,
+      "h" : 0.011711885664198118
+    },
+    {
+      "x" : 0.25000000547839496,
+      "y" : 0.8655523256359012,
+      "w" : 0.43827157650353776,
+      "text" : "[D] Marked constriction of both afferent and efferent arterioles (via Alpha-1",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.16255144471879268,
+      "y" : 0.8524709303536822,
+      "w" : 0.26337447256412144,
+      "text" : "receptors), sharply decreasing RBF and GFR",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.2427983592078188,
+      "y" : 0.8423546511125648,
+      "w" : 0.4238682872844192,
+      "text" : "[E] Complete diversion of cardiac output exclusively into the renal cortex",
+      "conf" : 1,
+      "h" : 0.01029069741566968
+    },
+    {
+      "x" : 0.7335391020919066,
+      "y" : 0.9419121450408443,
+      "w" : 0.4465020617599008,
+      "text" : "Q36. [2023 Exam] Basal release of Endothelial Nitric Oxide (NO) in the",
+      "conf" : 1,
+      "h" : 0.011731265915764677
+    },
+    {
+      "x" : 0.6872428043209874,
+      "y" : 0.9280523256540698,
+      "w" : 0.3580246691433888,
+      "text" : "renal vasculature is physiologically essential because it:",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.7129629680298353,
+      "y" : 0.9134722223876204,
+      "w" : 0.4053497794289259,
+      "text" : "[A] Maintains baseline vasodilation, counteracting vasoconstrictors to",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6203703740397803,
+      "y" : 0.9011111111833676,
+      "w" : 0.22016460490676582,
+      "text" : "preserve normal resting RBF and GFR",
+      "conf" : 1,
+      "h" : 0.008888888888888946
+    },
+    {
+      "x" : 0.6831275763888888,
+      "y" : 0.8902616279614826,
+      "w" : 0.34979423187063907,
+      "text" : "[B] Prevents all active sodium transport in the loop of Henle",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.6913580188614543,
+      "y" : 0.8786337210998062,
+      "w" : 0.3662551304079452,
+      "text" : "[C] Completely blocks myogenic autoregulation in all nephrons",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.7026748923096708,
+      "y" : 0.8670704134129901,
+      "w" : 0.38477366225524523,
+      "text" : "[D] Contracts mesangial cells to reduce the filtration coefficient Kf",
+      "conf" : 1,
+      "h" : 0.01030361758338072
+    },
+    {
+      "x" : 0.7170781837105626,
+      "y" : 0.8546963826540688,
+      "w" : 0.4176954353380503,
+      "text" : "[E] Triggers immediate release of aldosterone from the adrenal medulla",
+      "conf" : 1,
+      "h" : 0.011718346277872715
+    },
+    {
+      "x" : 0.25925926491769535,
+      "y" : 0.8146802325763081,
+      "w" : 0.45267486572265625,
+      "text" : "Q30. [2024 Exam] Under physiological low-to-moderate concentrations,",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.22942387458847716,
+      "y" : 0.800843023104614,
+      "w" : 0.39300409952799475,
+      "text" : "Angiotensin Il selectively constricts which renal blood vessel?",
+      "conf" : 1,
+      "h" : 0.011686046388414195
+    },
+    {
+      "x" : 0.12654320675583,
+      "y" : 0.7856782946479897,
+      "w" : 0.18724279583625072,
+      "text" : "[A] Afferent arteriole exclusively",
+      "conf" : 1,
+      "h" : 0.01031007766723635
+    },
+    {
+      "x" : 0.08847736817558292,
+      "y" : 0.7747222221443777,
+      "w" : 0.1152263377447548,
+      "text" : "[B] Main renal vein",
+      "conf" : 1,
+      "h" : 0.008888888623979407
+    },
+    {
+      "x" : 0.08950617479423861,
+      "y" : 0.7630587853687021,
+      "w" : 0.1172839470629422,
+      "text" : "[C] Interlobar artery",
+      "conf" : 1,
+      "h" : 0.011673126220703156
+    },
+    {
+      "x" : 0.12139917813786007,
+      "y" : 0.7506944446992267,
+      "w" : 0.17695472525350706,
+      "text" : "[D] Peritubular capillary venule",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.25617283199588503,
+      "y" : 0.7397642116099099,
+      "w" : 0.4506172803962756,
+      "text" : "[E] Efferent Arteriole (maintaining Pgc and GFR despite reduced renal plasma",
+      "conf" : 1,
+      "h" : 0.011750645637512158
+    },
+    {
+      "x" : 0.10390946258573397,
+      "y" : 0.7274709302083333,
+      "w" : 0.14609052550117926,
+      "text" : "flow, thus increasing FF)",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.25720164917695465,
+      "y" : 0.6875000001453488,
+      "w" : 0.44855964708628143,
+      "text" : "Q31. [2023 Exam] When Angiotensin Il constricts the efferent arteriole,",
+      "conf" : 1,
+      "h" : 0.011666666666666714
+    },
+    {
+      "x" : 0.2139917634430729,
+      "y" : 0.6737467700455757,
+      "w" : 0.36625513040794516,
+      "text" : "what happens to the Filtration Fraction (FF = GFR \/ RPF)?",
+      "conf" : 1,
+      "h" : 0.01028423786163335
+    },
+    {
+      "x" : 0.22325103521947853,
+      "y" : 0.6591569767684109,
+      "w" : 0.3847736382634385,
+      "text" : "[A] FF increases (because FR is preserved while RPF is reduced)",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.09053498091563783,
+      "y" : 0.6475290698219478,
+      "w" : 0.11934155638112959,
+      "text" : "[B] FF drops to zero",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.21090534920267492,
+      "y" : 0.6359625321355973,
+      "w" : 0.36008230245338296,
+      "text" : "[C] FF decreases markedly because GFR falls faster than RPF",
+      "conf" : 1,
+      "h" : 0.010297157499525311
+    },
+    {
+      "x" : 0.21399177565157732,
+      "y" : 0.6243055557760864,
+      "w" : 0.36625513040794516,
+      "text" : "[D] FF remains completely unaffected under all circumstances",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.10390946648148146,
+      "y" : 0.6126388888260281,
+      "w" : 0.1460905374970826,
+      "text" : "[E] FF becomes negative",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.711934161419753,
+      "y" : 0.8146802326489826,
+      "w" : 0.40329219410254524,
+      "text" : "Q37. [2022 Exam] Endothelin-1 (ET-1) is one of the most potent",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.6553497893347051,
+      "y" : 0.800138888729129,
+      "w" : 0.29423868431235256,
+      "text" : "intrarenal paracrine agents known. Its primary",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6244855989917695,
+      "y" : 0.787083333282794,
+      "w" : 0.22839506617132221,
+      "text" : "physiological\/pathological action is:",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.6358024716460906,
+      "y" : 0.7732525839697002,
+      "w" : 0.25102879266319034,
+      "text" : "[A] Selective dilation of interlobular arteries",
+      "conf" : 1,
+      "h" : 0.0087273899714152
+    },
+    {
+      "x" : 0.726337441358025,
+      "y" : 0.7609625322385527,
+      "w" : 0.4320987725407822,
+      "text" : "[B] Profound, long-lasting Renal Vasoconstriction with marked reduction in",
+      "conf" : 1,
+      "h" : 0.010297157499525311
+    },
+    {
+      "x" : 0.5504115236368312,
+      "y" : 0.7500000000726745,
+      "w" : 0.08024691335810052,
+      "text" : "RBF and GFR",
+      "conf" : 1,
+      "h" : 0.008888888888888835
+    },
+    {
+      "x" : 0.6882716093878598,
+      "y" : 0.7376388888441968,
+      "w" : 0.3559670598252015,
+      "text" : "[C] Increasing renal blood flow three-fold during septic shock",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.7067901300068586,
+      "y" : 0.725972222405789,
+      "w" : 0.39300409952799487,
+      "text" : "[D] Dissolving glomerular basement membrane immune complexes",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.7098765499314127,
+      "y" : 0.71432170540046,
+      "w" : 0.4032921461189318,
+      "text" : "[E] Stimulating massive potassium reabsorption in the macula densa",
+      "conf" : 1,
+      "h" : 0.01031007766723624
+    },
+    {
+      "x" : 0.7345678936899865,
+      "y" : 0.6868055556791872,
+      "w" : 0.45267486572265625,
+      "text" : "Q38. [2021 Exam] Low-dose infusion of Dopamine (1 to 3 mcg\/kg\/min)",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.7242798299382717,
+      "y" : 0.6737467700637443,
+      "w" : 0.436213991177157,
+      "text" : "is known to produce 'renal dose' vasodilation primarily by activating:",
+      "conf" : 1,
+      "h" : 0.01028423786163346
+    },
+    {
+      "x" : 0.6347736650823046,
+      "y" : 0.6591569768168604,
+      "w" : 0.25308642597318454,
+      "text" : "[A] Beta-1 adrenergic receptors in the heart",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.6872428043209874,
+      "y" : 0.6475290698885658,
+      "w" : 0.3580246691433888,
+      "text" : "[B] Alpha-2 adrenergic receptors in the peritubular capillaries",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.7345679057613168,
+      "y" : 0.6359625323354519,
+      "w" : 0.45267486572265625,
+      "text" : "[C] Dopamine D1 receptors on renal vascular smooth muscle, increasing renal",
+      "conf" : 1,
+      "h" : 0.010297157499525311
+    },
+    {
+      "x" : 0.543209877366255,
+      "y" : 0.6250000000726745,
+      "w" : 0.06584361814103035,
+      "text" : "blood flow",
+      "conf" : 1,
+      "h" : 0.008888888888888835
+    },
+    {
+      "x" : 0.6553497905606996,
+      "y" : 0.612638888698848,
+      "w" : 0.29423868431235256,
+      "text" : "[D] Muscarinic M3 receptors on podocyte pedicels",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6491769582561727,
+      "y" : 0.6009722223876204,
+      "w" : 0.2818930044114214,
+      "text" : "[E] Vasopressin V2 receptors in collecting ducts",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.26131687813786,
+      "y" : 0.5603197675327034,
+      "w" : 0.4567901323426445,
+      "text" : "Q32. [2022 Exam] Renal Prostaglandins (PGE2 and PGI2 \/ Prostacyclin)",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.20987654763374478,
+      "y" : 0.5472383721475291,
+      "w" : 0.35390945050701406,
+      "text" : "play a critical protective role in renal hemodynamics by:",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.22530863549382735,
+      "y" : 0.5312499999757753,
+      "w" : 0.38888888089161994,
+      "text" : "[A] Constricting afferent arterioles during sleep to prevent nocturia",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.25617283199588503,
+      "y" : 0.5210755813226744,
+      "w" : 0.4506172803962756,
+      "text" : "[B] Dilating the Afferent Arteriole to counteract excessive vasoconstriction by",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.12139917393689995,
+      "y" : 0.5087209301841085,
+      "w" : 0.18106995588578517,
+      "text" : "Ang Il and sympathetic nerves",
+      "conf" : 1,
+      "h" : 0.00872092988755968
+    },
+    {
+      "x" : 0.18621399565329205,
+      "y" : 0.4970930233284884,
+      "w" : 0.3106995828496585,
+      "text" : "[C] Inducing generalized thrombosis of arcuate veins",
+      "conf" : 1,
+      "h" : 0.011627906163533486
+    },
+    {
+      "x" : 0.2006172806927299,
+      "y" : 0.4847383719234496,
+      "w" : 0.33950616128789557,
+      "text" : "[DJ Blocking glomerular filtration of water and electrolytes",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.2417695420524692,
+      "y" : 0.4731782946177086,
+      "w" : 0.4218107019580385,
+      "text" : "[E] Increasing peritubular capillary hydrostatic pressure above 60 mmHg",
+      "conf" : 1,
+      "h" : 0.01031007766723635
+    },
+    {
+      "x" : 0.7304526670781897,
+      "y" : 0.5610885015946991,
+      "w" : 0.4691357882517689,
+      "text" : "Q39. [2025 Exam] What is the hemodynamic effect of selective Afferent",
+      "conf" : 1,
+      "h" : 0.011711886194017196
+    },
+    {
+      "x" : 0.6563786024005487,
+      "y" : 0.5465116277131784,
+      "w" : 0.29218105100235847,
+      "text" : "Arteriolar Constriction on RBF, Pgc, and GFR?",
+      "conf" : 1,
+      "h" : 0.011627906163533597
+    },
+    {
+      "x" : 0.6625514393689986,
+      "y" : 0.5312499998304263,
+      "w" : 0.30864197353147116,
+      "text" : "[A] RBF increases, Pgo increases, and GFR increases",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.6646090587791493,
+      "y" : 0.5210755814195736,
+      "w" : 0.3168724108042208,
+      "text" : "[B] RBF decreases, Pgc increases, and GFR increases",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.6748971151748971,
+      "y" : 0.5086563304173038,
+      "w" : 0.33333333333333326,
+      "text" : "[C] RBF increases, Pge decreases, and FR is unchanged",
+      "conf" : 1,
+      "h" : 0.011757105721367678
+    },
+    {
+      "x" : 0.6687242851851851,
+      "y" : 0.4970930233042635,
+      "w" : 0.3209876534324022,
+      "text" : "[D] RBF decreases, Pgo decreases, and FR decreases",
+      "conf" : 1,
+      "h" : 0.011627906163533597
+    },
+    {
+      "x" : 0.6903292119684501,
+      "y" : 0.4855200261486636,
+      "w" : 0.36831273972613254,
+      "text" : "[E] RBF is unchanged, but Filtration Fraction increases to 100%",
+      "conf" : 1,
+      "h" : 0.011737725999620197
+    },
+    {
+      "x" : 0.25308642709190643,
+      "y" : 0.43308785505605496,
+      "w" : 0.4403292098135318,
+      "text" : "Q33. [2021 Exam] Administration of Nonsteroidal Anti-inflammatory",
+      "conf" : 1,
+      "h" : 0.011731265915764677
+    },
+    {
+      "x" : 0.23662550931069967,
+      "y" : 0.4193055554887284,
+      "w" : 0.40740741273891995,
+      "text" : "Drugs (NSAIDs) in a volume-depleted or heart failure patient can",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.18621399483539086,
+      "y" : 0.4062500000726744,
+      "w" : 0.30658436421328367,
+      "text" : "precipitate Acute Kidney Injury because NSAIDs:",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.17283950157750355,
+      "y" : 0.39171511644864343,
+      "w" : 0.27983537110142737,
+      "text" : "[A] Directly stimulate Angiotensin Il degradation",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.23148147479423892,
+      "y" : 0.3808333332456751,
+      "w" : 0.40123456079255115,
+      "text" : "[B] Produce massive efferent arteriolar dilation via histamine release",
+      "conf" : 1,
+      "h" : 0.008888888623979407
+    },
+    {
+      "x" : 0.25308641913580254,
+      "y" : 0.36776485788364455,
+      "w" : 0.44444442844990667,
+      "text" : "[C] Inhibit COX enzymes, blocking protective vasodilator Prostaglandins and",
+      "conf" : 1,
+      "h" : 0.011692505942450637
+    },
+    {
+      "x" : 0.18312756858710572,
+      "y" : 0.3561111110528479,
+      "w" : 0.30041151226691476,
+      "text" : "causing unopposed Afferent Arteriolar Constriction",
+      "conf" : 1,
+      "h" : 0.011666666666666714
+    },
+    {
+      "x" : 0.19238683531378595,
+      "y" : 0.34445090418820845,
+      "w" : 0.32304526275058965,
+      "text" : "[D] Prevent sodium reabsorption in the collecting ducts",
+      "conf" : 1,
+      "h" : 0.011679586304558676
+    },
+    {
+      "x" : 0.16049383148148136,
+      "y" : 0.3335755814195737,
+      "w" : 0.2592592539277467,
+      "text" : "[E] Lyse glomerular endothelial cells directly",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.2572016404835393,
+      "y" : 0.3052648579926563,
+      "w" : 0.4485596470862815,
+      "text" : "Q34. [2020 Exam] How do ACE Inhibitors (e.g., Enalapril) or ARBs (e.g.,",
+      "conf" : 1,
+      "h" : 0.011692505942450526
+    },
+    {
+      "x" : 0.24382716745541805,
+      "y" : 0.2921963826540688,
+      "w" : 0.42181070195803844,
+      "text" : "Losartan) affect glomerular hemodynamics in bilateral renal artery",
+      "conf" : 1,
+      "h" : 0.011718346277872715
+    },
+    {
+      "x" : 0.06481481535674802,
+      "y" : 0.27979651175118575,
+      "w" : 0.06392971374703654,
+      "text" : "stenosis?",
+      "conf" : 1,
+      "h" : 0.010633847978379962
+    },
+    {
+      "x" : 0.2417695525977365,
+      "y" : 0.26375322997259293,
+      "w" : 0.42181070195803855,
+      "text" : "[A] They dilate afferent arterioles, raising FR to dangerously high levels",
+      "conf" : 1,
+      "h" : 0.01028423786163335
+    },
+    {
+      "x" : 0.22736625028292196,
+      "y" : 0.2521802325036338,
+      "w" : 0.38888888089162005,
+      "text" : "[B] They trigger acute papillary hypertrophy and renal vein stenosis",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.22942386169410176,
+      "y" : 0.2420704133948215,
+      "w" : 0.39711931816436963,
+      "text" : "[C] They stimulate immediate release of endothelin from podocytes",
+      "conf" : 1,
+      "h" : 0.01030361758338083
+    },
+    {
+      "x" : 0.23765431409465043,
+      "y" : 0.23041666687738382,
+      "w" : 0.41358021670167555,
+      "text" : "[D] They block Ang II-mediated Efferent Arteriolar Constriction, causing",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.20061728954046623,
+      "y" : 0.21804909598136535,
+      "w" : 0.33539094265152075,
+      "text" : "glomerular capillary pressure (Pgc) and FR to plummet",
+      "conf" : 1,
+      "h" : 0.011679586304558676
+    },
+    {
+      "x" : 0.22222221577503445,
+      "y" : 0.20708333350708646,
+      "w" : 0.38683127157343256,
+      "text" : "[E] They convert efferent arterioles into non-contractile capillaries",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.25925926491769535,
+      "y" : 0.17884366961903336,
+      "w" : 0.45267486572265625,
+      "text" : "Q35. [2024 Exam] Atrial Natriuretic Peptide (ANP) regulates glomerular",
+      "conf" : 1,
+      "h" : 0.011757105721367789
+    },
+    {
+      "x" : 0.1759259295010287,
+      "y" : 0.16497093032340115,
+      "w" : 0.2860082230477963,
+      "text" : "hemodynamics and promotes natriuresis by:",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.20576131104252418,
+      "y" : 0.15041666676565557,
+      "w" : 0.34979423187063924,
+      "text" : "[A] Constricting both afferent and efferent arterioles equally",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.21296296896433453,
+      "y" : 0.13875322995442424,
+      "w" : 0.36008230245338296,
+      "text" : "[B] Dilating efferent arterioles while closing afferent arterioles",
+      "conf" : 1,
+      "h" : 0.01028423786163335
+    },
+    {
+      "x" : 0.22633745339506162,
+      "y" : 0.12718023261264533,
+      "w" : 0.3868312715734326,
+      "text" : "[C] Blocking all sodium channels in the proximal tubule exclusively",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.13683127312242804,
+      "y" : 0.11555232552688949,
+      "w" : 0.20781892500583482,
+      "text" : "[D] Inhibiting cardiac output by 50%",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.2427983592078188,
+      "y" : 0.10392441865915697,
+      "w" : 0.4238682872844192,
+      "text" : "[E] Dilating the Afferent Arteriole while constricting the Efferent Arteriole,",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.13168724615912197,
+      "y" : 0.09235465117918318,
+      "w" : 0.2016460730594659,
+      "text" : "markedly increasing Pgc and GFR",
+      "conf" : 1,
+      "h" : 0.010290697415669792
+    },
+    {
+      "x" : 0.7170781944701645,
+      "y" : 0.4330878550802798,
+      "w" : 0.41358021670167555,
+      "text" : "Q40. [Faculty Exam] What is the hemodynamic effect of selective",
+      "conf" : 1,
+      "h" : 0.011731265915764677
+    },
+    {
+      "x" : 0.6810699535665297,
+      "y" : 0.42001937975536796,
+      "w" : 0.3415637706060829,
+      "text" : "Efferent Arteriolar Constriction on RBF, Pgc, and GFR?",
+      "conf" : 1,
+      "h" : 0.011705426110161676
+    },
+    {
+      "x" : 0.6676954785665294,
+      "y" : 0.4048546510822838,
+      "w" : 0.3189300201224081,
+      "text" : "[A] RBF increases, Pgo decreases, and GFR decreases",
+      "conf" : 1,
+      "h" : 0.010290697415669792
+    },
+    {
+      "x" : 0.6471193450360082,
+      "y" : 0.3931944445112716,
+      "w" : 0.2777777617832399,
+      "text" : "[B] Both RBF and GFR drop to zero immediately",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6800411580589848,
+      "y" : 0.381527777579382,
+      "w" : 0.34773662255245186,
+      "text" : "[C] Pgc drops below Bowman's space hydrostatic pressure",
+      "conf" : 1,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.7067901178669412,
+      "y" : 0.3705878552014037,
+      "w" : 0.40123456079255115,
+      "text" : "[D] Efferent resistance has zero effect on glomerular hemodynamics",
+      "conf" : 1,
+      "h" : 0.011731265915764677
+    },
+    {
+      "x" : 0.7345678955246916,
+      "y" : 0.35828488366642447,
+      "w" : 0.45679013234264443,
+      "text" : "[E] RBF decreases, Pge increases, and GFR initially increases (or is preserved),",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.5390946509788154,
+      "y" : 0.3466569768286575,
+      "w" : 0.06189238950141562,
+      "text" : "raising FF",
+      "conf" : 1,
+      "h" : 0.01068296114603684
+    },
+    {
+      "x" : 0.7139917764060354,
+      "y" : 0.3059722220361478,
+      "w" : 0.41152263137529466,
+      "text" : "Q41. [Faculty Exam] In Hepatorenal Syndrome (HRS), what is the",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6944444506515772,
+      "y" : 0.29219638272830656,
+      "w" : 0.37242798235431396,
+      "text" : "underlying hemodynamic disturbance within the kidneys?",
+      "conf" : 1,
+      "h" : 0.011718345748053749
+    },
+    {
+      "x" : 0.7386831230041152,
+      "y" : 0.27682170528418076,
+      "w" : 0.45679013234264443,
+      "text" : "[A] Extreme Renal Vasoconstriction (profoundly high renal vascular resistance)",
+      "conf" : 1,
+      "h" : 0.01031007766723635
+    },
+    {
+      "x" : 0.6409465051783264,
+      "y" : 0.26598837228682165,
+      "w" : 0.2654320818823088,
+      "text" : "secondary to splanchnic arterial vasodilation",
+      "conf" : 1,
+      "h" : 0.011627906163533486
+    },
+    {
+      "x" : 0.719135809567901,
+      "y" : 0.2544121448243843,
+      "w" : 0.42592592059441337,
+      "text" : "[B] Massive intrarenal vasodilation with renal blood flow exceeding 3000",
+      "conf" : 1,
+      "h" : 0.01173126538594571
+    },
+    {
+      "x" : 0.5339506181412894,
+      "y" : 0.24345930234980617,
+      "w" : 0.05144032892191186,
+      "text" : "mL\/min",
+      "conf" : 1,
+      "h" : 0.007267441749572834
+    },
+    {
+      "x" : 0.6893004160493825,
+      "y" : 0.23180555559773997,
+      "w" : 0.36213991177157034,
+      "text" : "[C] Bilateral renal vein thrombosis with hemorrhagic infarction",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6841563787722909,
+      "y" : 0.21945090418664503,
+      "w" : 0.35185184118882673,
+      "text" : "[D] Direct toxic destruction of podocytes by bilirubin crystals",
+      "conf" : 1,
+      "h" : 0.011679585774739598
+    },
+    {
+      "x" : 0.6491769499657066,
+      "y" : 0.2085755813226744,
+      "w" : 0.2860082230477963,
+      "text" : "[E] Acute calcification of the interlobular arteries",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.7355967153978049,
+      "y" : 0.17884366959480857,
+      "w" : 0.45473249903265034,
+      "text" : "Q42. [Clinical Pearl] The 'Triple Whammy' drug combination that carries",
+      "conf" : 1,
+      "h" : 0.011757105721367678
+    },
+    {
+      "x" : 0.728395054389575,
+      "y" : 0.1656976743217054,
+      "w" : 0.44032920981353174,
+      "text" : "an exceptionally high risk of inducing Acute Kidney Injury consists of:",
+      "conf" : 1,
+      "h" : 0.011627906163533486
+    },
+    {
+      "x" : 0.622427987345679,
+      "y" : 0.15041666691100442,
+      "w" : 0.22839504217951556,
+      "text" : "[A] Aspirin, Penicillin, and Paracetamol",
+      "conf" : 1,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.7170781945216049,
+      "y" : 0.1395348837936048,
+      "w" : 0.41769548332166384,
+      "text" : "[B] An ACE inhibitor\/ARB (blocks efferent constriction) + NSAID (blocks",
+      "conf" : 1,
+      "h" : 0.00872092988755968
+    },
+    {
+      "x" : 0.653292176234568,
+      "y" : 0.12718023248546512,
+      "w" : 0.29012344168417104,
+      "text" : "afferent dilation) + Diuretic (causes hypovolemia)",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.6625514434156377,
+      "y" : 0.11555232541182175,
+      "w" : 0.30864197353147105,
+      "text" : "[C] Beta-blocker, Calcium channel blocker, and Statin",
+      "conf" : 1,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.6244856005829902,
+      "y" : 0.1039244186773256,
+      "w" : 0.2325102848076971,
+      "text" : "[D] Insulin, Metformin, and Sulfonylurea",
+      "conf" : 1,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.6059670748628259,
+      "y" : 0.09235465125029424,
+      "w" : 0.19958847573718186,
+      "text" : "[E] Digoxin, Warfarin, and Heparin",
+      "conf" : 1,
+      "h" : 0.010290697945488758
+    },
+    {
+      "x" : 0.3209876615226336,
+      "y" : 0.014573643611020815,
+      "w" : 0.5761316647319674,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Boar gam Past Papers",
+      "conf" : 1,
+      "h" : 0.017519379191928475
+    },
+    {
+      "x" : 0.8734567925154321,
+      "y" : 0.01966085278616625,
+      "w" : 0.19135801447262546,
+      "text" : "Confidential Student Revision Bank",
+      "conf" : 1,
+      "h" : 0.007344961166381836
+    }
+  ]
+}

@@ -1,0 +1,997 @@
+{
+  "items" : [
+    {
+      "w" : 0.5244360895657351,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 29 MCQ Masterclass",
+      "h" : 0.013113695250617119,
+      "y" : 0.9760012918688497,
+      "x" : 0.31860901619674203
+    },
+    {
+      "w" : 0.6503759256633043,
+      "conf" : 1,
+      "text" : "Twisted Medicine Medical Series • Purine Synthesis, Salvage, Uric Acid, Gout & Lesch-Nyhan • Standard Practice Bank",
+      "h" : 0.011698966026306157,
+      "y" : 0.9636272609600864,
+      "x" : 0.38157894417293237
+    },
+    {
+      "w" : 0.08089694387187729,
+      "conf" : 1,
+      "text" : "Page 3 of 4",
+      "h" : 0.011921178499857632,
+      "y" : 0.975290697895769,
+      "x" : 0.9050751866225277
+    },
+    {
+      "w" : 0.4248120152290394,
+      "conf" : 1,
+      "text" : "Q29. [2025 Exam] Under physiological conditions at blood pH 7.4,",
+      "h" : 0.011731265915764677,
+      "y" : 0.941912144943945,
+      "x" : 0.2687969995614033
+    },
+    {
+      "w" : 0.4304511195716885,
+      "conf" : 1,
+      "text" : "over 98% of circulating uric acid exists in which chemical physical",
+      "h" : 0.010174418555365605,
+      "y" : 0.928052325508721,
+      "x" : 0.2697368349310779
+    },
+    {
+      "w" : 0.041353383396787666,
+      "conf" : 1,
+      "text" : "form?",
+      "h" : 0.00872092988755968,
+      "y" : 0.9156976744767442,
+      "x" : 0.07518797033834584
+    },
+    {
+      "w" : 0.25939849261154296,
+      "conf" : 1,
+      "text" : "[A] Free, un-ionized insoluble uric acid crystals",
+      "h" : 0.01027777777777783,
+      "y" : 0.8990277780271309,
+      "x" : 0.18421052969924803
+    },
+    {
+      "w" : 0.21804511195716886,
+      "conf" : 1,
+      "text" : "[B] Covalently bound to serum albumin",
+      "h" : 0.01027777777777783,
+      "y" : 0.887361111301152,
+      "x" : 0.16165413806390974
+    },
+    {
+      "w" : 0.23684209718025478,
+      "conf" : 1,
+      "text" : "[C] Chelated with divalent magnesium ions",
+      "h" : 0.008888888888888946,
+      "y" : 0.8750000000726744,
+      "x" : 0.17293233378759393
+    },
+    {
+      "w" : 0.17669172033314048,
+      "conf" : 1,
+      "text" : "[D] Gaseous ammonia complex",
+      "h" : 0.008888889153798485,
+      "y" : 0.863333333255071,
+      "x" : 0.1428571450657894
+    },
+    {
+      "w" : 0.21052631348007278,
+      "conf" : 1,
+      "text" : "[E] lonized Monosodium Urate (MSU)",
+      "h" : 0.008727390236324739,
+      "y" : 0.851747416123995,
+      "x" : 0.15789473333333343
+    },
+    {
+      "w" : 0.3684210595597816,
+      "conf" : 1,
+      "text" : "Q30. [2024 Exam] Which of the following inborn errors of",
+      "h" : 0.010277777777777719,
+      "y" : 0.813194444387431,
+      "x" : 0.24060150836466151
+    },
+    {
+      "w" : 0.3345864554431951,
+      "conf" : 1,
+      "text" : "carbohydrate metabolism causes severe secondary",
+      "h" : 0.01028423786163335,
+      "y" : 0.7987467700637443,
+      "x" : 0.2218045070958648
+    },
+    {
+      "w" : 0.33834584371208887,
+      "conf" : 1,
+      "text" : "hyperuricemia and early gout (Von Gierke Disease)?",
+      "h" : 0.011698966026306157,
+      "y" : 0.7863727394275104,
+      "x" : 0.22368421591478677
+    },
+    {
+      "w" : 0.30451126153481084,
+      "conf" : 1,
+      "text" : "[A] Galactose-1-phosphate uridyltransferase deficiency",
+      "h" : 0.010174418555365716,
+      "y" : 0.7710755814389534,
+      "x" : 0.20676692033834582
+    },
+    {
+      "w" : 0.3139097760856623,
+      "conf" : 1,
+      "text" : "[B] Muscle glycogen phosphorylase deficiency (McArdle)",
+      "h" : 0.01030361758338083,
+      "y" : 0.7579295864779982,
+      "x" : 0.21146616148966174
+    },
+    {
+      "w" : 0.2913533806543741,
+      "conf" : 1,
+      "text" : "[C] Glucose-6-Phosphatase deficiency (Type I GSD)",
+      "h" : 0.010174418555365716,
+      "y" : 0.7463662791242733,
+      "x" : 0.20018797356672924
+    },
+    {
+      "w" : 0.266917291088639,
+      "conf" : 1,
+      "text" : "[D] Lysosomal acid maltase deficiency (Pompe)",
+      "h" : 0.010174418555365605,
+      "y" : 0.7347383720203489,
+      "x" : 0.18609022111528833
+    },
+    {
+      "w" : 0.24077329217402052,
+      "conf" : 1,
+      "text" : "[E] Fructose-1,6-bisphosphatase deficiency",
+      "h" : 0.011855825848049562,
+      "y" : 0.722449734069804,
+      "x" : 0.17482050710512556
+    },
+    {
+      "w" : 0.3533834406662809,
+      "conf" : 1,
+      "text" : "Q36. [2023 Exam] Under Compensated Polarized Light",
+      "h" : 0.010174418555365716,
+      "y" : 0.9411337208575581,
+      "x" : 0.6936090166666669
+    },
+    {
+      "w" : 0.3966165373944105,
+      "conf" : 1,
+      "text" : "Microscopy, synovial fluid Monosodium Urate (MSU) crystals",
+      "h" : 0.01175064563751227,
+      "y" : 0.9272642114645611,
+      "x" : 0.7152255599937345
+    },
+    {
+      "w" : 0.05456970785265769,
+      "conf" : 1,
+      "text" : "display:",
+      "h" : 0.010362778769599013,
+      "y" : 0.9149709302847077,
+      "x" : 0.5441729330125263
+    },
+    {
+      "w" : 0.37406012002381384,
+      "conf" : 1,
+      "text" : "[A] Rhomboid shape with weak positive birefringence (blue parallel)",
+      "h" : 0.01027777777777783,
+      "y" : 0.8990277776426606,
+      "x" : 0.7020676629385968
+    },
+    {
+      "w" : 0.31015036587746003,
+      "conf" : 1,
+      "text" : "[B] Hexagonal flat plate crystals with zero birefringence",
+      "h" : 0.010277777777777719,
+      "y" : 0.8873611113193207,
+      "x" : 0.67011278712406
+    },
+    {
+      "w" : 0.3345864554431951,
+      "conf" : 1,
+      "text" : "[C] Bipyramidal envelope crystals with positive birefringence",
+      "h" : 0.01027777777777783,
+      "y" : 0.8756944442239135,
+      "x" : 0.6823308214912283
+    },
+    {
+      "w" : 0.3233082686972053,
+      "conf" : 1,
+      "text" : "[D] Amorphous round globules without crystalline structure",
+      "h" : 0.011686045858595118,
+      "y" : 0.8633430229819266,
+      "x" : 0.6785714275062658
+    },
+    {
+      "w" : 0.39473682132065513,
+      "conf" : 1,
+      "text" : "[E] Needle shape with STRONG NEGATIVE BIREFRINGENCE (yellow",
+      "h" : 0.010277777777777719,
+      "y" : 0.850972222405789,
+      "x" : 0.7124060189849624
+    },
+    {
+      "w" : 0.15601503000595351,
+      "conf" : 1,
+      "text" : "parallel, blue perpendicular)",
+      "h" : 0.008888888888888946,
+      "y" : 0.8386111111591428,
+      "x" : 0.5949248139802632
+    },
+    {
+      "w" : 0.3740601200238137,
+      "conf" : 1,
+      "text" : "Q37. [2022 Exam] In chronic tophaceous gout, what is the",
+      "h" : 0.011666666666666603,
+      "y" : 0.8124999999515503,
+      "x" : 0.7039473621867169
+    },
+    {
+      "w" : 0.3984962095895488,
+      "conf" : 1,
+      "text" : "pathognomonic histopathological composition of a 'Tophus'?",
+      "h" : 0.011673126220703156,
+      "y" : 0.7994412145707359,
+      "x" : 0.7161654085526317
+    },
+    {
+      "w" : 0.4266917313027948,
+      "conf" : 1,
+      "text" : "[A] Central caseating necrosis surrounded by epithelioid Langhans giant cells",
+      "h" : 0.010174418555365716,
+      "y" : 0.7841569768168604,
+      "x" : 0.7302631650062654
+    },
+    {
+      "w" : 0.4060150300059535,
+      "conf" : 1,
+      "text" : "[B] Sheets of malignant squamous cells forming concentric keratin pearls",
+      "h" : 0.011627906163533486,
+      "y" : 0.7718023257751938,
+      "x" : 0.7180451067669175
+    },
+    {
+      "w" : 0.4191729108863903,
+      "conf" : 1,
+      "text" : "[C] Aggregates of monosodium urate crystals surrounded by a foreign-body",
+      "h" : 0.010174418555365716,
+      "y" : 0.7594476745094476,
+      "x" : 0.7246240653900375
+    },
+    {
+      "w" : 0.3759398360975692,
+      "conf" : 1,
+      "text" : "granulomatous reaction of histiocytes and multinucleated giant cells",
+      "h" : 0.010174418555365716,
+      "y" : 0.7478197675327034,
+      "x" : 0.7048872227443608
+    },
+    {
+      "w" : 0.3928571491255167,
+      "conf" : 1,
+      "text" : "[D] Fibrinoid necrosis of arterioles surrounded by palisading histiocytes",
+      "h" : 0.01028423786163335,
+      "y" : 0.7362467700455757,
+      "x" : 0.711466158865915
+    },
+    {
+      "w" : 0.36090223914337705,
+      "conf" : 1,
+      "text" : "[E] Eosinophilic amyloid fibrils showing apple-green birefringence",
+      "h" : 0.01031007766723624,
+      "y" : 0.72317829459954,
+      "x" : 0.6954887157894738
+    },
+    {
+      "w" : 0.3909774330517613,
+      "conf" : 1,
+      "text" : "Q31. 2023 Exam] What dual biochemical mechanism causes",
+      "h" : 0.00872092988755968,
+      "y" : 0.6845930233139534,
+      "x" : 0.2518797031578947
+    },
+    {
+      "w" : 0.30263156740036395,
+      "conf" : 1,
+      "text" : "profound hyperuricemia in Von Gierke disease",
+      "h" : 0.010174418555365716,
+      "y" : 0.6707848836300871,
+      "x" : 0.2058270638862783
+    },
+    {
+      "w" : 0.24624058979179772,
+      "conf" : 1,
+      "text" : "(Glucose-6-Phosphatase deficiency)?",
+      "h" : 0.011679586304558676,
+      "y" : 0.6569509040670843,
+      "x" : 0.17575187559523822
+    },
+    {
+      "w" : 0.37781955217132457,
+      "conf" : 1,
+      "text" : "[A] Direct destruction of renal glomeruli by stored glycogen granules",
+      "h" : 0.010174418555365716,
+      "y" : 0.6417151162063954,
+      "x" : 0.24154134708646635
+    },
+    {
+      "w" : 0.29699246305771476,
+      "conf" : 1,
+      "text" : "[B] Total absence of hepatic xanthine oxidase activity",
+      "h" : 0.01027777777777783,
+      "y" : 0.6301388889680374,
+      "x" : 0.2011278232612781
+    },
+    {
+      "w" : 0.34398494805473806,
+      "conf" : 1,
+      "text" : "[C] Massive intestinal hyperabsorption of dietary nucleic acids",
+      "h" : 0.010277777777777719,
+      "y" : 0.6184722220179792,
+      "x" : 0.22462406445018787
+    },
+    {
+      "w" : 0.4154135226174964,
+      "conf" : 1,
+      "text" : "[D] G6P diversion into HMP shunt producing excess PRPP; plus lactic acid",
+      "h" : 0.01027777777777783,
+      "y" : 0.6054166665110822,
+      "x" : 0.2603383510573307
+    },
+    {
+      "w" : 0.24060148544914856,
+      "conf" : 1,
+      "text" : "competitively blocks tubular urate secretion",
+      "h" : 0.010277777777777719,
+      "y" : 0.5937500001695737,
+      "x" : 0.17481202863408524
+    },
+    {
+      "w" : 0.3063909776085662,
+      "conf" : 1,
+      "text" : "[E] Down-regulation of all proximal SGLT2 transporters",
+      "h" : 0.010277777777777719,
+      "y" : 0.5806944442871922,
+      "x" : 0.2058270650689224
+    },
+    {
+      "w" : 0.3477443582629403,
+      "conf" : 1,
+      "text" : "Q32. [2022 Exam] Why do Loop and Thiazide diuretics",
+      "h" : 0.011692506472269715,
+      "y" : 0.5552648581001046,
+      "x" : 0.2302631568609023
+    },
+    {
+      "w" : 0.4210526269601455,
+      "conf" : 1,
+      "text" : "characteristically provoke Hyperuricemia and trigger acute gouty",
+      "h" : 0.011718345748053749,
+      "y" : 0.5421963825102833,
+      "x" : 0.26503758872180455
+    },
+    {
+      "w" : 0.11278195521713247,
+      "conf" : 1,
+      "text" : "arthritis attacks?",
+      "h" : 0.01029069794548887,
+      "y" : 0.5298546512018445,
+      "x" : 0.11090225375939855
+    },
+    {
+      "w" : 0.34210525392029123,
+      "conf" : 1,
+      "text" : "[A] They directly stimulate hepatic xanthine oxidase synthesis",
+      "h" : 0.008888888888888946,
+      "y" : 0.5130555554705598,
+      "x" : 0.22368420625000013
+    },
+    {
+      "w" : 0.34210525392029123,
+      "conf" : 1,
+      "text" : "[B] They hydrolyze circulating uric acid into insoluble xanthine",
+      "h" : 0.010277777777777719,
+      "y" : 0.5006944442420822,
+      "x" : 0.22368420625000013
+    },
+    {
+      "w" : 0.30639097760856626,
+      "conf" : 1,
+      "text" : "[C] They bind and destroy the salvage enzyme HGPRT",
+      "h" : 0.010297157499525311,
+      "y" : 0.48903746768271666,
+      "x" : 0.2058270638392858
+    },
+    {
+      "w" : 0.25375938826889377,
+      "conf" : 1,
+      "text" : "[D] They alkalinize the proximal tubular lumen",
+      "h" : 0.0087273899714152,
+      "y" : 0.47674741616111377,
+      "x" : 0.18139098061560144
+    },
+    {
+      "w" : 0.413533806543741,
+      "conf" : 1,
+      "text" : "[E] ECF volume depletion enhances proximal urate reabsorption, plus they",
+      "h" : 0.01031007766723624,
+      "y" : 0.4643217052369426,
+      "x" : 0.25939849107142865
+    },
+    {
+      "w" : 0.2689576906578563,
+      "conf" : 1,
+      "text" : "compete with urate for tubular secretion via OAT",
+      "h" : 0.010512331856621593,
+      "y" : 0.4527391381919924,
+      "x" : 0.18891727969517344
+    },
+    {
+      "w" : 0.4229323430339009,
+      "conf" : 1,
+      "text" : "Q33. [2021 Exam] Why does heavy alcohol (ethanol) consumption",
+      "h" : 0.0102971574995252,
+      "y" : 0.4265374678098969,
+      "x" : 0.2678571470864661
+    },
+    {
+      "w" : 0.413533806543741,
+      "conf" : 1,
+      "text" : "acutely precipitate severe hyperuricemia and acute gout flares?",
+      "h" : 0.011666666666666714,
+      "y" : 0.4127777776157192,
+      "x" : 0.2612782006578946
+    },
+    {
+      "w" : 0.4060150300059534,
+      "conf" : 1,
+      "text" : "[A] Alcohol is converted directly into monosodium urate by gastric alcohol",
+      "h" : 0.010174418555365716,
+      "y" : 0.3975290698885658,
+      "x" : 0.2556391045112779
+    },
+    {
+      "w" : 0.08834586016657026,
+      "conf" : 1,
+      "text" : "dehydrogenase",
+      "h" : 0.00872092988755968,
+      "y" : 0.3851744185683139,
+      "x" : 0.09868420942199252
+    },
+    {
+      "w" : 0.3966165373944105,
+      "conf" : 1,
+      "text" : "[B] Alcohol binds tightly to joint cartilage, converting it into sodium urate",
+      "h" : 0.010174418555365716,
+      "y" : 0.3728197672722868,
+      "x" : 0.25093985253759393
+    },
+    {
+      "w" : 0.413533806543741,
+      "conf" : 1,
+      "text" : "[C] Ethanol oxidation generates lactic acid (inhibiting renal urate excretion)",
+      "h" : 0.010284237861633239,
+      "y" : 0.3612467700637443,
+      "x" : 0.25939849107142865
+    },
+    {
+      "w" : 0.26879698522308587,
+      "conf" : 1,
+      "text" : "and accelerates hepatic ATP breakdown to AMP",
+      "h" : 0.010277777777777719,
+      "y" : 0.3495833331374452,
+      "x" : 0.18890976995614048
+    },
+    {
+      "w" : 0.293233074788821,
+      "conf" : 1,
+      "text" : "[D] Ethanol stimulates pituitary ACTH hypersecretion",
+      "h" : 0.010277777777777719,
+      "y" : 0.3379166668443862,
+      "x" : 0.2011278232142856
+    },
+    {
+      "w" : 0.30075187326591707,
+      "conf" : 1,
+      "text" : "[E] Alcohol destroys circulating neutrophils completely",
+      "h" : 0.010277777777777719,
+      "y" : 0.3248611111739717,
+      "x" : 0.20300751378446136
+    },
+    {
+      "w" : 0.42293229915528396,
+      "conf" : 1,
+      "text" : "Q34. [2020 Exam] What primary cellular event triggers acute joint",
+      "h" : 0.011737725999620197,
+      "y" : 0.2980200261486636,
+      "x" : 0.2659774365601506
+    },
+    {
+      "w" : 0.32894735110054596,
+      "conf" : 1,
+      "text" : "inflammation during an acute gouty arthritis flare?",
+      "h" : 0.010174418555365716,
+      "y" : 0.28415697671996126,
+      "x" : 0.21710525767543878
+    },
+    {
+      "w" : 0.3778195521713246,
+      "conf" : 1,
+      "text" : "[A] Immune-complex activation of classical complement on cartilage",
+      "h" : 0.008888888888888946,
+      "y" : 0.2688888888260281,
+      "x" : 0.24154135810620292
+    },
+    {
+      "w" : 0.37030073175492,
+      "conf" : 1,
+      "text" : "[B] Histamine release from perivascular basophils triggered by IgE",
+      "h" : 0.011692506472269715,
+      "y" : 0.2572351418998955,
+      "x" : 0.23590226149749352
+    },
+    {
+      "w" : 0.3026315674003639,
+      "conf" : 1,
+      "text" : "[C] Direct bacterial toxin cleavage of synovial collagen",
+      "h" : 0.010277777777777719,
+      "y" : 0.24486111114097414,
+      "x" : 0.20394737220394724
+    },
+    {
+      "w" : 0.3421052539202912,
+      "conf" : 1,
+      "text" : "[D] MSU crystal uptake activating NLRP3 Inflammasome and",
+      "h" : 0.010174418555365716,
+      "y" : 0.2332848836482559,
+      "x" : 0.22180450557644132
+    },
+    {
+      "w" : 0.3627819552171325,
+      "conf" : 1,
+      "text" : "[E] Cytotoxic T-lymphocyte perforin release against synoviocytes",
+      "h" : 0.010174418555365716,
+      "y" : 0.20857558144985472,
+      "x" : 0.2321428616776315
+    },
+    {
+      "w" : 0.394736821320655,
+      "conf" : 1,
+      "text" : "Q38. [2021 Exam] Colchicine is an effective anti-inflammatory",
+      "h" : 0.01162790722317164,
+      "y" : 0.6845930233042636,
+      "x" : 0.7161654168233083
+    },
+    {
+      "w" : 0.394736821320655,
+      "conf" : 1,
+      "text" : "agent used to terminate acute gout flares. What is its cellular",
+      "h" : 0.010174418555365605,
+      "y" : 0.6707848836603683,
+      "x" : 0.7142857109962407
+    },
+    {
+      "w" : 0.1447368432599636,
+      "conf" : 1,
+      "text" : "mechanism of action?",
+      "h" : 0.010290697415669792,
+      "y" : 0.6576453488510979,
+      "x" : 0.5892857124765039
+    },
+    {
+      "w" : 0.3552631567400364,
+      "conf" : 1,
+      "text" : "[A] Non-selective inhibition of cyclooxygenase-1 and 2 enzymes",
+      "h" : 0.010174418555365605,
+      "y" : 0.6417151163517443,
+      "x" : 0.6926691788533832
+    },
+    {
+      "w" : 0.3364661495776421,
+      "conf" : 1,
+      "text" : "[B] Direct chemical dissolution of intra-articular urate crystals",
+      "h" : 0.010277777777777719,
+      "y" : 0.6301388887863515,
+      "x" : 0.6832706802396618
+    },
+    {
+      "w" : 0.3214285526234498,
+      "conf" : 1,
+      "text" : "[C] Competitive antagonism of interleukin-1beta receptors",
+      "h" : 0.010277777777777719,
+      "y" : 0.6184722220179792,
+      "x" : 0.675751883717105
+    },
+    {
+      "w" : 0.4060150300059534,
+      "conf" : 1,
+      "text" : "[D] Binding to unpolymerized tubulin, inhibiting microtubule assembly and",
+      "h" : 0.01027777777777783,
+      "y" : 0.6054166668773838,
+      "x" : 0.7180451060150379
+    },
+    {
+      "w" : 0.3327067613087482,
+      "conf" : 1,
+      "text" : "blocking neutrophil chemotaxis, adhesion, and phagocytosis",
+      "h" : 0.010277777777777719,
+      "y" : 0.5937500001695737,
+      "x" : 0.6832706712092734
+    },
+    {
+      "w" : 0.28947368651992733,
+      "conf" : 1,
+      "text" : "[E] Irreversible suicide inhibition of xanthine oxidase",
+      "h" : 0.008888888888888946,
+      "y" : 0.5813888888260281,
+      "x" : 0.6597744397086467
+    },
+    {
+      "w" : 0.3627819552171325,
+      "conf" : 1,
+      "text" : "Q39. [2025 Exam] What is the fundamental Cardinal Rule",
+      "h" : 0.01027777777777783,
+      "y" : 0.5559722220361477,
+      "x" : 0.7001879735526315
+    },
+    {
+      "w" : 0.4060150300059534,
+      "conf" : 1,
+      "text" : "regarding Urate-Lowering Therapy (e.g., Allopurinol) during an",
+      "h" : 0.010174418555365716,
+      "y" : 0.5414244185804264,
+      "x" : 0.7180451060150379
+    },
+    {
+      "w" : 0.12969924630577145,
+      "conf" : 1,
+      "text" : "acute gouty attack?",
+      "h" : 0.010174418555365716,
+      "y" : 0.5283430233466571,
+      "x" : 0.5817669189144736
+    },
+    {
+      "w" : 0.41165413434860254,
+      "conf" : 1,
+      "text" : "[A] Immediately start high-dose allopurinol (800 mg\/day) on day one of the",
+      "h" : 0.01028423786163335,
+      "y" : 0.5137532300513235,
+      "x" : 0.7208646588032583
+    },
+    {
+      "w" : 0.02819548880428313,
+      "conf" : 1,
+      "text" : "flare",
+      "h" : 0.00872092988755957,
+      "y" : 0.5014534882267441,
+      "x" : 0.5291353387531328
+    },
+    {
+      "w" : 0.30639097760856615,
+      "conf" : 1,
+      "text" : "[B] Discontinue all NSAIDs and analgesics immediately",
+      "h" : 0.010297157499525311,
+      "y" : 0.4890374677808272,
+      "x" : 0.6682330857706766
+    },
+    {
+      "w" : 0.3026315674003639,
+      "conf" : 1,
+      "text" : "[C] Switch allopurinol to oral probenecid every 4 hours",
+      "h" : 0.0087273899714152,
+      "y" : 0.47674741613688904,
+      "x" : 0.666353388502506
+    },
+    {
+      "w" : 0.31578947022010917,
+      "conf" : 1,
+      "text" : "[D] Administer high-dose intravenous aspirin immediately",
+      "h" : 0.01031007766723624,
+      "y" : 0.46432170540046,
+      "x" : 0.6748120332330826
+    },
+    {
+      "w" : 0.42481201522903933,
+      "conf" : 1,
+      "text" : "[E] NEVER start, stop, or change the dose of Urate-Lowering Therapy during",
+      "h" : 0.010174418555365716,
+      "y" : 0.45276162781613377,
+      "x" : 0.727443603712406
+    },
+    {
+      "w" : 0.3665413434860262,
+      "conf" : 1,
+      "text" : "an acute flare (rapid urate shifts worsen and prolong inflammation)",
+      "h" : 0.010174418555365716,
+      "y" : 0.44113372083938956,
+      "x" : 0.7001879653430452
+    },
+    {
+      "w" : 0.385338328709112,
+      "conf" : 1,
+      "text" : "Q40. [Faculty Exam] What is the biochemical mechanism of",
+      "h" : 0.0102971574995252,
+      "y" : 0.42653746766454814,
+      "x" : 0.7095864597431079
+    },
+    {
+      "w" : 0.3759398360975692,
+      "conf" : 1,
+      "text" : "Allopurinol in the chronic long-term management of gout?",
+      "h" : 0.011666666666666603,
+      "y" : 0.41277777798807697,
+      "x" : 0.706766914160401
+    },
+    {
+      "w" : 0.3665413434860263,
+      "conf" : 1,
+      "text" : "[A] Directly inhibiting apical URAT1 in proximal convoluted tubules",
+      "h" : 0.011627906163533597,
+      "y" : 0.39680232538759697,
+      "x" : 0.6983082665726819
+    },
+    {
+      "w" : 0.36090223914337716,
+      "conf" : 1,
+      "text" : "[B] Hydrolyzing uric acid into soluble allantoin and carbon dioxide",
+      "h" : 0.010297157499525311,
+      "y" : 0.3859625321719346,
+      "x" : 0.6954887172932331
+    },
+    {
+      "w" : 0.41165413434860254,
+      "conf" : 1,
+      "text" : "[C] Hypoxanthine analog converted by XO to Alloxanthine, causing suicide",
+      "h" : 0.011711886194017196,
+      "y" : 0.37358850157047435,
+      "x" : 0.7208646565084589
+    },
+    {
+      "w" : 0.1691729218560445,
+      "conf" : 1,
+      "text" : "inhibition of Xanthine Oxidase",
+      "h" : 0.008888888888888835,
+      "y" : 0.3619444445052155,
+      "x" : 0.5996240629699248
+    },
+    {
+      "w" : 0.3759398360975692,
+      "conf" : 1,
+      "text" : "[D] Acting as a potent allosteric activator of PRPP amidotransferase",
+      "h" : 0.010277777777777719,
+      "y" : 0.34958333311927653,
+      "x" : 0.7030075140977444
+    },
+    {
+      "w" : 0.37781955217132457,
+      "conf" : 1,
+      "text" : "[E] Blocking intestinal absorption of purines by chelating nucleotides",
+      "h" : 0.010277777777777719,
+      "y" : 0.3379166668443862,
+      "x" : 0.7039473731437969
+    },
+    {
+      "w" : 0.40413531393219804,
+      "conf" : 1,
+      "text" : "Q35. [2024 Exam] What is the single most common anatomical",
+      "h" : 0.011666666666666603,
+      "y" : 0.1686111111012974,
+      "x" : 0.2565789478618421
+    },
+    {
+      "w" : 0.38157894044021834,
+      "conf" : 1,
+      "text" : "joint initially involved in acute gouty arthritis (~50% of first",
+      "h" : 0.011679585774739598,
+      "y" : 0.15554909581335497,
+      "x" : 0.24530075573308258
+    },
+    {
+      "w" : 0.22180450022606266,
+      "conf" : 1,
+      "text" : "presentations, termed 'Podagra')?",
+      "h" : 0.011705426110161676,
+      "y" : 0.14248062034153108,
+      "x" : 0.16541353013784474
+    },
+    {
+      "w" : 0.3421052539202912,
+      "conf" : 1,
+      "text" : "[A] First Metatarsophalangeal (1st MTP) joint of the great toe",
+      "h" : 0.010174418555365605,
+      "y" : 0.12718023261264533,
+      "x" : 0.21992481630639088
+    },
+    {
+      "w" : 0.16541353358715066,
+      "conf" : 1,
+      "text" : "[B] Temporomandibular joint",
+      "h" : 0.010297157499525311,
+      "y" : 0.11403746782806551,
+      "x" : 0.13157894943609016
+    },
+    {
+      "w" : 0.15225563076740542,
+      "conf" : 1,
+      "text" : "[C] Radiocarpal wrist joint",
+      "h" : 0.010174418555365716,
+      "y" : 0.10247093028706394,
+      "x" : 0.12312030265507515
+    },
+    {
+      "w" : 0.18421052977989083,
+      "conf" : 1,
+      "text" : "[D] Glenohumeral shoulder joint",
+      "h" : 0.010174418555365605,
+      "y" : 0.0908430232013081,
+      "x" : 0.14097744130639106
+    },
+    {
+      "w" : 0.3233082686972053,
+      "conf" : 1,
+      "text" : "[E] Distal interphalangeal (DIP) joint with Heberden nodes",
+      "h" : 0.011627906163533486,
+      "y" : 0.07848837189922481,
+      "x" : 0.21240601384711782
+    },
+    {
+      "w" : 0.4191729108863902,
+      "conf" : 1,
+      "text" : "Q41. [Core Exam] What critical, life-threatening pharmacogenetic",
+      "h" : 0.011737725469801119,
+      "y" : 0.2980200260048779,
+      "x" : 0.7283834638862781
+    },
+    {
+      "w" : 0.42105262696014556,
+      "conf" : 1,
+      "text" : "drug interaction occurs when Allopurinol is co-administered with",
+      "h" : 0.010174418555365716,
+      "y" : 0.28415697668968026,
+      "x" : 0.7274436037593985
+    },
+    {
+      "w" : 0.2274436045687117,
+      "conf" : 1,
+      "text" : "Azathioprine or 6-Mercaptopurine?",
+      "h" : 0.010174418555365716,
+      "y" : 0.27107558151647276,
+      "x" : 0.6325188007832079
+    },
+    {
+      "w" : 0.35150374653183425,
+      "conf" : 1,
+      "text" : "[A] Severe acute hyperkalemic cardiac arrest within 10 minutes",
+      "h" : 0.010277777777777719,
+      "y" : 0.255138888743958,
+      "x" : 0.6907894717105264
+    },
+    {
+      "w" : 0.3139097760856624,
+      "conf" : 1,
+      "text" : "[B] Complete irreversible destruction of the thyroid gland",
+      "h" : 0.010277777777777719,
+      "y" : 0.24347222205431635,
+      "x" : 0.6719924851268796
+    },
+    {
+      "w" : 0.37030073175492006,
+      "conf" : 1,
+      "text" : "[C] Rapid formation of bilateral obstructive cystine staghorn calculi",
+      "h" : 0.010277777777777719,
+      "y" : 0.2318055556159086,
+      "x" : 0.700187976096491
+    },
+    {
+      "w" : 0.4304511195716886,
+      "conf" : 1,
+      "text" : "[D] Allopurinol inhibits Xanthine Oxidase (which metabolizes 6-MP), leading to",
+      "h" : 0.01027777777777783,
+      "y" : 0.2187500000908431,
+      "x" : 0.7302631632753758
+    },
+    {
+      "w" : 0.35902254500893005,
+      "conf" : 1,
+      "text" : "toxic accumulation of 6-MP and fatal bone marrow pancytopenia",
+      "h" : 0.01027777777777783,
+      "y" : 0.20708333314078486,
+      "x" : 0.6945488766682328
+    },
+    {
+      "w" : 0.3759398360975692,
+      "conf" : 1,
+      "text" : "[E] Acute hypertensive encephalopathy due to catecholamine crisis",
+      "h" : 0.01030361758338083,
+      "y" : 0.19542958655672882,
+      "x" : 0.7030075250626564
+    },
+    {
+      "w" : 0.42293229915528385,
+      "conf" : 1,
+      "text" : "Q42. [Clini Exam] A leukemic male develops oliguria post-chemo.",
+      "h" : 0.011666666666666714,
+      "y" : 0.1686111112466463,
+      "x" : 0.7302631649436087
+    },
+    {
+      "w" : 0.40789474607970877,
+      "conf" : 1,
+      "text" : "Labs: uric acid 18.5 mg\/dL, phosphate 9.8, K+ 6.4 (Tumor Lysis",
+      "h" : 0.011679586834377753,
+      "y" : 0.15554909567769604,
+      "x" : 0.7208646657330826
+    },
+    {
+      "w" : 0.24812028392624463,
+      "conf" : 1,
+      "text" : "Syndrome). The mechanism of AKi is:",
+      "h" : 0.010174418555365716,
+      "y" : 0.1417151163517441,
+      "x" : 0.6409774477443608
+    },
+    {
+      "w" : 0.3759398360975691,
+      "conf" : 1,
+      "text" : "[A] Immune complex-mediated diffuse crescentic glomerulonephritis",
+      "h" : 0.010174418555365716,
+      "y" : 0.12718023248546512,
+      "x" : 0.7030075125313286
+    },
+    {
+      "w" : 0.3345864554431951,
+      "conf" : 1,
+      "text" : "[B] Direct malignant infiltration of parenchyma by blast cells",
+      "h" : 0.011750645637512158,
+      "y" : 0.1147642117552588,
+      "x" : 0.6823308326441102
+    },
+    {
+      "w" : 0.34210525392029123,
+      "conf" : 1,
+      "text" : "[C] Severe cortical infarction caused by renal vein thrombosis",
+      "h" : 0.010174418555365605,
+      "y" : 0.10247093030523247,
+      "x" : 0.6860902312656638
+    },
+    {
+      "w" : 0.3214285526234498,
+      "conf" : 1,
+      "text" : "[D] Pre-renal hypovolemia secondary to massive polyuria",
+      "h" : 0.010174418555365716,
+      "y" : 0.09084302332848843,
+      "x" : 0.6757518850563908
+    },
+    {
+      "w" : 0.41165413434860254,
+      "conf" : 1,
+      "text" : "[E] Intratubular precipitation of uric acid crystals in collecting ducts causing",
+      "h" : 0.010174418555365716,
+      "y" : 0.07776162785247104,
+      "x" : 0.7208646565084589
+    },
+    {
+      "w" : 0.5845864335038866,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal Biochemistry Master Class • Strictly Grounded in Faculty & Boz Exam Past Papers",
+      "h" : 0.021802325778537357,
+      "y" : 0.01671511644864343,
+      "x" : 0.3411654037907272
+    },
+    {
+      "w" : 0.18609022391433772,
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "h" : 0.0087273899714152,
+      "y" : 0.023252583969700036,
+      "x" : 0.8524436108834585
+    }
+  ],
+  "page" : 113
+}

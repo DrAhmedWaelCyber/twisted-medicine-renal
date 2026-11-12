@@ -1,0 +1,997 @@
+{
+  "page" : 45,
+  "items" : [
+    {
+      "y" : 0.9774224803741455,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 11 MCQ Masterclass",
+      "x" : 0.2839506088477369,
+      "w" : 0.5061728039627554,
+      "h" : 0.013178294499715193,
+      "conf" : 1
+    },
+    {
+      "y" : 0.976747416123995,
+      "text" : "Page 3 of 4",
+      "x" : 0.9341563774348425,
+      "w" : 0.06995884277535691,
+      "h" : 0.008727390236324739,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9643217053822914,
+      "text" : "Twisted Medicine Medical Series * Starling Forces, Net Filtration Pressure, GFR & Clearance* Standard Practice Bank",
+      "x" : 0.3467078267746912,
+      "w" : 0.6275720176456859,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9477357884143149,
+      "text" : "Q29. [2025 Exam] Creatinine is widely used in routine clinical practice",
+      "x" : 0.262345684696502,
+      "w" : 0.45473249903265045,
+      "h" : 0.011750645637512158,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9477357883053033,
+      "text" : "Q36. [2023 Exam] Cystatin C is an endogenous low-molecular-weight",
+      "x" : 0.7325102824588479,
+      "w" : 0.4485596470862815,
+      "h" : 0.011750645637512158,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9338662790455426,
+      "text" : "to estimate GFR instead of inulin primarily because:",
+      "x" : 0.2067901176611799,
+      "w" : 0.34773662255245186,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9338662791606105,
+      "text" : "protein increasingly used as an alternative GFR marker because it:",
+      "x" : 0.7242798407407407,
+      "w" : 0.42798350592079404,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9193055556159087,
+      "text" : "[A] Creatinine is completely reabsorbed by active transport",
+      "x" : 0.20576132263374466,
+      "w" : 0.3456789892424577,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9193055556340772,
+      "text" : "[A] Is produced at a constant rate by all nucleated cells, freely filtered, and",
+      "x" : 0.7253086473508229,
+      "w" : 0.4300411392307881,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9076453487497058,
+      "text" : "[B] Its clearance equals total renal plasma flow",
+      "x" : 0.1718107042181068,
+      "w" : 0.27777776178324,
+      "h" : 0.010290697945488758,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9076453487497058,
+      "text" : "independent of muscle mass or diet",
+      "x" : 0.6172839541838133,
+      "w" : 0.21399175296039707,
+      "h" : 0.010290697945488758,
+      "conf" : 1
+    },
+    {
+      "y" : 0.896075581340843,
+      "text" : "[C] It has zero tubular secretion in all human beings",
+      "x" : 0.18415637481995895,
+      "w" : 0.3024691215851022,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.896075581340843,
+      "text" : "[B] Is actively secreted by collecting ducts in response to aldosterone",
+      "x" : 0.7119341513374486,
+      "w" : 0.40329219410254513,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8844476743459302,
+      "text" : "[D] It is an endogenous byproduct of muscle metabolism requiring no",
+      "x" : 0.2355967010631004,
+      "w" : 0.40534977942892597,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8844476744731105,
+      "text" : "[C] Appears in urine at concentrations 10-fold higher than inulin",
+      "x" : 0.6944444490483539,
+      "w" : 0.36831273972613265,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.872819767369186,
+      "text" : "continuous IV infusion",
+      "x" : 0.10082304300411529,
+      "w" : 0.1358024669143389,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8728197674963663,
+      "text" : "[D] Is synthesized exclusively by renal juxtaglomerular cells",
+      "x" : 0.6831275763374484,
+      "w" : 0.3456790132342644,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8612467699805209,
+      "text" : "[E] It does not filter across glomerular capillaries",
+      "x" : 0.1759259225051441,
+      "w" : 0.2860082230477963,
+      "h" : 0.010284237331814272,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8612467701424749,
+      "text" : "[E] Replaces albumin as the major plasma oncotic protein",
+      "x" : 0.6779835447530862,
+      "w" : 0.33950616128789557,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8204295864779982,
+      "text" : "Q30. [2024 Exam] Why does standard 24-hour Creatinine Clearance",
+      "x" : 0.2520576077417696,
+      "w" : 0.4341563578671629,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "y" : 0.806666666596082,
+      "text" : "(C_Cr) slightly OVERESTIMATE true GFR by approximately 10% to",
+      "x" : 0.24485596934156376,
+      "w" : 0.4238682872844193,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7943313953690245,
+      "text" : "15%?",
+      "x" : 0.05349794228395062,
+      "w" : 0.0370370367038175,
+      "h" : 0.007267441749572723,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7783430232315891,
+      "text" : "[A] Creatinine is reabsorbed by collecting duct principal cells",
+      "x" : 0.20987653731138564,
+      "w" : 0.35390945050701406,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7674289405138651,
+      "text" : "[B] Creatinine evaporates from urine collection containers",
+      "x" : 0.20267489146090553,
+      "w" : 0.3395061612878955,
+      "h" : 0.008746769693162681,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7551388889862061,
+      "text" : "[C] Red blood cells synthesize creatinine in the urinary space",
+      "x" : 0.21090535572702315,
+      "w" : 0.3559670598252015,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7434722224387866,
+      "text" : "[D] The colorimetric Jaffe assay underestimates plasma creatinine by 50%",
+      "x" : 0.24999999457304545,
+      "w" : 0.434156357867163,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7318055556340772,
+      "text" : "[E] A small fraction of creatinine (~10-15%) is actively secreted by proximal",
+      "x" : 0.2530864252572015,
+      "w" : 0.44032920981353185,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7209302326065892,
+      "text" : "tubule OATs",
+      "x" : 0.07201646220850474,
+      "w" : 0.07818929804196148,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.693333333282794,
+      "text" : "Q31. [2023 Exam] How does the non-specific Jaffe chromogen",
+      "x" : 0.23662551944444432,
+      "w" : 0.4032921941025452,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6802648582227919,
+      "text" : "laboratory error fortuitously offset the effect of tubular creatinine",
+      "x" : 0.24485596652949249,
+      "w" : 0.4238682872844193,
+      "h" : 0.011692505942450637,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6671511628875969,
+      "text" : "secretion?",
+      "x" : 0.07407407537722903,
+      "w" : 0.07818929804196148,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6518217053459542,
+      "text" : "[A] Non-creatinine chromogens overestimate plasma creatinine by ~10-15%,",
+      "x" : 0.2561728450360081,
+      "w" : 0.44238684312352594,
+      "h" : 0.010310077667236461,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6387532299770858,
+      "text" : "canceling out secretory overestimation",
+      "x" : 0.14814814622770922,
+      "w" : 0.2304526754895096,
+      "h" : 0.010284237331814383,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6286337210029069,
+      "text" : "[B] It measures urine creatinine as zero",
+      "x" : 0.14917695860768163,
+      "w" : 0.23251028480769706,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6170704135583389,
+      "text" : "[C] It causes creatinine to precipitate out of plasma samples",
+      "x" : 0.21090535424382706,
+      "w" : 0.3559670598252015,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6054166664929136,
+      "text" : "[D] It converts plasma urea into creatinine in the test tube",
+      "x" : 0.2026749027777776,
+      "w" : 0.33950616128789557,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5937500000545057,
+      "text" : "[E] It measures creatinine only when GFR exceeds 200 mL\/min",
+      "x" : 0.21604938729423862,
+      "w" : 0.36625513040794516,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5661337210210755,
+      "text" : "Q32. [2022 Exam] Which medication competitively inhibits proximal",
+      "x" : 0.2530864252057612,
+      "w" : 0.43621399117715703,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5522642117552586,
+      "text" : "tubular creatinine secretion, falsely elevating Serum Creatinine",
+      "x" : 0.23765432781207108,
+      "w" : 0.4094649980653007,
+      "h" : 0.01175064563751227,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5391957364061222,
+      "text" : "without reducing true GFR?",
+      "x" : 0.12345679279835384,
+      "w" : 0.17695472525350706,
+      "h" : 0.011724805831909157,
+      "conf" : 1
+    },
+    {
+      "y" : 0.524722222312388,
+      "text" : "[A] Furosemide and Bumetanide",
+      "x" : 0.1286008198559672,
+      "w" : 0.19135801447262554,
+      "h" : 0.008888889153798374,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5137532299059747,
+      "text" : "[B] Cimetidine and Trimethoprim",
+      "x" : 0.1296296328532235,
+      "w" : 0.1934156357867163,
+      "h" : 0.010284237861633239,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5021802326853197,
+      "text" : "[C] Spironolactone and Amiloride",
+      "x" : 0.13065843768004112,
+      "w" : 0.19547324510490371,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4905523256359012,
+      "text" : "[D] Acetazolamide and Mannitol",
+      "x" : 0.12757201882716043,
+      "w" : 0.18930040515443813,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4781976744767442,
+      "text" : "[E] Penicillin and Ampicillin",
+      "x" : 0.11316872588477363,
+      "w" : 0.1604938267162011,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8204618863750763,
+      "text" : "Q37. [2022 Exam] Regarding Blood Urea Nitrogen (BUN), why is urea",
+      "x" : 0.7304526711934157,
+      "w" : 0.44032920981353185,
+      "h" : 0.013145994610256562,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8066666667414308,
+      "text" : "clearance substantially lower than inulin clearance (GFR)?",
+      "x" : 0.6985596645061731,
+      "w" : 0.37654320099068894,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7914244186954942,
+      "text" : "[A] Urea does not filter across glomerular capillary fenestrations",
+      "x" : 0.698559675488683,
+      "w" : 0.37654320099068883,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7798546510338342,
+      "text" : "[B] Approximately 40% to 50% of filtered urea is passively reabsorbed along",
+      "x" : 0.728395054389575,
+      "w" : 0.44032920981353174,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7688888889471522,
+      "text" : "renal tubules (especially PCT and inner medullary CD)",
+      "x" : 0.6656378637517146,
+      "w" : 0.31481480148603336,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7572351420436809,
+      "text" : "[C] Urea is actively secreted by proximal tubular cells",
+      "x" : 0.6646090573559669,
+      "w" : 0.30864197353147105,
+      "h" : 0.011692505942450526,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7455878550787164,
+      "text" : "[D] Urea binds irreversibly to red blood cell membranes",
+      "x" : 0.6707818925925926,
+      "w" : 0.3209876534324021,
+      "h" : 0.0117312653859456,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7332848836664245,
+      "text" : "[E] Urea is completely converted into ammonia inside glomeruli",
+      "x" : 0.6934156332304529,
+      "w" : 0.37037037303612663,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.69333333316167,
+      "text" : "Q38. [2021 Exam] In Prerenal Azotemia (e.g., severe hypovolemia or",
+      "x" : 0.7304526675582993,
+      "w" : 0.44032920981353185,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6795704134129902,
+      "text" : "dehydration), the Serum BUN-to-Creatinine ratio characteristically:",
+      "x" : 0.7263374431584363,
+      "w" : 0.4320987725407821,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6649709303536822,
+      "text" : "[A] Drops to less than 5:1",
+      "x" : 0.5864197556927297,
+      "w" : 0.1563785960839229,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6533430233284883,
+      "text" : "[B] Remains perfectly normal at 10:1",
+      "x" : 0.6162551476337447,
+      "w" : 0.21604938627039116,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6417151163335755,
+      "text" : "[C] Rises significantly to > 20:1 due to increased passive urea reabsorption",
+      "x" : 0.7273662605709874,
+      "w" : 0.4341563578671629,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6301388889862061,
+      "text" : "with sodium and water in sluggish tubules",
+      "x" : 0.6347736667695472,
+      "w" : 0.25308640198137766,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6184722220543164,
+      "text" : "[D] Becomes negative due to renal tubular necrosis",
+      "x" : 0.6594650243569957,
+      "w" : 0.3024691215851021,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6068055556340772,
+      "text" : "[E] Equals zero because urea synthesis stops in the liver",
+      "x" : 0.6728395102880658,
+      "w" : 0.32921809070515184,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.43891149842952565,
+      "text" : "Q33. [2021 Exam] The mathematical relationship between Plasma",
+      "x" : 0.24691358554526738,
+      "w" : 0.4238682872844192,
+      "h" : 0.011711886194017196,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4265374678583465,
+      "text" : "Creatinine concentration and GFR is described as:",
+      "x" : 0.1995884828532234,
+      "w" : 0.3292180907051518,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4106782946177086,
+      "text" : "[A] Directly linear (as GFR drops, creatinine drops equally)",
+      "x" : 0.2016460863168725,
+      "w" : 0.33744855196970813,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3997222221686025,
+      "text" : "[B] An exponential increase in GFR as creatinine rises",
+      "x" : 0.19238683526234557,
+      "w" : 0.31893004411421483,
+      "h" : 0.008888888623979407,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3873611113193206,
+      "text" : "[C] An inverse hyperbolic curve (doubling of plasma creatinine reflects ~50%",
+      "x" : 0.25720165356652924,
+      "w" : 0.4485596470862815,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.375694444417712,
+      "text" : "drop in GFR)",
+      "x" : 0.07510288206447183,
+      "w" : 0.08436213799242703,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.36403746768271666,
+      "text" : "[D] Completely independent (creatinine never changes with GFR)",
+      "x" : 0.2211934109310701,
+      "w" : 0.3765432009906889,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "y" : 0.35247093030523263,
+      "text" : "[E] A bell-shaped Gaussian distribution curve",
+      "x" : 0.16563786450617263,
+      "w" : 0.2654320818823088,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5661337209847384,
+      "text" : "Q39. [2025 Exam] In Intrinsic Acute Tubular Necrosis (ATN) with",
+      "x" : 0.7181070010802468,
+      "w" : 0.41563785001166964,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5530555557864885,
+      "text" : "parenchymal nephron damage, the BUN-to-Creatinine ratio typically",
+      "x" : 0.7283950573662552,
+      "w" : 0.436213991177157,
+      "h" : 0.013333333333333197,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5392474161611138,
+      "text" : "presents as:",
+      "x" : 0.5576131699074074,
+      "w" : 0.09465020257721912,
+      "h" : 0.00872738997141509,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5247222220361478,
+      "text" : "[A] Highly elevated (> 40:1) with low urinary sodium",
+      "x" : 0.6604938309156377,
+      "w" : 0.30041151226691487,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5137532299059747,
+      "text" : "[B] Undetectable due to severe hematuria",
+      "x" : 0.6327160534636487,
+      "w" : 0.24485596470862814,
+      "h" : 0.010284237861633239,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5014114984279623,
+      "text" : "[C] Exactly 1:1 in all clinical cases",
+      "x" : 0.6100823032578875,
+      "w" : 0.19958847573718186,
+      "h" : 0.011711885664198118,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4898255814437985,
+      "text" : "[D] Maintained at < 15:1 (often 10:1 to 15:1) because damaged tubules cannot",
+      "x" : 0.738683135185185,
+      "w" : 0.4567900843590311,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.47747093015988373,
+      "text" : "reabsorb rea avidly",
+      "x" : 0.5699588456790123,
+      "w" : 0.12345678701340779,
+      "h" : 0.010174418555365605,
+      "conf" : 0.5
+    },
+    {
+      "y" : 0.46656976751453483,
+      "text" : "[E] Greater than 100:1 with fractional excretion of sodium < 1%",
+      "x" : 0.6923868358281893,
+      "w" : 0.3641975210897578,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4396802326126453,
+      "text" : "Q40. [Facul Exam] The Cockcroft-Gault formula estimates Creatinine",
+      "x" : 0.7345679067901234,
+      "w" : 0.4444444284499066,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4258430232338646,
+      "text" : "Clearance. Why is the calculated result multiplied by 0.85 for female",
+      "x" : 0.7314814858641975,
+      "w" : 0.43827157650353765,
+      "h" : 0.011686046918233162,
+      "conf" : 1
+    },
+    {
+      "y" : 0.41206395331879836,
+      "text" : "patients?",
+      "x" : 0.5421810691700961,
+      "w" : 0.06378600882284302,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.39752906982194774,
+      "text" : "[A] Females have higher tubular creatinine secretion than males",
+      "x" : 0.6965020623199587,
+      "w" : 0.37654320099068894,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.38596253233545186,
+      "text" : "[B] Women have higher hematocrit and lower renal plasma flow",
+      "x" : 0.6965020638888886,
+      "w" : 0.37654320099068883,
+      "h" : 0.0102971574995252,
+      "conf" : 1
+    },
+    {
+      "y" : 0.37430555577608654,
+      "text" : "[C] Female kidneys contain 15% more glomeruli than male kidneys",
+      "x" : 0.7047325167695471,
+      "w" : 0.38888888089162,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3626388888260283,
+      "text" : "[D] Estrogen directly destroys 15% of circulating serum creatinine",
+      "x" : 0.7006172903635115,
+      "w" : 0.38477363826343847,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.35097222240578896,
+      "text" : "[E] Females typically possess ~15% less muscle mass per unit body weight",
+      "x" : 0.7283950661316871,
+      "w" : 0.44032920981353185,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3394056847557757,
+      "text" : "than males",
+      "x" : 0.5432098753772291,
+      "w" : 0.0699588427753568,
+      "h" : 0.007299741639031243,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3125000000484497,
+      "text" : "Q41. [Core Concept] Which clinical scenario will cause an acute",
+      "x" : 0.7160493895061725,
+      "w" : 0.40740741273892,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2994444443840914,
+      "text" : "increase in GFR and Filtration Fraction?",
+      "x" : 0.6368312725051442,
+      "w" : 0.2572016446095593,
+      "h" : 0.008888888888888835,
+      "conf" : 1
+    },
+    {
+      "y" : 0.283414150122098,
+      "text" : "[A] High-protein meal or intravenous amino acid infusion triggering",
+      "x" : 0.7037092707230189,
+      "w" : 0.391071175629238,
+      "h" : 0.011724136140611408,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2725290697916666,
+      "text" : "tubuloglomerular feedback dilation",
+      "x" : 0.6131687277777775,
+      "w" : 0.2098765343240222,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2594476745397287,
+      "text" : "[B] Profuse diarrhea causing severe dehydration and shock",
+      "x" : 0.6820987712277089,
+      "w" : 0.34773662255245186,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.24781976727228677,
+      "text" : "[C] Infusion of hyperoncotic albumin increasing plasma oncotic pressure",
+      "x" : 0.7211934177297669,
+      "w" : 0.42592592059441325,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.23624676994867638,
+      "text" : "[D] Bilateral ureteral calculus obstructing urine outflow",
+      "x" : 0.6687242824417008,
+      "w" : 0.3209876534324022,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "y" : 0.22527777784272807,
+      "text" : "[E] Overdose of NSAIDs blocking afferent prostaglandins",
+      "x" : 0.6738683136145404,
+      "w" : 0.3353909426515207,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3125000001937984,
+      "text" : "Q34. [2020 Exam] Why is Serum Creatinine considered an",
+      "x" : 0.22016460644718805,
+      "w" : 0.37037034904432,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2987467700637443,
+      "text" : "INSENSITIVE marker for detecting early, mild-to-moderate renal",
+      "x" : 0.24074073554526762,
+      "w" : 0.4156378500116696,
+      "h" : 0.010284237861633239,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2856782945284289,
+      "text" : "impairment (loss of up to 50% GFR)?",
+      "x" : 0.1532921850823044,
+      "w" : 0.24074072208044667,
+      "h" : 0.010310077137417273,
+      "conf" : 1
+    },
+    {
+      "y" : 0.27107558156492245,
+      "text" : "[A] Creatinine cannot be detected in blood until GFR is zero",
+      "x" : 0.20679012705761302,
+      "w" : 0.34773662255245186,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2579295866051785,
+      "text" : "[B] The liver stops producing creatine whenever kidney function declines",
+      "x" : 0.24485597414266091,
+      "w" : 0.4238682872844192,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "y" : 0.24636627919089155,
+      "text" : "[C] Tubules reabsorb 99% of creatinine in early kidney disease",
+      "x" : 0.2160493888203016,
+      "w" : 0.36625513040794516,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.23552002612600204,
+      "text" : "[D] Due to the hyperbolic curve, GFR can drop from 120 to 60 mL\/min with",
+      "x" : 0.248971192798354,
+      "w" : 0.43209877254078227,
+      "h" : 0.011737725469801119,
+      "conf" : 1
+    },
+    {
+      "y" : 0.22317829476305734,
+      "text" : "creatinine rising only from 0.8 to 1.4 mg\/dL",
+      "x" : 0.16255144351851844,
+      "w" : 0.2551440352913718,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "y" : 0.21152777773955977,
+      "text" : "[E] Macula densa destroys all plasma creatinine in early disease",
+      "x" : 0.22016461279835384,
+      "w" : 0.37448559167250145,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.18459302332848843,
+      "text" : "Q35. [2024 Exam] In elderly, frail, or bedridden patients with severe",
+      "x" : 0.25102881198559657,
+      "w" : 0.4320987725407822,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "y" : 0.17151162781007745,
+      "text" : "muscle wasting (sarcopenia), a 'normal' serum creatinine of 0.9 mg\/dL",
+      "x" : 0.2602880582647465,
+      "w" : 0.45473249903265034,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "y" : 0.15843023248546517,
+      "text" : "often:",
+      "x" : 0.05555555504115228,
+      "w" : 0.04115226133814398,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.1431944445112716,
+      "text" : "[A] Indicates supranormal GFR above 200 mL\/min",
+      "x" : 0.18004115594135794,
+      "w" : 0.29423868431235256,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.1315277775793819,
+      "text" : "[B] Occurs due to high dietary intake of red meat",
+      "x" : 0.17592593069272963,
+      "w" : 0.28600822304779633,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.11986111114097414,
+      "text" : "[C] Proves that the kidneys are completely free of disease",
+      "x" : 0.20164609475308629,
+      "w" : 0.33744855196970813,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.1082848837754361,
+      "text" : "[D] Reflects massive proximal tubular creatinine secretion",
+      "x" : 0.20267490136316862,
+      "w" : 0.33950616128789557,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.09665697683502911,
+      "text" : "[E] Seriously overestimates true renal function, masking significantly reduced",
+      "x" : 0.25823045830761304,
+      "w" : 0.4506172803962756,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.08502906964026175,
+      "text" : "GFR due to low creatinine generation",
+      "x" : 0.1430041165380658,
+      "w" : 0.2160493862703911,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.18459302332848843,
+      "text" : "Q42. [Clini Vignette] A patient with heart failure is started on",
+      "x" : 0.7047325151491769,
+      "w" : 0.38888888089162,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "y" : 0.17151162805232567,
+      "text" : "Furosemide, Lisinopril, and Ibuprofen (Triple Whammy'). GFR drops",
+      "x" : 0.728395061728395,
+      "w" : 0.4362139911771571,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "y" : 0.15764534874970576,
+      "text" : "acutely because:",
+      "x" : 0.5720164629629629,
+      "w" : 0.12345678701340768,
+      "h" : 0.010290697945488758,
+      "conf" : 1
+    },
+    {
+      "y" : 0.1431944445112716,
+      "text" : "[A] All three drugs precipitate as crystals inside Bowman's capsule space",
+      "x" : 0.7232510341306584,
+      "w" : 0.42592592059441337,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.1315277775248761,
+      "text" : "[B] Furosemide causes volume depletion, NSAID blocks afferent vasodilation,",
+      "x" : 0.734567906893004,
+      "w" : 0.45267486572265614,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.11986111115914277,
+      "text" : "and Lisinopril blocks efferent constriction",
+      "x" : 0.6337448600823044,
+      "w" : 0.24691357402681546,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.1082848837754361,
+      "text" : "[C] Ibuprofen destroys macula densa cells while lisinopril lyses podocytes",
+      "x" : 0.724279840792181,
+      "w" : 0.4320987725407823,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.09665697668968026,
+      "text" : "[D] Furosemide paralyzes detrusor muscle causing bladder rupture",
+      "x" : 0.7037036988168724,
+      "w" : 0.39094649020980743,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.08502906971293606,
+      "text" : "[E] Lisinopril stimulates excessive renal vasoconstrictor thromboxane",
+      "x" : 0.710905344675926,
+      "w" : 0.4094649980653007,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.014573643611020815,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Board Jam Past Papers",
+      "x" : 0.3209876615226336,
+      "w" : 0.5761316647319674,
+      "h" : 0.017519379191928475,
+      "conf" : 1
+    },
+    {
+      "y" : 0.01966085278616625,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321,
+      "w" : 0.19135801447262546,
+      "h" : 0.007344961166381836,
+      "conf" : 1
+    }
+  ]
+}

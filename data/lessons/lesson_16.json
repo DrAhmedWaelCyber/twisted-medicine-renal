@@ -1,0 +1,875 @@
+{
+  "id": 16,
+  "title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+  "department": "Physiology",
+  "department_desc": "Hemodynamics, autoregulation, GFR, tubular transport, countercurrent multiplier, acid-base and RFTs",
+  "booklet_pages": "Pages 61 - 64",
+  "pdf_pages": [
+    63,
+    64,
+    65,
+    66
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 17 - HIGH-YIELD ELECTROLYTE BALANCE & TUBULOPATHIES MATRIX",
+  "summary_table": [
+    {
+      "domain": "cells.",
+      "content": "Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany"
+    },
+    {
+      "domain": "2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+",
+      "content": "JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT"
+    },
+    {
+      "domain": "paracellularly (+8 mV); DCT reabsorbs Ca2+ via",
+      "content": "1-alpha-hydroxylase. FGF23: Phosphaturic osteocyte"
+    },
+    {
+      "domain": "Phosphate (Pi)",
+      "content": "Ca2+ uptake (hypocalciuria); prevent calcium stones."
+    },
+    {
+      "domain": "TRPV5.",
+      "content": "hormone, inhibits calcitriol."
+    },
+    {
+      "domain": "Normal: 1.7-2.2 mg/dL. Major reabsorption site is",
+      "content": "Hypomagnesemia: Loop diuretics, aminoglycosides"
+    },
+    {
+      "domain": "TAL (~60%) via paracellular Claudin-16/Claudin-19",
+      "content": "chronic alcohol abuse, Gitelman syndrome. Low Mg2+"
+    },
+    {
+      "domain": "Balance",
+      "content": "disinhibits apical ROMK intractable renal K+ wasting."
+    },
+    {
+      "domain": "Hereditary",
+      "content": "stinguished by urinary calcium excretion: Bartter = Hig"
+    },
+    {
+      "domain": "Mimics Loop Diuretics. High renin/aldosterone,",
+      "content": "a2+ (risk of nephrocalcinosis); Gitelman = Low Ca2+ wi"
+    },
+    {
+      "domain": "(Bartter, Gitelman)",
+      "content": "prominent neuromuscular cramping."
+    },
+    {
+      "domain": "HYPERCALCIURIA.",
+      "content": "HYPOCALCIURIA."
+    },
+    {
+      "domain": "Liddle (Gain of ENaC): Truncated PY motif prevents",
+      "content": "AME: 11-beta-HSD2 deficiency cortisol activates MR"
+    },
+    {
+      "domain": "degradation massive Na+ reabsorption, severe",
+      "content": "Gordon (PHA II): WNK1/4 mutation NCC hyperactivation Liddle Rx: Amiloride / Triamterene (direct ENaC blockers; HTN, HYPERKALEMIA, metabolic acidosis. Rx: Thiazides."
+    },
+    {
+      "domain": "HTN, hypokalemic metabolic alkalosis,",
+      "content": "Spironolactone is INEFFECTIVE in Liddle)."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the primary physiological trigger for the secretion of Antidiuretic Hormone (ADH) from the posterior pituitary to maintain serum sodium and osmolality?",
+      "options": {
+        "A": "A 1% to 2% increase in plasma osmolality sensed by hypothalamic osmoreceptors",
+        "B": "A 50% drop in arterial p02 sensed by peripheral chemoreceptors",
+        "C": "A 15% increase in central venous hematocrit",
+        "D": "Direct stimulation of renal medullary collecting ducts by epinephrine",
+        "E": "A decrease in core body temperature below 35 degrees Celsius"
+      },
+      "correct_option": "A",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why is Plasma Sodium Concentration ([Na+]) primarily a reflection of total body water balance rather than total body sodium balance?",
+      "options": {
+        "A": "Sodium cannot cross glomerular capillaries under any conditions",
+        "B": "Water intake (thirst) and water excretion (ADH) regulate [Na+], whereas sodium balance regulates ECF volume",
+        "C": "Sodium is synthesized de novo within renal proximal tubule cells",
+        "D": "Sodium concentration is maintained strictly by pulmonary exhalation",
+        "E": "The body possesses no regulatory mechanisms to excrete sodium"
+      },
+      "correct_option": "A",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the physiological hallmark of Pseudohyponatremia seen in severe hypertriglyceridemia or paraproteinemia (multiple myeloma)?",
+      "options": {
+        "A": "True serum hypo-osmolality with cellular swelling",
+        "B": "Severe intravascular volume depletion and hypotension",
+        "C": "Normal measured serum osmolality (~285 mOsm/kg) with artifactual reduction of sodium in plasma water",
+        "D": "Massive urinary sodium loss exceeding 200 mEq/L",
+        "E": "Intracellular dehydration of hypothalamic neurons"
+      },
+      "correct_option": "B",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In severe Hyperglycemia (e.g., DKA), what is the corrected serum sodium formula, and why does measured sodium appear low (Translocational Hyponatremia)?",
+      "options": {
+        "A": "Sodium decreases by 10 mEq/L for every 100 mg/dL glucose rise",
+        "B": "Glucose directly binds and precipitates sodium ions in blood",
+        "C": "Glucagon stimulates excessive sodium excretion in the loop of Henle",
+        "D": "Hyperglycemia draws water out of cells into ECF, diluting serum Na+ by ~1.6 mEq/L per 100 mg/dL glucose elevation above 100",
+        "E": "Insulin deficiency destroys all renal epithelial ENaC channels"
+      },
+      "correct_option": "D",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In evaluating Hyponatremia (serum Na+ < 135 mEq/L), what does a high measured Serum Osmolality (>295 mOsm/kg) indicate?",
+      "options": {
+        "A": "Syndrome of Inappropriate ADH secretion (SIADH)",
+        "B": "Psychogenic Polydipsia (water intoxication)",
+        "C": "Severe dietary sodium restriction alone",
+        "D": "Primary adrenal insufficiency (Addison disease)",
+        "E": "Presence of effective unmeasured osmoles (e.g., hyperglycemia or mannitol)"
+      },
+      "correct_option": "D",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What urine osmolality (U_osm) distinguishes high-ADH Hyponatremia from Primary Polydipsia (water intoxication)?",
+      "options": {
+        "A": "Polydipsia suppresses ADH, producing dilute urine (U_osm < 100 mOsm/kg)",
+        "B": "Primary polydipsia produces maximally concentrated urine (>1200 mOsm/kg)",
+        "C": "Urine osmolality is fixed at 300 mOsm/kg in all hyponatremic states",
+        "D": "High ADH states always yield completely clear urine",
+        "E": "Primary polydipsia causes urinary bicarbonate precipitation"
+      },
+      "correct_option": "E",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In Euvolemic Hyponatremia caused by SIADH, which laboratory combination of urine chemistry confirms the diagnosis?",
+      "options": {
+        "A": "Urine osmolality < 100 mOsm/kg and urine Na+ < 10 mEq/L",
+        "B": "Urine osmolality > 100 mOsm/kg (usually > 300) and urine Na+ > 20-40 mEq/L despite serum hypo-osmolality",
+        "C": "Urine osmolality > 1200 mOsm/kg and urine Na+ equal to zero",
+        "D": "Urine glucose > 1000 mg/dL with high serum bicarbonate",
+        "E": "Urine pH > 8.0 with profound hyperkalemia"
+      },
+      "correct_option": "A",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Why must chronic Hyponatremia (>48 hours) NEVER be corrected faster than 8 to 10 mEq/L per 24 hours?",
+      "options": {
+        "A": "Rapid correction triggers acute renal papillary necrosis",
+        "B": "It causes immediate acute rupture of the urinary bladder",
+        "C": "Brain cells lose idiogenic osmoles; rapid hypertonic shift causes Osmotic Demyelination Syndrome (Central Pontine Myelinolysis)",
+        "D": "Rapid sodium entry causes sudden total destruction of the adrenal cortex",
+        "E": "It stimulates immediate irreversible pulmonary fibrosis"
+      },
+      "correct_option": "C",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Conversely, why does rapid overcorrection of acute severe Hypernatremia with hypotonic fluids carry fatal risk?",
+      "options": {
+        "A": "It causes massive systemic calciphylaxis",
+        "B": "It triggers immediate coronary artery spasm",
+        "C": "It induces acute irreversible aplastic anemia",
+        "D": "Rapid fluid shift into brain cells containing high osmoles causes Cerebral Edema and herniation",
+        "E": "It abolishes the renal countercurrent multiplier permanently"
+      },
+      "correct_option": "D",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In Hypernatremia with polyuria, how does Central DI differ from Nephrogenic DI after water deprivation and dDAVP?",
+      "options": {
+        "A": "Central DI shows zero response; Nephrogenic DI concentrates >50%",
+        "B": "Nephrogenic DI develops severe metabolic alkalosis",
+        "C": "Both forms show identical 100% normalization within 10 min",
+        "D": "Central DI presents with massive glycosuria and proteinuria",
+        "E": "Central DI U_osm rises >50% after dDAVP; Nephrogenic DI shows little/no change"
+      },
+      "correct_option": "E",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "How does the kidney maintain Effective Circulating Volume (ECV) during acute extracellular fluid volume contraction?",
+      "options": {
+        "A": "Activating RAAS and renal sympathetic nerves, maximizing proximal and distal sodium reabsorption (FENa < 1%)",
+        "B": "Increasing ANP secretion to accelerate medullary sodium loss",
+        "C": "Inhibiting all basolateral Na+/K+ ATPase pumps along the nephron",
+        "D": "Dilating the efferent arteriole while constricting the afferent arteriole",
+        "E": "Suppressing hypothalamic thirst and increasing free water clearance"
+      },
+      "correct_option": "A",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the primary clinical utility of measuring Fractional Excretion of Sodium (FENa = [UNa x PCr] / [PNa x UCr] x 100)?",
+      "options": {
+        "A": "Measuring glomerular hydraulic conductivity directly",
+        "B": "Differentiating Prerenal Azotemia (FENa < 1%) from Acute Tubular Necrosis (FENa > 2%)",
+        "C": "Diagnosing proximal renal tubular acidosis exclusively",
+        "D": "Distinguishing Type 1 from Type 2 diabetes mellitus",
+        "E": "Quantifying medullary urea recycling rate"
+      },
+      "correct_option": "B",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "When FENa is unreliable due to concurrent diuretic use, which alternative fractional excretion index is used to diagnose prerenal azotemia?",
+      "options": {
+        "A": "Fractional Excretion of Calcium (FECa > 10%)",
+        "B": "Fractional Excretion of Glucose (FEGluc = 100%)",
+        "C": "Fractional Excretion of Urea Nitrogen (FEUrea < 35% indicates prerenal state)",
+        "D": "Fractional Excretion of Magnesium (FEMg > 50%)",
+        "E": "Fractional Excretion of Albumin"
+      },
+      "correct_option": "C",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the effect of Atrial Natriuretic Peptide (ANP) on renal sodium handling and systemic blood pressure?",
+      "options": {
+        "A": "Constricts afferent arterioles and stimulates aldosterone secretion",
+        "B": "Directely stimulates sodium reabsorption via proximal tubule SGLT2",
+        "C": "Blocks all potassium excretion in cortical collecting ducts",
+        "D": "Dilates afferent arterioles, constricts efferent arterioles (raising GFR), and inhibits Nat uptake in medullary collecting ducts",
+        "E": "Induces severe hypocalciuria by up-regulating apical TRPV5"
+      },
+      "correct_option": "E",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Mechanism of Electrolyte Balance - Physiology Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which physiological factors promote the rapid internal shift of potassium from extracellular fluid into cells (preventing postprandial hyperkalemia)?",
+      "options": {
+        "A": "Insulin, Beta-2 adrenergic agonists (epinephrine), and systemic Alkalosis [BJ Glucagon, Alpha-1 adrenergic stimulation, and severe Acidosis",
+        "C": "Hyperosmolality, exercise exhaustion, and digitalis administration",
+        "D": "Parathyroid hormone, calcitonin, and vitamin D deficiency",
+        "E": "Angiotensin II, vasopressin V1 activation, and hypocalcemia"
+      },
+      "correct_option": "A",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Why does acute Metabolic Acidosis cause Hyperkalemia (extracellular K+ shift)?",
+      "options": {
+        "A": "Acidosis directly destroys all renal collecting ducts",
+        "B": "Excess extracellular H+ enters cells to be buffered, displacing K+ out of cells to preserve electrical neutrality",
+        "C": "Acidosis stimulates massive aldosterone hypersecretion from the adrenal cortex",
+        "D": "Excess H+ binds and precipitates all potassium in renal pelvis",
+        "E": "Acidosis stimulates the liver to synthesize potassium from amino acids"
+      },
+      "correct_option": "A",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In the cortical collecting duct, what are the two primary determinants of Potassium Secretion by Principal Cells?",
+      "options": {
+        "A": "Luminal glucose concentration and urinary urea content",
+        "B": "Arterial p02 and core body temperature",
+        "C": "Luminal flow rate (high flow carries K+ away) and Aldosterone (stimulates ENaC & ROMK)",
+        "D": "Direct filtration through the slit diaphragm of podocytes",
+        "E": "Basolateral paracellular calcium concentration"
+      },
+      "correct_option": "B",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What characteristic sequential Electrocardiogram (ECG) changes occur as serum potassium rises in severe Hyperkalemia (K+ > 6.0 to > 8.0 mEq/L)?",
+      "options": {
+        "A": "Prominent U waves, ST depression, and flattened T waves",
+        "B": "Shortened QT interval and Osborn J waves exclusively",
+        "C": "Delta waves and electrical alternans",
+        "D": "Peaked tall T waves -> PR prolongation & flattened P wave -> QRS widening -> Sine-wave pattern -> Asystole/VF",
+        "E": "Isolated sinus bradycardia without any T wave modifications"
+      },
+      "correct_option": "D",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In severe acute Hyperkalemia with ECG changes (widened QRS or peaked T waves), what is the immediate first-line medication administered for CARDIOPROTECTION?",
+      "options": {
+        "A": "Intravenous Sodium Polystyrene Sulfonate (Kayexalate)",
+        "B": "Intravenous Regular Insulin with Dextrose",
+        "C": "Oral Spironolactone",
+        "D": "Inhaled high-dose Furosemide",
+        "E": "Intravenous Calcium Gluconate (antagonizes membrane excitability without lowering serum K+)"
+      },
+      "correct_option": "D",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "After stabilizing the cardiac membrane with Calcium Gluconate, which therapies are administered to rapidly SHIFT potassium into cells?",
+      "options": {
+        "A": "Intravenous Regular Insulin with 50% Dextrose, and inhaled Beta-2 agonists (Albuterol)",
+        "B": "Oral Potassium Chloride tablets and Spironolactone",
+        "C": "Intravenous 3% Hypertonic Saline and Mannitol",
+        "D": "Oral NSAIDs and ACE inhibitors",
+        "E": "Subcutaneous Heparin and Vitamin K"
+      },
+      "correct_option": "A",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Mechanism of Electrolyte Balance - Physiology Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why does severe Hypomagnesemia make concurrent Hypokalemia refractory to treatment with potassium replacement alone?",
+      "options": {
+        "A": "Magnesium deficiency directly destroys all basolateral Na+/K+ ATPases",
+        "B": "Magnesium precipitates potassium inside the glomerular capillaries",
+        "C": "Intracellular Mg2+ normally inhibits ROMK; low Mg2+ disinhibits ROMK, leading to unconstrained renal potassium wasting",
+        "D": "Hypomagnesemia causes complete bilateral ureteral obstruction",
+        "E": "Low magnesium stimulates maximum hypothalamic ADH secretion"
+      },
+      "correct_option": "C",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "How does Transtubular Potassium Gradient (TTKG = [UK / PK] / [U_osm / P_osm]) differentiate causes of hyperkalemia?",
+      "options": {
+        "A": "TTKG is valid only when urine is maximally hypo-osmotic (< 100 mOsm/kg)",
+        "B": "A TTKG of zero indicates isolated Fanconi syndrome IC] TTKG measures only calcium and magnesium secretion",
+        "D": "TTKG < 5 in hyperkalemia indicates impaired aldosterone bioactivity or resistance; TTKG > 7-8 indicates intact aldosterone response",
+        "E": "TTKG > 20 is diagnostic of Addison disease"
+      },
+      "correct_option": "D",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What is the primary renal mechanism of potassium wasting in metabolic alkalosis associated with persistent vomiting?",
+      "options": {
+        "A": "Gastric acid loss converts the kidney into a non-filtering organ",
+        "B": "Vomiting stimulates parathyroid hormone to degrade ROMK channels",
+        "C": "Direct toxic effect of salivary amylase on the loop of Henle",
+        "D": "Excess conversion of aldosterone into testosterone",
+        "E": "High filtered bicarbonate delivery with non-reabsorbable anion kinetics increases lumen-negativity and stimulates K+ excretion"
+      },
+      "correct_option": "D",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Why does Trimethoprim (part of Bactrim) frequently cause hyperkalemia, especially in elderly patients or those on ACE inhibitors?",
+      "options": {
+        "A": "Trimethoprim is structurally similar to amiloride and reversibly blocks apical ENaC channels in principal cells",
+        "B": "Trimethoprim directly stimulates potassium release from skeletal muscle",
+        "C": "It induces acute destruction of adrenal cortical zona glomerulosa",
+        "D": "It converts dietary sodium into potassium within the intestinal lumen",
+        "E": "It stimulates massive apoptosis of type A intercalated cells"
+      },
+      "correct_option": "A",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "How do Loop Diuretics (Furosemide) and Thiazides both cause hypokalemia despite acting on different nephron segments?",
+      "options": {
+        "A": "Both directly stimulate basolateral potassium secretion in the loop of Henle",
+        "B": "Both increase sodium and fluid delivery to late DCT/CD and stimulate secondary hyperaldosteronism, accelerating K+ secretion",
+        "C": "Both destroy the renal podocytes and slit diaphragms",
+        "D": "Both convert potassium into insoluble phosphate stones",
+        "E": "Both block hydrogen ion secretion in type B intercalated cells"
+      },
+      "correct_option": "E",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "In diabetic ketoacidosis (DKA), why is total body potassium profoundly depleted despite a normal or high initial serum potassium level?",
+      "options": {
+        "A": "Insulin hypersecretion drives potassium into circulating erythrocytes",
+        "B": "Ketone bodies directly bind and destroy all intracellular potassium",
+        "C": "Potassium is lost via osmotic diuresis (glucosuria) and ketoaciduria, while acidosis and insulin deficiency mask it by shifting K+ into ECF",
+        "D": "The adrenal glands completely stop producing aldosterone",
+        "E": "Hyperglycemia stimulates immediate renal cortical necrosis"
+      },
+      "correct_option": "E",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Mechanism of Electrolyte Balance - Physiology Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In the renal tubule, where and how does Parathyroid Hormone (PTH) stimulate Calcium reabsorption?",
+      "options": {
+        "A": "Proximal convoluted tubule via apical SGLT1 cotransporter",
+        "B": "Thick ascending limb by opening paracellular water channels",
+        "C": "Cortical collecting duct by inserting Aquaporin-2 water pores",
+        "D": "Glomerular capillaries by constricting efferent arterioles",
+        "E": "Distal Convoluted Tubule (DCT) by activating apical TRPV5 channels and basolateral NCX1 extrusion"
+      },
+      "correct_option": "D",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Why do Thiazide diuretics decrease urinary calcium excretion (Hypocalciuria), making them effective in preventing recurrent calcium stones?",
+      "options": {
+        "A": "Inhibiting NCC in DCT lowers intracellular Nat, enhancing basolateral NCX1 (3Na+/Ca2+) activity and driving apical Ca2+ entry via TRPV5",
+        "B": "Thiazides precipitate calcium in the collecting duct as insoluble stones",
+        "C": "Thiazides directly block parathyroid hormone degradation",
+        "D": "Thiazides convert all ionic calcium into metallic magnesium",
+        "E": "Thiazides stimulate massive bone resorption of calcium"
+      },
+      "correct_option": "A",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the primary effect of Parathyroid Hormone (PTH) on renal Phosphate handling in the proximal convoluted tubule?",
+      "options": {
+        "A": "Stimulates phosphate reabsorption by inserting NaPi-lla cotransporters",
+        "B": "Induces endocytosis and lysosomal degradation of apical NaPi-lla/c cotransporters, causing marked phosphaturia",
+        "C": "Converts inorganic phosphate into organic phospholipids",
+        "D": "Blocks all glomerular filtration of phosphate completely",
+        "E": "Increases basolateral phosphate extrusion into peritubular capillaries"
+      },
+      "correct_option": "B",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Fibroblast Growth Factor 23 (FGF23), secreted by osteocytes in response to hyperphosphatemia, functions as a phosphaturic hormone by:",
+      "options": {
+        "A": "Directly stimulating gastrointestinal phosphate absorption",
+        "B": "Hyperactivating calcium-sensing receptors in parathyroid glands",
+        "C": "Down-regulating proximal tubule NaPi-lla/c and inhibiting 1-alpha-hydroxylase, reducing calcitriol synthesis",
+        "D": "Stimulating medullary collecting duct ENaC channels",
+        "E": "Increasing renal tubular uric acid reabsorption via URAT1"
+      },
+      "correct_option": "C",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Where in the nephron is the majority (~60%) of filtered Magnesium reabsorbed, and what driving force governs this transport?",
+      "options": {
+        "A": "Early proximal convoluted tubule via active Na+/Mg2+ symport",
+        "B": "Inner medullary collecting duct via passive aquaporin channels",
+        "C": "Distal convoluted tubule via paracellular tight junctions exclusively",
+        "D": "Thick Ascending Limb (TAL) via paracellular Claudin-16/19, driven by the lumen-positive transepithelial potential (+8 mV)",
+        "E": "Descending thin limb of Henle via facilitated glucose transporters"
+      },
+      "correct_option": "D",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why does Hypercalcemia induce nephrogenic diabetes insipidus with marked polyuria and polydipsia?",
+      "options": {
+        "A": "Calcium directly destroys the posterior pituitary gland",
+        "B": "Calcium converts all collecting duct urothelium into bone tissue",
+        "C": "Calcium stimulates massive renin release causing severe hypotension",
+        "D": "Hypercalcemia stimulates hypothalamic thirst center destruction",
+        "E": "Excess calcium activates CaSR on basolateral TAL and collecting ducts, impairing NKCC2 and down-regulating AQP2 channels"
+      },
+      "correct_option": "E",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Mechanism of Electrolyte Balance - Physiology Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Gitelman Syndrome is an AR tubulopathy caused by inactivating mutations in the NCC cotransporter in DCT, presenting with:",
+      "options": {
+        "A": "Severe hypertension, hyperkalemia, and metabolic acidosis",
+        "B": "Hypokalemic metabolic alkalosis, normal/low BP, HYPOMAGNESEMIA, and HYPOCALCIURIA",
+        "C": "Nephrocalcinosis, hypercalciuria, and sensorineural deafness",
+        "D": "Massive proteinuria (>3.5 g/day) and hypoalbuminemia",
+        "E": "Hypernatremia, hypercalcemia, and acute renal failure"
+      },
+      "correct_option": "B",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Liddle Syndrome is an autosomal dominant disorder caused by gain-of-function mutations in ENaC (loss of PY motif preventing degradation), presenting with:",
+      "options": {
+        "A": "Salt-wasting, hypotension, hyperkalemia, and elevated aldosterone",
+        "B": "Hyperglycemia, polyuria, polydipsia, and high anion gap acidosis",
+        "C": "Severe hypertension, hypokalemia, metabolic alkalosis, and SUPPRESSED (low) plasma renin and aldosterone",
+        "D": "Isolated hypomagnesemia without any change in blood pressure",
+        "E": "Complete absence of parathyroid hormone secretion"
+      },
+      "correct_option": "C",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Gordon Syndrome (Pseudohypoaldosteronism Type Il) is caused by mutations in WNK1/WNK4 kinases causing NCC hyperactivation in DCT, presenting with:",
+      "options": {
+        "A": "Severe hypotension, hypokalemia, and metabolic alkalosis",
+        "B": "Massive hypercalcemia and recurrent nephrolithiasis",
+        "C": "Polyuria, dilute urine, and nephrogenic diabetes insipidus",
+        "D": "Hypertension, HYPERKALEMIA, and normal-anion gap metabolic acidosis with low/normal aldosterone",
+        "E": "Complete failure of proximal tubule glucose reabsorption"
+      },
+      "correct_option": "D",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Apparent Mineralocorticoid Excess (AME) results from congenital deficiency of 11-beta-hydroxysteroid dehydrogenase type 2(11-beta-HSD2). Why does cortisol hyperactivate MR receptors?",
+      "options": {
+        "A": "Cortisol is converted into pure aldosterone inside adrenal cells",
+        "B": "Cortisol directly stimulates apical ROMK potassium channels",
+        "C": "Cortisol blocks all sodium filtration at the glomerular membrane",
+        "D": "Cortisol destroys the hypothalamic-pituitary-adrenal axis",
+        "E": "11-beta-HSD2 normally converts cortisol to inactive cortisone; its absence allows high circulating cortisol to activate renal MR receptors"
+      },
+      "correct_option": "E",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A 16-year-old boy presents with cramps: serum K+ 2.7, HC03- 32, normal BP, high renin/aldosterone, high urine Ca2+. Hearing is normal. Diagnosis is:",
+      "options": {
+        "A": "Bartter Syndrome (defective TAL transport with hypercalciuria)",
+        "B": "Gitelman Syndrome (characterized by hypocalciuria & hypomagnesemia)",
+        "C": "Liddle Syndrome (severe hypertension with low aldosterone)",
+        "D": "Primary Hyperaldosteronism (Conn syndrome)",
+        "E": "Type 1 Distal Renal Tubular Acidosis"
+      },
+      "correct_option": "E",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 68-year-old male on Lisinopril and Spironolactone presents with lethargy. ECG reveals tall peaked T waves and PR prolongation; K+ is 7.2 mEq/L. The FIRST immediate step is:",
+      "options": {
+        "A": "Oral administration of sodium bicarbonate tablets",
+        "B": "Intravenous administration of 10% Calcium Gluconate (10 mL over 2-3 minutes)",
+        "C": "Immediate high-dose hemodialysis within 6 hours",
+        "D": "Administration of oral potassium binders (Patiromer)",
+        "E": "Subcutaneous injection of regular insulin without glucose"
+      },
+      "correct_option": "B",
+      "explanation": "**cells.**: Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany\n\n**2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+**: JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT",
+      "masterclass_id": 16,
+      "masterclass_title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology"
+    }
+  ]
+}

@@ -1,0 +1,867 @@
+{
+  "id": 32,
+  "title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+  "department": "Pharmacology & Epidemiology",
+  "department_desc": "Urinary tract pharmacology, uroselective blockers, anticholinergics and renal epidemiology",
+  "booklet_pages": "Pages 125 - 128",
+  "pdf_pages": [
+    127,
+    128,
+    129,
+    130
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 33 — HIGH-YIELD URINARY DRUGS & RENAL PHARMACOLOGY MATRIX",
+  "summary_table": [
+    {
+      "domain": "Beta-3 Adrenergic Agonist",
+      "content": "mouth or in cognitive decline. Caution: Monitor Blood"
+    },
+    {
+      "domain": "Mirabegron",
+      "content": "activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and"
+    },
+    {
+      "domain": "(Vibegron)",
+      "content": "bladder during storage. tachycardia). First-line for BPH symptoms (rapid onset in 24-48h). Antagonizes Alpha-1A receptors in prostatic stroma, Uroselective agents spare vascular alpha-1B (less"
+    },
+    {
+      "domain": "(Non-selective: Doxazosin,",
+      "content": "hypotension). Adverse: Retrograde ejaculation; capsule, and bladder neck; relaxes smooth muscle without"
+    },
+    {
+      "domain": "Terazosin)",
+      "content": "altering prostate volume. Intraoperative Floppy Iris Syndrome (IFIS) in cataract surgery. Enlarged prostates (>30-40g); reduces size by -20-25%"
+    },
+    {
+      "domain": "5-Alpha Reductase Inhibitors",
+      "content": "Inhibits 5-alpha reductase, blocking conversion of over 6-12 months. CombAT: synergistic with alpha-blockers. Finasteride (Type 2 selective) Testosterone to Dihydrotestosterone (DHT); induces"
+    },
+    {
+      "domain": "(5-ARls)",
+      "content": "Dutasteride (Dual Type 1 & 2) Halves serum PSA (multiply by 2). Teratogenic: pregnant prostatic epithelial apoptosis."
+    },
+    {
+      "domain": "(Static Size Reduction)",
+      "content": "women must avoid handling tablets. Citrate/HCO3-: raises urine pH (>6.5-7.0). Alkalinizers: Dissolve Uric acid & Cystine stones; enhance"
+    },
+    {
+      "domain": "Potassium Citrate, NaHCO3",
+      "content": "NH4Cl: liver metabolizes to urea + HCI, lowering urine pH"
+    },
+    {
+      "domain": "Urinary Alkalinizers & Acidifiers",
+      "content": "salicylate/methotrexate excretion. Acidifiers: Diagnostic acid Ammonium Chloride (NH4CI) load test for Type 1 RTA; amphetamine excretion. (<5.3). Nitrofurantoin: Uncomplicated cystitis only; contraindicated if Nitrofurantoin, Methenamine Nitrofurantoin: bacterial DNA damage in urine."
+    },
+    {
+      "domain": "Urinary Antiseptics &",
+      "content": "eGFR < 30; long-term risk of pulmonary fibrosis. Dosing Aminoglycosides, Radiocontrast, Gentamicin: proximal tubular lysosomal necrosis."
+    },
+    {
+      "domain": "Nephrotoxic Drugs",
+      "content": "rule: Loading dose depends on Vd (unchanged);"
+    },
+    {
+      "domain": "CNI",
+      "content": "Cyclosporine: afferent arteriolar constriction. Maintenance dose must be reduced in CKD."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which muscarinic receptor subtype is primarily responsible for mediating acetylcholine-induced detrusor smooth muscle contraction in the normal human urinary bladder?",
+      "options": {
+        "A": "Muscarinic M3 receptor (coupled to Gq, activating PLC and IP3-mediated Ca2+ release)",
+        "B": "Muscarinic M1 receptor",
+        "C": "Muscarinic M2 receptor exclusively",
+        "D": "Muscarinic M4 receptor",
+        "E": "Muscarinic M5 receptor"
+      },
+      "correct_option": "A",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Primary mechanism of Oxybutynin and Tolterodine in Overactive Bladder (OAB) and urge incontinence:",
+      "options": {
+        "A": "Direct stimulation of pelvic parasympathetic ganglia",
+        "B": "Competitive muscarinic receptor blockade on detrusor smooth muscle, reducing uninhibited spasms",
+        "C": "Selective agonism of alpha-1 receptors at the bladder neck",
+        "D": "Direct enzymatic destruction of acetylcholinesterase",
+        "E": "Blockade of beta-3 adrenergic receptors in the bladder dome"
+      },
+      "correct_option": "B",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which of the following antimuscarinic agents exhibits high selectivity for the M3 receptor subtype over M1 and M2, thereby minimizing cardiac side effects?",
+      "options": {
+        "A": "Atropine",
+        "B": "Scopolamine",
+        "C": "Darifenacin and Solifenacin",
+        "D": "Bethanechol",
+        "E": "Neostigmine"
+      },
+      "correct_option": "C",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Why is Tropium chloride considered the preferred antimuscarinic agent for elderly patients with Overactive Bladder who have mild cognitive impairment or early dementia?",
+      "options": {
+        "A": "It is completely metabolized in the stomach into dopamine",
+        "B": "It directly stimulates cerebral acetylcholine synthesis",
+        "C": "It is administered strictly as an intravenous bolus",
+        "D": "It is a quaternary amine with low lipid solubility that does not readily cross the blood-brain barrier",
+        "E": "It has zero affinity for muscarinic receptors outside the brain"
+      },
+      "correct_option": "D",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which set of adverse effects represents the classic anticholinergic side-effect profile frequently limiting patient compliance with oral Oxybutynin?",
+      "options": {
+        "A": "Severe diarrhea, bradycardia, profuse salivation, and miosis",
+        "B": "Marked hypotension, hypoglycemia, and bronchospasm",
+        "C": "Massive polyuria, hypokalemia, and hypercalcemia",
+        "D": "Priapism, gynecomastia, and alopecia",
+        "E": "Dry mouth (xerostomia), constipation, blurred vision, tachycardia, and urinary retention"
+      },
+      "correct_option": "E",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "All of the following clinical conditions are ABSOLUTE contraindications to the administration of antimuscarinic drugs for Overactive Bladder EXCEPT:",
+      "options": {
+        "A": "Uncomplicated essential hypertension",
+        "B": "Uncontrolled narrow-angle (closed-angle) glaucoma",
+        "C": "Severe gastric retention and toxic megacolon",
+        "D": "Severe bladder outlet obstruction with high post-void residual urine volume",
+        "E": "Myasthenia gravis"
+      },
+      "correct_option": "A",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Mirabegron provides an effective alternative for Overactive Bladder without anticholinergic side effects. What is its molecular mechanism of action?",
+      "options": {
+        "A": "Direct competitive antagonist of nicotinic receptors",
+        "B": "Selective Beta-3 Adrenergic Receptor Agonist, stimulating adenylyl cyclase and relaxing detrusor muscle during the storage phase",
+        "C": "Selective inhibitor of phosphodiesterase-5",
+        "D": "Centrally acting alpha-2 adrenergic agonist",
+        "E": "Direct agonist of vesicular acetylcholine transporter"
+      },
+      "correct_option": "B",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which vital sign parameter must be routinely monitored in patients receiving Mirabegron therapy for Overactive Bladder?",
+      "options": {
+        "A": "Blood Glucose",
+        "B": "Serum Creatinine exclusively",
+        "C": "Blood Pressure (due to potential dose-dependent hypertension and tachycardia)",
+        "D": "Core Body Temperature",
+        "E": "Respiratory Rate"
+      },
+      "correct_option": "A",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "How does OnabotulinumtoxinA (Botox) administered via cystoscopic intra-detrusor injection exert therapeutic efficacy in refractory neurogenic detrusor overactivity?",
+      "options": {
+        "A": "Direct blockade of post-synaptic beta-adrenergic receptors",
+        "B": "Stimulation of sensory C-fibers in the urothelium",
+        "C": "Permanent thermal coagulation of the detrusor muscle fibers",
+        "D": "Cleavage of SNAP-25 protein, blocking presynaptic vesicle release of Acetylcholine at the neuromuscular junction",
+        "E": "Activation of mucosal mast cell degranulation"
+      },
+      "correct_option": "B",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which pharmacological agent is a pure muscarinic receptor agonist clinically indicated for non-obstructive urinary retention (e.g., postoperative or postpartum neurogenic atony)?",
+      "options": {
+        "A": "Oxybutynin",
+        "B": "Atropine",
+        "C": "Propantheline",
+        "D": "Scopolamine",
+        "E": "Bethanechol (stimulates detrusor contraction to initiate micturition)"
+      },
+      "correct_option": "C",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Duloxetine, a Serotonin-Norepinephrine Reuptake Inhibitor (SNRI), is clinically utilized in several countries for Stress Urinary Incontinence (SUI) because it:",
+      "options": {
+        "A": "Increases 5-HT and NE levels in Onuf's nucleus in the sacral cord, stimulating pudendal nerve motor tone to the external urethral sphincter",
+        "B": "Directly blocks all muscarinic receptors in the bladder dome",
+        "C": "Inhibits 5-alpha reductase in the prostate gland",
+        "D": "Induces profound detrusor smooth muscle hypertrophy",
+        "E": "Directly acidifies urine to eliminate urethral irritation"
+      },
+      "correct_option": "D",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Which alpha-1 adrenergic agonist can be used off-label to increase urethral closure pressure in mild female Stress Urinary Incontinence?",
+      "options": {
+        "A": "Prazosin",
+        "B": "Midodrine (or Pseudoephedrine)",
+        "C": "Tamsulosin",
+        "D": "Doxazosin",
+        "E": "Clonidine"
+      },
+      "correct_option": "E",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In patients with diabetic cystopathy manifesting as an acontractile flaccid bladder with Overflow Incontinence, which medication is CONTRAINDICATED?",
+      "options": {
+        "A": "Bethanechol",
+        "B": "Neostigmine",
+        "C": "Oxybutynin (antimuscarinic agents worsen bladder atony and cause acute complete urinary retention)",
+        "D": "Alpha-1 adrenergic blockers",
+        "E": "Intermittent clean catheterization"
+      },
+      "correct_option": "A",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which transdermal formulation of an OAB drug provides comparable detrusor relaxation with significantly less dry mouth due to avoidance of hepatic first-pass metabolism to N-desethyloxybutynin?",
+      "options": {
+        "A": "Tolterodine oral capsules",
+        "B": "Trospium oral solution",
+        "C": "Bethanechol subcutaneous injection",
+        "D": "Oxybutynin transdermal patch (or topical gel)",
+        "E": "Solifenacin oral suspension"
+      },
+      "correct_option": "B",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why are uroselective alpha-1A blockers (Tamsulosin, Silodosin) preferred over Doxazosin/Terazosin in elderly BPH?",
+      "options": {
+        "A": "Rapid urinary relief with minimal vascular hypotension and syncope",
+        "B": "Permanently shrink the static epithelial prostate volume",
+        "C": "Lower serum dihydrotestosterone levels by >80%",
+        "D": "Completely cure prostatic adenocarcinoma",
+        "E": "Zero renal excretion"
+      },
+      "correct_option": "A",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the characteristic adverse sexual side effect associated with the highly selective alpha-1A blocker Silodosin and Tamsulosin?",
+      "options": {
+        "A": "Severe painful priapism lasting >4 hours",
+        "B": "Retrograde Ejaculation (anejaculation due to bladder neck relaxation)",
+        "C": "Markedly elevated serum prolactin with bilateral galactorrhea",
+        "D": "Testicular atrophy with azoospermia",
+        "E": "Permanent irreversible erectile dysfunction"
+      },
+      "correct_option": "B",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What ophthalmological complication must cataract surgeons be warned about in male patients currently or previously treated with Tamsulosin?",
+      "options": {
+        "A": "Acute central retinal artery occlusion",
+        "B": "Bilateral open-angle glaucoma",
+        "C": "Intraoperative Floppy Iris Syndrome (IFIS, due to alpha-1A blockade of iris dilator muscle)",
+        "D": "Corneal ulceration with hypopyon",
+        "E": "Senile macular degeneration"
+      },
+      "correct_option": "C",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Non-selective alpha-1 blockers like Prazosin, Doxazosin, and Terazosin carry a prominent black-box warning for which initial adverse reaction?",
+      "options": {
+        "A": "Severe bronchospasm and laryngeal edema",
+        "B": "Malignant hyperthermia",
+        "C": "Acute fulminant hepatic necrosis",
+        "D": "First-Dose Syncope and severe Orthostatic Hypotension (administered at bedtime to minimize risk)",
+        "E": "Acute angle-closure glaucoma"
+      },
+      "correct_option": "D",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Finasteride and Dutasteride belong to the 5-Alpha Reductase Inhibitor (5-ARI) class. What is their molecular mechanism of action in BPH?",
+      "options": {
+        "A": "Competitive antagonism of androgen nuclear receptors",
+        "B": "Direct enzymatic lysis of prostatic smooth muscle cells",
+        "C": "Selective stimulation of aromatase conversion to estradiol",
+        "D": "Blockade of testicular LH receptors",
+        "E": "Inhibition of the 5-alpha reductase enzyme, blocking the conversion of Testosterone to Dihydrotestosterone (DHT)"
+      },
+      "correct_option": "E",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "How does Dutasteride differ pharmacologically from Finasteride in BPH therapy?",
+      "options": {
+        "A": "Dual inhibitor of Type 1 & 2 5-alpha reductase (Finasteride inhibits Type 2 only)",
+        "B": "Inhibits Type 1 only while Finasteride inhibits both isoforms",
+        "C": "Irreversible alpha-1 adrenergic antagonist",
+        "D": "Elimination half-life of 2 hours vs 5 weeks",
+        "E": "Inactive in prostatic glandular tissue"
+      },
+      "correct_option": "A",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "When screening for prostate cancer, how does chronic 5-Alpha Reductase Inhibitor therapy impact serum Prostate-Specific Antigen (PSA) levels?",
+      "options": {
+        "A": "It elevates serum PSA by 300%",
+        "B": "It has zero effect on serum PSA concentrations",
+        "C": "It lowers serum PSA by approximately 50%; measured PSA values MUST be multiplied by 2 to assess true cancer risk",
+        "D": "It converts PSA into human chorionic gonadotropin",
+        "E": "It permanently suppresses PSA to undetectable levels forever"
+      },
+      "correct_option": "D",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which adverse effect profile is characteristically associated with 5-Alpha Reductase Inhibitors due to systemic androgen deprivation?",
+      "options": {
+        "A": "Severe hypertension, hirsutism, and erythrocytosis",
+        "B": "Massive nephrolithiasis and hypercalcemia",
+        "C": "Hypokalemia and metabolic alkalosis",
+        "D": "Decreased libido, erectile dysfunction, ejaculatory impairment, and Gynecomastia",
+        "E": "Severe orthostatic hypotension and reflex tachycardia"
+      },
+      "correct_option": "A",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Why must pregnant women (or women who may become pregnant) strictly avoid handling crushed or broken Finasteride or Dutasteride tablets?",
+      "options": {
+        "A": "High risk of maternal anaphylactic shock",
+        "B": "Risk of cutaneous chemical burns",
+        "C": "Severe risk of maternal acute renal cortical necrosis",
+        "D": "Induction of immediate premature uterine contractions",
+        "E": "Transdermal absorption can cause Teratogenic genital malformations (feminization/hypospadias) in male fetuses"
+      },
+      "correct_option": "B",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which Phosphodiesterase-5 (PDE-5) inhibitor is FDA-approved for daily administration in men suffering from BOTH Benign Prostatic Hyperplasia and Erectile Dysfunction?",
+      "options": {
+        "A": "Tadalafil (once-daily 5 mg dosing; increases cGMP causing pelvic smooth",
+        "B": "Sildenafil",
+        "C": "Vardenafil",
+        "D": "Avanafil",
+        "E": "Alprostadil"
+      },
+      "correct_option": "E",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Pharmacological rationale for combination therapy (Tamsulosin + Dutasteride / CombAT trial) in BPH:",
+      "options": {
+        "A": "Alpha-blocker eliminates 5-ARI teratogenic risk",
+        "B": "Alpha-blocker gives rapid dynamic symptom relief; 5-ARI gives delayed static prostate shrinkage",
+        "C": "5-ARI prevents intraoperative floppy iris syndrome",
+        "D": "Alpha-blocker stimulates testosterone production",
+        "E": "Synergistically sterilizes the urinary tract"
+      },
+      "correct_option": "C",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Saw Palmetto (Serenoa repens) is a popular herbal phytotherapy utilized by patients for BPH symptoms. Large double-blind randomized trials have demonstrated that:",
+      "options": {
+        "A": "It is 10 times more effective than surgical transurethral resection",
+        "B": "It irreversibly destroys all prostatic epithelial cells",
+        "C": "It produces no significant improvement in urinary symptoms or peak flow compared to placebo",
+        "D": "It completely cures advanced prostate adenocarcinoma",
+        "E": "It permanently abolishes all renal tubular transport"
+      },
+      "correct_option": "A",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why is Sodium Bicarbonate generally less preferred than Potassium Citrate for chronic urinary alkalinization in stone formers?",
+      "options": {
+        "A": "Sodium bicarbonate causes severe metabolic acidosis",
+        "B": "Sodium bicarbonate has zero effect on urinary pH",
+        "C": "Sodium bicarbonate is an irreversible inhibitor of carbonic anhydrase",
+        "D": "Sodium bicarbonate precipitates as radio-opaque crystals in the ureters",
+        "E": "High sodium load expands EF volume, inducing hypercalciuria which increases the risk of secondary calcium stone formation"
+      },
+      "correct_option": "E",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Urinary alkalinization (urine pH > 7.5-8.0 with IV Sodium Bicarbonate) is a life-saving emergency intervention to enhance the renal elimination of which toxic weak acid?",
+      "options": {
+        "A": "Salicylates (Aspirin) and Methotrexate (ion-traps charged conjugate bases in tubular lumen, preventing reabsorption)",
+        "B": "Amphetamines",
+        "C": "Phencyclidine (PCP)",
+        "D": "Digoxin",
+        "E": "Morphine"
+      },
+      "correct_option": "A",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which agent acts as an oral urinary acidifier utilized diagnostically in the Acid Loading Test to confirm Type 1 (Distal) Renal Tubular Acidosis?",
+      "options": {
+        "A": "Potassium citrate",
+        "B": "Ammonium Chloride (NH4Cl, metabolized in liver to urea and HCI, challenging kidneys to lower urine pH < 5.3) [Cl Sodium bicarbonate [P] Magnesium hydroxide",
+        "E": "Calcium carbonate",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correct_option": "B",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Nitrofurantoin is first-line for acute uncomplicated cystitis. Key pharmacokinetic property and precaution:",
+      "options": {
+        "A": "Effective for systemic urosepsis and renal abscesses",
+        "B": "Causes massive hypernatremia and hypercalcemia",
+        "C": "Concentrates in urine with negligible serum levels; contraindicated if eGFR < 30 mL/min",
+        "D": "Excreted exclusively via biliary tract into feces",
+        "E": "Safe in all trimesters without hemolysis risk in G6PD"
+      },
+      "correct_option": "C",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What severe pulmonary toxicity can occur with chronic long-term Nitrofurantoin prophylaxis in elderly patients?",
+      "options": {
+        "A": "Acute pulmonary alveolar proteinosis",
+        "B": "Acute pneumothorax",
+        "C": "Massive lobar pulmonary gangrene",
+        "D": "Chronic Interstitial Pulmonary Fibrosis and hypersensitivity pneumonitis",
+        "E": "Pulmonary arterial hypertension secondary to pulmonary embolism"
+      },
+      "correct_option": "D",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Methenamine mandelate or hippurate acts as a urinary tract antiseptic that releases which active antibacterial compound in acidic urine (pH < 5.5)?",
+      "options": {
+        "A": "Cyanide gas",
+        "B": "Chlorine bleach",
+        "C": "Ammonia gas ID Nitrous oxide",
+        "E": "Formaldehyde (denatures bacterial proteins; bacteria do not develop resistance)"
+      },
+      "correct_option": "E",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Aminoglycosides (Gentamicin, Amikacin) induce acute tubular necrosis primarily via:",
+      "options": {
+        "A": "Mechanical laceration of medullary collecting ducts",
+        "B": "Lysosomal uptake and myeloid body formation in proximal tubules leading to necrosis",
+        "C": "Immune complex deposition along glomerular capillaries [DI Selective thrombosis of the main renal vein",
+        "E": "Permanent blockade of distal potassium secretion"
+      },
+      "correct_option": "A",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Calcineurin Inhibitors (Cyclosporine and Tacrolimus) produce acute and chronic nephrotoxicity primarily mediated by:",
+      "options": {
+        "A": "Direct stimulation of renal prostaglandins causing afferent vasodilation",
+        "B": "Massive immune complex deposition in mesangial cells",
+        "C": "Intense dose-dependent vasoconstriction of the Afferent Arteriole, leading to renal ischemia and chronic striped interstitial fibrosis",
+        "D": "Precipitation of drug crystals in the medullary collecting ducts",
+        "E": "Direct toxic destruction of the podocyte slit diaphragms"
+      },
+      "correct_option": "C",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Fundamental dosing rule for Loading Dose (LD) vs Maintenance Dose (MD) in renal impairment:",
+      "options": {
+        "A": "LD must be reduced by 90% while MD remains unchanged",
+        "B": "Both LD and MD must be doubled to overcome resistance",
+        "C": "LD is eliminated; give small hourly boluses",
+        "D": "LD depends on Vd (unchanged by renal function); MD depends on clearance (must be reduced)",
+        "E": "Replace all water-soluble drugs with heavy metals"
+      },
+      "correct_option": "D",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Antimicrobials strongly CONTRAINDICATED or neurotoxic in advanced renal failure:",
+      "options": {
+        "A": "Nitrofurantoin (ineffective in urine; peripheral neuropathy) and high-dose Imipenem (seizures)",
+        "B": "Ceftriaxone",
+        "C": "Azithromycin",
+        "D": "Doxycycline",
+        "E": "Linezolid"
+      },
+      "correct_option": "E",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A 68-year-old male with severe BPH starts Tamsulosin and Finasteride. Key education point regarding Finasteride:",
+      "options": {
+        "A": "Relieves all voiding symptoms within 24 hours",
+        "B": "Requires 6-12 months to shrink prostate; measured PSA must be doubled",
+        "C": "Causes intense harmless orange discoloration of urine",
+        "D": "Increases blood pressure requiring antihypertensive therapy",
+        "E": "Tablets should be crushed by his pregnant daughter"
+      },
+      "correct_option": "A",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 74-year-old female with dementia has urge incontinence. Which agent has the LOWEST cognitive impairment",
+      "options": {
+        "A": "Immediate-release oral Oxybutynin",
+        "B": "High-dose Amitriptyline",
+        "C": "Scopolamine transdermal patch",
+        "D": "Atropine sulfate tablets",
+        "E": "Trospium (quaternary ammonium, does not cross BBB) or Mirabegron (beta-3 agonist)"
+      },
+      "correct_option": "B",
+      "explanation": "**Beta-3 Adrenergic Agonist**: mouth or in cognitive decline. Caution: Monitor Blood\n\n**Mirabegron**: activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and",
+      "masterclass_id": 32,
+      "masterclass_title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology"
+    }
+  ]
+}

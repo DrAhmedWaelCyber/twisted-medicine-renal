@@ -1,0 +1,900 @@
+{
+  "id": 27,
+  "title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+  "department": "Parasitology",
+  "department_desc": "Schistosoma haematobium, Enterobius vermicularis, Hydatid disease and Trichomonas",
+  "booklet_pages": "Pages 105 - 108",
+  "pdf_pages": [
+    107,
+    108,
+    109,
+    110
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 28 — HIGH-YIELD UROGENITAL PARASITOLOGY MATRIX",
+  "summary_table": [
+    {
+      "domain": "contact (STI). Babies during",
+      "content": "Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!"
+    },
+    {
+      "domain": "birth.",
+      "content": "Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction)."
+    },
+    {
+      "domain": "Enterobius vermicularis",
+      "content": "Gravid females migrate noctumally to Habitat: Cecum, appendix, colon. Egg: D-shaped, plano-convex, Drug of Choice: Albendazole (400 mg) or transparent double shell containing perianal skin -> intense Pruritus Ani,"
+    },
+    {
+      "domain": "Pinworm / Oxyuris",
+      "content": "Mebendazole."
+    },
+    {
+      "domain": "Transmission:",
+      "content": "folded larva. insomnia, restlessness."
+    },
+    {
+      "domain": "Ingestion/inhalation of",
+      "content": "Diagnosis: Scotch adhesive tape Children: Nocturnal enuresis. Repeat dose after 2 weeks. Rule: Treat entire household embryonated eggs; autoinfection or NIH swab from perianal skin in Females: Mismigration causes pruritic (hand-to-mouth, retro-infection). vulvovaginitis; acute appendicitis. simultaneously. White precipitate morning. Stool exam is negative! ointment."
+    },
+    {
+      "domain": "No skin penetration!",
+      "content": "Agent: Fannia canicularis (latrine Larvae: Cylindrical or flattened Management:"
+    },
+    {
+      "domain": "Urogenital Myiasis",
+      "content": "Larval irritation and migration along urethra/bladder cause dysuria, urinary"
+    },
+    {
+      "domain": "fly), Fannia scalaris, Musca",
+      "content": "Manual extraction / physical"
+    },
+    {
+      "domain": "Dipterous Fly Larvae",
+      "content": "maggots with prominent posterior"
+    },
+    {
+      "domain": "domestica.",
+      "content": "frequency, urethral obstruction, spiracles. removal of larvae."
+    },
+    {
+      "domain": "(Maggot Infestation)",
+      "content": "hematuria, and passage of live maggots. Urethral irrigation with mild Diagnosis: Recovery of living fly Category: Accidental urogenital"
+    },
+    {
+      "domain": "myiasis.",
+      "content": "antiseptic. larvae in voided urine; identified by Secondary bacterial cystitis. posterior spiracular plates. Oral Ivermectin for invasive"
+    },
+    {
+      "domain": "Route: Flies lay eggs on",
+      "content": "genitalia/clothing; larvae enter cases; hygiene & screening"
+    },
+    {
+      "domain": "urethra.",
+      "content": "toilets. Unilocular Hydatid Cyst: 3 layers Slowly expanding painless renal mass,"
+    },
+    {
+      "domain": "Echinococcus granulosus Definitive: Dogs.",
+      "content": "Interventional / Medical: dull flank pain, microscopic hematuria."
+    },
+    {
+      "domain": "Intermediate: Sheep, cattle.",
+      "content": "PAIR technique (Puncture, (pericyst, ectocyst, endocyst /"
+    },
+    {
+      "domain": "Man: Accidental blind",
+      "content": "Aspiration, Injection of 95%"
+    },
+    {
+      "domain": "Cestode Larval Stage",
+      "content": "germinal layer) containing hydatid Rupture: Hydatiduria (passage of grape-skin membranes/hooklets in urine) ethanol / 20% NaCI, intermediate host via ingestion fluid & 'hydatid sand' (scolices & Re-aspiration). hooklets)."
+    },
+    {
+      "domain": "of eggs in dog feces.",
+      "content": "and fatal Anaphylactic Shock. Renal Site: Kidney involved in Lab: High eosinophilia, serology Covered with Albendazole."
+    },
+    {
+      "domain": "-2-3%.",
+      "content": "(IHA/ELISA), imaging. Surgical cystectomy."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2025 Exam Which of the following taxonomic characteristics uniquely distinguishes Schistosoma species from all other human flukes (Trematodes)?",
+      "options": {
+        "A": "They possess two complete digestive tracts with an anus",
+        "B": "They have separate sexes (dioecious / unisexual) with male and female worms",
+        "C": "They are hermaphrodites with simultaneous self-fertilization",
+        "D": "They lack suckers and sensory spines completely",
+        "E": "They utilize terrestrial insects as intermediate hosts"
+      },
+      "correct_option": "C",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2024 Exam What is the primary anatomical habitat of adult Schistosoma haematobium worms in the definitive human host?",
+      "options": {
+        "A": "Venules of the pelvic and vesical (urinary bladder) venous plexuses",
+        "B": "Small venules of the superior mesenteric venous plexus",
+        "C": "Intrahepatic portal vein branches and biliary canaliculi",
+        "D": "Lumbar lymphatic trunks and thoracic duct",
+        "E": "Internal pudendal and inferior rectal arteries"
+      },
+      "correct_option": "A",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2023 Exam Which freshwater snail serves as the obligate first (and only) intermediate host for Schistosoma haematobium in Egypt and Africa?",
+      "options": {
+        "A": "Biomphalaria alexandrina |",
+        "B": "Bulinus truncatus",
+        "C": "Pirenella conica",
+        "D": "Lymnaea cailliaudi",
+        "E": "Semisulcospira libertina"
+      },
+      "correct_option": "D",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2022 Exam What is the infective stage of Schistosoma haematobium that penetrates intact human skin during contact with infested fresh canal water?",
+      "options": {
+        "A": "Free-swimming ciliated Miracidium",
+        "B": "Encysted metacercaria on aquatic plants",
+        "C": "Filariform larva with notched tail",
+        "D": "Forked-tailed Furcocercous Cercaria",
+        "E": "Fully embryonated egg with terminal spine"
+      },
+      "correct_option": "D",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2021 Exam Regarding larval development within the intermediate snail host, which developmental stage is ABSENT in the lifecycle of Schistosoma?",
+      "options": {
+        "A": "Mother sporocyst",
+        "B": "Daughter sporocyst",
+        "C": "Furcocercous cercaria",
+        "D": "Miracidial penetration",
+        "E": "Redia stage (Schistosoma has no redial generation)"
+      },
+      "correct_option": "E",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2020 Exam Once the cercaria penetrates human skin, it sheds its forked tail and transforms into which migratory larval stage?",
+      "options": {
+        "A": "Metacercaria",
+        "B": "Rhabditiform larva",
+        "C": "Schistosomulum (tailless larva entering venous circulation)",
+        "D": "Oncosphere larva",
+        "E": "Coracidium"
+      },
+      "correct_option": "D",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2024 Exam Where do young juvenile Schistosoma haematobium schistosomulae mature into sexually mature adult worms before migrating to pelvic venules?",
+      "options": {
+        "A": "Pulmonary alveolar capillaries",
+        "B": "Right atrium and inferior vena cava",
+        "C": "Glomerular capillary loops",
+        "D": "Spleen red pulp sinuses",
+        "E": "Intrahepatic portal blood vessels"
+      },
+      "correct_option": "C",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2022 Exam What is the typical Prepatent Period for Schistosoma haematobium (time from skin penetration until appearance of eggs in urine)?",
+      "options": {
+        "A": "7 to 10 days",
+        "B": "2 to 3 weeks",
+        "C": "Approximately 60 to 70 days (8 to 10 weeks)",
+        "D": "Exactly 6 months to 1 year",
+        "E": "2 to 5 years"
+      },
+      "correct_option": "B",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2023 Exam What is the pathognomonic morphological hallmark of the diagnostic egg of Schistosoma haematobium found in urine?",
+      "options": {
+        "A": "Large oval shell (150 x 60 um) with a prominent, sharp TERMINAL spine",
+        "B": "Oval, operculated shell with a small lateral knob",
+        "C": "Spherical shell with a prominent lateral spine",
+        "D": "Barrel-shaped shell with two bipolar clear mucoid plugs",
+        "E": "Thick striated embryophore containing a hexacanth embryo"
+      },
+      "correct_option": "A",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2021 Exam What larval stage emerges from the hatched Schistosoma egg in freshwater to actively seek and infect the Bulinus snail host?",
+      "options": {
+        "A": "Furcocercous cercaria",
+        "B": "Tailless schistosomulum",
+        "C": "Coracidium",
+        "D": "Free-swimming ciliated Miracidium",
+        "E": "Plerocercoid larva"
+      },
+      "correct_option": "D",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2025 Exam The acute allergic dermatitis termed 'Swimmer's Itch' (Cercarial Dermatitis) occurs during which initial stage of schistosome infection?",
+      "options": {
+        "A": "Stage of egg extrusion through bladder mucosa",
+        "B": "Chronic stage of organ fibrosis",
+        "C": "Stage of cercarial skin penetration",
+        "D": "Stage of adult worm copulation in portal veins",
+        "E": "Stage of urinary bladder calcification"
+      },
+      "correct_option": "C",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2020 Exam The systemic immune-complex hypersensitivity syndrome known as 'Katayama Fever' typically manifests with which clinical constellation?",
+      "options": {
+        "A": "Painless frank hematuria with massive proteinuria",
+        "B": "High fever, chills, urticaria, hepatosplenomegaly, and marked eosinophilia during initial oviposition",
+        "C": "Acute anuria and severe lumbar hydronephrosis",
+        "D": "Localized vulvar ulcerations with strawberry cervix",
+        "E": "Rectal prolapse with nocturnal enuresis"
+      },
+      "correct_option": "B",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Faculty Exam Why does Schistosoma haematobium infection uniquely lack a second intermediate host in its life cycle?",
+      "options": {
+        "A": "Miracidia transform directly into adult worms inside water",
+        "B": "Humans ingest contaminated snail flesh directly",
+        "C": "Adult worms reproduce by binary fission in canal mud",
+        "D": "Cercariae directly penetrate the definitive host skin from water without encysting on secondary hosts",
+        "E": "Eggs are airborne and inhaled directly by humans"
+      },
+      "correct_option": "D",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Core Exam Female adult Schistosoma haematobium worms reside within the gynecophoral canal of male worms primarily to:",
+      "options": {
+        "A": "Provide digestive enzymes for the male worm",
+        "B": "Protect the male worm from host complement attack",
+        "C": "Facilitate continuous copulation and transport against venous flow to distal pelvic venules for oviposition",
+        "D": "Secrete toxic cytokines directly into systemic circulation",
+        "E": "Store glycogen granules for the miracidial larvae"
+      },
+      "correct_option": "C",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Parasitic Infections of Urinary Tract - Parasitology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2024 Exam What is the 'Sure / Pathognomonic' clinical symptom of early urinary schistosomiasis, occurring during the stage of egg extrusion?",
+      "options": {
+        "A": "Total continuous painless hematuria throughout micturition",
+        "B": "Severe oliguria with generalized anasarca",
+        "C": "Terminal Hematuria (painless bloody drops at the very end of urination)",
+        "D": "Copious milky chyluria",
+        "E": "Acute urinary retention with priapism"
+      },
+      "correct_option": "D",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2023 Exam Why does Terminal Hematuria occur characteristically at the conclusion of micturition in urinary schistosomiasis?",
+      "options": {
+        "A": "Ureteral peristalsis stops completely at the end of voiding",
+        "B": "Glomerular filtration pressure rises abruptly when bladder empties",
+        "C": "Urine pH becomes intensely alkaline only at the end of urination",
+        "D": "Prostatic smooth muscle undergoes ischemic infarction",
+        "E": "Contraction of the empty bladder wall squeezes congested, egg-laden mucosal venules against spiny eggs"
+      },
+      "correct_option": "E",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2022 Exam Histologically, the Bilharzial Granuloma around trapped viable eggs in bladder submucosa consists",
+      "options": {
+        "A": "Dense acellular fibrous collagen with zero immune cells",
+        "B": "Neutrophilic microabscesses with liquefactive necrosis only",
+        "C": "Sheets of malignant squamous cells with keratin pearls",
+        "D": "Caseous necrosis with Langhans giant cells without eosinophils",
+        "E": "Foreign-body giant cells, epithelioid macrophages, lymphocytes, and EOSINOPHILS"
+      },
+      "correct_option": "D",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2021 Exam Cystoscopic visualization of 'Sandy Patches' in the urinary bladder mucosa represents which chronic pathognomonic lesion?",
+      "options": {
+        "A": "Acute bacterial colonies forming macroscopic biofilm plaques",
+        "B": "Deposited crystals of uric acid and calcium oxalate dihydrate",
+        "C": "Ectopic functional renal adrenal rest tumors",
+        "D": "Calcified, dead schistosome eggs embedded in fibrotic, thinned mucosal patches resembling sea sand",
+        "E": "Superficial shedding of necrotic detrusor muscle bundles"
+      },
+      "correct_option": "D",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2020 Exam Which urothelial metaplastic and hyperplastic changes frequently occur in the urinary bladder as a consequence of chronic bilharzial irritation?",
+      "options": {
+        "A": "Transformation into ciliated respiratory pseudostratified epithelium",
+        "B": "Brunn's nests, Cystitis cystica, Cystitis glandularis, and Squamous Metaplasia",
+        "C": "Complete atrophy and disappearance of the entire mucosal lining",
+        "D": "Metaplasia into functional striated skeletal muscle fibers",
+        "E": "Keratoconjunctivitis sicca of the trigone"
+      },
+      "correct_option": "B",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2024 Exam In the chronic stage of urinary schistosomiasis, bilateral Hydronephrosis and secondary renal failure are primarily caused by:",
+      "options": {
+        "A": "Direct invasion of renal glomeruli by adult worms",
+        "B": "Massive autoimmune destruction of renal podocyte pedicels",
+        "C": "Fibrous strictures of the lower third of the ureters and ureterovesical junctions (UVJ)",
+        "D": "Excessive secretion of renin by bilharzial granulomas",
+        "E": "Retrograde migration of miracidia into the renal pelvis"
+      },
+      "correct_option": "E",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Parasitic Infections of Urinary Tract - Parasitology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2021 Exam Chronic urinary bilharziasis may rarely produce 'Bilharzial Cor Pulmonale' (RVH) due to:",
+      "options": {
+        "A": "Bacterial endocarditis caused by secondary E. coli sepsis",
+        "B": "Direct deposition of adult worms in the mitral valve leaflets",
+        "C": "Massive hypervolemia secondary to primary hyperaldosteronism",
+        "D": "Egg embolization via collaterals to pulmonary arterioles, causing arteritis & pulmonary HTN",
+        "E": "Severe bronchiectasis triggered by miracidial toxins"
+      },
+      "correct_option": "D",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2025 Exam What is the standard optimal timing and specimen collection method for detecting Schistosoma haematobium eggs in urine microscopy?",
+      "options": {
+        "A": "First morning early void collected immediately upon awakening",
+        "B": "Midstream clean-catch urine collected strictly at midnight",
+        "C": "Catheterized bladder washings after cold water instillation",
+        "D": "24-hour urine collection preserved in concentrated sulfuric acid",
+        "E": "Terminal urine void collected between 12:00 PM and 2:00PM (peak egg excretion), preferably after physical exercise"
+      },
+      "correct_option": "A",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Faculty Exam Which quantitative diagnostic technique is widely recommended by WHO to count Schistosoma haematobium eggs per 10 mL of urine in field surveys?",
+      "options": {
+        "A": "Kato-Katz thick-smear stool technique [B Formol-ether sedimentation method",
+        "C": "Stoll's dilution counting chamber",
+        "D": "Nuclepore polycarbonate membrane filtration technique",
+        "E": "Harada-Mori filter paper culture"
+      },
+      "correct_option": "D",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Core Exam On plain pelvic radiography (KUB), what characteristic radiologic sign is diagnostic of advanced, calcified chronic urinary bilharziasis?",
+      "options": {
+        "A": "Huge radio-opaque staghorn calculus filling both renal calyces",
+        "B": "Ground-glass calcification of both psoas muscle margins",
+        "C": "Curvilinear, rim-like calcification outlining the contour of the urinary bladder wall",
+        "D": "Multiple radio-opaque phleboliths within the femoral canal",
+        "E": "Complete absence of all pelvic bony landmarks"
+      },
+      "correct_option": "C",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Core Exam What is the Drug of Choice (DOC) for treating all stages of active infection with Schistosoma haematobium in humans?",
+      "options": {
+        "A": "Metronidazole (Flagyl) 500 mg tid for 7 days",
+        "B": "Praziquantel (PZQ) administered as a single oral dose of 40 mg/kg",
+        "C": "Albendazole 400 mg single oral dose",
+        "D": "Ivermectin 200 ug/kg single dose",
+        "E": "Diethylcarbamazine (DEC) 6 mg/kg daily"
+      },
+      "correct_option": "B",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Clinical Case What is the molecular mechanism of action of Praziquantel (PZQ) against adult schistosomes?",
+      "options": {
+        "A": "Inhibits bacterial DNA gyrase preventing replication",
+        "B": "Binds tubulin dimers to block microtubule assembly",
+        "C": "Selectively blocks collecting duct mineralocorticoid receptors",
+        "D": "Generates cytotoxic nitro radicals in anaerobic vacuoles",
+        "E": "Increases Ca2+ influx, causing spastic paralysis & tegument damage"
+      },
+      "correct_option": "E",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Parasitic Infections of Urinary Tract - Parasitology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2024 Exam Morphologically, the vegetative trophozoite of Trichomonas vaginalis exhibits which features?",
+      "options": {
+        "A": "Spherical body with one flagellum and full-length undulating membrane",
+        "B": "Elongated spindle with two nuclei and 8 flagella",
+        "C": "Non-flagellated amoeboid body with ingested red blood cells",
+        "D": "Pear-shaped body (10-20 um), single nucleus, 4 anterior flagella, half membrane & axostyle",
+        "E": "Crescentic shape with a rigid apical complex"
+      },
+      "correct_option": "D",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2023 Exam Under direct wet-mount microscopy of fresh vaginal discharge, how is Trichomonas vaginalis readily recognized?",
+      "options": {
+        "A": "Rapid, jerky, wobbly, and rotatory motility",
+        "B": "Slow gliding movement with pseudopodial extensions",
+        "C": "Completely non-motile rigid cyst structures",
+        "D": "Tumbling end-over-end motility like Listeria",
+        "E": "Corkscrew motility visible only under dark-field illumination"
+      },
+      "correct_option": "B",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2022 Exam What physiological vaginal microenvironment facilitates the optimal proliferation and clinical manifestations of Trichomonas vaginalis?",
+      "options": {
+        "A": "An elevated vaginal pH (pH 5.5 to 6.5) and decreased vaginal acidity",
+        "B": "An intensely acidic pH below 3.5 produced by Doderlein lactobacilli",
+        "C": "Hyper-oxygenated atmospheric environment",
+        "D": "Complete absence of all glycogen and mucosal secretions",
+        "E": "Profound hyperthermia exceeding 42 degrees C"
+      },
+      "correct_option": "A",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2021 Exam What pathognomonic colposcopic physical examination finding is classic for symptomatic acute Trichomoniasis in adult females?",
+      "options": {
+        "A": "Discrete white curd-like plaques adhering to vaginal walls",
+        "B": "Extensive painless cauliflower-like verrucous warts",
+        "C": "Multiple deeply punched-out painful chancroid ulcers",
+        "D": "'Strawberry Cervix' (Colpitis Macularis: punctate mucosal hemorrhages and erythematous papules)",
+        "E": "Smooth, shiny atrophic pale mucosal surface"
+      },
+      "correct_option": "A",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2020 Exam What is the Drug of Choice (DOC) and crucial clinical rule for treating urogenital Trichomoniasis?",
+      "options": {
+        "A": "Oral Metronidazole (Flagyl) or Tinidazole; BOTH sexual partners MUST be treated",
+        "B": "Topical nystatin cream administered to the female patient only",
+        "C": "Intramuscular Penicillin G benzathine given once to the male partner only",
+        "D": "Single oral dose of Praziquantel 40 mg/kg",
+        "E": "Oral Albendazole 400 mg for 3 consecutive days"
+      },
+      "correct_option": "A",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2024 Exam Enterobius vermicularis (Pinworm / Oxyuris) adult worms normally inhabit which segment of the human gastrointestinal tract?",
+      "options": {
+        "A": "Cecum, appendix, and adjacent ascending colon",
+        "B": "Upper duodenum and jejunal loops",
+        "C": "Lower biliary ducts and gallbladder",
+        "D": "Pelvic and vesical venous plexus",
+        "E": "Portal vein trunk"
+      },
+      "correct_option": "E",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Parasitic Infections of Urinary Tract - Parasitology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2022 Exam Which of the following is considered an UNUSUAL or MISGUIDED clinical complication of Enterobius vermicularis in young female children?",
+      "options": {
+        "A": "Nocturnal enuresis (bedwetting) and sleep disturbances",
+        "B": "Acute interstitial nephritis with eosinophiluria",
+        "C": "Ectopic migration into the vulva and vagina causing pruritic vulvovaginitis and mucoid discharge",
+        "D": "Acute catarrhal appendicitis",
+        "E": "Secondary excoriation and bacterial perianal dermatitis"
+      },
+      "correct_option": "B",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2021 Exam What is the definitive diagnostic method for Enterobius vermicularis eggs?",
+      "options": {
+        "A": "Formol-ether stool sedimentation; eggs are too heavy to float",
+        "B": "Scotch adhesive tape or NIH swab in early morning; eggs are on perianal skin, rarely in feces",
+        "C": "Direct urine dipstick testing for leukocyte esterase",
+        "D": "Rectal mucosal biopsy under general anesthesia",
+        "E": "Indirect hemagglutination serology (HA)"
+      },
+      "correct_option": "B",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2025 Exam All of the following represent accurate modes of infection for Enterobius vermicularis EXCEPT:",
+      "options": {
+        "A": "Hand-to-mouth autoinfection after scratching perianal skin",
+        "B": "Transcutaneous skin penetration by larvae from moist soil",
+        "C": "Inhalation and swallowing of airborne eggs in dust",
+        "D": "Retro-infection where hatched larvae crawl back into rectum",
+        "E": "Ingestion of eggs via contaminated clothing, linens, and toys"
+      },
+      "correct_option": "B",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Faculty Exam Accidental Internal Urogenital Myiasis (infestation of the urinary tract with fly larvae) is most frequently caused by the dipterous fly:",
+      "options": {
+        "A": "Fannia canicularis (lesser housefly / latrine fly) or Fannia scalaris",
+        "B": "Dermatobia hominis (human botfly)",
+        "C": "Cordylobia anthropophaga (tumbu fly)",
+        "D": "Oestrus ovis (sheep nasal botfly)",
+        "E": "Hypoderma bovis (cattle warble fly)"
+      },
+      "correct_option": "A",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Core Exam A sheep breeder presents with flank pain and a renal unilocular hydatid cyst. The host role and treatment are:",
+      "options": {
+        "A": "Man is accidental intermediate host; treated with PAIR plus Albendazole",
+        "B": "Man is definitive host; treated with oral praziquantel alone",
+        "C": "Man is reservoir host; treated with renal artery embolization",
+        "D": "Man is paratenic host; treated with open surgical deroofing",
+        "E": "Man is secondary intermediate host; treated with metronidazole"
+      },
+      "correct_option": "A",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Clinical Case A 16-year-old farmer has terminal hematuria and urine eggs with a terminal spine. Diagnosis and treatment:",
+      "options": {
+        "A": "Acute bacterial cystitis; treated with oral Ciprofloxacin",
+        "B": "Trichomoniasis; treated with oral Metronidazole",
+        "C": "Renal Hydatid disease; treated with PAIR technique",
+        "D": "Enterobiasis; treated with oral Mebendazole",
+        "E": "Urinary Schistosomiasis (S. haematobium); treated with Praziquantel 40 mg/kg single dose"
+      },
+      "correct_option": "E",
+      "explanation": "**contact (STI). Babies during**: Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!\n\n**birth.**: Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction).",
+      "masterclass_id": 27,
+      "masterclass_title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology"
+    }
+  ]
+}

@@ -1,0 +1,1029 @@
+{
+  "items" : [
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine",
+      "x" : 0.11213992033607673,
+      "w" : 0.15843620540211037,
+      "h" : 0.011627906163533597,
+      "y" : 0.9781976745155039
+    },
+    {
+      "conf" : 1,
+      "text" : "• Renal System Module • Lecture 17 MCQ Masterclass",
+      "x" : 0.3683127629629628,
+      "w" : 0.3456789892424577,
+      "h" : 0.010277777777777719,
+      "y" : 0.975972222405789
+    },
+    {
+      "conf" : 1,
+      "text" : "Page 1 of 4",
+      "x" : 0.9341563794756591,
+      "w" : 0.06999821333015488,
+      "h" : 0.010310368008083826,
+      "y" : 0.9760174419496079
+    },
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine Medical Series • Electrolyte Balance, Hypo\/Hypernatremia, Hypo\/Hyperkalemia & Tubulopathies • Standard Practice Bank",
+      "x" : 0.4074074198902602,
+      "w" : 0.7489711833450029,
+      "h" : 0.01031007766723624,
+      "y" : 0.96432170540046
+    },
+    {
+      "conf" : 1,
+      "text" : "17. MECHANISM OF ELECTROLYTE BALANCE - PHYSIOLOGY TUTORIAL",
+      "x" : 0.4999999947325104,
+      "w" : 0.5843621499883304,
+      "h" : 0.013081394831339521,
+      "y" : 0.9440406975436046
+    },
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine Physiology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "x" : 0.5010288053840879,
+      "w" : 0.5781892980419614,
+      "h" : 0.011686045858595118,
+      "y" : 0.9258430229819266
+    },
+    {
+      "conf" : 1,
+      "text" : "Q01. [2025 Exam] What is the primary physiological trigger for the",
+      "x" : 0.24382716467078178,
+      "w" : 0.41769548332166373,
+      "h" : 0.01027777777777783,
+      "y" : 0.9062500000726744
+    },
+    {
+      "conf" : 1,
+      "text" : "Q08. [2022 Exam] Why must chronic Hyponatremia (>48 hours) NEVER",
+      "x" : 0.7366255188888888,
+      "w" : 0.4485596470862814,
+      "h" : 0.01027777777777783,
+      "y" : 0.9062500000726744
+    },
+    {
+      "conf" : 1,
+      "text" : "secretion of Antidiuretic Hormone (ADH) from the posterior pituitary to",
+      "x" : 0.25925926611796957,
+      "w" : 0.44855964708628143,
+      "h" : 0.011705426110161676,
+      "y" : 0.8924806202446319
+    },
+    {
+      "conf" : 1,
+      "text" : "be corrected faster than 8 to 10 mEq\/L per 24 hours?",
+      "x" : 0.6800411551783263,
+      "w" : 0.33950616128789546,
+      "h" : 0.011705426110161676,
+      "y" : 0.8924806202446319
+    },
+    {
+      "conf" : 1,
+      "text" : "maintain serum sodium and osmolality?",
+      "x" : 0.162551444238683,
+      "w" : 0.25514403529137186,
+      "h" : 0.010174418555365605,
+      "y" : 0.8786337207606589
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Rapid correction triggers acute renal papillary necrosis",
+      "x" : 0.6862139960133744,
+      "w" : 0.33950616128789557,
+      "h" : 0.010174418555365605,
+      "y" : 0.8771802326126453
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] A 1% to 2% increase in plasma osmolality sensed by hypothalamic",
+      "x" : 0.24382716556069947,
+      "w" : 0.40534977942892586,
+      "h" : 0.008888889153798485,
+      "y" : 0.863333333255071
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] It causes immediate acute rupture of the urinary bladder",
+      "x" : 0.6903292222565156,
+      "w" : 0.34773662255245186,
+      "h" : 0.01175064563751227,
+      "y" : 0.8647642114645611
+    },
+    {
+      "conf" : 0.5,
+      "text" : "osmoreceptors",
+      "x" : 0.08744856121399172,
+      "w" : 0.09259258726107998,
+      "h" : 0.007267441749572723,
+      "y" : 0.8510174419331396
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Brain cells lose idiogenic osmoles; rapid hypertonic shift causes Osmotic",
+      "x" : 0.7397119267146779,
+      "w" : 0.4465020617599008,
+      "h" : 0.010174418555365605,
+      "y" : 0.8539244185319768
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] A 50% drop in arterial p02 sensed by peripheral chemoreceptors",
+      "x" : 0.23868313415637837,
+      "w" : 0.3950617088461822,
+      "h" : 0.010174418555365716,
+      "y" : 0.8408430233284885
+    },
+    {
+      "conf" : 1,
+      "text" : "Demyelination Syndrome (Central Pontine Myelinolysis)",
+      "x" : 0.6810699629115226,
+      "w" : 0.32510287206877697,
+      "h" : 0.01029069741566968,
+      "y" : 0.8423546511125648
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] A 15% increase in central venous hematocrit",
+      "x" : 0.1810699623456789,
+      "w" : 0.2798353950932341,
+      "h" : 0.00872092988755968,
+      "y" : 0.8284883721656977
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Rapid sodium entry causes sudden total destruction of the adrenal cortex",
+      "x" : 0.7407407332647464,
+      "w" : 0.44855964708628127,
+      "h" : 0.010277777777777719,
+      "y" : 0.8306944443840913
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Direct stimulation of renal medullary collecting ducts by epinephrine",
+      "x" : 0.24897119094650214,
+      "w" : 0.4156378500116696,
+      "h" : 0.01173126538594571,
+      "y" : 0.8169121449212835
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] It stimulates immediate irreversible pulmonary fibrosis",
+      "x" : 0.6851851894032921,
+      "w" : 0.33744855196970813,
+      "h" : 0.010277777777777719,
+      "y" : 0.8190277775612134
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] A decrease in core body temperature below 35 degrees Celsius",
+      "x" : 0.23456789499314154,
+      "w" : 0.3868312715734326,
+      "h" : 0.010277777777777719,
+      "y" : 0.805972222133047
+    },
+    {
+      "conf" : 1,
+      "text" : "Q02. [2024 Exam] Why is Plasma Sodium Concentration ([Na+])",
+      "x" : 0.23662551843621393,
+      "w" : 0.40329219410254524,
+      "h" : 0.010174418555365716,
+      "y" : 0.7841569768168604
+    },
+    {
+      "conf" : 1,
+      "text" : "primarily a reflection of total body water balance rather than total body",
+      "x" : 0.259259264866255,
+      "w" : 0.4485596470862814,
+      "h" : 0.010174418555365605,
+      "y" : 0.7710755814498547
+    },
+    {
+      "conf" : 1,
+      "text" : "sodium balance?",
+      "x" : 0.09053497784636494,
+      "w" : 0.11111110711247665,
+      "h" : 0.01030361758338083,
+      "y" : 0.7579295863629304
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Sodium cannot cross glomerular capillaries under any conditions",
+      "x" : 0.2386831209190675,
+      "w" : 0.3991769514743637,
+      "h" : 0.01030361758338083,
+      "y" : 0.7420704133948215
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Water intake (thirst) and water excretion (ADH) regulate [Na+], whereas",
+      "x" : 0.2572016533607679,
+      "w" : 0.436213991177157,
+      "h" : 0.01027777777777783,
+      "y" : 0.7304166664929136
+    },
+    {
+      "conf" : 1,
+      "text" : "sodium balance regulates ECF volume",
+      "x" : 0.1543209914266117,
+      "w" : 0.22633743286132815,
+      "h" : 0.01027777777777783,
+      "y" : 0.7187500000726744
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Sodium is synthesized de novo within renal proximal tubule cells",
+      "x" : 0.2376543143689988,
+      "w" : 0.3971193181643695,
+      "h" : 0.01027777777777783,
+      "y" : 0.7070833335070864
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Sodium concentration is maintained strictly by pulmonary exhalation",
+      "x" : 0.24999999296982192,
+      "w" : 0.4218107019580385,
+      "h" : 0.01030361758338083,
+      "y" : 0.6954295864598297
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] The body possesses no regulatory mechanisms to excrete sodium",
+      "x" : 0.24382716731824394,
+      "w" : 0.40946499806530073,
+      "h" : 0.010174418555365605,
+      "y" : 0.6838662790939922
+    },
+    {
+      "conf" : 1,
+      "text" : "Q03. [2023 Exam] What is the physiological hallmark of",
+      "x" : 0.21090535545267472,
+      "w" : 0.3518518411888267,
+      "h" : 0.011666666666666714,
+      "y" : 0.6627777777005059
+    },
+    {
+      "conf" : 1,
+      "text" : "Pseudohyponatremia seen in severe hypertriglyceridemia or",
+      "x" : 0.22530864578189294,
+      "w" : 0.38065841962706365,
+      "h" : 0.011666666666666714,
+      "y" : 0.6497222220216129
+    },
+    {
+      "conf" : 1,
+      "text" : "paraproteinemia (multiple myeloma)?",
+      "x" : 0.15637860486968436,
+      "w" : 0.2427983553904407,
+      "h" : 0.010297157499525422,
+      "y" : 0.6359625323839015
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] True serum hypo-osmolality with cellular swelling",
+      "x" : 0.19444444447016457,
+      "w" : 0.30658436421328367,
+      "h" : 0.011731265915764788,
+      "y" : 0.6205878551529542
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Severe intravascular volume depletion and hypotension",
+      "x" : 0.21090534549897128,
+      "w" : 0.34362137992427033,
+      "h" : 0.011627906163533486,
+      "y" : 0.6090116278343023
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Normal measured serum osmolality (~285 mOsm\/kg) with artifactual",
+      "x" : 0.25308642688614513,
+      "w" : 0.4279835059207941,
+      "h" : 0.010174418555365716,
+      "y" : 0.59665697686531
+    },
+    {
+      "conf" : 1,
+      "text" : "reduction of sodium in plasma water",
+      "x" : 0.15123456416323747,
+      "w" : 0.22427982354314074,
+      "h" : 0.010174418555365716,
+      "y" : 0.5850290696947673
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Massive urinary sodium loss exceeding 200 mEq\/L",
+      "x" : 0.20061728793724273,
+      "w" : 0.31893004411421483,
+      "h" : 0.010297157499525311,
+      "y" : 0.5734625323536204
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Intracellular dehydration of hypothalamic neurons",
+      "x" : 0.19547325624142645,
+      "w" : 0.3127571921678459,
+      "h" : 0.010277777777777719,
+      "y" : 0.5618055557760864
+    },
+    {
+      "conf" : 1,
+      "text" : "Q04. [2022 Exam] In severe Hyperglycemia (e.g., DKA), what is the",
+      "x" : 0.24485597232510273,
+      "w" : 0.4197530686480444,
+      "h" : 0.010174418555365716,
+      "y" : 0.5399709303234013
+    },
+    {
+      "conf" : 1,
+      "text" : "corrected serum sodium formula, and why does measured sodium",
+      "x" : 0.24588477507716047,
+      "w" : 0.42181070195803855,
+      "h" : 0.010310077137417273,
+      "y" : 0.5268217054655149
+    },
+    {
+      "conf" : 1,
+      "text" : "appear low (Translocational Hyponatremia)?",
+      "x" : 0.18004114735939655,
+      "w" : 0.29423868431235256,
+      "h" : 0.01028423786163346,
+      "y" : 0.5137532298090755
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Sodium decreases by 10 mEq\/L for every 100 mg\/dL glucose rise",
+      "x" : 0.24074073401920462,
+      "w" : 0.4032921461189318,
+      "h" : 0.011711886194017196,
+      "y" : 0.4985885015946992
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Glucose directly binds and precipitates sodium ions in blood",
+      "x" : 0.2263374423182444,
+      "w" : 0.3744855916725015,
+      "h" : 0.011673126220703156,
+      "y" : 0.4869412146312981
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Glucagon stimulates excessive sodium excretion in the loop of Henle",
+      "x" : 0.25205760812757216,
+      "w" : 0.4218107019580385,
+      "h" : 0.011666666666666603,
+      "y" : 0.4752777778427281
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Hyperglycemia draws water out of cells into ECF, diluting serum Na+ by",
+      "x" : 0.25925925380658443,
+      "w" : 0.43621399117715703,
+      "h" : 0.011698966026306157,
+      "y" : 0.46362726069361365
+    },
+    {
+      "conf" : 1,
+      "text" : "~1.6 mEq\/L per 100 mg\/dL glucose elevation above 100",
+      "x" : 0.20576131131687259,
+      "w" : 0.3333333333333333,
+      "h" : 0.01173772546980123,
+      "y" : 0.4519799739708972
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Insulin deficiency destroys all renal epithelial ENaC channels",
+      "x" : 0.22633745486968426,
+      "w" : 0.37860081030887627,
+      "h" : 0.011627906163533486,
+      "y" : 0.44040697684108526
+    },
+    {
+      "conf" : 1,
+      "text" : "Q05. [2021 Exam] In evaluating Hyponatremia (serum Na+ < 135",
+      "x" : 0.23868312349794243,
+      "w" : 0.40740741273892,
+      "h" : 0.011666666666666714,
+      "y" : 0.4186111111885066
+    },
+    {
+      "conf" : 1,
+      "text" : "mEq\/L), what does a high measured Serum Osmolality (>295",
+      "x" : 0.22839506790123434,
+      "w" : 0.3868312715734326,
+      "h" : 0.011679585774739598,
+      "y" : 0.40554909581335497
+    },
+    {
+      "conf" : 1,
+      "text" : "mOsm\/kg) indicate?",
+      "x" : 0.10493826920438964,
+      "w" : 0.14403291618299185,
+      "h" : 0.010174418555365716,
+      "y" : 0.3917151162063954
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Syndrome of Inappropriate ADH secretion (SIADH)",
+      "x" : 0.19753085891632394,
+      "w" : 0.31687241080422074,
+      "h" : 0.011711885664198118,
+      "y" : 0.3764114985733111
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Psychogenic Polydipsia (water intoxication)",
+      "x" : 0.17798354256687232,
+      "w" : 0.27777776178323993,
+      "h" : 0.010174418555365716,
+      "y" : 0.3655523256359012
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Severe dietary sodium restriction alone",
+      "x" : 0.1666666691769547,
+      "w" : 0.25102879266319034,
+      "h" : 0.010174418555365605,
+      "y" : 0.3539244186773255
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Primary adrenal insufficiency (Addison disease)",
+      "x" : 0.19135802844650196,
+      "w" : 0.30041151226691476,
+      "h" : 0.010290697415669792,
+      "y" : 0.3423546511125649
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Presence of effective unmeasured osmoles (e.g., hyperglycemia or",
+      "x" : 0.2438271656121398,
+      "w" : 0.4094649980653007,
+      "h" : 0.01027777777777783,
+      "y" : 0.3306944445112716
+    },
+    {
+      "conf" : 1,
+      "text" : "mannitol)",
+      "x" : 0.06995884850823043,
+      "w" : 0.061728393506703894,
+      "h" : 0.00872092988755968,
+      "y" : 0.3183139535610465
+    },
+    {
+      "conf" : 1,
+      "text" : "Q06. [2020 Exam] What urine osmolality (U_osm) distinguishes",
+      "x" : 0.23559671183127565,
+      "w" : 0.4012345607925511,
+      "h" : 0.010174418555365716,
+      "y" : 0.29723837216569765
+    },
+    {
+      "conf" : 1,
+      "text" : "high-ADH Hyponatremia from Primary Polydipsia (water intoxication)?",
+      "x" : 0.2572016505349793,
+      "w" : 0.4444444284499066,
+      "h" : 0.011744186083475716,
+      "y" : 0.28337209321519685
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Polydipsia suppresses ADH, producing dilute urine (U_osm < 100",
+      "x" : 0.23971192919238696,
+      "w" : 0.3971193421561762,
+      "h" : 0.01027777777777783,
+      "y" : 0.26819444440226003
+    },
+    {
+      "conf" : 0.5,
+      "text" : "mOsm\/kg)",
+      "x" : 0.07407407517146772,
+      "w" : 0.06584361814103037,
+      "h" : 0.00872092988755968,
+      "y" : 0.25581395358527137
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Primary polydipsia produces maximally concentrated urine (>1200",
+      "x" : 0.24279834881687254,
+      "w" : 0.40740741273892,
+      "h" : 0.010277777777777719,
+      "y" : 0.24486111103196256
+    },
+    {
+      "conf" : 0.5,
+      "text" : "mOsm\/kg)",
+      "x" : 0.07407407517146772,
+      "w" : 0.06584361814103037,
+      "h" : 0.00872092988755968,
+      "y" : 0.23255813963178285
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Urine osmolality is fixed at 300 mOsm\/kg in all hyponatremic states",
+      "x" : 0.24897120034293524,
+      "w" : 0.4156378500116696,
+      "h" : 0.010174418555365605,
+      "y" : 0.22165697681686047
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] High ADH states always yield completely clear urine",
+      "x" : 0.2037037077674896,
+      "w" : 0.325102872068777,
+      "h" : 0.010174418555365716,
+      "y" : 0.21002906982194774
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Primary polydipsia causes urinary bicarbonate precipitation",
+      "x" : 0.22427984149519867,
+      "w" : 0.36625513040794516,
+      "h" : 0.0102971574995252,
+      "y" : 0.19846253233545186
+    },
+    {
+      "conf" : 1,
+      "text" : "Q07. [2024 Exam] In Euvolemic Hyponatremia caused by SIADH, which",
+      "x" : 0.2592592563271605,
+      "w" : 0.44855964708628143,
+      "h" : 0.011686046388414195,
+      "y" : 0.17584302305616434
+    },
+    {
+      "conf" : 1,
+      "text" : "laboratory combination of urine chemistry confirms the diagnosis?",
+      "x" : 0.2458847665637863,
+      "w" : 0.42592592059441337,
+      "h" : 0.010277777777777719,
+      "y" : 0.1620833331858949
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Urine osmolality < 100 mOsm\/kg and urine Na+ < 10 mEq\/L",
+      "x" : 0.22530864811385443,
+      "w" : 0.3683127397261326,
+      "h" : 0.010174418555365605,
+      "y" : 0.14607558146802324
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Urine osmolality > 100 mOsm\/kg (usually > 300) and urine Na+ > 20-40",
+      "x" : 0.2561728341306585,
+      "w" : 0.4300411392307881,
+      "h" : 0.010174418555365716,
+      "y" : 0.1344476743640987
+    },
+    {
+      "conf" : 1,
+      "text" : "mEq\/L despite serum hypo-osmolality",
+      "x" : 0.15226337825788738,
+      "w" : 0.22633743286132812,
+      "h" : 0.010174418555365716,
+      "y" : 0.1228197674660853
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Urine osmolality > 1200 mOsm\/kg and urine Na+ equal to zero",
+      "x" : 0.2325102832818931,
+      "w" : 0.3827160289452511,
+      "h" : 0.010284237861633239,
+      "y" : 0.11124677006374428
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Urine glucose > 1000 mg\/dL with high serum bicarbonate",
+      "x" : 0.2191358084019203,
+      "w" : 0.3559670598252015,
+      "h" : 0.010277777777777719,
+      "y" : 0.09958333328279395
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Urine pH > 8.0 with profound hyperkalemia",
+      "x" : 0.173868317318244,
+      "w" : 0.27366254314686517,
+      "h" : 0.010277777777777719,
+      "y" : 0.08791666686255467
+    },
+    {
+      "conf" : 1,
+      "text" : "Q09. [2023 Exam] Conversely, why does rapid overcorrection of acute",
+      "x" : 0.7325102924691358,
+      "w" : 0.44032920981353185,
+      "h" : 0.010174418555365716,
+      "y" : 0.7841569768168604
+    },
+    {
+      "conf" : 1,
+      "text" : "severe Hypernatremia with hypotonic fluids carry fatal risk?",
+      "x" : 0.699588472633745,
+      "w" : 0.37860081030887627,
+      "h" : 0.010174418555365605,
+      "y" : 0.7710755813045058
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] It causes massive systemic calciphylaxis",
+      "x" : 0.6471193382973253,
+      "w" : 0.26131686324593406,
+      "h" : 0.010277777777777719,
+      "y" : 0.7551388888590258
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] It triggers immediate coronary artery spasm",
+      "x" : 0.6553497908179013,
+      "w" : 0.2736625431468651,
+      "h" : 0.010277777777777719,
+      "y" : 0.7434722224387866
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] It induces acute irreversible aplastic anemia",
+      "x" : 0.6563785973765432,
+      "w" : 0.27572015246505266,
+      "h" : 0.010277777777777719,
+      "y" : 0.7318055554887284
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Rapid fluid shift into brain cells containing high osmoles causes Cerebral",
+      "x" : 0.739711939686214,
+      "w" : 0.44238684312352594,
+      "h" : 0.010290697945488758,
+      "y" : 0.7201453487678744
+    },
+    {
+      "conf" : 1,
+      "text" : "Edema and herniation",
+      "x" : 0.5833333349537035,
+      "w" : 0.12962962696387337,
+      "h" : 0.00872092988755968,
+      "y" : 0.7093023256177325
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] It abolishes the renal countercurrent multiplier permanently",
+      "x" : 0.6995884819444442,
+      "w" : 0.3662551304079451,
+      "h" : 0.010174418555365716,
+      "y" : 0.6969476744731105
+    },
+    {
+      "conf" : 1,
+      "text" : "Q10. [2021 Exam] In Hypernatremia with polyuria, how does Central DI",
+      "x" : 0.7345678975308643,
+      "w" : 0.4444444284499066,
+      "h" : 0.01027777777777783,
+      "y" : 0.6620833331495576
+    },
+    {
+      "conf" : 1,
+      "text" : "differ from Nephrogenic DI after water deprivation and dDAVP?",
+      "x" : 0.7139917762688612,
+      "w" : 0.4032921461189318,
+      "h" : 0.011666666666666603,
+      "y" : 0.6497222221088224
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Central DI shows zero response; Nephrogenic DI concentrates >50%",
+      "x" : 0.7242798301954735,
+      "w" : 0.41563785001166953,
+      "h" : 0.01030361758338083,
+      "y" : 0.6329295865143355
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Nephrogenic DI develops severe metabolic alkalosis",
+      "x" : 0.6820987709533606,
+      "w" : 0.3312757000233393,
+      "h" : 0.010174418555365716,
+      "y" : 0.6213662791424419
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Both forms show identical 100% normalization within 10 min",
+      "x" : 0.705760759837845,
+      "w" : 0.37460483095181063,
+      "h" : 0.011878310309516027,
+      "y" : 0.6105319414407155
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Central DI presents with massive glycosuria and proteinuria",
+      "x" : 0.7037037098765428,
+      "w" : 0.37037034904432,
+      "h" : 0.010310077137417384,
+      "y" : 0.5981782945284289
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Central DI U_osm rises >50% after dDAVP; Nephrogenic DI shows little\/no",
+      "x" : 0.7417695398834023,
+      "w" : 0.4465020617599008,
+      "h" : 0.01027777777777783,
+      "y" : 0.5865277776426606
+    },
+    {
+      "conf" : 1,
+      "text" : "change",
+      "x" : 0.5411522628101404,
+      "w" : 0.04556802533707527,
+      "h" : 0.009534772237141942,
+      "y" : 0.5741279069302102
+    },
+    {
+      "conf" : 1,
+      "text" : "Q11. [2025 Exam] How does the kidney maintain Effective Circulating",
+      "x" : 0.7314814831104253,
+      "w" : 0.43827157650353776,
+      "h" : 0.01162790722317164,
+      "y" : 0.5406976745155039
+    },
+    {
+      "conf" : 1,
+      "text" : "Volume (ECV) during acute extracellular fluid volume contraction?",
+      "x" : 0.7211934226680381,
+      "w" : 0.4218107019580385,
+      "h" : 0.01031007766723635,
+      "y" : 0.5268217054489097
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Activating RAAS and renal sympathetic nerves, maximizing proximal and",
+      "x" : 0.737654315457819,
+      "w" : 0.44238684312352594,
+      "h" : 0.01027777777777783,
+      "y" : 0.5123611111921403
+    },
+    {
+      "conf" : 1,
+      "text" : "distal sodium reabsorption (FENa < 1%)",
+      "x" : 0.6347736654578188,
+      "w" : 0.23251028480769698,
+      "h" : 0.01027777777777783,
+      "y" : 0.5006944443874309
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Increasing ANP secretion to accelerate medullary sodium loss",
+      "x" : 0.7098765496570643,
+      "w" : 0.38683127157343267,
+      "h" : 0.010297157499525311,
+      "y" : 0.48903746780989704
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Inhibiting all basolateral Na+\/K+ ATPase pumps along the nephron",
+      "x" : 0.7222222273662551,
+      "w" : 0.4115226313752949,
+      "h" : 0.011724805831909157,
+      "y" : 0.47669573628499823
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Dilating the efferent arteriole while constricting the afferent arteriole",
+      "x" : 0.7253086354938274,
+      "w" : 0.4176954353380503,
+      "h" : 0.01176356527540423,
+      "y" : 0.46504844932003364
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Suppressing hypothalamic thirst and increasing free water clearance",
+      "x" : 0.726337444650206,
+      "w" : 0.4197530686480444,
+      "h" : 0.011627906163533597,
+      "y" : 0.45348837189922486
+    },
+    {
+      "conf" : 1,
+      "text" : "Q12. [2020 Exam] What is the primary clinical utility of measuring",
+      "x" : 0.7191358092935527,
+      "w" : 0.41358021670167544,
+      "h" : 0.011666666666666714,
+      "y" : 0.4186111110528479
+    },
+    {
+      "conf" : 1,
+      "text" : "Fractional Excretion of Sodium (FENa = [UNa x PCr] \/ [PNa x UCr] x",
+      "x" : 0.7222222286694098,
+      "w" : 0.42386828728441917,
+      "h" : 0.010277777777777719,
+      "y" : 0.4062500001695735
+    },
+    {
+      "conf" : 1,
+      "text" : "100)?",
+      "x" : 0.5298353902949247,
+      "w" : 0.03909464902098081,
+      "h" : 0.00872092988755968,
+      "y" : 0.3924418604166665
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Measuring glomerular hydraulic conductivity directly",
+      "x" : 0.6810699629115226,
+      "w" : 0.32510287206877697,
+      "h" : 0.011711886194017196,
+      "y" : 0.37641149842952565
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Differentiating Prerenal Azotemia (FENa < 1%) from Acute Tubular",
+      "x" : 0.7191357957133062,
+      "w" : 0.4053497794289259,
+      "h" : 0.010174418555365605,
+      "y" : 0.36555232550872097
+    },
+    {
+      "conf" : 1,
+      "text" : "Necrosis (FENa > 2%)",
+      "x" : 0.5843621421810699,
+      "w" : 0.13580246691433895,
+      "h" : 0.010174418555365605,
+      "y" : 0.3539244186773256
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Diagnosing proximal renal tubular acidosis exclusively",
+      "x" : 0.684156384190672,
+      "w" : 0.33950616128789557,
+      "h" : 0.011744186083475716,
+      "y" : 0.34162790720803315
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Distinguishing Type 1 from Type 2 diabetes mellitus",
+      "x" : 0.679012349691358,
+      "w" : 0.3209876534324022,
+      "h" : 0.011705426110161676,
+      "y" : 0.3299806205111049
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Quantifying medullary urea recycling rate",
+      "x" : 0.6481481526063099,
+      "w" : 0.26748969120049626,
+      "h" : 0.011666666666666714,
+      "y" : 0.31833333330701885
+    },
+    {
+      "conf" : 1,
+      "text" : "Q13. [Faculty Exam] When FENa is unreliable due to concurrent diuretic",
+      "x" : 0.737654325493827,
+      "w" : 0.4506172803962757,
+      "h" : 0.010174418555365716,
+      "y" : 0.29723837216569765
+    },
+    {
+      "conf" : 1,
+      "text" : "use, which alternative fractional excretion index is used to diagnose",
+      "x" : 0.7263374557613167,
+      "w" : 0.4320987725407822,
+      "h" : 0.010174418555365605,
+      "y" : 0.2841569767684109
+    },
+    {
+      "conf" : 1,
+      "text" : "prerenal azotemia?",
+      "x" : 0.5740740762002743,
+      "w" : 0.12757201764568593,
+      "h" : 0.010174418555365716,
+      "y" : 0.27107558151647276
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Fractional Excretion of Calcium (FECa > 10%)",
+      "x" : 0.658436210442387,
+      "w" : 0.28395061372960884,
+      "h" : 0.010277777777777719,
+      "y" : 0.25513888885902586
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Fractional Excretion of Glucose (FEGluc = 100%)",
+      "x" : 0.667695477031893,
+      "w" : 0.3024691215851022,
+      "h" : 0.01027777777777783,
+      "y" : 0.24347222201797925
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Fractional Excretion of Urea Nitrogen (FEUrea < 35% indicates prerenal",
+      "x" : 0.7304526676954736,
+      "w" : 0.4320987725407823,
+      "h" : 0.010277777777777719,
+      "y" : 0.23180555547055975
+    },
+    {
+      "conf" : 1,
+      "text" : "state)",
+      "x" : 0.5360082311042524,
+      "w" : 0.03909464902098081,
+      "h" : 0.00872092988755968,
+      "y" : 0.21947674423449615
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Fractional Excretion of Magnesium (FEMg > 50%)",
+      "x" : 0.6707818891460906,
+      "w" : 0.30864197353147105,
+      "h" : 0.010174418555365716,
+      "y" : 0.20857558134084303
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Fractional Excretion of Albumin",
+      "x" : 0.6193415663580246,
+      "w" : 0.20576131568764744,
+      "h" : 0.00872092988755968,
+      "y" : 0.19767441864098823
+    },
+    {
+      "conf" : 1,
+      "text" : "Q14. [Core Exam] What is the effect of Atrial Natriuretic Peptide (ANP)",
+      "x" : 0.734567900617284,
+      "w" : 0.4444444284499066,
+      "h" : 0.011686046388414195,
+      "y" : 0.17584302305616434
+    },
+    {
+      "conf" : 1,
+      "text" : "on renal sodium handling and systemic blood pressure?",
+      "x" : 0.6893004055555557,
+      "w" : 0.3580246691433888,
+      "h" : 0.010277777777777719,
+      "y" : 0.16208333313744533
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Constricts afferent arterioles and stimulates aldosterone secretion",
+      "x" : 0.7211934088134433,
+      "w" : 0.40946499806530057,
+      "h" : 0.010174418555365716,
+      "y" : 0.14607558137112392
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Directely stimulates sodium reabsorption via proximal tubule SGLT2",
+      "x" : 0.7253086403635118,
+      "w" : 0.4176954353380503,
+      "h" : 0.01175064563751227,
+      "y" : 0.13523578853543894
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Blocks all potassium excretion in cortical collecting ducts",
+      "x" : 0.6954732569958846,
+      "w" : 0.3580246691433887,
+      "h" : 0.011711885664198118,
+      "y" : 0.12358850142668892
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Dilates afferent arterioles, constricts efferent arterioles (raising GFR), and",
+      "x" : 0.7397119313786009,
+      "w" : 0.4465020617599007,
+      "h" : 0.011673126220703045,
+      "y" : 0.11194121487354602
+    },
+    {
+      "conf" : 1,
+      "text" : "inhibits Nat uptake in medullary collecting ducts",
+      "x" : 0.6594650254115224,
+      "w" : 0.29012344168417104,
+      "h" : 0.010277777777777719,
+      "y" : 0.09958333328279395
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Induces severe hypocalciuria by up-regulating apical TRPV5",
+      "x" : 0.6995884727366257,
+      "w" : 0.37037037303612663,
+      "h" : 0.01027777777777783,
+      "y" : 0.08791666673537468
+    },
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Board Exam Past Papers",
+      "x" : 0.32098766008230445,
+      "w" : 0.5761316647319674,
+      "h" : 0.017519379191928364,
+      "y" : 0.014573643574683492
+    },
+    {
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321,
+      "w" : 0.19135801447262546,
+      "h" : 0.007344961166381836,
+      "y" : 0.01966085278616625
+    }
+  ],
+  "page" : 63
+}

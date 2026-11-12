@@ -1,0 +1,1045 @@
+{
+  "page" : 153,
+  "items" : [
+    {
+      "h" : 0.01031007766723624,
+      "conf" : 1,
+      "x" : 0.28853384226190454,
+      "text" : "Twisted Medicine Renal System Module • Lecture 39 MCQ Masterclass",
+      "y" : 0.96432170540046,
+      "w" : 0.4605263134800729
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "x" : 0.9022556400845865,
+      "text" : "Page 3 of 4",
+      "y" : 0.9643217054186286,
+      "w" : 0.07894736755502729
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.40789472512531366,
+      "text" : "Twisted Medicine Medical Series • UTI, Pyelonephritis, Urosepsis, Pregnancy & Clinical Management • Standard Practice Bank",
+      "y" : 0.9418604650678295,
+      "w" : 0.7030074930636683
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "x" : 0.2546992430137846,
+      "text" : "Q29. [2025 Exam] What constitutes the immediate",
+      "y" : 0.9156976742248062,
+      "w" : 0.3740601200238138
+    },
+    {
+      "h" : 0.01176356527540412,
+      "conf" : 1,
+      "x" : 0.2734962403430451,
+      "text" : "'Sepsis Six' resuscitation protocol to be executed within",
+      "y" : 0.9025484493684832,
+      "w" : 0.4154135226174964
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.21052632055137827,
+      "text" : "1 hour of suspected severe Urosepsis?",
+      "y" : 0.8902616279796511,
+      "w" : 0.2857142763117249
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.22650376475563885,
+      "text" : "[A] Complete fluid restriction, oral sedatives, CT scan",
+      "y" : 0.8756944443692624,
+      "w" : 0.3214285526234498
+    },
+    {
+      "h" : 0.011686045858595118,
+      "conf" : 1,
+      "x" : 0.2631578880952383,
+      "text" : "[B] High-flow 02, blood cultures, IV broad-spectrum antibiotics, IV",
+      "y" : 0.8633430231272754,
+      "w" : 0.3984962095895489
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.1917293191729325,
+      "text" : "fluids 30 mL\/kg, lactate, and urine output",
+      "y" : 0.8524709304021318,
+      "w" : 0.2518796941344469
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "x" : 0.23120300194235607,
+      "text" : "[C] Immediate bilateral nephrectomy and hemodialysis",
+      "y" : 0.8393217053035609,
+      "w" : 0.3345864554431951
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.21992481588345858,
+      "text" : "[D] Oral loop diuretics, IV calcium, 24h observation",
+      "y" : 0.8277616279614826,
+      "w" : 0.30827067174301315
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2199248151127819,
+      "text" : "[E] Subcutaneous insulin bolus and ultrasound only",
+      "y" : 0.8161337209738373,
+      "w" : 0.30827067174301315
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "x" : 0.2753759450422931,
+      "text" : "Q30. [2024 Exam] In patients with severe Urosepsis and",
+      "y" : 0.7906976745276163,
+      "w" : 0.4154135226174964
+    },
+    {
+      "h" : 0.011763566335042386,
+      "conf" : 1,
+      "x" : 0.22274436400375933,
+      "text" : "high risk of infection with ESBL-producing",
+      "y" : 0.7775484495719717,
+      "w" : 0.31015036587746003
+    },
+    {
+      "h" : 0.01162790722317164,
+      "conf" : 1,
+      "x" : 0.2171052656484962,
+      "text" : "Enterobacteriaceae, what is FIRST-LINE?",
+      "y" : 0.7659883721656977,
+      "w" : 0.29887217913147013
+    },
+    {
+      "h" : 0.0087403098742167,
+      "conf" : 1,
+      "x" : 0.17857143233082695,
+      "text" : "[A] Oral Ciprofloxacin or Levofloxacin",
+      "y" : 0.7514631784138711,
+      "w" : 0.22556391043426494
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "x" : 0.177631581743421,
+      "text" : "[B] Intravenous Ampicillin-Sulbactam",
+      "y" : 0.7390374677917283,
+      "w" : 0.22368419436050951
+    },
+    {
+      "h" : 0.0087273899714152,
+      "conf" : 1,
+      "x" : 0.14567669439223052,
+      "text" : "[C] Oral Cefuroxime axetil",
+      "y" : 0.7267474161853387,
+      "w" : 0.15977442924450153
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.18984962819548862,
+      "text" : "[D] Intramuscular Penicillin G benzathine",
+      "y" : 0.7151162791182171,
+      "w" : 0.2481202839262446
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.270676698558897,
+      "text" : "[E] Intravenous Carbapenems (Meropenem, Imipenem-Cilastatin, or",
+      "y" : 0.7027616279796511,
+      "w" : 0.40977441827484723
+    },
+    {
+      "h" : 0.010366777843899166,
+      "conf" : 0.5,
+      "x" : 0.10338345845788374,
+      "text" : "Ertapenem)",
+      "y" : 0.6911337207611663,
+      "w" : 0.07147408765824385
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.25751880173872166,
+      "text" : "Q31. [2023 Exam] What microbiological mechanism",
+      "y" : 0.666424418659157,
+      "w" : 0.379699224366463
+    },
+    {
+      "h" : 0.011744185553656639,
+      "conf" : 1,
+      "x" : 0.2687969975563909,
+      "text" : "defines an Extended-Spectrum Beta-Lactamase (ESBL)",
+      "y" : 0.6541279072095965,
+      "w" : 0.40601503000595346
+    },
+    {
+      "h" : 0.01162790722317153,
+      "conf" : 1,
+      "x" : 0.21992481507518793,
+      "text" : "produced by resistant E. coli \/ Klebsiella?",
+      "y" : 0.6409883721802325,
+      "w" : 0.3045112615348109
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.23402256059680443,
+      "text" : "[A] Hydrolysis of all beta-lactams including carbapenem",
+      "y" : 0.6271802326126454,
+      "w" : 0.336466149577642
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "x" : 0.22086465855263165,
+      "text" : "[B] Mutation in DNA gyrase subunits GyrA and ParC",
+      "y" : 0.6140374676936179,
+      "w" : 0.31015036587746003
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.21992481588345858,
+      "text" : "[C] Overexpression of aminoglycoside transferases",
+      "y" : 0.6024709302870639,
+      "w" : 0.30827067174301315
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.19266917546992474,
+      "text" : "[D] Methylation of 30S ribosomal subunits",
+      "y" : 0.5908430233284883,
+      "w" : 0.25375938826889377
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.27161654546992475,
+      "text" : "[E] Enzymes hydrolyzing penicillins, cephalosporins, and aztreonam,",
+      "y" : 0.5777616279505813,
+      "w" : 0.41165413434860265
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.18139097584586472,
+      "text" : "but reliably inhibited by carbapenems",
+      "y" : 0.5661337207606589,
+      "w" : 0.22744360456871182
+    },
+    {
+      "h" : 0.011718346277872715,
+      "conf" : 1,
+      "x" : 0.2772556432894736,
+      "text" : "Q32. [2022 Exam] What is the role of renal imaging in an",
+      "y" : 0.5421963824052575,
+      "w" : 0.4191729108863902
+    },
+    {
+      "h" : 0.011744185553656639,
+      "conf" : 1,
+      "x" : 0.22744360498120314,
+      "text" : "otherwise healthy young woman with acute",
+      "y" : 0.5291279070642476,
+      "w" : 0.32330826869720525
+    },
+    {
+      "h" : 0.011627907223171752,
+      "conf" : 1,
+      "x" : 0.26033834201127826,
+      "text" : "uncomplicated pyelonephritis who improves in 48h?",
+      "y" : 0.5159883720348838,
+      "w" : 0.38533832870911217
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.21898495934210532,
+      "text" : "[A] Routine imaging is MANDATORY in all within 2h",
+      "y" : 0.5021802324854652,
+      "w" : 0.30639097760856626
+    },
+    {
+      "h" : 0.01175064563751227,
+      "conf" : 1,
+      "x" : 0.20864662124060135,
+      "text" : "[B] Imaging indicated for histological GN typing",
+      "y" : 0.48976421146456106,
+      "w" : 0.28571427631172497
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.22368420520050147,
+      "text" : "[C] Nuclear scan required to measure urea excretion",
+      "y" : 0.47892441853197676,
+      "w" : 0.319548858489003
+    },
+    {
+      "h" : 0.011744185553656639,
+      "conf" : 1,
+      "x" : 0.210526311215539,
+      "text" : "[D] Plain radiography to count podocyte density",
+      "y" : 0.46662790733072046,
+      "w" : 0.2894736645806187
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2593985010808269,
+      "text" : "[E] Routine imaging is NOT indicated; reserved for patients with",
+      "y" : 0.4542151163699128,
+      "w" : 0.38721804478286753
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.20864662011278193,
+      "text" : "persistent fever >72h or suspected obstruction",
+      "y" : 0.44263888896803744,
+      "w" : 0.28571427631172497
+    },
+    {
+      "h" : 0.013107234636942522,
+      "conf" : 1,
+      "x" : 0.26033834188596505,
+      "text" : "Q33. [2021 Exam] A 21-year-old male presents with",
+      "y" : 0.41789082709756886,
+      "w" : 0.3853383287091121
+    },
+    {
+      "h" : 0.011679586304558565,
+      "conf" : 1,
+      "x" : 0.2744360953947367,
+      "text" : "burning dysuria and clear urethral discharge. Urinalysis",
+      "y" : 0.40554909595714056,
+      "w" : 0.41353380654374094
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "x" : 0.2744360954417292,
+      "text" : "shows 30 WBCS\/HPF, but cultures are sterile. Pathogen:",
+      "y" : 0.39098837220203486,
+      "w" : 0.4172932386912518
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.17011277934680463,
+      "text" : "[A] Uropathogenic Escherichia coli",
+      "y" : 0.37790697667151163,
+      "w" : 0.20864661934562592
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.1278195504229323,
+      "text" : "[B] Proteus mirabilis",
+      "y" : 0.36627906984011616,
+      "w" : 0.12406014196312232
+    },
+    {
+      "h" : 0.00873385005527072,
+      "conf" : 1,
+      "x" : 0.14285714478383454,
+      "text" : "[C] Enterococcus faecalis",
+      "y" : 0.35464470277951654,
+      "w" : 0.15413533587150657
+    },
+    {
+      "h" : 0.0119989193810357,
+      "conf" : 1,
+      "x" : 0.267857051849875,
+      "text" : "[D] Chlamydia trachomatis (obligate intracellular organism causing",
+      "y" : 0.34155430482937343,
+      "w" : 0.40425519031384793
+    },
+    {
+      "h" : 0.011705426639980754,
+      "conf" : 1,
+      "x" : 0.1907894757675438,
+      "text" : "non-gonococcal urethritis \/ sterile pyuria)",
+      "y" : 0.32998062024619534,
+      "w" : 0.25
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.15413534129072676,
+      "text" : "[E] Pseudomonas aeruginosa",
+      "y" : 0.31763888898620607,
+      "w" : 0.1766917203331405
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.26503760056390946,
+      "text" : "Q34. [2020 Exam] Phenazopyridine is used as an OTC",
+      "y" : 0.29361111134354534,
+      "w" : 0.3947368213206551
+    },
+    {
+      "h" : 0.011679586834377753,
+      "conf" : 1,
+      "x" : 0.2772556432894736,
+      "text" : "urinary analgesic for acute severe dysuria. What patient",
+      "y" : 0.2805490957067658,
+      "w" : 0.4191729108863902
+    },
+    {
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "x" : 0.17293233013784465,
+      "text" : "education point is essential?",
+      "y" : 0.26748062024463204,
+      "w" : 0.21428570174896658
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.27443609718045087,
+      "text" : "[A] Harmless bright orange\/red urine discoloration; limit to <=2 days",
+      "y" : 0.2536337210029069,
+      "w" : 0.4172932386912518
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.2218045073778196,
+      "text" : "to avoid masking worsening or methemoglobinemia",
+      "y" : 0.24207041341299018,
+      "w" : 0.31203006001190686
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.20676692199248103,
+      "text" : "[B] Should be taken continuously for 6 months",
+      "y" : 0.23041666649291354,
+      "w" : 0.28195488804283114
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.21898496231203013,
+      "text" : "[C] Cures the bacterial infection without antibiotics",
+      "y" : 0.21875000016957363,
+      "w" : 0.31015036587746003
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.21240601992481187,
+      "text" : "[D] Permanently prevents future bladder tumors",
+      "y" : 0.20569444452944025,
+      "w" : 0.293233074788821
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.203947363753133,
+      "text" : "[E] Turns skin and saliva bright metallic green",
+      "y" : 0.19333333316167,
+      "w" : 0.2800751719690757
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2697368461466164,
+      "text" : "Q35. [2024 Exam] What quantitative threshold defines",
+      "y" : 0.1693055556159086,
+      "w" : 0.404135313932198
+    },
+    {
+      "h" : 0.011679586304558676,
+      "conf" : 1,
+      "x" : 0.2781954825187972,
+      "text" : "clinically significant bacteriuria in a symptomatic woman",
+      "y" : 0.15695090430933245,
+      "w" : 0.4210526269601456
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.16635338592575183,
+      "text" : "with acute simple cystitis?",
+      "y" : 0.14388888882602813,
+      "w" : 0.19736841066032754
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.21146616905545107,
+      "text" : "[A] >= 10^7 CFU\/mL in three consecutive voids",
+      "y" : 0.13013888896803744,
+      "w" : 0.2913533806543741
+    },
+    {
+      "h" : 0.011692505942450637,
+      "conf" : 1,
+      "x" : 0.22556390733082715,
+      "text" : "[B] Exactly 10^6 CFU\/mL of polymicrobial organisms",
+      "y" : 0.11776485822279192,
+      "w" : 0.31954885848900294
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.18796992786654124,
+      "text" : "[C] Any bacteria on external skin culture",
+      "y" : 0.10541666647474507,
+      "w" : 0.2443608956573508
+    },
+    {
+      "h" : 0.008888889153798485,
+      "conf" : 1,
+      "x" : 0.19736842543859637,
+      "text" : "[D] Zero colonies after 7 days of incubation",
+      "y" : 0.09305555561940687,
+      "w" : 0.2631578808804368
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2424811994736843,
+      "text" : "[E] >= 10^3 CFU\/mL of a single uropathogen (e.g., E. coli)",
+      "y" : 0.0806944443840914,
+      "w" : 0.353383440666281
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.7114661707001878,
+      "text" : "Q36. [2023 Exam] Which clinical feature in a patient with",
+      "y" : 0.915697674491279,
+      "w" : 0.42293229915528396
+    },
+    {
+      "h" : 0.011763566335042386,
+      "conf" : 1,
+      "x" : 0.6832706803571428,
+      "text" : "acute pyelonephritis requires immediate hospital",
+      "y" : 0.9025484496010414,
+      "w" : 0.3665413434860263
+    },
+    {
+      "h" : 0.011737725469801119,
+      "conf" : 1,
+      "x" : 0.6315789514411025,
+      "text" : "admission for intravenous therapy?",
+      "y" : 0.889479973873998,
+      "w" : 0.2631578808804368
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6710526373433582,
+      "text" : "[A] Inability to tolerate oral fluids\/meds, severe vomiting,",
+      "y" : 0.8756944442723631,
+      "w" : 0.34586464218918495
+    },
+    {
+      "h" : 0.011686045858595118,
+      "conf" : 1,
+      "x" : 0.6663533866854636,
+      "text" : "hemodynamic instability\/sepsis, pregnancy, or diabetes",
+      "y" : 0.8633430229819266,
+      "w" : 0.3364661495776421
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6024436111090226,
+      "text" : "[B] Mild dysuria lasting for 2 hours",
+      "y" : 0.8524709302761628,
+      "w" : 0.2086466193456259
+    },
+    {
+      "h" : 0.010310077137417273,
+      "conf" : 1,
+      "x" : 0.6682330805216166,
+      "text" : "[C] Microscopic hematuria with 5 RBCs\/HPF on sediment",
+      "y" : 0.8393217054655149,
+      "w" : 0.3402255597858442
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6381578975375939,
+      "text" : "[D] Normal blood pressure with mild CVA ache",
+      "y" : 0.8277616279796511,
+      "w" : 0.28007517196907566
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6240601535244361,
+      "text" : "[E] Patient preference to sleep in hospital",
+      "y" : 0.8161337210210755,
+      "w" : 0.2518796941344469
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.7030075131578949,
+      "text" : "Q37. [2022 Exam] What is the recommended antibiotic",
+      "y" : 0.7906976742248062,
+      "w" : 0.40601503000595346
+    },
+    {
+      "h" : 0.01176356527540412,
+      "conf" : 1,
+      "x" : 0.7095864676456767,
+      "text" : "duration for uncomplicated Acute Pyelonephritis treated",
+      "y" : 0.7775484493684832,
+      "w" : 0.4191729108863901
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.6644736883223682,
+      "text" : "with oral Fluoroquinolones vs Beta-lactams?",
+      "y" : 0.7659883721656977,
+      "w" : 0.32894735110054585
+    },
+    {
+      "h" : 0.0087403098742167,
+      "conf" : 1,
+      "x" : 0.6719924768562031,
+      "text" : "[A] Fluoroquinolones for 28 days; Beta-lactams for 2 days",
+      "y" : 0.7514631782927471,
+      "w" : 0.34774435826294037
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "x" : 0.6973684276942353,
+      "text" : "[B] Fluoroquinolones for 7 days; Beta-lactams (e.g., Cefpodoxime,",
+      "y" : 0.7390374677129977,
+      "w" : 0.39849620958954884
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.671052635855263,
+      "text" : "Amox-Clav) for 10 to 14 days due to higher relapse rates",
+      "y" : 0.7274709302870639,
+      "w" : 0.3421052539202911
+    },
+    {
+      "h" : 0.010310077137417384,
+      "conf" : 1,
+      "x" : 0.6522556441729321,
+      "text" : "[C] Both agents require exactly 6 weeks of therapy",
+      "y" : 0.7143217054231215,
+      "w" : 0.30827067174301315
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.6419172961090225,
+      "text" : "[D] Both agents given as a single oral dose only",
+      "y" : 0.7034883721511628,
+      "w" : 0.28759397044617185
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6616541386090224,
+      "text" : "[E] Fluoroquinolones require lifelong daily suppression",
+      "y" : 0.6911337210029069,
+      "w" : 0.327067656966099
+    },
+    {
+      "h" : 0.011718345748053749,
+      "conf" : 1,
+      "x" : 0.6870300811090223,
+      "text" : "Q38. [2021 Exam] What is the underlying cause of",
+      "y" : 0.6671963827767562,
+      "w" : 0.37406012002381384
+    },
+    {
+      "h" : 0.01176356527540423,
+      "conf" : 1,
+      "x" : 0.6926691792919797,
+      "text" : "'Honeymoon Cystitis' frequently occurring in young,",
+      "y" : 0.6525484493200336,
+      "w" : 0.385338328709112
+    },
+    {
+      "h" : 0.01162790722317153,
+      "conf" : 1,
+      "x" : 0.6118421074999999,
+      "text" : "sexually active adult females?",
+      "y" : 0.6409883721802325,
+      "w" : 0.223684216299818
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6494360940084585,
+      "text" : "[A] Autoimmune destruction of detrusor receptors",
+      "y" : 0.6271802326126454,
+      "w" : 0.30263156740036395
+    },
+    {
+      "h" : 0.011750645637512047,
+      "conf" : 1,
+      "x" : 0.6193609037280701,
+      "text" : "[B] Excessive secretion of prostatic fluid",
+      "y" : 0.6147642114645611,
+      "w" : 0.24248120152290398
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6353383492951128,
+      "text" : "[C] Mechanical obliteration of the UV junction",
+      "y" : 0.6024709302870639,
+      "w" : 0.2744360895657352
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6842105325187968,
+      "text" : "[D] Mechanical massage of periurethral\/rectal flora (E. coli, S.",
+      "y" : 0.5908430232800388,
+      "w" : 0.3721804478286754
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6203007549342104,
+      "text" : "saprophyticus) into short female urethra",
+      "y" : 0.5792151163335755,
+      "w" : 0.24436089565735092
+    },
+    {
+      "h" : 0.0117312653859456,
+      "conf" : 1,
+      "x" : 0.648496240538847,
+      "text" : "[E] Fungal colonization of distal collecting tubules",
+      "y" : 0.5669121449212836,
+      "w" : 0.30075187326591707
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6691729365601503,
+      "text" : "Q39. [2025 Exam] Which antibiotic option is a",
+      "y" : 0.542916666474745,
+      "w" : 0.33834586565139735
+    },
+    {
+      "h" : 0.011744185553656639,
+      "conf" : 1,
+      "x" : 0.702067662374687,
+      "text" : "SINGLE-DOSE oral therapy approved for uncomplicated",
+      "y" : 0.5291279070884725,
+      "w" : 0.40789470220109186
+    },
+    {
+      "h" : 0.01162790722317153,
+      "conf" : 1,
+      "x" : 0.6663533867857143,
+      "text" : "bacterial cystitis for non-compliant patients?",
+      "y" : 0.5159883721802325,
+      "w" : 0.3327067613087483
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6127819587092731,
+      "text" : "[A] Nitrofurantoin 100 mg single dose",
+      "y" : 0.502180232630814,
+      "w" : 0.2293232987031587
+    },
+    {
+      "h" : 0.01175064563751227,
+      "conf" : 1,
+      "x" : 0.6090225576441102,
+      "text" : "[B] Ciprofloxacin 750 mg single dose",
+      "y" : 0.48976421146456106,
+      "w" : 0.22180450022606268
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.70112782462406,
+      "text" : "[C] Fosfomycin trometamol 3 g dissolved in water taken as a single",
+      "y" : 0.4781976744912791,
+      "w" : 0.40601503000595346
+    },
+    {
+      "h" : 0.008892571661207382,
+      "conf" : 1,
+      "x" : 0.5281954894263162,
+      "text" : "oral dose",
+      "y" : 0.4665697677815902,
+      "w" : 0.056435059164172074
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.5864661671804512,
+      "text" : "[D] Ampicillin 2 g single dose",
+      "y" : 0.45421511635174416,
+      "w" : 0.1766917203331405
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6062030096804512,
+      "text" : "[E] Doxycycline 200 mg single dose",
+      "y" : 0.442638888986206,
+      "w" : 0.21616541782272203
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.6748120266917295,
+      "text" : "Q40. [2020 Exam] In patients with severe renal",
+      "y" : 0.41861111091062564,
+      "w" : 0.34962405239738725
+    },
+    {
+      "h" : 0.011679586304558565,
+      "conf" : 1,
+      "x" : 0.70112782462406,
+      "text" : "impairment (eGFR < 30 mL\/min), why is Nitrofurantoin",
+      "y" : 0.40554909595714056,
+      "w" : 0.40601503000595346
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.601503755952381,
+      "text" : "strictly CONTRAINDICATED?",
+      "y" : 0.3917151162063954,
+      "w" : 0.20676690327187058
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.6531954927005011,
+      "text" : "[A] It is excreted by lungs causing alveolar collapse",
+      "y" : 0.3779069769379844,
+      "w" : 0.31015036587746003
+    },
+    {
+      "h" : 0.011757105191548711,
+      "conf" : 1,
+      "x" : 0.6954887251879698,
+      "text" : "[B] Fails to reach bactericidal urine levels; systemic accumulation",
+      "y" : 0.36634366947524794,
+      "w" : 0.39473682132065513
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.675751883991228,
+      "text" : "causes toxic peripheral neuropathy and pulmonary fibrosis",
+      "y" : 0.35392441843507755,
+      "w" : 0.3552631567400364
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "x" : 0.658834589680451,
+      "text" : "[C] Produces severe hyperkalemia and cardiac arrest",
+      "y" : 0.3423546511307334,
+      "w" : 0.3214285745627584
+    },
+    {
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "x" : 0.6268796964598997,
+      "text" : "[D] Triggers acute angle-closure glaucoma",
+      "y" : 0.32998062024463204,
+      "w" : 0.257518798477096
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.640977440037594,
+      "text" : "[E] Neutralizes circulating antidiuretic hormone",
+      "y" : 0.31763888885902586,
+      "w" : 0.2857142763117249
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.6898496303884709,
+      "text" : "Q41. [2024 Exam] A 24yo female has 2d of dysuria,",
+      "y" : 0.2936111112466463,
+      "w" : 0.379699224366463
+    },
+    {
+      "h" : 0.011679586304558565,
+      "conf" : 1,
+      "x" : 0.6870300688909776,
+      "text" : "urgency, and frequency without fever or CVA pain.",
+      "y" : 0.28054909583601645,
+      "w" : 0.3778195521713246
+    },
+    {
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "x" : 0.67199248693609,
+      "text" : "Dipstick shows LE(+) and nitrite(+). First-line:",
+      "y" : 0.2674806205353296,
+      "w" : 0.343984948054738
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7114661707471803,
+      "text" : "[A] Simple Cystitis: oral Nitrofurantoin 100 mg BID x 5d (or Fosfomycin",
+      "y" : 0.25363372098473846,
+      "w" : 0.4266917313027948
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.5451127803884712,
+      "text" : "3g single dose)",
+      "y" : 0.24207041344327118,
+      "w" : 0.09398495902439225
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6466165443233083,
+      "text" : "[B] Acute Pyelonephritis: admit for IV Ceftriaxone",
+      "y" : 0.23041666649291354,
+      "w" : 0.29699248499702324
+    },
+    {
+      "h" : 0.008888889153798374,
+      "conf" : 1,
+      "x" : 0.6390977478853382,
+      "text" : "[C] Acute Interstitial Nephritis: oral prednisone",
+      "y" : 0.21805555564363177,
+      "w" : 0.28195488804283114
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6390977478853382,
+      "text" : "[D] Asymptomatic Bacteriuria: hydration alone",
+      "y" : 0.20569444454760893,
+      "w" : 0.28195488804283114
+    },
+    {
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "x" : 0.6701127806704261,
+      "text" : "[E] Urolithiasis: emergency CT and shockwave lithotripsy",
+      "y" : 0.19333333354614018,
+      "w" : 0.34398494805473806
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.7105263122807018,
+      "text" : "Q42. [2023 Exam] A 62yo diabetic female has fever (39.2",
+      "y" : 0.16930555548267218,
+      "w" : 0.4210526269601456
+    },
+    {
+      "h" : 0.011679586304558676,
+      "conf" : 1,
+      "x" : 0.6907894745927319,
+      "text" : "C), right flank pain, BP 88\/54, and CT showing right",
+      "y" : 0.15554909569066755,
+      "w" : 0.38157894044021845
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.6729323342857143,
+      "text" : "hydronephrosis with an 8-mm UPJ stone. Next:",
+      "y" : 0.1438888888114933,
+      "w" : 0.3458646641284935
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6466165443233083,
+      "text" : "[A] Discharge on ciprofloxacin and elective ESWL",
+      "y" : 0.13013888898620607,
+      "w" : 0.29699248499702324
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.6334586488721804,
+      "text" : "[B] Oral tamsulosin and outpatient hydration",
+      "y" : 0.11707041334031576,
+      "w" : 0.2706766793575328
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.648496245614035,
+      "text" : "[C] Emergency open right nephrectomy in 30 min",
+      "y" : 0.10541666649291354,
+      "w" : 0.3007518732659171
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "x" : 0.7058270624765038,
+      "text" : "[D] IV fluids + broad-spectrum antibiotics (Meropenem) and URGENT",
+      "y" : 0.09305555563073753,
+      "w" : 0.41541352261749637
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "x" : 0.5977443608082706,
+      "text" : "decompression (DJ stent or PCN)",
+      "y" : 0.08138888875754646,
+      "w" : 0.19548871652588062
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6296992514097743,
+      "text" : "[E] Bed rest and high-dose IV loop diuretics",
+      "y" : 0.06902777756121331,
+      "w" : 0.26315788088043673
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.5000000088345863,
+      "text" : "Twisted Medicine • Clinical Nephrology & Infectious Disease Master Class • Strictly Grounded in Faculty Past Papers Confidential Student Revision Bank",
+      "y" : 0.025416666862554893,
+      "w" : 0.8834586565139738
+    },
+    {
+      "h" : 0.018895348442925286,
+      "conf" : 1,
+      "x" : 0.518796992387218,
+      "text" : "151",
+      "y" : 0.01235465132025182,
+      "w" : 0.041353383396787624
+    }
+  ]
+}

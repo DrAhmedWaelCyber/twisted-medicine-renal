@@ -1,0 +1,949 @@
+{
+  "page" : 55,
+  "items" : [
+    {
+      "conf" : 1,
+      "x" : 0.11213992033607673,
+      "w" : 0.15843620540211037,
+      "h" : 0.011627906163533597,
+      "text" : "Twisted Medicine",
+      "y" : 0.9781976745155039
+    },
+    {
+      "conf" : 1,
+      "x" : 0.3683127629629628,
+      "w" : 0.3456789892424577,
+      "h" : 0.010277777777777719,
+      "text" : "• Renal System Module • Lecture 14 MCQ Masterclass",
+      "y" : 0.975972222405789
+    },
+    {
+      "conf" : 1,
+      "x" : 0.35185184387860097,
+      "w" : 0.6378600882284295,
+      "h" : 0.01031007766723635,
+      "text" : "Twisted Medicine Medical Series • Renal Handling of Na+, K+, Ca2+, Pi, Mg2+, Urea & Glucose • Standard Practice Bank",
+      "y" : 0.9643217052732798
+    },
+    {
+      "conf" : 1,
+      "x" : 0.9341563774341375,
+      "w" : 0.07005990826108921,
+      "h" : 0.010527050230238255,
+      "text" : "Page 1 of 4",
+      "y" : 0.976017441793674
+    },
+    {
+      "conf" : 1,
+      "x" : 0.5010287985339508,
+      "w" : 0.6975308304312844,
+      "h" : 0.011737725999620197,
+      "text" : "14. RENAL HANDLING OF DIFFERENT PLASMA CONSTITUENTS - PHYSIOLOGY LECTURE",
+      "y" : 0.9230200260517643
+    },
+    {
+      "conf" : 1,
+      "x" : 0.5010288138117283,
+      "w" : 0.5781892980419615,
+      "h" : 0.01027777777777783,
+      "text" : "Twisted Medicine Physiology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "y" : 0.9062500000545058
+    },
+    {
+      "conf" : 1,
+      "x" : 0.4999999883230456,
+      "w" : 0.9341563098835495,
+      "h" : 0.011692505942450637,
+      "text" : "Q01. [2025 Exam] In a healthy adult with normal GFR, what percentage Q08. [2022 Exam] Why does Chloride (CI-) concentration rise in the late",
+      "y" : 0.8822351418983322
+    },
+    {
+      "conf" : 1,
+      "x" : 0.4845678922016463,
+      "w" : 0.9032921941025452,
+      "h" : 0.010277777777777719,
+      "text" : "of the total filtered load of Sodium (Na+) is reabsorbed by the Proximal proximal tubule ([TF\/P]_CI > 1.0) compared to early proximal fluid?",
+      "y" : 0.8684722224206181
+    },
+    {
+      "conf" : 1,
+      "x" : 0.1183127543552813,
+      "w" : 0.17078188530304148,
+      "h" : 0.010277777777777719,
+      "text" : "Convoluted Tubule (PCT)?",
+      "y" : 0.8554166669258334
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6800411566100824,
+      "w" : 0.34773662255245186,
+      "h" : 0.010174418555365605,
+      "text" : "[A] The early PCT actively secretes chloride into the lumen",
+      "y" : 0.8524709303234012
+    },
+    {
+      "conf" : 1,
+      "x" : 0.20884774255829888,
+      "w" : 0.3559670598252015,
+      "h" : 0.01031007766723624,
+      "text" : "[A] Less than 10% (the PCT is primarily a secretory segment)",
+      "y" : 0.83932170540046
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6944444491512345,
+      "w" : 0.37654320099068894,
+      "h" : 0.01031007766723624,
+      "text" : "[B] Chloride is completely impermeable along the entire nephron",
+      "y" : 0.8393217054186286
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2098765491769545,
+      "w" : 0.3580246691433888,
+      "h" : 0.01028423786163335,
+      "text" : "[B] Approximately 65% to 67% (two-thirds of the filtered load)",
+      "y" : 0.8262532299544243
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7242798397530864,
+      "w" : 0.436213991177157,
+      "h" : 0.01028423786163335,
+      "text" : "[C] Early PCT preferential reabsorption of HC03-, glucose, and amino acids",
+      "y" : 0.8262532299544243
+    },
+    {
+      "conf" : 1,
+      "x" : 0.17901234197530877,
+      "w" : 0.29629629363054,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Exactly 25% (equal to the thick ascending limb)",
+      "y" : 0.8131944442420822
+    },
+    {
+      "conf" : 1,
+      "x" : 0.5771604914609054,
+      "w" : 0.14197530686480442,
+      "h" : 0.00872092988755968,
+      "text" : "leaves Cl- concentrated",
+      "y" : 0.8154069766957365
+    },
+    {
+      "conf" : 1,
+      "x" : 0.19753086003086426,
+      "w" : 0.33333333333333326,
+      "h" : 0.01027777777777783,
+      "text" : "[D] 100% (urine is completely devoid of sodium in health)",
+      "y" : 0.800138888698848
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7129629670987654,
+      "w" : 0.41358021670167555,
+      "h" : 0.00872092988755968,
+      "text" : "[D] Glomerular capillaries filter chloride at five times the rate of sodium",
+      "y" : 0.8023255814534884
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23971193479938266,
+      "w" : 0.4176954833216637,
+      "h" : 0.010277777777777719,
+      "text" : "[E] 5% to 8% (sodium is reabsorbed only under aldosterone stimulation)",
+      "y" : 0.7870833330829394
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6851851896604937,
+      "w" : 0.3580246931351956,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Proximal tubule mitochondria synthesize chloride de novo",
+      "y" : 0.7884722223876204
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2520576175514402,
+      "w" : 0.43827157650353765,
+      "h" : 0.011750646167331236,
+      "text" : "Q02. [2024 Exam] Which nephron segment reabsorbs approximately",
+      "y" : 0.7602357881348705
+    },
+    {
+      "conf" : 1,
+      "x" : 0.22942386423182454,
+      "w" : 0.39300409952799475,
+      "h" : 0.010174418555365716,
+      "text" : "25% of the filtered sodium load via the electroneutral NKCC2",
+      "y" : 0.7478197676114342
+    },
+    {
+      "conf" : 1,
+      "x" : 0.08127572047325102,
+      "w" : 0.09670781789335817,
+      "h" : 0.010174418555365605,
+      "text" : "cotransporter?",
+      "y" : 0.7332848835513566
+    },
+    {
+      "conf" : 1,
+      "x" : 0.15123457191358008,
+      "w" : 0.2407407220804466,
+      "h" : 0.01029069741566968,
+      "text" : "[A] Thick Ascending Limb of Henle (TAL)",
+      "y" : 0.7173546511307334
+    },
+    {
+      "conf" : 1,
+      "x" : 0.13065843679698214,
+      "w" : 0.19958847573718183,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Thin descending limb of Henle",
+      "y" : 0.704215116109496
+    },
+    {
+      "conf" : 1,
+      "x" : 0.1378600849794238,
+      "w" : 0.21399175296039702,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Early proximal convoluted tubule",
+      "y" : 0.6911337210210755
+    },
+    {
+      "conf" : 1,
+      "x" : 0.15123456808127575,
+      "w" : 0.24074074607225335,
+      "h" : 0.010174418555365605,
+      "text" : "[DJ Cortical collecting duct principal cells",
+      "y" : 0.678052325454215
+    },
+    {
+      "conf" : 1,
+      "x" : 0.1388888925582989,
+      "w" : 0.22016460490676593,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Descending vasa recta capillaries",
+      "y" : 0.6649709303052325
+    },
+    {
+      "conf" : 1,
+      "x" : 0.709876546159122,
+      "w" : 0.4032921461189318,
+      "h" : 0.011750645637512158,
+      "text" : "Q09. [2023 Exam] What is the primary driving force for passive",
+      "y" : 0.7602357881478421
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7325102808641977,
+      "w" : 0.4485596470862815,
+      "h" : 0.011627906163533597,
+      "text" : "paracellular reabsorption of Chloride in the second half (S2\/S3) of the",
+      "y" : 0.7470930230620155
+    },
+    {
+      "conf" : 1,
+      "x" : 0.5658436194101508,
+      "w" : 0.11934155638112964,
+      "h" : 0.00872092988755968,
+      "text" : "Proximal Tubule?",
+      "y" : 0.7340116278585271
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7067901301440327,
+      "w" : 0.40123456079255115,
+      "h" : 0.01029069741566968,
+      "text" : "[A] The high transepithelial chloride chemical concentration gradient",
+      "y" : 0.7173546511307334
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6532921773919754,
+      "w" : 0.29423868431235256,
+      "h" : 0.010174418555365605,
+      "text" : "[B] An intense lumen-negative potential of -70 mV",
+      "y" : 0.704215116224564
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6851851911522631,
+      "w" : 0.3580246691433888,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Active primary chloride ATPases on the apical membrane",
+      "y" : 0.6911337210029069
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6676954772890944,
+      "w" : 0.32304526275058953,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Direct vesicular phagocytosis by podocyte pedicels",
+      "y" : 0.6780523256722384
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6913580184499317,
+      "w" : 0.3744855916725015,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Osmotic drag exerted by high protein concentrations in urine",
+      "y" : 0.6649709302083333
+    },
+    {
+      "conf" : 1,
+      "x" : 0.25102880113168735,
+      "w" : 0.436213991177157,
+      "h" : 0.01028423786163335,
+      "text" : "Q03. [2023 Exam] In the early Distal Convoluted Tubule (DCT), what",
+      "y" : 0.638753229827244
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23765431635802475,
+      "w" : 0.4094649980653007,
+      "h" : 0.011666666666666603,
+      "text" : "percentage of filtered sodium is reabsorbed, and through which",
+      "y" : 0.6249999998062017
+    },
+    {
+      "conf" : 1,
+      "x" : 0.13786008446502057,
+      "w" : 0.20987653432402226,
+      "h" : 0.011673126220703156,
+      "text" : "primary transport mechanism?",
+      "y" : 0.6119412148250964
+    },
+    {
+      "conf" : 1,
+      "x" : 0.16255144362139906,
+      "w" : 0.26337447256412144,
+      "h" : 0.00872092988755968,
+      "text" : "[A] 25% via apical H+\/K+ ATPase antiporters",
+      "y" : 0.5959302326308139
+    },
+    {
+      "conf" : 1,
+      "x" : 0.22222221743827172,
+      "w" : 0.38271602894525103,
+      "h" : 0.01027777777777783,
+      "text" : "[B] ~5% via the apical electroneutral Na+\/CI- Cotransporter (NCC)",
+      "y" : 0.582083333525255
+    },
+    {
+      "conf" : 1,
+      "x" : 0.17283950262345688,
+      "w" : 0.2839506137296089,
+      "h" : 0.008888888888888835,
+      "text" : "[C] 67% via sodium-glucose cotransport (SGLT2)",
+      "y" : 0.5697222222604401
+    },
+    {
+      "conf" : 1,
+      "x" : 0.16152263047839513,
+      "w" : 0.261316863245934,
+      "h" : 0.010277777777777719,
+      "text" : "[D] 50% via passive paracellular solvent drag",
+      "y" : 0.5559722224387866
+    },
+    {
+      "conf" : 1,
+      "x" : 0.14506173227023306,
+      "w" : 0.23251028480769706,
+      "h" : 0.008888889153798485,
+      "text" : "[E] 1% via the sodium-iodide symporter",
+      "y" : 0.5436111112110906
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7335390901440328,
+      "w" : 0.45061728039627547,
+      "h" : 0.010284237861633239,
+      "text" : "Q10. [2021 Exam] The Fractional Excretion of Sodium (FENa = [U_Na *",
+      "y" : 0.6387532298090756
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7242798425240051,
+      "w" : 0.4320987725407822,
+      "h" : 0.011666666666666603,
+      "text" : "P_Cr] \/ [P_Na * U_Cr] * 100) is clinically invaluable in differentiating",
+      "y" : 0.6249999998062017
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6337448601508915,
+      "w" : 0.25102879266319034,
+      "h" : 0.011673126220703045,
+      "text" : "acute oliguria. A FENa < 1% indicates:",
+      "y" : 0.6119412147281972
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6275720195473249,
+      "w" : 0.2427983553904408,
+      "h" : 0.010290697415669792,
+      "text" : "[A] Acute post-renal obstructive uropathy",
+      "y" : 0.5951453487723674
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6080246888117284,
+      "w" : 0.20370370636946,
+      "h" : 0.00873385005527072,
+      "text" : "[B] Bilateral renal cortical necrosis",
+      "y" : 0.5828552972204835
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6965020636145403,
+      "w" : 0.3806584196270637,
+      "h" : 0.011692505942450637,
+      "text" : "[C] Acute Tubular Necrosis with severe tubular epithelial damage",
+      "y" : 0.5697351417772081
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7181069905864199,
+      "w" : 0.42386828728441917,
+      "h" : 0.008888888888888946,
+      "text" : "[D] Prerenal Azotemia (avid tubular sodium retention with intact tubules)",
+      "y" : 0.556666666717206
+    },
+    {
+      "conf" : 1,
+      "x" : 0.69547325733882,
+      "w" : 0.3786008103088764,
+      "h" : 0.011666666666666603,
+      "text" : "[E] Complete loss of aldosterone receptors in the collecting duct",
+      "y" : 0.5436111113435453
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2572016461591221,
+      "w" : 0.4485596470862815,
+      "h" : 0.011705426110161676,
+      "text" : "Q04. [2022 Exam] The 'Fine-Tuning' of sodium excretion occurs in the",
+      "y" : 0.5174806202446319
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2530864271604936,
+      "w" : 0.44444442844990667,
+      "h" : 0.010174418555365716,
+      "text" : "Late DCT and Cortical Collecting Duct (reabsorbing ~3-5% of filtered",
+      "y" : 0.5036337210513566
+    },
+    {
+      "conf" : 1,
+      "x" : 0.1296296328532235,
+      "w" : 0.1934156357867163,
+      "h" : 0.01175064563751227,
+      "text" : "Nat), regulated primarily by:",
+      "y" : 0.4897642118037083
+    },
+    {
+      "conf" : 1,
+      "x" : 0.1944444484825102,
+      "w" : 0.32304526275058965,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Parathyroid hormone acting on proximal tubule cilia",
+      "y" : 0.47458333326462543
+    },
+    {
+      "conf" : 1,
+      "x" : 0.17283950262345688,
+      "w" : 0.2839506137296089,
+      "h" : 0.011724805831909157,
+      "text" : "[B] Calcitonin stimulating descending thin limbs",
+      "y" : 0.46080426371500177
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2078189344650205,
+      "w" : 0.35390945050701406,
+      "h" : 0.010297157499525311,
+      "text" : "[C] Antidiuretic hormone opening paracellular chloride pores",
+      "y" : 0.44846253231728334
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23353909870370365,
+      "w" : 0.40534977942892597,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Aldosterone stimulating apical Epithelial Sodium Channels (ENaC)",
+      "y" : 0.43531976748546514
+    },
+    {
+      "conf" : 1,
+      "x" : 0.20576132277091888,
+      "w" : 0.35390945050701406,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Glucagon promoting sodium secretion into Bellini ducts",
+      "y" : 0.42223837216569765
+    },
+    {
+      "conf" : 1,
+      "x" : 0.717078184027778,
+      "w" : 0.4218107019580386,
+      "h" : 0.011705426110161676,
+      "text" : "Q11. [2025 Exam] In contrast to Prerenal Azotemia, a patient with",
+      "y" : 0.5174806203657559
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7253086364454733,
+      "w" : 0.44238684312352594,
+      "h" : 0.010174418555365605,
+      "text" : "Ischemic Acute Tubular Necrosis (ATN) typically exhibits a FENa of:",
+      "y" : 0.5036337208757267
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6687242757716051,
+      "w" : 0.32510287206877697,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Exactly 0.001% (super-normal sodium conservation)",
+      "y" : 0.48763888869884797
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6790123499999998,
+      "w" : 0.3456790132342644,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Less than 0.1% with hypertonic urine (>1000 mOsm\/kg)",
+      "y" : 0.47458333326462543
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7150205803086418,
+      "w" : 0.41769548332166373,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Greater than 2% (due to tubular inability to reabsorb filtered sodium)",
+      "y" : 0.4615277777395598
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6666666706790123,
+      "w" : 0.3209876534324022,
+      "h" : 0.010297157499525311,
+      "text" : "[D] Negative values due to retrograde sodium filtration",
+      "y" : 0.44846253231728334
+    },
+    {
+      "conf" : 1,
+      "x" : 0.682098768950617,
+      "w" : 0.3518518411888266,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Zero, because glomeruli stop filtering sodium completely",
+      "y" : 0.4353197675145349
+    },
+    {
+      "conf" : 1,
+      "x" : 0.25411523371056216,
+      "w" : 0.4423867951399125,
+      "h" : 0.01027777777777783,
+      "text" : "Q05. [2021 Exam] How does Angiotensin II directly stimulate sodium",
+      "y" : 0.3945833331226162
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7078189259773662,
+      "w" : 0.3991769514743636,
+      "h" : 0.011718345748053638,
+      "text" : "Q12. [2020 Exam] How does intense Renal Sympathetic Nerve",
+      "y" : 0.3953036175623911
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23045268148148126,
+      "w" : 0.3950617088461822,
+      "h" : 0.010277777777777719,
+      "text" : "and water reabsorption in the Proximal Convoluted Tubule at",
+      "y" : 0.381527777579382
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7047325142181069,
+      "w" : 0.39300409952799475,
+      "h" : 0.010277777777777719,
+      "text" : "Stimulation decrease urinary sodium excretion during severe",
+      "y" : 0.3815277775793819
+    },
+    {
+      "conf" : 1,
+      "x" : 0.1368312743827161,
+      "w" : 0.20781892500583482,
+      "h" : 0.011692506472269715,
+      "text" : "physiological concentrations?",
+      "y" : 0.3677648581001045
+    },
+    {
+      "conf" : 1,
+      "x" : 0.5771604961248284,
+      "w" : 0.13786007623252627,
+      "h" : 0.01027777777777783,
+      "text" : "hemorrhagic shock?",
+      "y" : 0.3684722220845975
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23251029478737978,
+      "w" : 0.4032921461189318,
+      "h" : 0.010174418555365716,
+      "text" : "[A] It directly destroys medullary collecting ducts to block water loss",
+      "y" : 0.35247093030523263
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6923868266203705,
+      "w" : 0.37242798235431407,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Stimulating beta-1 receptors to promote massive natriuresis",
+      "y" : 0.35247093017805226
+    },
+    {
+      "conf" : 1,
+      "x" : 0.18724280148148145,
+      "w" : 0.3127571921678459,
+      "h" : 0.01031007766723635,
+      "text" : "[B] It inhibits carbonic anhydrase in the tubular lumen",
+      "y" : 0.33932170540045997
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7325102925925926,
+      "w" : 0.45267486572265625,
+      "h" : 0.01031007766723635,
+      "text" : "[B] Alpha-1 arteriolar constriction reducing GFR and direct alpha-1 stimulation",
+      "y" : 0.33932170540045997
+    },
+    {
+      "conf" : 1,
+      "x" : 0.20679012785493817,
+      "w" : 0.3518518411888267,
+      "h" : 0.01028423786163335,
+      "text" : "[C] It blocks SGLT2 cotransporters, trapping glucose in cells",
+      "y" : 0.32625322997259293
+    },
+    {
+      "conf" : 1,
+      "x" : 0.573045265260631,
+      "w" : 0.13374484560024813,
+      "h" : 0.010174418555365716,
+      "text" : "of tubular Na+ uptake",
+      "y" : 0.32776162783430235
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2047325160836761,
+      "w" : 0.34773662255245186,
+      "h" : 0.01027777777777783,
+      "text" : "[D] It opens macula densa tight junctions to allow bulk flow",
+      "y" : 0.31319444436926247
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6718107037294236,
+      "w" : 0.33127570002333917,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Inhibiting renin and aldosterone secretion completely",
+      "y" : 0.3146802326126453
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2427983592078188,
+      "w" : 0.4238682872844192,
+      "h" : 0.01027777777777783,
+      "text" : "[E] It activates apical NHE3 (Na+\/H+ exchanger) and basolateral Na+\/K+",
+      "y" : 0.3001388888441968
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6759259315157748,
+      "w" : 0.3353909426515208,
+      "h" : 0.010297157499525311,
+      "text" : "[D] Converting cortical nephrons into aglomerular tubules",
+      "y" : 0.30153746780989704
+    },
+    {
+      "conf" : 0.5,
+      "x" : 0.05761316954732508,
+      "w" : 0.04938271360577278,
+      "h" : 0.00872092988755968,
+      "text" : "ATPase",
+      "y" : 0.2892441860949613
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6779835433899175,
+      "w" : 0.34362137992427033,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Opening wide fenestrations in the ascending vasa recta",
+      "y" : 0.28847222242395765
+    },
+    {
+      "conf" : 1,
+      "x" : 0.47839504687928724,
+      "w" : 0.8909464902098074,
+      "h" : 0.011724805831909269,
+      "text" : "Q06. [2020 Exam] Atrial Natriuretic Peptide (ANP) promotes Natriuresis Q13. [Faculty Exam] Pressure Natriuresis refers to an increase in",
+      "y" : 0.27330426373922667
+    },
+    {
+      "conf" : 1,
+      "x" : 0.22736626162551415,
+      "w" : 0.38888888089162,
+      "h" : 0.010174418555365716,
+      "text" : "and Diuresis in response to volume expansion primarily by:",
+      "y" : 0.2594476744428294
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7325102936728394,
+      "w" : 0.4485596470862814,
+      "h" : 0.010174418555365716,
+      "text" : "sodium and water excretion in response to elevated arterial pressure.",
+      "y" : 0.2594476744731105
+    },
+    {
+      "conf" : 1,
+      "x" : 0.20061727829218123,
+      "w" : 0.3395061612878955,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Stimulating proximal tubule sodium-potassium pumps",
+      "y" : 0.2434722224206181
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6275720204389573,
+      "w" : 0.2386831127622593,
+      "h" : 0.00872092988755968,
+      "text" : "The intrarenal mechanism involves:",
+      "y" : 0.24709302335271321
+    },
+    {
+      "conf" : 1,
+      "x" : 0.19032921617798362,
+      "w" : 0.3189300441142149,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Increasing renin and aldosterone secretion ten-fold",
+      "y" : 0.23041666682287792
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6923868359310699,
+      "w" : 0.37242798235431407,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Massive activation of the renin-angiotensin-aldosterone axis",
+      "y" : 0.23041666647474507
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2541152218724281,
+      "w" : 0.4465020617599008,
+      "h" : 0.010290697945488758,
+      "text" : "[C] Inhibiting apical ENaC channels in medullary collecting ducts and dilating",
+      "y" : 0.21735465125029424
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6810699632201644,
+      "w" : 0.3497942318706393,
+      "h" : 0.010290697415669792,
+      "text" : "[B] Total occlusion of the renal arteries by myogenic spasm",
+      "y" : 0.2173546511125649
+    },
+    {
+      "conf" : 1,
+      "x" : 0.08847736817558292,
+      "w" : 0.1152263377447548,
+      "h" : 0.008888888888888835,
+      "text" : "afferent arterioles",
+      "y" : 0.20638888885025303
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6553497979681069,
+      "w" : 0.2983539029487273,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Immediate shutdown of all glomerular filtration",
+      "y" : 0.20421511633357553
+    },
+    {
+      "conf" : 1,
+      "x" : 0.16769546868998647,
+      "w" : 0.27366254314686517,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Blocking glomerular capillary fenestrations",
+      "y" : 0.19263888888930675
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7273662477709194,
+      "w" : 0.4423867951399125,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Increased renal medullary blood flow washing out interstitial solutes and",
+      "y" : 0.19113372090600783
+    },
+    {
+      "conf" : 1,
+      "x" : 0.20679012932098745,
+      "w" : 0.3518518411888267,
+      "h" : 0.01030361758338072,
+      "text" : "[E] Closing all aquaporin-1 channels throughout the medulla",
+      "y" : 0.1795704135401704
+    },
+    {
+      "conf" : 1,
+      "x" : 0.5987654351851851,
+      "w" : 0.18518517452216,
+      "h" : 0.01030361758338072,
+      "text" : "reducing proximal Na+ uptake",
+      "y" : 0.1795704135401704
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6851851911522631,
+      "w" : 0.3580246691433888,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Hyperpolarization of macula densa cells by calcium influx",
+      "y" : 0.1664244186773256
+    },
+    {
+      "conf" : 1,
+      "x" : 0.49794239845679,
+      "w" : 0.9300411392307882,
+      "h" : 0.011698966026306157,
+      "text" : "Q07. [2024 Exam] In Glomerulotubular (G-T) Balance, what ensures that Q14. [Core Concept Under normal dietary conditions, what percentage",
+      "y" : 0.1511272608389625
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2520576175514402,
+      "w" : 0.43827157650353765,
+      "h" : 0.01028423786163335,
+      "text" : "the PCT continues to reabsorb a constant fraction (~67%) of filtered",
+      "y" : 0.13875322995442424
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7376543228052126,
+      "w" : 0.46296293630539986,
+      "h" : 0.011673126220703045,
+      "text" : "of the total filtered sodium load is ultimately excreted in the final urine?",
+      "y" : 0.13805878512645398
+    },
+    {
+      "conf" : 1,
+      "x" : 0.11419753096159121,
+      "w" : 0.1625514360343885,
+      "h" : 0.008888888888888835,
+      "text" : "sodium when GFR rises?",
+      "y" : 0.12499999999418604
+    },
+    {
+      "conf" : 1,
+      "x" : 0.5761316895061728,
+      "w" : 0.13580246691433895,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Exactly 15% to 20%",
+      "y" : 0.12136627914244197
+    },
+    {
+      "conf" : 1,
+      "x" : 0.22839505514403313,
+      "w" : 0.3950617088461822,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Complete paralysis of the basolateral sodium-potassium pumps",
+      "y" : 0.10828488369670547
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6213991740740741,
+      "w" : 0.23045267548950965,
+      "h" : 0.010174418555365716,
+      "text" : "[B] 50% (half filtered and half excreted)",
+      "y" : 0.10973837200218012
+    },
+    {
+      "conf" : 1,
+      "x" : 0.17901235061728377,
+      "w" : 0.29629629363054,
+      "h" : 0.010174418555365605,
+      "text" : "[B] Total closure of all lateral intercellular spaces",
+      "y" : 0.09665697681686047
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6831275718518519,
+      "w" : 0.35390945050701406,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Less than 1% (over 99% of filtered sodium is reabsorbed)",
+      "y" : 0.09665697684593016
+    },
+    {
+      "conf" : 1,
+      "x" : 0.18415638243312749,
+      "w" : 0.3065843642132837,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Immediate vasoconstriction of interlobular veins",
+      "y" : 0.08357558144985472
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6162551418312758,
+      "w" : 0.22016460490676593,
+      "h" : 0.00873385005527072,
+      "text" : "[D] 33% (one-third excreted in health)",
+      "y" : 0.0828552972350185
+    },
+    {
+      "conf" : 1,
+      "x" : 0.1893004148148147,
+      "w" : 0.3168724108042207,
+      "h" : 0.011692505942450637,
+      "text" : "[D] Rapid destruction of luminal microvilli by high flow",
+      "y" : 0.06973514177720808
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6646090526063101,
+      "w" : 0.3168724108042207,
+      "h" : 0.010277777777777719,
+      "text" : "[E] 85% to 90% (kidneys excrete most filtered sodium)",
+      "y" : 0.06902777786695297
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23148147472565175,
+      "w" : 0.4053497794289259,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Increased GFR raises efferent oncotic pressure (pi_pc), enhancing",
+      "y" : 0.05597222246906769
+    },
+    {
+      "conf" : 1,
+      "x" : 0.08744856103395057,
+      "w" : 0.10905349779428924,
+      "h" : 0.008746769693162681,
+      "text" : "peritubular uptake",
+      "y" : 0.04507105951035961
+    },
+    {
+      "conf" : 1,
+      "x" : 0.3209876606310012,
+      "w" : 0.5761316647319674,
+      "h" : 0.018972868389553477,
+      "text" : "Twisted Medicine - Renal Physiology Master Class - Strictly Grounded in Faculty & Board Exam Past Papers",
+      "y" : 0.013846899193275364
+    },
+    {
+      "conf" : 1,
+      "x" : 0.8734567925154321,
+      "w" : 0.19135801447262546,
+      "h" : 0.007344961166381836,
+      "text" : "Confidential Student Revision Bank",
+      "y" : 0.01966085278616625
+    }
+  ]
+}

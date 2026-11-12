@@ -1,0 +1,854 @@
+{
+  "id": 11,
+  "title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+  "department": "Physiology",
+  "department_desc": "Hemodynamics, autoregulation, GFR, tubular transport, countercurrent multiplier, acid-base and RFTs",
+  "booklet_pages": "Pages 41 - 44",
+  "pdf_pages": [
+    43,
+    44,
+    45,
+    46
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 11 - HIGH-YIELD GFR, STARLING FORCES & CLEARANCE MATRIX",
+  "summary_table": [
+    {
+      "domain": "Starling Forces & Net",
+      "content": "volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen"
+    },
+    {
+      "domain": "Filtration Pressure (NFP)",
+      "content": "concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states)."
+    },
+    {
+      "domain": "mmHg.",
+      "content": "Kf = GFR / NFP = 125 / 10 = 12.5 mL/min/mmHg (~400x higher than Decreased Kf: mesangial contraction (Ang II, Endothelin, ADH) reduces"
+    },
+    {
+      "domain": "Filtration Coefficient (Kf)",
+      "content": "systemic capillaries due to huge fenestrated surface area and high capillary area; chronic diabetic nephropathy or membranous GN"
+    },
+    {
+      "domain": "hydraulic conductivity.",
+      "content": "causes GBM thickening and nephron dropout. Afferent Constriction: dec. Pgc, dec. GFR, dec. RPF (FF unchanged)."
+    },
+    {
+      "domain": "Arteriolar Resistance & GFR",
+      "content": "NSAIDs: block afferent prostaglandins -> afferent constriction -> acute Efferent Constriction (moderate): inc. Pgc, inc. GFR, dec. RPF (inc. FF). renal failure in dehydration."
+    },
+    {
+      "domain": "Control",
+      "content": "Efferent Constriction (severe): dec. GFR due to steep rise in pi_gc. ACEi/ARBs: block efferent Ang Il constriction -> acute renal failure in bilateral renal artery stenosis. Inulin: Gold standard (freely filtered, neither reabsorbed nor secreted; C_In Inverse Hyperbolic Curve: Serum Cr is insensitive in early disease"
+    },
+    {
+      "domain": "= GFR).",
+      "content": "(loss of 50% GFR from 120 to 60 mL/min only raises Cr from 0.8 to 1.4 Creatinine: Endogenous byproduct; freely filtered, ~10-15% secreted by mg/dL; doubling of Cr reflects ~50% GFR loss). PCT (slight overestimate, offset by Jaffe error). Urea is freely filtered but ~40-50% passively reabsorbed with Na+/water Prerenal Azotemia: BUN/Cr > 20:1 (sluggish flow maximizes urea"
+    },
+    {
+      "domain": "BUN / Creatinine Ratio &",
+      "content": "(clearance < GFR). Creatinine is not reabsorbed. reabsorption)."
+    },
+    {
+      "domain": "Azotemia",
+      "content": "Intrinsic ATN: BUN/Cr < 15:1 (damaged tubules cannot reabsorb urea). Cystatin C: Independent of muscle mass/diet."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In a healthy young adult male, the normal average Glomerular Filtration Rate (GFR) is approximately:",
+      "options": {
+        "A": "125 mL/min (180 Liters per day)",
+        "B": "650 mL/min (equal to renal plasma flow)",
+        "C": "50 mL/min (70 Liters per day)",
+        "D": "1200 mL/min (equal to renal blood flow)",
+        "E": "1 to 2 mL/min (equal to urine flow rate)"
+      },
+      "correct_option": "A",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The Filtration Fraction (FF) is defined as the ratio of GFR to RPF. In a healthy adult at rest, normal FF is:",
+      "options": {
+        "A": "0.01 (1% of renal plasma flow)",
+        "B": "0.20 (20% of plasma entering glomeruli is filtered)",
+        "C": "0.50 (50% of renal blood flow)",
+        "D": "0.80 (80% of plasma entering glomeruli)",
+        "E": "0.05 (5% of glomerular blood)"
+      },
+      "correct_option": "B",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which Starling force is the PRIMARY driving force promoting glomerular ultrafiltration across the capillary wall?",
+      "options": {
+        "A": "Bowman's space hydrostatic pressure (Pbs)",
+        "B": "Glomerular capillary oncotic pressure (pi_gc)",
+        "C": "Glomerular Capillary Hydrostatic Pressure (Pgc ~50-55 mmHg)",
+        "D": "Peritubular capillary hydrostatic pressure (Ppc)",
+        "E": "Renal interstitial oncotic pressure"
+      },
+      "correct_option": "C",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In healthy individuals, the Oncotic Pressure in Bowman's Space (pi_bs) is conventionally assumed to be zero because:",
+      "options": {
+        "A": "Albumin is actively destroyed inside the urinary space",
+        "B": "Bowman's space contains pure distilled water",
+        "C": "Parietal epithelial cells actively secrete sodium ions",
+        "D": "The normal filtration barrier is virtually impermeable to plasma proteins",
+        "E": "Oncotic pressure can only exist in closed muscular arteries"
+      },
+      "correct_option": "D",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "[2021 Exam) The Glomerular Capillary Hydrostatic Pressure (Pgc ~50 mmHg) is significantly higher than systemic capillaries because:",
+      "options": {
+        "A": "Blood flows through the glomerulus under negative atmospheric pressure",
+        "B": "Afferent arterioles branch directly from the thoracic duct",
+        "C": "Glomerular capillaries are arranged in series with pulmonary veins",
+        "D": "Mesangial cells constantly pump interstitial water into capillaries",
+        "E": "Glomerular capillaries are positioned between two high-resistance"
+      },
+      "correct_option": "E",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "The Hydrostatic Pressure in Bowman's Space (Pbs) normally opposes filtration and averages approximately:",
+      "options": {
+        "A": "15 to 18 mmHg",
+        "B": "50 to 55 mmHg",
+        "C": "0 to 2 mmHg",
+        "D": "32 to 35 mmHg",
+        "E": "80 to 90 mmHg"
+      },
+      "correct_option": "A",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "As blood traverses the glomerular capillary from afferent to efferent end, the Oncotic Pressure (pi_gc): A Remains exactly constant at 15 mmg",
+      "options": {
+        "B": "Increases progressively from ~28 to ~36 mmHg due to fluid filtration",
+        "C": "Drops rapidly to zero at the midpoint",
+        "D": "Falls to negative values due to albumin filtration",
+        "E": "Fluctuates rhythmically with respiratory movements"
+      },
+      "correct_option": "B",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Net Ultrafiltration Pressure (NFP) across the glomerular membrane is mathematically calculated as:",
+      "options": {
+        "A": "NFP = Pgc + Pbs + pi_gc",
+        "B": "NFP = Pgc / pi_gc",
+        "C": "NFP = (Pgc - Pbs) - (pi_gc - pi_bs) [averaging ~10 mmHg]",
+        "D": "NFP = Pbs - Pgc + pi_gc",
+        "E": "NFP = pi_gc - Pgc"
+      },
+      "correct_option": "C",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "The Glomerular Ultrafiltration Coefficient (Kf) is a product of hydraulic conductivity and total surface area, averaging:",
+      "options": {
+        "A": "1.25 mL/min/mmHg",
+        "B": "50 mL/min/mmHg",
+        "C": "0.01 mL/min/mmHg [DJ 12.5 mL/min/mmHg (~400x higher than systemic capillaries)",
+        "E": "125 mL/min/mmHg"
+      },
+      "correct_option": "D",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "How do Angiotensin Il and Endothelin-1 pathologically reduce Kf and thereby decrease GFR?",
+      "options": {
+        "A": "By dilating the efferent arteriole to zero resistance",
+        "B": "By dissolving the lamina densa of the basement membrane",
+        "C": "By destroying all endothelial cell fenestrations",
+        "D": "By stimulating massive podocyte cell division",
+        "E": "By causing contraction of mesangial cells, reducing filtration surface area"
+      },
+      "correct_option": "E",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In chronic diabetic nephropathy, thick hyaline deposition in the GBM and mesangium decreases GFR primarily by:",
+      "options": {
+        "A": "Causing loss of functional surface area and decreasing Kf",
+        "B": "Elevating Bowman's space oncotic pressure to 50 mmHg",
+        "C": "Paralyzing the macula densa chemoreceptors",
+        "D": "Preventing systemic hepatic albumin synthesis",
+        "E": "Increasing hydraulic conductivity 100-fold"
+      },
+      "correct_option": "A",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Acute bilateral ureteral obstruction (e.g., stone or prostatic enlargement) decreases GFR primarily by:",
+      "options": {
+        "A": "Decreasing glomerular capillary hydrostatic pressure (Pgc)",
+        "B": "Markedly increasing Bowman's Space Hydrostatic Pressure (Pbs)",
+        "C": "Dilating the afferent arteriole",
+        "D": "Decreasing plasma oncotic pressure",
+        "E": "Completely dissolving the podocyte slit diaphragms"
+      },
+      "correct_option": "B",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Severe hypoalbuminemia in Nephrotic Syndrome or liver cirrhosis alters glomerular Starling forces by:",
+      "options": {
+        "A": "Increasing Pbs above systolic blood pressure",
+        "B": "Completely abolishing glomerular capillary blood flow",
+        "C": "Decreasing plasma oncotic pressure (pi_gc), tending to increase GFR",
+        "D": "Constricting afferent arterioles selectively",
+        "E": "Doubling the filtration fraction to 80%"
+      },
+      "correct_option": "C",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "[Core Concept Filtration Equilibrium across the glomerular capillary occurs when:",
+      "options": {
+        "A": "Pge falls to zero before reaching the efferent arteriole",
+        "B": "Bowman's space hydrostatic pressure equals mean arterial pressure",
+        "C": "Urine output completely ceases during systemic exercise",
+        "D": "Net Ultrafiltration Pressure reaches zero as pi_gc rises to equal (Pgc - Pbs)",
+        "E": "Afferent and efferent arteriolar resistances become identical"
+      },
+      "correct_option": "D",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Physiology of Glomerular Filtration Rate - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Moderate selective constriction of the Efferent Arteriole (e.g., low-dose Angiotensin II) causes:",
+      "options": {
+        "A": "Increased Pgc, Preserved or Increased GFR, Decreased RPF, and Increased FF",
+        "B": "Decreased Pc and decreased GFR",
+        "C": "Identical percentage drop in both GFR and FF",
+        "D": "Immediate cessation of all glomerular ultrafiltration",
+        "E": "Dilatation of peritubular capillaries with low oncotic pressure"
+      },
+      "correct_option": "A",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Extreme, severe constriction of the efferent arteriole paradoxically causes GFR to decrease because:",
+      "options": {
+        "A": "The afferent arteriole ruptures under retrograde pressure",
+        "B": "Plasma flow is so drastically reduced that pi_gc rises steeply, halting NFP",
+        "C": "Bowman's capsule basement membrane completely calcifies",
+        "D": "Podocytes actively detach from the basement membrane",
+        "E": "Renin release by JG cells drops to zero"
+      },
+      "correct_option": "B",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Selective dilation of the Afferent Arteriole (e.g., mediated by renal prostaglandins or NO) leads to:",
+      "options": {
+        "A": "Decreased Pgc and decreased GFR",
+        "B": "Decreased RBF and increased plasma oncotic pressure",
+        "C": "Increased Pc, Increased GFR, and Increased RPF",
+        "D": "A sharp decline in the filtration fraction to 2%",
+        "E": "Complete closure of all glomerular capillary loops"
+      },
+      "correct_option": "C",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why do Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) precipitate acute renal failure in volume-depleted patients?",
+      "options": {
+        "A": "They directly lyse glomerular podocytes within minutes",
+        "B": "They increase renal medullary blood flow 10-fold",
+        "C": "They stimulate massive renin and aldosterone release",
+        "D": "They inhibit COX, blocking protective afferent arteriolar prostaglandin vasodilation",
+        "E": "They bind and precipitate albumin inside Bowman's capsule"
+      },
+      "correct_option": "D",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Why do ACE inhibitors and ARBs cause an acute drop in GFR in patients with bilateral renal artery stenosis?",
+      "options": {
+        "A": "They induce severe hypernatremic dehydration",
+        "B": "They stimulate excessive thromboxane synthesis in afferent arterioles",
+        "C": "They trigger widespread tubular basement membrane rupture",
+        "D": "They cause retrograde reflux of urine from bladder to kidney",
+        "E": "They block Ang Il-mediated efferent arteriolar constriction, crashing Pgc"
+      },
+      "correct_option": "E",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the hemodynamic effect of Atrial Natriuretic Peptide (ANP) on glomerular arterioles?",
+      "options": {
+        "A": "Dilates afferent arteriole and constricts efferent arteriole, increasing GFR",
+        "B": "Constricts both afferent and efferent arterioles equally",
+        "C": "Dilates efferent arteriole while closing afferent arteriole",
+        "D": "Abolishes all renal blood flow to the renal cortex",
+        "E": "Decreases FR by 50% to conserve circulating blood volume"
+      },
+      "correct_option": "A",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Physiology of Glomerular Filtration Rate - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which of the following properties is an ESSENTIAL criterion for a substance used to measure true GFR via renal clearance?",
+      "options": {
+        "A": "Highly bound to plasma albumin (>90%)",
+        "B": "Extensively metabolized by proximal tubular epithelial cells",
+        "C": "Freely filtered at the glomerulus, neither reabsorbed nor secreted by tubules",
+        "D": "Actively secreted by organic anion transporters in TAL",
+        "E": "Stored in large quantities in renal medullary interstitial cells"
+      },
+      "correct_option": "C",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The unbranched fructose polymer Inulin is universally regarded as the 'Gold Standard' for measuring GFR because:",
+      "options": {
+        "A": "It is synthesized endogenously by the loop of Henle",
+        "B": "It is completely absorbed in the distal convoluted tubule",
+        "C": "Its clearance is exactly equal to total renal blood flow",
+        "D": "It is freely filtered and completely inert (neither reabsorbed, secreted, nor metabolized)",
+        "E": "It provides an accurate measurement of renal tubular secretion"
+      },
+      "correct_option": "D",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "If a patient has a urine inulin concentration of 30 mg/mL, urine flow rate of 1 mL/min, and plasma inulin of 0.25 mg/mL, GFR is:",
+      "options": {
+        "A": "60 mL/min",
+        "B": "100 mL/min",
+        "C": "250 mL/min",
+        "D": "150 mL/min",
+        "E": "120 mL/min [C_In = (30 * 1) / 0.25]"
+      },
+      "correct_option": "E",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "If the clearance of a substance X (Cx) is found to be GREATER than the clearance of inulin (Cinulin), then substance X must undergo:",
+      "options": {
+        "A": "Net tubular secretion",
+        "B": "Net tubular reabsorption",
+        "C": "Neither reabsorption nor secretion",
+        "D": "Complete intrarenal metabolic degradation",
+        "E": "Storage in renal adipose tissue"
+      },
+      "correct_option": "A",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "If the clearance of a freely filtered substance Y (Cy) is LESS than inulin clearance, then substance Y must undergo:",
+      "options": {
+        "A": "Net tubular secretion into the lumen",
+        "B": "Net tubular reabsorption back into the peritubular capillaries",
+        "C": "Complete binding to macula densa cells [DJ Conversion into inulin by renal brush border enzymes",
+        "E": "Synthesis by juxtaglomerular cells"
+      },
+      "correct_option": "B",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Under normal physiological conditions in a healthy individual, the Renal Clearance of Glucose is:",
+      "options": {
+        "A": "Equal to GFR (125 mL/min)",
+        "B": "Equal to PAH clearance (650 mL/min)",
+        "C": "Zero (completely filtered and 100% reabsorbed in PCT below Tm)",
+        "D": "50 mL/min due to distal secretion",
+        "E": "Twice the clearance of creatinine"
+      },
+      "correct_option": "C",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Physiology of Glomerular Filtration Rate - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why does standard 24-hour Creatinine Clearance (C_Cr) slightly OVERESTIMATE true GFR by approximately 10% to 15%?",
+      "options": {
+        "A": "Creatinine is reabsorbed by collecting duct principal cells",
+        "B": "Creatinine evaporates from urine collection containers",
+        "C": "Red blood cells synthesize creatinine in the urinary space",
+        "D": "The colorimetric Jaffe assay underestimates plasma creatinine by 50%",
+        "E": "A small fraction of creatinine (~10-15%) is actively secreted by proximal tubule OATs"
+      },
+      "correct_option": "E",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "How does the non-specific Jaffe chromogen laboratory error fortuitously offset the effect of tubular creatinine secretion?",
+      "options": {
+        "A": "Non-creatinine chromogens overestimate plasma creatinine by ~10-15%, canceling out secretory overestimation",
+        "B": "It measures urine creatinine as zero",
+        "C": "It causes creatinine to precipitate out of plasma samples",
+        "D": "It converts plasma urea into creatinine in the test tube",
+        "E": "It measures creatinine only when GFR exceeds 200 mL/min"
+      },
+      "correct_option": "A",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which medication competitively inhibits proximal tubular creatinine secretion, falsely elevating Serum Creatinine without reducing true GFR?",
+      "options": {
+        "A": "Furosemide and Bumetanide",
+        "B": "Cimetidine and Trimethoprim",
+        "C": "Spironolactone and Amiloride",
+        "D": "Acetazolamide and Mannitol",
+        "E": "Penicillin and Ampicillin"
+      },
+      "correct_option": "B",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The mathematical relationship between Plasma Creatinine concentration and GFR is described as:",
+      "options": {
+        "A": "Directly linear (as GFR drops, creatinine drops equally)",
+        "B": "An exponential increase in GFR as creatinine rises",
+        "C": "An inverse hyperbolic curve (doubling of plasma creatinine reflects ~50% drop in GFR)",
+        "D": "Completely independent (creatinine never changes with GFR)",
+        "E": "A bell-shaped Gaussian distribution curve"
+      },
+      "correct_option": "C",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Why is Serum Creatinine considered an INSENSITIVE marker for detecting early, mild-to-moderate renal impairment (loss of up to 50% GFR)?",
+      "options": {
+        "A": "Creatinine cannot be detected in blood until GFR is zero",
+        "B": "The liver stops producing creatine whenever kidney function declines",
+        "C": "Tubules reabsorb 99% of creatinine in early kidney disease",
+        "D": "Due to the hyperbolic curve, GFR can drop from 120 to 60 mL/min with creatinine rising only from 0.8 to 1.4 mg/dL",
+        "E": "Macula densa destroys all plasma creatinine in early disease"
+      },
+      "correct_option": "D",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In elderly, frail, or bedridden patients with severe muscle wasting (sarcopenia), a 'normal' serum creatinine of 0.9 mg/dL often:",
+      "options": {
+        "A": "Indicates supranormal GFR above 200 mL/min",
+        "B": "Occurs due to high dietary intake of red meat",
+        "C": "Proves that the kidneys are completely free of disease",
+        "D": "Reflects massive proximal tubular creatinine secretion",
+        "E": "Seriously overestimates true renal function, masking significantly reduced GFR due to low creatinine generation"
+      },
+      "correct_option": "E",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Physiology of Glomerular Filtration Rate - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Regarding Blood Urea Nitrogen (BUN), why is urea clearance substantially lower than inulin clearance (GFR)?",
+      "options": {
+        "A": "Urea does not filter across glomerular capillary fenestrations",
+        "B": "Approximately 40% to 50% of filtered urea is passively reabsorbed along renal tubules (especially PCT and inner medullary CD)",
+        "C": "Urea is actively secreted by proximal tubular cells",
+        "D": "Urea binds irreversibly to red blood cell membranes",
+        "E": "Urea is completely converted into ammonia inside glomeruli"
+      },
+      "correct_option": "B",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In Prerenal Azotemia (e.g., severe hypovolemia or dehydration), the Serum BUN-to-Creatinine ratio characteristically:",
+      "options": {
+        "A": "Drops to less than 5:1",
+        "B": "Remains perfectly normal at 10:1",
+        "C": "Rises significantly to > 20:1 due to increased passive urea reabsorption with sodium and water in sluggish tubules",
+        "D": "Becomes negative due to renal tubular necrosis",
+        "E": "Equals zero because urea synthesis stops in the liver"
+      },
+      "correct_option": "C",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In Intrinsic Acute Tubular Necrosis (ATN) with parenchymal nephron damage, the BUN-to-Creatinine ratio typically presents as:",
+      "options": {
+        "A": "Highly elevated (> 40:1) with low urinary sodium",
+        "B": "Undetectable due to severe hematuria",
+        "C": "Exactly 1:1 in all clinical cases",
+        "D": "Maintained at < 15:1 (often 10:1 to 15:1) because damaged tubules cannot reabsorb rea avidly",
+        "E": "Greater than 100:1 with fractional excretion of sodium < 1%"
+      },
+      "correct_option": "D",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The Cockcroft-Gault formula estimates Creatinine Clearance. Why is the calculated result multiplied by 0.85 for female patients?",
+      "options": {
+        "A": "Females have higher tubular creatinine secretion than males",
+        "B": "Women have higher hematocrit and lower renal plasma flow",
+        "C": "Female kidneys contain 15% more glomeruli than male kidneys",
+        "D": "Estrogen directly destroys 15% of circulating serum creatinine",
+        "E": "Females typically possess ~15% less muscle mass per unit body weight than males"
+      },
+      "correct_option": "E",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which clinical scenario will cause an acute increase in GFR and Filtration Fraction?",
+      "options": {
+        "A": "High-protein meal or intravenous amino acid infusion triggering tubuloglomerular feedback dilation",
+        "B": "Profuse diarrhea causing severe dehydration and shock",
+        "C": "Infusion of hyperoncotic albumin increasing plasma oncotic pressure",
+        "D": "Bilateral ureteral calculus obstructing urine outflow",
+        "E": "Overdose of NSAIDs blocking afferent prostaglandins"
+      },
+      "correct_option": "A",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A patient with heart failure is started on Furosemide, Lisinopril, and Ibuprofen (Triple Whammy'). GFR drops acutely because:",
+      "options": {
+        "A": "All three drugs precipitate as crystals inside Bowman's capsule space",
+        "B": "Furosemide causes volume depletion, NSAID blocks afferent vasodilation, and Lisinopril blocks efferent constriction",
+        "C": "Ibuprofen destroys macula densa cells while lisinopril lyses podocytes",
+        "D": "Furosemide paralyzes detrusor muscle causing bladder rupture",
+        "E": "Lisinopril stimulates excessive renal vasoconstrictor thromboxane"
+      },
+      "correct_option": "B",
+      "explanation": "**Starling Forces & Net**: volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen\n\n**Filtration Pressure (NFP)**: concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states).",
+      "masterclass_id": 11,
+      "masterclass_title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology"
+    }
+  ]
+}

@@ -1,0 +1,917 @@
+{
+  "items" : [
+    {
+      "h" : 0.008888888623979407,
+      "conf" : 1,
+      "w" : 0.46240598567521113,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 42 MCQ Masterclass",
+      "x" : 0.2631578870300754,
+      "y" : 0.9752777778556223
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.07706766793575337,
+      "text" : "Page 2 of 4",
+      "x" : 0.9295112772321428,
+      "y" : 0.9745833331556137
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.4379698961094761,
+      "text" : "Q15. [2025 Exam] What is 'Pseudohyponatremia' (Isotonic Hyponatremia),",
+      "x" : 0.2640977516604008,
+      "y" : 0.9426388888893068
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.3853383287091121,
+      "text" : "and what clinical conditions artifactually lower measured sodium?",
+      "x" : 0.2377819510338346,
+      "y" : 0.9309722224206181
+    },
+    {
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "w" : 0.33834584371208887,
+      "text" : "[A] High serum sodium caused by free water dehydration",
+      "x" : 0.21428571992481182,
+      "y" : 0.9200193796100192
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.353383440666281,
+      "text" : "[B] Artifactual reduction of sodium caused by hypocalcemia",
+      "x" : 0.21992480614035112,
+      "y" : 0.9091569766715116
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.3439849480547381,
+      "text" : "[C] Factitious change from prolonged tourniquet clenching",
+      "x" : 0.21522555817669198,
+      "y" : 0.897529069743217
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3214285526234498,
+      "text" : "[D] Normal circadian drop in sodium seen during sleep",
+      "x" : 0.20582707168702996,
+      "y" : 0.887361111301152
+    },
+    {
+      "h" : 0.011711886194017196,
+      "conf" : 1,
+      "w" : 0.4248120152290394,
+      "text" : "[E] Extreme Hypertriglyceridemia or Paraproteinemia expanding plasma",
+      "x" : 0.25563909598997503,
+      "y" : 0.8764114985506497
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.26315788088043673,
+      "text" : "non-aqueous phase (true water Na+ normal)",
+      "x" : 0.17669172781954892,
+      "y" : 0.8655523254118217
+    },
+    {
+      "h" : 0.01176356527540412,
+      "conf" : 1,
+      "w" : 0.4248120152290394,
+      "text" : "Q16. [2023 Exam] In severe Diabetic Hyperglycemia, by how much does",
+      "x" : 0.25751880230263147,
+      "y" : 0.8474515505588422
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.422932299155284,
+      "text" : "measured serum sodium drop for each 100 mg\/dL rise in blood glucose?",
+      "x" : 0.256578942081767,
+      "y" : 0.8365277775760425
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "w" : 0.4454887165258807,
+      "text" : "[A] Drops by ~ 1.6 mEq\/L (or 2.0 if glucose >400) due to osmotic water shift",
+      "x" : 0.26597743618421077,
+      "y" : 0.8262532298090755
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.3439849480547381,
+      "text" : "[B] Drops by exactly 10 mEq\/L per 100 mg\/dL glucose rise",
+      "x" : 0.21522555817669198,
+      "y" : 0.8030523255571705
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3214285526234499,
+      "text" : "[C] Rises by 5.0 mEq\/L due to Na-glucose co-transport",
+      "x" : 0.20394737377819533,
+      "y" : 0.7929166664929136
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "w" : 0.3477443582629403,
+      "text" : "[D] Glucose has zero effect on plasma osmolality or sodium",
+      "x" : 0.21898496112155394,
+      "y" : 0.7826453488466051
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.3139097760856623,
+      "text" : "[E] Drops by 0.1 mEq\/L strictly when patient is febrile",
+      "x" : 0.20206767309680446,
+      "y" : 0.7710755814861918
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.4473683887210191,
+      "text" : "Q17. [2021 Exam] In confirmed Hypotonic Hyponatremia (plasma osmolality",
+      "x" : 0.26879699993734313,
+      "y" : 0.7536337210029069
+    },
+    {
+      "h" : 0.01030361758338072,
+      "conf" : 1,
+      "w" : 0.3627819552171324,
+      "text" : "< 280), what clinical assessment guides initial categorization?",
+      "x" : 0.2283834541118422,
+      "y" : 0.7420704134129901
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.336466149577642,
+      "text" : "[A] Measuring visual acuity and visual field confrontation",
+      "x" : 0.21146617102130308,
+      "y" : 0.731805555567459
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "w" : 0.44736838872101903,
+      "text" : "[B] Assessing Clinical ECF Volume: Hypovolemic (dehydration) vs Euvolemic",
+      "x" : 0.26691730068922276,
+      "y" : 0.7201453487497058
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.23872179131470167,
+      "text" : "(SIADH) vs Hypervolemic (CHF\/Cirrhosis)",
+      "x" : 0.16447368719454883,
+      "y" : 0.7093023256540698
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.31954885848900294,
+      "text" : "[C] Auscultating for carotid and femoral arterial bruits",
+      "x" : 0.20300752412280682,
+      "y" : 0.6984625323354519
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.300751873265917,
+      "text" : "[D] Checking deep tendon reflexes for ankle clonus",
+      "x" : 0.19548871997180453,
+      "y" : 0.6868055555762318
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.3139097541463538,
+      "text" : "[E] Performing bedside percussion of splenic dullness",
+      "x" : 0.2001879646929826,
+      "y" : 0.6765374676645481
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.4511278208685298,
+      "text" : "Q18. [2020 Exam] Which set of laboratory criteria definitively establishes the",
+      "x" : 0.27067669736842087,
+      "y" : 0.6475290698219478
+    },
+    {
+      "h" : 0.008888889153798374,
+      "conf" : 1,
+      "w" : 0.11842104859012739,
+      "text" : "diagnosis of SIADH?",
+      "x" : 0.10432330708646619,
+      "y" : 0.6366666667594639
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.36466164935157935,
+      "text" : "[A] Serum Osmolality > 320, Urine Osm < 100, Urine Na < 10",
+      "x" : 0.22556391433270664,
+      "y" : 0.625694444387431
+    },
+    {
+      "h" : 0.00872092988755957,
+      "conf" : 1,
+      "w" : 0.3270676569660991,
+      "text" : "[B] Hyperkalemia, serum creatinine > 5 mg\/dL & anuria",
+      "x" : 0.20864662199248105,
+      "y" : 0.6148255814437984
+    },
+    {
+      "h" : 0.013178294499715193,
+      "conf" : 1,
+      "w" : 0.4360902239143377,
+      "text" : "[C] Hypotonic Hyponatremia, Inappropriate Urine Concentration (U_osm >",
+      "x" : 0.26127820275689206,
+      "y" : 0.6024224805194943
+    },
+    {
+      "h" : 0.008888889153798374,
+      "conf" : 1,
+      "w" : 0.23120299283760554,
+      "text" : "100), Urine Na > 30-40, and Euvolemia",
+      "x" : 0.16071428802631574,
+      "y" : 0.5930555556290968
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3552631567400364,
+      "text" : "[D] Hyperglycemia > 500 mg\/dL, high anion gap & ketonuria",
+      "x" : 0.22274436445488716,
+      "y" : 0.5820833331226162
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.3515037465318341,
+      "text" : "[E] BUN:Cr ratio > 30:1 with severe orthostatic hypotension",
+      "x" : 0.21898495654761926,
+      "y" : 0.5712209301841085
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.4511278208685298,
+      "text" : "Q19. [2024 Exam] What neurological catastrophe is triggered by overly rapid",
+      "x" : 0.27067669736842087,
+      "y" : 0.5530523256722384
+    },
+    {
+      "h" : 0.00873385005527072,
+      "conf" : 1,
+      "w" : 0.37218044782867543,
+      "text" : "correction of chronic severe hyponatremia (>8-10 mEq\/L\/day)?",
+      "x" : 0.2312030137218043,
+      "y" : 0.5421447028037414
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.37030073175492006,
+      "text" : "[A] Acute uncal herniation secondary to severe cerebral edema",
+      "x" : 0.23026315867011277,
+      "y" : 0.5312499998728198
+    },
+    {
+      "h" : 0.008733849790361292,
+      "conf" : 1,
+      "w" : 0.3214285526234498,
+      "text" : "[B] Anterior horn cell poliomyelitis-like flaccid paralysis",
+      "x" : 0.20582707168702996,
+      "y" : 0.5203552972333775
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.35150374653183414,
+      "text" : "[C] Hypertensive encephalopathy with cerebral hemorrhage",
+      "x" : 0.22086465726033844,
+      "y" : 0.5094476743640988
+    },
+    {
+      "h" : 0.008740309874216812,
+      "conf" : 1,
+      "w" : 0.42857140349793316,
+      "text" : "[D] Osmotic Demyelination Syndrome (Central Pontine Myelinolysis) with",
+      "x" : 0.2575187898496243,
+      "y" : 0.49853682158612883
+    },
+    {
+      "h" : 0.008888889153798374,
+      "conf" : 1,
+      "w" : 0.19360902239143374,
+      "text" : "quadriparesis & 'Locked-In' state",
+      "x" : 0.14191729645989962,
+      "y" : 0.48833333323084616
+    },
+    {
+      "h" : 0.0087273899714152,
+      "conf" : 1,
+      "w" : 0.35526315674003633,
+      "text" : "[E] Complete physiological transection of lumbar spinal cord",
+      "x" : 0.22086465721334597,
+      "y" : 0.47674741601576504
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.4473683887210191,
+      "text" : "Q20. [2022 Exam] What is the recommended maximum safe limit for raising",
+      "x" : 0.26879699649122796,
+      "y" : 0.4484625324323512
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.42293229915528396,
+      "text" : "serum sodium in Chronic Hyponatremia to prevent brain demyelination?",
+      "x" : 0.2565789526550751,
+      "y" : 0.436805555794255
+    },
+    {
+      "h" : 0.008888889153798374,
+      "conf" : 1,
+      "w" : 0.36842105955978166,
+      "text" : "[A] Maximum increase of 25-30 mEq\/L within the first 12 hours",
+      "x" : 0.22932331195488714,
+      "y" : 0.42583333324053607
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.36842105955978166,
+      "text" : "[B] Serum sodium should be corrected to 140 mEg\/L in 6 hours",
+      "x" : 0.22932331195488714,
+      "y" : 0.4156976744767442
+    },
+    {
+      "h" : 0.008720930417378758,
+      "conf" : 1,
+      "w" : 0.3778195521713246,
+      "text" : "[C] Sodium concentration should change by < 1 mEq\/L per week",
+      "x" : 0.23402255648106662,
+      "y" : 0.4040697674396011
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.37030073175492,
+      "text" : "[D] Rapid bolus correction with 1000 mL 3% saline over 30 min",
+      "x" : 0.23026315999373423,
+      "y" : 0.3945833332195154
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "w" : 0.4304511195716885,
+      "text" : "[E] Maximum rise of 6 to 8 mEq\/L in 24 hours (< 14-16 mEq\/L in 48h; 4-6",
+      "x" : 0.26033833894110303,
+      "y" : 0.38292958670207766
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.41541352261749637,
+      "text" : "Q21. [2023 Exam] A patient with severe acute hyponatremia (Na+ 112",
+      "x" : 0.25281954367951137,
+      "y" : 0.35392441851380807
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "w" : 0.44736838872101903,
+      "text" : "mEq\/L) presents with active generalized seizures. Immediate drug of choice:",
+      "x" : 0.26879699807330815,
+      "y" : 0.3423546511125649
+    },
+    {
+      "h" : 0.008888889153798374,
+      "conf" : 1,
+      "w" : 0.42857140349793316,
+      "text" : "[A] IV 100 mL bolus of 3% Hypertonic Saline over 10 min, repeated up to",
+      "x" : 0.2575187898496243,
+      "y" : 0.33138888883735895
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "w" : 0.1936090223914338,
+      "text" : "twice to raise Na+ by 4-6 mEq\/L",
+      "x" : 0.14003759156484968,
+      "y" : 0.32042958647799824
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.2800751719690758,
+      "text" : "[B] Free oral water drinking of 2 Liters per hour",
+      "x" : 0.1832706720238097,
+      "y" : 0.30886627904554265
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.35902254500893016,
+      "text" : "[C] Continuous intravenous infusion of 5% Dextrose in water",
+      "x" : 0.2227443668859647,
+      "y" : 0.3001388888260283
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.36842105955978166,
+      "text" : "[D] Subcutaneous desmopressin (dDAVP) 4 mcg every 4 hours",
+      "x" : 0.22744360288220572,
+      "y" : 0.2884722222604402
+    },
+    {
+      "h" : 0.01176356527540423,
+      "conf" : 1,
+      "w" : 0.2875939704461718,
+      "text" : "[E] Immediate emergency bilateral nephrectomy",
+      "x" : 0.18703007159304522,
+      "y" : 0.27754844944115764
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.4191729108863903,
+      "text" : "Q22. [2021 Exam] What is the pharmacological mechanism of action of",
+      "x" : 0.7133458713972429,
+      "y" : 0.9426388890831052
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.336466149577642,
+      "text" : "Tolvaptan in euvolemic and hypervolemic hyponatremia?",
+      "x" : 0.6719924854088344,
+      "y" : 0.9309722220543164
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.3552631567400364,
+      "text" : "[A] Stimulates aldosterone synthesis in adrenal glomerulosa",
+      "x" : 0.6795112730889726,
+      "y" : 0.920784883890504
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.43421050784058235,
+      "text" : "[B] Selective Vasopressin V2 Receptor Antagonist ('Aquaretic'), promoting",
+      "x" : 0.7189849569783835,
+      "y" : 0.9091569766896802
+    },
+    {
+      "h" : 0.0087273899714152,
+      "conf" : 1,
+      "w" : 0.15977442924450147,
+      "text" : "solute-free water excretion",
+      "x" : 0.5836466181390978,
+      "y" : 0.8982525839697002
+    },
+    {
+      "h" : 0.011673126220703045,
+      "conf" : 1,
+      "w" : 0.36090223914337705,
+      "text" : "[C] Inhibits apical Na+\/K+\/2Cl- cotransporter in loop of Henle",
+      "x" : 0.6823308315789474,
+      "y" : 0.8880587853929268
+    },
+    {
+      "h" : 0.011711885664198118,
+      "conf" : 1,
+      "w" : 0.3233082686972052,
+      "text" : "[D] Competitive antagonist of atrial natriuretic peptide",
+      "x" : 0.6635338291979951,
+      "y" : 0.8764114985733111
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.3007518732659171,
+      "text" : "[E] Direct stimulation of hypothalamic thirst center",
+      "x" : 0.6541353433583958,
+      "y" : 0.8655523257025193
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "w" : 0.44172932825698685,
+      "text" : "Q23. [2025 Exam] What is the standard formula to calculate the Total Body",
+      "x" : 0.7246240675125311,
+      "y" : 0.8481782946964391
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.2951127689232679,
+      "text" : "Free Water Deficit in a hypernatremic adult male?",
+      "x" : 0.6513157943922305,
+      "y" : 0.8365277777880095
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "w" : 0.34210525392029123,
+      "text" : "[A] Free Water Deficit = Serum Na+ * Serum K+ \/ Weight",
+      "x" : 0.6710526258771932,
+      "y" : 0.8262532298090755
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "w" : 0.24624058979179764,
+      "text" : "[B] Free Water Deficit = 140 - Serum Na+",
+      "x" : 0.6268796997415412,
+      "y" : 0.8154069768895349
+    },
+    {
+      "h" : 0.011757106251186755,
+      "conf" : 1,
+      "w" : 0.4398496121832315,
+      "text" : "[C] Free Water Deficit = Total Body Water * [(Serum Na+ \/ 140) - 1], where",
+      "x" : 0.7236842149248119,
+      "y" : 0.803843669339589
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.15225563076740545,
+      "text" : "TBW = 0.6 * Weight in kg",
+      "x" : 0.5798872199483083,
+      "y" : 0.7929166665110823
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "w" : 0.36090223914337705,
+      "text" : "[D] Free Water Deficit = Urine Osmolality \/ Plasma Osmolality",
+      "x" : 0.684210529924812,
+      "y" : 0.7826453487206361
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "w" : 0.3233082686972053,
+      "text" : "[E] Free Water Deficit = Body Surface Area * 10 Liters",
+      "x" : 0.6654135392230575,
+      "y" : 0.7718023256782945
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.40037592566330427,
+      "text" : "Q24. [2020 Exam] How does the Water Deprivation Test followed by",
+      "x" : 0.7039473750939849,
+      "y" : 0.7536337209544572
+    },
+    {
+      "h" : 0.011692505942450637,
+      "conf" : 1,
+      "w" : 0.42105262696014556,
+      "text" : "Desmopressin (dDAVP) differentiate Central from Nephrogenic Diabetes",
+      "x" : 0.7142857198621553,
+      "y" : 0.7427648582227919
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "w" : 0.336466149577642,
+      "text" : "[A] Both conditions show zero response to desmopressin",
+      "x" : 0.6701127875626565,
+      "y" : 0.7201453487497058
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.36090223914337705,
+      "text" : "[B] Nephrogenic DI shows massive hyperkalemia after dDAVP",
+      "x" : 0.6842105275689223,
+      "y" : 0.7085755812257752
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.31578947022010917,
+      "text" : "[C] Central DI causes urine osmolality to drop to zero",
+      "x" : 0.6616541406015036,
+      "y" : 0.6984625323354519
+    },
+    {
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "w" : 0.4060150300059534,
+      "text" : "[D] Central DI shows >50% increase in Urine Osmolality after dDAVP;",
+      "x" : 0.7067669213533834,
+      "y" : 0.6875000000290696
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.30827067174301315,
+      "text" : "Nephrogenic DI shows minimal response (<10-50%)",
+      "x" : 0.6578947329887219,
+      "y" : 0.6765374676827167
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.3552631567400364,
+      "text" : "[E] Desmopressin causes immediate hematuria in central DI",
+      "x" : 0.6795112722744363,
+      "y" : 0.6664244185319768
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.4285714034979332,
+      "text" : "Q25. [2024 Exam] Why must severe Chronic Hypernatremia be corrected",
+      "x" : 0.7180451084962407,
+      "y" : 0.6475290696947673
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.2969924630577149,
+      "text" : "SLOWLY (<= 10 mEq\/L\/day) with hypotonic fluids?",
+      "x" : 0.6522556428101502,
+      "y" : 0.6373611113374893
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.33834586565139735,
+      "text" : "[A] Rapid correction causes acute renal papillary necrosis",
+      "x" : 0.6710526273496241,
+      "y" : 0.6256944442420821
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.3552631567400363,
+      "text" : "[B] Rapid correction triggers immediate hypercalcemic crisis",
+      "x" : 0.6813909818843984,
+      "y" : 0.6140374678280656
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.3327067613087482,
+      "text" : "[C] Water cannot cross capillary endothelial membranes",
+      "x" : 0.6682330771616544,
+      "y" : 0.6039244185804264
+    },
+    {
+      "h" : 0.010290697945488758,
+      "conf" : 1,
+      "w" : 0.3928571491255166,
+      "text" : "[D] Rapid correction causes permanent destruction of parathyroids",
+      "x" : 0.7001879741541351,
+      "y" : 0.592354651153395
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.4360902239143377,
+      "text" : "[E] Brain accumulates idiogenic osmoles; rapid ECF osmolality drop drives",
+      "x" : 0.7199248192982455,
+      "y" : 0.5820833331226162
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.2725563734919796,
+      "text" : "water into brain cells, causing Cerebral Edema",
+      "x" : 0.6400375905780076,
+      "y" : 0.5712209301598837
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.32894735110054596,
+      "text" : "Q26. [2022 Exam] Which pre-analytical artifact explains",
+      "x" : 0.668233086818609,
+      "y" : 0.5530523256359012
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.42481201522903933,
+      "text" : "'Pseudohyperkalemia' (elevated measured serum K+ with normal in vivo",
+      "x" : 0.7180451057644113,
+      "y" : 0.5429166665898129
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.17481202619869363,
+      "text" : "plasma K+ and normal ECG)?",
+      "x" : 0.5911654115836467,
+      "y" : 0.5312499998728198
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.4172932386912517,
+      "text" : "[A] In vitro mechanical Hemolysis, fist-clenching during phlebotomy, or",
+      "x" : 0.7105263221804508,
+      "y" : 0.5195833334101871
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.3233082686972052,
+      "text" : "marked Thrombocytosis (>500k) \/ Leukocytosis (>50k)",
+      "x" : 0.6654135322055139,
+      "y" : 0.509447674249031
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.21428570174896666,
+      "text" : "[B] Severe arterial blood hypoxemia",
+      "x" : 0.6090225536340852,
+      "y" : 0.4993055553431666
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.31954885848900283,
+      "text" : "[C] Excessive intake of dietary potassium 10 min prior",
+      "x" : 0.6616541300125314,
+      "y" : 0.4876388887291291
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.3045112615348108,
+      "text" : "[D] Immediate chilling of blood specimen on dry ice",
+      "x" : 0.6541353426691727,
+      "y" : 0.4759722221635409
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.3458646421891848,
+      "text" : "[E] Drawing blood strictly from non-dominant forearm vein",
+      "x" : 0.6748120343984962,
+      "y" : 0.465843023346657
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.4191729108863901,
+      "text" : "Q27. [2023 Exam] What is the classic, progressive Electrocardiographic",
+      "x" : 0.7133458576754388,
+      "y" : 0.44846253219010296
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.351503746531834,
+      "text" : "(ECG) sequence seen with worsening severe Hyperkalemia?",
+      "x" : 0.6795112825892856,
+      "y" : 0.436805555794255
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.43045111957168847,
+      "text" : "[A] Prominent U waves -> ST depression -> T wave inversion -> Torsades",
+      "x" : 0.7189849611137218,
+      "y" : 0.4265374678644028
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.45112782086852976,
+      "text" : "[B] Peaked T waves -> Prolonged PR & flat P -> Widened QRS -> 'Sine Wave'",
+      "x" : 0.7293233067042606,
+      "y" : 0.4149709300629845
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.2086466193456259,
+      "text" : "-> Ventricular Fibrillation \/ Asystole",
+      "x" : 0.6080827093749999,
+      "y" : 0.40406976751453483
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "w" : 0.32894735110054596,
+      "text" : "[C] Short QT interval -> Delta waves -> Complete RBBB",
+      "x" : 0.6663533875704886,
+      "y" : 0.3938888888260281
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "w" : 0.3759398360975692,
+      "text" : "[D] Electrical alternans with low QRS voltage in precordial leads",
+      "x" : 0.6898496177944865,
+      "y" : 0.38222222228466485
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.34774435826294037,
+      "text" : "[E] Widened PR interval with isolated ST elevation in V1-V3",
+      "x" : 0.6757518753524436,
+      "y" : 0.3720930231831395
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.4154135226174964,
+      "text" : "Q28. [2021 Exam] What is the therapeutic role and onset of IV Calcium",
+      "x" : 0.711466170606203,
+      "y" : 0.35392441865915697
+    },
+    {
+      "h" : 0.010290697945488758,
+      "conf" : 1,
+      "w" : 0.36466164935157935,
+      "text" : "Gluconate (10%) in severe Hyperkalemia with ECG changes?",
+      "x" : 0.6785714224937346,
+      "y" : 0.34235465125029413
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "w" : 0.336466149577642,
+      "text" : "[A] Shifts potassium into intracellular fluid within 2 hours",
+      "x" : 0.6701127861607142,
+      "y" : 0.3313888888260281
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "w" : 0.31015036587746003,
+      "text" : "[B] Binds dietary potassium in the gut over 24 hours",
+      "x" : 0.6569548820488723,
+      "y" : 0.32042958650827913
+    },
+    {
+      "h" : 0.011711885664198118,
+      "conf" : 1,
+      "w" : 0.4398496121832315,
+      "text" : "[C] Immediately (1-3 min) stabilizes cardiac myocyte membrane potential;",
+      "x" : 0.7218045079573936,
+      "y" : 0.31108850157203755
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.1973684106603275,
+      "text" : "does NOT lower serum potassium",
+      "x" : 0.6024436114896616,
+      "y" : 0.3001388888078595
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3984962095895489,
+      "text" : "[D] Stimulates massive renal potassium excretion via principal cells",
+      "x" : 0.7011278245300752,
+      "y" : 0.2884722223876204
+    },
+    {
+      "h" : 0.011763565805223197,
+      "conf" : 1,
+      "w" : 0.353383440666281,
+      "text" : "[E] Inhibits parathyroid hormone secretion to prevent arrest",
+      "x" : 0.6785714329887217,
+      "y" : 0.2775484493215971
+    },
+    {
+      "h" : 0.01598837216695148,
+      "conf" : 1,
+      "w" : 0.9360901800357208,
+      "text" : "Twisted Medicine Medical Series • Acid-Base & Electrolyte Disorders in Nephrology 162 ard Practice Bank Confidential - Dedicated for Medical Student Revision",
+      "x" : 0.5000000117011276,
+      "y" : 0.013808139698401167
+    }
+  ],
+  "page" : 164
+}

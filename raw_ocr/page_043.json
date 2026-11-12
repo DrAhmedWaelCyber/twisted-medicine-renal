@@ -1,0 +1,853 @@
+{
+  "page" : 43,
+  "items" : [
+    {
+      "x" : 0.284979430169753,
+      "y" : 0.9781976744549419,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 11 MCQ Masterclass",
+      "h" : 0.011627906163533486,
+      "w" : 0.5041152186363749,
+      "conf" : 1
+    },
+    {
+      "x" : 0.3467078267746912,
+      "y" : 0.9644056847505013,
+      "text" : "Twisted Medicine Medical Series \" Starling Forces, Net Filtration Pressure, GFR & Clearance Standard Practice Bank",
+      "h" : 0.007299741374121815,
+      "w" : 0.6275720176456859,
+      "conf" : 1
+    },
+    {
+      "x" : 0.9341563774348425,
+      "y" : 0.976747416123995,
+      "text" : "Page 1 of 4",
+      "h" : 0.008727390236324739,
+      "w" : 0.06995884277535691,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5010287992026752,
+      "y" : 0.9433333335945898,
+      "text" : "11. PHYSIOLOGY OF GLOMERULAR FILTRATION RATE - PHYSIOLOGY LECTURE",
+      "h" : 0.011666666666666714,
+      "w" : 0.6440328921911851,
+      "conf" : 1
+    },
+    {
+      "x" : 0.4999999930555557,
+      "y" : 0.9265374676827167,
+      "text" : "Twisted Medicine Physiology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "h" : 0.010297157499525311,
+      "w" : 0.55555552356648,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2541152217849795,
+      "y" : 0.901127260911637,
+      "text" : "Q01. [2025 Exam] In a healthy young adult male, the normal average",
+      "h" : 0.011698966026306157,
+      "w" : 0.4382715765035377,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19650205357510298,
+      "y" : 0.8873611111921405,
+      "text" : "Glomerular Filtration Rate (GFR) is approximately:",
+      "h" : 0.010277777777777719,
+      "w" : 0.32304526275058965,
+      "conf" : 1
+    },
+    {
+      "x" : 0.13786008487654314,
+      "y" : 0.8728197673146803,
+      "text" : "[A] 125 mL\/min (180 Liters per day)",
+      "h" : 0.010174418555365605,
+      "w" : 0.2098765343240222,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1625514423182441,
+      "y" : 0.8612467699486764,
+      "text" : "[B] 650 mL\/min (equal to renal plasma flow)",
+      "h" : 0.010284237861633239,
+      "w" : 0.2592592539277466,
+      "conf" : 1
+    },
+    {
+      "x" : 0.13065843377057618,
+      "y" : 0.8495833331556137,
+      "text" : "[C] 50 mL\/min (70 Liters per day)",
+      "h" : 0.010277777777777719,
+      "w" : 0.1954732451049037,
+      "conf" : 1
+    },
+    {
+      "x" : 0.16152262945816204,
+      "y" : 0.8386111110380188,
+      "text" : "[D] 1200 mL\/min (equal to renal blood flow)",
+      "h" : 0.008888888888888946,
+      "w" : 0.25720164460955924,
+      "conf" : 1
+    },
+    {
+      "x" : 0.15740740989711927,
+      "y" : 0.8262532299544243,
+      "text" : "[E] 1 to 2 mL\/min (equal to urine flow rate)",
+      "h" : 0.01028423786163335,
+      "w" : 0.2489711833450029,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7273662548096709,
+      "y" : 0.9018217054549658,
+      "text" : "Q08. [2022 Exam] The Net Ultrafiltration Pressure (NFP) across the",
+      "h" : 0.01031007766723635,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6882716108710559,
+      "y" : 0.8873611113193207,
+      "text" : "glomerular membrane is mathematically calculated as:",
+      "h" : 0.010277777777777719,
+      "w" : 0.3559670598252014,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5936214012602881,
+      "y" : 0.8728197675327034,
+      "text" : "[A] NFP = Pgc + Pbs + pi_gc",
+      "h" : 0.010174418555365716,
+      "w" : 0.16666666666666663,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5730452690586421,
+      "y" : 0.861246770172756,
+      "text" : "[B] NFP = Pgc \/ pi_gc",
+      "h" : 0.01028423786163335,
+      "w" : 0.1255143963315951,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.6862139961676954,
+      "y" : 0.8495833333009626,
+      "text" : "[C] NFP = (Pgc - Pbs) - (pi_gc - pi_bs) [averaging ~10 mmHg]",
+      "h" : 0.01027777777777783,
+      "w" : 0.3518518411888266,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5905349814300411,
+      "y" : 0.8379166668443863,
+      "text" : "[D] NFP = Pbs - Pgc + pi_gc",
+      "h" : 0.010277777777777719,
+      "w" : 0.16049382671620105,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.5709876564128943,
+      "y" : 0.8262532299544243,
+      "text" : "[E] NFP = pi_gc - Pgc",
+      "h" : 0.01028423786163335,
+      "w" : 0.12551439633159522,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.2602880613374486,
+      "y" : 0.7798546512502942,
+      "text" : "Q02. [2024 Exam] The Filtration Fraction (FF) is defined as the ratio of",
+      "h" : 0.010290697945488758,
+      "w" : 0.4506172803962755,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19855967047325102,
+      "y" : 0.7652616277374031,
+      "text" : "GFR to RPF. In a healthy adult at rest, normal FF is:",
+      "h" : 0.010174418555365605,
+      "w" : 0.3271604813869644,
+      "conf" : 1
+    },
+    {
+      "x" : 0.13374485349794243,
+      "y" : 0.7506944442420822,
+      "text" : "[A] 0.01 (1% of renal plasma flow)",
+      "h" : 0.010277777777777719,
+      "w" : 0.1975308544230911,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18930041543209863,
+      "y" : 0.7390374677917283,
+      "text" : "[B] 0.20 (20% of plasma entering glomeruli is filtered)",
+      "h" : 0.0102971574995252,
+      "w" : 0.31275719216784587,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1306584335048012,
+      "y" : 0.7274709300629845,
+      "text" : "[C] 0.50 (50% of renal blood flow)",
+      "h" : 0.010174418555365605,
+      "w" : 0.19547324510490371,
+      "conf" : 1
+    },
+    {
+      "x" : 0.16152263058127575,
+      "y" : 0.7158430232013081,
+      "text" : "[D] 0.80 (80% of plasma entering glomeruli)",
+      "h" : 0.010174418555365827,
+      "w" : 0.2530864019813777,
+      "conf" : 1
+    },
+    {
+      "x" : 0.12962962962962965,
+      "y" : 0.7042151161518896,
+      "text" : "[E] 0.05 (5% of glomerular blood)",
+      "h" : 0.010174418555365827,
+      "w" : 0.19341563578671628,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7283950562757202,
+      "y" : 0.7798546512684628,
+      "text" : "Q09. [2023 Exam] The Glomerular Ultrafiltration Coefficient (Kf) is a",
+      "h" : 0.01029069794548887,
+      "w" : 0.4362139911771571,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7263374528806583,
+      "y" : 0.7652616279796511,
+      "text" : "product of hydraulic conductivity and total surface area, averaging:",
+      "h" : 0.010174418555365716,
+      "w" : 0.4320987725407822,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5812757224622771,
+      "y" : 0.7506944446568333,
+      "text" : "[A] 1.25 mL\/min\/mmHg",
+      "h" : 0.010277777777777719,
+      "w" : 0.14197530686480453,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5751028819547326,
+      "y" : 0.7390374677808271,
+      "text" : "[B] 50 mL\/min\/mmHg",
+      "h" : 0.010297157499525311,
+      "w" : 0.12962962696387326,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.5812757219393003,
+      "y" : 0.7274709302870639,
+      "text" : "[C] 0.01 mL\/min\/mmHg",
+      "h" : 0.010174418555365605,
+      "w" : 0.14197530686480442,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.699588472633745,
+      "y" : 0.7158430232013081,
+      "text" : "[DJ 12.5 mL\/min\/mmHg (~400x higher than systemic capillaries)",
+      "h" : 0.010174418555365827,
+      "w" : 0.37860081030887627,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5771604915294926,
+      "y" : 0.7042151162548449,
+      "text" : "[E] 125 mL\/min\/mmHg",
+      "h" : 0.010174418555365716,
+      "w" : 0.13786007623252627,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.25514402914952,
+      "y" : 0.6583720927919668,
+      "text" : "Q03. [2023 Exam] Which Starling force is the PRIMARY driving force",
+      "h" : 0.011744186083475716,
+      "w" : 0.44032920981353185,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23251028175583013,
+      "y" : 0.6438888890893744,
+      "text" : "promoting glomerular ultrafiltration across the capillary wall?",
+      "h" : 0.011666666666666714,
+      "w" : 0.3950617088461822,
+      "conf" : 1
+    },
+    {
+      "x" : 0.17283950150891647,
+      "y" : 0.6286337209060078,
+      "text" : "[A] Bowman's space hydrostatic pressure (Pbs)",
+      "h" : 0.010174418555365605,
+      "w" : 0.27983537110142737,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1748971203017832,
+      "y" : 0.6177648582227919,
+      "text" : "[B] Glomerular capillary oncotic pressure (pi_gc)",
+      "h" : 0.011692505942450637,
+      "w" : 0.28395061372960884,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22736625028292196,
+      "y" : 0.6061111111739717,
+      "text" : "[C] Glomerular Capillary Hydrostatic Pressure (Pgc ~50-55 mmHg)",
+      "h" : 0.011666666666666603,
+      "w" : 0.38888888089162005,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1810699625514402,
+      "y" : 0.5937500000545057,
+      "text" : "[D] Peritubular capillary hydrostatic pressure (Ppc)",
+      "h" : 0.010277777777777719,
+      "w" : 0.29629629363053994,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1430041188957475,
+      "y" : 0.5820833331226162,
+      "text" : "[E] Renal interstitial oncotic pressure",
+      "h" : 0.01027777777777783,
+      "w" : 0.22016460490676593,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6965020550411523,
+      "y" : 0.6583720927919668,
+      "text" : "Q10. [2021 Exam] How do Angiotensin Il and Endothelin-1",
+      "h" : 0.011744186083475716,
+      "w" : 0.37242798235431407,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6800411539351852,
+      "y" : 0.643888889137824,
+      "text" : "pathologically reduce Kf and thereby decrease GFR?",
+      "h" : 0.011666666666666714,
+      "w" : 0.33950616128789546,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6697530849451304,
+      "y" : 0.6294121449212836,
+      "text" : "[A] By dilating the efferent arteriole to zero resistance",
+      "h" : 0.0117312653859456,
+      "w" : 0.3189300201224081,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6934156317558301,
+      "y" : 0.6177648579805439,
+      "text" : "[B] By dissolving the lamina densa of the basement membrane",
+      "h" : 0.011692505942450526,
+      "w" : 0.3662551304079451,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6563785959533608,
+      "y" : 0.6061111111981967,
+      "text" : "[C] By destroying all endothelial cell fenestrations",
+      "h" : 0.011666666666666603,
+      "w" : 0.29218105100235847,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6543209923868312,
+      "y" : 0.5944509041639836,
+      "text" : "[D] By stimulating massive podocyte cell division",
+      "h" : 0.011679586304558676,
+      "w" : 0.28395061372960895,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7335390890689302,
+      "y" : 0.582083333525255,
+      "text" : "[E] By causing contraction of mesangial cells, reducing filtration surface area",
+      "h" : 0.01027777777777783,
+      "w" : 0.4465020617599006,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24074073751714695,
+      "y" : 0.5363727394275104,
+      "text" : "Q04. [2022 Exam] In healthy individuals, the Oncotic Pressure in",
+      "h" : 0.011698966026306157,
+      "w" : 0.4115226313752948,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23456789624485608,
+      "y" : 0.5225290697129361,
+      "text" : "Bowman's Space (pi_bs) is conventionally assumed to be zero",
+      "h" : 0.010174418555365716,
+      "w" : 0.39917695147436366,
+      "conf" : 1
+    },
+    {
+      "x" : 0.0668724269890261,
+      "y" : 0.5101744187499999,
+      "text" : "because:",
+      "h" : 0.00872092988755957,
+      "w" : 0.06378600882284297,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20164609609053483,
+      "y" : 0.49416666683833,
+      "text" : "[A] Albumin is actively destroyed inside the urinary space",
+      "h" : 0.011666666666666714,
+      "w" : 0.33333333333333337,
+      "conf" : 1
+    },
+    {
+      "x" : 0.17901235054869669,
+      "y" : 0.48257105953458446,
+      "text" : "[B] Bowman's space contains pure distilled water",
+      "h" : 0.008746769693162681,
+      "w" : 0.29218105100235847,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19547325426954726,
+      "y" : 0.47165697687136626,
+      "text" : "[C] Parietal epithelial cells actively secrete sodium ions",
+      "h" : 0.010174418555365716,
+      "w" : 0.325102872068777,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25102880740740735,
+      "y" : 0.45857558122577524,
+      "text" : "[D] The normal filtration barrier is virtually impermeable to plasma proteins",
+      "h" : 0.010174418555365605,
+      "w" : 0.43621399117715703,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21707819543895726,
+      "y" : 0.44694767449127903,
+      "text" : "[E] Oncotic pressure can only exist in closed muscular arteries",
+      "h" : 0.010174418555365605,
+      "w" : 0.3683127397261326,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2623456865912206,
+      "y" : 0.41497093025678294,
+      "text" : "Q05. [2021 Exam) The Glomerular Capillary Hydrostatic Pressure (Pgc",
+      "h" : 0.010174418555365716,
+      "w" : 0.45473249903265034,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2582304582561727,
+      "y" : 0.4011272608389625,
+      "text" : "~50 mmHg) is significantly higher than systemic capillaries because:",
+      "h" : 0.011698966026306157,
+      "w" : 0.44650206175990076,
+      "conf" : 1
+    },
+    {
+      "x" : 0.258230460185185,
+      "y" : 0.38596253233545186,
+      "text" : "[A] Blood flows through the glomerulus under negative atmospheric pressure",
+      "h" : 0.0102971574995252,
+      "w" : 0.4506172803962756,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21090535572702315,
+      "y" : 0.37430555529471704,
+      "text" : "[B] Afferent arterioles branch directly from the thoracic duct",
+      "h" : 0.010277777777777719,
+      "w" : 0.3559670598252015,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23559670275205774,
+      "y" : 0.36263888869884797,
+      "text" : "[C] Glomerular capillaries are arranged in series with pulmonary veins",
+      "h" : 0.01027777777777783,
+      "w" : 0.4053497794289259,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23251028307613184,
+      "y" : 0.3502777780001894,
+      "text" : "[D] Mesangial cells constantly pump interstitial water into capillaries",
+      "h" : 0.011666666666666603,
+      "w" : 0.3991769514743637,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2355967128858024,
+      "y" : 0.3393217053822914,
+      "text" : "[E] Glomerular capillaries are positioned between two high-resistance",
+      "h" : 0.01031007766723635,
+      "w" : 0.40534977942892597,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7170781923096705,
+      "y" : 0.5356459948841479,
+      "text" : "Q11. [2025 Exam] In chronic diabetic nephropathy, thick hyaline",
+      "h" : 0.013152454694112081,
+      "w" : 0.40946499806530057,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7273662497170783,
+      "y" : 0.5225290697129361,
+      "text" : "deposition in the GBM and mesangium decreases GFR primarily by:",
+      "h" : 0.010174418555365716,
+      "w" : 0.4341563578671629,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6903292158093279,
+      "y" : 0.5079295867020777,
+      "text" : "[A] Causing loss of functional surface area and decreasing Kf",
+      "h" : 0.01030361758338083,
+      "w" : 0.360082302453383,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6851851792866942,
+      "y" : 0.4955878549591557,
+      "text" : "[B] Elevating Bowman's space oncotic pressure to 50 mmHg",
+      "h" : 0.011731265915764677,
+      "w" : 0.35390945050701395,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6543209847050755,
+      "y" : 0.4840116277131783,
+      "text" : "[C] Paralyzing the macula densa chemoreceptors",
+      "h" : 0.011627906163533597,
+      "w" : 0.29218105100235847,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6563785958847739,
+      "y" : 0.4724515504377183,
+      "text" : "[D] Preventing systemic hepatic albumin synthesis",
+      "h" : 0.01176356527540412,
+      "w" : 0.29629629363054,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6399176921810701,
+      "y" : 0.46080426371500177,
+      "text" : "[E] Increasing hydraulic conductivity 100-fold",
+      "h" : 0.011724805831909157,
+      "w" : 0.2633744725641215,
+      "conf" : 1
+    },
+    {
+      "x" : 0.728395054458162,
+      "y" : 0.41419573616387423,
+      "text" : "Q12. [2020 Exam] Acute bilateral ureteral obstruction (e.g., stone or",
+      "h" : 0.011724805831909157,
+      "w" : 0.436213991177157,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6800411579218105,
+      "y" : 0.4004166668625548,
+      "text" : "prostatic enlargement) decreases GFR primarily by:",
+      "h" : 0.010277777777777719,
+      "w" : 0.33950616128789557,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6923868349176954,
+      "y" : 0.38596253233545186,
+      "text" : "[A] Decreasing glomerular capillary hydrostatic pressure (Pgc)",
+      "h" : 0.0102971574995252,
+      "w" : 0.3641975210897578,
+      "conf" : 1
+    },
+    {
+      "x" : 0.710905345781893,
+      "y" : 0.3743055556307377,
+      "text" : "[B] Markedly increasing Bowman's Space Hydrostatic Pressure (Pbs)",
+      "h" : 0.010277777777777719,
+      "w" : 0.40123456079255104,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6049382739711933,
+      "y" : 0.3626388888441968,
+      "text" : "[C] Dilating the afferent arteriole",
+      "h" : 0.01027777777777783,
+      "w" : 0.18930040515443813,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6265432062071331,
+      "y" : 0.35027777770050594,
+      "text" : "[D] Decreasing plasma oncotic pressure",
+      "h" : 0.011666666666666714,
+      "w" : 0.23662550344407185,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6697530904578188,
+      "y" : 0.3393217053822914,
+      "text" : "[E] Completely dissolving the podocyte slit diaphragms",
+      "h" : 0.01031007766723635,
+      "w" : 0.32304526275058965,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2592592536522635,
+      "y" : 0.29219638251028324,
+      "text" : "Q06. [2020 Exam] The Hydrostatic Pressure in Bowman's Space (Pbs)",
+      "h" : 0.011718345748053638,
+      "w" : 0.44855964708628143,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2160493781378602,
+      "y" : 0.2798546512321256,
+      "text" : "normally opposes filtration and averages approximately:",
+      "h" : 0.01029069794548887,
+      "w" : 0.36625513040794516,
+      "conf" : 1
+    },
+    {
+      "x" : 0.0895061746570644,
+      "y" : 0.26375322997708583,
+      "text" : "[A] 15 to 18 mmHg",
+      "h" : 0.010284237331814161,
+      "w" : 0.11316871643066405,
+      "conf" : 1
+    },
+    {
+      "x" : 0.0895061746570644,
+      "y" : 0.25218023238856596,
+      "text" : "[B] 50 to 55 mmHg",
+      "h" : 0.010174418555365716,
+      "w" : 0.11316871643066405,
+      "conf" : 1
+    },
+    {
+      "x" : 0.0823045277366255,
+      "y" : 0.24055232562499995,
+      "text" : "[C] 0 to 2 mmHg",
+      "h" : 0.010174418555365605,
+      "w" : 0.09876542721154555,
+      "conf" : 1
+    },
+    {
+      "x" : 0.0895061746570644,
+      "y" : 0.22892441843507755,
+      "text" : "[D] 32 to 35 mmHg",
+      "h" : 0.010174418555365716,
+      "w" : 0.11316871643066405,
+      "conf" : 1
+    },
+    {
+      "x" : 0.0895061746570644,
+      "y" : 0.21735465115339492,
+      "text" : "[E] 80 to 90 mmHg",
+      "h" : 0.01029069794548887,
+      "w" : 0.11316871643066405,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7366255068587108,
+      "y" : 0.2921963825345082,
+      "text" : "Q13. [Facul Exam] Severe hypoalbuminemia in Nephrotic Syndrome or",
+      "h" : 0.011718345748053638,
+      "w" : 0.45267486572265625,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6759259300668723,
+      "y" : 0.27912790720959646,
+      "text" : "liver cirrhosis alters glomerular Starling forces by:",
+      "h" : 0.011744185553656639,
+      "w" : 0.33127570002333917,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6522633696844995,
+      "y" : 0.2637532298575252,
+      "text" : "[A] Increasing Pbs above systolic blood pressure",
+      "h" : 0.01028423786163335,
+      "w" : 0.2880658323659837,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6769547366769546,
+      "y" : 0.2521802326489824,
+      "text" : "[B] Completely abolishing glomerular capillary blood flow",
+      "h" : 0.010174418555365716,
+      "w" : 0.33333333333333326,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7201646019890263,
+      "y" : 0.2405523255571706,
+      "text" : "[C] Decreasing plasma oncotic pressure (pi_gc), tending to increase GFR",
+      "h" : 0.010174418555365716,
+      "w" : 0.4238682872844193,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6409464976337451,
+      "y" : 0.22892441858042628,
+      "text" : "[D] Constricting afferent arterioles selectively",
+      "h" : 0.010174418555365716,
+      "w" : 0.26543208188230893,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6286008270576131,
+      "y" : 0.21735465113073338,
+      "text" : "[E] Doubling the filtration fraction to 80%",
+      "h" : 0.010290697415669792,
+      "w" : 0.2407407220804466,
+      "conf" : 1
+    },
+    {
+      "x" : 0.248971198765432,
+      "y" : 0.1707848837754361,
+      "text" : "Q07. [2024 Exam] As blood traverses the glomerular capillary from",
+      "h" : 0.010174418555365605,
+      "w" : 0.42798350592079404,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21090535572702315,
+      "y" : 0.15695090421243318,
+      "text" : "afferent to efferent end, the Oncotic Pressure (pi_gc):",
+      "h" : 0.011679586304558676,
+      "w" : 0.3559670598252015,
+      "conf" : 1
+    },
+    {
+      "x" : 0.15946502479423852,
+      "y" : 0.1417151163517441,
+      "text" : "A Remains exactly constant at 15 mmg",
+      "h" : 0.010174418555365716,
+      "w" : 0.2530864019813778,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2448559723765431,
+      "y" : 0.1315277775612133,
+      "text" : "[B] Increases progressively from ~28 to ~36 mmHg due to fluid filtration",
+      "h" : 0.010277777777777719,
+      "w" : 0.4238682872844193,
+      "conf" : 1
+    },
+    {
+      "x" : 0.15432099170096011,
+      "y" : 0.11916666688677968,
+      "text" : "[C] Drops rapidly to zero at the midpoint",
+      "h" : 0.011666666666666714,
+      "w" : 0.24279835539044076,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18518519026063082,
+      "y" : 0.10828488379360451,
+      "text" : "[D] Falls to negative values due to albumin filtration",
+      "h" : 0.010174418555365716,
+      "w" : 0.3045267309032896,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1944444484825102,
+      "y" : 0.0951453487678744,
+      "text" : "[E] Fluctuates rhythmically with respiratory movements",
+      "h" : 0.01029069794548887,
+      "w" : 0.32304526275058965,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7181070028120711,
+      "y" : 0.17001937965846892,
+      "text" : "Q14. [Core Concept Filtration Equilibrium across the glomerular",
+      "h" : 0.011705426110161676,
+      "w" : 0.41563785001166964,
+      "conf" : 1
+    },
+    {
+      "x" : 0.588477365500686,
+      "y" : 0.15695090418664503,
+      "text" : "capillary occurs when:",
+      "h" : 0.011679585774739598,
+      "w" : 0.15637859608392302,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6769547381344306,
+      "y" : 0.14319444452944025,
+      "text" : "[A] Pge falls to zero before reaching the efferent arteriole",
+      "h" : 0.010277777777777719,
+      "w" : 0.33744855196970813,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7191358077417694,
+      "y" : 0.1315277775612133,
+      "text" : "[B] Bowman's space hydrostatic pressure equals mean arterial pressure",
+      "h" : 0.010277777777777719,
+      "w" : 0.4218107019580386,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6893004175582989,
+      "y" : 0.11916666688677968,
+      "text" : "[C] Urine output completely ceases during systemic exercise",
+      "h" : 0.011666666666666714,
+      "w" : 0.36213991177157046,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7366255201131686,
+      "y" : 0.10751937963424396,
+      "text" : "[D] Net Ultrafiltration Pressure reaches zero as pi_gc rises to equal (Pgc - Pbs)",
+      "h" : 0.011705426110161676,
+      "w" : 0.45679013234264443,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6965020548353911,
+      "y" : 0.0966569769137598,
+      "text" : "[E] Afferent and efferent arteriolar resistances become identical",
+      "h" : 0.010174418555365716,
+      "w" : 0.3765432009906887,
+      "conf" : 1
+    },
+    {
+      "x" : 0.3209876615226336,
+      "y" : 0.014573643611020815,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Boaroam Past Papers",
+      "h" : 0.017519379191928475,
+      "w" : 0.5761316647319674,
+      "conf" : 1
+    },
+    {
+      "x" : 0.8734567925154321,
+      "y" : 0.01966085278616625,
+      "text" : "Confidential Student Revision Bank",
+      "h" : 0.007344961166381836,
+      "w" : 0.19135801447262546,
+      "conf" : 1
+    }
+  ]
+}

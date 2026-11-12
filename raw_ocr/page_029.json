@@ -1,0 +1,989 @@
+{
+  "items" : [
+    {
+      "y" : 0.9774224804165389,
+      "w" : 0.5,
+      "h" : 0.013178294499715193,
+      "conf" : 1,
+      "x" : 0.2829218169495883,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 7 MCQ Masterclass"
+    },
+    {
+      "y" : 0.9651162791061046,
+      "w" : 0.47530864019813784,
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.27057613762860067,
+      "text" : "Twisted Medicine Medical Series • Glomerular Capillaries, Filtration Barrier & Mesangium"
+    },
+    {
+      "y" : 0.9760174419496079,
+      "w" : 0.06999821333015488,
+      "h" : 0.010310368008083826,
+      "conf" : 1,
+      "x" : 0.9341563794756591,
+      "text" : "Page 3 of 4"
+    },
+    {
+      "y" : 0.9651162791424419,
+      "w" : 0.24074074607225338,
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.8487654351080245,
+      "text" : "Standard Board & End-Module Practice Bank"
+    },
+    {
+      "y" : 0.9404069768410852,
+      "w" : 0.9053497314453125,
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.48559672290809275,
+      "text" : "Q29. [2025 Exam] The complete Blood-Renal Barrier (Filtration Barrier) Q36. [2024 Exam] Extraglomerular Mesangial Cells (also known as"
+    },
+    {
+      "y" : 0.9265374676645481,
+      "w" : 0.44032920981353185,
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "x" : 0.2530864153497943,
+      "text" : "separating capillary blood from Bowman's space consists of which 3"
+    },
+    {
+      "y" : 0.9265374678583466,
+      "w" : 0.38888888089162,
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "x" : 0.7026749036008229,
+      "text" : "Lacis cells or Cells of Goormaghtigh) are located within the:"
+    },
+    {
+      "y" : 0.9134722222604401,
+      "w" : 0.11934155638112962,
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.09053497743484232,
+      "text" : "structural layers?"
+    },
+    {
+      "y" : 0.9120833331556137,
+      "w" : 0.44238684312352594,
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.7294238627829219,
+      "text" : "[A] Triangular space bounded by the afferent arteriole, efferent arteriole, and"
+    },
+    {
+      "y" : 0.8983042638845755,
+      "w" : 0.37654320099068883,
+      "h" : 0.011724805831909157,
+      "conf" : 1,
+      "x" : 0.2191358087448557,
+      "text" : "[A] Capillary glycocalyx, elastic lamina, and tubular brush border"
+    },
+    {
+      "y" : 0.8997222221928274,
+      "w" : 0.20781892500583476,
+      "h" : 0.008888888623979407,
+      "conf" : 1,
+      "x" : 0.6121399211591219,
+      "text" : "macula densa at the vascular pole"
+    },
+    {
+      "y" : 0.8873611113193207,
+      "w" : 0.36213991177157034,
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2119341624142659,
+      "text" : "[B] Continuous endothelium, pericytes, and astrocyte end-feet"
+    },
+    {
+      "y" : 0.8887532299725929,
+      "w" : 0.38683127157343244,
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "x" : 0.7016460953703703,
+      "text" : "[B] Calyceal wall separating minor calyces from the renal sinus fat"
+    },
+    {
+      "y" : 0.8756944443510938,
+      "w" : 0.41358021670167555,
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.23765432615740725,
+      "text" : "[C] Parietal layer of Bowman's capsule, mesangium, and macula densa"
+    },
+    {
+      "y" : 0.877180232630814,
+      "w" : 0.3991769514743637,
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7078189366941012,
+      "text" : "[C] Subcapsular zone immediately beneath the fibrous renal capsule"
+    },
+    {
+      "y" : 0.8640374676645481,
+      "w" : 0.3991769514743637,
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "x" : 0.23045266824417035,
+      "text" : "[D] Endothelium, tunica media smooth muscle, and tunica adventitia"
+    },
+    {
+      "y" : 0.8655523256540698,
+      "w" : 0.4032921461189318,
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7098765499314127,
+      "text" : "[D] Medullary interstitium between the thin limbs of the loop of Henle"
+    },
+    {
+      "y" : 0.8516957361759866,
+      "w" : 0.4588477176690251,
+      "h" : 0.011724805831909046,
+      "conf" : 1,
+      "x" : 0.2602880601080248,
+      "text" : "[E] Fenestrated capillary endothelium, fused Glomerular Basement Membrane,"
+    },
+    {
+      "y" : 0.8539244186773256,
+      "w" : 0.46502056961539406,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7366255221536349,
+      "text" : "[E] Urinary space between the parietal and visceral layers of Bowman's capsule"
+    },
+    {
+      "y" : 0.8408430233284885,
+      "w" : 0.23045267548950965,
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.14814815198902598,
+      "text" : "and Podocyte filtration slit diaphragms"
+    },
+    {
+      "y" : 0.8110562015114422,
+      "w" : 0.43415635786716295,
+      "h" : 0.014554263750712004,
+      "conf" : 1,
+      "x" : 0.25000000716735227,
+      "text" : "Q30. [2024 Exam) Regarding size selectivity of the filtration barrier,"
+    },
+    {
+      "y" : 0.7994412144859491,
+      "w" : 0.4320987725407822,
+      "h" : 0.011673126220703156,
+      "conf" : 1,
+      "x" : 0.24897119060356665,
+      "text" : "which statement regarding molecular radius (effective diameter) is"
+    },
+    {
+      "y" : 0.7877906977713178,
+      "w" : 0.04732510128860953,
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.05658436292866938,
+      "text" : "TRUE?"
+    },
+    {
+      "y" : 0.7710755814680232,
+      "w" : 0.23868311276225923,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.1522633784636487,
+      "text" : "[A] Molecules < 0.5 nm blocked by pores"
+    },
+    {
+      "y" : 0.759447674491279,
+      "w" : 0.24691357402681557,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.15432099176954722,
+      "text" : "[B] Molecules 2-4 nm require pinocytosis"
+    },
+    {
+      "y" : 0.7478197672722868,
+      "w" : 0.24074072208044667,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.1512345677983539,
+      "text" : "[C] All molecules up to 10 nm filter 100%"
+    },
+    {
+      "y" : 0.7369412145343988,
+      "w" : 0.29423868431235256,
+      "h" : 0.011673126220703156,
+      "conf" : 1,
+      "x" : 0.17798354014917692,
+      "text" : "[D] Radius < 1.8 nm filters freely; > 4.2 nm blocked"
+    },
+    {
+      "y" : 0.7253219663432464,
+      "w" : 0.25739597824384586,
+      "h" : 0.011790463129679352,
+      "conf" : 1,
+      "x" : 0.15741665883253236,
+      "text" : "[E] Filtration depends only on lipid solubility"
+    },
+    {
+      "y" : 0.6860885014493504,
+      "w" : 0.45267486572265625,
+      "h" : 0.011711886194017085,
+      "conf" : 1,
+      "x" : 0.2592592528120716,
+      "text" : "Q31. [2023 Exam] Serum albumin has an effective molecular radius of"
+    },
+    {
+      "y" : 0.6722383720385174,
+      "w" : 0.4218107019580385,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.24382715522119353,
+      "text" : "~3.6 nm, yet less than 0.1% appears in the normal primary filtrate"
+    },
+    {
+      "y" : 0.6591569768350292,
+      "w" : 0.12551439633159517,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.095679013914609,
+      "text" : "primarily because:"
+    },
+    {
+      "y" : 0.644583333555536,
+      "w" : 0.3045267309032896,
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.18312756694101523,
+      "text" : "[A] Net negative charge repelled by GBM polyanions"
+    },
+    {
+      "y" : 0.6329295864598297,
+      "w" : 0.2654320818823088,
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.16358024248971206,
+      "text" : "[B] Retrograde vesicular transport into lumen"
+    },
+    {
+      "y" : 0.6213662791606105,
+      "w" : 0.23456789412588439,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.14814815108024681,
+      "text" : "[C] Degraded by endothelial peptidases"
+    },
+    {
+      "y" : 0.6104651161821706,
+      "w" : 0.27366254314686517,
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.16769546868998647,
+      "text" : "[D] Radius exceeds fenestral diameter (70 nm)"
+    },
+    {
+      "y" : 0.59817829459954,
+      "w" : 0.22222221422495333,
+      "h" : 0.01031007766723624,
+      "conf" : 1,
+      "x" : 0.13991769176954746,
+      "text" : "[E] Irreversible binding to hemoglobin"
+    },
+    {
+      "y" : 0.5588662790879362,
+      "w" : 0.4238682872844193,
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2448559723765431,
+      "text" : "Q32. [2022 Exam] When comparing the renal clearance of neutral,"
+    },
+    {
+      "y" : 0.5450193796584689,
+      "w" : 0.4485596470862814,
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "x" : 0.2551440403978049,
+      "text" : "cationic, and anionic Dextrans of identical molecular radius (e.g., 3.0"
+    },
+    {
+      "y" : 0.5319767441375969,
+      "w" : 0.03703703670381751,
+      "h" : 0.00872092988755968,
+      "conf" : 0.30000001192092896,
+      "x" : 0.049382715432098795,
+      "text" : "nm):"
+    },
+    {
+      "y" : 0.5181944443840913,
+      "w" : 0.2572016446095593,
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.1594650162894378,
+      "text" : "[A] Cationic filters most, anionic filters least"
+    },
+    {
+      "y" : 0.5065277776762812,
+      "w" : 0.26337447256412144,
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.16255144176954728,
+      "text" : "[B] Cationic precipitates at endothelial pores"
+    },
+    {
+      "y" : 0.4941666667414308,
+      "w" : 0.25102879266319034,
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "x" : 0.15637859663923198,
+      "text" : "[C] All dextrans filter at identical clearance"
+    },
+    {
+      "y" : 0.48328488389050384,
+      "w" : 0.2592592539277466,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.16049383113854582,
+      "text" : "[D] Neutral dextrans are completely blocked"
+    },
+    {
+      "y" : 0.4701453487678745,
+      "w" : 0.28395061372960884,
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "x" : 0.17283950972222212,
+      "text" : "[E] Anionic dextrans filter with highest clearance"
+    },
+    {
+      "y" : 0.8125000000484497,
+      "w" : 0.35596708381700815,
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "x" : 0.6882716079046639,
+      "text" : "Q37. [2023 Exam] In lgA Nephropathy (Berger Disease),"
+    },
+    {
+      "y" : 0.7994412144859491,
+      "w" : 0.41152263137529477,
+      "h" : 0.011673126220703156,
+      "conf" : 1,
+      "x" : 0.7119341565157751,
+      "text" : "immunofluorescence microscopy classically reveals diagnostic"
+    },
+    {
+      "y" : 0.786372739330611,
+      "w" : 0.2880658323659837,
+      "h" : 0.011698966026306157,
+      "conf" : 1,
+      "x" : 0.6522633792866939,
+      "text" : "deposition of lgA immune complexes in the:"
+    },
+    {
+      "y" : 0.7718023257751938,
+      "w" : 0.3991769514743637,
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.7078189289437584,
+      "text" : "[A] Parietal layer of Bowman's capsule in a continuous linear pattern"
+    },
+    {
+      "y" : 0.7594476743943799,
+      "w" : 0.4629629363054,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7376543132716051,
+      "text" : "[B] Glomerular mesangium in a granular pattern with associated mesangial cell"
+    },
+    {
+      "y" : 0.7478197675226956,
+      "w" : 0.07831395347163361,
+      "h" : 0.010663832558525876,
+      "conf" : 1,
+      "x" : 0.5473251041828497,
+      "text" : "proliferation"
+    },
+    {
+      "y" : 0.7369412148250964,
+      "w" : 0.3559670598252014,
+      "h" : 0.011673126220703156,
+      "conf" : 1,
+      "x" : 0.6862139895833334,
+      "text" : "[C] Loop of Henle thin descending limb basement membrane"
+    },
+    {
+      "y" : 0.7252777778459324,
+      "w" : 0.3168724108042208,
+      "h" : 0.008888888623979296,
+      "conf" : 1,
+      "x" : 0.6666666634979423,
+      "text" : "[D] Proximal convoluted tubule brush border microvilli"
+    },
+    {
+      "y" : 0.7136272608147377,
+      "w" : 0.36831273972613265,
+      "h" : 0.011698966026306268,
+      "conf" : 1,
+      "x" : 0.6903292242455417,
+      "text" : "[E] Endothelial glycocalyx of the arcuate and interlobar arteries"
+    },
+    {
+      "y" : 0.6868055556307376,
+      "w" : 0.35390945050701395,
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6851851792866942,
+      "text" : "Q38. [2022 Exam] Kimmelstiel-Wilson lesions (nodular"
+    },
+    {
+      "y" : 0.6722383721838663,
+      "w" : 0.37654320099068894,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6965020623199587,
+      "text" : "glomerulosclerosis) in advanced diabetic nephropathy are"
+    },
+    {
+      "y" : 0.659156976798692,
+      "w" : 0.20164609705127257,
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6111111136316871,
+      "text" : "characterized histologically by:"
+    },
+    {
+      "y" : 0.6445833331226162,
+      "w" : 0.41152263137529466,
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7139917764060354,
+      "text" : "[A] Marked atrophy and complete loss of all mesangial matrix proteins"
+    },
+    {
+      "y" : 0.6329295864779982,
+      "w" : 0.405349779428926,
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.7109053447273664,
+      "text" : "[B] Acellular, PAS-positive, spherical laminated nodular expansions of"
+    },
+    {
+      "y" : 0.6213662789970931,
+      "w" : 0.30864197353147116,
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6625514351851853,
+      "text" : "mesangial matrix in the periphery of glomerular tufts"
+    },
+    {
+      "y" : 0.6097383720203489,
+      "w" : 0.4485596470862814,
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7325102805898492,
+      "text" : "[C] Diffuse infiltration of the urinary space by polymorphonuclear neutrophils"
+    },
+    {
+      "y" : 0.5981782947267202,
+      "w" : 0.4238682872844193,
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "x" : 0.7201646143518518,
+      "text" : "[D] Focal rupture of the parietal layer with necrotizing crescent formation"
+    },
+    {
+      "y" : 0.586527777594211,
+      "w" : 0.4300411392307881,
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.7211934084705078,
+      "text" : "[E] Amyloid fibril deposition strictly localized to the efferent arteriolar wall"
+    },
+    {
+      "y" : 0.5588662790939922,
+      "w" : 0.38888888089162,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7047325167695471,
+      "text" : "Q39. [2021 Exam] Why does the normal Glomerular Capillary"
+    },
+    {
+      "y" : 0.5450193795131201,
+      "w" : 0.4609053509790193,
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "x" : 0.7386831198902609,
+      "text" : "Hydrostatic Pressure (Pgc ~50 mmHg) remain significantly higher than"
+    },
+    {
+      "y" : 0.531950904186645,
+      "w" : 0.2736625431468651,
+      "h" : 0.011679585774739487,
+      "conf" : 1,
+      "x" : 0.6450617277434842,
+      "text" : "systemic capillary pressure (~20 mmHg)?"
+    },
+    {
+      "y" : 0.5174289405025343,
+      "w" : 0.25102879266319034,
+      "h" : 0.00874676995807222,
+      "conf" : 1,
+      "x" : 0.6337448591049382,
+      "text" : "[A] Thoracic duct drains into urinary space"
+    },
+    {
+      "y" : 0.5065277775612134,
+      "w" : 0.3580246931351956,
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6893004159979423,
+      "text" : "[B] Situated between afferent and narrower efferent arterioles"
+    },
+    {
+      "y" : 0.4941666664054101,
+      "w" : 0.2386831127622593,
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "x" : 0.6296296267489713,
+      "text" : "[C] Active mesangial pumping into lumen"
+    },
+    {
+      "y" : 0.4832848838481104,
+      "w" : 0.2572016446095592,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6388888857767492,
+      "text" : "[D] Granular adrenaline constriction of loops"
+    },
+    {
+      "y" : 0.47087209291152754,
+      "w" : 0.24485596470862814,
+      "h" : 0.011744185553656639,
+      "conf" : 1,
+      "x" : 0.6306584402949245,
+      "text" : "[E] Retrograde venous valves in renal vein"
+    },
+    {
+      "y" : 0.43236111117731135,
+      "w" : 0.42592592059441325,
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.24588477898662542,
+      "text" : "Q33. [2021 Exam] Intraglomerular Mesangial Cells are specialized"
+    },
+    {
+      "y" : 0.4186111110528479,
+      "w" : 0.4238682872844192,
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.24485597050754446,
+      "text" : "stellate perivascular cells embedded in an amorphous matrix that"
+    },
+    {
+      "y" : 0.404069767383721,
+      "w" : 0.0576131688723774,
+      "h" : 0.00872092988755968,
+      "conf" : 0.30000001192092896,
+      "x" : 0.061728394485596715,
+      "text" : "оссиру:"
+    },
+    {
+      "y" : 0.3902616279796511,
+      "w" : 0.2181069955885785,
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.14197531227709176,
+      "text" : "[A] Surrounding Gerota's renal fascia"
+    },
+    {
+      "y" : 0.37863372087572683,
+      "w" : 0.22222221422495333,
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.1419753058641976,
+      "text" : "[B] Floating freely in Bowman's space"
+    },
+    {
+      "y" : 0.3670704135583388,
+      "w" : 0.23045267548950962,
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.1460905378600822,
+      "text" : "[C] Parietal layer of Bowman's capsule"
+    },
+    {
+      "y" : 0.35611111091062564,
+      "w" : 0.306584340221477,
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.18415637938957474,
+      "text" : "[D] Central stalk between capillary loops inside GBM"
+    },
+    {
+      "y" : 0.34445090416398355,
+      "w" : 0.24485596470862814,
+      "h" : 0.011679586304558565,
+      "conf" : 1,
+      "x" : 0.1532921851508915,
+      "text" : "[E] Luminal intravascular capillary valves"
+    },
+    {
+      "y" : 0.3052648581016678,
+      "w" : 0.4218107019580385,
+      "h" : 0.011692505942450637,
+      "conf" : 1,
+      "x" : 0.24382716576646074,
+      "text" : "Q34. [2020 Exam] Histologically and functionally, Intraglomerular"
+    },
+    {
+      "y" : 0.2914244185501453,
+      "w" : 0.4444444284499066,
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.25514402736625524,
+      "text" : "Mesangial Cells are considered modified vascular cells that possess:"
+    },
+    {
+      "y" : 0.27612726057248965,
+      "w" : 0.456790084359031,
+      "h" : 0.011698966026306157,
+      "conf" : 1,
+      "x" : 0.2592592595336076,
+      "text" : "[A] Contractile microfilaments (actin, myosin) with receptors for Angiotensin I|"
+    },
+    {
+      "y" : 0.2652616279796511,
+      "w" : 0.29629629363054,
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.17901235061728377,
+      "text" : "and Endothelin to modulate capillary surface area"
+    },
+    {
+      "y" : 0.25363372098473846,
+      "w" : 0.40329219410254524,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.23251029310699578,
+      "text" : "[B] Microvilli brush border specialized for active sodium reabsorption"
+    },
+    {
+      "y" : 0.24207041352200176,
+      "w" : 0.44238684312352594,
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.2520576186985595,
+      "text" : "[C] Skeletal muscle sarcomeres capable of voluntary conscious contraction"
+    },
+    {
+      "y" : 0.22969638263140735,
+      "w" : 0.4320987725407822,
+      "h" : 0.011718345748053638,
+      "conf" : 1,
+      "x" : 0.24691358744855946,
+      "text" : "[D] Abundant myelin sheaths for high-velocity nerve impulse transmission"
+    },
+    {
+      "y" : 0.21874999992732558,
+      "w" : 0.36831273972613254,
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.21296295682441724,
+      "text" : "[E] Endocrine storage granules filled with parathyroid hormone"
+    },
+    {
+      "y" : 0.1772642117310339,
+      "w" : 0.44032920981353185,
+      "h" : 0.01175064563751227,
+      "conf" : 1,
+      "x" : 0.2530864252572015,
+      "text" : "Q35. [2025 Exam] In addition to contractile structural support, which"
+    },
+    {
+      "y" : 0.16419573613964938,
+      "w" : 0.44650206175990076,
+      "h" : 0.011724805831909157,
+      "conf" : 1,
+      "x" : 0.25617283392489726,
+      "text" : "crucial defensive function is performed by Intraglomerular Mesangial"
+    },
+    {
+      "y" : 0.15116279064397103,
+      "w" : 0.04333513187912276,
+      "h" : 0.00903585751851399,
+      "conf" : 1,
+      "x" : 0.05452674825177598,
+      "text" : "Cells?"
+    },
+    {
+      "y" : 0.13596253228094596,
+      "w" : 0.4176954833216638,
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "x" : 0.23971193937757196,
+      "text" : "[A] Phagocytosis and endocytic clearance of trapped macromolecules,"
+    },
+    {
+      "y" : 0.1256944443692623,
+      "w" : 0.2839506137296089,
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.17489712407407393,
+      "text" : "proteins, and immune complexes from the GBM"
+    },
+    {
+      "y" : 0.11333333339885637,
+      "w" : 0.4485596470862815,
+      "h" : 0.008888888623979407,
+      "conf" : 1,
+      "x" : 0.25514402544581644,
+      "text" : "[B] Generation of action potentials to stimulate juxtaglomerular renin release"
+    },
+    {
+      "y" : 0.10169573601852527,
+      "w" : 0.4485596470862814,
+      "h" : 0.011724805831909157,
+      "conf" : 1,
+      "x" : 0.25514403017832654,
+      "text" : "[C] Active secretion of glomerular filtrate into the neck of the proximal tubule"
+    },
+    {
+      "y" : 0.08932170546551493,
+      "w" : 0.3518518411888267,
+      "h" : 0.010310077137417273,
+      "conf" : 1,
+      "x" : 0.20679012615740736,
+      "text" : "[D] Production of calcitriol (active 1,25-dihydroxyvitamin D3)"
+    },
+    {
+      "y" : 0.07776162785247104,
+      "w" : 0.40534977942892597,
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2335390895833335,
+      "text" : "[E] Synthesis of circulating systemic complement proteins C3 and C4"
+    },
+    {
+      "y" : 0.431666666898892,
+      "w" : 0.4300411392307881,
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.7253086473508229,
+      "text" : "Q40. [2020 Exam] Under the light microscope, the Parietal Layer of"
+    },
+    {
+      "y" : 0.4186111113193206,
+      "w" : 0.4176954833216636,
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.7191358076903291,
+      "text" : "Bowman's Capsule is distinguished from the Visceral Layer by its"
+    },
+    {
+      "y" : 0.4048546511307335,
+      "w" : 0.1563785960839229,
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "x" : 0.588477368861454,
+      "text" : "histology, consisting of:"
+    },
+    {
+      "y" : 0.3902616279505815,
+      "w" : 0.45267486572265625,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7366255189300411,
+      "text" : "[A] A simple squamous epithelium resting on a thin basal lamina, transitioning"
+    },
+    {
+      "y" : 0.37863372098473835,
+      "w" : 0.2181069955885785,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6172839533436214,
+      "text" : "to simple cuboidal at the urinary pole"
+    },
+    {
+      "y" : 0.3670704135401704,
+      "w" : 0.39711931816436963,
+      "h" : 0.01030361758338072,
+      "conf" : 1,
+      "x" : 0.7067901300754456,
+      "text" : "[B] Vascular endothelial cells with fenestrations lacking diaphragms"
+    },
+    {
+      "y" : 0.35541666649291365,
+      "w" : 0.38271602894525114,
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.7016460969135802,
+      "text" : "[C] Pseudostratified columnar ciliated epithelium with goblet cells"
+    },
+    {
+      "y" : 0.34445090416398355,
+      "w" : 0.40740741273892,
+      "h" : 0.011679586304558565,
+      "conf" : 1,
+      "x" : 0.711934163168724,
+      "text" : "[D] Transitional epithelium (urothelium) with superficial umbrella cells"
+    },
+    {
+      "y" : 0.3320833331044476,
+      "w" : 0.35185184118882673,
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6841563829989712,
+      "text" : "[E] Podocytes with interdigitating pedicels and filtration slits"
+    },
+    {
+      "y" : 0.3052648580289934,
+      "w" : 0.45679013234264443,
+      "h" : 0.011692505942450637,
+      "conf" : 1,
+      "x" : 0.738683133281893,
+      "text" : "Q41. [Faculty Exam] In Rapidly Progressive Glomerulonephritis (RPGN),"
+    },
+    {
+      "y" : 0.2914244185804263,
+      "w" : 0.456790084359031,
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7366255067901237,
+      "text" : "the hallmark histological finding of 'Crescents' filling Bowman's urinary"
+    },
+    {
+      "y" : 0.27754844932003364,
+      "w" : 0.2530864019813778,
+      "h" : 0.01176356527540423,
+      "conf" : 1,
+      "x" : 0.6347736624485598,
+      "text" : "space is formed by the proliferation of:"
+    },
+    {
+      "y" : 0.26236111107707266,
+      "w" : 0.434156357867163,
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.7273662618312756,
+      "text" : "[A] Parietal epithelial cells mixed with infiltrating monocytes, macrophages,"
+    },
+    {
+      "y" : 0.2514631782685223,
+      "w" : 0.10493826716201105,
+      "h" : 0.008740309874216812,
+      "conf" : 1,
+      "x" : 0.560699586728395,
+      "text" : "and fibrin strands"
+    },
+    {
+      "y" : 0.23903746768271666,
+      "w" : 0.3251028720687771,
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "x" : 0.6728395021090536,
+      "text" : "B] Intraglomerular capillary endothelial cells exclusively"
+    },
+    {
+      "y" : 0.22747093032340115,
+      "w" : 0.3662551304079451,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6934156424382715,
+      "text" : "[C] Erythrocytes and platelets clotted within the capillary lumen"
+    },
+    {
+      "y" : 0.21656976736918598,
+      "w" : 0.3497942318706392,
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.6851851808127574,
+      "text" : "[D] Peritubular fibroblasts and vascular smooth muscle cells"
+    },
+    {
+      "y" : 0.2056944445112716,
+      "w" : 0.37242798235431396,
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6944444490997941,
+      "text" : "[E] Visceral podocytes and juxtaglomerular renin-secreting cells"
+    },
+    {
+      "y" : 0.1780523256722384,
+      "w" : 0.44238684312352594,
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7314814870113169,
+      "text" : "Q42. [Core Concept] Which vasoactive mediator causes relaxation of"
+    },
+    {
+      "y" : 0.16419573640612223,
+      "w" : 0.4485596470862815,
+      "h" : 0.011724805831909157,
+      "conf" : 1,
+      "x" : 0.7325102908093277,
+      "text" : "mesangial cells, thereby increasing glomerular filtration surface area"
+    },
+    {
+      "y" : 0.1511272606693888,
+      "w" : 0.3271604813869644,
+      "h" : 0.011698966026306157,
+      "conf" : 1,
+      "x" : 0.6718106941358026,
+      "text" : "and augmenting the ultrafiltration coefficient (Kf)?"
+    },
+    {
+      "y" : 0.13596253235811345,
+      "w" : 0.2016460730594659,
+      "h" : 0.010297158029344389,
+      "conf" : 1,
+      "x" : 0.609053496021948,
+      "text" : "[A] Angiotensin Il and Endothelin-1"
+    },
+    {
+      "y" : 0.12499999995155031,
+      "w" : 0.32921809070515173,
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "x" : 0.6728395006858712,
+      "text" : "[B] Platelet-Derived Growth Factor (PDGF) and Serotonin"
+    },
+    {
+      "y" : 0.11333333325507106,
+      "w" : 0.23868311276225918,
+      "h" : 0.008888889153798485,
+      "conf" : 1,
+      "x" : 0.6275720194444443,
+      "text" : "[C] Thromboxane A2 and Leukotriene C4"
+    },
+    {
+      "y" : 0.10174741603998988,
+      "w" : 0.3497942318706393,
+      "h" : 0.0087273899714152,
+      "conf" : 1,
+      "x" : 0.6831275661865571,
+      "text" : "[D] Vasopressin (Antidiuretic Hormone) and Norepinephrine"
+    },
+    {
+      "y" : 0.08932170542312151,
+      "w" : 0.32921809070515184,
+      "h" : 0.010310077137417273,
+      "conf" : 1,
+      "x" : 0.6728395115912208,
+      "text" : "[E] Atrial Natriuretic Peptide (ANP) and Nitric Oxide (NO)"
+    },
+    {
+      "y" : 0.013808139704457434,
+      "w" : 0.5699588127855985,
+      "h" : 0.015988371107313326,
+      "conf" : 1,
+      "x" : 0.31790124406721504,
+      "text" : "Twisted Medicine • Renal Histology Master Class - Strictly Grounded in Faculty & Board Eye Past Papers"
+    },
+    {
+      "y" : 0.017428940489640388,
+      "w" : 0.19135801447262557,
+      "h" : 0.008746769693162681,
+      "conf" : 1,
+      "x" : 0.8734567877314816,
+      "text" : "Confidential Student Revision Bank"
+    }
+  ],
+  "page" : 29
+}

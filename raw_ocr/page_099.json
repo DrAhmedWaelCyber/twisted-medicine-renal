@@ -1,0 +1,965 @@
+{
+  "items" : [
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.2685185108024694,
+      "y" : 0.9818055555190094,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 26 MCQ Masterclass",
+      "w" : 0.46296293630540003
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.303497951200274,
+      "y" : 0.9709302326065892,
+      "conf" : 1,
+      "text" : "Twisted Medicine Medical Series • UPEC, Pyelonephritis, Cystitis, CAUTI & Renal TB • Standard Practice Bank",
+      "w" : 0.528806578438237
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.9259259252263375,
+      "y" : 0.9818055554705598,
+      "conf" : 1,
+      "text" : "Page 1 of 4",
+      "w" : 0.06995884877330849
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.4999999929012347,
+      "y" : 0.9411337208757267,
+      "conf" : 1,
+      "text" : "26. URINARY TRACT INFECTIONS - MICROBIOLOGY & PATHOLOGY LECTURE",
+      "w" : 0.5679012274592177
+    },
+    {
+      "h" : 0.008888888623979296,
+      "x" : 0.49794237908093314,
+      "y" : 0.9258333333988564,
+      "conf" : 1,
+      "text" : "Twisted Medicine Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "w" : 0.46502056961539406
+    },
+    {
+      "h" : 0.011679586304558565,
+      "x" : 0.49794238648834027,
+      "y" : 0.9055490956906675,
+      "conf" : 1,
+      "text" : "Q01. [2025 Exam] In microbiological terms, what quantitative colony Q08. 2022 Exam] Which microorganism is the single most common",
+      "w" : 0.8930041235198015
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.25617283433641985,
+      "y" : 0.8931944443659228,
+      "conf" : 1,
+      "text" : "count obtained from a clean-catch midstream urine void defines",
+      "w" : 0.41358021670167555
+    },
+    {
+      "h" : 0.011705426110161676,
+      "x" : 0.7139917671810698,
+      "y" : 0.8924806202930815,
+      "conf" : 1,
+      "text" : "causative pathogen of both uncomplicated community-acquired",
+      "w" : 0.41152263137529477
+    },
+    {
+      "h" : 0.011731265915764677,
+      "x" : 0.22633744266117992,
+      "y" : 0.8794121449923946,
+      "conf" : 1,
+      "text" : "'Significant Bacteriuria' in an asymptomatic individual?",
+      "w" : 0.35390945050701406
+    },
+    {
+      "h" : 0.0117312653859456,
+      "x" : 0.6532921784979424,
+      "y" : 0.8794121449212836,
+      "conf" : 1,
+      "text" : "cystitis and acute pyelonephritis (~80-90%)?",
+      "w" : 0.29012344168417115
+    },
+    {
+      "h" : 0.010297157499525311,
+      "x" : 0.15843621762688606,
+      "y" : 0.864037467809897,
+      "conf" : 1,
+      "text" : "[A] >= 10^2 CFU\/mL of any skin flora",
+      "w" : 0.21810699558857854
+    },
+    {
+      "h" : 0.010297157499525311,
+      "x" : 0.5864197550925925,
+      "y" : 0.8640374678280656,
+      "conf" : 1,
+      "text" : "[A] Klebsiella pneumoniae",
+      "w" : 0.16049382671620116
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.19238683485082295,
+      "y" : 0.8524709302870639,
+      "conf" : 1,
+      "text" : "[B] >= 10^5 CFU\/mL of a single bacterial species",
+      "w" : 0.2860082230477963
+    },
+    {
+      "h" : 0.0087273899714152,
+      "x" : 0.5936214013631687,
+      "y" : 0.8517474161611138,
+      "conf" : 1,
+      "text" : "[B] Pseudomonas aeruginosa",
+      "w" : 0.17489711593531965
+    },
+    {
+      "h" : 0.01031007766723624,
+      "x" : 0.18827160841049376,
+      "y" : 0.8393217054186286,
+      "conf" : 1,
+      "text" : "[C] Any detectable bacteria regardless of count",
+      "w" : 0.27777776178324
+    },
+    {
+      "h" : 0.01031007766723624,
+      "x" : 0.6296296320987655,
+      "y" : 0.83932170540046,
+      "conf" : 1,
+      "text" : "[C] Uropathogenic Escherichia coli (UPEC)",
+      "w" : 0.24691357402681546
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.2037037075617283,
+      "y" : 0.8277616279614826,
+      "conf" : 1,
+      "text" : "[D] Exactly 10^4 CFU\/mL of polymicrobial organisms",
+      "w" : 0.3086419735314711
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.5679012366255144,
+      "y" : 0.8284883721414729,
+      "conf" : 1,
+      "text" : "[D] Proteus mirabilis",
+      "w" : 0.12345678701340779
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.2078189353223592,
+      "y" : 0.814680232630814,
+      "conf" : 1,
+      "text" : "[E] >= 10^7 CFU\/mL accompanied by heavy hematuria",
+      "w" : 0.3168724108042207
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.6059670801851851,
+      "y" : 0.8154069768023255,
+      "conf" : 1,
+      "text" : "[E] Staphylococcus saprophyticus",
+      "w" : 0.19958847573718186
+    },
+    {
+      "h" : 0.011686046388414195,
+      "x" : 0.2674897082990399,
+      "y" : 0.800843023104614,
+      "conf" : 1,
+      "text" : "Q02. [2024 Exam] Regarding the normal microbiology of the human",
+      "w" : 0.4320987725407823
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.6851851896090533,
+      "y" : 0.8001388888078595,
+      "conf" : 1,
+      "text" : "Q09. [2023 Exam] Which virulence factor possessed by",
+      "w" : 0.35390945050701406
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.24691357530864205,
+      "y" : 0.7870833331192766,
+      "conf" : 1,
+      "text" : "urinary tract, which of the following anatomical statements is",
+      "w" : 0.3950617088461822
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6975308705075444,
+      "y" : 0.787083333282794,
+      "conf" : 1,
+      "text" : "Uropathogenic E. coli (UPEC) mediates initial adherence to",
+      "w" : 0.37860081030887627
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.7253086492112482,
+      "y" : 0.7740277777880095,
+      "conf" : 1,
+      "text" : "mannosylated uroplakin proteins on superficial bladder facet cells?",
+      "w" : 0.4341563578671631
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.2726337504372427,
+      "y" : 0.7594476744731105,
+      "conf" : 1,
+      "text" : "[A] Bladder urine and the upper tract are normally sterile; the anterior urethra",
+      "w" : 0.4465020617599007
+    },
+    {
+      "h" : 0.00874031013912624,
+      "x" : 0.16769547328532236,
+      "y" : 0.7485368216474726,
+      "conf" : 1,
+      "text" : "contains normal resident commensals",
+      "w" : 0.23662550344407185
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.2427983546639231,
+      "y" : 0.7347383719234497,
+      "conf" : 1,
+      "text" : "[B] The ureteral lumens are lined by permanent protective biofilms",
+      "w" : 0.38683127157343256
+    },
+    {
+      "h" : 0.01031007766723635,
+      "x" : 0.2613168671296298,
+      "y" : 0.7231782946177086,
+      "conf" : 1,
+      "text" : "[C] The posterior urethra is heavily populated with anaerobic Bacteroides",
+      "w" : 0.4238682872844192
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.2685185232767489,
+      "y" : 0.7115277777940656,
+      "conf" : 1,
+      "text" : "[D] Normal voided urine frequently contains >10^5 CFU\/mL of resident flora",
+      "w" : 0.43827157650353776
+    },
+    {
+      "h" : 0.010297157499525311,
+      "x" : 0.26131686818930044,
+      "y" : 0.6984625322191729,
+      "conf" : 1,
+      "text" : "[E] The renal pelvis is normally colonized by Gram-negative enteric bacilli",
+      "w" : 0.42386828728441917
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.26234568604252373,
+      "y" : 0.6838662791908916,
+      "conf" : 1,
+      "text" : "Q03. [2023 Exam] Asymptomatic Bacteriuria is very common and",
+      "w" : 0.42181070195803855
+    },
+    {
+      "h" : 0.011705426110161676,
+      "x" : 0.25925926450617276,
+      "y" : 0.6700193796342441,
+      "conf" : 1,
+      "text" : "generally does NOT require treatment EXCEPT in which high-risk",
+      "w" : 0.4197530686480444
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6718106958504801,
+      "y" : 0.7594476745881784,
+      "conf" : 1,
+      "text" : "[A] Type 1 (Mannose-Sensitive) Fimbriae (FimH adhesin)",
+      "w" : 0.33127570002333917
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.6244855996656378,
+      "y" : 0.7470930233284884,
+      "conf" : 1,
+      "text" : "[B] Pyelonephritis-associated P-fimbriae",
+      "w" : 0.23662550344407185
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.6193415666152262,
+      "y" : 0.7347383721838663,
+      "conf" : 1,
+      "text" : "[C] Vi capsular polysaccharide antigen",
+      "w" : 0.22633743286132812
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6563785970679012,
+      "y" : 0.7216569766896803,
+      "conf" : 1,
+      "text" : "[DJ Exotoxin A inhibiting protein elongation factor-2",
+      "w" : 0.30041151226691476
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6687242830864196,
+      "y" : 0.7100290698401162,
+      "conf" : 1,
+      "text" : "[E] Lecithinase C dissolving basement membrane lipids",
+      "w" : 0.32510287206877697
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.22016461474622753,
+      "y" : 0.6417151164001937,
+      "conf" : 1,
+      "text" : "[A] Well-controlled young diabetics without complications",
+      "w" : 0.34156377060608295
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.26337449094650195,
+      "y" : 0.6301388889680374,
+      "conf" : 1,
+      "text" : "[B] Pregnant women, prior to urologic procedures with bleeding, and early",
+      "w" : 0.42798350592079404
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.1131687264060356,
+      "y" : 0.6184722220361478,
+      "conf" : 1,
+      "text" : "post-renal transplant",
+      "w" : 0.12757201764568593
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.1923868265089165,
+      "y" : 0.6054166669258335,
+      "conf" : 1,
+      "text" : "[C] Patients with stable chronic spinal cord injury",
+      "w" : 0.28600822304779633
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.21707819489026048,
+      "y" : 0.5937500000726744,
+      "conf" : 1,
+      "text" : "[D] Premenopausal non-pregnant sexually active females",
+      "w" : 0.33539094265152075
+    },
+    {
+      "h" : 0.011666666666666603,
+      "x" : 0.17283951028806568,
+      "y" : 0.581388888850253,
+      "conf" : 1,
+      "text" : "[E] Healthy elderly men with mild nocturia",
+      "w" : 0.24691357402681552
+    },
+    {
+      "h" : 0.011731265915764677,
+      "x" : 0.2397119389231823,
+      "y" : 0.5669121447985963,
+      "conf" : 1,
+      "text" : "Q04. [2022 Exam] Which constellation of clinical signs and",
+      "w" : 0.3765432009906889
+    },
+    {
+      "h" : 0.011757105721367789,
+      "x" : 0.2654321041666665,
+      "y" : 0.5538436696190334,
+      "conf" : 1,
+      "text" : "symptoms is characteristic of Lower Urinary Tract Infection (Acute",
+      "w" : 0.4320987725407822
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.2726337504372427,
+      "y" : 0.5254166668443863,
+      "conf" : 1,
+      "text" : "[A] High fever (>38.5 C), shaking rigors, and costovertebral angle tenderness",
+      "w" : 0.4465020617599007
+    },
+    {
+      "h" : 0.011673126220703045,
+      "x" : 0.24074074711934132,
+      "y" : 0.5130587854171517,
+      "conf" : 1,
+      "text" : "[B] Severe loin-to-groin spasmodic colicky pain with normal urine",
+      "w" : 0.38271602894525103
+    },
+    {
+      "h" : 0.010824695163302978,
+      "x" : 0.08539094530319837,
+      "y" : 0.5007267441025263,
+      "conf" : 1,
+      "text" : "microscopy",
+      "w" : 0.07219490914974572
+    },
+    {
+      "h" : 0.010297157499525311,
+      "x" : 0.24588477857510277,
+      "y" : 0.48903746779172835,
+      "conf" : 1,
+      "text" : "[C] Bilateral pitting pedal edema and massive selective albuminuria",
+      "w" : 0.3930040995279948
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.27160494567901206,
+      "y" : 0.47747093030523263,
+      "conf" : 1,
+      "text" : "[D] Dysuria, urgency, urinary frequency, and suprapubic pain WITHOUT fever",
+      "w" : 0.4444444284499066
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.08847736755829899,
+      "y" : 0.46511627916666665,
+      "conf" : 1,
+      "text" : "or flank pain",
+      "w" : 0.07818929804196147
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.2088477419410149,
+      "y" : 0.4527616280281008,
+      "conf" : 1,
+      "text" : "[E] Painless gross hematuria with palpable flank mass",
+      "w" : 0.3189300201224081
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.24691358415637857,
+      "y" : 0.4381944443401926,
+      "conf" : 1,
+      "text" : "Q05. [2021 Exam] Which clinical feature or laboratory finding",
+      "w" : 0.3909464902098074
+    },
+    {
+      "h" : 0.011673126220703045,
+      "x" : 0.2561728446759258,
+      "y" : 0.424441214752422,
+      "conf" : 1,
+      "text" : "definitively distinguishes Acute Pyelonephritis (Upper UTI) from",
+      "w" : 0.41358021670167555
+    },
+    {
+      "h" : 0.011698966026306157,
+      "x" : 0.15329218453360755,
+      "y" : 0.4113727393306112,
+      "conf" : 1,
+      "text" : "uncomplicated Acute Cystitis?",
+      "w" : 0.20781892500583476
+    },
+    {
+      "h" : 0.011627906163533597,
+      "x" : 0.2170781948216734,
+      "y" : 0.39680232538759697,
+      "conf" : 1,
+      "text" : "[A] Spontaneous relief of symptoms upon bladder voiding",
+      "w" : 0.33539094265152075
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.19650206129115216,
+      "y" : 0.3844476745094476,
+      "conf" : 1,
+      "text" : "[B] Presence of urinary frequency and mild dysuria",
+      "w" : 0.29423868431235256
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.2037037075617283,
+      "y" : 0.3728197674963662,
+      "conf" : 1,
+      "text" : "[C] Positive urine dipstick test for leukocyte esterase",
+      "w" : 0.3086419735314711
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.1748971224794238,
+      "y" : 0.35973837218386634,
+      "conf" : 1,
+      "text" : "[DJ Grossly turbid urine with ammonia odor",
+      "w" : 0.25102879266319034
+    },
+    {
+      "h" : 0.01031007766723635,
+      "x" : 0.2716049438786007,
+      "y" : 0.34817829476305734,
+      "conf" : 1,
+      "text" : "[E] Fever, chills, costovertebral angle (CVA) tenderness, and White Blood Cell",
+      "w" : 0.4485596470862814
+    },
+    {
+      "h" : 0.010295744472079704,
+      "x" : 0.08641975212673,
+      "y" : 0.3364825582333809,
+      "conf" : 1,
+      "text" : "(WBC) casts",
+      "w" : 0.07822075130054784
+    },
+    {
+      "h" : 0.011750645637512158,
+      "x" : 0.26748971733539084,
+      "y" : 0.3227357883779776,
+      "conf" : 1,
+      "text" : "Q06. [2020 Exam] What is the primary anatomical route of infection",
+      "w" : 0.4320987725407822
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.2726337504372427,
+      "y" : 0.3088662791606104,
+      "conf" : 1,
+      "text" : "in more than 95% of both community-acquired and hospital-acquired",
+      "w" : 0.4465020617599007
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.12860082191358027,
+      "y" : 0.29430555537366054,
+      "conf" : 1,
+      "text" : "urinary tract infections?",
+      "w" : 0.15843620540211034
+    },
+    {
+      "h" : 0.010290697415669792,
+      "x" : 0.24176955213477352,
+      "y" : 0.2798546511125649,
+      "conf" : 1,
+      "text" : "[A] Direct transmural lymphatic spread from the descending colon",
+      "w" : 0.3847736622552451
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.23148148233882027,
+      "y" : 0.26819444462633946,
+      "conf" : 1,
+      "text" : "[B] Retrograde transmission from infected prostate secretions",
+      "w" : 0.3641975210897578
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.2726337504372427,
+      "y" : 0.25513888900437476,
+      "conf" : 1,
+      "text" : "[C] Ascending infection of fecal flora from perineum through the urethra into",
+      "w" : 0.4465020617599007
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.2242798397633744,
+      "y" : 0.23180555559773997,
+      "conf" : 1,
+      "text" : "[D] Direct extension from acute pelvic inflammatory disease",
+      "w" : 0.34979423187063924
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.2273662610768174,
+      "y" : 0.21875000007267442,
+      "conf" : 1,
+      "text" : "[E] Direct hematogenous seeding from distant skin furuncles",
+      "w" : 0.3559670598252015
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.23559671395747578,
+      "y" : 0.2042151163517441,
+      "conf" : 1,
+      "text" : "Q07. [2024 Exam] Why are adult females ~30 times more",
+      "w" : 0.3683127397261326
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.25617283433641985,
+      "y" : 0.19113372083938945,
+      "conf" : 1,
+      "text" : "susceptible to uncomplicated UTIs than males of the same age?",
+      "w" : 0.41358021670167555
+    },
+    {
+      "h" : 0.010297157499525311,
+      "x" : 0.2232510331532921,
+      "y" : 0.17653746779172835,
+      "conf" : 1,
+      "text" : "[A] Total absence of secretory lgA along female urothelium",
+      "w" : 0.34773662255245186
+    },
+    {
+      "h" : 0.011724805831909157,
+      "x" : 0.20781892475994526,
+      "y" : 0.16419573616387423,
+      "conf" : 1,
+      "text" : "[B] Frequent reflux of pelvic venous blood into bladder",
+      "w" : 0.3168724108042207
+    },
+    {
+      "h" : 0.01031007766723635,
+      "x" : 0.19753086913580228,
+      "y" : 0.15182170540045997,
+      "conf" : 1,
+      "text" : "[C] Production of acidic urine dissolving the barrier",
+      "w" : 0.29629629363054
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.20267490222908077,
+      "y" : 0.13953488376937973,
+      "conf" : 1,
+      "text" : "[D] Incompetence of vesicoureteral valves in women",
+      "w" : 0.306584340221477
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.23456790740740718,
+      "y" : 0.12718023263081402,
+      "conf" : 1,
+      "text" : "[E] Short urethra (~4 cm) near the anus, plus sexual intercourse",
+      "w" : 0.37037034904432
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.7283950562242798,
+      "y" : 0.6838662790152616,
+      "conf" : 1,
+      "text" : "Q10. [2021 Exam] What specialized virulence factor enables specific",
+      "w" : 0.44032920981353174
+    },
+    {
+      "h" : 0.011705426110161676,
+      "x" : 0.7150205691700964,
+      "y" : 0.6700193795131201,
+      "conf" : 1,
+      "text" : "uropathogenic E. coli strains to ascend the ureters and adhere to",
+      "w" : 0.4176954353380503
+    },
+    {
+      "h" : 0.011679586304558676,
+      "x" : 0.6985596755915635,
+      "y" : 0.6569509042245456,
+      "conf" : 1,
+      "text" : "renal tubular epithelial cells, causing Acute Pyelonephritis?",
+      "w" : 0.38477366225524523
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.6059670815157749,
+      "y" : 0.6417151164001937,
+      "conf" : 1,
+      "text" : "[A] Staphylococcal enterotoxin B",
+      "w" : 0.19958847573718186
+    },
+    {
+      "h" : 0.0117312653859456,
+      "x" : 0.6213991807956103,
+      "y" : 0.6294121448243842,
+      "conf" : 1,
+      "text" : "[B] Secretory component of human IgA",
+      "w" : 0.23045267548950965
+    },
+    {
+      "h" : 0.01030361758338083,
+      "x" : 0.61213992034465,
+      "y" : 0.6170704135583389,
+      "conf" : 1,
+      "text" : "[C] M-protein resisting opsonization",
+      "w" : 0.21193414364220964
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.7283950543209878,
+      "y" : 0.6054166668773838,
+      "conf" : 1,
+      "text" : "[D] P-fimbriae (Pap pili) binding to Gal(alpha 1-4)Gal digalactoside receptors",
+      "w" : 0.4444444284499066
+    },
+    {
+      "h" : 0.010290697945488758,
+      "x" : 0.6604938286008231,
+      "y" : 0.592354651153395,
+      "conf" : 1,
+      "text" : "[E] Pertussis-like toxin stimulating adenylate cyclase",
+      "w" : 0.30864197353147116
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.7273662606224278,
+      "y" : 0.5676388889680374,
+      "conf" : 1,
+      "text" : "Q11. [2025 Exam] What is the primary role of the capsular K-antigen",
+      "w" : 0.43827157650353765
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6862139857681757,
+      "y" : 0.5530523255571707,
+      "conf" : 1,
+      "text" : "in Uropathogenic E. coli strains causing pyelonephritis?",
+      "w" : 0.3600823024533829
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.6574074124485596,
+      "y" : 0.538472222405789,
+      "conf" : 1,
+      "text" : "[A] Cleaving host secretory antibodies in the lumen",
+      "w" : 0.3024691215851022
+    },
+    {
+      "h" : 0.01031007766723624,
+      "x" : 0.6584362192043893,
+      "y" : 0.52682170540046,
+      "conf" : 1,
+      "text" : "[B] Binding specifically to beta-adrenergic receptors",
+      "w" : 0.3127571921678459
+    },
+    {
+      "h" : 0.01028423786163335,
+      "x" : 0.6934156416049382,
+      "y" : 0.5137532299544243,
+      "conf" : 1,
+      "text" : "[C] Resisting complement bactericidal activity and phagocytosis",
+      "w" : 0.3744855916725014
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6574074111882715,
+      "y" : 0.5021802326489826,
+      "conf" : 1,
+      "text" : "[D] Synthesizing calcium oxalate crystals in tubules",
+      "w" : 0.3024691215851023
+    },
+    {
+      "h" : 0.01175064563751227,
+      "x" : 0.6646090484910838,
+      "y" : 0.4897642118521579,
+      "conf" : 1,
+      "text" : "[E] Hydrolyzing urea to create an alkaline environment",
+      "w" : 0.3168724108042208
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6913580292695474,
+      "y" : 0.43819444438743094,
+      "conf" : 1,
+      "text" : "Q12. [2020 Exam] Alpha-Hemolysin produced by virulent",
+      "w" : 0.3662551304079452
+    },
+    {
+      "h" : 0.011673126220703045,
+      "x" : 0.722222225445816,
+      "y" : 0.4244412144859492,
+      "conf" : 1,
+      "text" : "uropathogenic E. coli strains promotes parenchymal renal damage",
+      "w" : 0.4279835059207939
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.5185185181069958,
+      "y" : 0.41133720925387607,
+      "conf" : 1,
+      "text" : "by:",
+      "w" : 0.024691356802886477
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.6841563845336074,
+      "y" : 0.39752906984011627,
+      "conf" : 1,
+      "text" : "[A] Directly phosphorylating ENaC channels in principal cells",
+      "w" : 0.3559670598252015
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.7211934210133744,
+      "y" : 0.3844476745094476,
+      "conf" : 1,
+      "text" : "[B] Creating transmembrane pores that lyse host red blood cells and renal",
+      "w" : 0.4300411392307881
+    },
+    {
+      "h" : 0.011711886194017196,
+      "x" : 0.573045265260631,
+      "y" : 0.3735885015462496,
+      "conf" : 1,
+      "text" : "tubular epithelial cells",
+      "w" : 0.13374484560024813
+    },
+    {
+      "h" : 0.01028423786163335,
+      "x" : 0.6769547359259258,
+      "y" : 0.3612467701909245,
+      "conf" : 1,
+      "text" : "[C] Converting tubular bicarbonate into carbon dioxide gas",
+      "w" : 0.3415637706060828
+    },
+    {
+      "h" : 0.01031007766723635,
+      "x" : 0.6666666611796983,
+      "y" : 0.3481782946479896,
+      "conf" : 1,
+      "text" : "[D] Inhibiting mitochondrial ATP synthesis in podocytes",
+      "w" : 0.32921809070515173
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.7160493775205763,
+      "y" : 0.3365277776123796,
+      "conf" : 1,
+      "text" : "[E] Degrading Tamm-Horsfall mucoprotein in medullary collecting ducts",
+      "w" : 0.41563785001166964
+    },
+    {
+      "h" : 0.013730843861897823,
+      "x" : 0.7242872573851586,
+      "y" : 0.32215876638816315,
+      "conf" : 1,
+      "text" : "Q13. [Faculty Exam] On selective and differential MacConkey Agar,",
+      "w" : 0.4322493451196443
+    },
+    {
+      "h" : 0.01173126538594571,
+      "x" : 0.7253086346707822,
+      "y" : 0.3080878551756157,
+      "conf" : 1,
+      "text" : "colonies of Escherichia coli isolated from a urine specimen typically",
+      "w" : 0.43827157650353765
+    },
+    {
+      "h" : 0.008888889153798374,
+      "x" : 0.5432098777091907,
+      "y" : 0.2936111112110906,
+      "conf" : 1,
+      "text" : "appear as:",
+      "w" : 0.06995884277535691
+    },
+    {
+      "h" : 0.010290697415669792,
+      "x" : 0.6841563829989712,
+      "y" : 0.2798546511125649,
+      "conf" : 1,
+      "text" : "[A] Black colonies with central hydrogen sulfide precipitation",
+      "w" : 0.35185184118882673
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6738683169495885,
+      "y" : 0.2681944445112716,
+      "conf" : 1,
+      "text" : "[B] Completely inhibited with zero visible bacterial growth",
+      "w" : 0.3353909426515208
+    },
+    {
+      "h" : 0.008888888888888835,
+      "x" : 0.7232510360425238,
+      "y" : 0.2558333332585692,
+      "conf" : 1,
+      "text" : "[C] Colorless, translucent colonies due to absence of lactose fermentation",
+      "w" : 0.434156357867163
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.7222222275720163,
+      "y" : 0.24347222201797925,
+      "conf" : 1,
+      "text" : "[D] Flat, dry, rose-pink colonies due to rapid lactose fermentation with bile",
+      "w" : 0.42798350592079404
+    },
+    {
+      "h" : 0.008888889153798374,
+      "x" : 0.5586419769890261,
+      "y" : 0.23111111116264105,
+      "conf" : 1,
+      "text" : "salt precipitation",
+      "w" : 0.1008230365297329
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6759259293209876,
+      "y" : 0.21875000007267442,
+      "conf" : 1,
+      "text" : "[E] Mucoid, sticky, pale-green colonies with metallic sheen",
+      "w" : 0.33950616128789557
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.7181069906378601,
+      "y" : 0.2042151162245639,
+      "conf" : 1,
+      "text" : "Q14. [Core Exam] Biochemically, Escherichia coli is differentiated",
+      "w" : 0.4197530686480444
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.7129629588683128,
+      "y" : 0.19113372085755814,
+      "conf" : 1,
+      "text" : "from other Gram-negative enteric bacilli by which classic IMViC",
+      "w" : 0.4094649980653008
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.5648148167695473,
+      "y" : 0.1780523257025195,
+      "conf" : 1,
+      "text" : "reaction pattern?",
+      "w" : 0.1172839470629422
+    },
+    {
+      "h" : 0.011666666666666714,
+      "x" : 0.6995884721536353,
+      "y" : 0.16277777784272807,
+      "conf" : 1,
+      "text" : "[A] Hydrogen sulfide producing, phenylalanine deaminase positive",
+      "w" : 0.38271602894525114
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6975308594135804,
+      "y" : 0.15041666673537468,
+      "conf" : 1,
+      "text" : "[B] Indole (-), Methyl Red (-), Voges-Proskauer (+), Citrate (+) [-++]",
+      "w" : 0.38271602894525114
+    },
+    {
+      "h" : 0.01028423786163335,
+      "x" : 0.6975308603703705,
+      "y" : 0.1387532298090755,
+      "conf" : 1,
+      "text" : "[C] Indole (+), Methyl Red (+), Voges-Proskauer (-), Citrate (-) [++-]",
+      "w" : 0.3827160529370578
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6594650168981482,
+      "y" : 0.1271802326853198,
+      "conf" : 1,
+      "text" : "[D] Oxidase positive, non-motile, and urease positive",
+      "w" : 0.3065843642132836
+    },
+    {
+      "h" : 0.010297157499525311,
+      "x" : 0.6728395020061728,
+      "y" : 0.11403746768271666,
+      "conf" : 1,
+      "text" : "[E] Catalase negative, coagulase positive, and non-motile",
+      "w" : 0.33333333333333337
+    },
+    {
+      "h" : 0.013081394831339521,
+      "x" : 0.3004115291666665,
+      "y" : 0.012354651253633664,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal Microbiology & Pathology Master Class • Strictly Grounded in Faculty 57Papers",
+      "w" : 0.5226337264918681
+    },
+    {
+      "h" : 0.007325581179724816,
+      "x" : 0.8765432127572015,
+      "y" : 0.013837209322634103,
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "w" : 0.17283949462122883
+    }
+  ],
+  "page" : 99
+}

@@ -1,0 +1,1013 @@
+{
+  "items" : [
+    {
+      "y" : 0.9774224804997624,
+      "w" : 0.49382714805363115,
+      "conf" : 1,
+      "x" : 0.2798353902777778,
+      "h" : 0.013178293969896115,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 18 MCQ Masterclass"
+    },
+    {
+      "y" : 0.9651162791424419,
+      "w" : 0.6975308304312845,
+      "conf" : 1,
+      "x" : 0.3816872515174895,
+      "h" : 0.00872092988755968,
+      "text" : "Twisted Medicine Medical Series • RAAS, Erythropoietin, Calcitriol, Autacoids & Endocrine Nephropathies • Standard Practice Bank"
+    },
+    {
+      "y" : 0.946944444478069,
+      "w" : 0.5781892980419614,
+      "conf" : 1,
+      "x" : 0.4989711869084364,
+      "h" : 0.013333333333333308,
+      "text" : "18. ENDOCRINAL FUNCTION OF THE KIDNEY - PHYSIOLOGY TUTORIAL"
+    },
+    {
+      "y" : 0.9272642114645611,
+      "w" : 0.59259258726108,
+      "conf" : 1,
+      "x" : 0.49999999883401924,
+      "h" : 0.01175064563751227,
+      "text" : "Twisted Medicine Physiology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)"
+    },
+    {
+      "y" : 0.9760174420014519,
+      "w" : 0.07020438092309722,
+      "conf" : 1,
+      "x" : 0.9341563783404543,
+      "h" : 0.011053355005052445,
+      "text" : "Page 1 of 4"
+    },
+    {
+      "y" : 0.9048546511307334,
+      "w" : 0.4197530686480444,
+      "conf" : 1,
+      "x" : 0.24279835810699582,
+      "h" : 0.01029069741566968,
+      "text" : "Q01. [2025 Exam] Which specialized cell type within the kidney is"
+    },
+    {
+      "y" : 0.8902616278343023,
+      "w" : 0.4279835539044074,
+      "conf" : 1,
+      "x" : 0.24691357596707827,
+      "h" : 0.010174418555365716,
+      "text" : "responsible for synthesizing, storing, and secreting the proteolytic"
+    },
+    {
+      "y" : 0.8771802324854652,
+      "w" : 0.10082304852563631,
+      "conf" : 1,
+      "x" : 0.0833333323251029,
+      "h" : 0.010174418555365716,
+      "text" : "enzyme Renin?"
+    },
+    {
+      "y" : 0.8626388888260281,
+      "w" : 0.36008230245338296,
+      "conf" : 1,
+      "x" : 0.21296296656378594,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Podocytes forming the visceral layer of Bowman's capsule"
+    },
+    {
+      "y" : 0.850972222405789,
+      "w" : 0.43621399117715703,
+      "conf" : 1,
+      "x" : 0.251028810946502,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Juxtaglomerular (JG) \/ Granular cells in the tunica media of the afferent"
+    },
+    {
+      "y" : 0.8393895349382268,
+      "w" : 0.051440328921911846,
+      "conf" : 1,
+      "x" : 0.05864197595164607,
+      "h" : 0.007267441749572723,
+      "text" : "arteriole"
+    },
+    {
+      "y" : 0.8277616279796511,
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "x" : 0.23559671187242798,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Macula densa columnar epithelial cells in the thick ascending limb"
+    },
+    {
+      "y" : 0.8161337209847384,
+      "w" : 0.36831273972613254,
+      "conf" : 1,
+      "x" : 0.21707819390432087,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Extraglomerular mesangial (Lacis) cells at the vascular pole"
+    },
+    {
+      "y" : 0.8045704133948215,
+      "w" : 0.2757201524650526,
+      "conf" : 1,
+      "x" : 0.16872427524005507,
+      "h" : 0.01030361758338083,
+      "text" : "[E] Principal cells of the cortical collecting duct"
+    },
+    {
+      "y" : 0.7819509041882085,
+      "w" : 0.41769548332166373,
+      "conf" : 1,
+      "x" : 0.24176955254629617,
+      "h" : 0.011679586304558565,
+      "text" : "Q02. [2024 Exam] The three anatomical components forming the"
+    },
+    {
+      "y" : 0.7681944445476089,
+      "w" : 0.3765432009906889,
+      "conf" : 1,
+      "x" : 0.22119342034465012,
+      "h" : 0.01027777777777783,
+      "text" : "Juxtaglomerular Apparatus (JGA) at the vascular pole are:"
+    },
+    {
+      "y" : 0.7536337210210755,
+      "w" : 0.44855964708628143,
+      "conf" : 1,
+      "x" : 0.25720165169753073,
+      "h" : 0.010174418555365716,
+      "text" : "[Al Macula densa, Juxtaglomerular granular cells, and Lacis (extraglomerular"
+    },
+    {
+      "y" : 0.7420704135401703,
+      "w" : 0.09876542721154555,
+      "conf" : 1,
+      "x" : 0.08230452839506167,
+      "h" : 0.01030361758338083,
+      "text" : "mesangial) cells"
+    },
+    {
+      "y" : 0.7311111111868659,
+      "w" : 0.4115226313752949,
+      "conf" : 1,
+      "x" : 0.23868313271604924,
+      "h" : 0.008888889153798374,
+      "text" : "[B] Proximal convoluted tubule, afferent arteriole, and efferent arteriole"
+    },
+    {
+      "y" : 0.7187499999563953,
+      "w" : 0.42181070195803855,
+      "conf" : 1,
+      "x" : 0.24382715627572027,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Podocyte pedicels, glomerular basement membrane, and fenestrated"
+    },
+    {
+      "y" : 0.7071220930959302,
+      "w" : 0.07613168272582241,
+      "conf" : 1,
+      "x" : 0.07098765558984907,
+      "h" : 0.007267441749572834,
+      "text" : "endothelium"
+    },
+    {
+      "y" : 0.6954295866051785,
+      "w" : 0.4197530686480444,
+      "conf" : 1,
+      "x" : 0.24279835810699582,
+      "h" : 0.01030361758338083,
+      "text" : "[D] Thin descending limb, thin ascending limb, and vasa recta capillaries"
+    },
+    {
+      "y" : 0.6838662791242733,
+      "w" : 0.3641975210897578,
+      "conf" : 1,
+      "x" : 0.21296296751543198,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Intercalated cells, principal cells, and peritubular capillaries"
+    },
+    {
+      "y" : 0.6606782946177086,
+      "w" : 0.45061728039627547,
+      "conf" : 1,
+      "x" : 0.2582304470421811,
+      "h" : 0.01031007766723635,
+      "text" : "Q03. [2023 Exam] Which of the following physiological signals acts as"
+    },
+    {
+      "y" : 0.6468023256540698,
+      "w" : 0.4465020617599007,
+      "conf" : 1,
+      "x" : 0.2561728450874484,
+      "h" : 0.011627906163533486,
+      "text" : "a potent primary stimulus for the release of Renin by juxtaglomerular"
+    },
+    {
+      "y" : 0.6337209301606017,
+      "w" : 0.04117657103628483,
+      "conf" : 1,
+      "x" : 0.05349794187222577,
+      "h" : 0.008778342670864525,
+      "text" : "cells?"
+    },
+    {
+      "y" : 0.6198611111591428,
+      "w" : 0.34362137992427033,
+      "conf" : 1,
+      "x" : 0.2026749028463647,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Acute severe hypervolemia with systemic hypertension"
+    },
+    {
+      "y" : 0.6075710595216903,
+      "w" : 0.41358021670167555,
+      "conf" : 1,
+      "x" : 0.23971192726337476,
+      "h" : 0.00874676995807222,
+      "text" : "[B] Markedly elevated systemic delivery of sodium to the macula densa"
+    },
+    {
+      "y" : 0.5951453487723674,
+      "w" : 0.3991769514743637,
+      "conf" : 1,
+      "x" : 0.23045267791495191,
+      "h" : 0.010290697415669792,
+      "text" : "[C] Decreased renal perfusion pressure sensed by afferent arteriolar"
+    },
+    {
+      "y" : 0.5843023256782947,
+      "w" : 0.0905349779428926,
+      "conf" : 1,
+      "x" : 0.07818930192043891,
+      "h" : 0.00872092988755968,
+      "text" : "baroreceptors"
+    },
+    {
+      "y" : 0.5719476743943799,
+      "w" : 0.39711931816436963,
+      "conf" : 1,
+      "x" : 0.22942386169410176,
+      "h" : 0.010174418555365605,
+      "text" : "[D] High circulating plasma levels of Atrial Natriuretic Peptide (ANP)"
+    },
+    {
+      "y" : 0.5603197674176357,
+      "w" : 0.35390945050701406,
+      "conf" : 1,
+      "x" : 0.20781892414266137,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Beta-adrenergic antagonist (beta-blocker) administration"
+    },
+    {
+      "y" : 0.539195736066975,
+      "w" : 0.41152263137529477,
+      "conf" : 1,
+      "x" : 0.24074074362139913,
+      "h" : 0.011724805831909157,
+      "text" : "Q04. [2022 Exam] How does the Macula Densa signal JG cells to"
+    },
+    {
+      "y" : 0.5254166666203067,
+      "w" : 0.38477363826343847,
+      "conf" : 1,
+      "x" : 0.22530864056927302,
+      "h" : 0.01027777777777783,
+      "text" : "stimulate renin release when tubular flow and GFR are low?"
+    },
+    {
+      "y" : 0.5102357884143149,
+      "w" : 0.40329219410254524,
+      "conf" : 1,
+      "x" : 0.2345679062757201,
+      "h" : 0.011750645637512158,
+      "text" : "[A] High intracellular sodium triggers massive nitric oxide destruction"
+    },
+    {
+      "y" : 0.49930555563073753,
+      "w" : 0.4567900843590311,
+      "conf" : 1,
+      "x" : 0.25925925164609076,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Decreased NaCl uptake via NKCC2 stimulates local COX-2\/PGE2 release to"
+    },
+    {
+      "y" : 0.4759722222604402,
+      "w" : 0.41769543533805037,
+      "conf" : 1,
+      "x" : 0.23971192719478762,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Direct mechanical compression of the efferent arteriole by microvilli"
+    },
+    {
+      "y" : 0.46432170540046,
+      "w" : 0.39917695147436366,
+      "conf" : 1,
+      "x" : 0.23045268155006832,
+      "h" : 0.01031007766723624,
+      "text" : "[D] Massive release of Adenosine acting on A1 receptors of JG cells"
+    },
+    {
+      "y" : 0.4527616278524709,
+      "w" : 0.3971193421561763,
+      "conf" : 1,
+      "x" : 0.22942386334876558,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Complete apoptotic autolysis of extraglomerular mesangial cells"
+    },
+    {
+      "y" : 0.9041279072095965,
+      "w" : 0.40123456079255104,
+      "conf" : 1,
+      "x" : 0.7129629679783949,
+      "h" : 0.011744185553656639,
+      "text" : "Q08. [2022 Exam] At physiological levels, what is the selective"
+    },
+    {
+      "y" : 0.8909883721802325,
+      "w" : 0.37242798235431407,
+      "conf" : 1,
+      "x" : 0.6985596745061728,
+      "h" : 0.01162790722317164,
+      "text" : "hemodynamic action of Angiotensin Il on renal arterioles?"
+    },
+    {
+      "y" : 0.8756944446992267,
+      "w" : 0.40123456079255115,
+      "conf" : 1,
+      "x" : 0.7109053451903293,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Preferential dilation of afferent arteriole with efferent constriction"
+    },
+    {
+      "y" : 0.8640374677917284,
+      "w" : 0.45267486572265625,
+      "conf" : 1,
+      "x" : 0.7366255200617282,
+      "h" : 0.010297157499525311,
+      "text" : "[B] Preferential Efferent Arteriolar constriction, preserving GFR and increasing"
+    },
+    {
+      "y" : 0.8531976744549419,
+      "w" : 0.10493826716201105,
+      "conf" : 1,
+      "x" : 0.5648148161265432,
+      "h" : 0.00872092988755968,
+      "text" : "Filtration Fraction"
+    },
+    {
+      "y" : 0.8408430233103197,
+      "w" : 0.4094649980653008,
+      "conf" : 1,
+      "x" : 0.7150205812499999,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Complete dilation of both arterioles, lowering total renal resistance"
+    },
+    {
+      "y" : 0.8292151163335756,
+      "w" : 0.30452673090328963,
+      "conf" : 1,
+      "x" : 0.6646090573045267,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Selective thrombosis of all peritubular capillaries"
+    },
+    {
+      "y" : 0.8176388889680375,
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "x" : 0.7129629680298353,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Immediate relaxation of mesangial cells to maximize surface area"
+    },
+    {
+      "y" : 0.7819509042245456,
+      "w" : 0.4506172803962756,
+      "conf" : 1,
+      "x" : 0.7376543266203702,
+      "h" : 0.011679586304558676,
+      "text" : "Q09. [2023 Exam] Which tubular transport mechanism in the Proximal"
+    },
+    {
+      "y" : 0.7688888888987027,
+      "w" : 0.44032920981353185,
+      "conf" : 1,
+      "x" : 0.7325102888374485,
+      "h" : 0.011666666666666603,
+      "text" : "Convoluted Tubule is directly stimulated by Angiotensin Il binding to"
+    },
+    {
+      "y" : 0.7551388888408572,
+      "w" : 0.24485596470862814,
+      "conf" : 1,
+      "x" : 0.6347736601028807,
+      "h" : 0.01027777777777783,
+      "text" : "apical and basolateral AT1 receptors?"
+    },
+    {
+      "y" : 0.7405523256540698,
+      "w" : 0.3189300441142148,
+      "conf" : 1,
+      "x" : 0.6697530896090533,
+      "h" : 0.010174418555365605,
+      "text" : "[A] Apical SGLT1 glucose uptake in late straight tubule"
+    },
+    {
+      "y" : 0.728924418659157,
+      "w" : 0.45267486572265625,
+      "conf" : 1,
+      "x" : 0.7366255200617282,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Apical NHE3 (Na+\/H+ exchanger) and basolateral Na+\/K+ ATPase, driving"
+    },
+    {
+      "y" : 0.7173546511307335,
+      "w" : 0.16872427598485407,
+      "conf" : 1,
+      "x" : 0.5967078206172838,
+      "h" : 0.010290697415669792,
+      "text" : "Nat and HCO3- reabsorption"
+    },
+    {
+      "y" : 0.7056944445294403,
+      "w" : 0.26543208188230893,
+      "conf" : 1,
+      "x" : 0.6430041196502057,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Basolateral OAT1 organic anion secretion"
+    },
+    {
+      "y" : 0.6940277779820209,
+      "w" : 0.37242798235431396,
+      "conf" : 1,
+      "x" : 0.696502052957819,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Passive paracellular magnesium reabsorption via claudin-16"
+    },
+    {
+      "y" : 0.6823611111409741,
+      "w" : 0.2181069955885785,
+      "conf" : 1,
+      "x" : 0.6193415665123456,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Apical ENaC sodium reabsorption"
+    },
+    {
+      "y" : 0.6606782947630574,
+      "w" : 0.4444444284499066,
+      "conf" : 1,
+      "x" : 0.7345679067901234,
+      "h" : 0.01031007766723635,
+      "text" : "Q10. [2021 Exam] Which systemic endocrine gland and specific zone"
+    },
+    {
+      "y" : 0.646802325508721,
+      "w" : 0.37242798235431407,
+      "conf" : 1,
+      "x" : 0.6985596661265434,
+      "h" : 0.011627906163533486,
+      "text" : "are stimulated by Angiotensin Il to synthesize and release"
+    },
+    {
+      "y" : 0.6344476745094478,
+      "w" : 0.08847736262675343,
+      "conf" : 1,
+      "x" : 0.5565843632458848,
+      "h" : 0.010174418555365716,
+      "text" : "Aldosterone?"
+    },
+    {
+      "y" : 0.6184722224690676,
+      "w" : 0.25925925392774674,
+      "conf" : 1,
+      "x" : 0.6399176911522635,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Anterior pituitary gland corticotrope cells"
+    },
+    {
+      "y" : 0.6075710594861349,
+      "w" : 0.21604938627039116,
+      "conf" : 1,
+      "x" : 0.6183127608024689,
+      "h" : 0.008746769693162681,
+      "text" : "[B] Adrenal medulla chromaffin cells"
+    },
+    {
+      "y" : 0.5959302326065892,
+      "w" : 0.25514403529137186,
+      "conf" : 1,
+      "x" : 0.637860086556927,
+      "h" : 0.00872092988755968,
+      "text" : "[C] Zona Glomerulosa of the adrenal cortex"
+    },
+    {
+      "y" : 0.5843023255329457,
+      "w" : 0.24691357402681557,
+      "conf" : 1,
+      "x" : 0.6337448518518519,
+      "h" : 0.00872092988755968,
+      "text" : "[D] Zona Fasciculata of the adrenal cortex"
+    },
+    {
+      "y" : 0.5719476743580427,
+      "w" : 0.3209876534324021,
+      "conf" : 1,
+      "x" : 0.6707818903292181,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Hypothalamic paraventricular neurosecretory nuclei"
+    },
+    {
+      "y" : 0.4171963823761876,
+      "w" : 0.40329219410254524,
+      "conf" : 1,
+      "x" : 0.23662551843621393,
+      "h" : 0.011718346277872715,
+      "text" : "Q05. [2021 Exam] Renal sympathetic nerve stimulation directly"
+    },
+    {
+      "y" : 0.4033430233466571,
+      "w" : 0.4218107019580385,
+      "conf" : 1,
+      "x" : 0.24382716576646074,
+      "h" : 0.010174418555365716,
+      "text" : "triggers renin secretion from juxtaglomerular cells through which"
+    },
+    {
+      "y" : 0.39026162781613366,
+      "w" : 0.17489711593531965,
+      "conf" : 1,
+      "x" : 0.12037036818415643,
+      "h" : 0.010174418555365716,
+      "text" : "specific receptor subtype?"
+    },
+    {
+      "y" : 0.3756944443692623,
+      "w" : 0.39917695147436366,
+      "conf" : 1,
+      "x" : 0.23251029205761306,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Alpha-1 adrenergic receptors coupled to Gq and phospholipase C"
+    },
+    {
+      "y" : 0.3633430229819265,
+      "w" : 0.43621399117715703,
+      "conf" : 1,
+      "x" : 0.248971190192044,
+      "h" : 0.011686045858595118,
+      "text" : "[B] Alpha-2 adrenergic receptors coupled to Gi reducing intracellular cAMP"
+    },
+    {
+      "y" : 0.35169573616387423,
+      "w" : 0.37860081030887627,
+      "conf" : 1,
+      "x" : 0.22016460274348443,
+      "h" : 0.011724805831909157,
+      "text" : "[C] Beta-2 adrenergic receptors located on peritubular capillaries"
+    },
+    {
+      "y" : 0.3408430233466571,
+      "w" : 0.44238684312352594,
+      "conf" : 1,
+      "x" : 0.2520576186985595,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Beta-1 adrenergic receptors coupled to Gs increasing intracellular cAMP"
+    },
+    {
+      "y" : 0.32921511633357553,
+      "w" : 0.4320987725407822,
+      "conf" : 1,
+      "x" : 0.24691358564814803,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Nicotinic cholinergic receptors at the vascular smooth muscle junction"
+    },
+    {
+      "y" : 0.5391957364061222,
+      "w" : 0.4444444284499065,
+      "conf" : 1,
+      "x" : 0.73456789739369,
+      "h" : 0.011724805831909157,
+      "text" : "Q11. [2025 Exam] Angiotensin Il exerts its major vasoconstrictor and"
+    },
+    {
+      "y" : 0.5254166668625547,
+      "w" : 0.3209876534324022,
+      "conf" : 1,
+      "x" : 0.672839509382716,
+      "h" : 0.01027777777777783,
+      "text" : "salt-retaining effects via which receptor subtype?"
+    },
+    {
+      "y" : 0.5094476743943799,
+      "w" : 0.4218107019580384,
+      "conf" : 1,
+      "x" : 0.721193408607682,
+      "h" : 0.010174418555365605,
+      "text" : "[A] AT1 Receptor (Gq-coupled, activating PLC, IP3, DAG, and intracellular"
+    },
+    {
+      "y" : 0.4992732559835271,
+      "w" : 0.03703703670381753,
+      "conf" : 0.5,
+      "x" : 0.5308641978737997,
+      "h" : 0.010174418555365605,
+      "text" : "Ca2+)"
+    },
+    {
+      "y" : 0.4876388886806794,
+      "w" : 0.4465020617599007,
+      "conf" : 1,
+      "x" : 0.733539087208505,
+      "h" : 0.01027777777777783,
+      "text" : "[B] AT2 Receptor (Gi-coupled, promoting vasodilation, apoptosis, and growth"
+    },
+    {
+      "y" : 0.4760174420323553,
+      "w" : 0.04126599749679083,
+      "conf" : 1,
+      "x" : 0.5329218111091806,
+      "h" : 0.010406290690104125,
+      "text" : "arrest)"
+    },
+    {
+      "y" : 0.4643217053822914,
+      "w" : 0.3415637706060829,
+      "conf" : 1,
+      "x" : 0.6810699631172838,
+      "h" : 0.01031007766723635,
+      "text" : "[C] Beta-2 adrenergic receptor on vascular smooth muscle"
+    },
+    {
+      "y" : 0.4527616278524709,
+      "w" : 0.3518518411888266,
+      "conf" : 1,
+      "x" : 0.6882716005401235,
+      "h" : 0.010174418555365716,
+      "text" : "[D] V2 vasopressin receptor on principal collecting duct cells"
+    },
+    {
+      "y" : 0.4411337208575581,
+      "w" : 0.3209876534324023,
+      "conf" : 1,
+      "x" : 0.6707818876543212,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Mineralocorticoid nuclear receptor in the cytoplasm"
+    },
+    {
+      "y" : 0.4171963824052576,
+      "w" : 0.4444444284499067,
+      "conf" : 1,
+      "x" : 0.7345679056790124,
+      "h" : 0.011718346277872715,
+      "text" : "Q12. [2020 Exam] How does Angiotensin Il exert a negative feedback"
+    },
+    {
+      "y" : 0.4033430231286338,
+      "w" : 0.27777776178324,
+      "conf" : 1,
+      "x" : 0.6512345696244856,
+      "h" : 0.010174418555365605,
+      "text" : "effect to inhibit its own further production?"
+    },
+    {
+      "y" : 0.3887532298272441,
+      "w" : 0.3600823024533829,
+      "conf" : 1,
+      "x" : 0.6923868267746915,
+      "h" : 0.01028423786163335,
+      "text" : "[A] By directly destroying pulmonary vascular endothelial cells"
+    },
+    {
+      "y" : 0.377180232485465,
+      "w" : 0.360082302453383,
+      "conf" : 1,
+      "x" : 0.6923868252743487,
+      "h" : 0.010174418555365716,
+      "text" : "[B] By stimulating hepatic uptake and biliary excretion of renin"
+    },
+    {
+      "y" : 0.3655523256540698,
+      "w" : 0.4444444284499067,
+      "conf" : 1,
+      "x" : 0.7345679086419751,
+      "h" : 0.010174418555365605,
+      "text" : "[C] By directly binding AT1 receptors on JG cells to suppress renin secretion"
+    },
+    {
+      "y" : 0.35392441851380807,
+      "w" : 0.1255143963315951,
+      "conf" : 1,
+      "x" : 0.5751028790895063,
+      "h" : 0.010174418555365605,
+      "text" : "(short-loop feedback)"
+    },
+    {
+      "y" : 0.3423546511125649,
+      "w" : 0.42592592059441337,
+      "conf" : 1,
+      "x" : 0.7253086472993826,
+      "h" : 0.010290697415669792,
+      "text" : "[D] By inducing systemic hypokalemia which paralyzes the adrenal cortex"
+    },
+    {
+      "y" : 0.33069444452944025,
+      "w" : 0.40740741273892,
+      "conf" : 1,
+      "x" : 0.7139917763374484,
+      "h" : 0.010277777777777719,
+      "text" : "[E] By activating hypothalamic thirst centers to dilute plasma proteins"
+    },
+    {
+      "y" : 0.29578488366642447,
+      "w" : 0.40740741273891995,
+      "conf" : 1,
+      "x" : 0.23662550931069967,
+      "h" : 0.010174418555365716,
+      "text" : "Q06. [2020 Exam] Enzymatically, what is the exact biochemical"
+    },
+    {
+      "y" : 0.28195090426088276,
+      "w" : 0.38271602894525103,
+      "conf" : 1,
+      "x" : 0.22427983688271597,
+      "h" : 0.011679586304558676,
+      "text" : "reaction catalyzed by circulating Renin in the bloodstream?"
+    },
+    {
+      "y" : 0.2667151163699128,
+      "w" : 0.3930040995279948,
+      "conf" : 1,
+      "x" : 0.22942387322530855,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Conversion of circulating Angiotensin I into active Angiotensin I|"
+    },
+    {
+      "y" : 0.25513888898620607,
+      "w" : 0.44650206175990076,
+      "conf" : 1,
+      "x" : 0.25617284694787357,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Cleavage of the decapeptide Angiotensin I from hepatic Angiotensinogen"
+    },
+    {
+      "y" : 0.24347222200707797,
+      "w" : 0.43209877254078227,
+      "conf" : 1,
+      "x" : 0.24897119773662543,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Conversion of Angiotensin Il into inactive peptide fragments in the lung"
+    },
+    {
+      "y" : 0.23180555566435818,
+      "w" : 0.4506172803962756,
+      "conf" : 1,
+      "x" : 0.258230460185185,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Direct enzymatic conversion of cholesterol into aldosterone in the adrenal"
+    },
+    {
+      "y" : 0.22020348839228038,
+      "w" : 0.03909464902098073,
+      "conf" : 1,
+      "x" : 0.052469135705304065,
+      "h" : 0.007267441749572723,
+      "text" : "cortex"
+    },
+    {
+      "y" : 0.20857558134084303,
+      "w" : 0.3456790132342644,
+      "conf" : 1,
+      "x" : 0.20370369938271615,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Hydrolysis of bradykinin into inactive peptide fragments"
+    },
+    {
+      "y" : 0.1737467701424748,
+      "w" : 0.42592592059441337,
+      "conf" : 1,
+      "x" : 0.24794239393004092,
+      "h" : 0.01028423786163335,
+      "text" : "Q07. [2024 Exam] Where is Angiotensin-Converting Enzyme (ACE)"
+    },
+    {
+      "y" : 0.16067829472672024,
+      "w" : 0.4320987725407822,
+      "conf" : 1,
+      "x" : 0.24897119881687224,
+      "h" : 0.01031007766723624,
+      "text" : "primarily located in the vascular system to convert Angiotensin I to"
+    },
+    {
+      "y" : 0.1460755812257753,
+      "w" : 0.09876542721154555,
+      "conf" : 1,
+      "x" : 0.08230452599451306,
+      "h" : 0.010174418555365716,
+      "text" : "Angiotensin I!?"
+    },
+    {
+      "y" : 0.1315277775975507,
+      "w" : 0.3847736622552452,
+      "conf" : 1,
+      "x" : 0.2253086467849793,
+      "h" : 0.010277777777777719,
+      "text" : "[A] On the luminal surface of pulmonary vascular endothelial cells"
+    },
+    {
+      "y" : 0.11986111103196256,
+      "w" : 0.4218107019580385,
+      "conf" : 1,
+      "x" : 0.24382715522119353,
+      "h" : 0.010277777777777719,
+      "text" : "[B] In the brush border membrane of the proximal convoluted tubule only"
+    },
+    {
+      "y" : 0.1090116279796512,
+      "w" : 0.40534977942892597,
+      "conf" : 1,
+      "x" : 0.2355967128858024,
+      "h" : 0.011627906163533486,
+      "text" : "[C] Dissolved as an inactive zymogen in the bile within the gallbladder"
+    },
+    {
+      "y" : 0.09738372102713178,
+      "w" : 0.29629629363054,
+      "conf" : 1,
+      "x" : 0.17901235061728377,
+      "h" : 0.00872092988755968,
+      "text" : "[D] In the interstitial matrix of the adrenal medulla"
+    },
+    {
+      "y" : 0.08502906969476753,
+      "w" : 0.28600822304779633,
+      "conf" : 1,
+      "x" : 0.17181069482167372,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Inside the granules of circulating eosinophils"
+    },
+    {
+      "y" : 0.2957848837754361,
+      "w" : 0.3950617088461821,
+      "conf" : 1,
+      "x" : 0.7098765481481479,
+      "h" : 0.010174418555365605,
+      "text" : "Q13. [Faculty Exam] In Renovascular Hypertension caused by"
+    },
+    {
+      "y" : 0.281950904438583,
+      "w" : 0.45473249903265045,
+      "conf" : 1,
+      "x" : 0.7397119387037038,
+      "h" : 0.011679586834377642,
+      "text" : "Unilateral Renal Artery Stenosis (Goldblatt Kidney), what is the primary"
+    },
+    {
+      "y" : 0.26819444440226003,
+      "w" : 0.26543208188230893,
+      "conf" : 1,
+      "x" : 0.6450617250771606,
+      "h" : 0.01027777777777783,
+      "text" : "mechanism driving high blood pressure?"
+    },
+    {
+      "y" : 0.2536337210029069,
+      "w" : 0.30041151226691487,
+      "conf" : 1,
+      "x" : 0.6604938321673524,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Bilateral destruction of all renal collecting ducts"
+    },
+    {
+      "y" : 0.24207041352200176,
+      "w" : 0.44032920981353174,
+      "conf" : 1,
+      "x" : 0.7304526804012346,
+      "h" : 0.01030361758338083,
+      "text" : "[B] Hypoperfusion of the stenotic kidney triggers massive uninhibited Renin"
+    },
+    {
+      "y" : 0.23037790704941852,
+      "w" : 0.09465020257721901,
+      "conf" : 1,
+      "x" : 0.5576131703017833,
+      "h" : 0.010174418555365605,
+      "text" : "hypersecretion"
+    },
+    {
+      "y" : 0.2187499999454941,
+      "w" : 0.4341563578671629,
+      "conf" : 1,
+      "x" : 0.7273662497170783,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Excessive synthesis of erythropoietin causing hyperviscosity syndrome"
+    },
+    {
+      "y" : 0.20708333312261618,
+      "w" : 0.38477363826343847,
+      "conf" : 1,
+      "x" : 0.7026749035322357,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Massive loss of urinary albumin leading to hypovolemic shock"
+    },
+    {
+      "y" : 0.19542958658700982,
+      "w" : 0.37860081030887616,
+      "conf" : 1,
+      "x" : 0.6995884820987652,
+      "h" : 0.01030361758338083,
+      "text" : "[E] Complete calcification of the abdominal aorta and renal veins"
+    },
+    {
+      "y" : 0.17374677020909318,
+      "w" : 0.38683127157343256,
+      "conf" : 1,
+      "x" : 0.7057613217078188,
+      "h" : 0.01028423786163335,
+      "text" : "Q14. [Core Exam] Why can initiating an ACE inhibitor or ARB"
+    },
+    {
+      "y" : 0.16067829471581907,
+      "w" : 0.436213991177157,
+      "conf" : 1,
+      "x" : 0.7304526792592592,
+      "h" : 0.01031007766723624,
+      "text" : "precipitate acute renal failure in a patient with Bilateral Renal Artery"
+    },
+    {
+      "y" : 0.14825581409561106,
+      "w" : 0.06591106510762146,
+      "conf" : 1,
+      "x" : 0.5452674905361077,
+      "h" : 0.008978708055284335,
+      "text" : "Stenosis?"
+    },
+    {
+      "y" : 0.13152777801230187,
+      "w" : 0.4485596470862816,
+      "conf" : 1,
+      "x" : 0.7345678937585737,
+      "h" : 0.01027777777777783,
+      "text" : "[A] It blocks proximal tubular glucose reabsorption causing massive osmotic"
+    },
+    {
+      "y" : 0.1206395349291976,
+      "w" : 0.04944518827042488,
+      "conf" : 1,
+      "x" : 0.5370370378604221,
+      "h" : 0.008899157842000238,
+      "text" : "diuresis"
+    },
+    {
+      "y" : 0.10828488366642447,
+      "w" : 0.39300409952799487,
+      "conf" : 1,
+      "x" : 0.7067901185442388,
+      "h" : 0.010174418555365716,
+      "text" : "[B] It induces direct toxic necrosis of the medullary collecting ducts"
+    },
+    {
+      "y" : 0.0966569767986919,
+      "w" : 0.41358021670167555,
+      "conf" : 1,
+      "x" : 0.7170781944701645,
+      "h" : 0.010174418555365605,
+      "text" : "[C] It abolishes Ang Il-mediated efferent arteriolar constriction, causing"
+    },
+    {
+      "y" : 0.08502906984011627,
+      "w" : 0.29835390294872743,
+      "conf" : 1,
+      "x" : 0.6594650255486967,
+      "h" : 0.010174418555365605,
+      "text" : "glomerular capillary pressure and GFR to collapse"
+    },
+    {
+      "y" : 0.07346253231728334,
+      "w" : 0.4094649980653008,
+      "conf" : 1,
+      "x" : 0.7150205812499999,
+      "h" : 0.010297157499525311,
+      "text" : "[D] It triggers severe hypercalcemia with diffuse renal stone formation"
+    },
+    {
+      "y" : 0.06180555575791785,
+      "w" : 0.4176954833216636,
+      "conf" : 1,
+      "x" : 0.7191358076903291,
+      "h" : 0.010277777777777719,
+      "text" : "[E] It converts all circulating renin into inactive prostaglandin fragments"
+    },
+    {
+      "y" : 0.014573643611020815,
+      "w" : 0.5761316647319674,
+      "conf" : 1,
+      "x" : 0.3209876615226336,
+      "h" : 0.017519379191928475,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Board am Past Papers"
+    },
+    {
+      "y" : 0.01966085278616625,
+      "w" : 0.19135801447262546,
+      "conf" : 1,
+      "x" : 0.8734567925154321,
+      "h" : 0.007344961166381836,
+      "text" : "Confidential Student Revision Bank"
+    }
+  ],
+  "page" : 67
+}

@@ -1,0 +1,973 @@
+{
+  "page" : 40,
+  "items" : [
+    {
+      "y" : 0.9774224804225952,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 10 MCQ Masterclass",
+      "x" : 0.2870370455075443,
+      "w" : 0.5082304372727495,
+      "h" : 0.013178294499715193,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9643217054231215,
+      "text" : "Twisted Medicine Medical Series • Renal Blood Flow, Autoregulation & Hemodynamics • Standard Practice Bank",
+      "x" : 0.33333333429355283,
+      "w" : 0.6008230245338296,
+      "h" : 0.010310077137417273,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9760174416860536,
+      "text" : "Page 2 of 4",
+      "x" : 0.9351851847431252,
+      "w" : 0.0681153423381301,
+      "h" : 0.010913131501939621,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9419121449212836,
+      "text" : "Q15. [2025 Exam] Renal Autoregulation maintains a relatively constant",
+      "x" : 0.25823044873113865,
+      "w" : 0.4506172803962756,
+      "h" : 0.0117312653859456,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9280523256540698,
+      "text" : "RBF and GFR despite arterial blood pressure fluctuations within the",
+      "x" : 0.24588477792181068,
+      "w" : 0.42592592059441337,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9149709301053779,
+      "text" : "Mean Arterial Pressure range of:",
+      "x" : 0.1368312775977366,
+      "w" : 0.20781892500583482,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8990277777395599,
+      "text" : "[A] 30 to 60 mmHg",
+      "x" : 0.0895061747256515,
+      "w" : 0.11316871643066406,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8873611113193207,
+      "text" : "[B] 180 to 250 mmHg",
+      "x" : 0.09670782105624134,
+      "w" : 0.12757201764568593,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8756944443510938,
+      "text" : "[C] 50 to 90 mmg only",
+      "x" : 0.10390946679526747,
+      "w" : 0.14197530686480445,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8640374676827167,
+      "text" : "[D] Above 200 mmHg exclusively",
+      "x" : 0.12962962721193422,
+      "w" : 0.19341563578671628,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "y" : 0.853197674612403,
+      "text" : "[E] 80 to 180 mmHg (mean arterial pressure)",
+      "x" : 0.16152262966392333,
+      "w" : 0.2654320818823088,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9426388888408572,
+      "text" : "Q22. [2023 Exam] When GFR increases, tubular fluid flow to the macula",
+      "x" : 0.7345678936899865,
+      "w" : 0.45267486572265625,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9280523256359012,
+      "text" : "densa rises. In response, macula densa cells release which paracrine",
+      "x" : 0.729423873791152,
+      "w" : 0.43827157650353776,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9149709303234012,
+      "text" : "signaling molecule(s)?",
+      "x" : 0.5843621417695473,
+      "w" : 0.14814814681527,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9004166669170606,
+      "text" : "[A] Acetylcholine and Histamine",
+      "x" : 0.6049382728395063,
+      "w" : 0.18930040515443813,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8880587855140509,
+      "text" : "[B] ATP and Adenosine (acting on vascular A1 receptors to constrict afferent",
+      "x" : 0.732510294238683,
+      "w" : 0.4485596470862816,
+      "h" : 0.011673126220703156,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8764534884447674,
+      "text" : "arteriole)",
+      "x" : 0.5370370377572016,
+      "w" : 0.05761316887237744,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8647642118037083,
+      "text" : "[C] Dopamine and Serotonin",
+      "x" : 0.5936213985853909,
+      "w" : 0.1707818853030415,
+      "h" : 0.01175064563751227,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8531976745639536,
+      "text" : "[D] Prostaglandin E2 and Prostacyclin",
+      "x" : 0.6203703727623457,
+      "w" : 0.2242798235431408,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8423546511307335,
+      "text" : "[E] Glucagon and Insulin-like growth factor",
+      "x" : 0.6337448601508915,
+      "w" : 0.25102879266319034,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8139114988285308,
+      "text" : "Q23. [2021 Exam] Activation of Tubuloglomerular Feedback by high",
+      "x" : 0.7242798311111112,
+      "w" : 0.42798355390440745,
+      "h" : 0.011711886194017196,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8008430232338646,
+      "text" : "distal NaCI delivery restores GFR to normal by inducing:",
+      "x" : 0.6862139952880657,
+      "w" : 0.3518518411888266,
+      "h" : 0.011686046918233273,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7856782947448888,
+      "text" : "[A] Dilation of the afferent arteriole",
+      "x" : 0.6131687277091905,
+      "w" : 0.20576131568764744,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7747222224206181,
+      "text" : "[B] Selective constriction of the arcuate vein",
+      "x" : 0.6388888856738684,
+      "w" : 0.2572016446095592,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7623546512354652,
+      "text" : "[C] Constriction of the Afferent Arteriole, reducing glomerular hydrostatic",
+      "x" : 0.7201646133333333,
+      "w" : 0.42798355390440757,
+      "h" : 0.013081394831339521,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7514534885695392,
+      "text" : "pressure (Pgc)",
+      "x" : 0.5545267492751668,
+      "w" : 0.08874228015635754,
+      "h" : 0.012679841783311607,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7405523254905524,
+      "text" : "[D] Massive dilation of the efferent arteriole with afferent spasm",
+      "x" : 0.6954732463477367,
+      "w" : 0.3744855916725015,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7281976742248062,
+      "text" : "[E] Relaxation of mesangial cells to double the filtration area",
+      "x" : 0.68415637760631,
+      "w" : 0.3518518411888266,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8146802325036337,
+      "text" : "Q16. [2024 Exam] When Mean Arterial Pressure drops below the",
+      "x" : 0.23662550931069967,
+      "w" : 0.40740741273891995,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8008430232629343,
+      "text" : "autoregulatory threshold (<75-80 mmHg), what happens to RBF and",
+      "x" : 0.24794239113168715,
+      "w" : 0.4300411392307881,
+      "h" : 0.011686046918233162,
+      "conf" : 1
+    },
+    {
+      "y" : 0.787790697625969,
+      "text" : "GFR?",
+      "x" : 0.051440328600823065,
+      "w" : 0.0370370367038175,
+      "h" : 0.00872092988755968,
+      "conf" : 0.30000001192092896
+    },
+    {
+      "y" : 0.772529069743217,
+      "text" : "[A] RBF and GFR decrease sharply and proportionally with further pressure",
+      "x" : 0.2479423795953363,
+      "w" : 0.43415635786716295,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7609011627361919,
+      "text" : "drops",
+      "x" : 0.052469135313786025,
+      "w" : 0.03909464902098073,
+      "h" : 0.007267441749572723,
+      "conf" : 1
+    },
+    {
+      "y" : 0.749305555294717,
+      "text" : "[B] GFR increases paradoxically while RBF remains fixed",
+      "x" : 0.19650206313443053,
+      "w" : 0.3312757000233392,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7376388888078595,
+      "text" : "[C] Autoregulation maintains GFR perfectly down to 20 mmHg",
+      "x" : 0.21399177407407394,
+      "w" : 0.36213991177157034,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7259722223088898,
+      "text" : "[D] Efferent arterioles completely close, raising GFR to supranormal levels",
+      "x" : 0.24691357311385484,
+      "w" : 0.42798350592079404,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7143217054655149,
+      "text" : "[E] Renal vascular resistance doubles automatically",
+      "x" : 0.18209876916152257,
+      "w" : 0.3024691215851022,
+      "h" : 0.010310077137417273,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6868055557942551,
+      "text" : "Q17. [2023 Exam] Autoregulation of RBF and GFR persists intact in",
+      "x" : 0.2448559723765431,
+      "w" : 0.4238682872844193,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6737467701909244,
+      "text" : "isolated, completely denervated, and perfused kidneys. This proven",
+      "x" : 0.2458847808299037,
+      "w" : 0.4300411392307881,
+      "h" : 0.010284237861633239,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6606782947267201,
+      "text" : "finding demonstrates that autoregulation is:",
+      "x" : 0.17283950967078182,
+      "w" : 0.2798353950932341,
+      "h" : 0.010310077667236461,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6460755814680232,
+      "text" : "[A] Entirely dependent on central sympathetic vasomotor tone",
+      "x" : 0.2150205822016459,
+      "w" : 0.3641975210897578,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6344476744731105,
+      "text" : "[B] An intrinsic intrarenal property independent of systemic renal nerves or",
+      "x" : 0.2479423922582303,
+      "w" : 0.43415635786716295,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6220930232073643,
+      "text" : "circulating hormones",
+      "x" : 0.09670781673525386,
+      "w" : 0.13168723628206075,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6112467701909244,
+      "text" : "[C] Mediated solely by baroreceptors in the carotid sinus and aortic arch",
+      "x" : 0.24279835810699582,
+      "w" : 0.4197530686480444,
+      "h" : 0.010284237861633239,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5995833332646254,
+      "text" : "[D] Governed by postganglionic parasympathetic vagal innervation",
+      "x" : 0.22633745339506162,
+      "w" : 0.3868312715734326,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5879166668141053,
+      "text" : "[E] Dependent on pituitary ADH secretion into renal lymphatics",
+      "x" : 0.2160493888888887,
+      "w" : 0.37037034904432,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5603197675327034,
+      "text" : "Q18. [2022 Exam] The Myogenic Mechanism of renal autoregulation",
+      "x" : 0.25000000542695455,
+      "w" : 0.4341563578671629,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5472383721656977,
+      "text" : "(Bayliss effect) operates in response to acute vascular stretch primarily",
+      "x" : 0.26028807342249627,
+      "w" : 0.45473249903265034,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5334302326065892,
+      "text" : "by:",
+      "x" : 0.04218107014746227,
+      "w" : 0.02263374448572315,
+      "h" : 0.01162790722317153,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5181944445476089,
+      "text" : "[A] Stimulating nitric oxide release to dilate interlobar arteries",
+      "x" : 0.2119341608539094,
+      "w" : 0.3580246931351956,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5072351420436811,
+      "text" : "[B] Inhibiting voltage-gated calcium channels in the efferent arteriole",
+      "x" : 0.2325102930555554,
+      "w" : 0.39917695147436366,
+      "h" : 0.011692505942450526,
+      "conf" : 1
+    },
+    {
+      "y" : 0.49486111103196256,
+      "text" : "[C] Opening stretch-activated cation (Ca2+) channels in afferent arteriolar",
+      "x" : 0.24588476828703712,
+      "w" : 0.43004113923078807,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4832848837936046,
+      "text" : "smooth muscle leading to vasoconstriction",
+      "x" : 0.16255144465020563,
+      "w" : 0.2592592539277467,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4716569768350291,
+      "text" : "[D] Releasing bradykinin from podocyte foot processes",
+      "x" : 0.1944444484825102,
+      "w" : 0.32304526275058965,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.46002906974321706,
+      "text" : "[E] Inducing smooth muscle cell hyperpolarization via potassium efflux",
+      "x" : 0.238683120644719,
+      "w" : 0.4156378500116696,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4330878551166169,
+      "text" : "Q19. [2021 Exam] In the Myogenic Mechanism, an acute rise in renal",
+      "x" : 0.251028812037037,
+      "w" : 0.4362139911771571,
+      "h" : 0.011731265915764788,
+      "conf" : 1
+    },
+    {
+      "y" : 0.42001937975536796,
+      "text" : "arterial perfusion pressure causes vasoconstriction predominantly of",
+      "x" : 0.25308642681755805,
+      "w" : 0.4403292098135318,
+      "h" : 0.011705426110161676,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4062499999273256,
+      "text" : "which vascular segment?",
+      "x" : 0.11316872153635125,
+      "w" : 0.16460904535257592,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.39182614933118465,
+      "text" : "[A] Efferent arteriole exclusively",
+      "x" : 0.12552835272699422,
+      "w" : 0.18545514232707472,
+      "h" : 0.010567461649576781,
+      "conf" : 1
+    },
+    {
+      "y" : 0.38013888896803744,
+      "text" : "[B] Peritubular capillary network",
+      "x" : 0.12551440565843616,
+      "w" : 0.18930040515443816,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.36847222201797913,
+      "text" : "[C] Arcuate vein",
+      "x" : 0.08024691481481479,
+      "w" : 0.09876542721154555,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.35680555547055975,
+      "text" : "[D] Afferent Arteriole (increasing resistance in direct proportion to pressure)",
+      "x" : 0.25205760579561065,
+      "w" : 0.4423867951399125,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.34445090418664503,
+      "text" : "[E] Descending vasa recta only",
+      "x" : 0.12139917688614538,
+      "w" : 0.18106995588578517,
+      "h" : 0.011679585774739598,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3059722224387867,
+      "text" : "Q20. [2020 Exam] The sensor component in the Tubuloglomerular",
+      "x" : 0.24279834866255165,
+      "w" : 0.4197530686480445,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.29291666649291365,
+      "text" : "Feedback (TGF) mechanism is anatomically situated in the:",
+      "x" : 0.22222222853223578,
+      "w" : 0.3786008103088763,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.27682170530356087,
+      "text" : "[A] Podocyte pedicels of the visceral layer",
+      "x" : 0.15534979008916336,
+      "w" : 0.24897118334500293,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2659883718992248,
+      "text" : "[B] Brush border of early proximal convoluted tubules",
+      "x" : 0.18724279787379974,
+      "w" : 0.3127571921678459,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2536337210029069,
+      "text" : "[C] Endothelial cells of descending vasa recta",
+      "x" : 0.1656378645747598,
+      "w" : 0.26954732451049035,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.24347222201797925,
+      "text" : "[D] Mesangial matrix of the urinary pole",
+      "x" : 0.14814815108024681,
+      "w" : 0.23456789412588439,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.23180555547055975,
+      "text" : "[E] Macula Densa cells located at the junction of thick ascending limb and early",
+      "x" : 0.26131686474622795,
+      "w" : 0.46090535097901925,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.22093023265503864,
+      "text" : "DCT",
+      "x" : 0.047325103360768166,
+      "w" : 0.028806584436188706,
+      "h" : 0.00872092988755968,
+      "conf" : 0.5
+    },
+    {
+      "y" : 0.17884366959480857,
+      "text" : "Q21. [2024 Exam] What luminal parameter is directly detected by",
+      "x" : 0.23971194104938254,
+      "w" : 0.4135802167016755,
+      "h" : 0.011757105721367678,
+      "conf" : 1
+    },
+    {
+      "y" : 0.16497093006298452,
+      "text" : "Macula Densa cells to initiate Tubuloglomerular Feedback?",
+      "x" : 0.22119341745541832,
+      "w" : 0.37654320099068894,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.15041666676565557,
+      "text" : "[A] Rate of NaCl transport via apical NKCC2 cotransporters (reflecting tubular",
+      "x" : 0.2572016385459536,
+      "w" : 0.45267486572265625,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.13953488367248068,
+      "text" : "flow rate)",
+      "x" : 0.06069958748285326,
+      "w" : 0.059670778190564815,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.1271802325036338,
+      "text" : "[B] Urinary glucose concentration exceeding the renal threshold",
+      "x" : 0.21604937808641986,
+      "w" : 0.3703703730361267,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.1155523256540697,
+      "text" : "[C] Plasma oncotic pressure in the peritubular capillaries",
+      "x" : 0.19753086975308629,
+      "w" : 0.33333333333333337,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.10392441869549418,
+      "text" : "[D] Dissolved nitrogen gas partial pressure",
+      "x" : 0.15740741051954724,
+      "w" : 0.24897118334500296,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.09235465113073338,
+      "text" : "[E] Intraluminal pH independent of electrolyte concentration",
+      "x" : 0.20576132037037034,
+      "w" : 0.3497942318706393,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6867829457217135,
+      "text" : "Q24. [2025 Exam] How do Loop Diuretics (e.g., Furosemide) affect the",
+      "x" : 0.7335390970850479,
+      "w" : 0.4465020617599007,
+      "h" : 0.01310077508290619,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6737467700455757,
+      "text" : "Tubuloglomerular Feedback mechanism?",
+      "x" : 0.6419753060082305,
+      "w" : 0.2633744725641215,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "y" : 0.659156976798692,
+      "text" : "[A] They stimulate TGF, causing profound afferent arteriolar constriction",
+      "x" : 0.7191358077417694,
+      "w" : 0.4218107019580386,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6475290696947675,
+      "text" : "[B] They destroy macula densa cell nuclei within minutes",
+      "x" : 0.6748971137860085,
+      "w" : 0.33333333333333337,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6359625323536205,
+      "text" : "[C] They convert adenosine into a potent systemic vasoconstrictor",
+      "x" : 0.7026749019804526,
+      "w" : 0.38888888089162,
+      "h" : 0.0102971574995252,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6243055556791873,
+      "text" : "[D] They block NKCC2 in macula densa, mimicking low tubular NaCl and",
+      "x" : 0.7181069888888891,
+      "w" : 0.4197530686480444,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6126388888260282,
+      "text" : "blocking TF-mediated vasoconstriction",
+      "x" : 0.6306584402263373,
+      "w" : 0.2407407220804466,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6009722222786088,
+      "text" : "[E] They abolish all myogenic responses in systemic muscular arteries",
+      "x" : 0.7129629578446504,
+      "w" : 0.4094649980653007,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5603197673812985,
+      "text" : "Q25. [Faculty Exam] What is the primary physiological purpose of renal",
+      "x" : 0.7335390909293553,
+      "w" : 0.4465020617599008,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5472383720203489,
+      "text" : "autoregulation of GFR and RBF?",
+      "x" : 0.6152263338820303,
+      "w" : 0.21399175296039696,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5319509041882082,
+      "text" : "[A] To allow wide urine output swings when blood pressure changes",
+      "x" : 0.707818935030864,
+      "w" : 0.3991769514743637,
+      "h" : 0.011679586304558565,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5203036173685927,
+      "text" : "[B] To prevent arterial blood from ever reaching the renal medulla",
+      "x" : 0.698559664437586,
+      "w" : 0.3806584196270638,
+      "h" : 0.011718345748053638,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5079295866536281,
+      "text" : "[C] To stimulate continuous renin secretion during rest",
+      "x" : 0.6697530918038406,
+      "w" : 0.32304526275058965,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "y" : 0.49636627919089155,
+      "text" : "[D] To link renal oxygen consumption directly to cardiac output",
+      "x" : 0.6923868374142659,
+      "w" : 0.36831273972613254,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.48473837203851744,
+      "text" : "[E] To prevent huge water & solute excretion swings during BP changes",
+      "x" : 0.7160493775205763,
+      "w" : 0.41563785001166964,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.43386627914244186,
+      "text" : "Q26. [2022 Exam] If Mean Arterial Pressure increases from 100 to 140",
+      "x" : 0.7335390991152262,
+      "w" : 0.4465020617599008,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4193055554887284,
+      "text" : "mmg within the autoregulatory range, what change occurs in Renal",
+      "x" : 0.726337443106996,
+      "w" : 0.436213991177157,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4062500000908431,
+      "text" : "Vascular Resistance (RVR)?",
+      "x" : 0.5997942409207819,
+      "w" : 0.1790123465675978,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3917151163226745,
+      "text" : "[A] RVR increases proportionally (Flow = Pressure \/ Resistance, maintaining",
+      "x" : 0.7294238726954732,
+      "w" : 0.43827157650353776,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.38013888896803744,
+      "text" : "constant RBF)",
+      "x" : 0.5524691368569958,
+      "w" : 0.08436213799242709,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.36847222201797913,
+      "text" : "[B] RVR decreases by 50% to allow more blood flow",
+      "x" : 0.6594650243569957,
+      "w" : 0.3024691215851021,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3561111113556578,
+      "text" : "[C] RVR remains completely unchanged",
+      "x" : 0.6255144062242798,
+      "w" : 0.2345678941258844,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "y" : 0.34514534873153735,
+      "text" : "[D] RVR drops to zero",
+      "x" : 0.5730452690586421,
+      "w" : 0.1255143963315951,
+      "h" : 0.01029069794548887,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3328036172232439,
+      "text" : "[E] RVR fluctuates erratically without any relationship to pressure",
+      "x" : 0.6965020592249658,
+      "w" : 0.3806584196270636,
+      "h" : 0.011718345748053638,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3066666664054101,
+      "text" : "Q27. [Core Concept] High-protein intake and amino acid infusions cause",
+      "x" : 0.7386831248971195,
+      "w" : 0.45679013234264443,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2929166668773838,
+      "text" : "a notable increase in GFR and RBF. What is the accepted mechanism?",
+      "x" : 0.7325102805898492,
+      "w" : 0.4485596470862814,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.27682170530356087,
+      "text" : "[A] Amino acids directly destroy the glomerular basement membrane",
+      "x" : 0.7098765364883404,
+      "w" : 0.4032921461189318,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2667151163517441,
+      "text" : "[B] Increased Na+-amino acid cotransport in PCT decreases distal NaCl",
+      "x" : 0.716049386872428,
+      "w" : 0.41563785001166964,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2544121448728339,
+      "text" : "delivery to macula densa, turning off TGF constriction",
+      "x" : 0.6676954746141974,
+      "w" : 0.31481480148603336,
+      "h" : 0.0117312653859456,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2427648579805438,
+      "text" : "[C] Complete paralysis of the afferent arteriolar smooth muscle by urea",
+      "x" : 0.7160493757887518,
+      "w" : 0.41563785001166953,
+      "h" : 0.011692505942450637,
+      "conf" : 1
+    },
+    {
+      "y" : 0.23180555559773997,
+      "text" : "[D] Direct stimulation of renal sympathetic vasoconstrictor nerves",
+      "x" : 0.7006172887602881,
+      "w" : 0.3847736622552451,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.22014534886926662,
+      "text" : "[E] Acute contraction of extraglomerular mesangial cells",
+      "x" : 0.6718106940672155,
+      "w" : 0.3312757000233393,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "y" : 0.17957041352200176,
+      "text" : "Q28. [Core Concept] In uncontrolled Diabetes Mellitus with severe",
+      "x" : 0.7191358076903291,
+      "w" : 0.4176954833216636,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "y" : 0.16497093030523247,
+      "text" : "hyperglycemia, early renal hyperfiltration (elevated GFR) is largely driven",
+      "x" : 0.738683135185185,
+      "w" : 0.4567900843590311,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.151162790755814,
+      "text" : "by:",
+      "x" : 0.5195473253292181,
+      "w" : 0.022633744485723195,
+      "h" : 0.01162790722317164,
+      "conf" : 1
+    },
+    {
+      "y" : 0.1380555555916837,
+      "text" : "[A] Absence of efferent arteriolar smooth muscle in diabetics",
+      "x" : 0.6872428043209874,
+      "w" : 0.3580246691433888,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "y" : 0.1256944444177121,
+      "text" : "[B] Retrograde blood flow from renal veins into glomeruli",
+      "x" : 0.6748971249657063,
+      "w" : 0.33744855196970813,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.11403746768271666,
+      "text" : "[C] SGLT2 uptake in PCT drops distal NaCl, dilating afferent arterioles",
+      "x" : 0.7109053447273664,
+      "w" : 0.405349779428926,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "y" : 0.10247093017805226,
+      "text" : "[D] Hyperglycemia-induced apoptosis of juxtaglomerular cells",
+      "x" : 0.6882716004372429,
+      "w" : 0.360082302453383,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.09084302318313953,
+      "text" : "[E] Precipitation of glucose crystals in Bowman's capsule",
+      "x" : 0.6748971137174213,
+      "w" : 0.33744855196970813,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.014573643611020815,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Boars gam Past Papers",
+      "x" : 0.3209876615226336,
+      "w" : 0.5761316647319674,
+      "h" : 0.017519379191928475,
+      "conf" : 1
+    },
+    {
+      "y" : 0.01966085278616625,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321,
+      "w" : 0.19135801447262546,
+      "h" : 0.007344961166381836,
+      "conf" : 1
+    }
+  ]
+}

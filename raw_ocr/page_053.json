@@ -1,0 +1,981 @@
+{
+  "page" : 53,
+  "items" : [
+    {
+      "x" : 0.2829218099108368,
+      "y" : 0.9774224804452566,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 13 MCQ Masterclass",
+      "h" : 0.013178293969896115,
+      "w" : 0.5,
+      "conf" : 1
+    },
+    {
+      "x" : 0.9351851860318658,
+      "y" : 0.9760174419605463,
+      "text" : "Page 3 of 4",
+      "h" : 0.01091313150193951,
+      "w" : 0.0681153483360819,
+      "conf" : 1
+    },
+    {
+      "x" : 0.3816872515174895,
+      "y" : 0.9643217054186286,
+      "text" : "Twisted Medicine Medical Series • Countercurrent Multiplier, Exchanger, Urea Recycling & Water Balance • Standard Practice Bank",
+      "h" : 0.01031007766723635,
+      "w" : 0.6975308304312845,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24074074493827158,
+      "y" : 0.9484302327109029,
+      "text" : "Q29. [2025 Exam] In the presence of high circulating Antidiuretic",
+      "h" : 0.013139534526401153,
+      "w" : 0.41975306864804446,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7345679055555554,
+      "y" : 0.9484625323354519,
+      "text" : "Q36. [2023 Exam] In Central Diabetes Insipidus (neurogenic DI), the",
+      "h" : 0.010297157499525311,
+      "w" : 0.4320987725407822,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23765431586934171,
+      "y" : 0.9353197673873546,
+      "text" : "Hormone (ADH) during dehydration, what is the maximum urine",
+      "h" : 0.010174418555365716,
+      "w" : 0.40946499806530073,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7253086488683125,
+      "y" : 0.9353197675145348,
+      "text" : "primary underlying pathophysiology and response to exogenous",
+      "h" : 0.010174418555365716,
+      "w" : 0.41358021670167544,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1471193444187242,
+      "y" : 0.9222383721838663,
+      "text" : "osmolality achievable in humans?",
+      "h" : 0.010174418555365605,
+      "w" : 0.22839506617132221,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6121399208161864,
+      "y" : 0.9222383722141473,
+      "text" : "Desmopressin (dDAVP) is:",
+      "h" : 0.010174418555365605,
+      "w" : 0.1872427958362507,
+      "conf" : 1
+    },
+    {
+      "x" : 0.13580247170781884,
+      "y" : 0.906250000090843,
+      "text" : "[A] ~100 mOsm\/kg (hypo-osmotic)",
+      "h" : 0.01027777777777783,
+      "w" : 0.20576131568764738,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6903292123113858,
+      "y" : 0.9076453488692666,
+      "text" : "[A] Deficient ADH secretion; U_osm rises >50% after dDAVP",
+      "h" : 0.01029069741566968,
+      "w" : 0.34773662255245197,
+      "conf" : 1
+    },
+    {
+      "x" : 0.16563785936213998,
+      "y" : 0.8938888890893744,
+      "text" : "[B] ~300 m0sm\/kg (iso-osmotic with plasma)",
+      "h" : 0.011666666666666714,
+      "w" : 0.2695473245104904,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6460905393004115,
+      "y" : 0.8945833331710658,
+      "text" : "[B] V2 resistance; zero response to dDAVP",
+      "h" : 0.01027777777777783,
+      "w" : 0.2592592539277466,
+      "conf" : 1
+    },
+    {
+      "x" : 0.0926285943176867,
+      "y" : 0.8815133462317423,
+      "text" : "[C~5000 mOsm\/kg",
+      "h" : 0.01354687902662488,
+      "w" : 0.12823094062085422,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.6882716006430043,
+      "y" : 0.8815277779820208,
+      "text" : "[C] Psychogenic polydipsia with intact concentrating ability",
+      "h" : 0.010277777777777719,
+      "w" : 0.34362137992427044,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23251028127572035,
+      "y" : 0.8684722224206181,
+      "text" : "[D] ~ 1200 to 1400 mOsm\/kg, matching the deep medullary interstitial",
+      "h" : 0.010277777777777719,
+      "w" : 0.40740741273892,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6903292137602882,
+      "y" : 0.8684722224387866,
+      "text" : "[D] Chronic hyperaldosteronism downregulating aquaporins",
+      "h" : 0.010277777777777719,
+      "w" : 0.34773662255245186,
+      "conf" : 1
+    },
+    {
+      "x" : 0.08024691234567904,
+      "y" : 0.8568313952943314,
+      "text" : "hyperosmolality",
+      "h" : 0.010174418555365605,
+      "w" : 0.09876542721154556,
+      "conf" : 1
+    },
+    {
+      "x" : 0.654320982990398,
+      "y" : 0.8561111111981966,
+      "text" : "[E] Loop diuretic washout of medullary gradient",
+      "h" : 0.011666666666666714,
+      "w" : 0.2798353711014273,
+      "conf" : 1
+    },
+    {
+      "x" : 0.08333333508230445,
+      "y" : 0.8437499998304263,
+      "text" : "[E] ~50 mOsm\/kg",
+      "h" : 0.010277777777777719,
+      "w" : 0.10905349779428924,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2582304571810699,
+      "y" : 0.82115633077669,
+      "text" : "Q30. [2024 Exam] In the complete absence of ADH (e.g., after drinking",
+      "h" : 0.011757106251186866,
+      "w" : 0.45061728039627547,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23251029310699578,
+      "y" : 0.8080878550802797,
+      "text" : "large volumes of water or in Central Diabetes Insipidus), urine",
+      "h" : 0.011731265915764788,
+      "w" : 0.40329219410254524,
+      "conf" : 1
+    },
+    {
+      "x" : 0.10493827340534972,
+      "y" : 0.7943055556340772,
+      "text" : "osmolality can fall to:",
+      "h" : 0.01027777777777783,
+      "w" : 0.14403291618299183,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1604938239711935,
+      "y" : 0.7798546512684628,
+      "text" : "[A] 600 mOsm\/kg with massive proteinuria",
+      "h" : 0.01029069794548887,
+      "w" : 0.25514403529137186,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19753086975308629,
+      "y" : 0.7667151163517442,
+      "text" : "[B] Exactly 300 mOsm\/kg with normal daily urine volume",
+      "h" : 0.010174418555365605,
+      "w" : 0.33333333333333337,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1738683091820989,
+      "y" : 0.7543604650436047,
+      "text" : "[C] Zero (no urine can be produced without ADH)",
+      "h" : 0.00872092988755968,
+      "w" : 0.28600822304779633,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1502057653635115,
+      "y" : 0.7405523257025194,
+      "text" : "[DJ 1200 mOsm\/kg with severe oliguria",
+      "h" : 0.010174418555365827,
+      "w" : 0.2427983553904407,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2510288109876543,
+      "y" : 0.7289244186773256,
+      "text" : "[E] As low as ~50 to 70 mOsm\/kg, with urine output increasing up to 15-20",
+      "h" : 0.010174418555365605,
+      "w" : 0.44032920981353185,
+      "conf" : 1
+    },
+    {
+      "x" : 0.06275720182979588,
+      "y" : 0.717296511752445,
+      "text" : "Liters\/day",
+      "h" : 0.01109883096483022,
+      "w" : 0.06406870428121315,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2283950568415639,
+      "y" : 0.6940277779820209,
+      "text" : "Q31. [2023 Exam] What is the intracellular signaling cascade",
+      "h" : 0.01027777777777783,
+      "w" : 0.3909464902098074,
+      "conf" : 1
+    },
+    {
+      "x" : 0.258230460185185,
+      "y" : 0.6809722220361478,
+      "text" : "triggered by ADH binding to basolateral V2 receptors in principal cells",
+      "h" : 0.010277777777777719,
+      "w" : 0.4506172803962756,
+      "conf" : 1
+    },
+    {
+      "x" : 0.10596708001543206,
+      "y" : 0.6671963826919693,
+      "text" : "of the collecting duct?",
+      "h" : 0.011718345748053638,
+      "w" : 0.14609052550117924,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25411523371056216,
+      "y" : 0.6533430233284883,
+      "text" : "[A] Gs protein -> Adenylyl Cyclase -> increased cAMP -> Protein Kinase A ->",
+      "h" : 0.010174418555365716,
+      "w" : 0.4423867951399125,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1872427931412896,
+      "y" : 0.6417151161579457,
+      "text" : "phosphorylation and apical insertion of Aquaporin-2",
+      "h" : 0.010174418555365605,
+      "w" : 0.31275719216784587,
+      "conf" : 1
+    },
+    {
+      "x" : 0.254115220756173,
+      "y" : 0.6286337208757267,
+      "text" : "[B] Gq protein -> Phospholipase C -> IP3\/DAG -> intracellular calcium release",
+      "h" : 0.010174418555365605,
+      "w" : 0.44650206175990076,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23765432615740725,
+      "y" : 0.6155523256359012,
+      "text" : "[C] Gi protein -> inhibition of adenylyl cyclase -> closure of water pores",
+      "h" : 0.010174418555365716,
+      "w" : 0.41358021670167555,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2458847808299037,
+      "y" : 0.6024709303052327,
+      "text" : "[D] Tyrosine kinase receptor autophosphorylation -> MAP kinase cascade",
+      "h" : 0.010174418555365716,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23148147472565175,
+      "y" : 0.5900484494169329,
+      "text" : "[E] Guanylyl cyclase activation -> increased cMP -> protein kinase G",
+      "h" : 0.01176356527540412,
+      "w" : 0.4053497794289259,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2551440322359396,
+      "y" : 0.5669121447985963,
+      "text" : "Q32. [2022 Exam] Which Aquaporin water channels are constitutively",
+      "h" : 0.011731265915764677,
+      "w" : 0.44444442844990667,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25102880113168735,
+      "y" : 0.5538436694736845,
+      "text" : "expressed on the basolateral membrane of collecting duct principal",
+      "h" : 0.011757105721367678,
+      "w" : 0.436213991177157,
+      "conf" : 1
+    },
+    {
+      "x" : 0.11831275681584359,
+      "y" : 0.5399224804997623,
+      "text" : "cells independent of ADH?",
+      "h" : 0.013178293969896115,
+      "w" : 0.1748971159353196,
+      "conf" : 1
+    },
+    {
+      "x" : 0.09670782112482845,
+      "y" : 0.5254166669110044,
+      "text" : "[A] Aquaporin-2 only",
+      "h" : 0.01027777777777783,
+      "w" : 0.13168723628206072,
+      "conf" : 1
+    },
+    {
+      "x" : 0.12757201617283953,
+      "y" : 0.5137532299834942,
+      "text" : "[B] Aquaporin-3 and Aquaporin-4",
+      "h" : 0.01028423786163335,
+      "w" : 0.1934156357867163,
+      "conf" : 1
+    },
+    {
+      "x" : 0.12757201887860073,
+      "y" : 0.5006944443874309,
+      "text" : "[C] Aquaporin-1 and Aquaporin-7",
+      "h" : 0.01027777777777783,
+      "w" : 0.19341563578671625,
+      "conf" : 1
+    },
+    {
+      "x" : 0.10082304759945121,
+      "y" : 0.48833333323084616,
+      "text" : "[D] SGLT2 and GLUT2",
+      "h" : 0.008888889153798374,
+      "w" : 0.13991768555071368,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.11728394766803853,
+      "y" : 0.47458333313744516,
+      "text" : "[E] Claudin-16 and Claudin-19",
+      "h" : 0.01027777777777783,
+      "w" : 0.17695472525350706,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24897119773662543,
+      "y" : 0.4404069768023256,
+      "text" : "Q33. [2021 Exam] Free Water Clearance (C_H20) is mathematically",
+      "h" : 0.01162790722317164,
+      "w" : 0.43209877254078227,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24588477143347054,
+      "y" : 0.4272642118521579,
+      "text" : "calculated using urine flow rate (V), urine osmolality (U_osm), and",
+      "h" : 0.01175064563751227,
+      "w" : 0.4259259205944133,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1347736629835391,
+      "y" : 0.41279069781976735,
+      "text" : "plasma osmolality (P_osm) as:",
+      "h" : 0.014534883499145557,
+      "w" : 0.2078189250058348,
+      "conf" : 1
+    },
+    {
+      "x" : 0.10596708069272966,
+      "y" : 0.39825258387600493,
+      "text" : "[A] C_H20 = V + C_osm",
+      "h" : 0.008727390236324739,
+      "w" : 0.15020575613345738,
+      "conf" : 1
+    },
+    {
+      "x" : 0.13271605277777765,
+      "y" : 0.38596253233545186,
+      "text" : "[B] C_H20 = (P_osm x V) \/ U_osm",
+      "h" : 0.0102971574995252,
+      "w" : 0.20370370636946,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.18004114729080953,
+      "y" : 0.3728197674176357,
+      "text" : "[C] C_H20 = V - C_osm = V - [(U_osm x V) \/ P_osm]",
+      "h" : 0.010174418555365605,
+      "w" : 0.29835390294872743,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.11625514687928659,
+      "y" : 0.36046511632751943,
+      "text" : "[D] C_H20 = U_osm - P_osm",
+      "h" : 0.00872092988755968,
+      "w" : 0.17078188530304145,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.1388888855624144,
+      "y" : 0.3481782945768785,
+      "text" : "[E] C_H20 = GFR x Filtration Fraction",
+      "h" : 0.010310077137417273,
+      "w" : 0.2160493862703911,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7397119385802469,
+      "y" : 0.82115633077669,
+      "text" : "Q37. [2022 Exam] In Nephrogenic Diabetes Insipidus (e.g., caused by",
+      "h" : 0.011757106251186866,
+      "w" : 0.44238684312352594,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7294238735853908,
+      "y" : 0.8080878550802797,
+      "text" : "chronic Lithium therapy or congenital V2 receptor mutations), the",
+      "h" : 0.011731265915764788,
+      "w" : 0.4218107019580386,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5967078216049382,
+      "y" : 0.7957848837936046,
+      "text" : "response to dDAVP is:",
+      "h" : 0.010174418555365716,
+      "w" : 0.16049382671620105,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6882716006430043,
+      "y" : 0.7798546512684628,
+      "text" : "[A] Marked increase in urine osmolality to >1000 mOsm\/kg",
+      "h" : 0.01029069794548887,
+      "w" : 0.34362137992427044,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7253086367541155,
+      "y" : 0.766715116224564,
+      "text" : "[B] Minimal or no increase in urine osmolality (<10% to 50%), confirming",
+      "h" : 0.010174418555365716,
+      "w" : 0.41769548332166384,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6378600782578877,
+      "y" : 0.7551388888408572,
+      "text" : "collecting duct unresponsiveness to ADH",
+      "h" : 0.01027777777777783,
+      "w" : 0.2427983553904407,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6831275669410153,
+      "y" : 0.7427648581001045,
+      "text" : "[C] Immediate cessation of all urine output (acute anuria)",
+      "h" : 0.011692506472269715,
+      "w" : 0.337448551969708,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6687242849794237,
+      "y" : 0.7296963826798569,
+      "text" : "[D] Severe hyponatremia with acute cerebral edema",
+      "h" : 0.011718345748053638,
+      "w" : 0.30864197353147105,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7088477301440331,
+      "y" : 0.7173546512502942,
+      "text" : "[E] Massive precipitation of calcium oxalate stones in both ureters",
+      "h" : 0.01029069794548887,
+      "w" : 0.38888888089162,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7170781932716049,
+      "y" : 0.6947351422940556,
+      "text" : "Q38. [2021 Exam] The Syndrome of Inappropriate Antidiuretic",
+      "h" : 0.011692506472269715,
+      "w" : 0.3971193421561763,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7304526749382716,
+      "y" : 0.6809593024563954,
+      "text" : "Hormone (SIADH) is clinically and biochemically characterized by:",
+      "h" : 0.013081394831339521,
+      "w" : 0.42798355390440734,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7088477318158437,
+      "y" : 0.6664244185501453,
+      "text" : "[A] Hypernatremia, hypovolemia, and dilute urine (<100 mOsm\/kg)",
+      "h" : 0.010174418555365605,
+      "w" : 0.38477366225524523,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6604938320301781,
+      "y" : 0.6533430233284883,
+      "text" : "[B] Dehydration, hypotension, and hypercalcemia",
+      "h" : 0.010174418555365716,
+      "w" : 0.29218105100235847,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7181069946502059,
+      "y" : 0.6409883722383721,
+      "text" : "[C] Euvolemic hyponatremia, hypo-osmolality, and concentrated urine",
+      "h" : 0.011627906163533597,
+      "w" : 0.40329219410254535,
+      "conf" : 1
+    },
+    {
+      "x" : 0.651234571270576,
+      "y" : 0.6271802326489826,
+      "text" : "[D] Complete destruction of supraoptic nuclei",
+      "h" : 0.010174418555365605,
+      "w" : 0.26954732451049035,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6574074121742111,
+      "y" : 0.614037467809897,
+      "text" : "[E] Hyperglycemia with glucosuria and ketonuria",
+      "h" : 0.010297157499525311,
+      "w" : 0.2860082230477963,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7376543253703705,
+      "y" : 0.5676388889862061,
+      "text" : "Q39. [2025 Exam] What is the pharmacological mechanism of action",
+      "h" : 0.010277777777777719,
+      "w" : 0.43827157650353776,
+      "conf" : 1
+    },
+    {
+      "x" : 0.712962967824074,
+      "y" : 0.5538436693904611,
+      "text" : "of 'Vaptans' (e.g., Tolvaptan, Conivaptan) in the treatment of",
+      "h" : 0.011757105191548711,
+      "w" : 0.38888888089162,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6316872420781894,
+      "y" : 0.5399224804997623,
+      "text" : "euvolemic hyponatremia in SIADH?",
+      "h" : 0.013178293969896115,
+      "w" : 0.23045267548950965,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7067901282150204,
+      "y" : 0.5254166668807234,
+      "text" : "[A] Agonists of V1a receptors causing systemic vasoconstriction",
+      "h" : 0.010277777777777719,
+      "w" : 0.3806584196270636,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7397119406378597,
+      "y" : 0.513058785126454,
+      "text" : "[B] Direct stimulation of ENaC sodium channels in the cortical collecting duct",
+      "h" : 0.011673126220703045,
+      "w" : 0.4506172803962756,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7129629695130313,
+      "y" : 0.5006944443692625,
+      "text" : "[C] Carbonic anhydrase inhibition in the proximal convoluted tubule",
+      "h" : 0.010277777777777719,
+      "w" : 0.393004099527995,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7078189235939646,
+      "y" : 0.4876388886806794,
+      "text" : "[D] Selective vasopressin V2 receptor antagonists, blocking water",
+      "h" : 0.01027777777777783,
+      "w" : 0.38683127157343256,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7088477431069957,
+      "y" : 0.4759722224542386,
+      "text" : "reabsorption and inducing aquaresis (solute-free water excretion)",
+      "h" : 0.010277777777777719,
+      "w" : 0.3888888808916199,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7273662498713993,
+      "y" : 0.46291666673537457,
+      "text" : "[E] Stimulation of pituitary ADH release via hypothalamic osmoreceptors",
+      "h" : 0.01027777777777783,
+      "w" : 0.4218107019580385,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7304526706584362,
+      "y" : 0.4404069766860465,
+      "text" : "Q40. [Faculty Exam] Why is the urine osmolality of a patient taking",
+      "h" : 0.01162790722317164,
+      "w" : 0.42386828728441917,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6985596752829217,
+      "y" : 0.4272642116946967,
+      "text" : "chronic high-dose Furosemide fixed near 300 mOsm\/kg",
+      "h" : 0.011750645637512158,
+      "w" : 0.3600823024533828,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6502057579732512,
+      "y" : 0.41347222227860875,
+      "text" : "(isosthenuria) regardless of fluid intake?",
+      "h" : 0.010277777777777719,
+      "w" : 0.2674897151923029,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6676954681412897,
+      "y" : 0.39902777759421093,
+      "text" : "[A] Destroys glomerular podocytes and endothelium",
+      "h" : 0.01027777777777783,
+      "w" : 0.30658434022147707,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6563786054869682,
+      "y" : 0.38596253238390155,
+      "text" : "[B] Forms impermeable plastic casts in ureters",
+      "h" : 0.0102971574995252,
+      "w" : 0.2798353711014274,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6563785973251031,
+      "y" : 0.3728197673873547,
+      "text" : "[C] Induces massive ADH secretion and adipsia",
+      "h" : 0.010174418555365605,
+      "w" : 0.2798353950932341,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6604938307613168,
+      "y" : 0.35973837218386634,
+      "text" : "[D] Calcifies medullary collecting ducts into bone",
+      "h" : 0.010174418555365716,
+      "w" : 0.2880658323659836,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6995884835390944,
+      "y" : 0.3473837209786822,
+      "text" : "[E] NKCC2 block abolishes both multiplier and diluting capacity",
+      "h" : 0.00872092988755968,
+      "w" : 0.37037034904432,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2283950568415639,
+      "y" : 0.31319444424208215,
+      "text" : "Q34. [2020 Exam] A positive Free Water Clearance (+C_H20)",
+      "h" : 0.010277777777777719,
+      "w" : 0.3909464902098074,
+      "conf" : 1
+    },
+    {
+      "x" : 0.13477366594650192,
+      "y" : 0.2994412147766469,
+      "text" : "indicates that the kidneys are:",
+      "h" : 0.011673126220703156,
+      "w" : 0.20370370636945997,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22736624859396456,
+      "y" : 0.28415697671996126,
+      "text" : "[A] Excreting hypertonic concentrated urine to conserve body water",
+      "h" : 0.010174418555365716,
+      "w" : 0.3930040995279948,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18930041680384072,
+      "y" : 0.27252906984011627,
+      "text" : "[B] Reabsorbing 100% of all filtered solutes and water",
+      "h" : 0.010174418555365605,
+      "w" : 0.31687241080422074,
+      "conf" : 1
+    },
+    {
+      "x" : 0.13477366601508903,
+      "y" : 0.25944767449127903,
+      "text" : "[C] Failing completely with anuria",
+      "h" : 0.010174418555365605,
+      "w" : 0.20781892500583482,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2551440355281206,
+      "y" : 0.2455878550787164,
+      "text" : "[D] Excreting hypo-osmotic dilute urine (U_osm < P_osm), ridding the body of",
+      "h" : 0.0117312653859456,
+      "w" : 0.4485596470862814,
+      "conf" : 1
+    },
+    {
+      "x" : 0.15226337043895763,
+      "y" : 0.23473837202034892,
+      "text" : "excess solute-free water (water diuresis)",
+      "h" : 0.010174418555365716,
+      "w" : 0.24279835539044076,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22427984190672126,
+      "y" : 0.22165697681686047,
+      "text" : "[E] Reabsorbing pure solute-free water into the hypertonic medulla",
+      "h" : 0.010174418555365605,
+      "w" : 0.3909464902098073,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7335390989506172,
+      "y" : 0.3131944443692623,
+      "text" : "Q41. [Core Concept What is the minimum Obligatory Urine Volume",
+      "h" : 0.010277777777777719,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7325102951989024,
+      "y" : 0.3001388887775786,
+      "text" : "per day required for a 70-kg adult eating a standard diet producing",
+      "h" : 0.010277777777777719,
+      "w" : 0.42798350592079415,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6049382741426611,
+      "y" : 0.2863727390399135,
+      "text" : "600 mOsm of solute daily?",
+      "h" : 0.011698966026306157,
+      "w" : 0.17283949462122883,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7417695416923871,
+      "y" : 0.27107558134084303,
+      "text" : "[A] ~0.5 Liters\/day (calculated as 600 mOsm \/ max U_osm of 1200 mOsm\/L)",
+      "h" : 0.010174418555365716,
+      "w" : 0.4506172803962756,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5720164626886144,
+      "y" : 0.2579295863629304,
+      "text" : "[B] ~5.0 Liters\/day",
+      "h" : 0.01030361758338083,
+      "w" : 0.11522633774475477,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5751028789780522,
+      "y" : 0.24636627923934107,
+      "text" : "[C] ~15.0 Liters\/day",
+      "h" : 0.010174418555365605,
+      "w" : 0.12139917769522035,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5761316887345679,
+      "y" : 0.2332848837754361,
+      "text" : "[D] ~0.05 Liters\/day",
+      "h" : 0.010174418555365605,
+      "w" : 0.11934155638112953,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5720164622942385,
+      "y" : 0.22014534873153735,
+      "text" : "[E] ~2.5 Liters\/day",
+      "h" : 0.01029069794548887,
+      "w" : 0.11111110711247674,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2500000072359394,
+      "y" : 0.18608850142668892,
+      "text" : "Q35. [2024 Exam] A negative Free Water Clearance (-C_H20), often",
+      "h" : 0.011711885664198118,
+      "w" : 0.4341563578671629,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25823045830761304,
+      "y" : 0.17302002600487792,
+      "text" : "designated as tubular conservation of water (T^c_H20), signifies that:",
+      "h" : 0.011737725469801119,
+      "w" : 0.4506172803962756,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22633745339506162,
+      "y" : 0.15764534873153735,
+      "text" : "[A] Net filtration pressure across glomerular capillaries is negative",
+      "h" : 0.01029069794548887,
+      "w" : 0.3868312715734326,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19650206092592581,
+      "y" : 0.14458333312261606,
+      "text" : "[B] The patient is suffering from acute water intoxication",
+      "h" : 0.01027777777777783,
+      "w" : 0.3312757240151459,
+      "conf" : 1
+    },
+    {
+      "x" : 0.13477366292866938,
+      "y" : 0.13152777786695297,
+      "text" : "[C] Urine osmolality is exactly zero",
+      "h" : 0.010277777777777719,
+      "w" : 0.2078189250058348,
+      "conf" : 1
+    },
+    {
+      "x" : 0.17592593076131666,
+      "y" : 0.11847222208459751,
+      "text" : "[D] Inulin clearance is higher than PAH clearance",
+      "h" : 0.01027777777777783,
+      "w" : 0.29012344168417104,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2294238619684501,
+      "y" : 0.10611111091062564,
+      "text" : "[E] Urine is hypertonic to plasma (U_osm > P_osm) and the kidney is",
+      "h" : 0.011666666666666714,
+      "w" : 0.3971193181643696,
+      "conf" : 1
+    },
+    {
+      "x" : 0.12448559578189303,
+      "y" : 0.09374999983042637,
+      "text" : "conserving water (antidiuresis)",
+      "h" : 0.010277777777777719,
+      "w" : 0.18312756520397258,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7325102916323729,
+      "y" : 0.18608850118600423,
+      "text" : "Q42. [Clinical Vignette] A bipolar patient on Lithium has polyuria (6",
+      "h" : 0.011711886194017196,
+      "w" : 0.42798355390440734,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7047325164951987,
+      "y" : 0.17223837216569765,
+      "text" : "L\/day), serum Na+ 148 mEq\/L, and U_osm 120 mOsm\/kg.",
+      "h" : 0.010174418555365716,
+      "w" : 0.37242798235431407,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7242798358024691,
+      "y" : 0.1583720926692796,
+      "text" : "Desmopressin fails to increase U_osm (remains 125 mOsm\/kg).",
+      "h" : 0.01174418555365675,
+      "w" : 0.41152263137529477,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5555555567938784,
+      "y" : 0.14607558149553646,
+      "text" : "Diagnosis?",
+      "h" : 0.011425604290432378,
+      "w" : 0.07439799878582265,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6666666704732509,
+      "y" : 0.1315277775612133,
+      "text" : "[A] Psychogenic Polydipsia (primary water drinking)",
+      "h" : 0.010277777777777719,
+      "w" : 0.30452673090328963,
+      "conf" : 1
+    },
+    {
+      "x" : 0.667695478360768,
+      "y" : 0.11776485812589271,
+      "text" : "[B] Lithium-induced Nephrogenic Diabetes Insipidus",
+      "h" : 0.011692505942450526,
+      "w" : 0.30658434022147696,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6440329250514403,
+      "y" : 0.10541666647474507,
+      "text" : "[C] Central (Neurogenic) Diabetes Insipidus",
+      "h" : 0.010277777777777719,
+      "w" : 0.25925925392774674,
+      "conf" : 1
+    },
+    {
+      "x" : 0.693415642335391,
+      "y" : 0.09235465111256491,
+      "text" : "[D] Syndrome of Inappropriate Antidiuretic Hormone (SIADH)",
+      "h" : 0.010290697415669792,
+      "w" : 0.3580246931351957,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6450617251286008,
+      "y" : 0.0792151162245639,
+      "text" : "[E] Primary Aldosteronism (Conn Syndrome)",
+      "h" : 0.010174418555365605,
+      "w" : 0.26131686324593406,
+      "conf" : 1
+    },
+    {
+      "x" : 0.3209876615226336,
+      "y" : 0.014573643611020815,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & BoargExam Past Papers",
+      "h" : 0.017519379191928475,
+      "w" : 0.5761316647319674,
+      "conf" : 1
+    },
+    {
+      "x" : 0.8734567925154321,
+      "y" : 0.01966085278616625,
+      "text" : "Confidential Student Revision Bank",
+      "h" : 0.007344961166381836,
+      "w" : 0.19135801447262546,
+      "conf" : 1
+    }
+  ]
+}

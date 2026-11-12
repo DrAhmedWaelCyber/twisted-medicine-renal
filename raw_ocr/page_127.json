@@ -1,0 +1,1045 @@
+{
+  "items" : [
+    {
+      "y" : 0.9643217054231215,
+      "w" : 0.42293229915528396,
+      "conf" : 1,
+      "x" : 0.2697368411340853,
+      "h" : 0.010310077137417273,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 33 MCQ Masterclass"
+    },
+    {
+      "y" : 0.9512532299725929,
+      "w" : 0.682330791766827,
+      "conf" : 1,
+      "x" : 0.40131579800281936,
+      "h" : 0.01028423786163335,
+      "text" : "Twisted Medicine Medical Series • Urinary Antispasmodics, BPH Pharmacotherapy, Alkalinizers & Nephrotoxicity • Standard Practice Bank"
+    },
+    {
+      "y" : 0.9643895352298748,
+      "w" : 0.06410680204565633,
+      "conf" : 1,
+      "x" : 0.9097744368908248,
+      "h" : 0.010940208964877685,
+      "text" : "Page 1 of 4"
+    },
+    {
+      "y" : 0.9200193796811303,
+      "w" : 0.7180450900178603,
+      "conf" : 1,
+      "x" : 0.499999991588346,
+      "h" : 0.011705425580342599,
+      "text" : "33. DRUGS AFFECTING URINARY TRACT & RENAL PHARMACOLOGY — PHARMACOLOGY LECTURE"
+    },
+    {
+      "y" : 0.9040697675,
+      "w" : 0.5620300600119068,
+      "conf" : 1,
+      "x" : 0.5009398552443607,
+      "h" : 0.00872092988755968,
+      "text" : "Twisted Medicine Pharmacology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)"
+    },
+    {
+      "y" : 0.8808333331737823,
+      "w" : 0.42293229915528396,
+      "conf" : 1,
+      "x" : 0.26973683681860916,
+      "h" : 0.011666666666666603,
+      "text" : "Q01. [2025 Exam] Which muscarinic receptor subtype is primarily"
+    },
+    {
+      "y" : 0.8677648579563191,
+      "w" : 0.42481201522903933,
+      "conf" : 1,
+      "x" : 0.27067668641917303,
+      "h" : 0.011692505942450637,
+      "text" : "responsible for mediating acetylcholine-induced detrusor smooth"
+    },
+    {
+      "y" : 0.8539244185501453,
+      "w" : 0.3740601200238138,
+      "conf" : 1,
+      "x" : 0.24530074720394748,
+      "h" : 0.010174418555365605,
+      "text" : "muscle contraction in the normal human urinary bladder?"
+    },
+    {
+      "y" : 0.8408430231831396,
+      "w" : 0.42481201522903933,
+      "conf" : 1,
+      "x" : 0.2687969854010027,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Muscarinic M3 receptor (coupled to Gq, activating PLC and IP3-mediated"
+    },
+    {
+      "y" : 0.8284883721656977,
+      "w" : 0.08082706717430133,
+      "conf" : 1,
+      "x" : 0.0986842115366541,
+      "h" : 0.00872092988755968,
+      "text" : "Ca2+ release)"
+    },
+    {
+      "y" : 0.8168604650564988,
+      "w" : 0.15225563076740542,
+      "conf" : 1,
+      "x" : 0.13251879889567666,
+      "h" : 0.00872093015246922,
+      "text" : "[B] Muscarinic M1 receptor"
+    },
+    {
+      "y" : 0.8045704133948215,
+      "w" : 0.21804511195716886,
+      "conf" : 1,
+      "x" : 0.16353383095238108,
+      "h" : 0.01030361758338083,
+      "text" : "[C] Muscarinic M2 receptor exclusively"
+    },
+    {
+      "y" : 0.7929166664747449,
+      "w" : 0.15225563076740542,
+      "conf" : 1,
+      "x" : 0.13251879889567666,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Muscarinic M4 receptor"
+    },
+    {
+      "y" : 0.7812500000545057,
+      "w" : 0.15225563076740542,
+      "conf" : 1,
+      "x" : 0.13251879889567666,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Muscarinic M5 receptor"
+    },
+    {
+      "y" : 0.766715116224564,
+      "w" : 0.36842105955978166,
+      "conf" : 1,
+      "x" : 0.24248119840225574,
+      "h" : 0.010174418555365716,
+      "text" : "Q02. [2024 Exam] Primary mechanism of Oxybutynin and"
+    },
+    {
+      "y" : 0.7536337210029069,
+      "w" : 0.41541352261749637,
+      "conf" : 1,
+      "x" : 0.26597744776315774,
+      "h" : 0.010174418555365716,
+      "text" : "Tolterodine in Overactive Bladder (OAB) and urge incontinence:"
+    },
+    {
+      "y" : 0.7390374677129977,
+      "w" : 0.3045112615348108,
+      "conf" : 1,
+      "x" : 0.20864661146616556,
+      "h" : 0.0102971574995252,
+      "text" : "[A] Direct stimulation of pelvic parasympathetic ganglia"
+    },
+    {
+      "y" : 0.7274709302507267,
+      "w" : 0.40977441827484723,
+      "conf" : 1,
+      "x" : 0.2612782006109021,
+      "h" : 0.010174418555365605,
+      "text" : "[B] Competitive muscarinic receptor blockade on detrusor smooth muscle,"
+    },
+    {
+      "y" : 0.7158430231831396,
+      "w" : 0.16165413434860262,
+      "conf" : 1,
+      "x" : 0.13721804241854646,
+      "h" : 0.010174418555365716,
+      "text" : "reducing uninhibited spasms"
+    },
+    {
+      "y" : 0.7027616277374031,
+      "w" : 0.34774435826294037,
+      "conf" : 1,
+      "x" : 0.2302631551065164,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Selective agonism of alpha-1 receptors at the bladder neck"
+    },
+    {
+      "y" : 0.6918604650322739,
+      "w" : 0.30827067174301315,
+      "conf" : 1,
+      "x" : 0.21240602017543844,
+      "h" : 0.008720930152469109,
+      "text" : "[D] Direct enzymatic destruction of acetylcholinesterase"
+    },
+    {
+      "y" : 0.6795704135220018,
+      "w" : 0.3571428508744833,
+      "conf" : 1,
+      "x" : 0.2349624104793232,
+      "h" : 0.01030361758338083,
+      "text" : "[E] Blockade of beta-3 adrenergic receptors in the bladder dome"
+    },
+    {
+      "y" : 0.652548449321597,
+      "w" : 0.4097744182748472,
+      "conf" : 1,
+      "x" : 0.2631578998590224,
+      "h" : 0.011763565805223308,
+      "text" : "Q03. [2023 Exam] Which of the following antimuscarinic agents"
+    },
+    {
+      "y" : 0.6394799739966853,
+      "w" : 0.4191729108863902,
+      "conf" : 1,
+      "x" : 0.26785714270050126,
+      "h" : 0.011737725999620308,
+      "text" : "exhibits high selectivity for the M3 receptor subtype over M1 and"
+    },
+    {
+      "y" : 0.6256944442529833,
+      "w" : 0.2894736865199272,
+      "conf" : 1,
+      "x" : 0.20300751590225571,
+      "h" : 0.010277777777777719,
+      "text" : "M2, thereby minimizing cardiac side effects?"
+    },
+    {
+      "y" : 0.6119444444083162,
+      "w" : 0.06954886945865721,
+      "conf" : 1,
+      "x" : 0.09116541237468676,
+      "h" : 0.008888888888888946,
+      "text" : "[A] Atropine"
+    },
+    {
+      "y" : 0.599583333570365,
+      "w" : 0.09398495902439229,
+      "conf" : 1,
+      "x" : 0.10338345770676693,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Scopolamine"
+    },
+    {
+      "y" : 0.5879166668443863,
+      "w" : 0.1748120261986936,
+      "conf" : 1,
+      "x" : 0.14379699466635332,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Darifenacin and Solifenacin"
+    },
+    {
+      "y" : 0.5762532299770858,
+      "w" : 0.09210526488994542,
+      "conf" : 1,
+      "x" : 0.10244360811403513,
+      "h" : 0.010284237331814383,
+      "text" : "[D] Bethanechol"
+    },
+    {
+      "y" : 0.5631944443874309,
+      "w" : 0.09210526488994542,
+      "conf" : 1,
+      "x" : 0.10244361017387216,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Neostigmine"
+    },
+    {
+      "y" : 0.537083333282794,
+      "w" : 0.3815789404402184,
+      "conf" : 1,
+      "x" : 0.2509398534398496,
+      "h" : 0.010277777777777719,
+      "text" : "Q04. [2022 Exam] Why is Tropium chloride considered the"
+    },
+    {
+      "y" : 0.5233042635938778,
+      "w" : 0.4304511195716886,
+      "conf" : 1,
+      "x" : 0.2734962393796993,
+      "h" : 0.011724805831909157,
+      "text" : "preferred antimuscarinic agent for elderly patients with Overactive"
+    },
+    {
+      "y" : 0.5102357881639403,
+      "w" : 0.41165413434860265,
+      "conf" : 1,
+      "x" : 0.26597744772556386,
+      "h" : 0.011750646167331347,
+      "text" : "Bladder who have mild cognitive impairment or early dementia?"
+    },
+    {
+      "y" : 0.49636627890019375,
+      "w" : 0.34022555978584423,
+      "conf" : 1,
+      "x" : 0.22650375711152884,
+      "h" : 0.010174418555365716,
+      "text" : "[A] It is completely metabolized in the stomach into dopamine"
+    },
+    {
+      "y" : 0.4847383721656977,
+      "w" : 0.3120300600119069,
+      "conf" : 1,
+      "x" : 0.21240602023809504,
+      "h" : 0.010174418555365605,
+      "text" : "[B] It directly stimulates cerebral acetylcholine synthesis"
+    },
+    {
+      "y" : 0.4731782945768785,
+      "w" : 0.2913533806543741,
+      "conf" : 1,
+      "x" : 0.2020676645676693,
+      "h" : 0.010310077137417273,
+      "text" : "[C] It is administered strictly as an intravenous bolus"
+    },
+    {
+      "y" : 0.46002906985828496,
+      "w" : 0.42669173130279475,
+      "conf" : 1,
+      "x" : 0.2697368474389097,
+      "h" : 0.010174418555365605,
+      "text" : "[D] It is a quaternary amine with low lipid solubility that does not readily cross"
+    },
+    {
+      "y" : 0.44916666676915384,
+      "w" : 0.12593984706722344,
+      "conf" : 1,
+      "x" : 0.11936090015664166,
+      "h" : 0.008888889153798374,
+      "text" : "the blood-brain barrier"
+    },
+    {
+      "y" : 0.43680555577608643,
+      "w" : 0.3515037465318341,
+      "conf" : 1,
+      "x" : 0.23214286065789463,
+      "h" : 0.010277777777777719,
+      "text" : "[E] It has zero affinity for muscarinic receptors outside the brain"
+    },
+    {
+      "y" : 0.4230200261260019,
+      "w" : 0.3966165373944105,
+      "conf" : 1,
+      "x" : 0.25845864639724314,
+      "h" : 0.011737725469801119,
+      "text" : "Q05. [2021 Exam] Which set of adverse effects represents the"
+    },
+    {
+      "y" : 0.4091569768168605,
+      "w" : 0.4323308356454439,
+      "conf" : 1,
+      "x" : 0.27631579379699234,
+      "h" : 0.010174418555365605,
+      "text" : "classic anticholinergic side-effect profile frequently limiting patient"
+    },
+    {
+      "y" : 0.39607558151647276,
+      "w" : 0.22368419436050951,
+      "conf" : 1,
+      "x" : 0.17011278568295726,
+      "h" : 0.010174418555365716,
+      "text" : "compliance with oral Oxybutynin?"
+    },
+    {
+      "y" : 0.38292958670207766,
+      "w" : 0.35150374653183414,
+      "conf" : 1,
+      "x" : 0.23214286162280684,
+      "h" : 0.01030361758338083,
+      "text" : "[A] Severe diarrhea, bradycardia, profuse salivation, and miosis"
+    },
+    {
+      "y" : 0.3698611111591428,
+      "w" : 0.3308270671743013,
+      "conf" : 1,
+      "x" : 0.22180451679197977,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Marked hypotension, hypoglycemia, and bronchospasm"
+    },
+    {
+      "y" : 0.3582848837936046,
+      "w" : 0.30451126153481084,
+      "conf" : 1,
+      "x" : 0.20864662161654116,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Massive polyuria, hypokalemia, and hypercalcemia"
+    },
+    {
+      "y" : 0.3466569769137597,
+      "w" : 0.2312029928376056,
+      "conf" : 1,
+      "x" : 0.1719924820488722,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Priapism, gynecomastia, and alopecia"
+    },
+    {
+      "y" : 0.3335755813347868,
+      "w" : 0.40413531393219804,
+      "conf" : 1,
+      "x" : 0.25845864324874696,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Dry mouth (xerostomia), constipation, blurred vision, tachycardia, and"
+    },
+    {
+      "y" : 0.321947674249031,
+      "w" : 0.0939849590243923,
+      "conf" : 1,
+      "x" : 0.10338345839598997,
+      "h" : 0.010174418555365716,
+      "text" : "urinary retention"
+    },
+    {
+      "y" : 0.3080878550802797,
+      "w" : 0.3834586565139738,
+      "conf" : 1,
+      "x" : 0.2518797040413533,
+      "h" : 0.011731265915764677,
+      "text" : "Q06. [2020 Exam] All of the following clinical conditions are"
+    },
+    {
+      "y" : 0.29578488355135657,
+      "w" : 0.34774435826294037,
+      "conf" : 1,
+      "x" : 0.232142858302005,
+      "h" : 0.010174418555365605,
+      "text" : "ABSOLUTE contraindications to the administration of"
+    },
+    {
+      "y" : 0.28195090401863476,
+      "w" : 0.353383440666281,
+      "conf" : 1,
+      "x" : 0.23308270087719324,
+      "h" : 0.011679586304558676,
+      "text" : "antimuscarinic drugs for Overactive Bladder EXCEPT:"
+    },
+    {
+      "y" : 0.26819444452944025,
+      "w" : 0.23496240304580784,
+      "conf" : 1,
+      "x" : 0.17387218436716778,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Uncomplicated essential hypertension"
+    },
+    {
+      "y" : 0.2565277779638522,
+      "w" : 0.31015036587746003,
+      "conf" : 1,
+      "x" : 0.2095864609962408,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Uncontrolled narrow-angle (closed-angle) glaucoma"
+    },
+    {
+      "y" : 0.2434722220361477,
+      "w" : 0.27631578370018195,
+      "conf" : 1,
+      "x" : 0.19266917753759383,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Severe gastric retention and toxic megacolon"
+    },
+    {
+      "y" : 0.2318055556159086,
+      "w" : 0.4360902239143377,
+      "conf" : 1,
+      "x" : 0.2725563982456138,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Severe bladder outlet obstruction with high post-void residual urine volume"
+    },
+    {
+      "y" : 0.22014534874970576,
+      "w" : 0.12406014196312232,
+      "conf" : 1,
+      "x" : 0.11842105469924805,
+      "h" : 0.010290697945488758,
+      "text" : "[E] Myasthenia gravis"
+    },
+    {
+      "y" : 0.8808333331737823,
+      "w" : 0.4060150300059535,
+      "conf" : 1,
+      "x" : 0.7105263107142858,
+      "h" : 0.011666666666666603,
+      "text" : "Q08. [2022 Exam] Which vital sign parameter must be routinely"
+    },
+    {
+      "y" : 0.8677648578222235,
+      "w" : 0.4285714034979332,
+      "conf" : 1,
+      "x" : 0.7218045155639097,
+      "h" : 0.011692506472269604,
+      "text" : "monitored in patients receiving Mirabegron therapy for Overactive"
+    },
+    {
+      "y" : 0.8546511627294796,
+      "w" : 0.060223922894036996,
+      "conf" : 1,
+      "x" : 0.5375939843614133,
+      "h" : 0.00902871555752216,
+      "text" : "Bladder?"
+    },
+    {
+      "y" : 0.8408430233103197,
+      "w" : 0.10338345163593521,
+      "conf" : 1,
+      "x" : 0.5573308283599625,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Blood Glucose"
+    },
+    {
+      "y" : 0.8277616277374031,
+      "w" : 0.18233082467578965,
+      "conf" : 1,
+      "x" : 0.5968045141917293,
+      "h" : 0.010174418555365605,
+      "text" : "[B] Serum Creatinine exclusively"
+    },
+    {
+      "y" : 0.8161337210513566,
+      "w" : 0.3928571491255167,
+      "conf" : 1,
+      "x" : 0.7020676757205513,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Blood Pressure (due to potential dose-dependent hypertension and"
+    },
+    {
+      "y" : 0.8045058140115794,
+      "w" : 0.07350303490842358,
+      "conf" : 1,
+      "x" : 0.5422932343058158,
+      "h" : 0.011047692828708211,
+      "text" : "tachycardia)"
+    },
+    {
+      "y" : 0.7929166664747449,
+      "w" : 0.15789473511005458,
+      "conf" : 1,
+      "x" : 0.5845864681390978,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Core Body Temperature"
+    },
+    {
+      "y" : 0.7812499999273256,
+      "w" : 0.11654135445568059,
+      "conf" : 1,
+      "x" : 0.5639097724937344,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Respiratory Rate"
+    },
+    {
+      "y" : 0.7667151163335755,
+      "w" : 0.37218044782867543,
+      "conf" : 1,
+      "x" : 0.6936090272086465,
+      "h" : 0.010174418555365716,
+      "text" : "Q09. [2023 Exam] How does OnabotulinumtoxinA (Botox)"
+    },
+    {
+      "y" : 0.7536337210029069,
+      "w" : 0.379699224366463,
+      "conf" : 1,
+      "x" : 0.6973684248496239,
+      "h" : 0.010174418555365716,
+      "text" : "administered via cystoscopic intra-detrusor injection exert"
+    },
+    {
+      "y" : 0.7405523255268895,
+      "w" : 0.4360902239143377,
+      "conf" : 1,
+      "x" : 0.7236842050751882,
+      "h" : 0.010174418555365605,
+      "text" : "therapeutic efficacy in refractory neurogenic detrusor overactivity?"
+    },
+    {
+      "y" : 0.725972222405789,
+      "w" : 0.34210525392029123,
+      "conf" : 1,
+      "x" : 0.6785714319924812,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Direct blockade of post-synaptic beta-adrenergic receptors"
+    },
+    {
+      "y" : 0.71432170540046,
+      "w" : 0.28571427631172497,
+      "conf" : 1,
+      "x" : 0.6503759446115287,
+      "h" : 0.01031007766723624,
+      "text" : "[B] Stimulation of sensory C-fibers in the urothelium"
+    },
+    {
+      "y" : 0.7027616279614826,
+      "w" : 0.353383440666281,
+      "conf" : 1,
+      "x" : 0.6842105307330826,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Permanent thermal coagulation of the detrusor muscle fibers"
+    },
+    {
+      "y" : 0.6896802324854652,
+      "w" : 0.40225564173705974,
+      "conf" : 1,
+      "x" : 0.708646612518797,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Cleavage of SNAP-25 protein, blocking presynaptic vesicle release of"
+    },
+    {
+      "y" : 0.678052325454215,
+      "w" : 0.24060150738845698,
+      "conf" : 1,
+      "x" : 0.6278195466635339,
+      "h" : 0.010174418555365605,
+      "text" : "Acetylcholine at the neuromuscular junction"
+    },
+    {
+      "y" : 0.6664244186773256,
+      "w" : 0.2725563734919797,
+      "conf" : 1,
+      "x" : 0.6419172977756891,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Activation of mucosal mast cell degranulation"
+    },
+    {
+      "y" : 0.652548449321597,
+      "w" : 0.37030073175492006,
+      "conf" : 1,
+      "x" : 0.6926691775610901,
+      "h" : 0.011763565805223308,
+      "text" : "Q10. [2021 Exam] Which pharmacological agent is a pure"
+    },
+    {
+      "y" : 0.6394799738755613,
+      "w" : 0.43421050784058235,
+      "conf" : 1,
+      "x" : 0.7246240655780074,
+      "h" : 0.011737725999620308,
+      "text" : "muscarinic receptor agonist clinically indicated for non-obstructive"
+    },
+    {
+      "y" : 0.6256944443692624,
+      "w" : 0.4097744182748472,
+      "conf" : 1,
+      "x" : 0.7124060191353383,
+      "h" : 0.01027777777777783,
+      "text" : "urinary retention (e.g., postoperative or postpartum neurogenic"
+    },
+    {
+      "y" : 0.6126453489414573,
+      "w" : 0.05090039689964221,
+      "conf" : 1,
+      "x" : 0.5328947371225264,
+      "h" : 0.0106256283654107,
+      "text" : "atony)?"
+    },
+    {
+      "y" : 0.5988888889862061,
+      "w" : 0.08270676679357536,
+      "conf" : 0.5,
+      "x" : 0.5488721814849624,
+      "h" : 0.008888888888888946,
+      "text" : "[A] Oxybutynin"
+    },
+    {
+      "y" : 0.5864825582417637,
+      "w" : 0.0660003398837673,
+      "conf" : 1,
+      "x" : 0.5404135343707517,
+      "h" : 0.011021569040086554,
+      "text" : "[B] Atropine"
+    },
+    {
+      "y" : 0.5748611111739718,
+      "w" : 0.09962405239738714,
+      "conf" : 1,
+      "x" : 0.5554511261591479,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Propantheline"
+    },
+    {
+      "y" : 0.5631944443692624,
+      "w" : 0.0939849590243923,
+      "conf" : 1,
+      "x" : 0.5545112797619047,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Scopolamine"
+    },
+    {
+      "y" : 0.550833333255071,
+      "w" : 0.3834586565139737,
+      "conf" : 1,
+      "x" : 0.6992481250939848,
+      "h" : 0.008888889153798485,
+      "text" : "[E] Bethanechol (stimulates detrusor contraction to initiate micturition)"
+    },
+    {
+      "y" : 0.5370833333312437,
+      "w" : 0.379699224366463,
+      "conf" : 1,
+      "x" : 0.6973684273809522,
+      "h" : 0.010277777777777719,
+      "text" : "Q11. [2025 Exam] Duloxetine, a Serotonin-Norepinephrine"
+    },
+    {
+      "y" : 0.5240277776123796,
+      "w" : 0.4266917313027948,
+      "conf" : 1,
+      "x" : 0.720864656320489,
+      "h" : 0.010277777777777719,
+      "text" : "Reuptake Inhibitor (SNRI), is clinically utilized in several countries"
+    },
+    {
+      "y" : 0.5109625322082717,
+      "w" : 0.31766916435455594,
+      "conf" : 1,
+      "x" : 0.6644736802396617,
+      "h" : 0.0102971574995252,
+      "text" : "for Stress Urinary Incontinence (SUI) because it:"
+    },
+    {
+      "y" : 0.49709302332848826,
+      "w" : 0.385338328709112,
+      "conf" : 1,
+      "x" : 0.7001879747415412,
+      "h" : 0.00872092988755968,
+      "text" : "[A] Increases 5-HT and NE levels in Onuf's nucleus in the sacral cord,"
+    },
+    {
+      "y" : 0.4847383721656977,
+      "w" : 0.3966165373944106,
+      "conf" : 1,
+      "x" : 0.7058270742794485,
+      "h" : 0.010174418555365605,
+      "text" : "stimulating pudendal nerve motor tone to the external urethral sphincter"
+    },
+    {
+      "y" : 0.47317829472672024,
+      "w" : 0.34962405239738714,
+      "conf" : 1,
+      "x" : 0.6804511321898494,
+      "h" : 0.01031007766723624,
+      "text" : "[B] Directly blocks all muscarinic receptors in the bladder dome"
+    },
+    {
+      "y" : 0.4600775195471239,
+      "w" : 0.28383458217727797,
+      "conf" : 1,
+      "x" : 0.6456766881813911,
+      "h" : 0.013178294499715082,
+      "text" : "[C] Inhibits 5-alpha reductase in the prostate gland"
+    },
+    {
+      "y" : 0.4484302326987905,
+      "w" : 0.3233082686972052,
+      "conf" : 1,
+      "x" : 0.6672932357769423,
+      "h" : 0.013139534526401042,
+      "text" : "[D] Induces profound detrusor smooth muscle hypertrophy"
+    },
+    {
+      "y" : 0.43750000003633716,
+      "w" : 0.30639097760856626,
+      "conf" : 1,
+      "x" : 0.6607142895441729,
+      "h" : 0.011666666666666714,
+      "text" : "[E] Directly acidifies urine to eliminate urethral irritation"
+    },
+    {
+      "y" : 0.42302002612443873,
+      "w" : 0.4154135226174964,
+      "conf" : 1,
+      "x" : 0.7152255587171055,
+      "h" : 0.011737725999620197,
+      "text" : "Q12. [2020 Exam] Which alpha-1 adrenergic agonist can be used"
+    },
+    {
+      "y" : 0.40915697671996126,
+      "w" : 0.3966165373944105,
+      "conf" : 1,
+      "x" : 0.7001879633145367,
+      "h" : 0.010174418555365716,
+      "text" : "off-label to increase urethral closure pressure in mild female"
+    },
+    {
+      "y" : 0.39607558134084303,
+      "w" : 0.19172932825698685,
+      "conf" : 1,
+      "x" : 0.6033834562500002,
+      "h" : 0.010174418555365716,
+      "text" : "Stress Urinary Incontinence?"
+    },
+    {
+      "y" : 0.3822222222491094,
+      "w" : 0.06954886945865724,
+      "conf" : 1,
+      "x" : 0.5422932342418546,
+      "h" : 0.008888888623979296,
+      "text" : "[A] Prazosin"
+    },
+    {
+      "y" : 0.3706395349435014,
+      "w" : 0.20112782086852987,
+      "conf" : 1,
+      "x" : 0.6062030050046993,
+      "h" : 0.00872093015246922,
+      "text" : "[B] Midodrine (or Pseudoephedrine)"
+    },
+    {
+      "y" : 0.3582848838117732,
+      "w" : 0.08834586016657031,
+      "conf" : 1,
+      "x" : 0.5498120311795113,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Tamsulosin"
+    },
+    {
+      "y" : 0.34593023265503864,
+      "w" : 0.08270676679357536,
+      "conf" : 0.5,
+      "x" : 0.5469924825814536,
+      "h" : 0.00872092988755968,
+      "text" : "[D] Doxazosin"
+    },
+    {
+      "y" : 0.3343023256298451,
+      "w" : 0.07518796831647923,
+      "conf" : 1,
+      "x" : 0.5432330839598996,
+      "h" : 0.00872092988755968,
+      "text" : "[E] Clonidine"
+    },
+    {
+      "y" : 0.30808785497126817,
+      "w" : 0.3665413434860262,
+      "conf" : 1,
+      "x" : 0.6907894691024439,
+      "h" : 0.011731265915764788,
+      "text" : "Q13. [Faculty Exam] In patients with diabetic cystopathy"
+    },
+    {
+      "y" : 0.29501937968113023,
+      "w" : 0.3872180447828675,
+      "conf" : 1,
+      "x" : 0.7011278166353384,
+      "h" : 0.011705425580342599,
+      "text" : "manifesting as an acontractile flaccid bladder with Overflow"
+    },
+    {
+      "y" : 0.28195090423509467,
+      "w" : 0.36842105955978166,
+      "conf" : 1,
+      "x" : 0.6898496217575188,
+      "h" : 0.011679585774739487,
+      "text" : "Incontinence, which medication is CONTRAINDICATED?"
+    },
+    {
+      "y" : 0.26819444452944025,
+      "w" : 0.09022555978584423,
+      "conf" : 1,
+      "x" : 0.5526315804511277,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Bethanechol"
+    },
+    {
+      "y" : 0.2565277775793819,
+      "w" : 0.09210526488994542,
+      "conf" : 1,
+      "x" : 0.5535714301065162,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Neostigmine"
+    },
+    {
+      "y" : 0.24347222205431635,
+      "w" : 0.4266917313027948,
+      "conf" : 1,
+      "x" : 0.7208646669877818,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Oxybutynin (antimuscarinic agents worsen bladder atony and cause acute"
+    },
+    {
+      "y" : 0.2318055557128078,
+      "w" : 0.15037593663295856,
+      "conf" : 1,
+      "x" : 0.5808270694235589,
+      "h" : 0.01027777777777783,
+      "text" : "complete urinary retention)"
+    },
+    {
+      "y" : 0.22014534873153735,
+      "w" : 0.1785714254372417,
+      "conf" : 1,
+      "x" : 0.594924814262218,
+      "h" : 0.01029069794548887,
+      "text" : "[D] Alpha-1 adrenergic blockers"
+    },
+    {
+      "y" : 0.20785529722048346,
+      "w" : 0.20112782086852987,
+      "conf" : 1,
+      "x" : 0.6062030050046993,
+      "h" : 0.00873385005527072,
+      "text" : "[E] Intermittent clean catheterization"
+    },
+    {
+      "y" : 0.1947351418998955,
+      "w" : 0.42481201522903933,
+      "conf" : 1,
+      "x" : 0.27067669411027556,
+      "h" : 0.011692506472269715,
+      "text" : "Q07. [2024 Exam] Mirabegron provides an effective alternative for"
+    },
+    {
+      "y" : 0.1947351418998955,
+      "w" : 0.42293229915528396,
+      "conf" : 1,
+      "x" : 0.718984959367168,
+      "h" : 0.011692506472269715,
+      "text" : "Q14. [Core Exam] Which transdermal formulation of an OAB drug"
+    },
+    {
+      "y" : 0.1809722220361477,
+      "w" : 0.432330791766827,
+      "conf" : 1,
+      "x" : 0.27443609743107744,
+      "h" : 0.01027777777777783,
+      "text" : "Overactive Bladder without anticholinergic side effects. What is its"
+    },
+    {
+      "y" : 0.18097222202403535,
+      "w" : 0.43233083564544394,
+      "conf" : 1,
+      "x" : 0.7236842141290725,
+      "h" : 0.010277777777777719,
+      "text" : "provides comparable detrusor relaxation with significantly less dry"
+    },
+    {
+      "y" : 0.16861111114974697,
+      "w" : 0.21804511195716886,
+      "conf" : 1,
+      "x" : 0.1654135302005014,
+      "h" : 0.008888888888888835,
+      "text" : "molecular mechanism of action?"
+    },
+    {
+      "y" : 0.16719638267985704,
+      "w" : 0.3872180447828676,
+      "conf" : 1,
+      "x" : 0.701127826002506,
+      "h" : 0.011718345748053638,
+      "text" : "mouth due to avoidance of hepatic first-pass metabolism to"
+    },
+    {
+      "y" : 0.15334302337693795,
+      "w" : 0.30639097760856626,
+      "conf" : 1,
+      "x" : 0.20958647127192967,
+      "h" : 0.010174418555365605,
+      "text" : "[A] Direct competitive antagonist of nicotinic receptors"
+    },
+    {
+      "y" : 0.1540697675872093,
+      "w" : 0.1560150300059534,
+      "conf" : 0.5,
+      "x" : 0.5855263183897244,
+      "h" : 0.011627906163533486,
+      "text" : "N-desethyloxybutynin?"
+    },
+    {
+      "y" : 0.1417151163517441,
+      "w" : 0.44172932825698685,
+      "conf" : 1,
+      "x" : 0.27537594721177916,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Selective Beta-3 Adrenergic Receptor Agonist, stimulating adenylyl cyclase"
+    },
+    {
+      "y" : 0.14026162788275187,
+      "w" : 0.1729323210945925,
+      "conf" : 1,
+      "x" : 0.5808270647869674,
+      "h" : 0.010174418555365605,
+      "text" : "[A] Tolterodine oral capsules"
+    },
+    {
+      "y" : 0.1294121448243843,
+      "w" : 0.3082706717430131,
+      "conf" : 1,
+      "x" : 0.20864662167919779,
+      "h" : 0.01173126538594571,
+      "text" : "and relaxing detrusor muscle during the storage phase"
+    },
+    {
+      "y" : 0.12863372100290688,
+      "w" : 0.1466165373944105,
+      "conf" : 1,
+      "x" : 0.5789473708646615,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Trospium oral solution"
+    },
+    {
+      "y" : 0.11847222201797925,
+      "w" : 0.2575187984770961,
+      "conf" : 1,
+      "x" : 0.18327067991071425,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Selective inhibitor of phosphodiesterase-5"
+    },
+    {
+      "y" : 0.11627906984011638,
+      "w" : 0.2199248060916157,
+      "conf" : 1,
+      "x" : 0.6174812057565788,
+      "h" : 0.00872092988755968,
+      "text" : "[C] Bethanechol subcutaneous injection"
+    },
+    {
+      "y" : 0.10541666687738382,
+      "w" : 0.266917291088639,
+      "conf" : 1,
+      "x" : 0.18796992036340868,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Centrally acting alpha-2 adrenergic agonist"
+    },
+    {
+      "y" : 0.10392441869549418,
+      "w" : 0.26879698522308604,
+      "conf" : 1,
+      "x" : 0.6419172965930451,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Oxybutynin transdermal patch (or topical gel)"
+    },
+    {
+      "y" : 0.09375000009084311,
+      "w" : 0.3063909776085662,
+      "conf" : 1,
+      "x" : 0.20770677074718033,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Direct agonist of vesicular acetylcholine transporter"
+    },
+    {
+      "y" : 0.09235465125029424,
+      "w" : 0.17481202619869363,
+      "conf" : 1,
+      "x" : 0.5911654106203008,
+      "h" : 0.010290697945488758,
+      "text" : "[E] Solifenacin oral suspension"
+    },
+    {
+      "y" : 0.024027777739559775,
+      "w" : 0.45300749306366817,
+      "conf" : 1,
+      "x" : 0.28289474439223034,
+      "h" : 0.01027777777777783,
+      "text" : "Twisted Medicine • Renal Pharmacology Master Class • Faculty & Board Exam Preparation"
+    },
+    {
+      "y" : 0.0123546509738372,
+      "w" : 0.041353383396787624,
+      "conf" : 1,
+      "x" : 0.5187969925939849,
+      "h" : 0.018895348442925397,
+      "text" : "125"
+    },
+    {
+      "y" : 0.023947028395109204,
+      "w" : 0.2725563734919797,
+      "conf" : 1,
+      "x" : 0.8054511312265036,
+      "h" : 0.007338501347435855,
+      "text" : "Confidential - Dedicated for Medical Student Revision"
+    }
+  ],
+  "page" : 127
+}

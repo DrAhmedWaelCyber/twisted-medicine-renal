@@ -1,0 +1,973 @@
+{
+  "items" : [
+    {
+      "w" : 0.44650206175990076,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 24 MCQ Masterclass",
+      "x" : 0.26851852596021925,
+      "h" : 0.01031007766723624,
+      "y" : 0.96432170540046
+    },
+    {
+      "w" : 0.7037036823776534,
+      "conf" : 1,
+      "text" : "Twisted Medicine Medica\/ Series • Renal Cell Carcinoma, Wilms Tumor, Urothelial & Squamous Bladder Tumors • Standard Practice Bank",
+      "x" : 0.3991769635288064,
+      "h" : 0.00872092988755968,
+      "y" : 0.9534883721293604
+    },
+    {
+      "w" : 0.7962962696387335,
+      "conf" : 1,
+      "text" : "Q29. [2025 Exam] What is the most common histological type of Q36. [2023 Exam] In Egypt and regions endemic for",
+      "x" : 0.4537037136574073,
+      "h" : 0.011711885664198118,
+      "y" : 0.9360885014509137
+    },
+    {
+      "w" : 0.3991769514743637,
+      "conf" : 1,
+      "text" : "malignant neoplasm of the urinary bladder in Western and",
+      "x" : 0.2530864264060354,
+      "h" : 0.010174418555365605,
+      "y" : 0.9222383722141473
+    },
+    {
+      "w" : 0.36213991177157046,
+      "conf" : 1,
+      "text" : "Schistosoma haematobium, what is the predominant",
+      "x" : 0.6810699633744856,
+      "h" : 0.010174418555365605,
+      "y" : 0.9222383721838663
+    },
+    {
+      "w" : 0.28189300441142146,
+      "conf" : 1,
+      "text" : "non-endemic countries (>90% of cases)?",
+      "x" : 0.194444449142661,
+      "h" : 0.010174418555365605,
+      "y" : 0.90915697686531
+    },
+    {
+      "w" : 0.3024691215851022,
+      "conf" : 1,
+      "text" : "histological type of urinary bladder cancer?",
+      "x" : 0.6491769496913582,
+      "h" : 0.010174418555365716,
+      "y" : 0.9091569767199612
+    },
+    {
+      "w" : 0.18106995588578517,
+      "conf" : 1,
+      "text" : "[A] Squamous Cell Carcinoma",
+      "x" : 0.14403292407407403,
+      "h" : 0.010277777777777719,
+      "y" : 0.8945833331044475
+    },
+    {
+      "w" : 0.22222221422495336,
+      "conf" : 1,
+      "text" : "[A] Squamous Cell Carcinoma (SCC)",
+      "x" : 0.6090535007201645,
+      "h" : 0.010277777777777719,
+      "y" : 0.8945833331044475
+    },
+    {
+      "w" : 0.12757201764568593,
+      "conf" : 0.5,
+      "text" : "[B] Adenocarcinoma",
+      "x" : 0.11522633957475986,
+      "h" : 0.008888888623979407,
+      "y" : 0.8822222222491094
+    },
+    {
+      "w" : 0.2530864019813777,
+      "conf" : 1,
+      "text" : "[B] Urothelial (Transitional Cell) Carcinoma",
+      "x" : 0.6244855945473252,
+      "h" : 0.01030361758338083,
+      "y" : 0.8829295867020777
+    },
+    {
+      "w" : 0.24897118334500296,
+      "conf" : 1,
+      "text" : "[C] Small Cell Neuroendocrine Carcinoma",
+      "x" : 0.1759259221193417,
+      "h" : 0.010174418555365605,
+      "y" : 0.8713662792393411
+    },
+    {
+      "w" : 0.21193414364220964,
+      "conf" : 1,
+      "text" : "[C] Primary Renal Adenocarcinoma",
+      "x" : 0.6039094617626888,
+      "h" : 0.010174418555365605,
+      "y" : 0.8713662792393411
+    },
+    {
+      "w" : 0.12551439633159517,
+      "conf" : 0.5,
+      "text" : "[D] Leiomyosarcoma",
+      "x" : 0.11419753089849108,
+      "h" : 0.010174418555365605,
+      "y" : 0.8582848835513566
+    },
+    {
+      "w" : 0.17695472525350703,
+      "conf" : 1,
+      "text" : "[D] Signet ring cell carcinoma",
+      "x" : 0.5864197552983539,
+      "h" : 0.010174418555365605,
+      "y" : 0.8582848838117733
+    },
+    {
+      "w" : 0.2530864019813778,
+      "conf" : 1,
+      "text" : "[E] Urothelial (Transitional Cell) Carcinoma",
+      "x" : 0.17798353593107005,
+      "h" : 0.00872092988755968,
+      "y" : 0.8473837208575581
+    },
+    {
+      "w" : 0.24074072208044667,
+      "conf" : 1,
+      "text" : "[E] Small cell neuroendocrine carcinoma",
+      "x" : 0.6162551400205762,
+      "h" : 0.00872092988755968,
+      "y" : 0.8473837208333334
+    },
+    {
+      "w" : 0.07205501892281785,
+      "conf" : 1,
+      "text" : "Page 3 of 4",
+      "x" : 0.9207818940678585,
+      "h" : 0.010311498641967787,
+      "y" : 0.964389534716172
+    },
+    {
+      "w" : 0.427983505920794,
+      "conf" : 1,
+      "text" : "Q30. [2024 Exam] What is the single most common and classic",
+      "x" : 0.26954733045267476,
+      "h" : 0.010174418555365716,
+      "y" : 0.8088662791242733
+    },
+    {
+      "w" : 0.42592592059441337,
+      "conf" : 1,
+      "text" : "Q37. [2022 Exam] What is the sequence of mucosal changes",
+      "x" : 0.6985596636831277,
+      "h" : 0.010174418555365605,
+      "y" : 0.8088662790455426
+    },
+    {
+      "w" : 0.4032921461189317,
+      "conf" : 1,
+      "text" : "presenting clinical symptom of Urothelial Carcinoma of the",
+      "x" : 0.2551440265432101,
+      "h" : 0.011705425580342599,
+      "y" : 0.7950193796326808
+    },
+    {
+      "w" : 0.39506170884618225,
+      "conf" : 1,
+      "text" : "induced by chronic bilharzial ova deposition that leads to",
+      "x" : 0.6954732576131686,
+      "h" : 0.010174418555365716,
+      "y" : 0.7957848837936046
+    },
+    {
+      "w" : 0.12757201764568593,
+      "conf" : 1,
+      "text" : "urinary bladder?",
+      "x" : 0.11728395221193413,
+      "h" : 0.011679586304558676,
+      "y" : 0.7819509042245456
+    },
+    {
+      "w" : 0.29629629363054,
+      "conf" : 1,
+      "text" : "Schistosomal Squamous Cell Carcinoma?",
+      "x" : 0.6481481530864196,
+      "h" : 0.01029069794548887,
+      "y" : 0.7826453487981555
+    },
+    {
+      "w" : 0.2983539029487274,
+      "conf" : 1,
+      "text" : "[A] Severe burning dysuria with purulent discharge",
+      "x" : 0.2006172789780523,
+      "h" : 0.010174418555365716,
+      "y" : 0.7667151162063954
+    },
+    {
+      "w" : 0.2592592539277466,
+      "conf" : 1,
+      "text" : "[A] Atrophy -> fibrosis -> lipoma -> sarcoma",
+      "x" : 0.6275720207818929,
+      "h" : 0.010174418555365605,
+      "y" : 0.7667151163517442
+    },
+    {
+      "w" : 0.3333333333333333,
+      "conf" : 1,
+      "text" : "[B] Bilateral pretibial pitting edema with heavy proteinuria",
+      "x" : 0.22016460452674916,
+      "h" : 0.011666666666666714,
+      "y" : 0.755833333403918
+    },
+    {
+      "w" : 0.43827157650353776,
+      "conf" : 1,
+      "text" : "[B] Chronic inflammation -> Squamous Metaplasia -> Dysplasia -> Invasive",
+      "x" : 0.7170781838220166,
+      "h" : 0.008888888623979407,
+      "y" : 0.7558333332698999
+    },
+    {
+      "w" : 0.3333333333333333,
+      "conf" : 1,
+      "text" : "[C] Acute urinary retention with marked hypogastric pain",
+      "x" : 0.22016461460905332,
+      "h" : 0.010277777777777719,
+      "y" : 0.7434722220361478
+    },
+    {
+      "w" : 0.2345678941258844,
+      "conf" : 1,
+      "text" : "Keratinizing Squamous Cell Carcinoma",
+      "x" : 0.6152263335390947,
+      "h" : 0.01027777777777783,
+      "y" : 0.7434722224690676
+    },
+    {
+      "w" : 0.42798350592079404,
+      "conf" : 1,
+      "text" : "[D] Painless, intermittent, Gross Hematuria throughout the urinary stream",
+      "x" : 0.2674897190672152,
+      "h" : 0.010277777777777719,
+      "y" : 0.7318055556159087
+    },
+    {
+      "w" : 0.41769543533805026,
+      "conf" : 1,
+      "text" : "[C] Acute necrosis -> complete regeneration without any cellular atypia",
+      "x" : 0.7026748901577506,
+      "h" : 0.01027777777777783,
+      "y" : 0.7318055555190094
+    },
+    {
+      "w" : 0.22839504217951556,
+      "conf" : 1,
+      "text" : "[E] Massive pneumaturia and fecaluria",
+      "x" : 0.1656378562757203,
+      "h" : 0.00872092988755968,
+      "y" : 0.7209302324612403
+    },
+    {
+      "w" : 0.40740741273892,
+      "conf" : 1,
+      "text" : "[D] Glandular metaplasia -> signet ring carcinoma -> choriocarcinoma",
+      "x" : 0.7016460946090534,
+      "h" : 0.01029069794548887,
+      "y" : 0.7201453487497058
+    },
+    {
+      "w" : 0.3395061612878955,
+      "conf" : 1,
+      "text" : "[E] Hyperplasia of umbrella cells -> benign papilloma only",
+      "x" : 0.6676954789094648,
+      "h" : 0.010174418555365605,
+      "y" : 0.7085755814680232
+    },
+    {
+      "w" : 0.4197530686480444,
+      "conf" : 1,
+      "text" : "Q38. [2021 Exam] Grossly and microscopically, Schistosomal",
+      "x" : 0.7098765471193413,
+      "h" : 0.011666666666666714,
+      "y" : 0.6816666664538598
+    },
+    {
+      "w" : 0.4032921941025453,
+      "conf" : 1,
+      "text" : "Squamous Cell Carcinoma of the bladder characteristically",
+      "x" : 0.699588472325103,
+      "h" : 0.010277777777777719,
+      "y" : 0.6679166668955525
+    },
+    {
+      "w" : 0.09876542721154552,
+      "conf" : 1,
+      "text" : "presents as:",
+      "x" : 0.5473251012345679,
+      "h" : 0.00872092988755968,
+      "y" : 0.6540697673449611
+    },
+    {
+      "w" : 0.3868312715734326,
+      "conf" : 1,
+      "text" : "[A] Multiple small, smooth, transparent polyps with zero ulceration",
+      "x" : 0.6913580311385458,
+      "h" : 0.010174418555365605,
+      "y" : 0.6402616279796511
+    },
+    {
+      "w" : 0.44032920981353185,
+      "conf" : 1,
+      "text" : "[B] A large, bulky, fungating, ulcerative and necrotizing exophytic mass with",
+      "x" : 0.7181069920438958,
+      "h" : 0.013184754583570601,
+      "y" : 0.6286854005883249
+    },
+    {
+      "w" : 0.31687241080422074,
+      "conf" : 1,
+      "text" : "keratin pearls and surrounding calcified bilharzial ova",
+      "x" : 0.6563786061042522,
+      "h" : 0.01030361758338083,
+      "y" : 0.6170704135401703
+    },
+    {
+      "w" : 0.3765432009906889,
+      "conf" : 1,
+      "text" : "[C] A delicate velvet-like red patch with intact muscularis propria",
+      "x" : 0.6862139964763374,
+      "h" : 0.01027777777777783,
+      "y" : 0.605416666474745
+    },
+    {
+      "w" : 0.3456790132342645,
+      "conf" : 1,
+      "text" : "[D] A tiny subepithelial nodule strictly localized to the dome",
+      "x" : 0.6707818973251028,
+      "h" : 0.010277777777777719,
+      "y" : 0.5937500000545057
+    },
+    {
+      "w" : 0.32716048138696446,
+      "conf" : 1,
+      "text" : "[E] Diffuse cystic dilatations without cellular proliferation",
+      "x" : 0.661522637834362,
+      "h" : 0.01027777777777783,
+      "y" : 0.5820833331044476
+    },
+    {
+      "w" : 0.3909464902098073,
+      "conf" : 1,
+      "text" : "Q39. [2025 Exam] Primary Adenocarcinoma of the urinary",
+      "x" : 0.695473249382716,
+      "h" : 0.011692506472269715,
+      "y" : 0.5552648578803631
+    },
+    {
+      "w" : 0.4341563578671629,
+      "conf" : 1,
+      "text" : "bladder localized strictly to the Dome of the bladder arises from",
+      "x" : 0.7170781880401236,
+      "h" : 0.010174418555365605,
+      "y" : 0.541424418477471
+    },
+    {
+      "w" : 0.19958847573718186,
+      "conf" : 1,
+      "text" : "malignant transformation of:",
+      "x" : 0.5977366288408779,
+      "h" : 0.011763565805223308,
+      "y" : 0.5275484493458218
+    },
+    {
+      "w" : 0.1748971159353197,
+      "conf" : 1,
+      "text" : "[A] Prostatic utricle remnants",
+      "x" : 0.5853909486882716,
+      "h" : 0.008888888888888946,
+      "y" : 0.5130555556159087
+    },
+    {
+      "w" : 0.38065841962706365,
+      "conf" : 1,
+      "text" : "[B] Urachal remnants (canal connecting fetal bladder to allantois)",
+      "x" : 0.6882716112825786,
+      "h" : 0.010277777777777719,
+      "y" : 0.5006944443692625
+    },
+    {
+      "w" : 0.2510287926631903,
+      "conf" : 1,
+      "text" : "[C] Mesonephric (Wolffian) duct remnants |",
+      "x" : 0.6234567943072702,
+      "h" : 0.00872092988755968,
+      "y" : 0.4898255814922481
+    },
+    {
+      "w" : 0.2818930044114215,
+      "conf" : 1,
+      "text" : "[D] Paramesonephric (Mullerian) duct remnants",
+      "x" : 0.6388888924125513,
+      "h" : 0.00872092988755968,
+      "y" : 0.47819767449127903
+    },
+    {
+      "w" : 0.24897118334500296,
+      "conf" : 1,
+      "text" : "[E] Primitive cloacal membrane epithelium",
+      "x" : 0.622427986111111,
+      "h" : 0.010174418555365716,
+      "y" : 0.4658430230862403
+    },
+    {
+      "w" : 0.4012345607925511,
+      "conf" : 1,
+      "text" : "Q31. [2023 Exam] Which of the following is the single most",
+      "x" : 0.2561728354938272,
+      "h" : 0.010277777777777719,
+      "y" : 0.6809722224496877
+    },
+    {
+      "w" : 0.4218107019580386,
+      "conf" : 1,
+      "text" : "important established environmental risk factor for Urothelial",
+      "x" : 0.2623456744598767,
+      "h" : 0.01027777777777783,
+      "y" : 0.6679166668228781
+    },
+    {
+      "w" : 0.19753085442309107,
+      "conf" : 1,
+      "text" : "Carcinoma of the bladder?",
+      "x" : 0.1543209901234567,
+      "h" : 0.010290697415669792,
+      "y" : 0.6548546511489021
+    },
+    {
+      "w" : 0.3312757000233392,
+      "conf" : 1,
+      "text" : "[A] Cigarette Smoking (exposure to aromatic amines like",
+      "x" : 0.21913580661008222,
+      "h" : 0.010174418555365605,
+      "y" : 0.6402616279614826
+    },
+    {
+      "w" : 0.29218105100235847,
+      "conf" : 1,
+      "text" : "beta-naphthylamine and polycyclic hydrocarbons)",
+      "x" : 0.19958848101851845,
+      "h" : 0.010174418555365605,
+      "y" : 0.6286337209847384
+    },
+    {
+      "w" : 0.2386831127622592,
+      "conf" : 1,
+      "text" : "[B] High dietary intake of refined sugars",
+      "x" : 0.1728395101508915,
+      "h" : 0.01030361758338083,
+      "y" : 0.6170704135401703
+    },
+    {
+      "w" : 0.15432098676573555,
+      "conf" : 1,
+      "text" : "[C] Chronic alcohol abuse",
+      "x" : 0.13065843814300404,
+      "h" : 0.01027777777777783,
+      "y" : 0.605416666474745
+    },
+    {
+      "w" : 0.22839506617132224,
+      "conf" : 1,
+      "text" : "[D] Exposure to ionizing solar radiation",
+      "x" : 0.16769547610596702,
+      "h" : 0.010277777777777719,
+      "y" : 0.5937500000545057
+    },
+    {
+      "w" : 0.28395061372960884,
+      "conf" : 1,
+      "text" : "[E] Prolonged treatment with penicillin antibiotics",
+      "x" : 0.19547325457818918,
+      "h" : 0.01027777777777783,
+      "y" : 0.5820833331044476
+    },
+    {
+      "w" : 0.40946499806530073,
+      "conf" : 1,
+      "text" : "Q32. [2022 Exam] Industrial occupational exposure to which",
+      "x" : 0.2602880726680382,
+      "h" : 0.013081394831339521,
+      "y" : 0.5559593023498062
+    },
+    {
+      "w" : 0.3641975210897578,
+      "conf" : 1,
+      "text" : "class of chemicals in textile, rubber, and dye workers",
+      "x" : 0.23765432554012336,
+      "h" : 0.011627906163533597,
+      "y" : 0.5406976745276163
+    },
+    {
+      "w" : 0.3930040995279948,
+      "conf" : 1,
+      "text" : "historically led to high rates of bladder urothelial cancer?",
+      "x" : 0.2499999950874487,
+      "h" : 0.010174418555365716,
+      "y" : 0.528343023201308
+    },
+    {
+      "w" : 0.4259259205944133,
+      "conf" : 1,
+      "text" : "[A] Aromatic Amines and Aniline Dyes (e.g., 2-naphthylamine, benzidine)",
+      "x" : 0.26646090002572026,
+      "h" : 0.01027777777777783,
+      "y" : 0.5123611111921403
+    },
+    {
+      "w" : 0.11316871643066406,
+      "conf" : 1,
+      "text" : "[B] Asbestos fibers",
+      "x" : 0.11008230594135798,
+      "h" : 0.008740309874216812,
+      "y" : 0.5014631784380958
+    },
+    {
+      "w" : 0.13991768555071368,
+      "conf" : 1,
+      "text" : "[C] Silica dust particles",
+      "x" : 0.12139917777777776,
+      "h" : 0.010297157499525311,
+      "y" : 0.4890374675676488
+    },
+    {
+      "w" : 0.1625514360343885,
+      "conf" : 1,
+      "text" : "[D] Vinyl chloride monomer",
+      "x" : 0.13477366458333329,
+      "h" : 0.00872092988755968,
+      "y" : 0.47819767449127903
+    },
+    {
+      "w" : 0.12757201764568593,
+      "conf" : 1,
+      "text" : "[E] Benzene solvents",
+      "x" : 0.11728395274348416,
+      "h" : 0.00872092988755968,
+      "y" : 0.4665697674903101
+    },
+    {
+      "w" : 0.3580246931351956,
+      "conf" : 1,
+      "text" : "Q33. [2021 Exam] The concept of 'Field Defect' (Field",
+      "x" : 0.23456790481481476,
+      "h" : 0.010174418555365605,
+      "y" : 0.4280523256540698
+    },
+    {
+      "w" : 0.41563785001166964,
+      "conf" : 1,
+      "text" : "Cancerization) in Urothelial Carcinoma explains why patients",
+      "x" : 0.26337449079218095,
+      "h" : 0.01027777777777783,
+      "y" : 0.41347222242395765
+    },
+    {
+      "w" : 0.16872427598485407,
+      "conf" : 1,
+      "text" : "frequently present with:",
+      "x" : 0.13786008511659797,
+      "h" : 0.010277777777777719,
+      "y" : 0.4004166668625548
+    },
+    {
+      "w" : 0.29423868431235256,
+      "conf" : 1,
+      "text" : "[A] Single isolated benign tumors that never recur",
+      "x" : 0.20061728762860073,
+      "h" : 0.0102971574995252,
+      "y" : 0.38596253235362055
+    },
+    {
+      "w" : 0.3106995828496585,
+      "conf" : 1,
+      "text" : "[B] Primary brain tumors arising from urothelial cells",
+      "x" : 0.2088477418038407,
+      "h" : 0.010277777777777719,
+      "y" : 0.37430555577608654
+    },
+    {
+      "w" : 0.325102872068777,
+      "conf" : 1,
+      "text" : "[C] Invariable transformation into hepatic angiosarcoma",
+      "x" : 0.21604938677983532,
+      "h" : 0.010277777777777719,
+      "y" : 0.3626388888078595
+    },
+    {
+      "w" : 0.41975306864804446,
+      "conf" : 1,
+      "text" : "[DJ Multifocal synchronous or metachronous recurrences throughout the",
+      "x" : 0.26337448966049376,
+      "h" : 0.011666666666666714,
+      "y" : 0.35027777789117787
+    },
+    {
+      "w" : 0.34156377060608295,
+      "conf" : 1,
+      "text" : "entire urothelial tract (renal pelvis, ureter, bladder, urethra)",
+      "x" : 0.2242798311213993,
+      "h" : 0.01031007766723635,
+      "y" : 0.33932170523694266
+    },
+    {
+      "w" : 0.3312757000233392,
+      "conf" : 1,
+      "text" : "[E] Bilateral renal artery stenosis without bladder lesions",
+      "x" : 0.21707819344135793,
+      "h" : 0.010174418555365605,
+      "y" : 0.32776162796148256
+    },
+    {
+      "w" : 0.3950617088461822,
+      "conf" : 1,
+      "text" : "Q34. [2020 Exam] In staging bladder urothelial carcinoma,",
+      "x" : 0.2530864263374483,
+      "h" : 0.010277777777777719,
+      "y" : 0.3001388887775786
+    },
+    {
+      "w" : 0.3971193181643695,
+      "conf" : 1,
+      "text" : "invasion into which anatomical structure (Stage T2) is the",
+      "x" : 0.2499999933813445,
+      "h" : 0.010277777777777719,
+      "y" : 0.2870833331374452
+    },
+    {
+      "w" : 0.3621399117715704,
+      "conf" : 1,
+      "text" : "critical threshold necessitating Radical Cystectomy?",
+      "x" : 0.23456789670781908,
+      "h" : 0.011724805831909157,
+      "y" : 0.27330426371500177
+    },
+    {
+      "w" : 0.24074074607225332,
+      "conf" : 1,
+      "text" : "[A] Muscularis Propria (Detrusor Muscle)",
+      "x" : 0.1738683157664608,
+      "h" : 0.00872092988755968,
+      "y" : 0.2587209303052326
+    },
+    {
+      "w" : 0.21193414364220958,
+      "conf" : 1,
+      "text" : "[B] Lamina propria only (Stage T1)",
+      "x" : 0.15946502307956095,
+      "h" : 0.011627906163533486,
+      "y" : 0.24709302344961243
+    },
+    {
+      "w" : 0.26748969120049626,
+      "conf" : 1,
+      "text" : "[C] Submucosal connective tissue capillaries",
+      "x" : 0.18724280137174198,
+      "h" : 0.010284237331814161,
+      "y" : 0.23624677002291417
+    },
+    {
+      "w" : 0.3559670598252015,
+      "conf" : 1,
+      "text" : "[D] Basement membrane without lamina propria involvement",
+      "x" : 0.23148148593106985,
+      "h" : 0.01027777777777783,
+      "y" : 0.22458333326462532
+    },
+    {
+      "w" : 0.19958847573718186,
+      "conf" : 1,
+      "text" : "[E] Prostatic urethral mucosa only",
+      "x" : 0.15329218306584358,
+      "h" : 0.008888888623979296,
+      "y" : 0.21222222215406772
+    },
+    {
+      "w" : 0.4238682872844193,
+      "conf" : 1,
+      "text" : "Q40. [Faculty Exam] What is the immunological mechanism of",
+      "x" : 0.7119341616769547,
+      "h" : 0.010174418555365605,
+      "y" : 0.4280523256722384
+    },
+    {
+      "w" : 0.40740741273892006,
+      "conf" : 1,
+      "text" : "Intravesical BCG immunotherapy for superficial high-grade",
+      "x" : 0.6995884705761319,
+      "h" : 0.011724805831909157,
+      "y" : 0.41419573616387423
+    },
+    {
+      "w" : 0.11316871643066406,
+      "conf" : 1,
+      "text" : "bladder cancer?",
+      "x" : 0.5565843610082305,
+      "h" : 0.008888888888888835,
+      "y" : 0.4011111110283288
+    },
+    {
+      "w" : 0.41563785001166964,
+      "conf" : 1,
+      "text" : "[A] Stimulates local cell-mediated Th1 immunity and cytotoxic T cells to",
+      "x" : 0.7057613210288065,
+      "h" : 0.0102971574995252,
+      "y" : 0.38596253233545186
+    },
+    {
+      "w" : 0.11522633774475477,
+      "conf" : 1,
+      "text" : "destroy tumor cells",
+      "x" : 0.5555555536351167,
+      "h" : 0.01027777777777783,
+      "y" : 0.37430555563073753
+    },
+    {
+      "w" : 0.42798350592079404,
+      "conf" : 1,
+      "text" : "[B] It acts as an alkylating chemotherapy agent directly cross-linking DNA",
+      "x" : 0.7119341577503429,
+      "h" : 0.011673126220703045,
+      "y" : 0.3619412144859492
+    },
+    {
+      "w" : 0.3106995828496585,
+      "conf" : 1,
+      "text" : "[C] It neutralizes circulating erythropoietin molecules",
+      "x" : 0.6512345730795608,
+      "h" : 0.011666666666666714,
+      "y" : 0.3502777776036068
+    },
+    {
+      "w" : 0.4218107019580384,
+      "conf" : 1,
+      "text" : "[D] It physically coats the urothelium with an impermeable rubber barrier",
+      "x" : 0.7088477408436212,
+      "h" : 0.01031007766723635,
+      "y" : 0.33932170540045997
+    },
+    {
+      "w" : 0.38888888089162,
+      "conf" : 1,
+      "text" : "[E] It permanently blocks all sensory nerve endings in the detrusor",
+      "x" : 0.692386835164609,
+      "h" : 0.010174418555365716,
+      "y" : 0.3277616279796512
+    },
+    {
+      "w" : 0.4032921461189318,
+      "conf" : 1,
+      "text" : "Q41. [Core Exam] A 65-year-old smoker has painless gross",
+      "x" : 0.7016460972565156,
+      "h" : 0.010277777777777719,
+      "y" : 0.3001388888260283
+    },
+    {
+      "w" : 0.39711931816436963,
+      "conf" : 1,
+      "text" : "hematuria. Biopsy shows high-grade urothelial carcinoma",
+      "x" : 0.6965020509945132,
+      "h" : 0.011698966026306157,
+      "y" : 0.2863727392337119
+    },
+    {
+      "w" : 0.4094649980653007,
+      "conf" : 1,
+      "text" : "invading detrusor muscle. What is the stage and treatment?",
+      "x" : 0.7026748961162551,
+      "h" : 0.013113694720798041,
+      "y" : 0.27399870824778166
+    },
+    {
+      "w" : 0.42181070195803866,
+      "conf" : 1,
+      "text" : "[A] Stage T2 (muscle-invasive); requires Radical Cystectomy with pelvic",
+      "x" : 0.7088477418981481,
+      "h" : 0.01030361758338072,
+      "y" : 0.25792958662334714
+    },
+    {
+      "w" : 0.1008230365297329,
+      "conf" : 1,
+      "text" : "node dissection",
+      "x" : 0.5483539111454047,
+      "h" : 0.00872092988755968,
+      "y" : 0.24709302335271321
+    },
+    {
+      "w" : 0.3621399117715704,
+      "conf" : 1,
+      "text" : "[B] Stage Ta non-invasive; treated with oral antibiotics alone",
+      "x" : 0.6790123517146774,
+      "h" : 0.01173772546980123,
+      "y" : 0.23552002598065314
+    },
+    {
+      "w" : 0.33333333333333337,
+      "conf" : 1,
+      "text" : "[C] Benign papilloma; requires no treatment or follow-up",
+      "x" : 0.6646090590534979,
+      "h" : 0.010277777777777719,
+      "y" : 0.22458333328279395
+    },
+    {
+      "w" : 0.4156378500116696,
+      "conf" : 1,
+      "text" : "[D] Schistosomal squamous carcinoma; treated with praziquantel alone",
+      "x" : 0.7057613113854597,
+      "h" : 0.01027777777777783,
+      "y" : 0.21291666642963503
+    },
+    {
+      "w" : 0.37242798235431396,
+      "conf" : 1,
+      "text" : "[E] Metastatic adenocarcinoma; palliative radiation therapy only",
+      "x" : 0.6841563832561727,
+      "h" : 0.010284237861633239,
+      "y" : 0.20125322993625572
+    },
+    {
+      "w" : 0.8641975450815645,
+      "conf" : 1,
+      "text" : "Q35. [2024 Exam] Carcinoma In Situ (CIS) of the urinary bladder Q42. [Clinical Vignette] A 52-year-old Egyptian male with past",
+      "x" : 0.4876543317901232,
+      "h" : 0.011737725469801119,
+      "y" : 0.17302002600487792
+    },
+    {
+      "w" : 0.24074072208044664,
+      "conf" : 1,
+      "text" : "is pathologically characterized as:",
+      "x" : 0.17181069557613182,
+      "h" : 0.010174418555365716,
+      "y" : 0.15915697671996137
+    },
+    {
+      "w" : 0.43827157650353776,
+      "conf" : 1,
+      "text" : "urinary bilharziasis has a necrotic bladder mass. Biopsy reveals",
+      "x" : 0.7170781838220166,
+      "h" : 0.011763565805223197,
+      "y" : 0.159951550678403
+    },
+    {
+      "w" : 0.7510287686713836,
+      "conf" : 1,
+      "text" : "[A] A flat, non-invasive lesion containing cytologically malignant high-grade keratin pearls and calcified ova. Diagnosis:",
+      "x" : 0.4290123531893002,
+      "h" : 0.013171834415859673,
+      "y" : 0.1460303617048329
+    },
+    {
+      "w" : 0.38271602894525114,
+      "conf" : 1,
+      "text" : "cells throughout the urothelial thickness, with high risk of invasion",
+      "x" : 0.2448559606995887,
+      "h" : 0.01030361758338072,
+      "y" : 0.1329295864598296
+    },
+    {
+      "w" : 0.337448551969708,
+      "conf" : 1,
+      "text" : "[A] Clear Cell Renal Cell Carcinoma invading the bladder",
+      "x" : 0.6646090577160493,
+      "h" : 0.010277777777777719,
+      "y" : 0.1315277775975507
+    },
+    {
+      "w" : 0.3518518411888266,
+      "conf" : 1,
+      "text" : "[B] A benign exophytic papillary growth with normal cytology",
+      "x" : 0.2294238718312757,
+      "h" : 0.010174418555365716,
+      "y" : 0.12136627914244186
+    },
+    {
+      "w" : 0.32304526275058965,
+      "conf" : 1,
+      "text" : "[B] Transitional Cell Carcinoma (Urothelial Carcinoma)",
+      "x" : 0.6574074020233198,
+      "h" : 0.00872093015246922,
+      "y" : 0.12063953491927654
+    },
+    {
+      "w" : 0.36831273972613265,
+      "conf" : 1,
+      "text" : "[C] An endophytic glandular proliferation into the perivesical fat",
+      "x" : 0.23765431786694116,
+      "h" : 0.010174418555365605,
+      "y" : 0.1097383719234496
+    },
+    {
+      "w" : 0.3168724108042207,
+      "conf" : 1,
+      "text" : "[C] Benign Bilharzial Polyp without malignant potential",
+      "x" : 0.6563786047839505,
+      "h" : 0.010174418555365716,
+      "y" : 0.1082848838117732
+    },
+    {
+      "w" : 0.28189300441142146,
+      "conf" : 1,
+      "text" : "[D] A keratinizing squamous pearl-forming ulcer",
+      "x" : 0.1944444479681069,
+      "h" : 0.01031007766723635,
+      "y" : 0.09817829476305734
+    },
+    {
+      "w" : 0.29629629363053994,
+      "conf" : 1,
+      "text" : "[D] Primary Urachal Adenocarcinoma of the dome",
+      "x" : 0.6460905399176953,
+      "h" : 0.010174418555365605,
+      "y" : 0.09665697681686047
+    },
+    {
+      "w" : 0.3065843642132837,
+      "conf" : 1,
+      "text" : "[E] A submucosal benign smooth muscle leiomyoma",
+      "x" : 0.20679012652263368,
+      "h" : 0.01027777777777783,
+      "y" : 0.08652777773955977
+    },
+    {
+      "w" : 0.39094649020980743,
+      "conf" : 1,
+      "text" : "[E] Schistosomal Squamous Cell Carcinoma of the urinary bladder",
+      "x" : 0.6913580181755832,
+      "h" : 0.010174418555365605,
+      "y" : 0.08502906969476753
+    },
+    {
+      "w" : 0.5493827196037245,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal Pathology Master Class • Strictly Grounded in Faculty & Board Exam Past Papers",
+      "x" : 0.31995883858024726,
+      "h" : 0.0087273899714152,
+      "y" : 0.03924741603998988
+    },
+    {
+      "w" : 0.18312757719987593,
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8652263375502713,
+      "h" : 0.007273901833428242,
+      "y" : 0.03997416027035672
+    },
+    {
+      "w" : 0.02880658443618872,
+      "conf" : 1,
+      "text" : "91",
+      "x" : 0.5123456792592593,
+      "h" : 0.01744185977511936,
+      "y" : 0.011627906802325616
+    }
+  ],
+  "page" : 93
+}

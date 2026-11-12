@@ -1,0 +1,893 @@
+{
+  "items" : [
+    {
+      "y" : 0.9774224806163936,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 6 MCQ Masterclass",
+      "x" : 0.2798353866255146,
+      "w" : 0.4938271480536311,
+      "h" : 0.013178294499715193,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9651162789970931,
+      "text" : "Twisted Medicine Medical Series • Renal Stroma, Cortex, Medulla, Nephron & Tubules • Standard Board Practice Bank",
+      "x" : 0.34773661764403313,
+      "w" : 0.6296296029720667,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9447351418998955,
+      "text" : "Q15. [2025 Exam] The functional histological unit of the kidney is the",
+      "x" : 0.26234567506858725,
+      "w" : 0.45473249903265034,
+      "h" : 0.011692506472269715,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9302648581380051,
+      "text" : "Nephron. Which structure is developmentally and functionally NOT",
+      "x" : 0.25000000537551426,
+      "w" : 0.4300411392307881,
+      "h" : 0.011692505942450637,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9164244185138082,
+      "text" : "part of the nephron proper?",
+      "x" : 0.12448559447016465,
+      "w" : 0.1790123465675978,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9026162790213178,
+      "text" : "[A] Proximal convoluted tubule (PCT)",
+      "x" : 0.14094649845679025,
+      "w" : 0.2160493862703911,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8902616279978197,
+      "text" : "[B] Collecting tubule and Collecting duct (derived from Ureteric Bud)",
+      "x" : 0.23148148644547312,
+      "w" : 0.3971193421561763,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8793604650436047,
+      "text" : "[C] Distal convoluted tubule (DCT)",
+      "x" : 0.1327160468878601,
+      "w" : 0.19958847573718183,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8670704135401703,
+      "text" : "[D] Renal (Malpighian) corpuscle",
+      "x" : 0.13065843947187916,
+      "w" : 0.1954732451049037,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8561111111739719,
+      "text" : "[E] Loop of Henle (thick and thin segments)",
+      "x" : 0.1604938239711935,
+      "w" : 0.25514403529137186,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9440277780123019,
+      "text" : "Q22. [2023 Exam] The Vascular Pole of the renal corpuscle is the",
+      "x" : 0.7170781822016463,
+      "w" : 0.42592592059441337,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9309722220361478,
+      "text" : "specific site where:",
+      "x" : 0.5792181092935527,
+      "w" : 0.13786007623252627,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9149709302083333,
+      "text" : "[A] Bowman's space continues into the lumen of the PCT",
+      "x" : 0.6748971137860085,
+      "w" : 0.33333333333333337,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9033333332314228,
+      "text" : "[B] Arcuate artery branches into interlobar arteries",
+      "x" : 0.6574074062499999,
+      "w" : 0.2983539029487273,
+      "h" : 0.013333333333333308,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8931944445112716,
+      "text" : "[C] Afferent arteriole enters and efferent arteriole exits the glomerulus",
+      "x" : 0.7129629680812757,
+      "w" : 0.4094649980653008,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8815277775612134,
+      "text" : "[D] Vasa recta loop back to enter the arcuate vein",
+      "x" : 0.6543209913065844,
+      "w" : 0.29218105100235847,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8698611110319625,
+      "text" : "[E] Duct of Bellini opens onto the area cribrosa",
+      "x" : 0.64506172497428,
+      "w" : 0.2736625431468652,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8343023257267441,
+      "text" : "Q16. [2024 Exam] What is the approximate total number of nephrons",
+      "x" : 0.255144030144033,
+      "w" : 0.44032920981353185,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8204295865287634,
+      "text" : "present in each normal adult human kidney?",
+      "x" : 0.17798353919526141,
+      "w" : 0.2860082230477963,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8059722220543164,
+      "text" : "[A] 5,000 to 10,000 nephrons",
+      "x" : 0.12242798577674889,
+      "w" : 0.17901234656759774,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7943055556159087,
+      "text" : "[B] 10,000,000 to 15,000,000 nephrons",
+      "x" : 0.14711934537037025,
+      "w" : 0.22839504217951556,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7826453487723674,
+      "text" : "[C] 1,000,000 to 1,300,000 nephrons",
+      "x" : 0.13991769759945127,
+      "w" : 0.21399175296039702,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7718023256177325,
+      "text" : "[D] 50,000 to 75,000 nephrons",
+      "x" : 0.12242798577674889,
+      "w" : 0.17901234656759774,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7594476744731105,
+      "text" : "[E] 100,000 to 250,000 nephrons",
+      "x" : 0.12860082543724274,
+      "w" : 0.19135801447262557,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9760174417301769,
+      "text" : "Page 2 of 4",
+      "x" : 0.9341563783467581,
+      "w" : 0.07019636765965875,
+      "h" : 0.011023411220974388,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7259722223876204,
+      "text" : "Q17. [2023 Exam] Cortical (Superficial) Nephrons constitute",
+      "x" : 0.22839506656378591,
+      "w" : 0.3868312715734326,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7122222221572718,
+      "text" : "approximately what percentage of all nephrons in the human kidney?",
+      "x" : 0.256172839266118,
+      "w" : 0.44650206175990076,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6976744185562016,
+      "text" : "[A] 50% of all nephrons",
+      "x" : 0.10185184955418389,
+      "w" : 0.1378600762325263,
+      "h" : 0.00872092988755957,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6860368215861289,
+      "text" : "[B] 30% of all nephrons",
+      "x" : 0.10185184955418389,
+      "w" : 0.1378600762325263,
+      "h" : 0.0087403098742167,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6737467702090931,
+      "text" : "[C] 15% of all nephrons",
+      "x" : 0.10185185357510285,
+      "w" : 0.13786007623252627,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6627777777118367,
+      "text" : "[D] 99% of all nephrons",
+      "x" : 0.10185185357510285,
+      "w" : 0.13786007623252627,
+      "h" : 0.008888889153798485,
+      "conf" : 1
+    },
+    {
+      "y" : 0.651111111144608,
+      "text" : "[E] 85% of all nephrons",
+      "x" : 0.1008230466255144,
+      "w" : 0.1358024669143389,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6286337208757267,
+      "text" : "Q18. [2022 Exam] Juxtamedullary Nephrons (~15% of total) are",
+      "x" : 0.23868312247942397,
+      "w" : 0.40740741273892,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6155523255268895,
+      "text" : "distinguished histologically from cortical nephrons by having:",
+      "x" : 0.2335390896862142,
+      "w" : 0.3971193421561764,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5995833333312437,
+      "text" : "[A] No efferent arterioles, draining directly into renal veins",
+      "x" : 0.20370370939643326,
+      "w" : 0.3415637706060829,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5893217053822914,
+      "text" : "[B] Extremely short loops of Henle confined entirely to cortex",
+      "x" : 0.2119341608539094,
+      "w" : 0.3580246931351956,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5777616279978197,
+      "text" : "[C] Corpuscles located in the fibrous capsule without glomeruli",
+      "x" : 0.21707819390432087,
+      "w" : 0.36831273972613254,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5661337209847384,
+      "text" : "[D] Complete absence of distal convoluted tubules and macula densa",
+      "x" : 0.2355967128858024,
+      "w" : 0.40534977942892597,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5538436696190334,
+      "text" : "[E] Corpuscles near corticomedullary border and long loops of Henle deep in",
+      "x" : 0.2561728450874484,
+      "w" : 0.4465020617599007,
+      "h" : 0.011757105721367789,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5428779070312499,
+      "text" : "medulla",
+      "x" : 0.05864197595164607,
+      "w" : 0.051440328921911846,
+      "h" : 0.007267441749572723,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5188888886806793,
+      "text" : "Q19. [2021 Exam] The efferent arterioles emerging from the glomeruli",
+      "x" : 0.26028806021090545,
+      "w" : 0.4506172803962756,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5051388888590258,
+      "text" : "of Juxtamedullary Nephrons branch into straight capillary hairpin",
+      "x" : 0.2448559618312758,
+      "w" : 0.4197530686480444,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.49207041358862,
+      "text" : "loops called:",
+      "x" : 0.07818930192043891,
+      "w" : 0.0905349779428926,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4774709302083334,
+      "text" : "[A] Peritubular cortical capillary networks",
+      "x" : 0.1543209836076819,
+      "w" : 0.24279835539044076,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4665697674903101,
+      "text" : "[B] Interlobular arteries",
+      "x" : 0.1018518541495198,
+      "w" : 0.13786007623252627,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.45421511633357553,
+      "text" : "[C] Stellate veins of Verheyen",
+      "x" : 0.12037037255658431,
+      "w" : 0.17489711593531965,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.44263888885902586,
+      "text" : "[D] Vasa Recta (arteriolae et venulae rectae)",
+      "x" : 0.16152263052983545,
+      "w" : 0.25720164460955924,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4309722220361478,
+      "text" : "[E] Arcuate veins",
+      "x" : 0.08641975486968445,
+      "w" : 0.1069958764801985,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.40837209293575244,
+      "text" : "Q20. [2020 Exam] The primary physiological role of Juxtamedullary",
+      "x" : 0.2520576185956789,
+      "w" : 0.4341563578671629,
+      "h" : 0.01174418555365675,
+      "conf" : 1
+    },
+    {
+      "y" : 0.39607558146802324,
+      "text" : "Nephrons and their associated vasa recta is:",
+      "x" : 0.181069963717421,
+      "w" : 0.2921810510023585,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.38013888903465576,
+      "text" : "[A] Synthesis of renin by medullary interstitial cells",
+      "x" : 0.18312757702331944,
+      "w" : 0.3004115122669148,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3691666668625549,
+      "text" : "[B] Establishing the medullary osmotic gradient for urine concentration",
+      "x" : 0.2397119393261316,
+      "w" : 0.4135802167016755,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "y" : 0.35757105949582485,
+      "text" : "[C] Bulk reabsorption of glucose and amino acids in the cortex",
+      "x" : 0.21502057977366254,
+      "w" : 0.3641975210897578,
+      "h" : 0.008746769693162793,
+      "conf" : 1
+    },
+    {
+      "y" : 0.34587209295997706,
+      "text" : "[D] Filtration of large plasma proteins into the urine",
+      "x" : 0.18312757702331944,
+      "w" : 0.3004115122669148,
+      "h" : 0.01174418555365675,
+      "conf" : 1
+    },
+    {
+      "y" : 0.33502906989462217,
+      "text" : "[E] Secretion of erythropoietin into peritubular capillaries",
+      "x" : 0.19855966669238695,
+      "w" : 0.3312757000233392,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8343023257751938,
+      "text" : "Q23. [2022 Exam] The Urinary (Tubular) Pole of the renal corpuscle is",
+      "x" : 0.73456789739369,
+      "w" : 0.4485596470862814,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8204295864416611,
+      "text" : "anatomically characterized by:",
+      "x" : 0.6141975282664609,
+      "w" : 0.20781892500583476,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8059722220179791,
+      "text" : "[A] Direct penetration of the afferent glomerular arteriole",
+      "x" : 0.6759259300668723,
+      "w" : 0.33127570002333917,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7943055556159087,
+      "text" : "[B] Presence of juxtaglomerular renin-secreting myoepithelial cells",
+      "x" : 0.7037037102194785,
+      "w" : 0.39094649020980743,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7826453487497058,
+      "text" : "[C] Arrival of the thick ascending limb carrying the macula densa",
+      "x" : 0.6975308705075444,
+      "w" : 0.37860081030887627,
+      "h" : 0.010290697945488758,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7710755815164729,
+      "text" : "[D] Continuity of Bowman's parietal epithelium with the simple cuboidal PCT",
+      "x" : 0.7314814889231822,
+      "w" : 0.4465020617599008,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7587209303294574,
+      "text" : "epithelium",
+      "x" : 0.542181071090535,
+      "w" : 0.06790123345716947,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7478197673873546,
+      "text" : "[E] Termination of the distal convoluted tubule into collecting duct",
+      "x" : 0.7016460856995885,
+      "w" : 0.38683127157343267,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7252777780001893,
+      "text" : "Q24. [2021 Exam] The Parietal Layer of Bowman's capsule is",
+      "x" : 0.7057613119855968,
+      "w" : 0.39094649020980743,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7122222221088224,
+      "text" : "histologically lined by which type of epithelium?",
+      "x" : 0.6707818983539093,
+      "w" : 0.3209876534324023,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6976744186773256,
+      "text" : "[A] Stratified transitional urothelium with umbrella cells",
+      "x" : 0.671810703626543,
+      "w" : 0.32304526275058953,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6860368217314777,
+      "text" : "[B] Non-keratinized stratified squamous epithelium",
+      "x" : 0.6615226387860081,
+      "w" : 0.3024691215851023,
+      "h" : 0.0087403098742167,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6737467700940253,
+      "text" : "[C] Simple cuboidal epithelium with a prominent brush border",
+      "x" : 0.6882715989369,
+      "w" : 0.360082302453383,
+      "h" : 0.010284237861633239,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6627777777118367,
+      "text" : "[D] Pseudostratified ciliated columnar epithelium",
+      "x" : 0.6532921846450616,
+      "w" : 0.2860082230477963,
+      "h" : 0.008888889153798485,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6511272609600864,
+      "text" : "[E] Simple squamous epithelium resting on a basal lamina",
+      "x" : 0.6790123505486967,
+      "w" : 0.341563770606083,
+      "h" : 0.011698966026306157,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6294121448243842,
+      "text" : "Q25. [2025 Exam] The Visceral Layer of Bowman's capsule consists of",
+      "x" : 0.7386831351165979,
+      "w" : 0.45267486572265636,
+      "h" : 0.0117312653859456,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6147642114645611,
+      "text" : "highly specialized epithelial cells that envelop glomerular capillaries,",
+      "x" : 0.7335391020233193,
+      "w" : 0.4465020617599007,
+      "h" : 0.011750645637512047,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6031976744670543,
+      "text" : "called:",
+      "x" : 0.5339506180727023,
+      "w" : 0.04732510128860956,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5879166668443863,
+      "text" : "[A] Macula densa columnar cells",
+      "x" : 0.6080246938014403,
+      "w" : 0.19547324510490371,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5762532299544244,
+      "text" : "[B] Fenestrated endothelial cells",
+      "x" : 0.6059670813786007,
+      "w" : 0.19135801447262546,
+      "h" : 0.010284237861633239,
+      "conf" : 1
+    },
+    {
+      "y" : 0.564680232630814,
+      "text" : "[C] Peritubular interstitial myofibroblasts",
+      "x" : 0.6306584402263373,
+      "w" : 0.2407407220804466,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5522642114645611,
+      "text" : "[D] Podocytes with primary processes and interdigitating pedicels",
+      "x" : 0.7006172885802467,
+      "w" : 0.38477363826343836,
+      "h" : 0.011750645637512047,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5399709303536822,
+      "text" : "[E] Extraglomerular mesangial cells (Lacis cells)",
+      "x" : 0.6512345726680383,
+      "w" : 0.2860082230477963,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5188888887049041,
+      "text" : "Q26. [2020 Exam] Bowman's (Urinary) Space is the space located",
+      "x" : 0.7191357954389578,
+      "w" : 0.4218107019580386,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5058333333070189,
+      "text" : "between the:",
+      "x" : 0.5565843636831275,
+      "w" : 0.09259258726108,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "y" : 0.49055232555717054,
+      "text" : "[A] Glomerular basement membrane and capillary endothelial cells",
+      "x" : 0.7037036971879289,
+      "w" : 0.3909464902098073,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4789244184350775,
+      "text" : "[B] Afferent and efferent arterioles at the vascular pole",
+      "x" : 0.6738683172496568,
+      "w" : 0.3271604813869644,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4673546511307334,
+      "text" : "[C] Parietal and visceral layers of Bowman's capsule receiving primary filtrate",
+      "x" : 0.7345679057201646,
+      "w" : 0.4485596470862815,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "y" : 0.45569444443254103,
+      "text" : "[D] Medullary rays and cortical labyrinths",
+      "x" : 0.6296296255829905,
+      "w" : 0.2427983553904408,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.44402777798202087,
+      "text" : "[E] Macula densa and juxtaglomerular cells",
+      "x" : 0.6347736593878601,
+      "w" : 0.2530864019813778,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2987467701909245,
+      "text" : "Q21. [2024 Exam] The Renal (Malpighian) Corpuscle consists of two",
+      "x" : 0.2541152307201645,
+      "w" : 0.43827157650353776,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "y" : 0.28567829474488876,
+      "text" : "distinct components, namely the:",
+      "x" : 0.14506173206447176,
+      "w" : 0.22016460490676593,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2710755814498547,
+      "text" : "[A] Proximal convoluted tubule and macula densa",
+      "x" : 0.17901234933127563,
+      "w" : 0.29218105100235847,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.25944767449127903,
+      "text" : "[B] Area cribrosa and minor calyx",
+      "x" : 0.13374485932784627,
+      "w" : 0.2016460730594659,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2478197674963662,
+      "text" : "[C] Glomerulus (capillary tuft) and Bowman's capsule",
+      "x" : 0.18930041543209863,
+      "w" : 0.31275719216784587,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.23624677017275592,
+      "text" : "[D] Interlobular artery and afferent arteriole",
+      "x" : 0.15946502373971186,
+      "w" : 0.2530864019813778,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "y" : 0.22458333337969333,
+      "text" : "[E] Vasa recta and collecting duct",
+      "x" : 0.131687240192044,
+      "w" : 0.1975308544230911,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.40915697668968026,
+      "text" : "Q27. [Faculty Exam] In conditions causing crescentic",
+      "x" : 0.6810699545781893,
+      "w" : 0.3415637706060829,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3953036175947424,
+      "text" : "glomerulonephritis, the cellular crescents proliferating in Bowman's",
+      "x" : 0.7283950573662552,
+      "w" : 0.436213991177157,
+      "h" : 0.011718346277872715,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3815277775975505,
+      "text" : "space are derived mainly from:",
+      "x" : 0.6121399202417696,
+      "w" : 0.20370370636946,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.36776485817434224,
+      "text" : "[A] Podocytes and red blood cells",
+      "x" : 0.6121399210905348,
+      "w" : 0.20370370636946,
+      "h" : 0.011692505942450637,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3561111112950958,
+      "text" : "[B] Proliferating parietal epithelial cells and infiltrating macrophages",
+      "x" : 0.70884774324417,
+      "w" : 0.39711931816436963,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3451453489661657,
+      "text" : "[C] Endothelial cells of interlobular veins",
+      "x" : 0.6275720204389573,
+      "w" : 0.2386831127622593,
+      "h" : 0.01029069741566968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.33208333352525493,
+      "text" : "[D] Peritubular fibroblasts and adipocytes",
+      "x" : 0.6316872397633745,
+      "w" : 0.2427983553904407,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3204295866051785,
+      "text" : "[E] Smooth muscle cells of arcuate arteries",
+      "x" : 0.6368312800068585,
+      "w" : 0.2572016446095593,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "y" : 0.299441214873546,
+      "text" : "Q28. [Core Concept] Which structural feature of the afferent versus",
+      "x" : 0.7263374464334704,
+      "w" : 0.4320987725407822,
+      "h" : 0.011673126220703045,
+      "conf" : 1
+    },
+    {
+      "y" : 0.28567829472672024,
+      "text" : "efferent glomerular arterioles creates the high hydrostatic pressure",
+      "x" : 0.7283950671810697,
+      "w" : 0.4362139911771571,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2725290698885658,
+      "text" : "(~50 mmHg) in glomerular capillaries?",
+      "x" : 0.6409465064814812,
+      "w" : 0.26543208188230893,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2572351420679059,
+      "text" : "[A] Afferent arteriole completely lacks a muscular tunica media",
+      "x" : 0.6965020638203017,
+      "w" : 0.37242798235431407,
+      "h" : 0.011692505942450637,
+      "conf" : 1
+    },
+    {
+      "y" : 0.24636627916061055,
+      "text" : "[B] Efferent arteriole is wider than afferent arteriole",
+      "x" : 0.6615226375257199,
+      "w" : 0.3024691215851022,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.23401162771317824,
+      "text" : "[C] Glomerular capillaries contain precapillary sphincters",
+      "x" : 0.6759259291838133,
+      "w" : 0.3353909426515208,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "y" : 0.22317829472672024,
+      "text" : "[D] Efferent arteriole contains valves that prevent backward flow",
+      "x" : 0.6965020623199587,
+      "w" : 0.37654320099068894,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "y" : 0.21080426373922667,
+      "text" : "[E] Afferent arteriole has a significantly wider diameter than the efferent",
+      "x" : 0.7181069888888891,
+      "w" : 0.4197530686480444,
+      "h" : 0.011724805831909269,
+      "conf" : 1
+    },
+    {
+      "y" : 0.19912790704941874,
+      "text" : "arteriole",
+      "x" : 0.5360082310956791,
+      "w" : 0.05144032892191186,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.014573643611020815,
+      "text" : "Twisted Medicine • Renal Histology Master Class • Strictly Grounded in Faculty & Board 5yan Past Papers",
+      "x" : 0.3179012416923867,
+      "w" : 0.5699588127855986,
+      "h" : 0.017519379191928475,
+      "conf" : 1
+    },
+    {
+      "y" : 0.01966085278616625,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321,
+      "w" : 0.19135801447262546,
+      "h" : 0.007344961166381836,
+      "conf" : 1
+    }
+  ],
+  "page" : 24
+}

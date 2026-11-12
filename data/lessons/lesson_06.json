@@ -1,0 +1,840 @@
+{
+  "id": 6,
+  "title": "General Structure of the Kidney - Histology Lecture",
+  "department": "Histology",
+  "department_desc": "Microscopic architecture of renal cortex, filtration barrier, loop of Henle and vasculature",
+  "booklet_pages": "Pages 21 - 24",
+  "pdf_pages": [
+    23,
+    24,
+    25,
+    26
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 6 - HIGH-YIELD HISTOLOGICAL PEARLS & NEPHRON ARCHITECTURE MATRIX",
+  "summary_table": [
+    {
+      "domain": "Renal Stroma & Interstitium",
+      "content": "• Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths."
+    },
+    {
+      "domain": "Cortex vs. Medulla & Lobules",
+      "content": "• Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper)."
+    },
+    {
+      "domain": "Nephron Types & Glomerulus",
+      "content": "• Cortical Nephrons (~85%): Superficial corpuscles, short loops in outer medulla, peritubular capillary network. • Juxtamedullary Nephrons (~15%): Near corticomedullary border, long loops deep in inner medulla, Vasa Recta hairpin loops essential for countercurrent urine concentration. • Bowman's Capsule: Parietal layer = simple squamous; Visceral layer = Podocytes (pedicels & filtration slits). • PCT: Simple cuboidal, tall apical Brush Border (microvilli, PAS+), indistinct lateral boundaries (interdigitations), intense"
+    },
+    {
+      "domain": "PCT vs. DCT Microscopic",
+      "content": "acidophilia/eosinophilia (abundant basal mitochondria), small irregular lumen."
+    },
+    {
+      "domain": "Comparison",
+      "content": "• DCT: Lower simple cuboidal, wider and clear lumen, NO brush border, distinct nuclei, paler cytoplasm. • Macula Densa: Crowded, tall columnar sensory plaque in DCT contacting the vascular pole (chemoreceptor for tubular [NaCI]). • Collecting Ducts: Simple cuboidal-to-columnar, clear lateral cell borders. Principal (Light) cells (Na+ & water reabsorption via ADH) vs."
+    },
+    {
+      "domain": "Collecting System & Stains",
+      "content": "Intercalated (Dark) cells (acid-base regulation via H+/HC03-). • Ducts of Bellini: Large terminal columnar ducts emptying at Area Cribrosa on papilla. • Special Stains: PAS stains PCT brush border and Glomerular Basement Membrane intensely magenta."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Histologically, the renal capsule consists of dense irregular collagenous connective tissue and contains which cell type aiding in volume regulation?",
+      "options": {
+        "A": "Skeletal muscle fibers",
+        "B": "Myofibroblasts with contractile capability",
+        "C": "Non-contractile simple squamous mesothelium",
+        "D": "Continuous sheets of hyaline cartilage",
+        "E": "Adipose tissue only without collagen fibers"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The granular gross histological appearance of the Renal Cortex under low power light microscopy is primarily due to the presence of:",
+      "options": {
+        "A": "Renal (Malpighian) corpuscles and convoluted tubules",
+        "B": "Abundant fat droplets in cortical interstitial cells",
+        "C": "Thin descending and ascending limbs of Henle",
+        "D": "Vasa recta hairpin capillary loops",
+        "E": "Straight collecting ducts of Bellini"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "The striated appearance of the Renal Medullary Pyramids in histological sections is caused by the strictly parallel arrangement of:",
+      "options": {
+        "A": "Macula densa plaques and juxtaglomerular cells",
+        "B": "Straight renal tubules, collecting ducts, and vasa recta",
+        "C": "Skeletal muscle fibers radiating from the capsule",
+        "D": "Proximal convoluted tubules with brush borders",
+        "E": "Interlobular arteries and glomeruli"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Medullary Rays (Rays of Ferrein) extending from the Q11. [2025 Exam] The corticomedullary junction is histologically base of the medullary pyramids upward into the cortex histologically contain:",
+      "options": {
+        "A": "Renal corpuscles and proximal convoluted tubules",
+        "B": "Distal convoluted tubules and interlobular veins",
+        "C": "Sympathetic nerve ganglia and lymph nodes",
+        "D": "Straight tubules (limbs of Henle) and collecting tubules",
+        "E": "Arcuate arteries and arcuate veins"
+      },
+      "correct_option": "D",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The Cortical Labyrinth is defined as the region of renal cortex situated between adjacent medullary rays, histologically characterized by:",
+      "options": {
+        "A": "Pure loose connective tissue without any tubular segments",
+        "B": "Exclusively thin descending segments of loop of Henle",
+        "C": "Parallel bundles of vasa recta capillaries",
+        "D": "Large papillary ducts of Bellini",
+        "E": "Renal corpuscles, PCTs, and DCTs"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "A classic anatomical and histological Renal Lobe is bounded and defined as consisting of:",
+      "options": {
+        "A": "All renal pyramids draining into a single minor calyx",
+        "B": "The renal pelvis and its three major calyces",
+        "C": "One renal pyramid, overlying cortex, and half of adjacent Bertin columns",
+        "D": "The cortex situated between two interlobular arteries",
+        "E": "A single medullary ray and its flanking cortical labyrinths"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "A microscopic Renal Lobule is anatomically centered upon which structure and delimited laterally by which vessels?",
+      "options": {
+        "A": "Centered on a renal pyramid and bounded by interlobar arteries",
+        "B": "Centered on a papillary duct and bounded by the fibrous capsule",
+        "C": "Centered on a renal corpuscle and bounded by arcuate veins",
+        "D": "Centered on an interlobular artery and bounded by medullary rays",
+        "E": "Centered on a Medullary Ray and bounded by Interlobular Arteries"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Renal Columns of Bertin are histologically classified as:",
+      "options": {
+        "A": "Avascular fibrocartilage plates separating renal lobes",
+        "B": "Specialized lymphatic channels draining the corticomedullary junction",
+        "C": "Extensions of cortical tissue projecting into the medulla between pyramids",
+        "D": "Medullary tissue projecting into the minor calyces",
+        "E": "Dense fibrous connective tissue septa continuous with Gerota's fascia"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Fibroblast-like interstitial cells located in the renal cortex between peritubular capillaries and tubules are the primary site of synthesis of:",
+      "options": {
+        "A": "Erythropoietin (EPO) in response to tissue hypoxia",
+        "B": "Atrial natriuretic peptide (ANP)",
+        "C": "Calcitonin to decrease serum calcium",
+        "D": "Aldosterone to promote sodium excretion",
+        "E": "Antidiuretic hormone (Vasopressin)"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Specialized lipid-laden interstitial cells located predominantly in the Renal Medulla are known to produce:",
+      "options": {
+        "A": "Interlobar arteries running between pyramids",
+        "B": "Peritubular capillary plexuses",
+        "C": "Arcuate arteries and arcuate veins",
+        "D": "Segmental end-arteries entering renal hilum",
+        "E": "Interlobular arteries running perpendicularly into cortex"
+      },
+      "correct_option": "D",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 11 covering high-yield concepts in General Structure of the Kidney - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "The Renal Papilla at the apex of each medullary pyramid is perforated by 20 to 25 duct orifices forming the: [Al Verumontanum",
+      "options": {
+        "B": "Area Cribrosa (sieve-like area",
+        "C": "Valve of Guerin",
+        "D": "Glomus choroideum",
+        "E": "Macula densa"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Which surface of the human kidney is covered by a true serous peritoneal mesothelium rather than retroperitoneal loose fascia?",
+      "options": {
+        "A": "Inner medullary surface facing the renal sinus",
+        "B": "Only the superior poles embedded in suprarenal glands",
+        "C": "Entire posterior surface of both kidneys",
+        "D": "Anterior surface areas corresponding to liver (right) and stomach/jejunum (left)",
+        "E": "Entire renal capsule including medial hilum"
+      },
+      "correct_option": "D",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "The connective tissue stroma of the normal kidney is histologically most abundant in which anatomical compartment?",
+      "options": {
+        "A": "Glomerular tufts inside Bowman's capsule",
+        "B": "Outer cortex between proximal convoluted tubules",
+        "C": "Inner medulla and renal papilla surrounding collecting ducts",
+        "D": "Subcapsular cortical zone directly below fibrous capsule",
+        "E": "Cortical labyrinths surrounding macula densa"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in General Structure of the Kidney - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the approximate total number of nephrons present in each normal adult human kidney?",
+      "options": {
+        "A": "5,000 to 10,000 nephrons",
+        "B": "10,000,000 to 15,000,000 nephrons",
+        "C": "1,000,000 to 1,300,000 nephrons",
+        "D": "50,000 to 75,000 nephrons",
+        "E": "100,000 to 250,000 nephrons"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Cortical (Superficial) Nephrons constitute approximately what percentage of all nephrons in the human kidney?",
+      "options": {
+        "A": "50% of all nephrons",
+        "B": "30% of all nephrons",
+        "C": "15% of all nephrons",
+        "D": "99% of all nephrons",
+        "E": "85% of all nephrons"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Juxtamedullary Nephrons (~15% of total) are distinguished histologically from cortical nephrons by having:",
+      "options": {
+        "A": "No efferent arterioles, draining directly into renal veins",
+        "B": "Extremely short loops of Henle confined entirely to cortex",
+        "C": "Corpuscles located in the fibrous capsule without glomeruli",
+        "D": "Complete absence of distal convoluted tubules and macula densa",
+        "E": "Corpuscles near corticomedullary border and long loops of Henle deep in medulla"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The efferent arterioles emerging from the glomeruli of Juxtamedullary Nephrons branch into straight capillary hairpin loops called:",
+      "options": {
+        "A": "Peritubular cortical capillary networks",
+        "B": "Interlobular arteries",
+        "C": "Stellate veins of Verheyen",
+        "D": "Vasa Recta (arteriolae et venulae rectae)",
+        "E": "Arcuate veins"
+      },
+      "correct_option": "D",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "The primary physiological role of Juxtamedullary Nephrons and their associated vasa recta is:",
+      "options": {
+        "A": "Synthesis of renin by medullary interstitial cells",
+        "B": "Establishing the medullary osmotic gradient for urine concentration",
+        "C": "Bulk reabsorption of glucose and amino acids in the cortex",
+        "D": "Filtration of large plasma proteins into the urine",
+        "E": "Secretion of erythropoietin into peritubular capillaries"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The Renal (Malpighian) Corpuscle consists of two distinct components, namely the:",
+      "options": {
+        "A": "Proximal convoluted tubule and macula densa",
+        "B": "Area cribrosa and minor calyx",
+        "C": "Glomerulus (capillary tuft) and Bowman's capsule",
+        "D": "Interlobular artery and afferent arteriole",
+        "E": "Vasa recta and collecting duct"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in General Structure of the Kidney - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Urinary (Tubular) Pole of the renal corpuscle is anatomically characterized by:",
+      "options": {
+        "A": "Direct penetration of the afferent glomerular arteriole",
+        "B": "Presence of juxtaglomerular renin-secreting myoepithelial cells",
+        "C": "Arrival of the thick ascending limb carrying the macula densa",
+        "D": "Continuity of Bowman's parietal epithelium with the simple cuboidal PCT epithelium",
+        "E": "Termination of the distal convoluted tubule into collecting duct"
+      },
+      "correct_option": "D",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The Parietal Layer of Bowman's capsule is histologically lined by which type of epithelium?",
+      "options": {
+        "A": "Stratified transitional urothelium with umbrella cells",
+        "B": "Non-keratinized stratified squamous epithelium",
+        "C": "Simple cuboidal epithelium with a prominent brush border",
+        "D": "Pseudostratified ciliated columnar epithelium",
+        "E": "Simple squamous epithelium resting on a basal lamina"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The Visceral Layer of Bowman's capsule consists of highly specialized epithelial cells that envelop glomerular capillaries, called:",
+      "options": {
+        "A": "Macula densa columnar cells",
+        "B": "Fenestrated endothelial cells",
+        "C": "Peritubular interstitial myofibroblasts",
+        "D": "Podocytes with primary processes and interdigitating pedicels",
+        "E": "Extraglomerular mesangial cells (Lacis cells)"
+      },
+      "correct_option": "D",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Bowman's (Urinary) Space is the space located between the:",
+      "options": {
+        "A": "Glomerular basement membrane and capillary endothelial cells",
+        "B": "Afferent and efferent arterioles at the vascular pole",
+        "C": "Parietal and visceral layers of Bowman's capsule receiving primary filtrate",
+        "D": "Medullary rays and cortical labyrinths",
+        "E": "Macula densa and juxtaglomerular cells"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In conditions causing crescentic glomerulonephritis, the cellular crescents proliferating in Bowman's space are derived mainly from:",
+      "options": {
+        "A": "Podocytes and red blood cells",
+        "B": "Proliferating parietal epithelial cells and infiltrating macrophages",
+        "C": "Endothelial cells of interlobular veins",
+        "D": "Peritubular fibroblasts and adipocytes",
+        "E": "Smooth muscle cells of arcuate arteries"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which structural feature of the afferent versus efferent glomerular arterioles creates the high hydrostatic pressure (~50 mmHg) in glomerular capillaries?",
+      "options": {
+        "A": "Afferent arteriole completely lacks a muscular tunica media",
+        "B": "Efferent arteriole is wider than afferent arteriole",
+        "C": "Glomerular capillaries contain precapillary sphincters",
+        "D": "Efferent arteriole contains valves that prevent backward flow",
+        "E": "Afferent arteriole has a significantly wider diameter than the efferent arteriole"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in General Structure of the Kidney - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In routine H&E; sections of the renal cortex, why does the cytoplasm of PCT epithelial cells stain intensely Acidophilic (Eosinophilic / Pink)?",
+      "options": {
+        "A": "Presence of mucin droplets awaiting apical exocytosis",
+        "B": "Dense accumulation of rough endoplasmic reticulum and ribosomes",
+        "C": "High concentration of glycogen granules and lipid vacuoles",
+        "D": "Abundance of vertically oriented, elongated basal mitochondria (Na+/K+ ATPase)",
+        "E": "High content of melanin pigment and lipofuscin"
+      },
+      "correct_option": "D",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "In histological cross-sections of the cortex, lateral cell boundaries between adjacent PCT cells are typically indistinct under light microscopy because of:",
+      "options": {
+        "A": "Extensive lateral interdigitating processes and plications with neighboring cells",
+        "B": "Continuous desmosomes spanning the entire lateral height",
+        "C": "Degeneration of cell membranes by fixation artifact",
+        "D": "Complete absence of plasma membranes between cells (syncytium)",
+        "E": "High lipid content dissolving lateral membranes"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Why does the lumen of the Proximal Convoluted Tubule appear relatively small and often irregular or occluded in standard histological sections?",
+      "options": {
+        "A": "Tall microvillar brush border and tendency of apical cytoplasm to swell post-mortem",
+        "B": "Presence of valves similar to lymphatic vessels",
+        "C": "Active contraction of longitudinal smooth muscle fibers in the PCT wall",
+        "D": "Precipitation of Tamm-Horsfall protein forming hyaline casts",
+        "E": "Extravasation of red blood cells into the tubular lumen"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The Distal Convoluted Tubule (DCT) is histologically distinguished from the PCT under light microscopy by having:",
+      "options": {
+        "A": "Stratified squamous lining with keratin flakes",
+        "B": "Taller columnar cells with a dense PAS-positive brush border",
+        "C": "Complete absence of cell nuclei in cross-sections",
+        "D": "Wider clear lumen, lower cuboidal cells, NO brush border, and paler cytoplasm",
+        "E": "More intense eosinophilic staining and star-shaped lumen"
+      },
+      "correct_option": "D",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In a given field of renal cortex, why are profiles of PCT cross-sections encountered far more frequently than DCT cross-sections?",
+      "options": {
+        "A": "PCT is significantly longer and more intricately coiled (~14 mm vs. ~5 mm for DCT)",
+        "B": "There are three PCTs for every one DCT per nephron",
+        "C": "DCTs are located entirely in the medullary pyramids",
+        "D": "PCTs branch into multiple secondary tubules whereas DCTs do not",
+        "E": "DCTs lack tubular epithelium and cannot be stained"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The Macula Densa is a specialized histological plaque formed by modified cells of which tubular segment contacting the vascular pole?",
+      "options": {
+        "A": "Distal Convoluted Tubule (terminal thick ascending limb / early DCT)",
+        "B": "Papillary duct of Bellini opening on area cribrosa",
+        "C": "Proximal Convoluted Tubule near Bowman's urinary pole",
+        "D": "Parietal layer of Bowman's capsule opposite the neck",
+        "E": "Thin descending limb of Henle in the inner medulla"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in General Structure of the Kidney - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Collecting Ducts in the cortex and medulla are lined by simple cuboidal-to-columnar epithelium and characteristically",
+      "options": {
+        "A": "An extensive apical brush border identical to PCT cells",
+        "B": "Clear prominent lateral cell boundaries and pale-staining cytoplasm",
+        "C": "A stratified squamous keratinized layer",
+        "D": "Indistinct lateral boundaries and intense dark eosinophilic staining",
+        "E": "Numerous lipid droplets giving the duct a foamy black appearance"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Principal (Light) Cells of collecting ducts, which reabsorb Nat and water under ADH control, are histologically recognized by:",
+      "options": {
+        "A": "Numerous phagocytic vacuoles containing carbon particles",
+        "B": "Pale cytoplasm, central round nucleus, and a single apical primary cilium",
+        "C": "Abundant dark apical microvilli and dense mitochondrial clusters",
+        "D": "Intense basophilia due to dense rough endoplasmic reticulum",
+        "E": "Presence of myofilaments and spontaneous rhythmicity"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Intercalated (Dark) Cells in collecting ducts are specialized for acid-base regulation and are histologically characterized by:",
+      "options": {
+        "A": "Secretion of erythropoietin directly into the tubular lumen",
+        "B": "Abundant mitochondria and apical microplicae/microvilli (H+ or HCO3- transport)",
+        "C": "Synthesis of surfactant-like lipids on the apical surface",
+        "D": "Formation of tight water-impermeable keratin plates",
+        "E": "Absence of mitochondria and complete lack of organelle content"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "The large terminal Collecting Ducts of Bellini emptying at the renal papilla Area Cribrosa are lined by:",
+      "options": {
+        "A": "Tall simple columnar pale cells with wide patent lumina",
+        "B": "Dense irregular fibrocollagenous tissue",
+        "C": "Ciliated pseudostratified columnar epithelium",
+        "D": "Keratinized stratified squamous epithelium",
+        "E": "Simple squamous endothelium"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Periodic Acid-Schiff (PAS) histochemical stain is especially useful in renal histology because it intensely stains which two structures magenta/pink?",
+      "options": {
+        "A": "PCT brush border microvilli and Glomerular Basement Membrane (glycoproteins)",
+        "B": "Medullary vasa recta and fat cells",
+        "C": "Transitional urothelium and smooth muscle fibers",
+        "D": "Parietal layer of Bowman's capsule and podocyte nuclei",
+        "E": "DCT cytoplasm and cell nuclei"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "In acute tubular necrosis (ATN) due to ischemia or nephrotoxins, which tubular segment is most vulnerable to histological injury and necrosis?",
+      "options": {
+        "A": "Distal Convoluted Tubule and Macula Densa",
+        "B": "Connecting tubules in the outer cortex",
+        "C": "Parietal layer of Bowman's capsule",
+        "D": "Collecting duct of Bellini at the renal papilla",
+        "E": "Straight portion of Proximal Tubule (pars recta) and Thick Ascending Limb"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Stroma & Interstitium**: • Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths.\n\n**Cortex vs. Medulla & Lobules**: • Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper).",
+      "masterclass_id": 6,
+      "masterclass_title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology"
+    }
+  ]
+}

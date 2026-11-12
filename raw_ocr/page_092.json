@@ -1,0 +1,973 @@
+{
+  "items" : [
+    {
+      "w" : 0.4423867951399125,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 24 MCQ Masterclass",
+      "x" : 0.26851851724965714,
+      "h" : 0.010310077137417273,
+      "y" : 0.9643217054231215
+    },
+    {
+      "w" : 0.07201645809149593,
+      "conf" : 1,
+      "text" : "Page 2 of 4",
+      "x" : 0.9207818922839507,
+      "h" : 0.00872092988755968,
+      "y" : 0.9651162790116279
+    },
+    {
+      "w" : 0.7037036823776534,
+      "conf" : 1,
+      "text" : "Twisted Medicine Medica\/ Series • Renal Cell Carcinoma, Wilms Tumor, Urothelial & Squamous Bladder Tumors • Standard Practice Bank",
+      "x" : 0.39917696646090495,
+      "h" : 0.00872092988755968,
+      "y" : 0.9534883721414729
+    },
+    {
+      "w" : 0.884773686247052,
+      "conf" : 1,
+      "text" : "Q15. [2025 Exam] Which paraneoplastic endocrine syndrome Q22. [2022 Exam] Microscopically, classic Wilms Tumor exhibits",
+      "x" : 0.4979423978909463,
+      "h" : 0.011711885664198118,
+      "y" : 0.9360885014509137
+    },
+    {
+      "w" : 0.8353909666433273,
+      "conf" : 1,
+      "text" : "occurs in ~5% to 10% of RCC patients due to ectopic hormone a diagnostic 'Triphasic Pattern' composed of which three",
+      "x" : 0.4732510392489709,
+      "h" : 0.011737725469801119,
+      "y" : 0.923020026004878
+    },
+    {
+      "w" : 0.18106995588578517,
+      "conf" : 1,
+      "text" : "synthesis by tumor cells?",
+      "x" : 0.14403292482853214,
+      "h" : 0.010174418555365605,
+      "y" : 0.90915697686531
+    },
+    {
+      "w" : 0.1604938267162011,
+      "conf" : 1,
+      "text" : "histological elements?",
+      "x" : 0.5761316845679013,
+      "h" : 0.010174418555365716,
+      "y" : 0.9091569767199612
+    },
+    {
+      "w" : 0.2942386843123526,
+      "conf" : 1,
+      "text" : "[A] Hypocalcemia due to calcitonin hypersecretion",
+      "x" : 0.20061728220164618,
+      "h" : 0.010277777777777719,
+      "y" : 0.8945833332195154
+    },
+    {
+      "w" : 0.3600823024533829,
+      "conf" : 1,
+      "text" : "[A] Squamous pearls, transitional cells, and glandular lumens",
+      "x" : 0.6779835450960217,
+      "h" : 0.011666666666666714,
+      "y" : 0.893888888850253
+    },
+    {
+      "w" : 0.7469135500350088,
+      "conf" : 1,
+      "text" : "[B] Polycythemia (erythrocytosis) due to ectopic production of Erythropoietin [B] Clear cells, oncocytes, and psammoma bodies",
+      "x" : 0.42695474495884733,
+      "h" : 0.008888888623979407,
+      "y" : 0.8822222222975591
+    },
+    {
+      "w" : 0.04320987665428306,
+      "conf" : 0.5,
+      "text" : "(EPO)",
+      "x" : 0.07304526802983538,
+      "h" : 0.00872092988755968,
+      "y" : 0.8706395349563953
+    },
+    {
+      "w" : 0.33744855196970813,
+      "conf" : 1,
+      "text" : "[C] Blastemal (small round blue cells), Epithelial (abortive",
+      "x" : 0.6666666722908092,
+      "h" : 0.00872092988755968,
+      "y" : 0.8706395349806202
+    },
+    {
+      "w" : 0.3106995828496585,
+      "conf" : 1,
+      "text" : "[C] Addisonian crisis due to ectopic ACTH blockade",
+      "x" : 0.2088477418038407,
+      "h" : 0.010174418555365605,
+      "y" : 0.8597383721656977
+    },
+    {
+      "w" : 0.3991769514743637,
+      "conf" : 1,
+      "text" : "tubules\/glomeruli), and Stromal (fibromuscular\/myxoid) components",
+      "x" : 0.6954732443758576,
+      "h" : 0.010174418555365605,
+      "y" : 0.8582848836967054
+    },
+    {
+      "w" : 0.34362137992427033,
+      "conf" : 1,
+      "text" : "[D] Profound hypoglycemia due to insulinoma-like peptides",
+      "x" : 0.22530863768004125,
+      "h" : 0.011763565805223197,
+      "y" : 0.847451550678403
+    },
+    {
+      "w" : 0.3580246691433889,
+      "conf" : 1,
+      "text" : "[D] Mature fat cells, thick-walled vessels, and smooth muscle",
+      "x" : 0.6769547365569273,
+      "h" : 0.010310077137417273,
+      "y" : 0.8481782945768785
+    },
+    {
+      "w" : 0.34362137992427033,
+      "conf" : 1,
+      "text" : "[E] Diabetes insipidus due to destruction of ADH receptors",
+      "x" : 0.22325102307956118,
+      "h" : 0.0087273899714152,
+      "y" : 0.835752583863111
+    },
+    {
+      "w" : 0.29012344168417104,
+      "conf" : 1,
+      "text" : "[E] Amyloid fibrils, osteoclasts, and chondrocytes",
+      "x" : 0.6409464984310702,
+      "h" : 0.0087273899714152,
+      "y" : 0.8357525838388862
+    },
+    {
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "text" : "Q16. [2024 Exam] Hypercalcemia in patients with Renal Cell",
+      "x" : 0.258230456728395,
+      "h" : 0.010174418555365605,
+      "y" : 0.8088662791424419
+    },
+    {
+      "w" : 0.40740741273892,
+      "conf" : 1,
+      "text" : "Q23. [2023 Exam] In Wilms Tumor, what histological feature",
+      "x" : 0.7037037087962961,
+      "h" : 0.011731265915764788,
+      "y" : 0.8080878550802797
+    },
+    {
+      "w" : 0.42592592059441337,
+      "conf" : 1,
+      "text" : "Carcinoma in the ABSENCE of skeletal metastases is primarily",
+      "x" : 0.26851852379115215,
+      "h" : 0.011705425580342599,
+      "y" : 0.7950193796811303
+    },
+    {
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "text" : "correlates most strongly with unfavorable prognosis and",
+      "x" : 0.6862139850137177,
+      "h" : 0.011705426110161676,
+      "y" : 0.7950193795131201
+    },
+    {
+      "w" : 0.27777776178324,
+      "conf" : 1,
+      "text" : "mediated by ectopic tumor secretion of:",
+      "x" : 0.1923868308984911,
+      "h" : 0.010277777777777719,
+      "y" : 0.7812499998304263
+    },
+    {
+      "w" : 0.27366254314686517,
+      "conf" : 1,
+      "text" : "resistance to standard chemotherapy?",
+      "x" : 0.6347736591306585,
+      "h" : 0.010277777777777719,
+      "y" : 0.7812499999454943
+    },
+    {
+      "w" : 0.18724279583625072,
+      "conf" : 1,
+      "text" : "[A] Renin-angiotensin complex",
+      "x" : 0.1450617315157749,
+      "h" : 0.010174418555365605,
+      "y" : 0.7667151163517442
+    },
+    {
+      "w" : 0.23456789412588447,
+      "conf" : 1,
+      "text" : "[A] Abundant blastemal small blue cells",
+      "x" : 0.6152263413580247,
+      "h" : 0.00874676995807222,
+      "y" : 0.7674289404783097
+    },
+    {
+      "w" : 0.18106995588578517,
+      "conf" : 1,
+      "text" : "[B] Active Calcitonin monomer",
+      "x" : 0.14403292482853214,
+      "h" : 0.008888888888888946,
+      "y" : 0.7558333333070189
+    },
+    {
+      "w" : 0.28395061372960884,
+      "conf" : 1,
+      "text" : "[B] Presence of mature adipose tissue in stroma",
+      "x" : 0.6399176962277092,
+      "h" : 0.01027777777777783,
+      "y" : 0.755138888743958
+    },
+    {
+      "w" : 0.2880658323659837,
+      "conf" : 1,
+      "text" : "[C] Parathyroid Hormone-related Protein (PTHrP)",
+      "x" : 0.1975308613168725,
+      "h" : 0.008888888888888835,
+      "y" : 0.7441666667026712
+    },
+    {
+      "w" : 0.26131686324593406,
+      "conf" : 1,
+      "text" : "[C] Well-formed tubular epithelial structures",
+      "x" : 0.6286008263117284,
+      "h" : 0.008888888623979407,
+      "y" : 0.7441666667301001
+    },
+    {
+      "w" : 0.22839504217951556,
+      "conf" : 1,
+      "text" : "[DJ Thyroid stimulating hormone (TSH)",
+      "x" : 0.16769547705761306,
+      "h" : 0.010277777777777719,
+      "y" : 0.7318055556159087
+    },
+    {
+      "w" : 0.4012345607925511,
+      "conf" : 1,
+      "text" : "[D] Diffuse Anaplasia (characterized by pleomorphic giant nuclei and",
+      "x" : 0.6985596757973249,
+      "h" : 0.010277777777777719,
+      "y" : 0.7318055556340772
+    },
+    {
+      "w" : 0.21193414364220964,
+      "conf" : 1,
+      "text" : "[E] Glucagon-like peptide 1 (GLP-1)",
+      "x" : 0.15946501952160497,
+      "h" : 0.010290697415669792,
+      "y" : 0.7201453488147608
+    },
+    {
+      "w" : 0.34362137992427033,
+      "conf" : 1,
+      "text" : "abnormal multipolar mitotic figures, linked to p53 mutation)",
+      "x" : 0.6697530821244857,
+      "h" : 0.01029069741566968,
+      "y" : 0.7201453488874352
+    },
+    {
+      "w" : 0.3065843642132838,
+      "conf" : 1,
+      "text" : "[E] Extensive necrosis following preoperative biopsy",
+      "x" : 0.651234571733539,
+      "h" : 0.010174418555365605,
+      "y" : 0.7085755814498547
+    },
+    {
+      "w" : 0.39094649020980743,
+      "conf" : 1,
+      "text" : "Q17. [2023 Exam] Stauffer Syndrome is a well-recognized",
+      "x" : 0.25102880850480097,
+      "h" : 0.011666666666666714,
+      "y" : 0.6816666664538598
+    },
+    {
+      "w" : 0.3683127397261325,
+      "conf" : 1,
+      "text" : "paraneoplastic manifestation of Renal Cell Carcinoma",
+      "x" : 0.23765431638374496,
+      "h" : 0.01027777777777783,
+      "y" : 0.6679166668592152
+    },
+    {
+      "w" : 0.13168723628206075,
+      "conf" : 1,
+      "text" : "characterized by:",
+      "x" : 0.11934156543209874,
+      "h" : 0.010290697415669792,
+      "y" : 0.6548546511489021
+    },
+    {
+      "w" : 0.33950616128789557,
+      "conf" : 1,
+      "text" : "[A] Permanent complete destruction of the adrenal cortex",
+      "x" : 0.2232510344650204,
+      "h" : 0.010174418555365605,
+      "y" : 0.6402616279796511
+    },
+    {
+      "w" : 0.3271604813869644,
+      "conf" : 1,
+      "text" : "[B] Extensive calcification of all large peripheral arteries",
+      "x" : 0.2170781947530862,
+      "h" : 0.010174418555365605,
+      "y" : 0.6286337210029069
+    },
+    {
+      "w" : 0.3456789892424577,
+      "conf" : 1,
+      "text" : "[C] Sudden bilateral sensorineural deafness with cataracts",
+      "x" : 0.22633745432098748,
+      "h" : 0.01030361758338083,
+      "y" : 0.6170704135401703
+    },
+    {
+      "w" : 0.3683127397261326,
+      "conf" : 1,
+      "text" : "[D] Acute migratory polyarthritis with positive rheumatoid factor",
+      "x" : 0.23765432712620008,
+      "h" : 0.01027777777777783,
+      "y" : 0.6054166664929136
+    },
+    {
+      "w" : 0.4259259205944133,
+      "conf" : 1,
+      "text" : "[E] Reversible non-metastatic hepatic dysfunction with elevated alkaline",
+      "x" : 0.2664609124485594,
+      "h" : 0.01027777777777783,
+      "y" : 0.5937500000726744
+    },
+    {
+      "w" : 0.31893004411421483,
+      "conf" : 1,
+      "text" : "phosphatase, prolonged PT, and hepatosplenomegaly",
+      "x" : 0.2129629669495884,
+      "h" : 0.011666666666666603,
+      "y" : 0.5813888888260283
+    },
+    {
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "text" : "Q24. [2021 Exam] Which tumor suppressor gene located on",
+      "x" : 0.7026749011728395,
+      "h" : 0.010277777777777719,
+      "y" : 0.6809722220361478
+    },
+    {
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "text" : "chromosome 11p13 is mutated or deleted in hereditary and",
+      "x" : 0.7006172771947876,
+      "h" : 0.01027777777777783,
+      "y" : 0.6679166668773838
+    },
+    {
+      "w" : 0.17078188530304145,
+      "conf" : 1,
+      "text" : "sporadic Wilms tumor?",
+      "x" : 0.5833333361796982,
+      "h" : 0.010290697415669792,
+      "y" : 0.6548546511791831
+    },
+    {
+      "w" : 0.08641974731061447,
+      "conf" : 1,
+      "text" : "[A] VHL gene",
+      "x" : 0.5411522648148147,
+      "h" : 0.010174418555365605,
+      "y" : 0.6402616279796511
+    },
+    {
+      "w" : 0.08641975330856605,
+      "conf" : 1,
+      "text" : "[B] APC gene",
+      "x" : 0.5411522644547325,
+      "h" : 0.010174418555365605,
+      "y" : 0.6286337209847384
+    },
+    {
+      "w" : 0.14814814681527,
+      "conf" : 1,
+      "text" : "[C] RET proto-oncogene",
+      "x" : 0.5720164627572015,
+      "h" : 0.01030361758338083,
+      "y" : 0.6170704135220018
+    },
+    {
+      "w" : 0.10288065784382378,
+      "conf" : 1,
+      "text" : "[D] MEN1 gene",
+      "x" : 0.547325101165981,
+      "h" : 0.01027777777777783,
+      "y" : 0.6054166668773838
+    },
+    {
+      "w" : 0.4259259205944133,
+      "conf" : 1,
+      "text" : "[E] WT1 gene (encoding a zinc-finger transcription factor crucial for renal",
+      "x" : 0.7088477408847735,
+      "h" : 0.01027777777777783,
+      "y" : 0.5937500000726744
+    },
+    {
+      "w" : 0.08641974731061441,
+      "conf" : 1,
+      "text" : "development)",
+      "x" : 0.5390946516460904,
+      "h" : 0.00872092988755968,
+      "y" : 0.5813953489341086
+    },
+    {
+      "w" : 0.40123456079255115,
+      "conf" : 1,
+      "text" : "Q18. [2022 Exam] In the TNM staging system for Renal Cell",
+      "x" : 0.2561728461934154,
+      "h" : 0.01030361758338083,
+      "y" : 0.55457041358862
+    },
+    {
+      "w" : 0.3888888808916199,
+      "conf" : 1,
+      "text" : "Q25. [2025 Exam] WAGR Syndrome is a contiguous gene",
+      "x" : 0.6944444395833334,
+      "h" : 0.01030361758338083,
+      "y" : 0.5545704134129901
+    },
+    {
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "text" : "Carcinoma, Stage T3 is pathologically defined by tumor that:",
+      "x" : 0.27057613706275707,
+      "h" : 0.010174418555365716,
+      "y" : 0.541424418659157
+    },
+    {
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "text" : "deletion syndrome on chromosome 11p13 characterized by",
+      "x" : 0.7006172771947876,
+      "h" : 0.010174418555365716,
+      "y" : 0.5414244185319768
+    },
+    {
+      "w" : 0.3456790132342644,
+      "conf" : 1,
+      "text" : "[A] Is strictly confined to the kidney and measures <= 7 cm",
+      "x" : 0.22633745288065832,
+      "h" : 0.008888888888888946,
+      "y" : 0.5261111111591428
+    },
+    {
+      "w" : 0.38888888089162,
+      "conf" : 1,
+      "text" : "Wilms tumor, Genitourinary anomalies, Retardation, and:",
+      "x" : 0.6944444483333333,
+      "h" : 0.010174418555365605,
+      "y" : 0.5283430233284883
+    },
+    {
+      "w" : 0.3827160289452511,
+      "conf" : 1,
+      "text" : "[B] Has already metastasized to distant organs like lungs or bone",
+      "x" : 0.24485597345678992,
+      "h" : 0.011737725999620308,
+      "y" : 0.5144799738997862
+    },
+    {
+      "w" : 0.10288065784382366,
+      "conf" : 1,
+      "text" : "[A] Anal atresia",
+      "x" : 0.5493827170781892,
+      "h" : 0.011673126220703156,
+      "y" : 0.5130587851749036
+    },
+    {
+      "w" : 0.5699588127855985,
+      "conf" : 1,
+      "text" : "[C] Invades directly beyond Gerota's fascia into the ipsilateral adrenal gland [B] Aortic coarctation",
+      "x" : 0.3384773644804527,
+      "h" : 0.011627906163533486,
+      "y" : 0.5029069768895349
+    },
+    {
+      "w" : 0.3580246691433889,
+      "conf" : 1,
+      "text" : "[D] Measures < 2 cm and is classified as a cortical adenoma",
+      "x" : 0.23251029403292162,
+      "h" : 0.01030361758338072,
+      "y" : 0.4920704135401704
+    },
+    {
+      "w" : 0.1316872362820608,
+      "conf" : 1,
+      "text" : "[C] Acoustic neuroma",
+      "x" : 0.5617283949588476,
+      "h" : 0.010174418555365716,
+      "y" : 0.4905523257085756
+    },
+    {
+      "w" : 0.4135802167016755,
+      "conf" : 1,
+      "text" : "[E] Extends into major veins (renal vein\/IVC) or invades perinephric fat",
+      "x" : 0.2582304535751029,
+      "h" : 0.010277777777777719,
+      "y" : 0.4804166665474194
+    },
+    {
+      "w" : 0.3765432009906889,
+      "conf" : 1,
+      "text" : "[D] Aniridia (complete absence of the iris, due to PAX deletion)",
+      "x" : 0.6841563723251032,
+      "h" : 0.010174418555365605,
+      "y" : 0.47747093015988373
+    },
+    {
+      "w" : 0.29629629363054,
+      "conf" : 1,
+      "text" : "within Gerota fascia, but not beyond Gerota fascia",
+      "x" : 0.19958847242798372,
+      "h" : 0.008888888888888835,
+      "y" : 0.46805555565496243
+    },
+    {
+      "w" : 0.17283950661713227,
+      "conf" : 1,
+      "text" : "[E] Adrenal cortical adenoma",
+      "x" : 0.5843621416460906,
+      "h" : 0.00872092988755968,
+      "y" : 0.4665697675
+    },
+    {
+      "w" : 0.38477363826343847,
+      "conf" : 1,
+      "text" : "Q19. [2021 Exam] Von Hippel-Lindau (VHL) disease is an",
+      "x" : 0.24794239324416983,
+      "h" : 0.010174418555365716,
+      "y" : 0.4280523256056202
+    },
+    {
+      "w" : 0.3868312715734326,
+      "conf" : 1,
+      "text" : "autosomal dominant syndrome predisposing to bilateral",
+      "x" : 0.24691358508230443,
+      "h" : 0.01027777777777783,
+      "y" : 0.41347222242395765
+    },
+    {
+      "w" : 0.25720164460955924,
+      "conf" : 1,
+      "text" : "multifocal clear cell RCC, as well as:",
+      "x" : 0.1820987697187927,
+      "h" : 0.01027777777777783,
+      "y" : 0.4004166669110044
+    },
+    {
+      "w" : 0.32921809070515184,
+      "conf" : 1,
+      "text" : "[A] Medullary thyroid carcinoma and mucosal neuromas",
+      "x" : 0.2181069999999999,
+      "h" : 0.010297157499525311,
+      "y" : 0.38596253231728334
+    },
+    {
+      "w" : 0.31687241080422074,
+      "conf" : 1,
+      "text" : "[B] Colonic polyposis, osteomas, and desmoid tumors",
+      "x" : 0.21193416165980777,
+      "h" : 0.010277777777777719,
+      "y" : 0.37430555577608654
+    },
+    {
+      "w" : 0.33950616128789557,
+      "conf" : 1,
+      "text" : "[C] Acoustic neuromas, meningiomas, and ependymomas",
+      "x" : 0.2232510245627573,
+      "h" : 0.010277777777777719,
+      "y" : 0.36263888866251087
+    },
+    {
+      "w" : 0.4320987725407822,
+      "conf" : 1,
+      "text" : "[D] Retinal and cerebellar hemangioblastomas, pheochromocytomas, and",
+      "x" : 0.2695473323045265,
+      "h" : 0.01027777777777783,
+      "y" : 0.35097222240578907
+    },
+    {
+      "w" : 0.2366255034440718,
+      "conf" : 1,
+      "text" : "pancreatic neuroendocrine tumors\/cysts",
+      "x" : 0.1718107025462962,
+      "h" : 0.008888888888888946,
+      "y" : 0.3386111111591428
+    },
+    {
+      "w" : 0.2716049338286778,
+      "conf" : 1,
+      "text" : "[E] Optic gliomas and Lisch nodules of the iris",
+      "x" : 0.18724280174897112,
+      "h" : 0.010174418555365605,
+      "y" : 0.32776162796148256
+    },
+    {
+      "w" : 0.3950617088461822,
+      "conf" : 1,
+      "text" : "Q26. [Faculty Exam] Denys-Drash Syndrome is caused by",
+      "x" : 0.6975308707818928,
+      "h" : 0.010174418555365716,
+      "y" : 0.4280523256056202
+    },
+    {
+      "w" : 0.430041139230788,
+      "conf" : 1,
+      "text" : "dominant point mutations in the WT1 zinc-finger domain and is",
+      "x" : 0.7150205815072015,
+      "h" : 0.011724805831909157,
+      "y" : 0.41419573628499823
+    },
+    {
+      "w" : 0.3456789892424577,
+      "conf" : 1,
+      "text" : "characterized by a high risk of Wilms tumor, plus:",
+      "x" : 0.6707818987654319,
+      "h" : 0.011698966026306157,
+      "y" : 0.40112726081473765
+    },
+    {
+      "w" : 0.23456789412588447,
+      "conf" : 1,
+      "text" : "[A] Macroglossia and hemihypertrophy",
+      "x" : 0.6152263413580247,
+      "h" : 0.0102971574995252,
+      "y" : 0.38596253233545186
+    },
+    {
+      "w" : 0.27572015246505255,
+      "conf" : 1,
+      "text" : "[B] Retinal angiomatosis and cerebellar ataxia\/",
+      "x" : 0.6358024725823045,
+      "h" : 0.01027777777777783,
+      "y" : 0.37430555579425495
+    },
+    {
+      "w" : 0.41975306864804435,
+      "conf" : 1,
+      "text" : "[C] Male pseudohermaphroditism (gonadal dysgenesis) and early-onset",
+      "x" : 0.7078189300411522,
+      "h" : 0.011673126220703045,
+      "y" : 0.3619412144859492
+    },
+    {
+      "w" : 0.28395061372960884,
+      "conf" : 1,
+      "text" : "renal failure due to Diffuse Mesangial Sclerosis",
+      "x" : 0.6358024644032924,
+      "h" : 0.011666666666666603,
+      "y" : 0.3502777779880771
+    },
+    {
+      "w" : 0.2654320818823088,
+      "conf" : 1,
+      "text" : "[D] Colonic polyps and mandibular osteomas",
+      "x" : 0.6306584406378599,
+      "h" : 0.01031007766723635,
+      "y" : 0.33932170540045997
+    },
+    {
+      "w" : 0.2923607016509434,
+      "conf" : 1,
+      "text" : "[E] Polycystic kidneys and intracranial aneurysms",
+      "x" : 0.6440246274698436,
+      "h" : 0.011996749242146776,
+      "y" : 0.3270233946759529
+    },
+    {
+      "w" : 0.8580246451515823,
+      "conf" : 1,
+      "text" : "Q20. [2020 Exam] What is the most common primary malignant Q27. [Core Exam] Beckwith-Wiedemann Syndrome (linked to",
+      "x" : 0.4845679027777777,
+      "h" : 0.011673126220703045,
+      "y" : 0.2994412144859492
+    },
+    {
+      "w" : 0.8868312235898191,
+      "conf" : 1,
+      "text" : "renal tumor of childhood, typically presenting in children aged 2 11p15 \/ WT2 \/ IGF2 overexpression) predisposes to Wilms tumor",
+      "x" : 0.4969135950274343,
+      "h" : 0.010277777777777719,
+      "y" : 0.28708333328279395
+    },
+    {
+      "w" : 0.08129872016186984,
+      "conf" : 1,
+      "text" : "to 5 years?",
+      "x" : 0.09368385001878471,
+      "h" : 0.014409532546997061,
+      "y" : 0.2736064159083258
+    },
+    {
+      "w" : 0.22427982354314074,
+      "conf" : 1,
+      "text" : "and is clinically recognized by:",
+      "x" : 0.6100823017232511,
+      "h" : 0.01027777777777783,
+      "y" : 0.27402777757604235
+    },
+    {
+      "w" : 0.19958847573718186,
+      "conf" : 1,
+      "text" : "[A] Clear cell renal cell carcinoma",
+      "x" : 0.15329218253600824,
+      "h" : 0.010174418555365716,
+      "y" : 0.25944767454578493
+    },
+    {
+      "w" : 0.2633744725641214,
+      "conf" : 1,
+      "text" : "[A] Microcephaly and severe limb shortening",
+      "x" : 0.6296296329218106,
+      "h" : 0.01030361758338083,
+      "y" : 0.2579295865870098
+    },
+    {
+      "w" : 0.2098765343240222,
+      "conf" : 1,
+      "text" : "[B] Wilms Tumor (Nephroblastoma)",
+      "x" : 0.15843621609053493,
+      "h" : 0.00872092988755968,
+      "y" : 0.24709302331395344
+    },
+    {
+      "w" : 0.36008230245338296,
+      "conf" : 1,
+      "text" : "[B] Hemihypertrophy (asymmetric overgrowth), Macroglossia,",
+      "x" : 0.6779835435956789,
+      "h" : 0.010174418555365605,
+      "y" : 0.24636627908793596
+    },
+    {
+      "w" : 0.14403291618299183,
+      "conf" : 1,
+      "text" : "[C] Renal Oncocytoma",
+      "x" : 0.12551440509259254,
+      "h" : 0.00872092988755968,
+      "y" : 0.23546511635174427
+    },
+    {
+      "w" : 0.22839506617132221,
+      "conf" : 1,
+      "text" : "Omphalocele, and adrenal cytomegaly",
+      "x" : 0.6141975337191359,
+      "h" : 0.010174418555365716,
+      "y" : 0.23473837218386634
+    },
+    {
+      "w" : 0.12345678701340779,
+      "conf" : 0.5,
+      "text" : "[D] Angiomyolipoma",
+      "x" : 0.11522633950617278,
+      "h" : 0.008888888888888835,
+      "y" : 0.22388888901043075
+    },
+    {
+      "w" : 0.2510287926631903,
+      "conf" : 1,
+      "text" : "[C] Total absence of all abdominal organs",
+      "x" : 0.6234567943072702,
+      "h" : 0.011698966026306157,
+      "y" : 0.2238727393306112
+    },
+    {
+      "w" : 0.1954732451049037,
+      "conf" : 1,
+      "text" : "[E] Rhabdoid tumor of the kidney",
+      "x" : 0.15123457034465015,
+      "h" : 0.010277777777777719,
+      "y" : 0.2129166668443862
+    },
+    {
+      "w" : 0.23868311276225918,
+      "conf" : 1,
+      "text" : "[D] Bilateral aniridia and microphthalmia",
+      "x" : 0.6172839545953359,
+      "h" : 0.010277777777777719,
+      "y" : 0.21291666686255467
+    },
+    {
+      "w" : 0.2798353711014274,
+      "conf" : 1,
+      "text" : "[E] Severe generalized hypoplasia of all viscera",
+      "x" : 0.6378600851851851,
+      "h" : 0.011673126220703156,
+      "y" : 0.20055878551405099
+    },
+    {
+      "w" : 0.41152263137529477,
+      "conf" : 1,
+      "text" : "Q21. [2024 Exam] What is the classic clinical presentation of",
+      "x" : 0.2613168765432098,
+      "h" : 0.01028423786163335,
+      "y" : 0.1737467701909245
+    },
+    {
+      "w" : 0.2407407220804466,
+      "conf" : 1,
+      "text" : "Wilms Tumor in a preschool child?",
+      "x" : 0.1738683164951988,
+      "h" : 0.010310077137417273,
+      "y" : 0.1606782945768785
+    },
+    {
+      "w" : 0.34979423187063924,
+      "conf" : 1,
+      "text" : "[A] Gross painless urethral discharge with testicular atrophy",
+      "x" : 0.22839506104252402,
+      "h" : 0.011718346277872715,
+      "y" : 0.14530361734593122
+    },
+    {
+      "w" : 0.32921809070515184,
+      "conf" : 1,
+      "text" : "[B] Severe oliguria, facial edema, and cola-colored urine",
+      "x" : 0.2181069999999999,
+      "h" : 0.01030361758338072,
+      "y" : 0.13292958662334714
+    },
+    {
+      "w" : 0.4156378500116696,
+      "conf" : 1,
+      "text" : "[C] Large, palpable, painless abdominal or flank mass, often noticed by",
+      "x" : 0.26131687921810676,
+      "h" : 0.0117312653859456,
+      "y" : 0.12058785507871639
+    },
+    {
+      "w" : 0.1358024669143389,
+      "conf" : 1,
+      "text" : "parents during bathing",
+      "x" : 0.12139917921810692,
+      "h" : 0.010174418555365716,
+      "y" : 0.10973837216569765
+    },
+    {
+      "w" : 0.3065843642132837,
+      "conf" : 1,
+      "text" : "[D] Bilateral acute flank pain and high-spiking fevers",
+      "x" : 0.20679012728909457,
+      "h" : 0.01031007766723635,
+      "y" : 0.09817829476305734
+    },
+    {
+      "w" : 0.3004115122669148,
+      "conf" : 1,
+      "text" : "[E] Profound jaundice, ascites, and caput medusae",
+      "x" : 0.2037037087105623,
+      "h" : 0.01027777777777783,
+      "y" : 0.08652777773955977
+    },
+    {
+      "w" : 0.4094649980653007,
+      "conf" : 1,
+      "text" : "Q28. [Core Exam] What is the single most important clinical",
+      "x" : 0.7026748913923185,
+      "h" : 0.011737725999620197,
+      "y" : 0.17302002600331462
+    },
+    {
+      "w" : 0.427983505920794,
+      "conf" : 1,
+      "text" : "factor contributing to the remarkable >90% overall cure rate of",
+      "x" : 0.7119341542695474,
+      "h" : 0.011763565805223197,
+      "y" : 0.15995155060572858
+    },
+    {
+      "w" : 0.14814814681527,
+      "conf" : 1,
+      "text" : "Wilms Tumor today?",
+      "x" : 0.5720164627572015,
+      "h" : 0.010174418555365605,
+      "y" : 0.14607558148619193
+    },
+    {
+      "w" : 0.26748971519230297,
+      "conf" : 1,
+      "text" : "[A] Spontaneous auto-infarction of the tumor",
+      "x" : 0.6296296262860083,
+      "h" : 0.011692505942450637,
+      "y" : 0.1322351418983322
+    },
+    {
+      "w" : 0.3168724108042208,
+      "conf" : 1,
+      "text" : "[B] Bone marrow transplantation in all stage I patients",
+      "x" : 0.6543209916152264,
+      "h" : 0.011731265915764677,
+      "y" : 0.1205878550802797
+    },
+    {
+      "w" : 0.3189300201224082,
+      "conf" : 1,
+      "text" : "[C] Exclusive treatment with high-dose corticosteroids",
+      "x" : 0.6553497995541836,
+      "h" : 0.010174418555365716,
+      "y" : 0.10828488379360451
+    },
+    {
+      "w" : 0.29218105100235847,
+      "conf" : 1,
+      "text" : "[D] Watchful waiting without surgical intervention",
+      "x" : 0.6419753135116597,
+      "h" : 0.01176356527540412,
+      "y" : 0.09745155053461746
+    },
+    {
+      "w" : 0.4403292098135318,
+      "conf" : 1,
+      "text" : "[E] Multimodal combination therapy utilizing radical nephrectomy combined",
+      "x" : 0.7160493882201645,
+      "h" : 0.010174418555365605,
+      "y" : 0.08502906985828496
+    },
+    {
+      "w" : 0.32716048138696446,
+      "conf" : 1,
+      "text" : "with adjuvant chemotherapy (Vincristine, Dactinomycin)",
+      "x" : 0.6615226296553499,
+      "h" : 0.010297157499525311,
+      "y" : 0.07346253220827165
+    },
+    {
+      "w" : 0.5493827196037245,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal Pathology Master Class • Strictly Grounded in Faculty & Board Exam Past Papers",
+      "x" : 0.31995883858024726,
+      "h" : 0.0087273899714152,
+      "y" : 0.03924741603998988
+    },
+    {
+      "w" : 0.18312757719987593,
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.865226337345679,
+      "h" : 0.007273901833428242,
+      "y" : 0.039974160278568704
+    },
+    {
+      "w" : 0.030864196753351947,
+      "conf" : 1,
+      "text" : "90",
+      "x" : 0.5133744858196159,
+      "h" : 0.01744185977511936,
+      "y" : 0.011627906831395363
+    }
+  ],
+  "page" : 92
+}

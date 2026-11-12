@@ -1,0 +1,949 @@
+{
+  "items" : [
+    {
+      "conf" : 1,
+      "h" : 0.011627906163533597,
+      "x" : 0.11111111371742105,
+      "y" : 0.9781976745155039,
+      "text" : "Twisted Medicine",
+      "w" : 0.15637859608392296
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.3683127629629628,
+      "y" : 0.975972222405789,
+      "text" : "• Renal System Module • Lecture 21 MCQ Masterclass",
+      "w" : 0.3456789892424577
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.3899177043981479,
+      "y" : 0.9651162791424419,
+      "text" : "Twisted Medicine Medical Series • Glomerulonephritis, Nephrotic vs Nephritic Syndrome & Podocytopathies • Standard Practice Bank",
+      "w" : 0.713991752960397
+    },
+    {
+      "conf" : 1,
+      "h" : 0.013145994610256562,
+      "x" : 0.49897118603395085,
+      "y" : 0.9454618859935356,
+      "text" : "21. GLOMERULONEPHRITIS & NEPHROTIC SYNDROME - PATHOLOGY LECTURE",
+      "w" : 0.6481481108275601
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.49999999284979435,
+      "y" : 0.9280523255268895,
+      "text" : "Twisted Medicine Pathology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "w" : 0.5720164460955925
+    },
+    {
+      "conf" : 1,
+      "h" : 0.009063220024108865,
+      "x" : 0.9351851860346636,
+      "y" : 0.9767441863798123,
+      "text" : "Page 1 of 4",
+      "w" : 0.06798765794286188
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011679585774739598,
+      "x" : 0.2448559636488341,
+      "y" : 0.905549095813355,
+      "text" : "Q01. [2025 Exam] Which tetrad of clinical and laboratory findings",
+      "w" : 0.4197530686480444
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.19341564182098753,
+      "y" : 0.8917151163699129,
+      "text" : "definitively defines classic Nephrotic Syndrome?",
+      "w" : 0.3168724108042207
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.24176954036351186,
+      "y" : 0.8771802324854652,
+      "text" : "[A] Macroscopic hematuria, acute oliguria, hypertension, and RBC casts",
+      "w" : 0.4176954353380503
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010297157499525311,
+      "x" : 0.2592592536008232,
+      "y" : 0.8640374676827167,
+      "text" : "[B] Heavy proteinuria (>3.5 g\/24h), hypoalbuminemia, generalized edema, and",
+      "w" : 0.45267486572265625
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.07818930192043891,
+      "y" : 0.8524709303052325,
+      "text" : "hyperlipidemia",
+      "w" : 0.0905349779428926
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723624,
+      "x" : 0.23765432610596698,
+      "y" : 0.8393217054186286,
+      "text" : "[C] Pyuria, high fever, costovertebral angle tenderness, and WBC casts",
+      "w" : 0.40946499806530073
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.24691357311385484,
+      "y" : 0.8270348836724806,
+      "text" : "[D] Massive glucosuria, aminoaciduria, phosphaturia, and normal albumin",
+      "w" : 0.42798350592079404
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.24691357338820324,
+      "y" : 0.8146802327277132,
+      "text" : "[E] Painless hematuria, palpable flank mass, polycythemia, and flank pain",
+      "w" : 0.42798350592079404
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011679585774739598,
+      "x" : 0.7016460878600823,
+      "y" : 0.905549095813355,
+      "text" : "Q08. [2022 Exam] In Minimal Change Disease (MCD), light",
+      "w" : 0.3744855916725015
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.7283950545267492,
+      "y" : 0.8917151162063954,
+      "text" : "microscopic (LM) examination of the renal biopsy typically reveals:",
+      "w" : 0.4320987725407822
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.7026748923611112,
+      "y" : 0.8771802325036337,
+      "text" : "[A] Marked diffuse mesangial and endothelial cell hypercellularity",
+      "w" : 0.3806584196270636
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010297157499525311,
+      "x" : 0.6944444505829902,
+      "y" : 0.864037467809897,
+      "text" : "[B] Prominent subepithelial spikes on silver impregnation stain",
+      "w" : 0.36831273972613254
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.7119341496570647,
+      "y" : 0.8509722223088898,
+      "text" : "[C] Normal-appearing glomeruli (or mild lipid accumulation in tubular",
+      "w" : 0.4032921461189318
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723624,
+      "x" : 0.5576131672153636,
+      "y" : 0.8393217052551112,
+      "text" : "epithelial cells)",
+      "w" : 0.09053497794289256
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01028423786163335,
+      "x" : 0.6944444505829902,
+      "y" : 0.826253230002874,
+      "text" : "[D] Widespread crescent formation in Bowman's urinary space",
+      "w" : 0.36831273972613254
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.7201646024005488,
+      "y" : 0.8146802327277132,
+      "text" : "[E] Extensive nodular hyaline deposits in mesangial areas (KW nodules)",
+      "w" : 0.41563785001166964
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.24794239109053487,
+      "y" : 0.7841569768168604,
+      "text" : "Q02. [2024 Exam] The primary initiating pathophysiological defect",
+      "w" : 0.4259259205944133
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011718345748053638,
+      "x" : 0.2530864252572015,
+      "y" : 0.7703036174897167,
+      "text" : "responsible for the development of massive proteinuria in nephrotic",
+      "w" : 0.44032920981353185
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01099718835618757,
+      "x" : 0.07716049290464128,
+      "y" : 0.7565406974958202,
+      "text" : "syndrome is:",
+      "w" : 0.08455316675534037
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01030361758338083,
+      "x" : 0.2438271647119341,
+      "y" : 0.7420704135401703,
+      "text" : "[A] Markedly increased permeability of the glomerular filtration barrier to",
+      "w" : 0.42181070195803855
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00873385005527072,
+      "x" : 0.08436214156378596,
+      "y" : 0.7296447028037414,
+      "text" : "plasma proteins",
+      "w" : 0.09876542721154555
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01029069741566968,
+      "x" : 0.2510288138545951,
+      "y" : 0.7173546511307334,
+      "text" : "[B] Retrograde backflow of urine from the pelvis into peritubular capillaries",
+      "w" : 0.4362139911771571
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00874676995807222,
+      "x" : 0.23251029471879256,
+      "y" : 0.7049289404783097,
+      "text" : "[C] Total obstruction of the proximal convoluted tubule brush border",
+      "w" : 0.3991769514743636
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.2448559723765431,
+      "y" : 0.6926388889680374,
+      "text" : "[D] Extreme constriction of the afferent arteriole with intact efferent tone",
+      "w" : 0.4238682872844193
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01030361758338072,
+      "x" : 0.22427983081275726,
+      "y" : 0.6795704135946761,
+      "text" : "[E] Primary failure of the adrenal cortex to synthesize aldosterone",
+      "w" : 0.38271602894525103
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.22222222596707814,
+      "y" : 0.6620833332537243,
+      "text" : "Q03. [2023 Exam] What is the primary mechanism causing",
+      "w" : 0.3744855916725015
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.20884774242112467,
+      "y" : 0.6490277777880095,
+      "text" : "Hyperlipidemia and Lipiduria in Nephrotic Syndrome?",
+      "w" : 0.34773662255245186
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01030361758338083,
+      "x" : 0.25308642379972557,
+      "y" : 0.6329295863629304,
+      "text" : "[A] Massive dietary intake of saturated animal fats from hypothalamic drive",
+      "w" : 0.44032920981353185
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.25617284694787357,
+      "y" : 0.6206395349806202,
+      "text" : "[B] Hypoalbuminemia stimulates hepatic lipoprotein synthesis + loss of LPL",
+      "w" : 0.44650206175990076
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.26131688004115206,
+      "y" : 0.6082848837936046,
+      "text" : "[C] Decreased hepatic lipid synthesis due to hypoproteinemic down-regulation",
+      "w" : 0.45679008435903107
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01029069794548887,
+      "x" : 0.258230460185185,
+      "y" : 0.5951453487497058,
+      "text" : "[D] Glomerular synthesis and secretion of cholesterol into Bowman's capsule",
+      "w" : 0.4506172803962756
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.24794239113168715,
+      "y" : 0.5820833331226162,
+      "text" : "[E] Failure of proximal tubular epithelial cells to reabsorb filtered bile salts",
+      "w" : 0.4300411392307881
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.7273662604681068,
+      "y" : 0.7841569768350292,
+      "text" : "Q09. [2023 Exam] What is the pathognomonic hallmark of Minimal",
+      "w" : 0.42592592059441325
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011718345748053638,
+      "x" : 0.7037037100137173,
+      "y" : 0.7703036175623911,
+      "text" : "Change Disease observed on Electron Microscopy (EM)?",
+      "w" : 0.37860081030887627
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.7273662605195472,
+      "y" : 0.7551388889680374,
+      "text" : "[A] Diffuse effacement (flattening and fusion) of podocyte foot processes",
+      "w" : 0.4300411392307881
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011692505942450637,
+      "x" : 0.6923868354166667,
+      "y" : 0.7427648581743422,
+      "text" : "[B] Large subepithelial electron-dense dome-shaped 'humps'",
+      "w" : 0.3600823024533829
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.7283950563271606,
+      "y" : 0.7304166665474194,
+      "text" : "[C] Subendothelial electron-dense deposits with split basement membrane",
+      "w" : 0.4362139911771571
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01029069741566968,
+      "x" : 0.6872428042524004,
+      "y" : 0.7173546511307334,
+      "text" : "[D] Intramembranous continuous ribbon-like dense deposits",
+      "w" : 0.35390945050701406
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6790123498971192,
+      "y" : 0.7042151163335755,
+      "text" : "[E] Linear deposition of IgG along the entire lamina densa",
+      "w" : 0.33744855196970824
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011627906163533486,
+      "x" : 0.24691358554526738,
+      "y" : 0.540697674491279,
+      "text" : "Q04. [2022 Exam] Patients with severe nephrotic syndrome are at",
+      "w" : 0.4238682872844192
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011763565805223308,
+      "x" : 0.24691357427983562,
+      "y" : 0.527548449442721,
+      "text" : "significantly elevated risk for deep vein thrombosis and renal vein",
+      "w" : 0.4238682872844192
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01028423786163346,
+      "x" : 0.17592592944958838,
+      "y" : 0.5137532299362557,
+      "text" : "thrombosis primarily due to urinary loss of:",
+      "w" : 0.28189300441142146
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.15123456395747611,
+      "y" : 0.49930555563073753,
+      "text" : "[A] Factor VIII and von Willebrand factor",
+      "w" : 0.23662550344407182
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010284237861633239,
+      "x" : 0.1265432129972564,
+      "y" : 0.48624677019092455,
+      "text" : "[B] Fibrinogen and prothrombin",
+      "w" : 0.18724279583625075
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723635,
+      "x" : 0.1779835419958847,
+      "y" : 0.47317829474488876,
+      "text" : "[C] Platelet-activating factor and thromboxane A2",
+      "w" : 0.2901234416841711
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.25617283392489726,
+      "y" : 0.460029069712936,
+      "text" : "[D] Antithrombin III (AT-III), protein C, and protein S, plus thrombocytosis and",
+      "w" : 0.44650206175990076
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.13065843947187916,
+      "y" : 0.4353197675629845,
+      "text" : "[E] Erythropoietin and transferrin",
+      "w" : 0.1954732451049037
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.24999999283264765,
+      "y" : 0.41930555547055975,
+      "text" : "Q05. [2021 Exam] Why are children with nephrotic syndrome highly",
+      "w" : 0.43004113923078807
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011679586304558676,
+      "x" : 0.25102880118312765,
+      "y" : 0.40554909581179155,
+      "text" : "susceptible to pyogenic infections (e.g. pneumococcal peritonitis)?",
+      "w" : 0.4320987725407822
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.22839506656378591,
+      "y" : 0.3902616279978199,
+      "text" : "[A] Direct bacterial colonization of renal cortex through the ureters",
+      "w" : 0.3868312715734326
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.21399177558299018,
+      "y" : 0.377180232630814,
+      "text" : "[B] Complete absence of bone marrow neutrophil precursors",
+      "w" : 0.36213991177157034
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010297157499525311,
+      "x" : 0.21296296896433453,
+      "y" : 0.3640374678583465,
+      "text" : "[C] Total destruction of the thymic cortex by filtered albumin",
+      "w" : 0.36008230245338296
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011724805831909269,
+      "x" : 0.21399177558299018,
+      "y" : 0.35169573630922313,
+      "text" : "[D] Hypocalcemia causing paralysis of circulatory leukocytes",
+      "w" : 0.36213991177157034
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011698966026306157,
+      "x" : 0.2304526798353908,
+      "y" : 0.3386272608389625,
+      "text" : "[E] Massive urinary loss of complement factor B, properdin, and IgG",
+      "w" : 0.3950617088461822
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.24588477788065832,
+      "y" : 0.2972383721366279,
+      "text" : "Q06. 2020 Exam Which clinical feature is characteristic of Acute",
+      "w" : 0.42181070195803855
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01029069794548887,
+      "x" : 0.2098765490397804,
+      "y" : 0.2826453487981554,
+      "text" : "Nephritic Syndrome rather than Nephrotic Syndrome?",
+      "w" : 0.3497942318706393
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.1934156325102882,
+      "y" : 0.2681944444325409,
+      "text" : "[A] Heavy selective proteinuria exceeding 5.0 g per day",
+      "w" : 0.3209876534324022
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.20370370939643326,
+      "y" : 0.25513888898620607,
+      "text" : "[B] Profound hypoalbuminemia with generalized anasarca",
+      "w" : 0.3415637706060829
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.2520576175514402,
+      "y" : 0.24347222203614782,
+      "text" : "[C] Hematuria with dysmorphic RBCs, RBC casts, oliguria, and hypertension",
+      "w" : 0.43827157650353765
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011718345748053638,
+      "x" : 0.24176954029492484,
+      "y" : 0.2296963825345082,
+      "text" : "[D] Hypercholesterolemia with oval fat bodies showing Maltese crosses",
+      "w" : 0.4218107019580386
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010290697415669792,
+      "x" : 0.20781893441358015,
+      "y" : 0.2173546511125649,
+      "text" : "[E] Complete absence of urinary sediment formed elements",
+      "w" : 0.3497942318706393
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.23353909067901243,
+      "y" : 0.17513888868067928,
+      "text" : "Q07. [2024 Exam] What is the most common cause of primary",
+      "w" : 0.3971193421561763
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011698966556125234,
+      "x" : 0.19753086094650207,
+      "y" : 0.16137273891066278,
+      "text" : "Nephrotic Syndrome in children aged 2 to 6 years?",
+      "w" : 0.325102872068777
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.17283950150891647,
+      "y" : 0.14752906969476753,
+      "text" : "[A] Focal Segmental Glomerulosclerosis (FSGS)",
+      "w" : 0.27983537110142737
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.16049382791495195,
+      "y" : 0.13444767458817825,
+      "text" : "[B] Membranous Glomerulonephritis (MGN)",
+      "w" : 0.25514403529137186
+    },
+    {
+      "conf" : 0.5,
+      "h" : 0.010174418555365716,
+      "x" : 0.19341564320987636,
+      "y" : 0.12136627909399217,
+      "text" : "[C] Membranoproliferative Glomerulonephritis (MPGN)",
+      "w" : 0.3209876534324022
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.15843621817558287,
+      "y" : 0.10828488379360451,
+      "text" : "[D] Dense Deposit Disease (Type II MPGN)",
+      "w" : 0.2510287926631904
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010290697415669792,
+      "x" : 0.1913580215226338,
+      "y" : 0.09514534886926662,
+      "text" : "[E] Minimal Change Disease (MCD \/ Lipoid Nephrosis)",
+      "w" : 0.31687241080422074
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.717078184182099,
+      "y" : 0.6620833331556137,
+      "text" : "Q10. [2021 Exam] The proteinuria in Minimal Change Disease is",
+      "w" : 0.4094649980653008
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011724805831909269,
+      "x" : 0.7088477414866254,
+      "y" : 0.6483042638603507,
+      "text" : "characteristically 'Selective', meaning that the urine contains",
+      "w" : 0.3888888808916199
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.5637860094650207,
+      "y" : 0.6351744186773256,
+      "text" : "predominantly:",
+      "w" : 0.09876542721154558
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.6810699531550071,
+      "y" : 0.6198611110622436,
+      "text" : "[A] High-molecular-weight immunoglobulins (IgG and IgM)",
+      "w" : 0.3415637706060829
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.6810699646090534,
+      "y" : 0.6068055556159087,
+      "text" : "[B] Fibrin degradation products and alpha-2-macroglobulin",
+      "w" : 0.3456789892424579
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008888888888888835,
+      "x" : 0.6296296336076816,
+      "y" : 0.5944444443934873,
+      "text" : "[C] Bence-Jones light chains exclusively",
+      "w" : 0.23868311276225918
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.7057613217078188,
+      "y" : 0.5820833331044476,
+      "text" : "[D] Albumin, due to loss of the polyanionic charge barrier (heparan",
+      "w" : 0.38683127157343256
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01030361758338083,
+      "x" : 0.6131687276406035,
+      "y" : 0.5704295866051785,
+      "text" : "sulfate\/podocalyxin) on the GBM",
+      "w" : 0.2016460730594659
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.6934156423868312,
+      "y" : 0.5573611111409742,
+      "text" : "[E] Tamm-Horsfall mucoprotein and beta-2-microglobulin only",
+      "w" : 0.36213991177157034
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01162790722317164,
+      "x" : 0.7232510329835391,
+      "y" : 0.5406976745058139,
+      "text" : "Q11. [2025 Exam] What is the expected therapeutic response and",
+      "w" : 0.4176954833216636
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723635,
+      "x" : 0.6759259313786006,
+      "y" : 0.5268217054489097,
+      "text" : "prognosis of Minimal Change Disease in children?",
+      "w" : 0.3271604813869644
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.7191358076388887,
+      "y" : 0.512361111301152,
+      "text" : "[A] Complete resistance to steroids with inevitable ESRD within 2 years",
+      "w" : 0.41358021670167544
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.7253086472993826,
+      "y" : 0.4993055557579178,
+      "text" : "[B] Spontaneous progression to rapidly progressive crescentic GN in 50%",
+      "w" : 0.42592592059441337
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01028423786163335,
+      "x" : 0.7160493758573391,
+      "y" : 0.48624677009402534,
+      "text" : "[C] Rapid, dramatic response to Corticosteroids (>90% remission) with",
+      "w" : 0.4115226313752949
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.5730452695130315,
+      "y" : 0.47458333328279406,
+      "text" : "excellent prognosis",
+      "w" : 0.12139917769522035
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.7191357955075448,
+      "y" : 0.4615277776426606,
+      "text" : "[D] Requirement for immediate bilateral nephrectomy and hemodialysis",
+      "w" : 0.4176954353380503
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6872427927983542,
+      "y" : 0.4498611108864008,
+      "text" : "[E] Recurrence after kidney transplantation in 100% of cases",
+      "w" : 0.35390945050701406
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011666666666666714,
+      "x" : 0.7232510340277777,
+      "y" : 0.4186111113193206,
+      "text" : "Q12. [2020 Exam] Focal Segmental Glomerulosclerosis (FSGS) is",
+      "w" : 0.41769548332166373
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011679586304558676,
+      "x" : 0.6790123512345678,
+      "y" : 0.40554909593291566,
+      "text" : "histologically distinguished on light microscopy by:",
+      "w" : 0.33333333333333337
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.7386831320576132,
+      "y" : 0.3902616279796512,
+      "text" : "[A] Global sclerosis involving all lobules of all glomeruli throughout the cortex",
+      "w" : 0.4485596470862814
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.7273662497685187,
+      "y" : 0.3771802325036338,
+      "text" : "[B] Sclerosis and hyalinosis involving only some glomeruli (focal) and only",
+      "w" : 0.4300411392307881
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.630658433256173,
+      "y" : 0.3655523254905524,
+      "text" : "part of each glomerular tuft (segmental)",
+      "w" : 0.23662550344407185
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.6944444505144032,
+      "y" : 0.35247093035368215,
+      "text" : "[C] Pure membranous thickening without any sclerotic lesions",
+      "w" : 0.3641975210897578
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.725308649142661,
+      "y" : 0.3408430233284884,
+      "text" : "[D] Diffuse proliferation of endothelial cells occluding all capillary lumens",
+      "w" : 0.43004113923078824
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.7170781824074075,
+      "y" : 0.32776162783430235,
+      "text" : "[E) Extensive granulomatous necrosis of the corticomedullary junction",
+      "w" : 0.41358021670167544
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011627906163533597,
+      "x" : 0.7407407463991769,
+      "y" : 0.2965116280159883,
+      "text" : "Q13. [Faculty Exam] Which characteristic is typical of Focal Segmental",
+      "w" : 0.45267486572265625
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01174418555365675,
+      "x" : 0.6687242849794237,
+      "y" : 0.28337209295997706,
+      "text" : "Glomerulosclerosis (FSGS) rather than MCD?",
+      "w" : 0.30864197353147105
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.7129629562071332,
+      "y" : 0.2681944444325409,
+      "text" : "[A] Highly selective albuminuria responding completely to 4 weeks of",
+      "w" : 0.4053497794289258
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011218032836914027,
+      "x" : 0.5483539106671562,
+      "y" : 0.25654069772964827,
+      "text" : "prednisone",
+      "w" : 0.0722973241746051
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011666666666666714,
+      "x" : 0.7129629599022633,
+      "y" : 0.2441666664054103,
+      "text" : "[B] Normal light microscopy and completely intact podocyte pedicels",
+      "w" : 0.4053497794289259
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.7129629562071332,
+      "y" : 0.23180555547055975,
+      "text" : "[C] Universal complete spontaneous recovery in over 95% of patients",
+      "w" : 0.4053497794289258
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011679585774739598,
+      "x" : 0.7355967064557614,
+      "y" : 0.2180490957649055,
+      "text" : "[D] Non-selective proteinuria, hematuria, hypertension, poor steroid response,",
+      "w" : 0.4506172803962756
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.5617283962962962,
+      "y" : 0.2070833331044476,
+      "text" : "and progression",
+      "w" : 0.09876542721154558
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.7181069889574763,
+      "y" : 0.1940277779638523,
+      "text" : "[E] Exclusively seen in children under 2 years with zero graft recurrence",
+      "w" : 0.41563785001166964
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.7355967122427983,
+      "y" : 0.17513888882602813,
+      "text" : "Q14. [Core Exam] The 'Collapsing Glomerulopathy' variant of FSGS is",
+      "w" : 0.44238684312352605
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011698966026306157,
+      "x" : 0.7037036973251031,
+      "y" : 0.16137273918526235,
+      "text" : "characterized by collapse of the capillary tuft and podocyte",
+      "w" : 0.38271602894525114
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011724805831909157,
+      "x" : 0.6378600864883399,
+      "y" : 0.14830426388457546,
+      "text" : "hyperplasia, strongly associated with:",
+      "w" : 0.25102879266319034
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011757105721367678,
+      "x" : 0.6481481436213994,
+      "y" : 0.13365633040519143,
+      "text" : "[A] Hepatitis A viral exposure during childhood",
+      "w" : 0.2716049338286778
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6409465052726337,
+      "y" : 0.11986111117731146,
+      "text" : "[B] Infection with Streptococcus pyogenes",
+      "w" : 0.2572016446095593
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011705426110161676,
+      "x" : 0.7376543219393004,
+      "y" : 0.1075193797069185,
+      "text" : "[C] HIV-Associated Nephropathy (HIVAN) and high-dose pamidronate therapy",
+      "w" : 0.4506172803962756
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011679586304558676,
+      "x" : 0.6707818876543212,
+      "y" : 0.09445090406708434,
+      "text" : "[D] Treatment with thiazide diuretics in elderly patients",
+      "w" : 0.3209876534324023
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6090535004115225,
+      "y" : 0.0820833331044476,
+      "text" : "[E] Essential benign hypertension",
+      "w" : 0.19753085442309104
+    },
+    {
+      "conf" : 1,
+      "h" : 0.017519379191928475,
+      "x" : 0.318930048302469,
+      "y" : 0.014573643611020815,
+      "text" : "Twisted Medicine • Renal Pathology Master Class • Strictly Grounded in Faculty & Board am Past Papers",
+      "w" : 0.5720164460955927
+    },
+    {
+      "conf" : 1,
+      "h" : 0.007344961166381836,
+      "x" : 0.8734567900205762,
+      "y" : 0.019660852735567502,
+      "text" : "Confidential Student Revision Bank",
+      "w" : 0.19135802646852884
+    }
+  ],
+  "page" : 79
+}

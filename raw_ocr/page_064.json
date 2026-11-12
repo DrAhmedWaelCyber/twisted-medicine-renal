@@ -1,0 +1,1021 @@
+{
+  "items" : [
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 17 MCQ Masterclass",
+      "x" : 0.2870370455075443,
+      "w" : 0.5082304372727495,
+      "h" : 0.013178294499715193,
+      "y" : 0.9774224804225952
+    },
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine Medical Series • Electrolyte Balance, Hypo\/Hypernatremia, Hypo\/Hyperkalemia & Tubulopathies • Standard Practice Bank",
+      "x" : 0.4074074198902602,
+      "w" : 0.7489711833450029,
+      "h" : 0.01031007766723624,
+      "y" : 0.96432170540046
+    },
+    {
+      "conf" : 1,
+      "text" : "Page 2 of 4",
+      "x" : 0.9351851847431252,
+      "w" : 0.0681153423381301,
+      "h" : 0.010913131501939621,
+      "y" : 0.9760174416860536
+    },
+    {
+      "conf" : 1,
+      "text" : "Q15. [2025 Exam] What percentage of total body potassium resides in",
+      "x" : 0.2572016405349795,
+      "w" : 0.44444442844990667,
+      "h" : 0.010174418555365716,
+      "y" : 0.9411337208757267
+    },
+    {
+      "conf" : 1,
+      "text" : "the Intracellular Fluid (ICF), and which active transporter maintains this",
+      "x" : 0.25823044516460925,
+      "w" : 0.4506172803962755,
+      "h" : 0.010174418555365605,
+      "y" : 0.9280523255571705
+    },
+    {
+      "conf" : 1,
+      "text" : "distribution?",
+      "x" : 0.07613168827160492,
+      "w" : 0.08230452267628796,
+      "h" : 0.00872092988755968,
+      "y" : 0.915697674491279
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] 50% in ICF; maintained by apical NKCC2 cotransporter",
+      "x" : 0.20884774086934144,
+      "w" : 0.3395061612878955,
+      "h" : 0.010277777777777719,
+      "y" : 0.8990277777577285
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] 10% in ICF; maintained by passive paracellular chloride channels",
+      "x" : 0.238683122633745,
+      "w" : 0.3950617088461822,
+      "h" : 0.010277777777777719,
+      "y" : 0.8873611111921405
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] 99% in plasma; maintained by simple transcellular diffusion",
+      "x" : 0.22633745473251007,
+      "w" : 0.37037034904432,
+      "h" : 0.01027777777777783,
+      "y" : 0.8756944443692624
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] 75% in bone matrix; maintained by osteoclast proton pumps",
+      "x" : 0.2273662597993826,
+      "w" : 0.372427982354314,
+      "h" : 0.010297157499525311,
+      "y" : 0.8640374678280656
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] ~98% in ICF (~140-150 mEq\/L); maintained by basolateral Na+\/K+",
+      "x" : 0.2427983590020575,
+      "w" : 0.40740741273892,
+      "h" : 0.010174418555365605,
+      "y" : 0.8524709303234012
+    },
+    {
+      "conf" : 1,
+      "text" : "ATPase pumps",
+      "x" : 0.08744856082818928,
+      "w" : 0.09259259325903167,
+      "h" : 0.00872092988755968,
+      "y" : 0.8401162791424419
+    },
+    {
+      "conf" : 1,
+      "text" : "Q22. 2023 Exam] What characteristic ECG abnormalities are typically",
+      "x" : 0.7335391002314814,
+      "w" : 0.4465020617599007,
+      "h" : 0.010174418555365716,
+      "y" : 0.9411337210210755
+    },
+    {
+      "conf" : 1,
+      "text" : "observed in severe Hypokalemia (serum K+ < 3.0 mEq\/L)?",
+      "x" : 0.6954732463991771,
+      "w" : 0.37037037303612663,
+      "h" : 0.010174418555365605,
+      "y" : 0.9280523255268895
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Tall tented T waves and narrow QRS complexes",
+      "x" : 0.6676954686899865,
+      "w" : 0.3024691215851022,
+      "h" : 0.010277777777777719,
+      "y" : 0.9120833335703651
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Flattened or inverted T waves, ST-segment depression, prominent U",
+      "x" : 0.7232510296039094,
+      "w" : 0.41358021670167544,
+      "h" : 0.01027777777777783,
+      "y" : 0.9004166666627001
+    },
+    {
+      "conf" : 1,
+      "text" : "waves, and prolonged QT\/QU intervals",
+      "x" : 0.6306584400205759,
+      "w" : 0.22839504217951545,
+      "h" : 0.01028423786163335,
+      "y" : 0.8887532299544243
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Pathological Q waves in leads II, IlI, and aVF",
+      "x" : 0.6574074121056239,
+      "w" : 0.2818930044114215,
+      "h" : 0.010174418555365716,
+      "y" : 0.8771802326792635
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Loss of P waves with wide regular sine-wave rhythm",
+      "x" : 0.6790123416152265,
+      "w" : 0.3251028720687771,
+      "h" : 0.010174418555365605,
+      "y" : 0.8655523255268895
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Electrical alternans with electrical asystole",
+      "x" : 0.6522633790123455,
+      "w" : 0.2716049338286778,
+      "h" : 0.010174418555365605,
+      "y" : 0.8539244186773256
+    },
+    {
+      "conf" : 1,
+      "text" : "Q16. [2024 Exam] Which physiological factors promote the rapid",
+      "x" : 0.2397119382510287,
+      "w" : 0.4094649980653007,
+      "h" : 0.010174418555365716,
+      "y" : 0.814680232630814
+    },
+    {
+      "conf" : 1,
+      "text" : "internal shift of potassium from extracellular fluid into cells (preventing",
+      "x" : 0.25925926673525357,
+      "w" : 0.45267486572265625,
+      "h" : 0.011686045858595118,
+      "y" : 0.8008430229819266
+    },
+    {
+      "conf" : 1,
+      "text" : "postprandial hyperkalemia)?",
+      "x" : 0.13065843940329203,
+      "w" : 0.19135801447262552,
+      "h" : 0.010277777777777719,
+      "y" : 0.7870833333312437
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Insulin, Beta-2 adrenergic agonists (epinephrine), and systemic Alkalosis",
+      "x" : 0.2613168650205764,
+      "w" : 0.4444444284499066,
+      "h" : 0.010174418555365716,
+      "y" : 0.7725290696947675
+    },
+    {
+      "conf" : 1,
+      "text" : "[BJ Glucagon, Alpha-1 adrenergic stimulation, and severe Acidosis",
+      "x" : 0.2325102877229081,
+      "w" : 0.38683127157343256,
+      "h" : 0.010174418555365605,
+      "y" : 0.759447674249031
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Hyperosmolality, exercise exhaustion, and digitalis administration",
+      "x" : 0.2417695513374485,
+      "w" : 0.40123456079255115,
+      "h" : 0.01027777777777783,
+      "y" : 0.7493055557760865
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Parathyroid hormone, calcitonin, and vitamin D deficiency",
+      "x" : 0.22016461502057594,
+      "w" : 0.3580246691433888,
+      "h" : 0.010277777777777719,
+      "y" : 0.7376388887775787
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Angiotensin II, vasopressin V1 activation, and hypocalcemia",
+      "x" : 0.22427984156378578,
+      "w" : 0.3703703490443199,
+      "h" : 0.010277777777777719,
+      "y" : 0.725972222405789
+    },
+    {
+      "conf" : 1,
+      "text" : "Q17. [2023 Exam] Why does acute Metabolic Acidosis cause",
+      "x" : 0.22839505884773673,
+      "w" : 0.3868312715734326,
+      "h" : 0.011666666666666603,
+      "y" : 0.6875000001937983
+    },
+    {
+      "conf" : 1,
+      "text" : "Hyperkalemia (extracellular K+ shift)?",
+      "x" : 0.1543209841563787,
+      "w" : 0.24279835539044076,
+      "h" : 0.011737725999620308,
+      "y" : 0.6730200260033147
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Acidosis directly destroys all renal collecting ducts",
+      "x" : 0.19753086687242785,
+      "w" : 0.3168724108042207,
+      "h" : 0.011744186083475716,
+      "y" : 0.6583720927919668
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Excess extracellular H+ enters cells to be buffered, displacing K+ out of",
+      "x" : 0.2592592632201645,
+      "w" : 0.436213991177157,
+      "h" : 0.011627906163533597,
+      "y" : 0.6468023254360465
+    },
+    {
+      "conf" : 1,
+      "text" : "cells to preserve electrical neutrality",
+      "x" : 0.1471193450274347,
+      "w" : 0.21193414364220958,
+      "h" : 0.011750645637512158,
+      "y" : 0.6352357881478421
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Acidosis stimulates massive aldosterone hypersecretion from the adrenal",
+      "x" : 0.26543210325102873,
+      "w" : 0.4485596470862815,
+      "h" : 0.010277777777777719,
+      "y" : 0.6243055557760864
+    },
+    {
+      "conf" : 1,
+      "text" : "cortex",
+      "x" : 0.060699587987380926,
+      "w" : 0.03925258408552446,
+      "h" : 0.009080931345621823,
+      "y" : 0.6119186045830038
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Excess H+ binds and precipitates all potassium in renal pelvis",
+      "x" : 0.23148147513717446,
+      "w" : 0.38065841962706365,
+      "h" : 0.011666666666666714,
+      "y" : 0.600277777988077
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Acidosis stimulates the liver to synthesize potassium from amino acids",
+      "x" : 0.25925926111111103,
+      "w" : 0.436213991177157,
+      "h" : 0.011698966026306157,
+      "y" : 0.5886272605724896
+    },
+    {
+      "conf" : 1,
+      "text" : "Q18. [2022 Exam] In the cortical collecting duct, what are the two",
+      "x" : 0.241769544830247,
+      "w" : 0.41358021670167555,
+      "h" : 0.01171188566419823,
+      "y" : 0.5610885015235881
+    },
+    {
+      "conf" : 1,
+      "text" : "primary determinants of Potassium Secretion by Principal Cells?",
+      "x" : 0.23971193424310938,
+      "w" : 0.40946499806530073,
+      "h" : 0.010174418555365716,
+      "y" : 0.5472383720900655
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Luminal glucose concentration and urinary urea content",
+      "x" : 0.21502058199588456,
+      "w" : 0.3518518411888266,
+      "h" : 0.01027777777777783,
+      "y" : 0.5312500000726744
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Arterial p02 and core body temperature",
+      "x" : 0.16872428415637847,
+      "w" : 0.2592592539277467,
+      "h" : 0.010277777777777719,
+      "y" : 0.5195833331710658
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Luminal flow rate (high flow carries K+ away) and Aldosterone",
+      "x" : 0.2314814766718108,
+      "w" : 0.38477366225524523,
+      "h" : 0.01030361758338083,
+      "y" : 0.5079295864779982
+    },
+    {
+      "conf" : 1,
+      "text" : "(stimulates ENaC & ROMK)",
+      "x" : 0.12037037301097382,
+      "w" : 0.16255143603438849,
+      "h" : 0.010174418555365716,
+      "y" : 0.49636627890019375
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Direct filtration through the slit diaphragm of podocytes",
+      "x" : 0.21296296875857323,
+      "w" : 0.34773662255245186,
+      "h" : 0.010174418555365605,
+      "y" : 0.4847383721656977
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Basolateral paracellular calcium concentration",
+      "x" : 0.18724280200617277,
+      "w" : 0.2921810510023585,
+      "h" : 0.01031007766723624,
+      "y" : 0.47317829472672024
+    },
+    {
+      "conf" : 1,
+      "text" : "Q23. [2021 Exam] Why does severe Hypomagnesemia make concurrent",
+      "x" : 0.7397119387037038,
+      "w" : 0.45473249903265045,
+      "h" : 0.010174418555365716,
+      "y" : 0.814680232630814
+    },
+    {
+      "conf" : 1,
+      "text" : "Hypokalemia refractory to treatment with potassium replacement",
+      "x" : 0.7191357997685185,
+      "w" : 0.41769548332166373,
+      "h" : 0.011686046388414195,
+      "y" : 0.8008430230561643
+    },
+    {
+      "conf" : 1,
+      "text" : "alone?",
+      "x" : 0.5329218099451303,
+      "w" : 0.04526748897144628,
+      "h" : 0.00872092988755968,
+      "y" : 0.7877906975775194
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Magnesium deficiency directly destroys all basolateral Na+\/K+ ATPases",
+      "x" : 0.7376543151920442,
+      "w" : 0.4423867951399125,
+      "h" : 0.011627906163533486,
+      "y" : 0.771802325387597
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Magnesium precipitates potassium inside the glomerular capillaries",
+      "x" : 0.7253086489368996,
+      "w" : 0.4176954353380503,
+      "h" : 0.0102971574995252,
+      "y" : 0.7609625322870023
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Intracellular Mg2+ normally inhibits ROMK; low Mg2+ disinhibits ROMK,",
+      "x" : 0.7366255088991771,
+      "w" : 0.44032920981353185,
+      "h" : 0.01027777777777783,
+      "y" : 0.7493055556489062
+    },
+    {
+      "conf" : 1,
+      "text" : "leading to unconstrained renal potassium wasting",
+      "x" : 0.6656378650548694,
+      "w" : 0.29835390294872743,
+      "h" : 0.010277777777777719,
+      "y" : 0.7376388887775787
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Hypomagnesemia causes complete bilateral ureteral obstruction",
+      "x" : 0.7170781959876541,
+      "w" : 0.40123456079255115,
+      "h" : 0.010277777777777719,
+      "y" : 0.725972222405789
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Low magnesium stimulates maximum hypothalamic ADH secretion",
+      "x" : 0.7232510339763372,
+      "w" : 0.41358021670167544,
+      "h" : 0.01031007766723635,
+      "y" : 0.7143217053822914
+    },
+    {
+      "conf" : 1,
+      "text" : "Q24. [2025 Exam] How does Transtubular Potassium Gradient (TTKG =",
+      "x" : 0.737654317043896,
+      "w" : 0.4506172803962756,
+      "h" : 0.010277777777777719,
+      "y" : 0.6881944444661616
+    },
+    {
+      "conf" : 1,
+      "text" : "[UK \/ PK] \/ [U_osm \/ P_osm]) differentiate causes of hyperkalemia?",
+      "x" : 0.7242798354737241,
+      "w" : 0.42798355390440757,
+      "h" : 0.01028423786163335,
+      "y" : 0.6737467701153264
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] TTKG is valid only when urine is maximally hypo-osmotic (< 100",
+      "x" : 0.711934149862826,
+      "w" : 0.3909464902098073,
+      "h" : 0.011744185553656639,
+      "y" : 0.6583720928146284
+    },
+    {
+      "conf" : 0.5,
+      "text" : "mOsm\/kg)",
+      "x" : 0.5493827170150098,
+      "w" : 0.06616577412347369,
+      "h" : 0.011271346410115513,
+      "y" : 0.6460755812418608
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] A TTKG of zero indicates isolated Fanconi syndrome",
+      "x" : 0.6800411560699586,
+      "w" : 0.3271604813869644,
+      "h" : 0.010174418555365716,
+      "y" : 0.634447674249031
+    },
+    {
+      "conf" : 1,
+      "text" : "IC] TTKG measures only calcium and magnesium secretion",
+      "x" : 0.6903292224537035,
+      "w" : 0.34773662255245186,
+      "h" : 0.010174418555365716,
+      "y" : 0.6228197675327034
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] TTKG < 5 in hyperkalemia indicates impaired aldosterone bioactivity or",
+      "x" : 0.7335390893775722,
+      "w" : 0.4300411392307881,
+      "h" : 0.011673126220703156,
+      "y" : 0.6119412148250964
+    },
+    {
+      "conf" : 1,
+      "text" : "resistance; TTKG > 7-8 indicates intact aldosterone response",
+      "x" : 0.6954732555041151,
+      "w" : 0.3580246931351956,
+      "h" : 0.008888889153798374,
+      "y" : 0.6002777777118367
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] TTKG > 20 is diagnostic of Addison disease",
+      "x" : 0.6543209895747599,
+      "w" : 0.27572015246505255,
+      "h" : 0.011698966026306157,
+      "y" : 0.5886272609600864
+    },
+    {
+      "conf" : 1,
+      "text" : "Q25. [Faculty Exam] What is the primary renal mechanism of potassium",
+      "x" : 0.7386831320987655,
+      "w" : 0.45267486572265636,
+      "h" : 0.010174418555365605,
+      "y" : 0.5603197675145348
+    },
+    {
+      "conf" : 1,
+      "text" : "wasting in metabolic alkalosis associated with persistent vomiting?",
+      "x" : 0.7263374528395061,
+      "w" : 0.42798355390440745,
+      "h" : 0.010174418555365605,
+      "y" : 0.5472383721656977
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Gastric acid loss converts the kidney into a non-filtering organ",
+      "x" : 0.7078189364197529,
+      "w" : 0.38271602894525114,
+      "h" : 0.011679586304558565,
+      "y" : 0.5305490959813652
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Vomiting stimulates parathyroid hormone to degrade ROMK channels",
+      "x" : 0.7294238616941018,
+      "w" : 0.42592592059441337,
+      "h" : 0.011666666666666603,
+      "y" : 0.5188888890893744
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Direct toxic effect of salivary amylase on the loop of Henle",
+      "x" : 0.6975308584362141,
+      "w" : 0.36213991177157034,
+      "h" : 0.011757105721367678,
+      "y" : 0.5086563306474395
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Excess conversion of aldosterone into testosterone",
+      "x" : 0.6779835337791498,
+      "w" : 0.3189300201224081,
+      "h" : 0.010174418555365716,
+      "y" : 0.4963662790455427
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] High filtered bicarbonate delivery with non-reabsorbable anion kinetics",
+      "x" : 0.7314814761059673,
+      "w" : 0.4300411392307881,
+      "h" : 0.010174418555365605,
+      "y" : 0.48473837203851744
+    },
+    {
+      "conf" : 1,
+      "text" : "increases lumen-negativity and stimulates K+ excretion",
+      "x" : 0.6790123497427982,
+      "w" : 0.32510287206877697,
+      "h" : 0.01031007766723624,
+      "y" : 0.47317829472672024
+    },
+    {
+      "conf" : 1,
+      "text" : "Q19. [2021 Exam] What characteristic sequential Electrocardiogram",
+      "x" : 0.250000006344307,
+      "w" : 0.43004113923078807,
+      "h" : 0.01173126538594571,
+      "y" : 0.43308785507871644
+    },
+    {
+      "conf" : 1,
+      "text" : "(ECG) changes occur as serum potassium rises in severe Hyperkalemia",
+      "x" : 0.26131687813786,
+      "w" : 0.4567901323426445,
+      "h" : 0.01027777777777783,
+      "y" : 0.419305555634077
+    },
+    {
+      "conf" : 1,
+      "text" : "(K+ > 6.0 to > 8.0 mEq\/L)?",
+      "x" : 0.11728394850823051,
+      "w" : 0.16872427598485407,
+      "h" : 0.010277777777777719,
+      "y" : 0.4062499999454941
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Prominent U waves, ST depression, and flattened T waves",
+      "x" : 0.22016461063100132,
+      "w" : 0.3580246691433888,
+      "h" : 0.010174418555365605,
+      "y" : 0.39026162773740314
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Shortened QT interval and Osborn J waves exclusively",
+      "x" : 0.20781892441700978,
+      "w" : 0.33744855196970813,
+      "h" : 0.011731265915764677,
+      "y" : 0.37941214494394504
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Delta waves and electrical alternans",
+      "x" : 0.15843621692386825,
+      "w" : 0.23456789412588444,
+      "h" : 0.008888888888888946,
+      "y" : 0.3677777777395598
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Peaked tall T waves -> PR prolongation & flattened P wave -> QRS",
+      "x" : 0.2417695406378603,
+      "w" : 0.40123456079255104,
+      "h" : 0.011666666666666714,
+      "y" : 0.3561111111981966
+    },
+    {
+      "conf" : 1,
+      "text" : "widening -> Sine-wave pattern -> Asystole\/VF",
+      "x" : 0.17386831718106982,
+      "w" : 0.2654320818823089,
+      "h" : 0.011679586304558676,
+      "y" : 0.3444509042124332
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Isolated sinus bradycardia without any T wave modifications",
+      "x" : 0.22633745324074064,
+      "w" : 0.37448559167250145,
+      "h" : 0.010277777777777719,
+      "y" : 0.3320833331407847
+    },
+    {
+      "conf" : 1,
+      "text" : "Q20. [2020 Exam] In severe acute Hyperkalemia with ECG changes",
+      "x" : 0.24691357674897127,
+      "w" : 0.42386828728441917,
+      "h" : 0.013081394831339521,
+      "y" : 0.3059593025436046
+    },
+    {
+      "conf" : 1,
+      "text" : "(widened QRS or peaked T waves), what is the immediate first-line",
+      "x" : 0.24382716087105624,
+      "w" : 0.42181070195803855,
+      "h" : 0.011718346277872715,
+      "y" : 0.2921963826540688
+    },
+    {
+      "conf" : 1,
+      "text" : "medication administered for CARDIOPROTECTION?",
+      "x" : 0.19855966526063118,
+      "w" : 0.3312757000233392,
+      "h" : 0.010290697945488758,
+      "y" : 0.27985465125029413
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Intravenous Sodium Polystyrene Sulfonate (Kayexalate)",
+      "x" : 0.2119341520576133,
+      "w" : 0.3456790132342645,
+      "h" : 0.01028423786163335,
+      "y" : 0.2637532298272441
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Intravenous Regular Insulin with Dextrose",
+      "x" : 0.17181070290637848,
+      "w" : 0.2654320818823088,
+      "h" : 0.010174418555365605,
+      "y" : 0.2521802326126453
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Oral Spironolactone",
+      "x" : 0.11008230689300404,
+      "w" : 0.14197530686480445,
+      "h" : 0.010174418555365605,
+      "y" : 0.2405523256540697
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Inhaled high-dose Furosemide",
+      "x" : 0.1409465045524691,
+      "w" : 0.19958847573718186,
+      "h" : 0.010174418555365605,
+      "y" : 0.22892441869549418
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Intravenous Calcium Gluconate (antagonizes membrane excitability",
+      "x" : 0.24691358717421102,
+      "w" : 0.41563785001166964,
+      "h" : 0.010290697415669792,
+      "y" : 0.21735465113073338
+    },
+    {
+      "conf" : 1,
+      "text" : "without lowering serum K+)",
+      "x" : 0.12139917421124838,
+      "w" : 0.1646090453525759,
+      "h" : 0.010277777777777719,
+      "y" : 0.2056944443840914
+    },
+    {
+      "conf" : 1,
+      "text" : "Q21. [2024 Exam] After stabilizing the cardiac membrane with Calcium",
+      "x" : 0.2602880733539092,
+      "w" : 0.4506172803962755,
+      "h" : 0.011757105721367678,
+      "y" : 0.17884366959480857
+    },
+    {
+      "conf" : 1,
+      "text" : "Gluconate, which therapies are administered to rapidly SHIFT",
+      "x" : 0.22942387479423848,
+      "w" : 0.38888888089162,
+      "h" : 0.010174418555365605,
+      "y" : 0.16497093035368227
+    },
+    {
+      "conf" : 1,
+      "text" : "potassium into cells?",
+      "x" : 0.10390946350308647,
+      "w" : 0.1378600762325263,
+      "h" : 0.010310077137417273,
+      "y" : 0.15182170546551493
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Intravenous Regular Insulin with 50% Dextrose, and inhaled Beta-2",
+      "x" : 0.24176954225823058,
+      "w" : 0.40534977942892586,
+      "h" : 0.010277777777777719,
+      "y" : 0.1373611111921405
+    },
+    {
+      "conf" : 1,
+      "text" : "agonists (Albuterol)",
+      "x" : 0.09979423985596705,
+      "w" : 0.11728394706294222,
+      "h" : 0.010277777777777719,
+      "y" : 0.1256944443692623
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Oral Potassium Chloride tablets and Spironolactone",
+      "x" : 0.20164609459876537,
+      "w" : 0.325102872068777,
+      "h" : 0.010297157499525311,
+      "y" : 0.11403746779172835
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Intravenous 3% Hypertonic Saline and Mannitol",
+      "x" : 0.18724279465020585,
+      "w" : 0.29629629363054,
+      "h" : 0.010174418555365716,
+      "y" : 0.10247093017805226
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Oral NSAIDs and ACE inhibitors",
+      "x" : 0.1430041186899862,
+      "w" : 0.20781892500583482,
+      "h" : 0.010174418555365716,
+      "y" : 0.09084302332848843
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Subcutaneous Heparin and Vitamin K",
+      "x" : 0.15843621604938266,
+      "w" : 0.23868311276225926,
+      "h" : 0.010174418555365605,
+      "y" : 0.07921511644864343
+    },
+    {
+      "conf" : 1,
+      "text" : "Q26. [2022 Exam] Why does Trimethoprim (part of Bactrim) frequently",
+      "x" : 0.7345679049382716,
+      "w" : 0.4444444284499067,
+      "h" : 0.011731266445583755,
+      "y" : 0.43308785534518923
+    },
+    {
+      "conf" : 1,
+      "text" : "cause hyperkalemia, especially in elderly patients or those on ACE",
+      "x" : 0.7201646096707819,
+      "w" : 0.4197530686480443,
+      "h" : 0.011705426110161676,
+      "y" : 0.42001937975536796
+    },
+    {
+      "conf" : 1,
+      "text" : "inhibitors?",
+      "x" : 0.5452674888374486,
+      "w" : 0.06995884877330849,
+      "h" : 0.00872092988755968,
+      "y" : 0.40697674411337204
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Trimethoprim is structurally similar to amiloride and reversibly blocks",
+      "x" : 0.7294238739026061,
+      "w" : 0.4218107019580386,
+      "h" : 0.010174418555365605,
+      "y" : 0.39026162773740314
+    },
+    {
+      "conf" : 1,
+      "text" : "apical ENaC channels in principal cells",
+      "x" : 0.6316872465706447,
+      "w" : 0.22633743286132812,
+      "h" : 0.010174418555365605,
+      "y" : 0.37863372100290704
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Trimethoprim directly stimulates potassium release from skeletal muscle",
+      "x" : 0.7417695400891635,
+      "w" : 0.4465020617599008,
+      "h" : 0.011692505942450637,
+      "y" : 0.3677648582227918
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] It induces acute destruction of adrenal cortical zona glomerulosa",
+      "x" : 0.7181070025377227,
+      "w" : 0.3991769514743637,
+      "h" : 0.010277777777777719,
+      "y" : 0.35541666649291365
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] It converts dietary sodium into potassium within the intestinal lumen",
+      "x" : 0.7283950687242796,
+      "w" : 0.4197530686480444,
+      "h" : 0.011679586304558565,
+      "y" : 0.34445090416398355
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] It stimulates massive apoptosis of type A intercalated cells",
+      "x" : 0.6985596662294239,
+      "w" : 0.36419752108975767,
+      "h" : 0.010277777777777719,
+      "y" : 0.33208333352525493
+    },
+    {
+      "conf" : 1,
+      "text" : "Q27. [Core Exam] How do Loop Diuretics (Furosemide) and Thiazides",
+      "x" : 0.7325102954046638,
+      "w" : 0.44032920981353196,
+      "h" : 0.01027777777777783,
+      "y" : 0.3059722220361478
+    },
+    {
+      "conf" : 1,
+      "text" : "both cause hypokalemia despite acting on different nephron segments?",
+      "x" : 0.73868312186214,
+      "w" : 0.45679013234264443,
+      "h" : 0.01027777777777783,
+      "y" : 0.2929166668955524
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Both directly stimulate basolateral potassium secretion in the loop of",
+      "x" : 0.7273662480452677,
+      "w" : 0.42592592059441325,
+      "h" : 0.01031007766723624,
+      "y" : 0.27682170530356087
+    },
+    {
+      "conf" : 1,
+      "text" : "Henle",
+      "x" : 0.5370370371742113,
+      "w" : 0.04115226133814398,
+      "h" : 0.00872092988755968,
+      "y" : 0.26598837223837213
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Both increase sodium and fluid delivery to late DCT\/CD and stimulate",
+      "x" : 0.7283950670267488,
+      "w" : 0.4238682872844193,
+      "h" : 0.010174418555365605,
+      "y" : 0.25363372098473846
+    },
+    {
+      "conf" : 1,
+      "text" : "secondary hyperaldosteronism, accelerating K+ secretion",
+      "x" : 0.6862139974279833,
+      "w" : 0.33950616128789557,
+      "h" : 0.01030361758338072,
+      "y" : 0.2420704135401704
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Both destroy the renal podocytes and slit diaphragms",
+      "x" : 0.684156384190672,
+      "w" : 0.3353909426515207,
+      "h" : 0.010277777777777719,
+      "y" : 0.23041666649291354
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Both convert potassium into insoluble phosphate stones",
+      "x" : 0.6923868270833335,
+      "w" : 0.3518518411888266,
+      "h" : 0.011679586304558676,
+      "y" : 0.21945090426088276
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Both block hydrogen ion secretion in type B intercalated cells",
+      "x" : 0.7026748908436217,
+      "w" : 0.37654320099068905,
+      "h" : 0.010277777777777719,
+      "y" : 0.20708333355553604
+    },
+    {
+      "conf" : 1,
+      "text" : "Q28. [Core Exam] In diabetic ketoacidosis (DKA), why is total body",
+      "x" : 0.721193408607682,
+      "w" : 0.4218107019580384,
+      "h" : 0.011757105721367789,
+      "y" : 0.17884366949790925
+    },
+    {
+      "conf" : 1,
+      "text" : "potassium profoundly depleted despite a normal or high initial serum",
+      "x" : 0.7294238628343623,
+      "w" : 0.43827157650353776,
+      "h" : 0.010174418555365605,
+      "y" : 0.16497093014171504
+    },
+    {
+      "conf" : 1,
+      "text" : "potassium level?",
+      "x" : 0.5658436232510287,
+      "w" : 0.11111110711247663,
+      "h" : 0.01031007766723635,
+      "y" : 0.15182170544890977
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Insulin hypersecretion drives potassium into circulating erythrocytes",
+      "x" : 0.7253086353566532,
+      "w" : 0.4218107019580386,
+      "h" : 0.010277777777777719,
+      "y" : 0.13736111088640085
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Ketone bodies directly bind and destroy all intracellular potassium",
+      "x" : 0.7181070026748968,
+      "w" : 0.40740741273892,
+      "h" : 0.010277777777777719,
+      "y" : 0.1256944443692623
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Potassium is lost via osmotic diuresis (glucosuria) and ketoaciduria,",
+      "x" : 0.7253086367541155,
+      "w" : 0.41769548332166384,
+      "h" : 0.010297157499525311,
+      "y" : 0.11403746768271666
+    },
+    {
+      "conf" : 1,
+      "text" : "while acidosis and insulin deficiency mask it by shifting K+ into ECF",
+      "x" : 0.7139917737311385,
+      "w" : 0.3950617088461822,
+      "h" : 0.011724805831909157,
+      "y" : 0.10169573601852527
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] The adrenal glands completely stop producing aldosterone",
+      "x" : 0.6985596769204386,
+      "w" : 0.36831273972613254,
+      "h" : 0.011763565805223308,
+      "y" : 0.0900484493458219
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Hyperglycemia stimulates immediate renal cortical necrosis",
+      "x" : 0.7006172789780523,
+      "w" : 0.37242798235431407,
+      "h" : 0.011627906163533486,
+      "y" : 0.07848837189922481
+    },
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Board zam Past Papers",
+      "x" : 0.32098766008230445,
+      "w" : 0.5761316647319674,
+      "h" : 0.017519379191928364,
+      "y" : 0.014573643574683492
+    },
+    {
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321,
+      "w" : 0.19135801447262546,
+      "h" : 0.007344961166381836,
+      "y" : 0.01966085278616625
+    }
+  ],
+  "page" : 64
+}

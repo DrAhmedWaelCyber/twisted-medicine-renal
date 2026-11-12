@@ -1,0 +1,981 @@
+{
+  "items" : [
+    {
+      "h" : 0.013178294499715193,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 7 MCQ Masterclass",
+      "x" : 0.2829218169495883,
+      "y" : 0.9774224804165389,
+      "w" : 0.5,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "Twisted Medicine Medical Series • Glomerular Capillaries, Filtration Barrier & Mesangium",
+      "x" : 0.27057613762860067,
+      "y" : 0.9651162791061046,
+      "w" : 0.47530864019813784,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010527050230238144,
+      "text" : "Page 2 of 4",
+      "x" : 0.9341563794762047,
+      "y" : 0.9760174419468947,
+      "w" : 0.07005990826108921,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "Standard Board & End-Module Practice Bank",
+      "x" : 0.8477366285493827,
+      "y" : 0.9651162791424419,
+      "w" : 0.2427983553904407,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011627906163533597,
+      "text" : "Q15. [2025 Exam] The visceral layer of Bowman's capsule is formed by Q22. [2023 Exam] In Minimal Change Disease (Lipoid Nephross),",
+      "x" : 0.48148149269547297,
+      "y" : 0.940406976744186,
+      "w" : 0.8971192941725629,
+      "conf" : 1
+    },
+    {
+      "h" : 0.0102971574995252,
+      "text" : "Podocytes, which are histologically described as:",
+      "x" : 0.19650206306584345,
+      "y" : 0.9265374678583466,
+      "w" : 0.3271604813869644,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "text" : "which ultrastructural change seen on Transmission Electron",
+      "x" : 0.7026749019804526,
+      "y" : 0.9265374678280656,
+      "w" : 0.38888888089162,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[A] Stratified squamous non-keratinized epithelial cells",
+      "x" : 0.19341564187242788,
+      "y" : 0.9120833333009626,
+      "w" : 0.3209876534324022,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "Microscopy is the hallmark of the condition?",
+      "x" : 0.6563786057613167,
+      "y" : 0.9134722224542386,
+      "w" : 0.29629629363054,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[B] Highly specialized, terminally differentiated epithelial cells with primary",
+      "x" : 0.24794239117283945,
+      "y" : 0.900416666833485,
+      "w" : 0.434156357867163,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[A] Massive thickening and duplication of the glomerular basement membrane",
+      "x" : 0.7366255201131686,
+      "y" : 0.8990277777213912,
+      "w" : 0.45679013234264443,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01028423786163335,
+      "text" : "processes and interdigitating pedicels",
+      "x" : 0.14609053882030165,
+      "y" : 0.8887532299544243,
+      "w" : 0.23045267548950965,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[B] Subepithelial dense 'spike and dome' immune complex deposition",
+      "x" : 0.7109053565500683,
+      "y" : 0.8873611113193207,
+      "w" : 0.4053497794289259,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[C] Phagocytic mononuclear cells derived from circulating monocytes",
+      "x" : 0.23456789444444462,
+      "y" : 0.8771802324854652,
+      "w" : 0.40740741273891995,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666603,
+      "text" : "[C] Diffuse effacement (flattening, simplification, and retraction) of podocyte",
+      "x" : 0.7314814739711936,
+      "y" : 0.8749999999515503,
+      "w" : 0.4506172803962756,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[D] Ciliated simple columnar cells with microvilli brush border",
+      "x" : 0.21193416090534967,
+      "y" : 0.8655523256722384,
+      "w" : 0.36213991177157034,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297158029344389,
+      "text" : "foot processes (pedicels)",
+      "x" : 0.5895061701989027,
+      "y" : 0.8640374676418867,
+      "w" : 0.16255143603438849,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[E] Contractile vascular smooth muscle cells containing renin granules",
+      "x" : 0.2355967009259262,
+      "y" : 0.8539244185319768,
+      "w" : 0.4135802167016755,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[D] Total absence of capillary endothelial fenestrations",
+      "x" : 0.6687242851851851,
+      "y" : 0.8524709303052325,
+      "w" : 0.3209876534324022,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[E] Hyperplasia and proliferation of parietal epithelial cells forming crescents",
+      "x" : 0.7325102936728394,
+      "y" : 0.8408430233103197,
+      "w" : 0.4485596470862814,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "Q16. [2024 Exam] Between adjacent interdigitating secondary foot",
+      "x" : 0.24794239399862805,
+      "y" : 0.8131944443692624,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "processes (pedicels) of podocytes lies an elongated space known as",
+      "x" : 0.25411523186728385,
+      "y" : 0.8001388888078595,
+      "w" : 0.44238684312352594,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "the:",
+      "x" : 0.04732510342935526,
+      "y" : 0.7863372093992248,
+      "w" : 0.03292180907051519,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "[A] Canal of Schlemm",
+      "x" : 0.09773662767489705,
+      "y" : 0.771802325629845,
+      "w" : 0.1296296269638733,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[B] Urinary space of Bowman's capsule (lumbar slit)",
+      "x" : 0.18312757709190658,
+      "y" : 0.759447674491279,
+      "w" : 0.30452673090328963,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[C] Filtration Slit (Slit pore, 25 to 40 nm wide)",
+      "x" : 0.16255144471879268,
+      "y" : 0.7478197675145348,
+      "w" : 0.26337447256412144,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888888888946,
+      "text" : "[D] Lacis space of Goormaghtigh",
+      "x" : 0.13065843954046627,
+      "y" : 0.736944444553665,
+      "w" : 0.19958847573718183,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[E] Fenestration pore (70 to 100 nm wide)",
+      "x" : 0.1522633703703705,
+      "y" : 0.7259722222604401,
+      "w" : 0.24691357402681552,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011711885664198007,
+      "text" : "Q17. [2023 Exam] The filtration slits between adjacent podocyte",
+      "x" : 0.2397119393261316,
+      "y" : 0.6860885014509137,
+      "w" : 0.4135802167016755,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "pedicels are bridged by a thin, specialized electron-dense membrane",
+      "x" : 0.25514403736625507,
+      "y" : 0.6722383721656977,
+      "w" : 0.44444442844990667,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "known as the:",
+      "x" : 0.08127572137345676,
+      "y" : 0.6598837210029069,
+      "w" : 0.09670781789335814,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[A] Mesangial anchoring lamina",
+      "x" : 0.1265432129972564,
+      "y" : 0.6445833331226162,
+      "w" : 0.18724279583625075,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01030361758338083,
+      "text" : "[B] Zonula adherens complex",
+      "x" : 0.12037037253086412,
+      "y" : 0.6329295863629304,
+      "w" : 0.17901233457169444,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[C] Endothelial closing diaphragm",
+      "x" : 0.13065843870884766,
+      "y" : 0.6213662791242733,
+      "w" : 0.19958847573718186,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "[D] Parietal basal membrane",
+      "x" : 0.11831275938786003,
+      "y" : 0.610465116315407,
+      "w" : 0.1748971159353196,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01031007766723624,
+      "text" : "[E] Filtration Slit Diaphragm (thickness ~6 nm)",
+      "x" : 0.1666666620713307,
+      "y" : 0.59817829459954,
+      "w" : 0.27572015246505255,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "Q23. [2021 Exam] What is the primary pathogenetic mechanism",
+      "x" : 0.7139917626886148,
+      "y" : 0.8131944442239135,
+      "w" : 0.4115226313752949,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "responsible for selective massive albuminuria in Minimal Change",
+      "x" : 0.718106988820302,
+      "y" : 0.8001388886806793,
+      "w" : 0.4238682872844193,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010769734912448481,
+      "text" : "Disease?",
+      "x" : 0.5401234575136121,
+      "y" : 0.7870639536507317,
+      "w" : 0.05986857864091988,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "[A] Obstruction of the proximal convoluted tubule brush border",
+      "x" : 0.6923868251371743,
+      "y" : 0.7718023255329458,
+      "w" : 0.36831273972613254,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[B] Deficiency of systemic plasma albumin synthesis by hepatocytes",
+      "x" : 0.708847743312757,
+      "y" : 0.759447674491279,
+      "w" : 0.40123456079255115,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[C] Mechanical rupture and wide macroscopic tearing of the lamina densa",
+      "x" : 0.7232510234310701,
+      "y" : 0.7478197673873546,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011673126220703156,
+      "text" : "[D] Loss of the negative electrostatic charge barrier (heparan",
+      "x" : 0.6882716109396432,
+      "y" : 0.7369412147766468,
+      "w" : 0.3600823024533829,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "sulfate\/podocalyxin) on the filtration membrane",
+      "x" : 0.6512345714763375,
+      "y" : 0.7259722223876204,
+      "w" : 0.2860082230477963,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011698966026306157,
+      "text" : "[E] Severe spasm of the efferent arteriole raising pressure above 120 mmHg",
+      "x" : 0.7294238660150892,
+      "y" : 0.7136272609600864,
+      "w" : 0.4465020617599007,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011711886194017307,
+      "text" : "Q24. [2025 Exam] The podocyte pedicels attach firmly to the",
+      "x" : 0.7037036971879289,
+      "y" : 0.6860885015946991,
+      "w" : 0.3909464902098073,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "underlying Lamina Rara Externa of the GBM through which specialized",
+      "x" : 0.7355967135030863,
+      "y" : 0.6722383721838663,
+      "w" : 0.45473249903265045,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "transmembrane adhesion heterodimers?",
+      "x" : 0.6399176921810701,
+      "y" : 0.6598837208575581,
+      "w" : 0.2633744725641215,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008733849790361181,
+      "text" : "[A] Selectin-L and ICAM-1 dimers",
+      "x" : 0.6080246946844992,
+      "y" : 0.6453552972091527,
+      "w" : 0.19958847573718186,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01030361758338083,
+      "text" : "[B] Connexin-43 gap junction hemichannels",
+      "x" : 0.6358024733882028,
+      "y" : 0.6329295866051785,
+      "w" : 0.25514403529137186,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[C] Cadherin-E and claudin-1 complexes",
+      "x" : 0.6265432127829218,
+      "y" : 0.6213662791242733,
+      "w" : 0.2325102848076971,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[D] Occludin and tight junction protein ZO-1",
+      "x" : 0.6347736667695472,
+      "y" : 0.6097383722141474,
+      "w" : 0.25308640198137766,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01031007766723624,
+      "text" : "[E] Integrin alpha-3 \/ beta-1 and Dystroglycan complexes",
+      "x" : 0.6728395006172841,
+      "y" : 0.59817829459954,
+      "w" : 0.33333333333333326,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "Q18. [2022 Exam] Nephrin is a critical transmembrane",
+      "x" : 0.20781893441358015,
+      "y" : 0.5588662791242733,
+      "w" : 0.3497942318706393,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011705426639980754,
+      "text" : "immunoglobulin-superfamily protein of the slit diaphragm encoded by",
+      "x" : 0.2582304571810699,
+      "y" : 0.5450193798846187,
+      "w" : 0.45061728039627547,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010290697415669792,
+      "text" : "which gene mutated in Congenital Nephrotic Syndrome (Finnish type)?",
+      "x" : 0.26028806015946515,
+      "y" : 0.5326453488874352,
+      "w" : 0.4547324990326504,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010347831514146533,
+      "text" : "[A] WT1 gene",
+      "x" : 0.07407407462348463,
+      "y" : 0.5167151161106532,
+      "w" : 0.0823471261270391,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[B] PKD1 gene",
+      "x" : 0.07613168786008229,
+      "y" : 0.5051388887439581,
+      "w" : 0.0905349779428926,
+      "conf" : 0.5
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[C] NPHS2 gene",
+      "x" : 0.08024691440329217,
+      "y" : 0.4934722223237188,
+      "w" : 0.09876542721154555,
+      "conf" : 0.5
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[DJ COL4A3 gene",
+      "x" : 0.08333333425925923,
+      "y" : 0.48180555537366054,
+      "w" : 0.10082303652973296,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010290697415669792,
+      "text" : "LE] NPHS1 gene",
+      "x" : 0.0792181076388889,
+      "y" : 0.4701453488147608,
+      "w" : 0.09670781789335817,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "Q19. [2021 Exam] Podocin is a specialized hairpin membrane",
+      "x" : 0.23045267884773654,
+      "y" : 0.4323611111591428,
+      "w" : 0.3950617088461822,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "text" : "scaffolding protein of the slit diaphragm encoded by the NPHS2 gene",
+      "x" : 0.25720165356652924,
+      "y" : 0.41861111134354534,
+      "w" : 0.4485596470862815,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01029069741566968,
+      "text" : "that functions primarily to:",
+      "x" : 0.12037036738683135,
+      "y" : 0.4048546510338343,
+      "w" : 0.1790123345716944,
+      "conf" : 1
+    },
+    {
+      "h" : 0.013126614888509192,
+      "text" : "[A] Degrade circulating albumin into oligopeptides within the urinary space",
+      "x" : 0.25308642530864184,
+      "y" : 0.38878552959714197,
+      "w" : 0.4444444284499066,
+      "conf" : 1
+    },
+    {
+      "h" : 0.014722222222222192,
+      "text" : "[B) Synthesize heparan sulfate chains for the lamina rara interna",
+      "x" : 0.21913580722736614,
+      "y" : 0.3779166666777342,
+      "w" : 0.3806584196270637,
+      "conf" : 1
+    },
+    {
+      "h" : 0.013145994610256562,
+      "text" : "[c] Constrict the afferent arteriole in response to elevated sodium",
+      "x" : 0.22325102491769555,
+      "y" : 0.3670381137702725,
+      "w" : 0.38888888089162,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "text" : "[D] Anchor nephrin and CD2AP to the podocyte actin cytoskeleton within lipid",
+      "x" : 0.2561728338734569,
+      "y" : 0.3561111111739719,
+      "w" : 0.4506172803962755,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "raft microdomains",
+      "x" : 0.08847736817558292,
+      "y" : 0.3437500000726744,
+      "w" : 0.1152263377447548,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[E] Inhibit the enzymatic action of renin in juxtaglomerular cells",
+      "x" : 0.21502057152777787,
+      "y" : 0.33208333352525493,
+      "w" : 0.36831273972613254,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011692505942450637,
+      "text" : "Q20. [2020 Exam] The actin cytoskeleton inside podocyte foot",
+      "x" : 0.23353909966563782,
+      "y" : 0.3052648581016678,
+      "w" : 0.40123456079255115,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "processes (pedicels) is linked to the slit diaphragm and cell membrane",
+      "x" : 0.26131688004115206,
+      "y" : 0.2914244186773256,
+      "w" : 0.45679008435903107,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "via which intracellular bridging proteins?",
+      "x" : 0.16358024248971206,
+      "y" : 0.2783430231831395,
+      "w" : 0.2654320818823088,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011673126220703045,
+      "text" : "[A] Desmin and neurofilament proteins",
+      "x" : 0.14814814855967076,
+      "y" : 0.2630587855140508,
+      "w" : 0.23045267548950962,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011711885664198118,
+      "text" : "[B] Synaptopodin and CD2-associated protein (CD2AP)",
+      "x" : 0.19135801934156396,
+      "y" : 0.2514114985733111,
+      "w" : 0.3209876534324022,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "text" : "[C] Myosin heavy chain and tropomyosin only",
+      "x" : 0.1656378645747598,
+      "y" : 0.23903746780989704,
+      "w" : 0.26954732451049035,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "[D] Keratin 18 and vimentin dimers",
+      "x" : 0.13374485253772303,
+      "y" : 0.22819767437015503,
+      "w" : 0.20576131568764738,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[E] Tubulin alpha and beta heterodimers exclusively",
+      "x" : 0.18209876916152257,
+      "y" : 0.2158430231286338,
+      "w" : 0.3024691215851022,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "Q25. [2022 Exam] Under the scanning electron microscope (SEM),",
+      "x" : 0.7222222275205759,
+      "y" : 0.5588662790879362,
+      "w" : 0.42386828728441917,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011705425580342599,
+      "text" : "podocytes exhibit an intricate architecture characterized by:",
+      "x" : 0.7037036974622773,
+      "y" : 0.5450193796326808,
+      "w" : 0.38683127157343256,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011679586304558676,
+      "text" : "[A] Elongated spindle-shaped cells arranged in circular concentric lamellae",
+      "x" : 0.7253086347393691,
+      "y" : 0.5305490958360164,
+      "w" : 0.4341563578671629,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[B] Cuboidal cells covered with densely packed uniform brush border microvilli",
+      "x" : 0.7376543285665293,
+      "y" : 0.5195833331226162,
+      "w" : 0.45473249903265034,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01030361758338083,
+      "text" : "[C] Flask-shaped cells with umbrella-like apical facet membranes",
+      "x" : 0.6985596755401233,
+      "y" : 0.5079295865870099,
+      "w" : 0.3806584196270637,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011731265915764677,
+      "text" : "[D] Large cell bodies suspended in the urinary space giving off primary",
+      "x" : 0.7139917627572019,
+      "y" : 0.4955878549591557,
+      "w" : 0.40740741273892,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "branches that divide into interdigitating pedicels",
+      "x" : 0.6491769500342937,
+      "y" : 0.48328488369670547,
+      "w" : 0.2818930044114215,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01176356527540412,
+      "text" : "[E] Flat polygonal plates completely fused without intervening spaces",
+      "x" : 0.710905343038409,
+      "y" : 0.4724515504377183,
+      "w" : 0.405349779428926,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "Q26. [2020 Exam] Why are podocytes unable to undergo rapid",
+      "x" : 0.708847741589506,
+      "y" : 0.43236111117731135,
+      "w" : 0.3971193421561763,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "text" : "regeneration and replacement following severe toxic, ischemic, or",
+      "x" : 0.721193410313786,
+      "y" : 0.4186111111739719,
+      "w" : 0.42592592059441325,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011679585774739598,
+      "text" : "inflammatory injury?",
+      "x" : 0.5771604920096023,
+      "y" : 0.40554909581335497,
+      "w" : 0.13374484560024813,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[A] Rely strictly on diffusion from urine",
+      "x" : 0.6213991791769548,
+      "y" : 0.3902616279796512,
+      "w" : 0.22222221422495325,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[B] Completely lack cell nuclei and ribosomes",
+      "x" : 0.641975313100137,
+      "y" : 0.37863372100290704,
+      "w" : 0.26748969120049626,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01030361758338072,
+      "text" : "[C] Terminally differentiated post-mitotic cells",
+      "x" : 0.6440329262688614,
+      "y" : 0.3670704135401704,
+      "w" : 0.26748969120049626,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[D] Cytoplasm filled with dense collagen bundles",
+      "x" : 0.6522633792181068,
+      "y" : 0.35541666649291365,
+      "w" : 0.28395061372960884,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011679586304558565,
+      "text" : "[E] Rapid daily programmed apoptosis",
+      "x" : 0.6203703731738683,
+      "y" : 0.34445090415187124,
+      "w" : 0.2242798235431408,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011692505942450637,
+      "text" : "Q27. [Faculty Exam] In Membranous Glomerulopathy, immune",
+      "x" : 0.709876546159122,
+      "y" : 0.3052648582227918,
+      "w" : 0.3991769514743637,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "complexes deposit between the GBM and podocytes, appearing on",
+      "x" : 0.723251021639232,
+      "y" : 0.29142441853197676,
+      "w" : 0.43004113923078824,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "electron microscopy as:",
+      "x" : 0.5874485570301784,
+      "y" : 0.2783430231831395,
+      "w" : 0.15843620540211045,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[A] Subendothelial wire-loop lesions",
+      "x" : 0.6152263393004114,
+      "y" : 0.26236111107707266,
+      "w" : 0.2098765343240222,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011711885664198118,
+      "text" : "[B] Subepithelial deposits with GBM spikes",
+      "x" : 0.6337448556927299,
+      "y" : 0.25141149842796245,
+      "w" : 0.25102879266319034,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011750645637512158,
+      "text" : "[C] Mesangial vascular pole deposits",
+      "x" : 0.6193415674897116,
+      "y" : 0.23976421170680912,
+      "w" : 0.22222221422495336,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011627906163533597,
+      "text" : "[D] Intramembranous ribbon dense deposits",
+      "x" : 0.6378600866255142,
+      "y" : 0.2281976744670543,
+      "w" : 0.2592592539277466,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[E] Linear IgG along lamina rara interna",
+      "x" : 0.6224279858230453,
+      "y" : 0.21584302332848843,
+      "w" : 0.22839506617132221,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011750645637512158,
+      "text" : "Q21. [2024 Exam] Mutations in the ACTN4 gene encoding",
+      "x" : 0.2181069912551441,
+      "y" : 0.17726421162202227,
+      "w" : 0.37037037303612663,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "alpha-Actinin-4 in podocytes disrupt the actin cytoskeleton",
+      "x" : 0.22427983060699605,
+      "y" : 0.16347222227860875,
+      "w" : 0.38271602894525114,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011698966026306157,
+      "text" : "cross-linking and clinically cause:",
+      "x" : 0.14609053539094652,
+      "y" : 0.1511272609600865,
+      "w" : 0.22633743286132815,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297158029344389,
+      "text" : "[A] Benign familial hematuria with normal renal function",
+      "x" : 0.19444444084362153,
+      "y" : 0.13596253235811345,
+      "w" : 0.3271604813869644,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666603,
+      "text" : "[B] Renal cell carcinoma derived from collecting duct epithelium",
+      "x" : 0.2181070021262001,
+      "y" : 0.12500000004844952,
+      "w" : 0.3744855916725015,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[C] Autosomal dominant Focal Segmental Glomerulosclerosis (FSGS) with",
+      "x" : 0.24794238654835388,
+      "y" : 0.1126388886261735,
+      "w" : 0.4341563578671629,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "progressive nephrotic syndrome",
+      "x" : 0.1275720132373115,
+      "y" : 0.10097222226044023,
+      "w" : 0.19341563578671628,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01031007766723624,
+      "text" : "[D] Polycystic kidney disease with hepatic cysts",
+      "x" : 0.17078188950617296,
+      "y" : 0.08932170527327976,
+      "w" : 0.2798353950932341,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "[E] Immediate acute tubular necrosis within the first week of life",
+      "x" : 0.2181070005658435,
+      "y" : 0.0784883721656977,
+      "w" : 0.37448559167250145,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011750645637512158,
+      "text" : "Q28. [Core Concept The primary filtration slit diaphragm acts not",
+      "x" : 0.72119341561214,
+      "y" : 0.17726421151301058,
+      "w" : 0.4218107019580387,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011724805831909157,
+      "text" : "merely as a passive sieve, but also serves as a signaling hub via",
+      "x" : 0.7150205793981481,
+      "y" : 0.16419573635767265,
+      "w" : 0.41358021670167544,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888888888835,
+      "text" : "interaction with:",
+      "x" : 0.5627571998285323,
+      "y" : 0.15111111103801883,
+      "w" : 0.1090534977942893,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "text" : "[A] Nuclear steroid receptors promoting testosterone synthesis",
+      "x" : 0.6913580185185189,
+      "y" : 0.13596253223855254,
+      "w" : 0.37037034904431987,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666603,
+      "text" : "[B] Voltage-gated sodium channels initiating action potentials along capillaries",
+      "x" : 0.7366255067215366,
+      "y" : 0.12499999995155048,
+      "w" : 0.4609053509790192,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[C] Adrenergic alpha-1 receptors causing rhythmic podocyte peristalsis",
+      "x" : 0.7150205830932783,
+      "y" : 0.11263888882602813,
+      "w" : 0.4176954353380503,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011724805831909157,
+      "text" : "[D] Lysosomal hydrolases degrading filtered urea and creatinine",
+      "x" : 0.6954732447187931,
+      "y" : 0.10169573616387423,
+      "w" : 0.37860081030887627,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011763565805223308,
+      "text" : "[E] Intracellular adapter proteins CD2AP and TRPC6 calcium channels",
+      "x" : 0.7109053504458163,
+      "y" : 0.09004844944272095,
+      "w" : 0.4094649980653008,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "regulating podocyte morphology",
+      "x" : 0.6028806552126201,
+      "y" : 0.07776162783430235,
+      "w" : 0.19341563578671628,
+      "conf" : 1
+    },
+    {
+      "h" : 0.015988371107313326,
+      "text" : "Twisted Medicine • Renal Histology Master Class • Strictly Grounded in Faculty & Board 26m Past Papers",
+      "x" : 0.31790124406721504,
+      "y" : 0.013808139704457434,
+      "w" : 0.5699588127855985,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008746769693162681,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567877314816,
+      "y" : 0.017428940489640388,
+      "w" : 0.19135801447262557,
+      "conf" : 1
+    }
+  ],
+  "page" : 28
+}

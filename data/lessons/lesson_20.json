@@ -1,0 +1,904 @@
+{
+  "id": 20,
+  "title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+  "department": "Pathology",
+  "department_desc": "Glomerulonephritis, nephrotic syndrome, ATN, CKD, pyelonephritis and urological tumors",
+  "booklet_pages": "Pages 77 - 80",
+  "pdf_pages": [
+    79,
+    80,
+    81,
+    82
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 21 - HIGH-YIELD GLOMERULOPATHIES & NEPHROTIC/NEPHRITIC SYNDROMES MATRIX",
+  "summary_table": [
+    {
+      "domain": "Glomerulosclerosis",
+      "content": "IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,"
+    },
+    {
+      "domain": "HTN; hematuria",
+      "content": "denudation of GBM obesity; poor steroid response"
+    },
+    {
+      "domain": "(FSGS)",
+      "content": "→> CRF Primary: Anti-PLA2R Diffuse uniform thickening of GBM; Granular diffuse IgG and C3 Subepithelial electron-dense"
+    },
+    {
+      "domain": "adults; insidious edema;",
+      "content": "'Spike and dome' on silver stain"
+    },
+    {
+      "domain": "Glomerulonephritis",
+      "content": "antibodies; Secondary: Hep deposition along all capillary deposits between intervening"
+    },
+    {
+      "domain": "renal vein thrombosis risk",
+      "content": "B/C, SLE (Class V), tumors, GBM spikes loops"
+    },
+    {
+      "domain": "(MGN)",
+      "content": "NSAIDs; variable course"
+    },
+    {
+      "domain": "Post-Streptococcal GN",
+      "content": "Granular 'Starry-sky'"
+    },
+    {
+      "domain": "Acute Nephritic Syndrome;",
+      "content": "Diffuse proliferative & exudative Large dome-shaped subepithelial Type Ill hypersensitivity; 1-3 (lumpy-bumpy) IgG and C3 in electron-dense 'humps'"
+    },
+    {
+      "domain": "(PSGN)",
+      "content": "wk post-pharyngitis/impetigo; cola-colored urine; periorbital GN; enlarged glomeruli packed"
+    },
+    {
+      "domain": "edema; HTN",
+      "content": "high ASO/DNase B; LOW C3; with cells & PMNs mesangium & GBM 95% recover"
+    },
+    {
+      "domain": "Rapid progression to acute",
+      "content": "Severe GBM disruption; Type I: Linear IgG"
+    },
+    {
+      "domain": "Rapidly Progressive GN",
+      "content": "Type I: Anti-GBM (alpha-3 IV Crescents in >50% glomeruli col) + hemoptysis. Type III: (proliferated parietal cells + crescentic cellular mass (Goodpasture)"
+    },
+    {
+      "domain": "oliguria; severe azotemia",
+      "content": "Type II: Granular (SLE, PSGN) obliterating Bowman's space Wegener (c-ANCA) / MPA monocytes + fibrin) Type III: Pauci-immune (p-ANCA). Emergency! (ANCA) Type I: Granular"
+    },
+    {
+      "domain": "Mixed nephrotic-nephritic;",
+      "content": "Type I: Subendothelial deposits Type I: Hep C,"
+    },
+    {
+      "domain": "Membranoproliferative",
+      "content": "Lobular hypercellularity; thickened Type Il: Dense intramembranous cryoglobulinemia; Type I| subendothelial IgG + C3 GBM with 'Tram-track' double"
+    },
+    {
+      "domain": "GN (MPGN)",
+      "content": "Type Il: Ribbon-like C3 only"
+    },
+    {
+      "domain": "progressive",
+      "content": "ribbon deposits (Dense Deposit): C3NeF contours autoantibody, persistent low C3"
+    },
+    {
+      "domain": "Recurrent synpharyngitic",
+      "content": "Prominent mesangial IgA Electron-dense deposits Mesangial cell proliferation and"
+    },
+    {
+      "domain": "IgA Nephropathy",
+      "content": "Commonest primary GN worldwide; normal serum C3; and C3 granular deposition confined primarily to the expanded mesangial matrix"
+    },
+    {
+      "domain": "(Berger's)",
+      "content": "(pathognomonic) Henoch-Schönlein purpura is"
+    },
+    {
+      "domain": "days of URI/gastroenteritis)",
+      "content": "mesangium systemic form"
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which tetrad of clinical and laboratory findings definitively defines classic Nephrotic Syndrome?",
+      "options": {
+        "A": "Macroscopic hematuria, acute oliguria, hypertension, and RBC casts",
+        "B": "Heavy proteinuria (>3.5 g/24h), hypoalbuminemia, generalized edema, and hyperlipidemia",
+        "C": "Pyuria, high fever, costovertebral angle tenderness, and WBC casts",
+        "D": "Massive glucosuria, aminoaciduria, phosphaturia, and normal albumin",
+        "E": "Painless hematuria, palpable flank mass, polycythemia, and flank pain"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The primary initiating pathophysiological defect responsible for the development of massive proteinuria in nephrotic syndrome is:",
+      "options": {
+        "A": "Markedly increased permeability of the glomerular filtration barrier to plasma proteins",
+        "B": "Retrograde backflow of urine from the pelvis into peritubular capillaries",
+        "C": "Total obstruction of the proximal convoluted tubule brush border",
+        "D": "Extreme constriction of the afferent arteriole with intact efferent tone",
+        "E": "Primary failure of the adrenal cortex to synthesize aldosterone"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the primary mechanism causing Hyperlipidemia and Lipiduria in Nephrotic Syndrome?",
+      "options": {
+        "A": "Massive dietary intake of saturated animal fats from hypothalamic drive",
+        "B": "Hypoalbuminemia stimulates hepatic lipoprotein synthesis + loss of LPL",
+        "C": "Decreased hepatic lipid synthesis due to hypoproteinemic down-regulation",
+        "D": "Glomerular synthesis and secretion of cholesterol into Bowman's capsule",
+        "E": "Failure of proximal tubular epithelial cells to reabsorb filtered bile salts"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Patients with severe nephrotic syndrome are at significantly elevated risk for deep vein thrombosis and renal vein thrombosis primarily due to urinary loss of:",
+      "options": {
+        "A": "Factor VIII and von Willebrand factor",
+        "B": "Fibrinogen and prothrombin",
+        "C": "Platelet-activating factor and thromboxane A2",
+        "D": "Antithrombin III (AT-III), protein C, and protein S, plus thrombocytosis and",
+        "E": "Erythropoietin and transferrin"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why are children with nephrotic syndrome highly susceptible to pyogenic infections (e.g. pneumococcal peritonitis)?",
+      "options": {
+        "A": "Direct bacterial colonization of renal cortex through the ureters",
+        "B": "Complete absence of bone marrow neutrophil precursors",
+        "C": "Total destruction of the thymic cortex by filtered albumin",
+        "D": "Hypocalcemia causing paralysis of circulatory leukocytes",
+        "E": "Massive urinary loss of complement factor B, properdin, and IgG"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2020 Exam Which clinical feature is characteristic of Acute Nephritic Syndrome rather than Nephrotic Syndrome?",
+      "options": {
+        "A": "Heavy selective proteinuria exceeding 5.0 g per day",
+        "B": "Profound hypoalbuminemia with generalized anasarca",
+        "C": "Hematuria with dysmorphic RBCs, RBC casts, oliguria, and hypertension",
+        "D": "Hypercholesterolemia with oval fat bodies showing Maltese crosses",
+        "E": "Complete absence of urinary sediment formed elements"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the most common cause of primary Nephrotic Syndrome in children aged 2 to 6 years?",
+      "options": {
+        "A": "Focal Segmental Glomerulosclerosis (FSGS)",
+        "B": "Membranous Glomerulonephritis (MGN)",
+        "C": "Membranoproliferative Glomerulonephritis (MPGN)",
+        "D": "Dense Deposit Disease (Type II MPGN)",
+        "E": "Minimal Change Disease (MCD / Lipoid Nephrosis)"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In Minimal Change Disease (MCD), light microscopic (LM) examination of the renal biopsy typically reveals:",
+      "options": {
+        "A": "Marked diffuse mesangial and endothelial cell hypercellularity",
+        "B": "Prominent subepithelial spikes on silver impregnation stain",
+        "C": "Normal-appearing glomeruli (or mild lipid accumulation in tubular epithelial cells)",
+        "D": "Widespread crescent formation in Bowman's urinary space",
+        "E": "Extensive nodular hyaline deposits in mesangial areas (KW nodules)"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the pathognomonic hallmark of Minimal Change Disease observed on Electron Microscopy (EM)?",
+      "options": {
+        "A": "Diffuse effacement (flattening and fusion) of podocyte foot processes",
+        "B": "Large subepithelial electron-dense dome-shaped 'humps'",
+        "C": "Subendothelial electron-dense deposits with split basement membrane",
+        "D": "Intramembranous continuous ribbon-like dense deposits",
+        "E": "Linear deposition of IgG along the entire lamina densa"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The proteinuria in Minimal Change Disease is characteristically 'Selective', meaning that the urine contains predominantly:",
+      "options": {
+        "A": "High-molecular-weight immunoglobulins (IgG and IgM)",
+        "B": "Fibrin degradation products and alpha-2-macroglobulin",
+        "C": "Bence-Jones light chains exclusively",
+        "D": "Albumin, due to loss of the polyanionic charge barrier (heparan sulfate/podocalyxin) on the GBM",
+        "E": "Tamm-Horsfall mucoprotein and beta-2-microglobulin only"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the expected therapeutic response and prognosis of Minimal Change Disease in children?",
+      "options": {
+        "A": "Complete resistance to steroids with inevitable ESRD within 2 years",
+        "B": "Spontaneous progression to rapidly progressive crescentic GN in 50%",
+        "C": "Rapid, dramatic response to Corticosteroids (>90% remission) with excellent prognosis",
+        "D": "Requirement for immediate bilateral nephrectomy and hemodialysis",
+        "E": "Recurrence after kidney transplantation in 100% of cases"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Focal Segmental Glomerulosclerosis (FSGS) is histologically distinguished on light microscopy by:",
+      "options": {
+        "A": "Global sclerosis involving all lobules of all glomeruli throughout the cortex",
+        "B": "Sclerosis and hyalinosis involving only some glomeruli (focal) and only part of each glomerular tuft (segmental)",
+        "C": "Pure membranous thickening without any sclerotic lesions",
+        "D": "Diffuse proliferation of endothelial cells occluding all capillary lumens",
+        "E": "Extensive granulomatous necrosis of the corticomedullary junction"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Which characteristic is typical of Focal Segmental Glomerulosclerosis (FSGS) rather than MCD?",
+      "options": {
+        "A": "Highly selective albuminuria responding completely to 4 weeks of prednisone",
+        "B": "Normal light microscopy and completely intact podocyte pedicels",
+        "C": "Universal complete spontaneous recovery in over 95% of patients",
+        "D": "Non-selective proteinuria, hematuria, hypertension, poor steroid response, and progression",
+        "E": "Exclusively seen in children under 2 years with zero graft recurrence"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "The 'Collapsing Glomerulopathy' variant of FSGS is characterized by collapse of the capillary tuft and podocyte hyperplasia, strongly associated with:",
+      "options": {
+        "A": "Hepatitis A viral exposure during childhood",
+        "B": "Infection with Streptococcus pyogenes",
+        "C": "HIV-Associated Nephropathy (HIVAN) and high-dose pamidronate therapy",
+        "D": "Treatment with thiazide diuretics in elderly patients",
+        "E": "Essential benign hypertension"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In approximately 70% to 80% of adult patients with primary (idiopathic) Membranous Nephropathy, autoantibodies are directed against:",
+      "options": {
+        "A": "Alpha-3 chain of Type IV collagen in the lamina densa",
+        "B": "Bacterial streptokinase antigen",
+        "C": "M-type Phospholipase A2 Receptor (PLA2R) on the podocyte membrane",
+        "D": "Intracellular myeloperoxidase (p-ANCA)",
+        "E": "ENaC sodium channel subunits in the collecting duct"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Secondary causes of Membranous Glomerulonephritis must be excluded in adult patients, and include all of the following EXCEPT:",
+      "options": {
+        "A": "Chronic Hepatitis B or Hepatitis C viral infection",
+        "B": "Systemic Lupus Erythematosus (Class V Membranous Lupus Nephritis)",
+        "C": "Solid malignancies (carcinomas of lung, colon, stomach, breast)",
+        "D": "Drugs including Gold salts, Penicillamine, and NSAIDs",
+        "E": "Acute post-traumatic rhabdomyolysis"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "On renal biopsy silver impregnation stain (Jones/PAM), Membranous Glomerulopathy characteristically demonstrates:",
+      "options": {
+        "A": "A 'tram-track' or double-contour split appearance of the capillary wall",
+        "B": "Linear uniform continuous IgG deposition without any projections",
+        "C": "Total necrosis of all arcuate and interlobular arterial walls",
+        "D": "Apple-green birefringence under polarized light",
+        "E": "'Spike and dome' pattern formed by basement membrane spikes protruding between subepithelial deposits"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Immunofluorescence (IF) microscopy in Membranous Nephropathy characteristically shows:",
+      "options": {
+        "A": "Negative staining for all immunoglobulins and complements",
+        "B": "Linear continuous deposition of IgG along the GBM",
+        "C": "Mesangial lgA deposition only",
+        "D": "Granular, diffuse deposition of IgG and C3 along the capillary loops (subepithelial)",
+        "E": "Clumpy C3 deposition strictly within the urinary pole"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Diabetic Nephropathy is clinically and pathologically Q27. [Core Exam] What is the characteristic ultrastructural finding on characterized by all EXCEPT:",
+      "options": {
+        "A": "Early glomerular hyperfiltration with increased GFR and renal enlargement",
+        "B": "Acute crescentic necrotizing destruction of all Bowman's capsules in 48 hours",
+        "C": "Progressive diffuse thickening of the glomerular basement membrane",
+        "D": "Microalbuminuria (30-300 mg/day) progressing to overt proteinuria",
+        "E": "Hyalinosis of both afferent and efferent arterioles (arteriolosclerosis)"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The nodular intercapillary glomerulosclerosis lesion virtually pathognomonic for long-standing Diabetes Mellitus is known as.",
+      "options": {
+        "A": "Aschoff nodules in the myocardial interstitium",
+        "B": "Heberden and Bouchard nodules",
+        "C": "Kimmelstiel-Wilson (KW) nodules (PAS-positive ovoid laminated mesangial nodules)",
+        "D": "Flea-bitten petechial subcapsular hemorrhages",
+        "E": "Wire-loop subendothelial lesions"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Post-Streptococcal Glomerulonephritis (PSGN) is classified immunologically as which type of hypersensitivity reaction?",
+      "options": {
+        "A": "Type I (IgE-mediated immediate anaphylactic hypersensitivity)",
+        "B": "Type II (Cytotoxic antibody-mediated against fixed tissue antigens)",
+        "C": "Type IV (Delayed T-cell-mediated cellular hypersensitivity)",
+        "D": "Type IlI (Immune complex-mediated, with circulating Ag-Ab complexes depositing in glomeruli",
+        "E": "Non-immunological pure toxic enzymatic necrosis"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "PSGN typically develops following infection with nephritogenic strains of Group A beta-hemolytic Streptococci after a latent period of:",
+      "options": {
+        "A": "1 to 2 hours following respiratory exposure",
+        "B": "Exactly 6 months to 1 year post-infection",
+        "C": "24 hours concurrently with active sore throat (synpharyngitic)",
+        "D": "Zero latent period (active streptococcal bacteremia inside capillaries)",
+        "E": "1 to 3 weeks after streptococcal pharyngitis (or 2 to 6 weeks after impetigo/skin pyoderma)"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which laboratory profile confirms the diagnosis of recent streptococcal infection and complement consumption in a child with acute PSGN?",
+      "options": {
+        "A": "High serum C3 and C4 with negative streptococcal serologies",
+        "B": "Marked hypercalcemia and elevated parathyroid hormone",
+        "C": "Positive c-ANCA and positive Anti-GBM antibodies [DJ Elevated ASO titers (after pharyngitis) or Anti-DNase B (after skin infection), and profoundly LOW serum C3 levels",
+        "E": "Normal urine sediment with zero red blood cells"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Light microscopy of renal biopsy in acute Post-Streptococcal Glomerulonephritis characteristically reveals:",
+      "options": {
+        "A": "Linear continuous subendothelial IgG deposits",
+        "B": "Large, discrete subepithelial electron-dense 'humps' (deposits) on the epithelial side of the GBM",
+        "C": "Pure intramembranous ribbon-like dense transformation",
+        "D": "Normal basement membrane with total podocyte loss",
+        "E": "Endothelial cell vacuolization without immune deposits"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 27 covering high-yield concepts in Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Immunofluorescence microscopy in acute Post-Streptococcal Glomerulonephritis typically shows which classic pattern?",
+      "options": {
+        "A": "Linear continuous ribbon of IgG along capillary loops",
+        "B": "Isolated mesangial lgA deposition",
+        "C": "Negative staining (pauci-immune pattern)",
+        "D": "Pure IgM staining confined to Bowman's capsule parietal wall",
+        "E": "Granular'starry-sky' (or lumpy-bumpy) deposition of IgG and C3 in the mesangium and along the GBM"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Histologically, the diagnostic 'Crescents' in RPGN are formed within Bowman's urinary space primarily by the proliferation of:",
+      "options": {
+        "A": "Podocyte pedicels and smooth muscle cells of the afferent arteriole",
+        "B": "Endothelial cells and circulating erythrocytes",
+        "C": "Proximal convoluted tubule brush border microvilli",
+        "D": "Parietal epithelial cells of Bowman's capsule and infiltrating monocytes/macrophages, mixed with fibrin strands",
+        "E": "Transitional epithelial cells from the ureter"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "In Type | RPGN (Anti-GBM Disease / Goodpasture Syndrome), Immunofluorescence microscopy reveals which diagnostic hallmark?",
+      "options": {
+        "A": "Linear, smooth, continuous deposition of IgG (and C3) along the entire glomerular basement membrane",
+        "B": "Granular'starry-sky' deposits of C3 and IgG along the mesangium",
+        "C": "Negative staining for all immunoglobulins (pauci-immune)",
+        "D": "Mesangial IgA clumping without capillary loop involvement",
+        "E": "Clumpy subepithelial deposits with spike formation"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Goodpasture Syndrome causes rapidly progressive GN and alveolar hemorrhage (hemoptysis) because:",
+      "options": {
+        "A": "Autoantibodies target NC1 of alpha-3 Type IV Collagen shared by GBM and alveoli",
+        "B": "Streptococcal pyrogenic toxins dissolve tracheal and ureteral cartilage",
+        "C": "High ADH levels cause water intoxication in lungs and kidneys",
+        "D": "Uric acid crystals embolize simultaneously to alveoli and glomeruli",
+        "E": "Both organs undergo acute hypertensive fibrinoid necrosis"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Type III RPGN (Pauci-Immune Crescentic GN) is characteristically distinguished by negative/scant immunofluorescence and high association with:",
+      "options": {
+        "A": "Anti-Streptolysin O titers > 1000 Todd units",
+        "B": "Hepatitis B surface antigenemia",
+        "C": "Elevated lgE levels and peripheral eosinophilia",
+        "D": "Anti-Neutrophil Cytoplasmic Antibodies (c-ANCA / PR3 or p-ANCA / MPO), associated with systemic vasculitis",
+        "E": "Positive blood cultures for Pseudomonas aeruginosa"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Membranoproliferative Glomerulonephritis (MPGN) characteristically shows which distinctive light microscopic appearance on silver stain?",
+      "options": {
+        "A": "'Tram-track' or 'double-contour' appearance caused by mesangial cell interposition splitting the capillary basement membrane",
+        "B": "Complete absence of basement membrane on all loops",
+        "C": "'Spike and dome' subepithelial projections",
+        "D": "Pure crescent formation without capillary wall alteration",
+        "E": "Onion-skin hyperplastic arteriolosclerosis"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In Type I| MPGN (Dense Deposit Disease), the primary pathogenetic defect is continuous alternative complement pathway activation driven by:",
+      "options": {
+        "A": "C3 Nephritic Factor (C3NeF), an autoantibody stabilizing C3 convertase (C3bBb) leading to profound hypocomplementemia",
+        "B": "Circulating immune complexes of Hepatitis C and IgG",
+        "C": "Anti-GBM antibodies targeting podocyte integrins",
+        "D": "Monoclonal lgA overproduction in intestinal Peyer patches",
+        "E": "Direct bacterial exotoxin destruction of the lamina densa"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "How does the timing of Gross Hematuria in IgA Nephropathy differ from PSGN?",
+      "options": {
+        "A": "lgA nephropathy develops 6 weeks post-impetigo; PSGN within 12 hours",
+        "B": "|gA nephropathy is synpharyngitic (during/1-2 days post-URI); PSGN is 1-3 weeks post-infection",
+        "C": "IgA nephropathy never produces hematuria, only pure glucosuria",
+        "D": "PSGN hematuria occurs exclusively during heavy exercise in hot weather",
+        "E": "Both conditions occur strictly 24 hours prior to viral inoculation"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Immunofluorescence microscopy in Berger's Disease (IgA Nephropathy) definitively demonstrates:",
+      "options": {
+        "A": "Diffuse linear capillary wall IgG deposition",
+        "B": "Granular mesangial deposition of IgA (often with C3) in the mesangial",
+        "C": "Negative immunofluorescence for all antibodies",
+        "D": "Pure subepithelial IgM deposits",
+        "E": "Heavy C1q staining in the parietal epithelium"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In Systemic Lupus Erythematosus (SLE), which histological class of Lupus Nephritis is the most common, most severe, and carries the worst prognosis?",
+      "options": {
+        "A": "Class I: Minimal mesangial lupus nephritis",
+        "B": "Class IV: Diffuse Proliferative Lupus Nephritis (showing wire-loop lesions, extensive subendothelial immune deposits, and crescents)",
+        "C": "Class II: Mesangial proliferative lupus nephritis",
+        "D": "Class III: Focal lupus nephritis",
+        "E": "Class V: Membranous lupus nephritis"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The classic 'Wire-Loop' lesion observed in diffuse proliferative Lupus Nephritis (Class IV) is morphologically caused by:",
+      "options": {
+        "A": "Massive subendothelial immune complex deposits between endothelial cells and the GBM, circumferentially thickening capillary walls",
+        "B": "Proliferation of myofibroblasts in the renal capsule",
+        "C": "Subepithelial humps protruding into the urinary space",
+        "D": "Calcification of the peritubular capillaries",
+        "E": "Hyalinization of the efferent arteriole in diabetes"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A 4-year-old boy has anasarca, normal BP and complement. Urinalysis: 4+ protein, oval fat bodies, no RBCs. LM: normal glomeruli; IF: negative. Diagnosis and EM finding:",
+      "options": {
+        "A": "Minimal Change Disease; diffuse effacement of podocyte foot processes",
+        "B": "Post-Streptococcal GN; subepithelial electron-dense humps",
+        "C": "Membranous Nephropathy; subepithelial spikes on silver stain",
+        "D": "Focal Segmental Glomerulosclerosis; segmental hyalinosis",
+        "E": "Alport Syndrome; splitting and basket-weave appearance of GBM"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 24-year-old male has hemoptysis, smoky urine, and rapid Cr rise to 5.2. Biopsy: crescents in 80% glomeruli; IF: linear IgG along capillary walls. Diagnosis:",
+      "options": {
+        "A": "Granulomatosis with Polyangiitis (Wegener, pauci-immune ANCA-positive)",
+        "B": "Post-Streptococcal Glomerulonephritis with nephrotic transformation",
+        "C": "lgA Nephropathy with secondary acute tubular necrosis",
+        "D": "Diabetic Kimmelstiel-Wilson nodular nephropathy",
+        "E": "Goodpasture Syndrome (Anti-GBM Antibody-mediated RPGN Type I)"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerulosclerosis**: IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,\n\n**HTN; hematuria**: denudation of GBM obesity; poor steroid response",
+      "masterclass_id": 20,
+      "masterclass_title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology"
+    }
+  ]
+}

@@ -1,0 +1,901 @@
+{
+  "items" : [
+    {
+      "conf" : 1,
+      "h" : 0.0087273899714152,
+      "x" : 0.09465020768175576,
+      "y" : 0.976747416136889,
+      "text" : "Twisted Medicine",
+      "w" : 0.1152263377447548
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.31893003580246926,
+      "y" : 0.9759722223088898,
+      "text" : "• Renal System Module • Lecture 25 MCQ Masterclass",
+      "w" : 0.3209876534324022
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.3353909563786004,
+      "y" : 0.9651162791666666,
+      "text" : "Twisted Medicine Medical Series • Urolithiasis, Calcium, Struvite, Uric Acid Stones & Hydronephrosis • Standard Practice Bank",
+      "w" : 0.5925925872610799
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010937421586778462,
+      "x" : 0.9290123452980061,
+      "y" : 0.976017441695159,
+      "text" : "Page 2 of 4",
+      "w" : 0.06812212002352347
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011627906163533597,
+      "x" : 0.23353908984053512,
+      "y" : 0.9404069766715116,
+      "text" : "Q15. [2025 Exam] Struvite (Infection) stones are chemically",
+      "w" : 0.38477366225524523
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011750645637512158,
+      "x" : 0.18724280200617277,
+      "y" : 0.9272642117673711,
+      "text" : "composed of which crystalloid combination?",
+      "w" : 0.2921810510023585
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723635,
+      "x" : 0.18415638217592584,
+      "y" : 0.9106782947630574,
+      "text" : "[A] Calcium oxalate monohydrate and dihydrate",
+      "w" : 0.2860082230477963
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.21913579804526767,
+      "y" : 0.8975290695978682,
+      "text" : "[B] Magnesium Ammonium Phosphate and carbonate apatite",
+      "w" : 0.36008230245338296
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.14711933886316877,
+      "y" : 0.8851744185683139,
+      "text" : "[C] Pure anhydrous uric acid crystals",
+      "w" : 0.2160493862703911
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.1244855987911522,
+      "y" : 0.8728197674963663,
+      "text" : "[D] Dibasic cystine polymers",
+      "w" : 0.16666666666666666
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.13168724588477357,
+      "y" : 0.8597383721656977,
+      "text" : "[E] Dihydroxyadenine and silica",
+      "w" : 0.18518517452216
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.238683122633745,
+      "y" : 0.8131944442420822,
+      "text" : "Q16. [2024 Exam] Which bacterial enzyme is essential for the",
+      "w" : 0.3950617088461822
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011673126220703156,
+      "x" : 0.2211934111454048,
+      "y" : 0.7994412144859491,
+      "text" : "pathogenesis and rapid growth of Struvite renal calculi?",
+      "w" : 0.36008230245338296
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.11111111286008225,
+      "y" : 0.783430232630814,
+      "text" : "[A] Bacterial gelatinase",
+      "w" : 0.13991769754661704
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.10905350027434835,
+      "y" : 0.7710755814680232,
+      "text" : "[B] Coagulase enzyme",
+      "w" : 0.13991768555071368
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01030361758338083,
+      "x" : 0.2479423816100824,
+      "y" : 0.7579295864779982,
+      "text" : "[C] Urease (splitting urea into ammonia and CO2, raising urine pH > 7.2)",
+      "w" : 0.4176954833216637
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.09259259437585728,
+      "y" : 0.7456395349321705,
+      "text" : "[D] Streptokinase",
+      "w" : 0.10699587648019851
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008746769693162681,
+      "x" : 0.09259259393004113,
+      "y" : 0.7325710595103597,
+      "text" : "[E] Hyaluronidase",
+      "w" : 0.1069958764801985
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011711886194017307,
+      "x" : 0.25823044543895773,
+      "y" : 0.6860885015946991,
+      "text" : "Q17. [2023 Exam] Which microorganism is most frequently isolated",
+      "w" : 0.434156357867163
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01173772546980123,
+      "x" : 0.2314814752057615,
+      "y" : 0.673020026126002,
+      "text" : "from patients with large infected Struvite staghorn calculi?",
+      "w" : 0.3806584196270637
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.18312757485596706,
+      "y" : 0.6562500000726744,
+      "text" : "[A] Escherichia coli (which lacks urease enzyme)",
+      "w" : 0.2839506137296089
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008888888888888835,
+      "x" : 0.10802469365569267,
+      "y" : 0.643888888850253,
+      "text" : "[B] Candida albicans",
+      "w" : 0.13786007623252627
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.12654321279149508,
+      "y" : 0.6301388889862061,
+      "text" : "[C, Streptococcus pyogenes",
+      "w" : 0.1748971159353196
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.1244855987911522,
+      "y" : 0.6184722220543164,
+      "text" : "[D] Enterobius vermicularis",
+      "w" : 0.16666666666666666
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.16563786430041139,
+      "y" : 0.6054166664929136,
+      "text" : "[E] Proteus mirabilis (and Proteus vulgaris)",
+      "w" : 0.2530864019813778
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011627906163533486,
+      "x" : 0.7129629562757205,
+      "y" : 0.9404069766957364,
+      "text" : "Q22. [2023 Exam] What is the primary medical therapy used to",
+      "w" : 0.40123456079255115
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01175064563751227,
+      "x" : 0.7355967130401233,
+      "y" : 0.9272642118037083,
+      "text" : "dissolve existing pure uric acid stones and prevent their recurrence?",
+      "w" : 0.44238684312352594
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723635,
+      "x" : 0.6543209829218108,
+      "y" : 0.9106782946479897,
+      "text" : "[A] Urine acidification using ammonium chloride",
+      "w" : 0.28395061372960895
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6337448600137172,
+      "y" : 0.8975290698885658,
+      "text" : "[B] High-dose intravenous loop diuretics",
+      "w" : 0.2427983553904408
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01175064563751227,
+      "x" : 0.7211934110768177,
+      "y" : 0.8852357885354389,
+      "text" : "[C] Urinary Alkalinization (oral Potassium Citrate or NaHCO3 to maintain",
+      "w" : 0.4218107019580385
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011711886194017196,
+      "x" : 0.6080246895404664,
+      "y" : 0.8735885014493503,
+      "text" : "urine pH 6.5-7.0) plus hydration",
+      "w" : 0.19135801447262557
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01028423786163335,
+      "x" : 0.6646090573045267,
+      "y" : 0.861246770172756,
+      "text" : "[D] Long-term ascorbic acid (vitamin C) mega-doses",
+      "w" : 0.30452673090328963
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723624,
+      "x" : 0.6543209912037036,
+      "y" : 0.8481782947267202,
+      "text" : "[E] Strict limitation of dietary water consumption",
+      "w" : 0.28395061372960895
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.7314814887174208,
+      "y" : 0.8131944443692624,
+      "text" : "Q23. [2021 Exam] Cystinuria is an autosomal recessive inborn error",
+      "w" : 0.4341563578671629
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011673126220703156,
+      "x" : 0.7325102861454047,
+      "y" : 0.7994412144859491,
+      "text" : "of metabolism caused by defective proximal tubular reabsorption of",
+      "w" : 0.44032920981353174
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011698966026306157,
+      "x" : 0.6080246945473249,
+      "y" : 0.7863727393790607,
+      "text" : "which group of amino acids?",
+      "w" : 0.19135801447262557
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011718346277872715,
+      "x" : 0.6975308679698217,
+      "y" : 0.7703036173459312,
+      "text" : "[A] Aromatic amino acids (Phenylalanine, Tyrosine, Tryptophan)",
+      "w" : 0.37037034904432
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01030361758338083,
+      "x" : 0.6882716070987653,
+      "y" : 0.7579295867020777,
+      "text" : "[B] Branched-chain amino acids (Leucine, Isoleucine, Valine)",
+      "w" : 0.35185184118882673
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6460905316358025,
+      "y" : 0.7448611110319626,
+      "text" : "[C] Acidic amino acids (Aspartate, Glutamate)",
+      "w" : 0.2674897151923029
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.7242798406893003,
+      "y" : 0.73180555559774,
+      "text" : "[D] Dibasic amino acids represented by 'COLA' (Cystine, Ornithine, Lysine,",
+      "w" : 0.42386828728441917
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.541152264266118,
+      "y" : 0.7194767442829457,
+      "text" : "Arginine)",
+      "w" : 0.053497938240099185
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00873385005527072,
+      "x" : 0.6378600780521263,
+      "y" : 0.7078552972447082,
+      "text" : "[E] Neutral amino acids mediated by B0AT1",
+      "w" : 0.25514403529137186
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011711885664198007,
+      "x" : 0.7016460952674897,
+      "y" : 0.6860885014509137,
+      "text" : "Q24. [2025 Exam] What is the pathognomonic microscopic",
+      "w" : 0.3786008103088764
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.7057613233196157,
+      "y" : 0.6722383722141474,
+      "text" : "appearance of Cystine crystals observed in urine sediment?",
+      "w" : 0.38683127157343256
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6080246945473249,
+      "y" : 0.6562500000726744,
+      "text" : "[A] Coffin-lid rectangular prisms",
+      "w" : 0.19135801447262557
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6255144070644717,
+      "y" : 0.6431944445294403,
+      "text" : "[B] Octahedral bipyramidal envelopes",
+      "w" : 0.22633743286132812
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6275720179012346,
+      "y" : 0.630138888743958,
+      "text" : "[C] Needle-shaped birefringent spears",
+      "w" : 0.23045267548950954
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011692506472269715,
+      "x" : 0.6502057622085048,
+      "y" : 0.6177648581001046,
+      "text" : "[D] Amorphous phosphate granular aggregates",
+      "w" : 0.27572015246505255
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.7150205693072704,
+      "y" : 0.6054166669258335,
+      "text" : "[E] Perfect Hexagonal (six-sided) flat plates resembling benzene rings",
+      "w" : 0.4094649980653008
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.25102881183127557,
+      "y" : 0.5588662791606105,
+      "text" : "Q18. [2022 Exam] What is the characteristic gross morphological",
+      "w" : 0.41975306864804446
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011705426110161676,
+      "x" : 0.2613168797668036,
+      "y" : 0.5450193796584689,
+      "text" : "architecture formed by Struvite infection stones occupying the renal",
+      "w" : 0.44032920981353185
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01029069794548887,
+      "x" : 0.10596708034979414,
+      "y" : 0.5326453487981555,
+      "text" : "pelvis and calyces?",
+      "w" : 0.1296296269638733
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.18312757674897107,
+      "y" : 0.5167151163517443,
+      "text" : "[A] Jackstone calculi with sharp outward spikes",
+      "w" : 0.2839506137296089
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.1882716099108366,
+      "y" : 0.503633721002907,
+      "text" : "[B] Multiple small, smooth, faceted yellow pebbles",
+      "w" : 0.2983539029487274
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.18827160866769538,
+      "y" : 0.4905523256722384,
+      "text" : "[C] Concentric laminated mulberry-shaped stones",
+      "w" : 0.29835390294872743
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.2109053554526747,
+      "y" : 0.47747093030523263,
+      "text" : "[D] Soft, gelatinous fibrinous casts resembling blood clots",
+      "w" : 0.3395061612878955
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723624,
+      "x" : 0.238683122633745,
+      "y" : 0.46432170527327976,
+      "text" : "[E] Large branching 'Staghorn' (Dendritic) calculus casting the entire",
+      "w" : 0.3950617088461822
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.10390946711248278,
+      "y" : 0.4520348838178295,
+      "text" : "pelvicalyceal system",
+      "w" : 0.12551439633159517
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011666666666666714,
+      "x" : 0.25102881183127557,
+      "y" : 0.431666666898892,
+      "text" : "Q19. [2021 Exam] What is the classic microscopic appearance of",
+      "w" : 0.41975306864804446
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011666666666666714,
+      "x" : 0.21604937935528135,
+      "y" : 0.4186111110528479,
+      "text" : "Struvite crystals examined in alkaline urine sediment?",
+      "w" : 0.34979423187063924
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723635,
+      "x" : 0.16358024997427975,
+      "y" : 0.40182170541862866,
+      "text" : "[A] Bipyramidal envelope-shaped crystals",
+      "w" : 0.24485596470862817
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011737725469801119,
+      "x" : 0.16460905473251025,
+      "y" : 0.3894799738739981,
+      "text" : "[B] Hexagonal benzene-ring shaped plates",
+      "w" : 0.25102879266319034
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.15946502451989014,
+      "y" : 0.377180232630814,
+      "text" : "[C] Rhomboid radiolucent yellow plates",
+      "w" : 0.23662550344407185
+    },
+    {
+      "conf" : 1,
+      "h" : 0.0102971574995252,
+      "x" : 0.23045266851851876,
+      "y" : 0.36403746766454814,
+      "text" : "[D] Rectangular prisms resembling 'Coffin-Lids' (triple phosphate)",
+      "w" : 0.3827160289452511
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01188420931498213,
+      "x" : 0.20472540243988177,
+      "y" : 0.3502479805303627,
+      "text" : "[E] Needle-like crystals with strong positive birefringence",
+      "w" : 0.3355394999186198
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.7325102935699588,
+      "y" : 0.5588662791242733,
+      "text" : "Q25. [Faculty Exam] Which qualitative screening test detects urinary",
+      "w" : 0.44032920981353185
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011705425580342599,
+      "x" : 0.7026748912551443,
+      "y" : 0.5450193796326808,
+      "text" : "cystine by turning a characteristic cherry-red\/purple color?",
+      "w" : 0.3806584196270637
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010290697415669792,
+      "x" : 0.5977366283607681,
+      "y" : 0.5298546511307335,
+      "text" : "[A] Heat and acetic acid test",
+      "w" : 0.1707818853030415
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6131687268004116,
+      "y" : 0.5167151163699129,
+      "text" : "[B] Ehrlich's aldehyde reagent test",
+      "w" : 0.20164609705127257
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6141975274005489,
+      "y" : 0.5036337209060078,
+      "text" : "[C] Sulfosalicylic acid turbidity test",
+      "w" : 0.20781892500583476
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6666666697530863,
+      "y" : 0.49055232565406975,
+      "text" : "[D] Sodium Cyanide-Nitroprusside Test (Brand's test)",
+      "w" : 0.30864197353147094
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.6491769501028807,
+      "y" : 0.4774709302083334,
+      "text" : "[E] Rothera's nitroprusside ring test for ketones",
+      "w" : 0.27777776178324
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011666666666666603,
+      "x" : 0.7211934086762692,
+      "y" : 0.4316666667414308,
+      "text" : "Q26. 2022 Exam] What is the radiological appearance of Cystine",
+      "w" : 0.4176954353380503
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01309431499905056,
+      "x" : 0.6707818969650206,
+      "y" : 0.41932493539216187,
+      "text" : "calculi on non-contrast abdominal radiographs?",
+      "w" : 0.3168724108042208
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011763565805223308,
+      "x" : 0.6851851904663921,
+      "y" : 0.40254844944272095,
+      "text" : "[A] Completely radiolucent indistinguishable from uric acid",
+      "w" : 0.3415637706060829
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011737725999620308,
+      "x" : 0.6820987710219477,
+      "y" : 0.38947997389978606,
+      "text" : "[B] Extremely dense radio-opaque matching cortical bone",
+      "w" : 0.3353909426515207
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.7263374414266122,
+      "y" : 0.377180232485465,
+      "text" : "[C] Faintly Radio-Opaque (ground-glass appearance due to sulfur content)",
+      "w" : 0.42798350592079404
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010297157499525311,
+      "x" : 0.6594650254801095,
+      "y" : 0.36403746780989704,
+      "text" : "[D] Completely invisible on non-contrast CT scans",
+      "w" : 0.29423868431235267
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6471193383487654,
+      "y" : 0.3509722224602947,
+      "text" : "[E] Surrounded by a thick rim of radiolucent air",
+      "w" : 0.2736625431468652
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011692505942450637,
+      "x" : 0.2644032883744857,
+      "y" : 0.3052648582227918,
+      "text" : "Q20. [2020 Exam] Why do Uric Acid calculi form almost exclusively in",
+      "w" : 0.4465020617599007
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.15637860312757196,
+      "y" : 0.2914244186773255,
+      "text" : "persistently acidic urine (pH < 5.5)?",
+      "w" : 0.23045267548950962
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.20884774221536334,
+      "y" : 0.2754166668625548,
+      "text" : "[A] Acidic pH converts uric acid into soluble sodium urate",
+      "w" : 0.33539094265152075
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.24074073401920462,
+      "y" : 0.2623611112224214,
+      "text" : "[B] At urine pH < 5.35 (pKa of uric acid), insoluble un-ionized uric acid",
+      "w" : 0.4032921461189318
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.13271605243484216,
+      "y" : 0.2506944443692623,
+      "text" : "predominates and precipitates",
+      "w" : 0.18312756520397258
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.21810698991769567,
+      "y" : 0.23763888872912897,
+      "text" : "[C] Uric acid is destroyed by gastric hydrochloric acid in urine",
+      "w" : 0.3580246691433889
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008888888623979407,
+      "x" : 0.21193415210905361,
+      "y" : 0.2252777778313973,
+      "text" : "[D] Acidic urine activates bacterial urease to form uric acid",
+      "w" : 0.34156377060608295
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.20061727991255154,
+      "y" : 0.21291666673537468,
+      "text" : "[E] Alkaline urine inhibits uric acid excretion completely",
+      "w" : 0.3230452627505896
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.25925926471193406,
+      "y" : 0.1780523256359013,
+      "text" : "Q21. [2024 Exam] What is the defining radiological hallmark of pure",
+      "w" : 0.4362139911771571
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011724805831909157,
+      "x" : 0.21707818618827165,
+      "y" : 0.16419573635767265,
+      "text" : "Uric Acid stones on plain abdominal KUB radiography?",
+      "w" : 0.3518518411888267
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.19238682616598093,
+      "y" : 0.14752906974321706,
+      "text" : "[A] Densely radio-opaque with peripheral calcific rim",
+      "w" : 0.30658434022147696
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01175064563751227,
+      "x" : 0.18209876087105636,
+      "y" : 0.13523578853543894,
+      "text" : "[B] Ring shadow sign with double-contour edges",
+      "w" : 0.28189300441142146
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.22736625985082293,
+      "y" : 0.1228197674963662,
+      "text" : "[C] Completely Radiolucent (invisible on plain KUB, but visible on",
+      "w" : 0.3765432009906889
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01028423786163335,
+      "x" : 0.13786008472222216,
+      "y" : 0.11124677017275592,
+      "text" : "non-contrast CT and ultrasound)",
+      "w" : 0.19341563578671628
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723635,
+      "x" : 0.17798354372427966,
+      "y" : 0.09817829474488865,
+      "text" : "[D] Multiple radiopaque central laminated rings",
+      "w" : 0.27777776178324
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.16975309084362125,
+      "y" : 0.08502906984011627,
+      "text" : "[E] Extensive gas shadows filling the calyces",
+      "w" : 0.2654320818823088
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011692505942450637,
+      "x" : 0.7160493770919069,
+      "y" : 0.3052648582227918,
+      "text" : "Q27. [Core Exam] What is the ranking order of urinary calculi by",
+      "w" : 0.41152263137529466
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011718345748053638,
+      "x" : 0.7345679084362138,
+      "y" : 0.2921963827767561,
+      "text" : "overall radiological density (from most radio-opaque to radiolucent)?",
+      "w" : 0.4444444284499066
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.6687242851165979,
+      "y" : 0.2754166668625548,
+      "text" : "[A] Uric acid > Cystine > Struvite > Calcium phosphate",
+      "w" : 0.3168724108042207
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.7263374431584363,
+      "y" : 0.2623611111921405,
+      "text" : "[B] Calcium phosphate > Calcium oxalate > Struvite > Cystine (faint) > Uric",
+      "w" : 0.4320987725407821
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.5648148135030864,
+      "y" : 0.2506944442057449,
+      "text" : "acid (radiolucent)",
+      "w" : 0.10493826716201105
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008888889153798485,
+      "x" : 0.6594650242541151,
+      "y" : 0.23833333325507106,
+      "text" : "[C] Struvite > Calcium oxalate > Uric acid > Cystine",
+      "w" : 0.29423868431235267
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008888889153798374,
+      "x" : 0.6687242851165979,
+      "y" : 0.2252777777360615,
+      "text" : "[D] Cystine > Uric acid > Calcium phosphate > Struvite",
+      "w" : 0.3168724108042207
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.6923868252057616,
+      "y" : 0.21291666671720605,
+      "text" : "[E] Uric acid > Calcium oxalate > Struvite > Calcium phosphate",
+      "w" : 0.36419752108975767
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.7170781944701645,
+      "y" : 0.1780523256359013,
+      "text" : "Q28. [Core Exam] Which rare urinary calculus is associated with",
+      "w" : 0.41358021670167555
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011724805831909269,
+      "x" : 0.7325102954046638,
+      "y" : 0.16419573630922313,
+      "text" : "Lesch-Nyhan syndrome or severe allopurinol therapy in tumor lysis?",
+      "w" : 0.44032920981353196
+    },
+    {
+      "conf" : 1,
+      "h" : 0.0087273899714152,
+      "x" : 0.6039094681412893,
+      "y" : 0.14825258396001012,
+      "text" : "[A] Calcium carbonate calculus",
+      "w" : 0.1872427958362508
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.5658436232510287,
+      "y" : 0.13517441870155045,
+      "text" : "[B] Bilirubin stone",
+      "w" : 0.11111110711247663
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.60802469375,
+      "y" : 0.1228197674963662,
+      "text" : "[C] Magnesium phosphate stone",
+      "w" : 0.19135801447262557
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.5823045291495198,
+      "y" : 0.11046511632751932,
+      "text" : "[D] Cholesterol calculus",
+      "w" : 0.14403291618299185
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.7016460969135802,
+      "y" : 0.09665697681686047,
+      "text" : "[E] Xanthine stone (due to xanthine oxidase deficiency\/inhibition)",
+      "w" : 0.38271602894525114
+    },
+    {
+      "conf" : 1,
+      "h" : 0.021802325778537357,
+      "x" : 0.2962963003600822,
+      "y" : 0.015261628179505826,
+      "text" : "Twisted Medicine • Renal Pathology Master Class • Strictly Grounded in Faculty & Board Exam P3a4 apers",
+      "w" : 0.5185185078554932
+    },
+    {
+      "conf" : 1,
+      "h" : 0.007280361652374334,
+      "x" : 0.8765432099781845,
+      "y" : 0.021082041342371627,
+      "text" : "Confidential Student Revision Bank",
+      "w" : 0.1728395066171322
+    }
+  ],
+  "page" : 96
+}

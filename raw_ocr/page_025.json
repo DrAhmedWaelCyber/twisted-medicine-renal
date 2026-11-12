@@ -1,0 +1,965 @@
+{
+  "items" : [
+    {
+      "x" : 0.27983539917695444,
+      "y" : 0.9774224804225952,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 6 MCQ Masterclass",
+      "h" : 0.013178294499715193,
+      "w" : 0.49382714805363104,
+      "conf" : 1
+    },
+    {
+      "x" : 0.34773661764403313,
+      "y" : 0.9651162789970931,
+      "text" : "Twisted Medicine Medical Series • Renal Stroma, Cortex, Medulla, Nephron & Tubules • Standard Board Practice Bank",
+      "h" : 0.00872092988755968,
+      "w" : 0.6296296029720667,
+      "conf" : 1
+    },
+    {
+      "x" : 0.9341563774367854,
+      "y" : 0.9760174417736266,
+      "text" : "Page 3 of 4",
+      "h" : 0.011023411220974388,
+      "w" : 0.07019636765965875,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22736625899176946,
+      "y" : 0.9440277775793819,
+      "text" : "Q29. [2025 Exam] The Proximal Convoluted Tubule (PCT) is",
+      "h" : 0.010277777777777719,
+      "w" : 0.38477366225524523,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18930041316872423,
+      "y" : 0.9302648581001045,
+      "text" : "histologically lined by which type of epithelium?",
+      "h" : 0.011692506472269715,
+      "w" : 0.3086419735314711,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18106996378600806,
+      "y" : 0.9149709303052325,
+      "text" : "[A] Stratified cuboidal epithelium with goblet cells",
+      "h" : 0.010174418555365716,
+      "w" : 0.29629629363054,
+      "conf" : 1
+    },
+    {
+      "x" : 0.17489712407407393,
+      "y" : 0.9048546511307334,
+      "text" : "[B] Simple columnar epithelium with motile cilia",
+      "h" : 0.01029069741566968,
+      "w" : 0.2839506137296089,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18518519026063082,
+      "y" : 0.8931944444809906,
+      "text" : "[C] Transitional epithelium with facet umbrella cells",
+      "h" : 0.01027777777777783,
+      "w" : 0.3045267309032896,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18106996378600806,
+      "y" : 0.8808333333070189,
+      "text" : "[D] Simple squamous epithelium without microvilli",
+      "h" : 0.008888888888888835,
+      "w" : 0.29629629363054,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24382716576646074,
+      "y" : 0.8691666667301,
+      "text" : "[E] Simple cuboidal epithelium with an extensive apical microvillar Brush",
+      "h" : 0.008888888623979296,
+      "w" : 0.4218107019580385,
+      "conf" : 1
+    },
+    {
+      "x" : 0.05658436286008228,
+      "y" : 0.857558139631783,
+      "text" : "Border",
+      "h" : 0.00872092988755968,
+      "w" : 0.043209873655307214,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7242798396296295,
+      "y" : 0.9440277775503122,
+      "text" : "Q36. [2024 Exam] The cells of the Macula Densa are histologically",
+      "h" : 0.01027777777777783,
+      "w" : 0.4238682872844193,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6635802520233194,
+      "y" : 0.9302648581258927,
+      "text" : "characterized under light microscopy as being:",
+      "h" : 0.011692505942450637,
+      "w" : 0.30658434022147696,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7304526674897122,
+      "y" : 0.9149709302083333,
+      "text" : "[A] Taller, narrower, and crowded with closely packed hyperchromatic nuclei",
+      "h" : 0.010174418555365605,
+      "w" : 0.4444444284499067,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6882715989369,
+      "y" : 0.9041279070884725,
+      "text" : "[B] Ciliated columnar cells with prominent apical mucus caps",
+      "h" : 0.011744185553656639,
+      "w" : 0.360082302453383,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6738683168981481,
+      "y" : 0.8924806205111048,
+      "text" : "[C] Large foamy cells filled with renin secretory granules",
+      "h" : 0.011705426110161676,
+      "w" : 0.33127570002333917,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6409465064814812,
+      "y" : 0.8808333333070189,
+      "text" : "[D] Multinucleated osteoclast-like giant cells",
+      "h" : 0.011666666666666603,
+      "w" : 0.26543208188230893,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6666666706275719,
+      "y" : 0.8698611111409742,
+      "text" : "[E] Flattened endothelial cells with open fenestrations",
+      "h" : 0.01027777777777783,
+      "w" : 0.3168724108042207,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24794238329903992,
+      "y" : 0.8358042639814747,
+      "text" : "Q30. [2024 Exam] In routine H&E; sections of the renal cortex, why",
+      "h" : 0.011724805831909157,
+      "w" : 0.42592592059441337,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2572016505349793,
+      "y" : 0.821947674491279,
+      "text" : "does the cytoplasm of PCT epithelial cells stain intensely Acidophilic",
+      "h" : 0.010174418555365605,
+      "w" : 0.4444444284499066,
+      "conf" : 1
+    },
+    {
+      "x" : 0.10493827340534972,
+      "y" : 0.8088662791606105,
+      "text" : "(Eosinophilic \/ Pink)?",
+      "h" : 0.010174418555365605,
+      "w" : 0.14403291618299183,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20267489287551452,
+      "y" : 0.7943055554887284,
+      "text" : "[A] Presence of mucin droplets awaiting apical exocytosis",
+      "h" : 0.010277777777777719,
+      "w" : 0.3395061612878955,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24279834866255165,
+      "y" : 0.7826453488874352,
+      "text" : "[B] Dense accumulation of rough endoplasmic reticulum and ribosomes",
+      "h" : 0.010290697415669792,
+      "w" : 0.4197530686480445,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21707819543895726,
+      "y" : 0.7710755814680232,
+      "text" : "[C] High concentration of glycogen granules and lipid vacuoles",
+      "h" : 0.010174418555365605,
+      "w" : 0.3683127397261326,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25514404032921784,
+      "y" : 0.759447674491279,
+      "text" : "[D] Abundance of vertically oriented, elongated basal mitochondria (Na+\/K+",
+      "h" : 0.010174418555365605,
+      "w" : 0.44444442844990667,
+      "conf" : 1
+    },
+    {
+      "x" : 0.06069958814300412,
+      "y" : 0.7478197675690408,
+      "text" : "ATPase)",
+      "h" : 0.010174418555365716,
+      "w" : 0.05144032892191185,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.73456789739369,
+      "y" : 0.8358042639814747,
+      "text" : "Q37. [2023 Exam] Collecting Ducts in the cortex and medulla are lined",
+      "h" : 0.011724805831909157,
+      "w" : 0.4485596470862814,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7201646048559671,
+      "y" : 0.821947674375,
+      "text" : "by simple cuboidal-to-columnar epithelium and characteristically",
+      "h" : 0.010174418555365716,
+      "w" : 0.4197530686480445,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6800411579218105,
+      "y" : 0.7943055556159087,
+      "text" : "[A] An extensive apical brush border identical to PCT cells",
+      "h" : 0.010277777777777719,
+      "w" : 0.33950616128789557,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7160493878600822,
+      "y" : 0.7826453487315372,
+      "text" : "[B] Clear prominent lateral cell boundaries and pale-staining cytoplasm",
+      "h" : 0.01029069794548887,
+      "w" : 0.4115226313752949,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6347736667695472,
+      "y" : 0.7710755814680232,
+      "text" : "[C] A stratified squamous keratinized layer",
+      "h" : 0.010174418555365605,
+      "w" : 0.25308640198137766,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7129629697873798,
+      "y" : 0.7594476744428295,
+      "text" : "[D] Indistinct lateral boundaries and intense dark eosinophilic staining",
+      "h" : 0.010174418555365605,
+      "w" : 0.4094649980653008,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7119341614711934,
+      "y" : 0.7478197674963663,
+      "text" : "[E] Numerous lipid droplets giving the duct a foamy black appearance",
+      "h" : 0.010174418555365605,
+      "w" : 0.40740741273892,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18209876176268872,
+      "y" : 0.7355200260033147,
+      "text" : "[E] High content of melanin pigment and lipofuscin",
+      "h" : 0.011737725999620308,
+      "w" : 0.2983539029487274,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2561728386059671,
+      "y" : 0.7136272606209393,
+      "text" : "Q31. [2023 Exam] In histological cross-sections of the cortex, lateral",
+      "h" : 0.011698966026306046,
+      "w" : 0.442386843123526,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2479423796639234,
+      "y" : 0.6998611111739718,
+      "text" : "cell boundaries between adjacent PCT cells are typically indistinct",
+      "h" : 0.01027777777777783,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "x" : 0.15020576522633733,
+      "y" : 0.686805555294717,
+      "text" : "under light microscopy because of:",
+      "h" : 0.010277777777777719,
+      "w" : 0.2345678941258844,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2582304470421811,
+      "y" : 0.6722383720385174,
+      "text" : "[A] Extensive lateral interdigitating processes and plications with neighboring",
+      "h" : 0.010174418555365605,
+      "w" : 0.45061728039627547,
+      "conf" : 1
+    },
+    {
+      "x" : 0.049382716598079544,
+      "y" : 0.6613372093507751,
+      "text" : "cells",
+      "h" : 0.00872092988755968,
+      "w" : 0.03292180907051519,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2160493781378602,
+      "y" : 0.6490277776123796,
+      "text" : "[B] Continuous desmosomes spanning the entire lateral height",
+      "h" : 0.010277777777777719,
+      "w" : 0.36625513040794516,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1944444484825102,
+      "y" : 0.6373611113374893,
+      "text" : "[C] Degeneration of cell membranes by fixation artifact",
+      "h" : 0.010277777777777719,
+      "w" : 0.32304526275058965,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24279834866255165,
+      "y" : 0.6256944442420821,
+      "text" : "[D] Complete absence of plasma membranes between cells (syncytium)",
+      "h" : 0.01027777777777783,
+      "w" : 0.4197530686480445,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18415638364197517,
+      "y" : 0.6147642117068092,
+      "text" : "[E] High lipid content dissolving lateral membranes",
+      "h" : 0.01175064563751227,
+      "w" : 0.3024691215851022,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7366255068587108,
+      "y" : 0.7136272607178384,
+      "text" : "Q38. [2022 Exam] The Principal (Light) Cells of collecting ducts, which",
+      "h" : 0.011698966026306157,
+      "w" : 0.45267486572265625,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7078189338820302,
+      "y" : 0.7005587855140508,
+      "text" : "reabsorb Nat and water under ADH control, are histologically",
+      "h" : 0.011673126220703045,
+      "w" : 0.3950617088461822,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5596707831790124,
+      "y" : 0.6868055557942551,
+      "text" : "recognized by:",
+      "h" : 0.01027777777777783,
+      "w" : 0.10288065784382372,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6923868266718107,
+      "y" : 0.6722383720385174,
+      "text" : "[A] Numerous phagocytic vacuoles containing carbon particles",
+      "h" : 0.010174418555365605,
+      "w" : 0.36831273972613254,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7314814888545952,
+      "y" : 0.6606782947448888,
+      "text" : "[B] Pale cytoplasm, central round nucleus, and a single apical primary cilium",
+      "h" : 0.01031007766723624,
+      "w" : 0.4423867951399125,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7088477341220851,
+      "y" : 0.6497222222994941,
+      "text" : "[C] Abundant dark apical microvilli and dense mitochondrial clusters",
+      "h" : 0.011666666666666714,
+      "w" : 0.39711931816436963,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7006172887088475,
+      "y" : 0.637361111301152,
+      "text" : "[D] Intense basophilia due to dense rough endoplasmic reticulum",
+      "h" : 0.01027777777777783,
+      "w" : 0.3806584196270638,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6820987697788065,
+      "y" : 0.6256944443510938,
+      "text" : "[E] Presence of myofilaments and spontaneous rhythmicity",
+      "h" : 0.01027777777777783,
+      "w" : 0.34773662255245186,
+      "conf" : 1
+    },
+    {
+      "x" : 0.248971198765432,
+      "y" : 0.5923546511489021,
+      "text" : "Q32. [2022 Exam] Why does the lumen of the Proximal Convoluted",
+      "h" : 0.010290697415669792,
+      "w" : 0.42798350592079404,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24074074485596705,
+      "y" : 0.5792151163517442,
+      "text" : "Tubule appear relatively small and often irregular or occluded in",
+      "h" : 0.010174418555365827,
+      "w" : 0.41152263137529477,
+      "conf" : 1
+    },
+    {
+      "x" : 0.13683127609739365,
+      "y" : 0.5654069765503876,
+      "text" : "standard histological sections?",
+      "h" : 0.011627906163533597,
+      "w" : 0.20370370636945997,
+      "conf" : 1
+    },
+    {
+      "x" : 0.248971186213992,
+      "y" : 0.551537467664548,
+      "text" : "[A] Tall microvillar brush border and tendency of apical cytoplasm to swell",
+      "h" : 0.0102971574995252,
+      "w" : 0.4320987725407822,
+      "conf" : 1
+    },
+    {
+      "x" : 0.07510288199588472,
+      "y" : 0.5392441860949613,
+      "text" : "post-mortem",
+      "h" : 0.00872092988755968,
+      "w" : 0.08024691335810055,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18312757702331944,
+      "y" : 0.5268217054489097,
+      "text" : "[B] Presence of valves similar to lymphatic vessels",
+      "h" : 0.01031007766723635,
+      "w" : 0.3004115122669148,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2520576201303152,
+      "y" : 0.5159883722868216,
+      "text" : "[C] Active contraction of longitudinal smooth muscle fibers in the PCT wall",
+      "h" : 0.011627906163533597,
+      "w" : 0.4382715765035377,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22119342191358005,
+      "y" : 0.503633721002907,
+      "text" : "[D] Precipitation of Tamm-Horsfall protein forming hyaline casts",
+      "h" : 0.010174418555365605,
+      "w" : 0.3765432009906889,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20370370939643326,
+      "y" : 0.4934722219876982,
+      "text" : "[E] Extravasation of red blood cells into the tubular lumen",
+      "h" : 0.010277777777777719,
+      "w" : 0.3415637706060829,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7211934226680381,
+      "y" : 0.5923546511307335,
+      "text" : "Q39. [2021 Exam] Intercalated (Dark) Cells in collecting ducts are",
+      "h" : 0.010290697415669792,
+      "w" : 0.4218107019580385,
+      "conf" : 1
+    },
+    {
+      "x" : 0.696502052957819,
+      "y" : 0.5792151161882267,
+      "text" : "specialized for acid-base regulation and are histologically",
+      "h" : 0.010174418555365827,
+      "w" : 0.37242798235431396,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5679012360082304,
+      "y" : 0.5654069768168605,
+      "text" : "characterized by:",
+      "h" : 0.00872092988755968,
+      "w" : 0.11522633774475488,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6872428042524004,
+      "y" : 0.5515374677614473,
+      "text" : "[A] Secretion of erythropoietin directly into the tubular lumen",
+      "h" : 0.010297157499525311,
+      "w" : 0.35390945050701406,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7242798281893006,
+      "y" : 0.5392474160399898,
+      "text" : "[B] Abundant mitochondria and apical microplicae\/microvilli (H+ or HCO3-",
+      "h" : 0.0087273899714152,
+      "w" : 0.4320987725407822,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5401234575860965,
+      "y" : 0.5276162791494949,
+      "text" : "transport)",
+      "h" : 0.009284954071044904,
+      "w" : 0.06393572369461531,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6790123399862829,
+      "y" : 0.5167151162063954,
+      "text" : "[C] Synthesis of surfactant-like lipids on the apical surface",
+      "h" : 0.010174418555365716,
+      "w" : 0.3415637706060831,
+      "conf" : 1
+    },
+    {
+      "x" : 0.674897124828532,
+      "y" : 0.5044121450408443,
+      "text" : "[D] Formation of tight water-impermeable keratin plates",
+      "h" : 0.011731265915764677,
+      "w" : 0.32921809070515184,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7078189271090536,
+      "y" : 0.49276485817434224,
+      "text" : "[E] Absence of mitochondria and complete lack of organelle content",
+      "h" : 0.011692505942450637,
+      "w" : 0.3991769514743636,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26440329982853206,
+      "y" : 0.47014534874970587,
+      "text" : "Q33. [2021 Exam] The Distal Convoluted Tubule (DCT) is histologically",
+      "h" : 0.010290697945488758,
+      "w" : 0.4588477176690252,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7067901205418383,
+      "y" : 0.47087209279196685,
+      "text" : "Q40. [2020 Exam] The large terminal Collecting Ducts of Bellini",
+      "h" : 0.011744186083475716,
+      "w" : 0.4218107019580385,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2345679062242797,
+      "y" : 0.45708333310444754,
+      "text" : "distinguished from the PCT under light microscopy by having:",
+      "h" : 0.010277777777777719,
+      "w" : 0.39917695147436366,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6923868373456787,
+      "y" : 0.4570833331226162,
+      "text" : "emptying at the renal papilla Area Cribrosa are lined by:",
+      "h" : 0.01027777777777783,
+      "w" : 0.3641975210897578,
+      "conf" : 1
+    },
+    {
+      "x" : 0.17592592115912226,
+      "y" : 0.4426388888893068,
+      "text" : "[A] Stratified squamous lining with keratin flakes",
+      "h" : 0.01027777777777783,
+      "w" : 0.2860082230477963,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6820987697273662,
+      "y" : 0.44263888896803744,
+      "text" : "[A] Tall simple columnar pale cells with wide patent lumina",
+      "h" : 0.010277777777777719,
+      "w" : 0.34362137992427033,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22119342191358005,
+      "y" : 0.4309722220361478,
+      "text" : "[B] Taller columnar cells with a dense PAS-positive brush border",
+      "h" : 0.01027777777777783,
+      "w" : 0.3765432009906889,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6358024733196157,
+      "y" : 0.4309722220361478,
+      "text" : "[B] Dense irregular fibrocollagenous tissue",
+      "h" : 0.01027777777777783,
+      "w" : 0.25102879266319034,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1893004167352536,
+      "y" : 0.4193055556159086,
+      "text" : "[C] Complete absence of cell nuclei in cross-sections",
+      "h" : 0.010277777777777719,
+      "w" : 0.3127571921678459,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6532921846450616,
+      "y" : 0.41930555559773997,
+      "text" : "[C] Ciliated pseudostratified columnar epithelium",
+      "h" : 0.01027777777777783,
+      "w" : 0.2860082230477963,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23765431586934171,
+      "y" : 0.4076453488874351,
+      "text" : "[D] Wider clear lumen, lower cuboidal cells, NO brush border, and paler",
+      "h" : 0.010290697415669792,
+      "w" : 0.40946499806530073,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6460905383744855,
+      "y" : 0.40764534873153735,
+      "text" : "[D] Keratinized stratified squamous epithelium",
+      "h" : 0.01029069794548887,
+      "w" : 0.2716049338286778,
+      "conf" : 1
+    },
+    {
+      "x" : 0.06584362249657061,
+      "y" : 0.3953488373062014,
+      "text" : "cytoplasm",
+      "h" : 0.00872092988755968,
+      "w" : 0.06584361814103037,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6100823070730453,
+      "y" : 0.3960755814498547,
+      "text" : "[E] Simple squamous endothelium",
+      "h" : 0.010174418555365716,
+      "w" : 0.20370370636946,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21296296896433453,
+      "y" : 0.38444767449127903,
+      "text" : "[E] More intense eosinophilic staining and star-shaped lumen",
+      "h" : 0.010174418555365605,
+      "w" : 0.36008230245338296,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25308641539094656,
+      "y" : 0.3619412143566985,
+      "text" : "Q34. [2020 Exam] In a given field of renal cortex, why are profiles of",
+      "h" : 0.011673126750522234,
+      "w" : 0.43621399117715703,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2355967010631004,
+      "y" : 0.34817829459954003,
+      "text" : "PCT cross-sections encountered far more frequently than DCT",
+      "h" : 0.01031007766723635,
+      "w" : 0.40534977942892597,
+      "conf" : 1
+    },
+    {
+      "x" : 0.08744855971487361,
+      "y" : 0.3357558139742525,
+      "text" : "cross-sections?",
+      "h" : 0.008720930417378647,
+      "w" : 0.1049382671620111,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2602880582647465,
+      "y" : 0.32042958650827913,
+      "text" : "[A] PCT is significantly longer and more intricately coiled (~14 mm vs. ~5 mm",
+      "h" : 0.01030361758338083,
+      "w" : 0.45473249903265034,
+      "conf" : 1
+    },
+    {
+      "x" : 0.05864197466563788,
+      "y" : 0.30886627901526165,
+      "text" : "for DCT)",
+      "h" : 0.010174418555365605,
+      "w" : 0.05144032892191185,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19650206306584345,
+      "y" : 0.29723837216569765,
+      "text" : "[B] There are three PCTs for every one DCT per nephron",
+      "h" : 0.010174418555365716,
+      "w" : 0.3271604813869644,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19444444982853207,
+      "y" : 0.28567829474488876,
+      "text" : "[C] DCTs are located entirely in the medullary pyramids",
+      "h" : 0.01031007766723635,
+      "w" : 0.32304526275058965,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2386831224279837,
+      "y" : 0.2740277776123796,
+      "text" : "[D] PCTs branch into multiple secondary tubules whereas DCTs do not",
+      "h" : 0.01027777777777783,
+      "w" : 0.4115226313752949,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1934156346502058,
+      "y" : 0.2623611111739719,
+      "text" : "[E] DCTs lack tubular epithelium and cannot be stained",
+      "h" : 0.01027777777777783,
+      "w" : 0.3209876534324022,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7345678937585737,
+      "y" : 0.3626388886806794,
+      "text" : "Q41. [Faculty Exam] Periodic Acid-Schiff (PAS) histochemical stain is",
+      "h" : 0.01027777777777783,
+      "w" : 0.4485596470862816,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7304526682441703,
+      "y" : 0.34814599482964215,
+      "text" : "especially useful in renal histology because it intensely stains which",
+      "h" : 0.013152454694112192,
+      "w" : 0.44032920981353174,
+      "conf" : 1
+    },
+    {
+      "x" : 0.608024689729081,
+      "y" : 0.3350290697068797,
+      "text" : "two structures magenta\/pink?",
+      "h" : 0.010174418555365716,
+      "w" : 0.19547324510490371,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7109053564814813,
+      "y" : 0.3204295866051785,
+      "text" : "[A] PCT brush border microvilli and Glomerular Basement Membrane",
+      "h" : 0.01030361758338083,
+      "w" : 0.40123456079255115,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5555555544238683,
+      "y" : 0.30886627901526165,
+      "text" : "(glycoproteins)",
+      "h" : 0.010174418555365605,
+      "w" : 0.09053497794289256,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6193415665637859,
+      "y" : 0.2965116279796512,
+      "text" : "[B] Medullary vasa recta and fat cells",
+      "h" : 0.011627906163533486,
+      "w" : 0.22222221422495325,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6666666705761317,
+      "y" : 0.2863727392700491,
+      "text" : "[C] Transitional urothelium and smooth muscle fibers",
+      "h" : 0.011698966026306157,
+      "w" : 0.3127571921678459,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6831275676954733,
+      "y" : 0.274722222420618,
+      "text" : "[D] Parietal layer of Bowman's capsule and podocyte nuclei",
+      "h" : 0.011666666666666603,
+      "w" : 0.3456790132342643,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6090535004115225,
+      "y" : 0.2630587853929269,
+      "text" : "[E] DCT cytoplasm and cell nuclei",
+      "h" : 0.011673126220703156,
+      "w" : 0.19753085442309104,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24485596371742122,
+      "y" : 0.24134366947524794,
+      "text" : "Q35. [2025 Exam] The Macula Densa is a specialized histological",
+      "h" : 0.011757105191548711,
+      "w" : 0.41975306864804435,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2582304600480107,
+      "y" : 0.22669573601852527,
+      "text" : "plaque formed by modified cells of which tubular segment contacting",
+      "h" : 0.011724805831909157,
+      "w" : 0.44650206175990076,
+      "conf" : 1
+    },
+    {
+      "x" : 0.09465020781892997,
+      "y" : 0.21432170544890977,
+      "text" : "the vascular pole?",
+      "h" : 0.01031007766723635,
+      "w" : 0.12345678701340776,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24279834866255165,
+      "y" : 0.19986111115580318,
+      "text" : "[A] Distal Convoluted Tubule (terminal thick ascending limb \/ early DCT)",
+      "h" : 0.01027777777777783,
+      "w" : 0.4197530686480445,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18518518899176944,
+      "y" : 0.18750000007267442,
+      "text" : "[B] Papillary duct of Bellini opening on area cribrosa",
+      "h" : 0.011666666666666714,
+      "w" : 0.3045267309032896,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20987654910836745,
+      "y" : 0.17584302300771482,
+      "text" : "[C] Proximal Convoluted Tubule near Bowman's urinary pole",
+      "h" : 0.011686046388414084,
+      "w" : 0.35390945050701406,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19958847319958856,
+      "y" : 0.16419573613964938,
+      "text" : "[D] Parietal layer of Bowman's capsule opposite the neck",
+      "h" : 0.011724805831909157,
+      "w" : 0.3333333333333333,
+      "conf" : 1
+    },
+    {
+      "x" : 0.191358029972565,
+      "y" : 0.15182170540045997,
+      "text" : "[E] Thin descending limb of Henle in the inner medulla",
+      "h" : 0.01031007766723635,
+      "w" : 0.31687241080422074,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7314814888545952,
+      "y" : 0.2405523256540697,
+      "text" : "Q42. [Core Concept] In acute tubular necrosis (ATN) due to ischemia",
+      "h" : 0.010174418555365605,
+      "w" : 0.4423867951399125,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7078189308641976,
+      "y" : 0.22742248044525648,
+      "text" : "or nephrotoxins, which tubular segment is most vulnerable to",
+      "h" : 0.013178293969896115,
+      "w" : 0.3950617088461822,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6203703740397803,
+      "y" : 0.21432170544890977,
+      "text" : "histological injury and necrosis?",
+      "h" : 0.01031007766723635,
+      "w" : 0.22016460490676582,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6502057659807954,
+      "y" : 0.19986111127087103,
+      "text" : "[A] Distal Convoluted Tubule and Macula Densa",
+      "h" : 0.01027777777777783,
+      "w" : 0.2798353711014273,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6327160524434154,
+      "y" : 0.18680555579425512,
+      "text" : "[B] Connecting tubules in the outer cortex",
+      "h" : 0.010277777777777719,
+      "w" : 0.24485596470862825,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6234567872942387,
+      "y" : 0.17583333337463147,
+      "text" : "[C] Parietal layer of Bowman's capsule",
+      "h" : 0.008888888623979296,
+      "w" : 0.22633743286132812,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6471193449845678,
+      "y" : 0.16419573628499823,
+      "text" : "[D] Collecting duct of Bellini at the renal papilla",
+      "h" : 0.011724805831909157,
+      "w" : 0.2736625431468651,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7345678939643349,
+      "y" : 0.15254844944272095,
+      "text" : "[E] Straight portion of Proximal Tubule (pars recta) and Thick Ascending Limb",
+      "h" : 0.011763565805223308,
+      "w" : 0.45267486572265625,
+      "conf" : 1
+    },
+    {
+      "x" : 0.3179012416923867,
+      "y" : 0.013846899178233563,
+      "text" : "Twisted Medicine • Renal Histology Master Class • Strictly Grounded in Faculty & Board yan Past Papers",
+      "h" : 0.018972867329915433,
+      "w" : 0.5699588127855986,
+      "conf" : 1
+    },
+    {
+      "x" : 0.8734567900205762,
+      "y" : 0.019660852735567502,
+      "text" : "Confidential Student Revision Bank",
+      "h" : 0.007344961166381836,
+      "w" : 0.19135802646852884,
+      "conf" : 1
+    }
+  ],
+  "page" : 25
+}

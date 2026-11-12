@@ -1,0 +1,860 @@
+{
+  "id": 13,
+  "title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+  "department": "Physiology",
+  "department_desc": "Hemodynamics, autoregulation, GFR, tubular transport, countercurrent multiplier, acid-base and RFTs",
+  "booklet_pages": "Pages 49 - 52",
+  "pdf_pages": [
+    51,
+    52,
+    53,
+    54
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 13 - HIGH-YIELD COUNTERCURRENT SYSTEMS & WATER BALANCE MATRIX",
+  "summary_table": [
+    {
+      "domain": "vertical length.",
+      "content": "recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops."
+    },
+    {
+      "domain": "Countercurrent Exchanger",
+      "content": "Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb"
+    },
+    {
+      "domain": "(Vasa Recta)",
+      "content": "Sluggish blood flow (<10% of total RBF) is essential; marked increase in medullary flow washes out the gradient causing gains solutes and loses water, ascending limb gains water and loses solutes. Net removal of reabsorbed water. polyuria. Contributes ~40-50% (~500-600 mOsm/kg) of papillary hyperosmolality. Urea diffuses from IMCD into papillary interstitium, re-entering thin"
+    },
+    {
+      "domain": "Urea Recycling",
+      "content": "Proximal tubule reabsorbs ~50%. Cortical/outer medullary collecting ducts limbs via UT-A2. Protein malnutrition impairs urea accumulation,"
+    },
+    {
+      "domain": "(Medullary Tonicity)",
+      "content": "impermeable to urea (ADH removes water, raising luminal urea). Inner medullary reducing max urine concentrating ability (polyuria). collecting duct (IMCD) expresses UT-A1 & UT-A3 stimulated by ADH."
+    },
+    {
+      "domain": "Urine Concentration & Dilution",
+      "content": "Obligatory urine volume = solute load / max U_osm = 600 mOsm / High ADH (Dehydration): binds basolateral V2 receptors (Gs-cAMP-PKA) 1200 mOsm/L = 0.5 L/day. Diabetes Insipidus causes polyuria; inserting Aquaporin-2 into apical membranes of collecting ducts. Water"
+    },
+    {
+      "domain": "(ADH / Vasopressin)",
+      "content": "equilibrates with hypertonic interstitium -> concentrated urine (up to 1200-1400| SIADH causes water retention, euvolemic hyponatremia, and mOsm/kg, volume ~0.5 L/day). Zero ADH: dilute urine (down to 50 mOsm/kg, hypertonic urine."
+    },
+    {
+      "domain": "volume up to 20 L/day).",
+      "content": "Quantitative tool assessing renal water handling. Furosemide C_H20 = V - C_osm = V - [(U_osm x V) / P_osm]."
+    },
+    {
+      "domain": "Free Water Clearance",
+      "content": "induces isosthenuria where C_H20 approaches zero regardless of • Positive (+C_H20): U_osm < P_osm (hypo-osmotic urine), solute-free water"
+    },
+    {
+      "domain": "(C_H20)",
+      "content": "hydration status. Vaptans (Tolvaptan) induce positive C_H20"
+    },
+    {
+      "domain": "excreted (water diuresis).",
+      "content": "• Negative (-C_H20 or T^c_H20): U_osm > P_osm (hypertonic urine), solute-free (aquaresis) in SIADH. water conserved (antidiuresis). • Zero (C_H20 = 0): iso-osmotic urine (U_osm = P_osm = 300)."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The primary anatomical structures acting as the Countercurrent Multipliers responsible for establishing the medullary osmotic gradient are:",
+      "options": {
+        "A": "The long hairpin Loops of Henle of juxtamedullary nephrons",
+        "B": "The convoluted peritubular capillary network of cortical nephrons",
+        "C": "The cortical connecting tubules and macula densa plaques",
+        "D": "The arcuate and interlobular veins in the renal cortex",
+        "E": "The fibrous capsule and perirenal fat of Gerota"
+      },
+      "correct_option": "A",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the normal longitudinal corticomedullary osmotic gradient from the renal cortex to the tip of the renal papilla in a healthy dehydrated adult?",
+      "options": {
+        "A": "100 mOsm/kg at the cortex to 300 mOsm/kg at the papilla",
+        "B": "300 mOsm/kg at the corticomedullary junction up to ~1200-1400 mOsm/kg at the papillary tip",
+        "C": "Iso-osmotic 300 mOsm/kg uniformly throughout cortex and medulla",
+        "D": "1200 mOsm/kg at the cortex falling to 100 mOsm/kg at the papilla",
+        "E": "600 mOsm/kg at the cortex rising to 5000 mOsm/kg at the papilla"
+      },
+      "correct_option": "B",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "The 'Single Effect' (horizontal gradient) generated at each level along the Thick Ascending Limb of Henle achieves a maximum osmotic difference of:",
+      "options": {
+        "A": "~20 mOsm/kg",
+        "B": "~1200 mOsm/kg",
+        "C": "~200 m0sm/kg (between tubular fluid and medullary interstitium)",
+        "D": "Zero (complete osmotic equilibrium across TAL)",
+        "E": "~600 mOsm/kg"
+      },
+      "correct_option": "C",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Single Effect of the countercurrent multiplier is driven primarily by which active transport mechanism in the Thick Ascending Limb?",
+      "options": {
+        "A": "Primary active water pumping into the interstitium",
+        "B": "Direct ATP-driven pinocytosis of Tamm-Horsfall protein",
+        "C": "Facilitated diffusion of glucose via basolateral SGLT2",
+        "D": "Secondary active reabsorption of Na+, K+, and 2Cl- via apical NKCC2 cotransporters",
+        "E": "Passive paracellular urea reabsorption down electrical gradients"
+      },
+      "correct_option": "D",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Regarding water permeability, the Thin Descending Limb of Henle (tDLH) is functionally characterized as:",
+      "options": {
+        "A": "Impermeable to all solutes and water under all physiological states",
+        "B": "Completely impermeable to water, but actively pumping sodium ions",
+        "C": "Permeable only to lipid-soluble steroid hormones",
+        "D": "An active secretor of potassium in exchange for hydrogen",
+        "E": "Highly permeable to water (via constitutive Aquaporin-1) and virtually impermeable to NaCl and urea"
+      },
+      "correct_option": "E",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "As fluid traverses the Thin Descending Limb toward the hairpin bend in the presence of medullary hypertonicity, tubular fluid osmolality:",
+      "options": {
+        "A": "Increases progressively up to ~1200 mOsm/kg due to passive osmotic water abstraction",
+        "B": "Remains constant at 300 mOsm/kg due to solute secretion",
+        "C": "Decreases progressively down to 50 mOsm/kg",
+        "D": "Drops to zero as all electrolytes are completely reabsorbed",
+        "E": "Oscillates between 100 and 200 mOsm/kg"
+      },
+      "correct_option": "A",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Unlike the descending limb, the entire Ascending Limb of Henle (both thin and thick segments) is strictly characterized by:",
+      "options": {
+        "A": "Massive water reabsorption mediated by Aquaporin-2",
+        "B": "Total impermeability to water, regardless of ADH concentration",
+        "C": "Direct communication with the perirenal space of Gerota",
+        "D": "High hydraulic conductivity through fenestrated tight junctions",
+        "E": "Complete dependence on aldosterone for baseline ion transport"
+      },
+      "correct_option": "B",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Because the Thick Ascending Limb actively reabsorbs NaCl without allowing water to follow, the fluid exiting the TAL into the early DCT is:",
+      "options": {
+        "A": "Hypertonic (~1200 mOsm/kg)",
+        "B": "Iso-osmotic (~300 mOsm/kg)",
+        "C": "Hypo-osmotic (~100 mOsm/kg), earning TAL the title 'Diluting Segment'",
+        "D": "Devoid of all sodium, potassium, and chloride ions",
+        "E": "Completely saturated with precipitated calcium phosphate"
+      },
+      "correct_option": "C",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What role does the apical ROMK potassium channel play in the Thick Ascending Limb during countercurrent multiplication?",
+      "options": {
+        "A": "It reabsorbs potassium against chemical gradients into the interstitium",
+        "B": "It secretes potassium into the peritubular capillaries to lower serum K+",
+        "C": "It binds Tamm-Horsfall protein to trigger macula densa apoptosis",
+        "D": "It recycles K+ back into the lumen, sustaining NKCC2 function and creating a lumen-positive potential (+8 mV)",
+        "E": "It acts as an osmotic water pore during severe dehydration"
+      },
+      "correct_option": "D",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The transepithelial lumen-positive electrical potential (+8 to +10 mV) generated in the Thick Ascending Limb is clinically vital because it:",
+      "options": {
+        "A": "Drives active secretion of hydrogen ions into the peritubular blood",
+        "B": "Causes immediate contraction of the internal urethral sphincter",
+        "C": "Directly stimulates posterior pituitary secretion of vasopressin",
+        "D": "Blocks all sodium reabsorption across proximal convoluted tubules",
+        "E": "Drives paracellular passive reabsorption of divalent cations (Ca2+ and Mg2+)"
+      },
+      "correct_option": "E",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Why is the countercurrent mechanism termed a 'Multiplier' rather than a simple single-stage exchanger?",
+      "options": {
+        "A": "Repeated cycles of fluid flow and local 200 mOsm/kg gradients multiply along the vertical length to create a 1200 mOsm/kg gradient",
+        "B": "It multiplies red blood cell production tenfold in the outer cortex",
+        "C": "It synthesizes new water molecules from metabolic glucose oxidation",
+        "D": "It doubles the glomerular filtration rate with every cardiac cycle",
+        "E": "It increases renal blood flow to 80% of total cardiac output"
+      },
+      "correct_option": "A",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Which nephron population is structurally essential for generating the deep medullary hypertonic osmotic gradient?",
+      "options": {
+        "A": "Cortical nephrons with short loops of Henle turning in the outer medulla",
+        "B": "Juxtamedullary nephrons with long loops of Henle descending to the papillary tip (~15% of nephrons)",
+        "C": "Avascular aglomerular nephrons located in the renal capsule",
+        "D": "Superficial cortical nephrons lacking Henle loops entirely",
+        "E": "Intermediate nephrons draining directly into arcuate veins"
+      },
+      "correct_option": "B",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In the Thin Ascending Limb (tALH), NaCl reabsorption occurs primarily via:",
+      "options": {
+        "A": "Primary active transport driven by apical Na+/K+ ATPase",
+        "B": "Pinocytosis coupled to filtered serum albumin uptake",
+        "C": "Passive diffusion down its concentration gradient through NaCl-permeable membranes",
+        "D": "Secondary active symport with bicarbonate ions",
+        "E": "Osmotic solvent drag across wide intercellular gaps"
+      },
+      "correct_option": "C",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "[Core Concept How does administration of a Loop Diuretic (e.g., Furosemide) affect the countercurrent multiplier system?",
+      "options": {
+        "A": "It selectively constricts the afferent arteriole to zero blood flow",
+        "B": "It triples medullary interstitial hypertonicity up to 3000 mOsm/kg",
+        "C": "It stimulates Aquaporin-2 insertion into the descending limb of Henle",
+        "D": "It abolishes the Single Effect by inhibiting NKCC2, completely dissipating the medullary hypertonic gradient",
+        "E": "It transforms the thin descending limb into a thick muscular artery"
+      },
+      "correct_option": "D",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why do the Vasa Recta NOT wash out the hypertonic medullary gradient despite being highly permeable capillaries?",
+      "options": {
+        "A": "Hairpin U-turn allows passive solute/water exchange between limbs",
+        "B": "Ultra-rapid blood flow exceeding aortic velocity",
+        "C": "Thick impermeable stratified squamous wall",
+        "D": "Complete cortical restriction without medullary descent",
+        "E": "Active solute secretion into the renal pelvis"
+      },
+      "correct_option": "A",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "As blood flows DOWN the Descending Vasa Recta into the hypertonic inner medulla, what passive fluid and solute shifts occur?",
+      "options": {
+        "A": "Solutes exit the blood into the interstitium, while water enters the blood",
+        "B": "Solutes (NaCl and urea) diffuse into the blood, while water is drawn out into the hypertonic interstitium",
+        "C": "Red blood cells undergo immediate lysis due to hypotonic shock",
+        "D": "Blood osmolality drops from 300 to 50 mOsm/kg at the papillary turn",
+        "E": "Plasma proteins are completely filtered into the tubular fluid"
+      },
+      "correct_option": "B",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "As blood flows UP the Ascending Vasa Recta back toward the corticomedullary junction, what shifts occur?",
+      "options": {
+        "A": "Blood osmolality rises from 1200 up to 3000 mOsm/kg",
+        "B": "Large amounts of sodium are actively pumped into the arcuate artery",
+        "C": "Solutes diffuse back into the interstitium, while water is drawn osmotically back into the ascending capillary blood",
+        "D": "Ascending vasa recta collapse completely, trapping blood in the papilla",
+        "E": "Water is actively pumped into the medullary collecting duct"
+      },
+      "correct_option": "C",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the crucial relationship between Medullary Blood Flow rate and the maintenance of the medullary concentration gradient?",
+      "options": {
+        "A": "Rapid blood flow is required to sustain medullary hypertonicity",
+        "B": "Vasa recta blood flow ceases entirely during hydration",
+        "C": "Medullary perfusion has zero effect on urine concentration",
+        "D": "Sluggish flow (<10% RBF); rapid flow washes out the gradient",
+        "E": "Sluggish flow causes acute cortical necrosis"
+      },
+      "correct_option": "D",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Approximately what percentage of the total medullary interstitial hyperosmolality at the papillary tip (~1200 mOsm/kg) is contributed by Urea?",
+      "options": {
+        "A": "~1% to 2%",
+        "B": "Zero (urea is completely excreted without accumulating in interstitium)",
+        "C": "100% (NaCl plays zero role in the inner medulla)",
+        "D": "~10% (potassium provides the vast majority of osmoles)",
+        "E": "~40% to 50% (~500-600 mOsm/kg), with NaCl contributing the remaining 50%"
+      },
+      "correct_option": "E",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which tubular segment is completely IMPERMEABLE to urea, even in the presence of maximal circulating levels of Antidiuretic Hormone (ADH)?",
+      "options": {
+        "A": "Cortical and Outer Medullary Collecting Ducts, as well as the Thick Ascending Limb",
+        "B": "Inner Medullary Collecting Duct (IMCD)",
+        "C": "Proximal Convoluted Tubule",
+        "D": "Thin Descending Limb of Henle",
+        "E": "Papillary Ducts of Bellini"
+      },
+      "correct_option": "A",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The facilitated urea transporters located on the apical and basolateral membranes of the Inner Medullary Collecting Duct (IMCD) are designated as:",
+      "options": {
+        "A": "SGLT1 and SGLT2",
+        "B": "NKCC2 and NCC",
+        "C": "UT-A1 (apical) and UT-A3 (basolateral), both stimulated by ADH via cAMP",
+        "D": "ENaC and ROMK",
+        "E": "GLUT4 and GLUT1"
+      },
+      "correct_option": "C",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In the process of Urea Recycling, urea that diffuses into the inner medullary interstitium from the IMCD re-enters the tubular lumen at the:",
+      "options": {
+        "A": "Proximal Convoluted Tubule via SGLT2",
+        "B": "Bowman's space via retrograde filtration",
+        "C": "Early Distal Convoluted Tubule via NCC",
+        "D": "Thin limbs of the Loop of Henle (via facilitated transporter UT-A2)",
+        "E": "Glomerular capillary lumen through fenestrations"
+      },
+      "correct_option": "D",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Why does a patient on a prolonged Severe Protein-Deficient Diet exhibit an impaired maximum urine concentrating ability (polyuria)?",
+      "options": {
+        "A": "Causes acute bilateral renal agenesis",
+        "B": "Blocks all glomerular water filtration",
+        "C": "Destroys all proximal Aquaporin-1 channels",
+        "D": "Stimulates excessive atrial natriuretic peptide release",
+        "E": "Reduced hepatic urea lowers medullary urea accumulation & gradient"
+      },
+      "correct_option": "D",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Net water and solute removal from the medullary interstitium by the Vasa Recta occurs because:",
+      "options": {
+        "A": "Oncotic pressure in ascending vasa recta exceeds interstitial pressure, and total ascending flow exceeds descending flow",
+        "B": "Lymphatic vessels in the inner medulla remove 99% of filtered fluid",
+        "C": "Descending vasa recta actively pump water into the renal pelvic cavity",
+        "D": "Capillary hydrostatic pressure in vasa recta is higher than systemic aortic pressure",
+        "E": "Medullary interstitial fluid evaporates into the collecting duct air space"
+      },
+      "correct_option": "A",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "[Core Concept How does osmotic diuresis (e.g., severe hyperglycemia or mannitol infusion) impair the medullary countercurrent mechanism?",
+      "options": {
+        "A": "Mannitol directly destroys V2 vasopressin receptors",
+        "B": "High tubular flow increases medullary flow, washing out gradient",
+        "C": "Glucose crystallizes inside interlobular arteries",
+        "D": "Glucose triggers immediate hyperaldosteronism",
+        "E": "Osmotic agents render the TAL water-permeable"
+      },
+      "correct_option": "B",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "The oxygen tension in the normal inner renal medulla is low (p02 ~10-15 mmHg). This physiological hypoxia is primarily due to:",
+      "options": {
+        "A": "Absence of any red blood cells inside the medullary capillaries",
+        "B": "Complete vasoconstriction of all renal segmental arteries at rest",
+        "C": "High metabolic ATP demand of active transport combined with countercurrent 02 shunting from descending to ascending vasa recta",
+        "D": "Inhalation of low atmospheric oxygen during resting sleep",
+        "E": "Immediate destruction of hemoglobin by Tamm-Horsfall glycoprotein"
+      },
+      "correct_option": "C",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In the complete absence of ADH (e.g., after drinking large volumes of water or in Central Diabetes Insipidus), urine osmolality can fall to:",
+      "options": {
+        "A": "600 mOsm/kg with massive proteinuria",
+        "B": "Exactly 300 mOsm/kg with normal daily urine volume",
+        "C": "Zero (no urine can be produced without ADH) [DJ 1200 mOsm/kg with severe oliguria",
+        "E": "As low as ~50 to 70 mOsm/kg, with urine output increasing up to 15-20 Liters/day"
+      },
+      "correct_option": "E",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the intracellular signaling cascade triggered by ADH binding to basolateral V2 receptors in principal cells of the collecting duct?",
+      "options": {
+        "A": "Gs protein -> Adenylyl Cyclase -> increased cAMP -> Protein Kinase A -> phosphorylation and apical insertion of Aquaporin-2",
+        "B": "Gq protein -> Phospholipase C -> IP3/DAG -> intracellular calcium release",
+        "C": "Gi protein -> inhibition of adenylyl cyclase -> closure of water pores",
+        "D": "Tyrosine kinase receptor autophosphorylation -> MAP kinase cascade",
+        "E": "Guanylyl cyclase activation -> increased cMP -> protein kinase G"
+      },
+      "correct_option": "A",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which Aquaporin water channels are constitutively expressed on the basolateral membrane of collecting duct principal cells independent of ADH?",
+      "options": {
+        "A": "Aquaporin-2 only",
+        "B": "Aquaporin-3 and Aquaporin-4",
+        "C": "Aquaporin-1 and Aquaporin-7",
+        "D": "SGLT2 and GLUT2",
+        "E": "Claudin-16 and Claudin-19"
+      },
+      "correct_option": "B",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Free Water Clearance (C_H20) is mathematically calculated using urine flow rate (V), urine osmolality (U_osm), and plasma osmolality (P_osm) as:",
+      "options": {
+        "A": "C_H20 = V + C_osm",
+        "B": "C_H20 = (P_osm x V) / U_osm",
+        "C": "C_H20 = V - C_osm = V - [(U_osm x V) / P_osm]",
+        "D": "C_H20 = U_osm - P_osm",
+        "E": "C_H20 = GFR x Filtration Fraction"
+      },
+      "correct_option": "C",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "A positive Free Water Clearance (+C_H20) indicates that the kidneys are:",
+      "options": {
+        "A": "Excreting hypertonic concentrated urine to conserve body water",
+        "B": "Reabsorbing 100% of all filtered solutes and water",
+        "C": "Failing completely with anuria",
+        "D": "Excreting hypo-osmotic dilute urine (U_osm < P_osm), ridding the body of excess solute-free water (water diuresis)",
+        "E": "Reabsorbing pure solute-free water into the hypertonic medulla"
+      },
+      "correct_option": "D",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "A negative Free Water Clearance (-C_H20), often designated as tubular conservation of water (T^c_H20), signifies that:",
+      "options": {
+        "A": "Net filtration pressure across glomerular capillaries is negative",
+        "B": "The patient is suffering from acute water intoxication",
+        "C": "Urine osmolality is exactly zero",
+        "D": "Inulin clearance is higher than PAH clearance",
+        "E": "Urine is hypertonic to plasma (U_osm > P_osm) and the kidney is conserving water (antidiuresis)"
+      },
+      "correct_option": "E",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In Nephrogenic Diabetes Insipidus (e.g., caused by chronic Lithium therapy or congenital V2 receptor mutations), the response to dDAVP is:",
+      "options": {
+        "A": "Marked increase in urine osmolality to >1000 mOsm/kg",
+        "B": "Minimal or no increase in urine osmolality (<10% to 50%), confirming collecting duct unresponsiveness to ADH",
+        "C": "Immediate cessation of all urine output (acute anuria)",
+        "D": "Severe hyponatremia with acute cerebral edema",
+        "E": "Massive precipitation of calcium oxalate stones in both ureters"
+      },
+      "correct_option": "B",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The Syndrome of Inappropriate Antidiuretic Hormone (SIADH) is clinically and biochemically characterized by:",
+      "options": {
+        "A": "Hypernatremia, hypovolemia, and dilute urine (<100 mOsm/kg)",
+        "B": "Dehydration, hypotension, and hypercalcemia",
+        "C": "Euvolemic hyponatremia, hypo-osmolality, and concentrated urine",
+        "D": "Complete destruction of supraoptic nuclei",
+        "E": "Hyperglycemia with glucosuria and ketonuria"
+      },
+      "correct_option": "C",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the pharmacological mechanism of action of 'Vaptans' (e.g., Tolvaptan, Conivaptan) in the treatment of euvolemic hyponatremia in SIADH?",
+      "options": {
+        "A": "Agonists of V1a receptors causing systemic vasoconstriction",
+        "B": "Direct stimulation of ENaC sodium channels in the cortical collecting duct",
+        "C": "Carbonic anhydrase inhibition in the proximal convoluted tubule",
+        "D": "Selective vasopressin V2 receptor antagonists, blocking water reabsorption and inducing aquaresis (solute-free water excretion)",
+        "E": "Stimulation of pituitary ADH release via hypothalamic osmoreceptors"
+      },
+      "correct_option": "D",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Why is the urine osmolality of a patient taking chronic high-dose Furosemide fixed near 300 mOsm/kg (isosthenuria) regardless of fluid intake?",
+      "options": {
+        "A": "Destroys glomerular podocytes and endothelium",
+        "B": "Forms impermeable plastic casts in ureters",
+        "C": "Induces massive ADH secretion and adipsia",
+        "D": "Calcifies medullary collecting ducts into bone",
+        "E": "NKCC2 block abolishes both multiplier and diluting capacity"
+      },
+      "correct_option": "E",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "[Core Concept What is the minimum Obligatory Urine Volume per day required for a 70-kg adult eating a standard diet producing 600 mOsm of solute daily?",
+      "options": {
+        "A": "~0.5 Liters/day (calculated as 600 mOsm / max U_osm of 1200 mOsm/L)",
+        "B": "~5.0 Liters/day",
+        "C": "~15.0 Liters/day",
+        "D": "~0.05 Liters/day",
+        "E": "~2.5 Liters/day"
+      },
+      "correct_option": "A",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A bipolar patient on Lithium has polyuria (6 L/day), serum Na+ 148 mEq/L, and U_osm 120 mOsm/kg. Desmopressin fails to increase U_osm (remains 125 mOsm/kg). Diagnosis?",
+      "options": {
+        "A": "Psychogenic Polydipsia (primary water drinking)",
+        "B": "Lithium-induced Nephrogenic Diabetes Insipidus",
+        "C": "Central (Neurogenic) Diabetes Insipidus",
+        "D": "Syndrome of Inappropriate Antidiuretic Hormone (SIADH)",
+        "E": "Primary Aldosteronism (Conn Syndrome)"
+      },
+      "correct_option": "B",
+      "explanation": "**vertical length.**: recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops.\n\n**Countercurrent Exchanger**: Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb",
+      "masterclass_id": 13,
+      "masterclass_title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology"
+    }
+  ]
+}

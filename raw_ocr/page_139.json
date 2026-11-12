@@ -1,0 +1,925 @@
+{
+  "items" : [
+    {
+      "x" : 0.2697368463345864,
+      "y" : 0.974583333282794,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 36 MCQ Masterclass",
+      "w" : 0.422932343033901,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.3477443705513781,
+      "y" : 0.9593023256782945,
+      "text" : "Twisted Medicine Medical Series • Acute Kidney Injury (AKI), KDIGO, Hyperkalemia & RRT • Standard Practice Bank",
+      "w" : 0.5789473291612374,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.9097744358552631,
+      "y" : 0.9745833330829394,
+      "text" : "Page 1 of 4",
+      "w" : 0.06390977060083514,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.4990601559993733,
+      "y" : 0.9338145992784386,
+      "text" : "36. ACUTE KIDNEY INJURY (AKI) & RENAL REPLACEMENT THERAPY — CLINICAL LECTURE",
+      "w" : 0.6748120152290393,
+      "h" : 0.013184754583570713,
+      "conf" : 1
+    },
+    {
+      "x" : 0.4990601413847121,
+      "y" : 0.9141957364061222,
+      "text" : "Twisted Medicine Clinical Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "w" : 0.543233074788821,
+      "h" : 0.011724805831909157,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26691729788533824,
+      "y" : 0.8902616279614826,
+      "text" : "Q01. [2025 Exam] Under KDIGO guidelines, Acute Kidney",
+      "w" : 0.37218044782867543,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26597744255169176,
+      "y" : 0.876411498476412,
+      "text" : "Injury (AKI) is formally defined by which serum creatinine",
+      "w" : 0.37406012002381384,
+      "h" : 0.011711885664198118,
+      "conf" : 1
+    },
+    {
+      "x" : 0.10714285761278194,
+      "y" : 0.8640988373364826,
+      "text" : "criteria?",
+      "w" : 0.052631578370018195,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2791353450187968,
+      "y" : 0.8474515505830671,
+      "text" : "[A] Creatinine increase >= 0.3 mg\/dL in 48h, or >= 1.5x baseline within 7",
+      "w" : 0.40037592566330427,
+      "h" : 0.01176356527540412,
+      "conf" : 1
+    },
+    {
+      "x" : 0.09304511247650377,
+      "y" : 0.8350290698946221,
+      "text" : "days",
+      "w" : 0.028195488804283117,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23496240913533822,
+      "y" : 0.821947674491279,
+      "text" : "[B] Serum creatinine rise of exactly 5.0 mg\/dL within 24h",
+      "w" : 0.3120300600119069,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25093985306390976,
+      "y" : 0.8073611111591428,
+      "text" : "[C] Serum creatinine exceeding 10 mg\/dL with absolute anuria",
+      "w" : 0.34398494805473806,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2283834616353383,
+      "y" : 0.7950710594958248,
+      "text" : "[D] Persistent 50% creatinine reduction over 3 months",
+      "w" : 0.29887217913147013,
+      "h" : 0.008746769693162681,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24906015377819543,
+      "y" : 0.7762209305380849,
+      "text" : "602. 120224 Exam Under bico staging, which pare",
+      "w" : 0.34022555978584423,
+      "h" : 0.017558139165242515,
+      "conf" : 1
+    },
+    {
+      "x" : 0.3721804489661654,
+      "y" : 0.7725290697129361,
+      "text" : "staging, which parameters",
+      "w" : 0.17293232109459244,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19642857534461144,
+      "y" : 0.759447674491279,
+      "text" : "define Stage 3 Acute Kidney Injury?",
+      "w" : 0.23496240304580787,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.27631579440789455,
+      "y" : 0.7434722220543164,
+      "text" : "[A] Serum creatinine 3.0 times baseline, or >= 4.0 mg\/dL, or initiation of",
+      "w" : 0.3947368213206551,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1654135320175439,
+      "y" : 0.7311111110528479,
+      "text" : "RRT, or anuria for >= 12 hours",
+      "w" : 0.16917292185604443,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2612782015664158,
+      "y" : 0.7173546511791831,
+      "text" : "[B] Serum creatinine increase of 0.3 mg\/dL with urine output > 1.0",
+      "w" : 0.36466164935157935,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1024436082393484,
+      "y" : 0.7056686045784883,
+      "text" : "mL\/kg\/h",
+      "w" : 0.046992479512196164,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.271616547775689,
+      "y" : 0.6918604650322739,
+      "text" : "[C] Serum creatinine 1.5-1.9 times baseline with normal urine volume",
+      "w" : 0.3853383287091122,
+      "h" : 0.008720930152469109,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2612781991353383,
+      "y" : 0.6780523256540698,
+      "text" : "[D] Isolated microscopic hematuria with normal serum electrolytes",
+      "w" : 0.36466164935157935,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26033835030545105,
+      "y" : 0.6649741601965369,
+      "text" : "E Transient oliguria lasting exactly 30 minutes following exercise",
+      "w" : 0.35526315674003645,
+      "h" : 0.007273901568518704,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2387218083646615,
+      "y" : 0.6562500000181686,
+      "text" : "203. [2023 Exam] What is the primary underlying",
+      "w" : 0.3082706717430131,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2828947334743108,
+      "y" : 0.6417151162185077,
+      "text" : "hemodynamic pathophysiological mechanism driving Prerenal",
+      "w" : 0.40413531393219804,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.11560150462780364,
+      "y" : 0.6286337210263861,
+      "text" : "Azotemia?",
+      "w" : 0.06965095306111273,
+      "h" : 0.010599174499511754,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26973684687499994,
+      "y" : 0.6126388888441968,
+      "text" : "[A] Acute tubular epithelial necrosis triggered by radiocontrast agents",
+      "w" : 0.3815789404402184,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25281954696115294,
+      "y" : 0.5988727390399136,
+      "text" : "[B] Direct immunological podocyte effacement and detachment",
+      "w" : 0.34774435826294026,
+      "h" : 0.011698966026306157,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2593985022556389,
+      "y" : 0.5850290697916667,
+      "text" : "[C] Renal hypoperfusion without structural parenchymal damage,",
+      "w" : 0.3609022391433771,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18890977659774427,
+      "y" : 0.573462532432351,
+      "text" : "preserving tubular reabsorptive function",
+      "w" : 0.21992480609161574,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26691729793233077,
+      "y" : 0.5595930233284884,
+      "text" : "[D] Mechanical obstruction of both ureters by retroperitoneal fibrosis",
+      "w" : 0.3759398360975692,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2556391035714284,
+      "y" : 0.524722222011923,
+      "text" : "Drugs (NSAIDs) precipitate acute prerenal azotemia in",
+      "w" : 0.34962405239738725,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "x" : 0.15319548686560153,
+      "y" : 0.5109625322082717,
+      "text" : "hypovolemic patients?",
+      "w" : 0.14849623152885738,
+      "h" : 0.0102971574995252,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2659774400062658,
+      "y" : 0.4948611109168947,
+      "text" : "[A] Selectively dilate the efferent arteriole via bradykinin breakdown",
+      "w" : 0.37406012002381384,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2697368460291353,
+      "y" : 0.48111111110129734,
+      "text" : "[B] Block antidiuretic hormone receptors in medullary collecting ducts",
+      "w" : 0.3815789404402184,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "x" : 0.28289474364035067,
+      "y" : 0.4680555556678565,
+      "text" : "[C] Directly rupture proximal tubular basement membranes (tubulorrhexis)",
+      "w" : 0.40789470220109186,
+      "h" : 0.008888889153798374,
+      "conf" : 1
+    },
+    {
+      "x" : 0.28289474194078934,
+      "y" : 0.45421511633357553,
+      "text" : "[D] Inhibit cyclooxygenase, blocking vasodilatory PGE2\/PGI2 and causing",
+      "w" : 0.4078947460797089,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1738721776002507,
+      "y" : 0.44333333335546843,
+      "text" : "afferent arteriolar vasoconstriction",
+      "w" : 0.1898496121832315,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6954887254511278,
+      "y" : 0.8902616279796511,
+      "text" : "Q08. [2022 Exam] What is the characteristic microscopic",
+      "w" : 0.3646616493515793,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7105263108082707,
+      "y" : 0.8771802324672966,
+      "text" : "urinalysis sediment finding in Acute Tubular Necrosis (ATN)?",
+      "w" : 0.3984962095895489,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6907894781719923,
+      "y" : 0.861246770172756,
+      "text" : "[A] Dysmorphic red blood cells with acanthocytes and RBC casts",
+      "w" : 0.35902254500893005,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6842105306390978,
+      "y" : 0.8481782947267202,
+      "text" : "[B] Abundant white blood cell casts with marked eosinophiluria",
+      "w" : 0.345864642189185,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6701127851315789,
+      "y" : 0.8343023256395349,
+      "text" : "[C] Broad waxy casts with Maltese cross fatty oval bodies",
+      "w" : 0.31766916435455606,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7011278148026318,
+      "y" : 0.8204295864416611,
+      "text" : "[D] Muddy brown granular casts and sloughed renal tubular epithelial",
+      "w" : 0.379699224366463,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5563909783458646,
+      "y" : 0.8081395349418605,
+      "text" : "(RTE) cell casts",
+      "w" : 0.09022555978584434,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6766917326315789,
+      "y" : 0.7943055556159087,
+      "text" : "[E] Completely clear, acellular sediment devoid of any casts",
+      "w" : 0.33082706717430144,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7161654175939849,
+      "y" : 0.7733042635809062,
+      "text" : "Q09. [2023 Exam] What microscopic urinalysis finding strongly",
+      "w" : 0.4060150300059534,
+      "h" : 0.011724806361728124,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7058270702302631,
+      "y" : 0.7586563305732017,
+      "text" : "points toward Acute Glomerulonephritis (e.g., RPGN) rather",
+      "w" : 0.3853383287091121,
+      "h" : 0.0117571051915486,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5469924819172932,
+      "y" : 0.7470930233139534,
+      "text" : "than ATN?",
+      "w" : 0.07142856907793127,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7124060190601504,
+      "y" : 0.7304166664929136,
+      "text" : "[A] Dysmorphic red blood cells, acanthocytes, and Red Blood Cell (RBC)",
+      "w" : 0.40225564173705963,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5291353386654134,
+      "y" : 0.7180232558720931,
+      "text" : "Casts",
+      "w" : 0.03195488530041757,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6597744331203008,
+      "y" : 0.7042151162063954,
+      "text" : "[B] Coffin-lid triple phosphate crystals with alkaline pH",
+      "w" : 0.29699248499702324,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6701127859257519,
+      "y" : 0.6911337209847384,
+      "text" : "[C] Free fat droplets showing Maltese-cross birefringence",
+      "w" : 0.31766916435455617,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6710526369047617,
+      "y" : 0.6758430230077147,
+      "text" : "[D] Hyaline casts exclusively following strenuous exercise",
+      "w" : 0.31954885848900294,
+      "h" : 0.011686046388414306,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6766917317132115,
+      "y" : 0.6591569767545682,
+      "text" : "510. 202a exam veen urinalysis prote is highly",
+      "w" : 0.3345864554431951,
+      "h" : 0.021802325778537246,
+      "conf" : 1
+    },
+    {
+      "x" : 0.698308275305451,
+      "y" : 0.6417151163699129,
+      "text" : "characteristic of Drug-Induced Acute Interstitial Nephritis",
+      "w" : 0.37030073175492006,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5319548875402793,
+      "y" : 0.6279069768064784,
+      "text" : "(AIN)?",
+      "w" : 0.04511278263533569,
+      "h" : 0.01162790722317153,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6428571461466166,
+      "y" : 0.6126388888441968,
+      "text" : "[A] Massive glycosuria with normal blood sugar",
+      "w" : 0.2631578808804368,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6738721757832082,
+      "y" : 0.5995833333796933,
+      "text" : "[B] Heavy selective albuminuria with zero cellular elements",
+      "w" : 0.3251879628316522,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6691729375939848,
+      "y" : 0.5857525839600102,
+      "text" : "[C] Abundant uric acid rhomboid crystals in alkaline urine",
+      "w" : 0.3157894702201093,
+      "h" : 0.0087273899714152,
+      "conf" : 1
+    },
+    {
+      "x" : 0.657894741729323,
+      "y" : 0.5719476745397287,
+      "text" : "[D] Muddy brown coarsely granular pigmented casts",
+      "w" : 0.2932330747888209,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7124060200657893,
+      "y" : 0.5588662791242733,
+      "text" : "[E] Sterile pyuria, White Blood Cell (WBC) casts, and urinary Eosinophils",
+      "w" : 0.40225564173705974,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.704896212689545,
+      "y" : 0.5402753308210342,
+      "text" : "&11. 2023 Seam What defines Postrenal (Obstructive) AKI,",
+      "w" : 0.38750659056827363,
+      "h" : 0.019582714504665866,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6644736892543859,
+      "y" : 0.5247222221088221,
+      "text" : "and what initial diagnostic test is mandatory?",
+      "w" : 0.302631567400364,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6785714252255639,
+      "y" : 0.5094476743459304,
+      "text" : "[A] Renal vein thrombosis; magnetic resonance angiography",
+      "w" : 0.3345864554431951,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6983082720864662,
+      "y" : 0.4955878552014037,
+      "text" : "[B] Outflow obstruction; Renal Ultrasound to assess hydronephrosis",
+      "w" : 0.37406012002381384,
+      "h" : 0.011731265915764677,
+      "conf" : 1
+    },
+    {
+      "x" : 0.689849628524436,
+      "y" : 0.4818055556340772,
+      "text" : "[C] Glomerular capillary thrombosis; 24-hr urine electrophoresis",
+      "w" : 0.3571428508744833,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6898496298872179,
+      "y" : 0.467354651153395,
+      "text" : "[D] Toxic tubular necrosis; immediate percutaneous renal biopsy",
+      "w" : 0.3571428508744833,
+      "h" : 0.010290697945488758,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6522556437969922,
+      "y" : 0.45421511635174416,
+      "text" : "[E] Renal artery stenosis; nuclear MAG3 renogram",
+      "w" : 0.2819548880428312,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2781954931077692,
+      "y" : 0.40695090418664503,
+      "text" : "Receptor Blockers (ARBs) alter glomerular hemodynamics to",
+      "w" : 0.3947368213206551,
+      "h" : 0.011679585774739598,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18233082709703952,
+      "y" : 0.39319444444881707,
+      "text" : "potentially cause prerenal AKI?",
+      "w" : 0.20300751500297676,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.27349623681077706,
+      "y" : 0.3779069769379844,
+      "text" : "[A] Constrict afferent arterioles by promoting endothelin-1 transcription",
+      "w" : 0.38909771697800594,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25845864714912276,
+      "y" : 0.3640374675676488,
+      "text" : "[B] Precipitate insoluble calcium crystals inside the loop of Henle",
+      "w" : 0.35902254500893016,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "x" : 0.27349624449248117,
+      "y" : 0.35097222240578896,
+      "text" : "[C] Inhibit sodium-potassium ATPase pumps along the proximal tubule",
+      "w" : 0.389097716978006,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26503760018796974,
+      "y" : 0.3365277777395598,
+      "text" : "[D] Stimulate uninhibited aldosterone secretion from adrenal cortex",
+      "w" : 0.3721804478286754,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.28195488315789485,
+      "y" : 0.32415697673706567,
+      "text" : "[E] Block angiotensin Il action, causing efferent arteriolar vasodilation and",
+      "w" : 0.4060150300059535,
+      "h" : 0.011686046918233162,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2640977489896616,
+      "y" : 0.305897932835333,
+      "text" : "006. [2020 Exam Which urinary and biochemical indices",
+      "w" : 0.37030073175492006,
+      "h" : 0.019018087387084992,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24342105067355893,
+      "y" : 0.28997093014777114,
+      "text" : "distinguish Prerenal Azotemia from Intrinsic ATN?",
+      "w" : 0.3251879628316522,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25281955321898486,
+      "y" : 0.27402777772139125,
+      "text" : "[A] Prerenal: FENa > 3%, U_Na > 50 mEq\/L; ATN: FENa < 1%",
+      "w" : 0.34774435826294026,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2838345796365917,
+      "y" : 0.26096253219010296,
+      "text" : "[B] Prerenal: FENa < 1%, U_Na < 20, U_osm > 500, BUN:Cr > 20:1; ATN:",
+      "w" : 0.4097744182748472,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2509398553571427,
+      "y" : 0.23473837216569765,
+      "text" : "[C] Prerenal: fixed specific gravity at 1.010 with granular casts",
+      "w" : 0.343984948054738,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.259398492631579,
+      "y" : 0.22087209304077826,
+      "text" : "[D] Both conditions produce identical urinary sodium (>60 mEq\/L)",
+      "w" : 0.36090223914337705,
+      "h" : 0.011744186083475716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.265977447349624,
+      "y" : 0.20708333312261606,
+      "text" : "[E] Prerenal azotemia always produces massive proteinuria (>5 g\/d)",
+      "w" : 0.3740601639024308,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26691728951127824,
+      "y" : 0.18608850132009974,
+      "text" : "Q07. [2024 Exam] In an oliguric patient on Loop Diuretics,",
+      "w" : 0.3721804478286754,
+      "h" : 0.011711886723836273,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25375940281954873,
+      "y" : 0.17223837218386634,
+      "text" : "which diagnostic test reliably identifies prerenal AKI?",
+      "w" : 0.3458646421891849,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24624060162907263,
+      "y" : 0.15624999983042637,
+      "text" : "[A] FE_Urea < 35% indicates prerenal; > 50% indicates ATN",
+      "w" : 0.3345864554431951,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24342105674342096,
+      "y" : 0.1431944445112716,
+      "text" : "[B] FENa is superior and completely unaffected by diuretics",
+      "w" : 0.3289473511005459,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21428571766917287,
+      "y" : 0.13013888896803744,
+      "text" : "[C] Serum uric acid to creatinine ratio exclusively",
+      "w" : 0.2706766793575328,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20488722119360897,
+      "y" : 0.11555232563590129,
+      "text" : "[D] Random spot urine glucose concentration",
+      "w" : 0.2518796941344469,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1813909800046992,
+      "y" : 0.10247093028706394,
+      "text" : "[E] 24-hour urinary calcium excretion",
+      "w" : 0.2048872091374236,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.700187968068609,
+      "y" : 0.42078488359375,
+      "text" : "Q12. [2020 Exam] In which clinical situation can Postrenal",
+      "w" : 0.3740601200238137,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7048872228383457,
+      "y" : 0.40695090418820845,
+      "text" : "Obstructive AKI occur WITHOUT visible hydronephrosis on",
+      "w" : 0.3834586565139737,
+      "h" : 0.011679586304558676,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5526315800125312,
+      "y" : 0.3946220931928294,
+      "text" : "ultrasound?",
+      "w" : 0.07894736755502729,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.679511282550125,
+      "y" : 0.3779069769379844,
+      "text" : "[A] Benign prostatic hyperplasia with large distended bladder",
+      "w" : 0.336466149577642,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6992481249999998,
+      "y" : 0.3640374678280654,
+      "text" : "[B] Retroperitoneal fibrosis encasing ureters, severe dehydration, or",
+      "w" : 0.3759398360975693,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6015037563909775,
+      "y" : 0.3517474160399899,
+      "text" : "ultra-early obstruction (<24-48h)",
+      "w" : 0.18045111957168847,
+      "h" : 0.0087273899714152,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6682330777255641,
+      "y" : 0.3386272609600865,
+      "text" : "[C] Long-standing distal urethral stricture in young adults",
+      "w" : 0.3139097541463538,
+      "h" : 0.011698966026306157,
+      "conf" : 1
+    },
+    {
+      "x" : 0.684210529774436,
+      "y" : 0.3248611113193207,
+      "text" : "[D] Large staghorn calculus casting the renal pelvis for 2 years",
+      "w" : 0.3458646641284935,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6569548900187969,
+      "y" : 0.30745478049161146,
+      "text" : "S1S acuity sam What response to the s",
+      "w" : 0.28007517196907583,
+      "h" : 0.01897932794358992,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6992481259398493,
+      "y" : 0.29069767461240303,
+      "text" : "Test (FST) indicates high risk of AKI progression to RRT?",
+      "w" : 0.3721804478286753,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6409774468045113,
+      "y" : 0.27402777772139125,
+      "text" : "[A] Continuous Furosemide infusion for 7 days",
+      "w" : 0.25563908240334066,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6625939879887217,
+      "y" : 0.26096253233545186,
+      "text" : "[B] Furosemide with saline; serum potassium elevation",
+      "w" : 0.3026315674003638,
+      "h" : 0.0102971574995252,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7086466214755638,
+      "y" : 0.24636627916061055,
+      "text" : "[C] IV Furosemide 1.0-1.5 mg\/kg; urine output < 200 mL in first 2 hours",
+      "w" : 0.39473682132065513,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6672932362030075,
+      "y" : 0.23328488379360462,
+      "text" : "[D] Oral Furosemide 20 mg; urine output > 1000 mL\/24h",
+      "w" : 0.3120300600119068,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6729323318922307,
+      "y" : 0.21945090418664503,
+      "text" : "[E] Subcutaneous injection causing localized skin necrosis",
+      "w" : 0.3233082686972052,
+      "h" : 0.011679585774739598,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7086466214285714,
+      "y" : 0.18680555575791785,
+      "text" : "Q14. [Core Exam] Which novel renal biomarker rises in urine",
+      "w" : 0.39097743305176136,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7161654203007517,
+      "y" : 0.17151162800387598,
+      "text" : "and plasma within 2 to 4 hours of tubular injury, serving as the",
+      "w" : 0.4060150300059535,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5686090205827069,
+      "y" : 0.15915697671996137,
+      "text" : "'Renal Troponin'?",
+      "w" : 0.11842104859012736,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6635338376315789,
+      "y" : 0.14319444452944025,
+      "text" : "[A] Neutrophil Gelatinase-Associated Lipocalin (NGAL)",
+      "w" : 0.3045112615348109,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5977443598997494,
+      "y" : 0.13013888908310545,
+      "text" : "[B] Blood Urea Nitrogen (BUN)",
+      "w" : 0.17293232109459256,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5780075165100252,
+      "y" : 0.10247093015988373,
+      "text" : "[D] Urinary Urobilinogen",
+      "w" : 0.13721804478286748,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6015037593045113,
+      "y" : 0.0886111110910105,
+      "text" : "[E] Serum Alkaline Phosphatase",
+      "w" : 0.18045113054134276,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "x" : 0.3703007597274434,
+      "y" : 0.024027777721391252,
+      "text" : "Twisted Medicine • Clinical Nephrology & ICU Master Class • Strictly Grounded in Faculty & Board Exam Past Papers",
+      "w" : 0.6278195521713246,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5197368420112782,
+      "y" : 0.012354651351744073,
+      "text" : "137",
+      "w" : 0.03947368377751359,
+      "h" : 0.018895348442925286,
+      "conf" : 1
+    },
+    {
+      "x" : 0.8533834557644111,
+      "y" : 0.024722222108822245,
+      "text" : "Confidential Student Revision Bank",
+      "w" : 0.1766917203331405,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    }
+  ],
+  "page" : 139
+}

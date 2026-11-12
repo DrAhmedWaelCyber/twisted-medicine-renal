@@ -1,0 +1,889 @@
+{
+  "id": 31,
+  "title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+  "department": "Clinical Biochemistry",
+  "department_desc": "Purine metabolism, uric acid, clinical enzymology, biomarkers, inborn errors and stone chemistry",
+  "booklet_pages": "Pages 121 - 124",
+  "pdf_pages": [
+    123,
+    124,
+    125,
+    126
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 32 — HIGH-YIELD RENAL CLEARANCE & BIOMARKERS MATRIX",
+  "summary_table": [
+    {
+      "domain": "(Estimated Creatinine",
+      "content": "(NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%"
+    },
+    {
+      "domain": "Clearance)",
+      "content": "adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD"
+    },
+    {
+      "domain": "Based on P_Cr, Age, Sex, Race.",
+      "content": "Expressed in mL/min/1.73 m2."
+    },
+    {
+      "domain": "eGFR Equations",
+      "content": "CKD defined as eGFR < 60 mL/min/1.73"
+    },
+    {
+      "domain": "MDRD: 4-variable equation.",
+      "content": "classifications at near-normal GFR (>60 mL/min/1.73 m\")."
+    },
+    {
+      "domain": "CKD-EPI: 2-slope spline model.",
+      "content": "m? for >3 months. Confirmatory test for Stage 3a CKD (eGFR_cr 45-59). Superior Normal: 0.6-1.0 mg/L."
+    },
+    {
+      "domain": "13.3 kDa cysteine protease inhibitor.",
+      "content": "Constant production by all nucleated cells; Independent of muscle mass, age, sex, in elderly, cirrhotics, amputees, and bodybuilders."
+    },
+    {
+      "domain": "megalin-catabolized by PCT.",
+      "content": "and protein diet."
+    },
+    {
+      "domain": "FENa = [(U_Na * P_Cr)/(P_Na *",
+      "content": "Loop diuretics invalidate FENa. FE_Urea < 35% indicates Prerenal FENa < 1% = Prerenal Azotemia."
+    },
+    {
+      "domain": "Fractional Excretion Tests",
+      "content": "FENa > 2% = Intrinsic AKI (ATN)."
+    },
+    {
+      "domain": "U_Cr)) 100%",
+      "content": "Azotemia even during active diuretic therapy."
+    },
+    {
+      "domain": "FE_Urea =",
+      "content": "[(U_Urea*P_Cr)/(P_Urea*U_Cr)]*100%"
+    },
+    {
+      "domain": "Albumin-to-Creatinine Ratio",
+      "content": "Earliest marker of diabetic nephropathy & cardiovascular"
+    },
+    {
+      "domain": "Spot morning urine ACR (mg/g):",
+      "content": "Indexes albumin excretion to creatinine,"
+    },
+    {
+      "domain": "A1: < 30 (Normal)",
+      "content": "correcting for hydration and voiding volume mortality. Indication for ACE/ARB nephroprotection. variations."
+    },
+    {
+      "domain": "C_osm = (U_osm * V) / P_osm",
+      "content": "Positive C_H2O: water diuresis (U_osm < Evaluates collecting duct concentrating capability. C_H2O fixed"
+    },
+    {
+      "domain": "C_H20 = V - C_osm",
+      "content": "near zero in isosthenuria (loss of tubular reserve in ATN/ESRD)."
+    },
+    {
+      "domain": "(C_H20 & Cosm)",
+      "content": "P_osm)."
+    },
+    {
+      "domain": "Negative C_H2O = T^c_H20 (water",
+      "content": "Negative C_H2O: antidiuresis (high ADH)."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the physiological and biochemical definition of 'Renal Clearance' of a substance (C_x)?",
+      "options": {
+        "A": "Total millimoles of a substance filtered across glomeruli per day",
+        "B": "Volume of blood plasma completely cleared of a substance by kidneys per unit time (mL/min)",
+        "C": "Percentage of tubular fluid reabsorbed by proximal convoluted tubules",
+        "D": "Net rate of urinary excretion expressed strictly as grams per liter",
+        "E": "Total hydrostatic pressure gradient within peritubular capillaries"
+      },
+      "correct_option": "B",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the standard mathematical formula used to calculate renal clearance (C_x) from laboratory measurements?",
+      "options": {
+        "A": "C_x= (U_x* V) / P_x (where U_x is urine conc, V is urine flow rate in mL/min, P_x is plasma conc)",
+        "B": "C_x = (P_x* V) / U_x",
+        "C": "C_x= (U_x *P_x) / V",
+        "D": "C_x= (U_x + P_x) * V",
+        "E": "C_x = V/ (U_x* P_x)"
+      },
+      "correct_option": "A",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Why is Inulin (an exogenous fructose polysaccharide) universally regarded as the gold standard marker for GFR measurement?",
+      "options": {
+        "A": "It is extensively synthesized by proximal tubular epithelial cells",
+        "B": "Freely filtered at glomerulus, neither reabsorbed, secreted, synthesized, nor metabolized by renal tubules",
+        "C": "It binds irreversibly to serum albumin and podocyte pedicels",
+        "D": "It undergoes active primary secretion by medullary collecting ducts",
+        "E": "It is cleared exclusively by hepatic biliary excretion"
+      },
+      "correct_option": "B",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "If a substance has a renal clearance GREATER than the clearance of inulin (C_x > C_inulin), what does this indicate regarding tubular handling?",
+      "options": {
+        "A": "Net tubular reabsorption of the substance occurred",
+        "B": "The substance was completely synthesized de novo in the bladder",
+        "C": "The substance cannot be filtered across the glomerular barrier",
+        "D": "Net tubular secretion of the substance occurred along the nephron",
+        "E": "Glomerular filtration rate has declined to zero"
+      },
+      "correct_option": "D",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "If a freely filtered substance has a renal clearance of ZERO (C_x = 0 mL/min) under normal physiological conditions, what substance is it?",
+      "options": {
+        "A": "Urea",
+        "B": "Sodium chloride",
+        "C": "Glucose (completely reabsorbed by proximal SGLT2/SGLT1 up to transport maximum)",
+        "D": "Potassium"
+      },
+      "correct_option": "E",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Why does Endogenous Creatinine Clearance (C_Cr) systematically OVERESTIMATE true GFR by approximately 10% to 20% in healthy adults?",
+      "options": {
+        "A": "Creatinine is actively reabsorbed by loop of Henle cells",
+        "B": "A small fraction of creatinine (~10-20%) is actively secreted by proximal tubular cells via OCT2/MATE transporters",
+        "C": "Creatinine evaporates spontaneously from collection bottles",
+        "D": "Creatinine binds tightly to circulating red blood cell membranes",
+        "E": "Creatinine is destroyed by bladder uroplakin proteins"
+      },
+      "correct_option": "B",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "How does advanced Chronic Kidney Disease (CKD) with severe GFR reduction affect the degree of GFR overestimation by Creatinine Clearance?",
+      "options": {
+        "A": "Overestimation disappears completely, matching inulin clearance",
+        "B": "Creatinine clearance becomes negative",
+        "C": "Creatinine secretion drops to zero while reabsorption peaks",
+        "D": "Overestimation increases (up to 50-100%) as secretion forms a larger share of excretion",
+        "E": "Creatinine clearance becomes equal to PAH clearance"
+      },
+      "correct_option": "A",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In standard clinical laboratory practice, what is the single most frequent source of error in measuring 24-hour Creatinine Clearance?",
+      "options": {
+        "A": "Hemolysis of the serum sample",
+        "B": "Incomplete or inaccurate 24-hour urine collection (under- or over-collection)",
+        "C": "Exposure of urine to room air oxygen",
+        "D": "Normal variations in ambient atmospheric humidity",
+        "E": "Bacterial fermentation of urea into inert gas"
+      },
+      "correct_option": "E",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "To verify the completeness of a 24-hour urine collection, expected 24-hour creatinine excretion is approximately:",
+      "options": {
+        "A": "1-2 mg/kg/day in both sexes",
+        "B": "Exactly 100 mg/kg/day regardless of muscle mass",
+        "C": "Less than 5 mg total in 24 hours",
+        "E": "20-25 mg/kg/day in adult males and 15-20 mg/kg/day in adult females"
+      },
+      "correct_option": "C",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why does Urea Clearance (C_Urea) systematically UNDERESTIMATE true GFR by approximately 40% to 50%?",
+      "options": {
+        "A": "Urea is too large to pass through endothelial fenestrae",
+        "B": "Urea undergoes significant passive tubular reabsorption (~40-50%) along proximal tubules and collecting ducts",
+        "C": "Urea is actively secreted by principal cells of collecting ducts",
+        "D": "Urea is converted entirely into ammonium before reaching calyces",
+        "E": "Urea binds irreversibly to urinary Tamm-Horsfall glycoprotein"
+      },
+      "correct_option": "A",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In historical clinical practice, how was combined (C_Cr + C_Urea) / 2 utilized in patients with advanced renal failure?",
+      "options": {
+        "A": "To estimate renal blood flow accurately without catheterization",
+        "B": "To calculate the exact filtration fraction of albumin",
+        "C": "To measure urinary concentrating capacity in diabetes insipidus",
+        "D": "To determine renal tubular maximum for glucose",
+        "E": "The overestimation of C_Cr (due to secretion) and underestimation of C_Urea (due to reabsorption) cancel out, approximating true GFR"
+      },
+      "correct_option": "C",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Para-aminohippuric Acid (PAH) clearance at low plasma concentrations is clinically utilized to measure:",
+      "options": {
+        "A": "Glomerular Filtration Rate (GFR)",
+        "B": "Effective Renal Plasma Flow (ERPF) because ~90% of PAH is cleared in a single capillary transit (filtered + secreted)",
+        "C": "Fractional excretion of potassium",
+        "D": "Maximal medullary concentrating gradient",
+        "E": "Obligatory daily urine output"
+      },
+      "correct_option": "D",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "If Renal Plasma Flow (RPF) is 600 mL/min and Hematocrit (Hct) is 0.40 (40%), what is the Total Renal Blood Flow",
+      "options": {
+        "C": "1,000 mL/min [RBF = RPF / (1 - Hct) = 600 / 0.60 = 1,000 mL/min]",
+        "A": "Option A",
+        "B": "Option B",
+        "D": "Option D"
+      },
+      "correct_option": "A",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "How is the Filtration Fraction (FF) calculated, and what is its normal resting value in healthy humans?",
+      "options": {
+        "A": "FF = RPF / GFR; normal -5.0",
+        "B": "FF = RBF / C_Cr; normal ~ 1.0",
+        "C": "FF = (U_Na *P_Cr) / 100; normal -0.01",
+        "D": "FF = GFR / RPF; normal -0.20 (20%, meaning 20% of plasma entering glomeruli is filtered)",
+        "E": "FF = GFR * Hematocrit; normal -50%"
+      },
+      "correct_option": "E",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why must the Cockcroft-Gault clearance estimate be multiplied by 0.85 when calculating creatinine clearance in adult females?",
+      "options": {
+        "A": "Females have higher rates of renal tubular creatinine reabsorption",
+        "B": "Adult females have on average ~15% less skeletal muscle mass per kilogram of body weight than males",
+        "C": "Female glomerular capillaries possess thicker basement membranes [DJ Estrogen directly destroys urinary creatinine molecules",
+        "E": "Female renal blood flow is universally 15% higher"
+      },
+      "correct_option": "B",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Why are modern eGFR reporting values mathematically standardized and expressed relative to Body Surface Area (mL/min/1.73 m2)?",
+      "options": {
+        "A": "To account for fluctuations in ambient temperature",
+        "B": "To correct for non-linear optical distortion in spectrophotometers",
+        "C": "To eliminate the effects of variation in body size across diverse individuals, allowing direct comparison to CKD stages",
+        "D": "To adjust for dietary sodium consumption differences",
+        "E": "To calibrate against international insulin standards"
+      },
+      "correct_option": "A",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which of the following variables is included in the 4-variable Modification of Diet in Renal Disease (MDRD) study equation?",
+      "options": {
+        "A": "Body weight in kilograms and height in centimeters",
+        "B": "24-hour urinary urea nitrogen excretion and serum albumin",
+        "C": "Blood hemoglobin concentration and serum potassium",
+        "D": "Serum Creatinine, Age, Sex, and Race (ethnicity factor)",
+        "E": "Plasma renin activity and aldosterone levels"
+      },
+      "correct_option": "C",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the major clinical limitation of the MDRD equation when applied to patients with normal or near-normal renal function?",
+      "options": {
+        "A": "It significantly overestimates GFR in acute tubular necrosis",
+        "B": "It cannot be calculated without 24-hour urine collection",
+        "C": "It is completely invalid in elderly individuals over 50 years",
+        "D": "It produces negative values in female patients",
+        "E": "It systematically underestimates true GFR at higher levels (>60 mL/min/1.73 m2), leading to false CKD diagnoses"
+      },
+      "correct_option": "A",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Why has the CKD-EPI (Chronic Kidney Disease Epidemiology Collaboration) equation largely replaced the MDRD equation in clinical practice?",
+      "options": {
+        "A": "It requires invasive arterial catheterization",
+        "B": "It is significantly more accurate at GFR >60 mL/min/1.73 m?, reducing false-positive CKD classifications while maintaining precision at low GFR",
+        "C": "It does not require serum creatinine measurement",
+        "D": "It measures inulin clearance directly through skin sensors",
+        "E": "It is unaffected by renal artery stenosis"
+      },
+      "correct_option": "B",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In a patient with bilateral lower limb amputations Q28. [Core Exam] When a patient with acute oliguria is receiving or severe muscle-wasting cachexia, how does Serum Creatinine behave relative to true GFR?",
+      "options": {
+        "A": "Creatinine production is markedly reduced, yielding a deceptively 'normal' serum creatinine despite severely depressed GFR",
+        "B": "Serum creatinine is falsely elevated, causing underestimation of GFR",
+        "C": "Serum creatinine matches inulin clearance perfectly",
+        "D": "Creatinine clearance becomes completely independent of age",
+        "E": "Creatinine is converted to albumin by the liver"
+      },
+      "correct_option": "B",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the renal fate of Cystatin C after it is freely filtered across the glomerular filtration barrier?",
+      "options": {
+        "A": "Completely secreted by collecting duct intercalated cells",
+        "B": "Excreted unchanged in urine at exactly 100% of filtered load",
+        "C": "Completely reabsorbed and catabolized by proximal tubular epithelial cells via megalin, so none returns to circulation",
+        "D": "Converted into urea by medullary arginase",
+        "E": "Precipitated into Tamm-Horsfall mucoprotein matrix"
+      },
+      "correct_option": "C",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "When is a confirmatory eGFR based on Cystatin C (eGFR_cys or combined eGFR_cr-cys) specifically recommended by DIGO guidelines?",
+      "options": {
+        "A": "When eGFR_cr is between 45-59 mL/min/1.73 m2 without markers of kidney damage, to confirm or refute Stage 3a CKD",
+        "B": "In acute severe cardiogenic shock only",
+        "C": "Exclusively in patients undergoing peritoneal dialysis",
+        "D": "When urine dipstick is strongly positive for bilirubin",
+        "E": "Only in children under 6 months of age"
+      },
+      "correct_option": "A",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Which of the following clinical factors can cause non-GFR-related elevation of Serum Cystatin C levels?",
+      "options": {
+        "A": "High dietary cooked meat consumption",
+        "B": "Sarcopenia and extreme skeletal muscle atrophy",
+        "C": "Untreated hyperthyroidism, high-dose corticosteroid therapy, and active systemic inflammation",
+        "D": "Ingestion of trimethoprim or cimetidine",
+        "E": "Extreme physical endurance marathon running"
+      },
+      "correct_option": "D",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the formula for calculating Fractional Excretion of Sodium (FENa), expressed in terms of spot urine and plasma chemistry?",
+      "options": {
+        "A": "FENa = (U_Na * P_Na) / (U_Cr * P_Cr) * 100%",
+        "B": "FENa = (U_Na /P_Na) * 100%",
+        "C": "FENa = (P_Cr /U_Cr) * 100%",
+        "D": "FENa = [(U_Na * P_Cr) / (P_Na * U_Cr)] * 100% [which equals (Clearance_Na / Clearance_Cr) * 100%]",
+        "E": "FENa = (U_Na + U_Cr) / (P_Na + P_Cr)"
+      },
+      "correct_option": "E",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A patient with acute oliguria has FENa < 1% (and urine sodium < 20 mEq/L). What does this biochemical finding indicate?",
+      "options": {
+        "A": "Fractional Excretion of Glucose (FE_Glu)",
+        "B": "Fractional Excretion of Potassium (FE_K)",
+        "C": "Fractional Excretion of Urea (FE_Urea < 35% indicates prerenal azotemia because urea transport is independent of loop diuretics)",
+        "D": "Fractional Excretion of Calcium (FE_Ca)",
+        "E": "Fractional Excretion of Magnesium (FE_Mg)"
+      },
+      "correct_option": "E",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 28 covering high-yield concepts in Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Under the international KDIGO guideline classification, what spot urine Albumin-to-Creatinine Ratio (ACR) defines 'Category A2 / Microalbuminuria\"?",
+      "options": {
+        "A": "ACR < 10 mg/g (< 1 mg/mmol)",
+        "B": "ACR > 300 mg/g (> 30 mg/mmol)",
+        "C": "ACR > 3,500 mg/g",
+        "D": "ACR 30 to 300 mg/g (3 to 30 mg/mmol), representing moderately increased albuminuria",
+        "E": "Exactly 0 mg/g"
+      },
+      "correct_option": "D",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the clinical significance of detecting persistent Microalbuminuria (Stage A2) in a patient with Type 1 or Type 2 Diabetes?",
+      "options": {
+        "A": "Earliest clinical evidence of diabetic nephropathy and an independent marker of heightened cardiovascular mortality",
+        "B": "Indicative of immediate acute tubular necrosis requiring hemodialysis",
+        "C": "Sign of complete remission of diabetes mellitus",
+        "D": "Proof of urinary tract infection requiring 6 weeks of antibiotics",
+        "E": "Indication for immediate unilateral nephrectomy"
+      },
+      "correct_option": "A",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "How does Urine Protein-to-Creatinine Ratio (PCR) differ from Urine Albumin-to-Creatinine Ratio (ACR)?",
+      "options": {
+        "A": "PCR measures only albumin; ACR measures all globulins",
+        "B": "PCR is expressed in grams per liter; ACR is expressed in moles",
+        "C": "PCR quantifies total urinary protein (albumin + tubular proteins + light chains), whereas ACR specifically quantifies albumin",
+        "D": "PCR is valid only in children under 2 years of age",
+        "E": "Both tests give identical numerical values under all conditions"
+      },
+      "correct_option": "C",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In screening for Multiple Myeloma light chain proteinuria (Bence-Jones cast nephropathy), why is Urine PCR or SSA testing required rather than ACR?",
+      "options": {
+        "A": "Monoclonal immunoglobulin light chains are not detected by albumin-specific immunoassays (ACR)",
+        "B": "Light chains destroy the albumin assay antibody reagents",
+        "C": "Myeloma patients have zero urinary creatinine excretion",
+        "D": "ACR reagents cross-react with urinary glucose",
+        "E": "Bence-Jones proteins evaporate during ACR processing"
+      },
+      "correct_option": "A",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the definition and mathematical calculation of Osmolar Clearance (C_osm)?",
+      "options": {
+        "A": "C_osm = (U_osm * V) / P_osm (the volume of plasma cleared of total osmotically active solutes per minute",
+        "B": "C_osm = P_osm / (U_osm * V)",
+        "C": "C_osm = U_osm * P_osm * V",
+        "D": "C_osm = V - U_osm",
+        "E": "C_osm = GFR / P_osm"
+      },
+      "correct_option": "A",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "How is Free Water Clearance (C_H20) calculated, and what does a NEGATIVE value (negative C_H20 or T^с_H2O) signify?",
+      "options": {
+        "A": "C_H20 = V + C_osm; negative value indicates acute kidney failure",
+        "B": "C_H20 = V - C_osm; negative value indicates hyperosmotic urine (U_osm > P_osm) & water conservation",
+        "C": "C_H20 = C_osm / V; negative value indicates water intoxication",
+        "D": "C_H20 = GFR - V; negative value indicates complete anuria",
+        "E": "C_H20 = (U_Na * V) / P_Na; negative value indicates salt wasting"
+      },
+      "correct_option": "B",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Administration of Cimetidine or Trimethoprim causes a rise in Serum Creatinine (15-25%) without altering true GFR because:",
+      "options": {
+        "A": "They induce acute tubular necrosis in the loop of Henle",
+        "B": "They stimulate hepatic synthesis of phosphocreatine",
+        "C": "They cause massive lysis of circulating skeletal myocytes",
+        "D": "They competitively inhibit organic cation transporters (OCT2/MATE1) responsible for proximal tubular creatinine secretion",
+        "E": "They bind irreversibly to the Jaffe picrate reagent pad"
+      },
+      "correct_option": "B",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "How does consumption of a large cooked red meat meal prior to blood sampling affect routine laboratory renal function testing?",
+      "options": {
+        "A": "It causes a permanent 50% drop in true glomerular filtration rate",
+        "B": "It completely suppresses urinary urea production",
+        "C": "It precipitates calcium oxalate stones within 10 minutes",
+        "D": "It produces massive proteinuria on dipstick",
+        "E": "Exogenous dietary creatine is converted to creatinine during cooking and absorbed, causing a transient benign elevation in serum creatinine"
+      },
+      "correct_option": "D",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "A 24-hour urine collection has volume 1,440 mL (1.0 mL/min), urine creatinine 120 mg/dL, and serum creatinine 1.0 mg/dL. What is the Creatinine Clearance?",
+      "options": {
+        "A": "60 mL/min",
+        "B": "100 mL/min",
+        "C": "240 mL/min",
+        "D": "120 mL/min [C_Cr = (U_Cr * V) / P_Cr = (120 * 1.0) / 1.0 = 120 mL/min]",
+        "E": "12 mL/min"
+      },
+      "correct_option": "D",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Calculate the estimated Creatinine Clearance using Cockcroft-Gault for a 70-year-old male weighing 72 kg with serum creatinine of 1.0 mg/dL:",
+      "options": {
+        "A": "70 mL/min [eC_Cr = [(140 - 70) * 72] / (72 * 1.0) = (70 * 72) / 72 = 70 mL/min]",
+        "B": "120 mL/min",
+        "C": "35 mL/min",
+        "D": "50 mL/min",
+        "E": "90 mL/min"
+      },
+      "correct_option": "A",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "If the same patient (70 years old, 72 kg, serum creatinine 1.0 mg/dL) was FEMALE, what would be her estimated creatinine clearance by Cockcroft-Gault?",
+      "options": {
+        "A": "70 mL/min",
+        "B": "85 mL/min",
+        "C": "59.5 mL/min [eC_Cr = 70 * 0.85 = 59.5 mL/min]",
+        "D": "45 mL/min",
+        "E": "30 mL/min"
+      },
+      "correct_option": "E",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A patient produces 0.5 mL/min urine with U_osm 600 mOsm/kg. P_osm is 300 mOsm/kg. What is the Free Water Clearance?",
+      "options": {
+        "A": "+0.5 mL/min",
+        "B": "+1.0 mL/min",
+        "C": "-2.0 mL/min",
+        "D": "Zero",
+        "E": "-0.5 mL/min [C_osm = (600*0.5)/300 = 1.0 mL/min; C_H20 = 0.5 - 1.0 = -0.5 mL/min]"
+      },
+      "correct_option": "E",
+      "explanation": "**(Estimated Creatinine**: (NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%\n\n**Clearance)**: adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD",
+      "masterclass_id": 31,
+      "masterclass_title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    }
+  ]
+}

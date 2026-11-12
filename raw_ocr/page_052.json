@@ -1,0 +1,989 @@
+{
+  "page" : 52,
+  "items" : [
+    {
+      "x" : 0.2829218099108368,
+      "y" : 0.9774224804452566,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 13 MCQ Masterclass",
+      "h" : 0.013178293969896115,
+      "w" : 0.5,
+      "conf" : 1
+    },
+    {
+      "x" : 0.9351851860318658,
+      "y" : 0.9760174419605463,
+      "text" : "Page 2 of 4",
+      "h" : 0.01091313150193951,
+      "w" : 0.0681153483360819,
+      "conf" : 1
+    },
+    {
+      "x" : 0.3816872515174895,
+      "y" : 0.9643217054186286,
+      "text" : "Twisted Medicine Medical Series • Countercurrent Multiplier, Exchanger, Urea Recycling & Water Balance • Standard Practice Bank",
+      "h" : 0.01031007766723635,
+      "w" : 0.6975308304312845,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24588477898662542,
+      "y" : 0.949861111301152,
+      "text" : "Q15. [2025 Exam] The Vasa Recta function in the renal medulla as",
+      "h" : 0.01027777777777783,
+      "w" : 0.42592592059441325,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7427983583950617,
+      "y" : 0.9484625323354519,
+      "text" : "Q22. [2023 Exam] How does ADH promote the accumulation of urea in",
+      "h" : 0.010297157499525311,
+      "w" : 0.4485596470862815,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24897120061728367,
+      "y" : 0.9353197675145348,
+      "text" : "Countercurrent Exchangers whose primary physiological role is to:",
+      "h" : 0.010174418555365716,
+      "w" : 0.4320987725407822,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6327160531893002,
+      "y" : 0.9353197675145348,
+      "text" : "the inner medullary interstitium?",
+      "h" : 0.010174418555365716,
+      "w" : 0.22839504217951556,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2551440384773661,
+      "y" : 0.9193055556340772,
+      "text" : "A Actively pump sodium ions against massive concentration gradients into",
+      "h" : 0.010277777777777719,
+      "w" : 0.44444442844990667,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7211934087448562,
+      "y" : 0.9207848836482558,
+      "text" : "[A] It directly synthesizes urea from ammonia within the macula densa",
+      "h" : 0.010174418555365605,
+      "w" : 0.41358021670167555,
+      "conf" : 1
+    },
+    {
+      "x" : 0.06378600713175367,
+      "y" : 0.9091569766821288,
+      "text" : "the papilla",
+      "h" : 0.01081009334988059,
+      "w" : 0.06603459292237863,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7386831219650207,
+      "y" : 0.9076453488874352,
+      "text" : "[B] It stimulates water reabsorption in cortical\/outer medullary ducts (raising",
+      "h" : 0.01029069741566968,
+      "w" : 0.4485596470862815,
+      "conf" : 1
+    },
+    {
+      "x" : 0.254115220756173,
+      "y" : 0.896075581340843,
+      "text" : "[B] Filter plasma under ultra-high hydrostatic pressure exceeding 100 mmHg",
+      "h" : 0.010174418555365716,
+      "w" : 0.44650206175990076,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7129629579989712,
+      "y" : 0.896075581340843,
+      "text" : "luminal urea concentration) and activates UT-A1\/UT-A3 in the IMCD",
+      "h" : 0.010174418555365716,
+      "w" : 0.3971193421561763,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23148148816872405,
+      "y" : 0.8829295866051785,
+      "text" : "[C] Secrete massive volumes of water directly into the loop of Henle",
+      "h" : 0.01030361758338083,
+      "w" : 0.4012345607925511,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7294238611454049,
+      "y" : 0.8829295864598297,
+      "text" : "[C] It blocks all urea filtration across the glomerular basement membrane",
+      "h" : 0.01030361758338083,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2530864271604936,
+      "y" : 0.870587855056055,
+      "text" : "[D] Reabsorb 100% of filtered glucose and amino acids from the interstitium",
+      "h" : 0.011731265915764677,
+      "w" : 0.44444442844990667,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7098765366941018,
+      "y" : 0.8698611110622435,
+      "text" : "[D] It converts urea into insoluble crystals within the minor calyces",
+      "h" : 0.01027777777777783,
+      "w" : 0.39094649020980743,
+      "conf" : 1
+    },
+    {
+      "x" : 0.239711928883745,
+      "y" : 0.8568055554887284,
+      "text" : "[E] Passively preserve the medullary hypertonic gradient while supplying",
+      "h" : 0.010277777777777719,
+      "w" : 0.42181070195803855,
+      "conf" : 1
+    },
+    {
+      "x" : 0.719135795644719,
+      "y" : 0.8575193795131201,
+      "text" : "[E] It degrades urea transporters in the inner medullary collecting duct",
+      "h" : 0.011705426110161676,
+      "w" : 0.4094649980653007,
+      "conf" : 1
+    },
+    {
+      "x" : 0.15740741057098753,
+      "y" : 0.8451453487678744,
+      "text" : "nutrients and oxygen to medullary tissues",
+      "h" : 0.010290697945488758,
+      "w" : 0.2530864019813777,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22530864081790122,
+      "y" : 0.8211563305732017,
+      "text" : "Q16. [2024 Exam] Why do the Vasa Recta NOT wash out the",
+      "h" : 0.0117571051915486,
+      "w" : 0.3847736622552451,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23251029139231816,
+      "y" : 0.8080878553451892,
+      "text" : "hypertonic medullary gradient despite being highly permeable",
+      "h" : 0.011731266445583755,
+      "w" : 0.39917695147436366,
+      "conf" : 1
+    },
+    {
+      "x" : 0.07510288213305893,
+      "y" : 0.7943313954699613,
+      "text" : "capillaries?",
+      "h" : 0.010174418555365716,
+      "w" : 0.08847736262675351,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24074074593621383,
+      "y" : 0.7798546511125648,
+      "text" : "[A] Hairpin U-turn allows passive solute\/water exchange between limbs",
+      "h" : 0.010290697415669792,
+      "w" : 0.4156378500116696,
+      "conf" : 1
+    },
+    {
+      "x" : 0.17798354203703703,
+      "y" : 0.7667151163226744,
+      "text" : "[B] Ultra-rapid blood flow exceeding aortic velocity",
+      "h" : 0.010174418555365605,
+      "w" : 0.2942386843123526,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1738683175240053,
+      "y" : 0.7536337210513566,
+      "text" : "[C] Thick impermeable stratified squamous wall",
+      "h" : 0.010174418555365716,
+      "w" : 0.2860082230477963,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20267490120027426,
+      "y" : 0.7413436693525605,
+      "text" : "[D] Complete cortical restriction without medullary descent",
+      "h" : 0.011757105721367678,
+      "w" : 0.34773662255245186,
+      "conf" : 1
+    },
+    {
+      "x" : 0.16563785552126215,
+      "y" : 0.7289244185319768,
+      "text" : "[E] Active solute secretion into the renal pelvis",
+      "h" : 0.010174418555365605,
+      "w" : 0.2736625431468651,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7294238753429354,
+      "y" : 0.8211563305505403,
+      "text" : "Q23. [2021 Exam] The facilitated urea transporters located on the",
+      "h" : 0.011757105721367789,
+      "w" : 0.4218107019580385,
+      "conf" : 1
+    },
+    {
+      "x" : 0.736625507064472,
+      "y" : 0.8073934106383429,
+      "text" : "apical and basolateral membranes of the Inner Medullary Collecting",
+      "h" : 0.013120154804653672,
+      "w" : 0.44032920981353174,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6203703729166665,
+      "y" : 0.7943055556340772,
+      "text" : "Duct (IMCD) are designated as:",
+      "h" : 0.01027777777777783,
+      "w" : 0.20370370636946,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5812757223251028,
+      "y" : 0.7798546511307335,
+      "text" : "[A] SGLT1 and SGLT2",
+      "h" : 0.010290697415669792,
+      "w" : 0.12962962696387337,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.5761316857338821,
+      "y" : 0.766715116109496,
+      "text" : "[B] NKCC2 and NCC",
+      "h" : 0.010174418555365716,
+      "w" : 0.11934155638112964,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.7397119266460908,
+      "y" : 0.7536337209060078,
+      "text" : "[C] UT-A1 (apical) and UT-A3 (basolateral), both stimulated by ADH via cAMP",
+      "h" : 0.010174418555365605,
+      "w" : 0.45061728039627547,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5761316879115226,
+      "y" : 0.7413436694267983,
+      "text" : "[D] ENaC and ROMK",
+      "h" : 0.0117571051915486,
+      "w" : 0.11934155638112964,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5792181053840879,
+      "y" : 0.7289244184350776,
+      "text" : "[E] GLUT4 and GLUT1",
+      "h" : 0.010174418555365716,
+      "w" : 0.12962962696387337,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2520576094993143,
+      "y" : 0.6947351418998955,
+      "text" : "Q17. [2023 Exam] As blood flows DOWN the Descending Vasa Recta",
+      "h" : 0.011692506472269715,
+      "w" : 0.4382715765035377,
+      "conf" : 1
+    },
+    {
+      "x" : 0.258230460185185,
+      "y" : 0.6802648581258928,
+      "text" : "into the hypertonic inner medulla, what passive fluid and solute shifts",
+      "h" : 0.011692505942450637,
+      "w" : 0.4506172803962756,
+      "conf" : 1
+    },
+    {
+      "x" : 0.05555555591563785,
+      "y" : 0.6686046512718022,
+      "text" : "occur?",
+      "h" : 0.00872092988755968,
+      "w" : 0.0452674889714463,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24897118614540487,
+      "y" : 0.6533430231831396,
+      "text" : "[A] Solutes exit the blood into the interstitium, while water enters the blood",
+      "h" : 0.010174418555365716,
+      "w" : 0.43621399117715703,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24897118614540487,
+      "y" : 0.6402616278343023,
+      "text" : "[B] Solutes (NaCl and urea) diffuse into the blood, while water is drawn out",
+      "h" : 0.010174418555365605,
+      "w" : 0.43621399117715703,
+      "conf" : 1
+    },
+    {
+      "x" : 0.12448559982853215,
+      "y" : 0.6279069768410852,
+      "text" : "into the hypertonic interstitium",
+      "h" : 0.00872092988755968,
+      "w" : 0.18724279583625075,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22942386169410176,
+      "y" : 0.615552325508721,
+      "text" : "[C] Red blood cells undergo immediate lysis due to hypotonic shock",
+      "h" : 0.010174418555365605,
+      "w" : 0.39711931816436963,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24279836097393667,
+      "y" : 0.6024709303052327,
+      "text" : "[D] Blood osmolality drops from 300 to 50 mOsm\/kg at the papillary turn",
+      "h" : 0.010174418555365716,
+      "w" : 0.4238682872844192,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21502056992455437,
+      "y" : 0.5893217052551112,
+      "text" : "[E] Plasma proteins are completely filtered into the tubular fluid",
+      "h" : 0.01031007766723624,
+      "w" : 0.37242798235431407,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2541152290895061,
+      "y" : 0.5669121448470458,
+      "text" : "Q18. [2022 Exam] As blood flows UP the Ascending Vasa Recta back",
+      "h" : 0.011731265915764788,
+      "w" : 0.44238684312352594,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2139917634430729,
+      "y" : 0.5538436694979094,
+      "text" : "toward the corticomedullary junction, what shifts occur?",
+      "h" : 0.011757105721367789,
+      "w" : 0.36625513040794516,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20576132263374466,
+      "y" : 0.538472222405789,
+      "text" : "[A] Blood osmolality rises from 1200 up to 3000 mOsm\/kg",
+      "h" : 0.010277777777777719,
+      "w" : 0.3456789892424577,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24279834842249678,
+      "y" : 0.5261272605724896,
+      "text" : "[B] Large amounts of sodium are actively pumped into the arcuate artery",
+      "h" : 0.011698966026306157,
+      "w" : 0.4238682872844192,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25925926680384065,
+      "y" : 0.5137532299544244,
+      "text" : "[C] Solutes diffuse back into the interstitium, while water is drawn osmotically",
+      "h" : 0.010284237861633239,
+      "w" : 0.4526748657226563,
+      "conf" : 1
+    },
+    {
+      "x" : 0.14917695860768163,
+      "y" : 0.5021802326792635,
+      "text" : "back into the ascending capillary blood",
+      "h" : 0.010174418555365716,
+      "w" : 0.23251028480769706,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25308642709190643,
+      "y" : 0.48903746780989704,
+      "text" : "[D] Ascending vasa recta collapse completely, trapping blood in the papilla",
+      "h" : 0.010297157499525311,
+      "w" : 0.4403292098135318,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2129629666049382,
+      "y" : 0.47597222240578896,
+      "text" : "[E] Water is actively pumped into the medullary collecting duct",
+      "h" : 0.01027777777777783,
+      "w" : 0.3641975210897577,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7417695434499316,
+      "y" : 0.6947351418998955,
+      "text" : "Q24. [2025 Exam] In the process of Urea Recycling, urea that diffuses",
+      "h" : 0.011692506472269715,
+      "w" : 0.4465020617599008,
+      "conf" : 1
+    },
+    {
+      "x" : 0.724279828395062,
+      "y" : 0.6809722224690676,
+      "text" : "into the inner medullary interstitium from the IMCD re-enters the",
+      "h" : 0.01027777777777783,
+      "w" : 0.4197530686480443,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5853909488683127,
+      "y" : 0.6686111111626412,
+      "text" : "tubular lumen at the:",
+      "h" : 0.008888889153798485,
+      "w" : 0.14197530686480453,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6399176996570644,
+      "y" : 0.6540697674903101,
+      "text" : "[A] Proximal Convoluted Tubule via SGLT2",
+      "h" : 0.00872092988755968,
+      "w" : 0.25102879266319034,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6450617316100822,
+      "y" : 0.6402616279614826,
+      "text" : "[B] Bowman's space via retrograde filtration",
+      "h" : 0.010174418555365605,
+      "w" : 0.2572016446095593,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6419753128257886,
+      "y" : 0.6271802326792635,
+      "text" : "[C] Early Distal Convoluted Tubule via NCC",
+      "h" : 0.010174418555365716,
+      "w" : 0.25102879266319034,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7170781842849796,
+      "y" : 0.6140374676827167,
+      "text" : "[D] Thin limbs of the Loop of Henle (via facilitated transporter UT-A2)",
+      "h" : 0.010297157499525311,
+      "w" : 0.40123456079255115,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6697530815843624,
+      "y" : 0.6016957364061222,
+      "text" : "[E] Glomerular capillary lumen through fenestrations",
+      "h" : 0.011724805831909157,
+      "w" : 0.30658434022147707,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7191357985253775,
+      "y" : 0.5669121447985963,
+      "text" : "Q25. [Faculty Exam] Why does a patient on a prolonged Severe",
+      "h" : 0.011731265915764677,
+      "w" : 0.40123456079255104,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7037037048868311,
+      "y" : 0.553052325454215,
+      "text" : "Protein-Deficient Diet exhibit an impaired maximum urine",
+      "h" : 0.010174418555365716,
+      "w" : 0.37037037303612663,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6234567927469135,
+      "y" : 0.5406976745276163,
+      "text" : "concentrating ability (polyuria)?",
+      "h" : 0.011627906163533597,
+      "w" : 0.2098765343240222,
+      "conf" : 1
+    },
+    {
+      "x" : 0.637860086419753,
+      "y" : 0.5254166668625548,
+      "text" : "[A] Causes acute bilateral renal agenesis",
+      "h" : 0.010277777777777719,
+      "w" : 0.24691357402681546,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6327160483882031,
+      "y" : 0.513058785126454,
+      "text" : "[B] Blocks all glomerular water filtration",
+      "h" : 0.011673126220703045,
+      "w" : 0.23662550344407185,
+      "conf" : 1
+    },
+    {
+      "x" : 0.654320991100823,
+      "y" : 0.5006944443510938,
+      "text" : "[C] Destroys all proximal Aquaporin-1 channels",
+      "h" : 0.01027777777777783,
+      "w" : 0.27572015246505266,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6831275775720163,
+      "y" : 0.48763888882602824,
+      "text" : "[D] Stimulates excessive atrial natriuretic peptide release",
+      "h" : 0.01027777777777783,
+      "w" : 0.33333333333333326,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7283950564300412,
+      "y" : 0.4745833331556138,
+      "text" : "[E] Reduced hepatic urea lowers medullary urea accumulation & gradient",
+      "h" : 0.010277777777777719,
+      "w" : 0.42386828728441917,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2541152307613168,
+      "y" : 0.4404069768023256,
+      "text" : "Q19. [2021 Exam] What is the crucial relationship between Medullary",
+      "h" : 0.01162790722317164,
+      "w" : 0.44238684312352594,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25308642393689973,
+      "y" : 0.4265374675676488,
+      "text" : "Blood Flow rate and the maintenance of the medullary concentration",
+      "h" : 0.010297157499525311,
+      "w" : 0.44032920981353185,
+      "conf" : 1
+    },
+    {
+      "x" : 0.06481481401748973,
+      "y" : 0.4135174417696221,
+      "text" : "gradient?",
+      "h" : 0.010174418555365716,
+      "w" : 0.06378600882284297,
+      "conf" : 1
+    },
+    {
+      "x" : 0.223251033616255,
+      "y" : 0.39902777772139125,
+      "text" : "[A] Rapid blood flow is required to sustain medullary hypertonicity",
+      "h" : 0.010277777777777719,
+      "w" : 0.3847736622552452,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20061728819444435,
+      "y" : 0.38596253235362055,
+      "text" : "[B] Vasa recta blood flow ceases entirely during hydration",
+      "h" : 0.0102971574995252,
+      "w" : 0.33950616128789557,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21399177565157732,
+      "y" : 0.372819767514535,
+      "text" : "[C] Medullary perfusion has zero effect on urine concentration",
+      "h" : 0.010174418555365716,
+      "w" : 0.36625513040794516,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22016460274348443,
+      "y" : 0.3597383720687986,
+      "text" : "[D] Sluggish flow (<10% RBF); rapid flow washes out the gradient",
+      "h" : 0.010174418555365716,
+      "w" : 0.37860081030887627,
+      "conf" : 1
+    },
+    {
+      "x" : 0.17078189773662536,
+      "y" : 0.3466569768168605,
+      "text" : "[E] Sluggish flow causes acute cortical necrosis",
+      "h" : 0.010174418555365605,
+      "w" : 0.28395061372960884,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7345679066358024,
+      "y" : 0.44040697678052326,
+      "text" : "Q26. [2022 Exam] Net water and solute removal from the medullary",
+      "h" : 0.011627906163533486,
+      "w" : 0.4320987725407823,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6718107048353907,
+      "y" : 0.4265374678583465,
+      "text" : "interstitium by the Vasa Recta occurs because:",
+      "h" : 0.010297157499525311,
+      "w" : 0.31481480148603336,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7325102953360767,
+      "y" : 0.4120833331858949,
+      "text" : "[A] Oncotic pressure in ascending vasa recta exceeds interstitial pressure,",
+      "h" : 0.010277777777777719,
+      "w" : 0.4362139911771571,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6666666716735251,
+      "y" : 0.4004166668625548,
+      "text" : "and total ascending flow exceeds descending flow",
+      "h" : 0.010277777777777719,
+      "w" : 0.30041151226691465,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7211934208076132,
+      "y" : 0.38736111133748913,
+      "text" : "[B] Lymphatic vessels in the inner medulla remove 99% of filtered fluid",
+      "h" : 0.010277777777777719,
+      "w" : 0.41358021670167544,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7304526695473252,
+      "y" : 0.37430555568524343,
+      "text" : "[C] Descending vasa recta actively pump water into the renal pelvic cavity",
+      "h" : 0.010277777777777719,
+      "w" : 0.42798350592079404,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7397119334104938,
+      "y" : 0.3626388888805339,
+      "text" : "[D] Capillary hydrostatic pressure in vasa recta is higher than systemic aortic",
+      "h" : 0.010277777777777719,
+      "w" : 0.4465020617599007,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5442386824775888,
+      "y" : 0.3488372091534576,
+      "text" : "pressure",
+      "h" : 0.00902109040154353,
+      "w" : 0.055648431837933554,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7304526802469133,
+      "y" : 0.3379166668443862,
+      "text" : "[E] Medullary interstitial fluid evaporates into the collecting duct air space",
+      "h" : 0.010277777777777719,
+      "w" : 0.42798350592079404,
+      "conf" : 1
+    },
+    {
+      "x" : 0.71399177345679,
+      "y" : 0.3125000000872093,
+      "text" : "Q27. [Core Concept How does osmotic diuresis (e.g., severe",
+      "h" : 0.011666666666666603,
+      "w" : 0.3909464902098073,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7026748928755144,
+      "y" : 0.2994412145343987,
+      "text" : "hyperglycemia or mannitol infusion) impair the medullary",
+      "h" : 0.011673126220703156,
+      "w" : 0.36831273972613254,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6111111141975307,
+      "y" : 0.28708333333124364,
+      "text" : "countercurrent mechanism?",
+      "h" : 0.010277777777777719,
+      "w" : 0.18518517452216,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6810699642661178,
+      "y" : 0.27107558151647276,
+      "text" : "[A] Mannitol directly destroys V2 vasopressin receptors",
+      "h" : 0.010174418555365716,
+      "w" : 0.3251028720687771,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7150205828189298,
+      "y" : 0.2579295866051785,
+      "text" : "[B] High tubular flow increases medullary flow, washing out gradient",
+      "h" : 0.01030361758338083,
+      "w" : 0.40123456079255104,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6635802419410153,
+      "y" : 0.24636627899709312,
+      "text" : "[C] Glucose crystallizes inside interlobular arteries",
+      "h" : 0.010174418555365716,
+      "w" : 0.29835390294872743,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6687242849108366,
+      "y" : 0.23251937965846892,
+      "text" : "[D] Glucose triggers immediate hyperaldosteronism",
+      "h" : 0.011705426110161676,
+      "w" : 0.30452673090328963,
+      "conf" : 1
+    },
+    {
+      "x" : 0.667695478360768,
+      "y" : 0.22014534874970576,
+      "text" : "[E] Osmotic agents render the TAL water-permeable",
+      "h" : 0.010290697945488758,
+      "w" : 0.30658434022147696,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23148148644547312,
+      "y" : 0.313194444387431,
+      "text" : "Q20. [2020 Exam] Approximately what percentage of the total",
+      "h" : 0.010277777777777719,
+      "w" : 0.3971193421561763,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23868313271604924,
+      "y" : 0.3001388888441968,
+      "text" : "medullary interstitial hyperosmolality at the papillary tip (~1200",
+      "h" : 0.01027777777777783,
+      "w" : 0.4115226313752949,
+      "conf" : 1
+    },
+    {
+      "x" : 0.14403292062757206,
+      "y" : 0.2863727390883631,
+      "text" : "mOsm\/kg) is contributed by Urea?",
+      "h" : 0.011698966026306157,
+      "w" : 0.22222221422495333,
+      "conf" : 1
+    },
+    {
+      "x" : 0.07716049530178322,
+      "y" : 0.2718023256298451,
+      "text" : "[A] ~1% to 2%",
+      "h" : 0.00872092988755968,
+      "w" : 0.08847736262675351,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2479423795953363,
+      "y" : 0.25792958650827913,
+      "text" : "[B] Zero (urea is completely excreted without accumulating in interstitium)",
+      "h" : 0.01030361758338083,
+      "w" : 0.43415635786716295,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18209876921296286,
+      "y" : 0.24563953495639546,
+      "text" : "[C] 100% (NaCl plays zero role in the inner medulla)",
+      "h" : 0.00872092988755968,
+      "w" : 0.3024691215851022,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20781893441358015,
+      "y" : 0.2332848837754361,
+      "text" : "[D] ~10% (potassium provides the vast majority of osmoles)",
+      "h" : 0.010174418555365605,
+      "w" : 0.3497942318706393,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2572016536351164,
+      "y" : 0.22014534896616572,
+      "text" : "[E] ~40% to 50% (~500-600 mOsm\/kg), with NaCl contributing the remaining",
+      "h" : 0.01029069741566968,
+      "w" : 0.45267486572265625,
+      "conf" : 1
+    },
+    {
+      "x" : 0.047325103360768166,
+      "y" : 0.20857558146802324,
+      "text" : "50%",
+      "h" : 0.007267441749572834,
+      "w" : 0.028806584436188706,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21193415041152283,
+      "y" : 0.1860885015946992,
+      "text" : "Q21. [2024 Exam] Which tubular segment is completely",
+      "h" : 0.011711886194017196,
+      "w" : 0.3580246691433888,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24897120061728367,
+      "y" : 0.17151162771317824,
+      "text" : "IMPERMEABLE to urea, even in the presence of maximal circulating",
+      "h" : 0.011627906163533486,
+      "w" : 0.43621399117715703,
+      "conf" : 1
+    },
+    {
+      "x" : 0.16152263638545944,
+      "y" : 0.15915697657461253,
+      "text" : "levels of Antidiuretic Hormone (ADH)?",
+      "h" : 0.010174418555365716,
+      "w" : 0.26131686324593406,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2345679006858711,
+      "y" : 0.14388888908937436,
+      "text" : "[A] Cortical and Outer Medullary Collecting Ducts, as well as the Thick",
+      "h" : 0.011666666666666714,
+      "w" : 0.40740741273892006,
+      "conf" : 1
+    },
+    {
+      "x" : 0.08436214170096015,
+      "y" : 0.1329295866051785,
+      "text" : "Ascending Limb",
+      "h" : 0.01030361758338083,
+      "w" : 0.1069958764801985,
+      "conf" : 1
+    },
+    {
+      "x" : 0.15534979112654332,
+      "y" : 0.11986111103196256,
+      "text" : "[B] Inner Medullary Collecting Duct (IMCD)",
+      "h" : 0.010277777777777719,
+      "w" : 0.24897118334500296,
+      "conf" : 1
+    },
+    {
+      "x" : 0.12654321306584349,
+      "y" : 0.10757105953458435,
+      "text" : "[C] Proximal Convoluted Tubule",
+      "h" : 0.008746769693162681,
+      "w" : 0.19135801447262552,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1337448585390946,
+      "y" : 0.09375000009084311,
+      "text" : "[D] Thin Descending Limb of Henle",
+      "h" : 0.01027777777777783,
+      "w" : 0.20576131568764744,
+      "conf" : 1
+    },
+    {
+      "x" : 0.11213991731824419,
+      "y" : 0.08069444428719219,
+      "text" : "[E] Papillary Ducts of Bellini",
+      "h" : 0.01027777777777783,
+      "w" : 0.1625514360343885,
+      "conf" : 1
+    },
+    {
+      "x" : 0.728395065925926,
+      "y" : 0.18608850120053905,
+      "text" : "Q28. [Core Concept] The oxygen tension in the normal inner renal",
+      "h" : 0.011711886194017196,
+      "w" : 0.4197530686480445,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7314814886488338,
+      "y" : 0.17223837216569765,
+      "text" : "medulla is low (p02 ~10-15 mmHg). This physiological hypoxia is",
+      "h" : 0.010174418555365716,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5709876525034294,
+      "y" : 0.15915697667151157,
+      "text" : "primarily due to:",
+      "h" : 0.010174418555365716,
+      "w" : 0.1090534977942893,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7078189348251027,
+      "y" : 0.1445833331044476,
+      "text" : "[A] Absence of any red blood cells inside the medullary capillaries",
+      "h" : 0.01027777777777783,
+      "w" : 0.38271602894525125,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7139917745370368,
+      "y" : 0.1315277775975507,
+      "text" : "[B] Complete vasoconstriction of all renal segmental arteries at rest",
+      "h" : 0.010277777777777719,
+      "w" : 0.3991769514743637,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7129629678755143,
+      "y" : 0.11847222205431635,
+      "text" : "[C] High metabolic ATP demand of active transport combined with",
+      "h" : 0.010277777777777719,
+      "w" : 0.39300409952799475,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7201646158436211,
+      "y" : 0.1068055556159086,
+      "text" : "countercurrent 02 shunting from descending to ascending vasa recta",
+      "h" : 0.010277777777777719,
+      "w" : 0.40740741273892,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6954732449931416,
+      "y" : 0.0937499999757751,
+      "text" : "[D] Inhalation of low atmospheric oxygen during resting sleep",
+      "h" : 0.010277777777777719,
+      "w" : 0.36213991177157034,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7283950549382718,
+      "y" : 0.08208333321951539,
+      "text" : "[E] Immediate destruction of hemoglobin by Tamm-Horsfall glycoprotein",
+      "h" : 0.010277777777777719,
+      "w" : 0.4238682872844193,
+      "conf" : 1
+    },
+    {
+      "x" : 0.3209876615226336,
+      "y" : 0.014573643611020815,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Boar am Past Papers",
+      "h" : 0.017519379191928475,
+      "w" : 0.5761316647319674,
+      "conf" : 1
+    },
+    {
+      "x" : 0.8734567925154321,
+      "y" : 0.01966085278616625,
+      "text" : "Confidential Student Revision Bank",
+      "h" : 0.007344961166381836,
+      "w" : 0.19135801447262546,
+      "conf" : 1
+    }
+  ]
+}

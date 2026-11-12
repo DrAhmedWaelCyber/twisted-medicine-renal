@@ -1,0 +1,895 @@
+{
+  "id": 37,
+  "title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+  "department": "Clinical Nephrology & Urology",
+  "department_desc": "Clinical approach, AKI, dialysis, nephrotic/nephritic syndrome, renovascular hypertension, cystics and oncology",
+  "booklet_pages": "Pages 145 - 148",
+  "pdf_pages": [
+    147,
+    148,
+    149,
+    150
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 38 — HIGH-YIELD GLOMERULOPATHIES & NEPHROTIC SYNDROMES MATRIX",
+  "summary_table": [
+    {
+      "domain": "Commonest primary nephrotic in Caucasian",
+      "content": "LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk"
+    },
+    {
+      "domain": "Membranous Nephropathy",
+      "content": "Rule of thirds: 1/3 spontaneous remission, 1/3 persister"
+    },
+    {
+      "domain": "adults. Primary: Anti-PLA2R (70-80%).",
+      "content": "IF: Granular capillary wall IgG & C3."
+    },
+    {
+      "domain": "(MGN)",
+      "content": "proteinuria, 1/3 progress to ESRD. EM: Subepithelial electron-dense deposits."
+    },
+    {
+      "domain": "Secondary: Hep B/C, SLE (V), solid tumors,",
+      "content": "Rx: Rituximab / Cyclophosphamide."
+    },
+    {
+      "domain": "Post-Streptococcal GN",
+      "content": "LM: Diffuse proliferative & exudative GN. Children 5-12y; 1-3 wks post-GAS pharyngitis or Nephritic triad: hematuria, oliguria, hypertension. ligh ASO / Anti-DNase B, Low C3 (normalizes in 6-8w) 2-6 wks post-impetigo. Type III immune complex IF: Granular 'Starry-Sky' IgG & C3."
+    },
+    {
+      "domain": "(PSGN)",
+      "content": "Prognosis: >95% spontaneous recovery in children. EM: Subepithelial dome-shaped 'Humps'."
+    },
+    {
+      "domain": "hypersensitivity.",
+      "content": "LM: Mesangial widening & hypercellularity."
+    },
+    {
+      "domain": "IgA Nephropathy (Berger",
+      "content": "Recurrent synpharyngitic gross hematuria (1-2 days"
+    },
+    {
+      "domain": "15-30y, males. Associated with celiac &",
+      "content": "post-URI). Normal C3 IF: Mesangial granular lgA & C3."
+    },
+    {
+      "domain": "Disease)",
+      "content": "/ariable course: 20-40% slow progression to ESRD EM: Mesangial electron-dense deposits."
+    },
+    {
+      "domain": "Henoch-Schönlein purpura (IgA vasculitis).",
+      "content": "tx: ACE/ARB, targeted-release budesonide"
+    },
+    {
+      "domain": "Type I: Anti-GBM (Goodpasture).",
+      "content": "LM: Cellular Crescents in >50% glomeruli (parietal cells, Rapid renal failure over days/weeks."
+    },
+    {
+      "domain": "Rapidly Progressive GN",
+      "content": "Goodpasture: Hemoptysis + Nephritis (anti-alpha-3 Type IV Type Il: Immune complex (PSGN, SLE, IgA)."
+    },
+    {
+      "domain": "(RPGN) & Goodpasture",
+      "content": "macrophages, fibrin)."
+    },
+    {
+      "domain": "Type III: Pauci-immune (ANCA vasculitis:",
+      "content": "IF: Linear IgG (Type I); Granular (Type II); Negative (Type III). collagen)."
+    },
+    {
+      "domain": "GPA/MPA).",
+      "content": "Rx: Emergency Plasmapheresis + Steroids + EYSLAP 28SP LSP&4, high anti-dsDNA. Rx: Mycophenolate / SLE Nephritis (Class IV Diffuse Proliferative most Lupus IV: Wire-loop' subendothelial lesions, 'Full House' IF"
+    },
+    {
+      "domain": "Lupus Nephritis &",
+      "content": "Cyclophosphamide."
+    },
+    {
+      "domain": "severe).",
+      "content": "(IgG, lgA, IgM, C3, C1q)."
+    },
+    {
+      "domain": "MPGN Type I: HCV & Cryoglobulinemia.",
+      "content": "Dense Deposit: Ribbon-like intramembranous dense deposits, MPGN: 'Tram-track' split GBM (mesangial interposition). low C3 with normal C4. Dense Deposit Disease: C3NeF (altemative C*')."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which clinical tetrad definitively defines classic Nephrotic Syndrome in adults and children?",
+      "options": {
+        "A": "Macroscopic hematuria, acute oliguria, hypertension, and RBC casts",
+        "B": "Heavy proteinuria (>3.5 g/d or PCR >2 g/g), hypoalbuminemia, generalized edema & hyperlipidemia",
+        "C": "Pyuria, high fever, costovertebral angle tenderness, and WBC casts",
+        "D": "Massive glucosuria, aminoaciduria, phosphaturia, and normal albumin",
+        "E": "Painless hematuria, palpable flank mass, polycythemia, and flank pain"
+      },
+      "correct_option": "B",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the single most common cause of idiopathic nephrotic syndrome in pediatric patients aged 1 to 7 years (~85-90% of cases)?",
+      "options": {
+        "A": "Minimal Change Disease (MCD / Lipoid Nephross)",
+        "B": "Focal Segmental Glomerulosclerosis (FSGS)",
+        "C": "Membranous Nephropathy",
+        "D": "Membranoproliferative Glomerulonephritis (MPGN)",
+        "E": "Post-streptococcal glomerulonephritis"
+      },
+      "correct_option": "A",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What pathognomonic ultrastructural hallmark of Minimal Change Disease is seen on EM?",
+      "options": {
+        "A": "Large subepithelial electron-dense dome-shaped 'humps'",
+        "B": "Subendothelial electron-dense deposits with split basement membrane",
+        "C": "Diffuse effacement (flattening and fusion) of podocyte foot processes",
+        "D": "Intramembranous continuous ribbon-like dense deposits",
+        "E": "Linear continuous deposition of IgG along the lamina densa"
+      },
+      "correct_option": "C",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the characteristic appearance of glomeruli in Minimal Change Disease under standard Light Microscopy (LM)?",
+      "options": {
+        "A": "Marked diffuse mesangial cell hypercellularity and crescent formation",
+        "B": "Prominent subepithelial spikes on silver impregnation stain",
+        "C": "Extensive nodular hyaline deposits (Kimmelstiel-Wilson lesions)",
+        "D": "Completely normal-appearing glomeruli (or mild lipid accumulation in tubular epithelial cells)",
+        "E": "Circumferential cellular crescents filling Bowman's urinary space"
+      },
+      "correct_option": "D",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why is the proteinuria in Minimal Change Disease described as 'Highly Selective'?",
+      "options": {
+        "A": "It consists exclusively of immunoglobulin G (IgG) and IgM complexes",
+        "B": "It contains only Tamm-Horsfall mucoprotein synthesized by the loop of Henle",
+        "C": "It is composed strictly of light chains and Bence-Jones proteins",
+        "D": "It contains massive amounts of beta-2 microglobulin",
+        "E": "It consists almost entirely of albumin, reflecting loss of the negative glomerular polyanion charge barrier (heparan sulfate)"
+      },
+      "correct_option": "E",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the expected response and long-term prognosis of pediatric MCD upon corticosteroid therapy?",
+      "options": {
+        "A": "Complete resistance to steroids with progression to ESRD in 2 years",
+        "B": "Rapid response to Corticosteroids (>90% remission) with excellent prognosis",
+        "C": "Spontaneous progression to rapidly progressive crescentic GN in 50%",
+        "D": "Universal recurrence after kidney transplantation in 100% of cases",
+        "E": "Requirement for immediate bilateral nephrectomy and hemodialysis"
+      },
+      "correct_option": "B",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In adult patients with Minimal Change Disease, which systemic hematological malignancy is characteristically associated with secondary MCD?",
+      "options": {
+        "A": "Hodgkin Lymphoma (Reed-Sternberg cell T-cell cytokine release)",
+        "C": "Acute Myeloid Leukemia (AML)",
+        "D": "Chronic Myelogenous Leukemia (CML)",
+        "E": "Chronic Lymphocytic Leukemia (CLL)"
+      },
+      "correct_option": "A",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "How is Focal Segmental Glomerulosclerosis (FSGS) morphologically defined on light microscopy?",
+      "options": {
+        "A": "Sclerosis involving ALL glomeruli (>80%) and entire capillary tufts",
+        "B": "Diffuse thickening of all capillary basement membranes with spikes",
+        "C": "Sclerosis of SOME (<50%) glomeruli & PORTION (segmental) of affected tufts",
+        "D": "Pure infiltration of neutrophils into Bowman's space without sclerosis",
+        "E": "Global deposition of amyloid fibrils with apple-green birefringence"
+      },
+      "correct_option": "C",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which high-risk variant of FSGS, characterized by collapse of the glomerular tuft and podocyte hyperplasia, is strongly linked to HIV infection (HIVAN)?",
+      "options": {
+        "A": "Tip lesion FSGS variant",
+        "B": "Perihilar FSGS variant",
+        "C": "Cellular FSGS variant",
+        "D": "Collapsing Glomerulopathy (Collapsing FSGS variant)",
+        "E": "Classic NOS (not otherwise specified) FSGS"
+      },
+      "correct_option": "D",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which genetic risk alleles prevalent in individuals of recent African ancestry strongly predispose to FSGS, HIVAN, and hypertensive nephrosclerosis?",
+      "options": {
+        "B": "BRCA1 and BRCA2 mutations",
+        "C": "Factor V Leiden mutation",
+        "D": "HFE C282Y hemochromatosis gene",
+        "E": "APOL1 (Apolipoprotein L1) G1 and G2 alleles"
+      },
+      "correct_option": "E",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which clinical and pathological feature characteristically distinguishes Primary FSGS from MCD?",
+      "options": {
+        "A": "Universal spontaneous recovery without immunosuppressive drugs",
+        "B": "Non-selective proteinuria, hematuria, hypertension, poor steroid response, and progression to ESRD",
+        "C": "Highly selective albuminuria that remits within 7 days of oral prednisone",
+        "D": "Complete absence of foot process effacement on electron microscopy",
+        "E": "Exclusively infantile onset with zero recurrence in renal transplants"
+      },
+      "correct_option": "B",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the primary pathophysiological trigger of severe Hyperlipidemia and Lipiduria in nephrotic patients?",
+      "options": {
+        "A": "Hypoalbuminemia stimulates compensatory hepatic lipoprotein synthesis, combined with urinary loss of lipid-clearing enzymes (LPL",
+        "B": "Excessive dietary intake of saturated animal fats",
+        "C": "Downregulation of hepatic HMG-CoA reductase by high circulating urea",
+        "D": "Massive excretion of bile acids into the collecting ducts",
+        "E": "Glomerular podocyte synthesis of cholesterol crystals"
+      },
+      "correct_option": "A",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Why are patients with severe nephrotic syndrome in a hypercoagulable state predisposing to DVT and RVT?",
+      "options": {
+        "A": "Absolute destruction of splenic red pulp by filtered cholesterol",
+        "B": "Total paralysis of circulating neutrophils by elevated blood urea",
+        "C": "Massive urinary loss of hemoglobin causing tissue anoxia",
+        "D": "Urinary loss of immunoglobulins (IgG) and complement factors (Factor B and Properdin), impairing bacterial opsonization",
+        "E": "Direct colonization of glomeruli by oral viridans streptococci"
+      },
+      "correct_option": "C",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 14 covering high-yield concepts in Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What target autoantibody is detected in approximately 70% to 80% of patients with Primary (Idiopathic) Membranous Nephropathy?",
+      "options": {
+        "A": "Anti-GBM antibodies targeting alpha-3 Type IV collagen",
+        "B": "Autoantibodies against M-type Phospholipase A2 Receptor (Anti-PLA2R)",
+        "C": "Anti-neutrophil cytoplasmic antibodies (ANCA)",
+        "D": "Anti-nuclear antibodies targeting double-stranded DNA",
+        "E": "Anti-streptolysin O (ASO) antibodies"
+      },
+      "correct_option": "B",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the pathognomonic diagnostic appearance of Membranous Nephropathy on silver impregnation staining (Jones stain)?",
+      "options": {
+        "A": "Prominent 'Spike and Dome' pattern (silver-positive basement membrane spikes protruding between subepithelial deposits)",
+        "B": "'Tram-track' or double-contour appearance of the capillary wall",
+        "C": "Large nodular Kimmelstiel-Wilson acellular matrix expansions",
+        "D": "Extensive crescentic fibrin deposition in Bowman's space",
+        "E": "Complete absence of silver staining due to podocyte loss"
+      },
+      "correct_option": "A",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "On Immunofluorescence (IF) microscopy, Membranous Nephropathy characteristically displays:",
+      "options": {
+        "A": "Linear, continuous, smooth ribbon-like IgG deposition along the entire GBM",
+        "B": "Negative or trace immunofluorescence (pauci-immune pattern)",
+        "C": "Diffuse, granular, continuous capillary wall deposition of IgG and C3",
+        "D": "Prominent mesangial IgA and C3 deposition exclusively",
+        "E": "Intratubular cast immunofluorescence with kappa light chains"
+      },
+      "correct_option": "C",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which of the following clinical conditions represents an important SECONDARY cause of Membranous Nephropathy that must be thoroughly screened in adults?",
+      "options": {
+        "A": "Dietary gluten enteropathy and celiac disease",
+        "B": "Acute viral hepatitis A infection",
+        "C": "Beta-thalassemia major and sickle cell trait",
+        "D": "Hepatitis B virus infection, Hepatitis C, SLE (Class V), solid organ malignancies (carcinoma of lung/colon), and NSAIDs",
+        "E": "Primary hyperparathyroidism and vitamin D intoxication"
+      },
+      "correct_option": "D",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the classic clinical presentation and latent period of Post-Streptococcal GN (PSGN)?",
+      "options": {
+        "A": "Heavy selective proteinuria without hematuria within 12h of impetigo",
+        "B": "Massive pulmonary hemorrhage and hemoptysis occurring 6 months later",
+        "C": "Bilateral loin colic and staghorn calculi during active pharyngitis",
+        "D": "Painless gross hematuria on the first day of a viral URI",
+        "E": "Acute nephritic syndrome developing 1-3 wks post-pharyngitis (or 2-6 wks post-impetigo)"
+      },
+      "correct_option": "E",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which serological laboratory profile is characteristic of Acute Post-Streptococcal Glomerulonephritis?",
+      "options": {
+        "A": "Normal complement C3 with persistently elevated c-ANCA titers",
+        "B": "Elevated ASO / Anti-DNase B titers, combined with MARKEDLY DEPRESSED serum Complement C3 (which normalizes within 6-8 weeks)",
+        "C": "Depressed complement C4 with completely normal ASO titers",
+        "D": "Markedly elevated serum lgE with severe eosinophilia",
+        "E": "Positive anti-GBM antibodies with negative streptococcal serology"
+      },
+      "correct_option": "B",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the expected long-term clinical prognosis of PSGN in pediatric patients?",
+      "options": {
+        "A": "Rapid progression to end-stage renal failure within 6 months in >90%",
+        "B": "High risk of malignant transformation into clear cell RCC",
+        "C": "Excellent prognosis; >95% of children recover spontaneously with",
+        "D": "Recurrence in 100% of cases following every future viral infection",
+        "E": "Universal requirement for emergent plasma exchange and cyclophosphamide"
+      },
+      "correct_option": "C",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Rapidly Progressive Glomerulonephritis (RPGN / Crescentic GN) is clinically and pathologically defined by:",
+      "options": {
+        "A": "Pure nephrotic syndrome with normal histology on light microscopy",
+        "B": "Unilateral renal vein thrombosis resolving spontaneously with hydration",
+        "C": "Massive asymptomatic proteinuria discovered on routine school screening",
+        "D": "Rapid loss of renal function (over days to weeks) with Crescent formation in >50% of glomeruli on biopsy",
+        "E": "Bilateral renal enlargement with multiple non-communicating fluid cysts"
+      },
+      "correct_option": "D",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What cellular and matrix elements comprise the Crescents observed in Bowman's space in Crescentic Glomerulonephritis?",
+      "options": {
+        "A": "Metastatic malignant clear cells from renal cell carcinoma",
+        "B": "Pure aggregates of Tamm-Horsfall mucoprotein and bacterial colonies",
+        "C": "Proliferated visceral podocytes filled with lipid droplets",
+        "D": "Dense acellular concentric lamellae of amyloid fibrils",
+        "E": "Proliferated parietal epithelial cells, infiltrating monocytes/macrophages, and fibrin strands"
+      },
+      "correct_option": "E",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What immunopathological pattern and antigen target define Type I RPGN (Anti-GBM Antibody Disease / Goodpasture Syndrome)?",
+      "options": {
+        "A": "Negative or trace immunofluorescence; strongly associated with systemic ANCA-associated vasculitides (Granulomatosis with Polyangiitis / MPA)",
+        "B": "Intense linear IgG deposition along alveolar and glomerular basement membranes",
+        "C": "Dense continuous intramembranous ribbon deposits",
+        "D": "Granular mesangial IgM deposits exclusively",
+        "E": "Marked complement C1q deposition without immunoglobulins"
+      },
+      "correct_option": "B",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 27 covering high-yield concepts in Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the critical first-line emergency therapy for rapidly progressive Goodpasture syndrome?",
+      "options": {
+        "A": "Oral loop diuretics and conservative fluid observation",
+        "B": "Immediate bilateral nephrectomy without medical therapy",
+        "C": "Immediate Plasmapheresis combined with high-dose Corticosteroids and",
+        "D": "Broad-spectrum intravenous cephalosporins for 6 weeks",
+        "E": "High-dose oral vitamin D and calcium carbonate supplementation"
+      },
+      "correct_option": "E",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the classic clinical hallmark of Gross Hematuria in patients with IgA Nephropathy?",
+      "options": {
+        "A": "Hematuria developing strictly 3 weeks post-impetigo with low serum C3",
+        "B": "Continuous massive gross hematuria containing large worm-like clots",
+        "C": "Painless hematuria occurring exclusively in elderly diabetic females",
+        "D": "Terminal hematuria with severe dysuria and sandy urine patches",
+        "E": "Synpharyngitic hematuria (episodes occurring concurrently or 1-2 days after URI) with NORMAL complement"
+      },
+      "correct_option": "B",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What systemic small-vessel vasculitis in pediatric patients shares identical renal histopathology and mesangial lgA deposition with IgA Nephropathy?",
+      "options": {
+        "A": "Kawasaki Disease",
+        "B": "Henoch-Schönlein Purpura (IgA Vasculitis; palpable purpura, arthralgias, abdominal pain, and nephritis)",
+        "C": "Granulomatosis with Polyangiitis (Wegener)",
+        "D": "Polyarteritis Nodosa",
+        "E": "Eosinophilic Granulomatosis with Polyangiitis (Churg-Strauss)"
+      },
+      "correct_option": "B",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the defining microscopic hallmark of Membranoproliferative GN (MPGN) on silver or PAS stain?",
+      "options": {
+        "A": "'Tram-track' or 'Double-Contour' basement membrane splitting due to",
+        "B": "Thin and fragile basement membranes with basket-weave splitting",
+        "C": "Large nodular Kimmelstiel-Wilson acellular matrix expansions",
+        "D": "Pure subepithelial spikes on silver stain without cellular proliferation",
+        "E": "Subcapsular petechial flea-bitten cortical hemorrhages"
+      },
+      "correct_option": "A",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which systemic infectious pathogen is most strongly associated with secondary Type | Membranoproliferative Glomerulonephritis (MPGN Type I)?",
+      "options": {
+        "A": "Epstein-Barr Virus (EBV)",
+        "B": "Cytomegalovirus (CMV)",
+        "C": "Hepatitis C Virus (HCV) infection (often accompanied by Type II Mixed Essential Cryoglobulinemia)",
+        "D": "Human Papillomavirus (HPV)",
+        "E": "Helicobacter pylori"
+      },
+      "correct_option": "C",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the primary pathogenic driver of Dense Deposit Disease (formerly MPGN Type II)?",
+      "options": {
+        "A": "Autoantibodies against the glomerular podocin protein",
+        "B": "Deposition of circulating cryoglobulins in afferent arterioles",
+        "C": "Chronic infection with Treponema pallidum",
+        "D": "Over-activation of the alternative complement pathway driven by C3 Nephritic Factor (C3NeF; autoantibody stabilizing C3 convertse)",
+        "E": "Excessive gastrointestinal absorption of oxalate"
+      },
+      "correct_option": "D",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "According to the ISN/RPS classification of Lupus Nephritis, which class is the MOST COMMON and carries the MOST SEVERE renal prognosis?",
+      "options": {
+        "A": "Class I: Minimal Mesangial Lupus Nephritis",
+        "B": "Class II: Mesangial Proliferative Lupus Nephritis",
+        "C": "Class V: Membranous Lupus Nephritis",
+        "D": "Class VI: Advanced Sclerosing Lupus Nephritis",
+        "E": "Class IV: Diffuse Proliferative Lupus Nephritis (DPN; subendothelial 'wire-loop' lesions, extensive crescents, and marked hypocomplementemia)"
+      },
+      "correct_option": "E",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Alport Syndrome is an X-linked dominant hereditary nephropathy caused by mutations in which component?",
+      "options": {
+        "A": "Alpha-3/4/5 chains of Type IV Collagen, with hematuria, sensorineural deafness & ocular lens defects",
+        "B": "Podocyte slit diaphragm protein Nephrin (NPHS1)",
+        "C": "Polycystin-1 and Polycystin-2 transmembrane proteins",
+        "D": "Uromodulin glycoprotein of the thick ascending limb",
+        "E": "Tubulointerstitial Tamm-Horsfall mucoprotein"
+      },
+      "correct_option": "A",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the characteristic ultrastructural finding on Electron Microscopy in Alport Syndrome?",
+      "options": {
+        "A": "Subepithelial dome-shaped electron-dense humps",
+        "B": "Diffuse continuous ribbon-like intramembranous dense deposits",
+        "C": "Irregular thickening, thinning, splitting, and 'Basket-Weave' lamellation of the lamina densa of the glomerular basement membrane",
+        "D": "Pure effacement of foot processes with completely normal basement membranes",
+        "E": "Giant mesangial crystalline arrays"
+      },
+      "correct_option": "C",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which primary glomerulopathy is characterized on biopsy by diffuse thinning of the GBM (<250 nm) with isolated persistent microscopic hematuria and an excellent benign prognosis?",
+      "options": {
+        "A": "Rapidly Progressive Crescentic GN",
+        "B": "Collapsing FSGS variant",
+        "C": "Dense Deposit Disease",
+        "D": "Thin Basement Membrane Nephropathy (Benign Familial Hematuria)",
+        "E": "Class IV Lupus Nephritis"
+      },
+      "correct_option": "D",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Which pharmacological class forms the foundational cornerstone for reducing proteinuria and providing renal protection in all chronic proteinuric glomerulopathies?",
+      "options": {
+        "A": "High-dose oral loop diuretics in bolus monotherapy",
+        "B": "Long-term prophylactic broad-spectrum aminoglycosides",
+        "C": "Pure non-steroidal anti-inflammatory analgesics",
+        "D": "Daily systemic alkalinization with ammonium chloride",
+        "E": "Renin-Angiotensin System (RAS) Inhibitors (ACE inhibitors or ARBs at maximally tolerated doses) combined with SGLT2 inhibitors"
+      },
+      "correct_option": "E",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A 4-year-old boy presents with periorbital edema, normal BP, normal C3, 4+ proteinuria, and oval fat bodies. Biopsy LM is normal, IF negative, and EM shows podocyte effacement. Diagnosis and initial therapy:",
+      "options": {
+        "A": "Minimal Change Disease; oral Prednisone (2 mg/kg/day)",
+        "B": "Post-streptococcal GN; oral penicillin G and bed rest",
+        "C": "Membranous Nephropathy; immediate bilateral nephrectomy",
+        "D": "Focal Segmental Glomerulosclerosis; intravenous cyclophosphamide",
+        "E": "Alport Syndrome; fit hearing aids and perform hemodialysis"
+      },
+      "correct_option": "E",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 42-year-old male presents with severe edema and proteinuria 9.2 g/d. Anti-PLA2R autoantibodies are positive. Biopsy shows thickened GBM with 'Spike and Dome' silver stain and granular lgG/C3. Diagnosis:",
+      "options": {
+        "A": "Minimal Change Disease with focal necrosis",
+        "B": "Primary (Idiopathic) Membranous Nephropathy",
+        "C": "Crescentic Glomerulonephritis Type I (Goodpasture)",
+        "D": "Diabetic Kimmelstiel-Wilson nodular nephrosclerosis",
+        "E": "Henoch-Schönlein Purpura nephritis"
+      },
+      "correct_option": "B",
+      "explanation": "**Commonest primary nephrotic in Caucasian**: LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk\n\n**Membranous Nephropathy**: Rule of thirds: 1/3 spontaneous remission, 1/3 persister",
+      "masterclass_id": 37,
+      "masterclass_title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    }
+  ]
+}

@@ -1,0 +1,925 @@
+{
+  "items" : [
+    {
+      "w" : 0.5061728039627555,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 23 MCQ Masterclass",
+      "x" : 0.2860082299382717,
+      "h" : 0.013178293969896115,
+      "y" : 0.9774224804997624
+    },
+    {
+      "w" : 0.07017271173825046,
+      "conf" : 1,
+      "text" : "Page 3 of 4",
+      "x" : 0.9341563774365681,
+      "h" : 0.010935553444756385,
+      "y" : 0.9760174417750936
+    },
+    {
+      "w" : 0.6152263137529481,
+      "conf" : 1,
+      "text" : "Twisted Medicine Medical Series • Tubulointerstitial Nephritis, ATN, AIN & Papillary Necrosis • Standard Practice Bank",
+      "x" : 0.340534983504801,
+      "h" : 0.010310077137417273,
+      "y" : 0.9643217054231215
+    },
+    {
+      "w" : 0.8909464902098074,
+      "conf" : 1,
+      "text" : "Q29. [2025 Exam] On microscopic examination, a necrotic renal papilla Q36. [2023 Exam] What pathognomonic urinalysis finding definitively",
+      "x" : 0.49279834500000025,
+      "h" : 0.011692506472269715,
+      "y" : 0.9447351421777765
+    },
+    {
+      "w" : 0.2530864019813777,
+      "conf" : 1,
+      "text" : "in papillary necrosis classically shows:",
+      "x" : 0.17181069642489716,
+      "h" : 0.01027777777777783,
+      "y" : 0.9309722224387866
+    },
+    {
+      "w" : 0.4197530686480444,
+      "conf" : 1,
+      "text" : "proves that a urinary tract infection involves the renal parenchyma",
+      "x" : 0.7098765362139919,
+      "h" : 0.010277777777777719,
+      "y" : 0.9309722224206181
+    },
+    {
+      "w" : 0.886831223589819,
+      "conf" : 1,
+      "text" : "[A] Ischemic coagulative necrosis with preserved cellular outlines (ghost (Pyelonephritis) rather than being confined to the bladder (Cystitis)?",
+      "x" : 0.48868311648662577,
+      "h" : 0.011718345748053638,
+      "y" : 0.9171963825102833
+    },
+    {
+      "w" : 0.3662551304079452,
+      "conf" : 1,
+      "text" : "cells'), absence of nuclei, and a peripheral leukocytic boundary",
+      "x" : 0.2283950678326473,
+      "h" : 0.011679586304558676,
+      "y" : 0.9055490959329157
+    },
+    {
+      "w" : 0.29835390294872743,
+      "conf" : 1,
+      "text" : "[A] Positive urine dipstick for glucose and ketones",
+      "x" : 0.6471193465363511,
+      "h" : 0.010174418555365716,
+      "y" : 0.903343023376938
+    },
+    {
+      "w" : 0.7758778506105052,
+      "conf" : 1,
+      "text" : "[B] Intense acute neutrophilic abscesses obliterating all architectural outlines [B] Red blood cell casts with dysmorphic acanthocytes",
+      "x" : 0.4331343110010438,
+      "h" : 0.014821183946397531,
+      "y" : 0.8931173915161361
+    },
+    {
+      "w" : 0.4341563578671629,
+      "conf" : 1,
+      "text" : "[C] Subepithelial spikes protruding from the basement membrane on silver",
+      "x" : 0.26234568443930023,
+      "h" : 0.010277777777777719,
+      "y" : 0.8815277775975505
+    },
+    {
+      "w" : 0.03292180907051518,
+      "conf" : 1,
+      "text" : "stain",
+      "x" : 0.0617283951303155,
+      "h" : 0.00872092988755968,
+      "y" : 0.8706395350290698
+    },
+    {
+      "w" : 0.3353909426515207,
+      "conf" : 1,
+      "text" : "[C] White Blood Cell (WBC) Casts in the urinary sediment",
+      "x" : 0.6656378544924555,
+      "h" : 0.01027777777777783,
+      "y" : 0.8801388888893068
+    },
+    {
+      "w" : 0.341563770606083,
+      "conf" : 1,
+      "text" : "[D] The presence of calcium oxalate monohydrate crystals",
+      "x" : 0.6707818986968448,
+      "h" : 0.010277777777777719,
+      "y" : 0.8684722220361478
+    },
+    {
+      "w" : 0.3950617088461822,
+      "conf" : 1,
+      "text" : "[D] Massive amyloid fibril deposition with apple-green birefringence",
+      "x" : 0.24279835884773648,
+      "h" : 0.010174418555365605,
+      "y" : 0.8582848838117733
+    },
+    {
+      "w" : 0.2983539029487273,
+      "conf" : 1,
+      "text" : "[E] Isolated proteinuria of less than 150 mg per day",
+      "x" : 0.6491769517489712,
+      "h" : 0.01027777777777783,
+      "y" : 0.8568055554996296
+    },
+    {
+      "w" : 0.34156377060608295,
+      "conf" : 1,
+      "text" : "[E] Extravasation of mucin with Signet-ring malignant cells",
+      "x" : 0.21604938840877896,
+      "h" : 0.010174418555365716,
+      "y" : 0.8466569768168604
+    },
+    {
+      "w" : 0.9094649980653008,
+      "conf" : 1,
+      "text" : "Q30. [2024 Exam] When a necrotic renal papilla sloughs off into the Q37. [2022 Exam] On gross pathological examination, a kidney affected",
+      "x" : 0.5020576222633744,
+      "h" : 0.011666666666666603,
+      "y" : 0.8183333332973288
+    },
+    {
+      "w" : 0.40329219410254524,
+      "conf" : 1,
+      "text" : "pelvicalyceal system, what acute clinical manifestation typically",
+      "x" : 0.2489711974485596,
+      "h" : 0.01030361758338072,
+      "y" : 0.8045704135401703
+    },
+    {
+      "w" : 0.40946499806530057,
+      "conf" : 1,
+      "text" : "by severe Acute Pyelonephritis characteristically demonstrates:",
+      "x" : 0.7026748902949247,
+      "h" : 0.01030361758338072,
+      "y" : 0.8045704134432712
+    },
+    {
+      "w" : 0.051440328921911846,
+      "conf" : 1,
+      "text" : "occurs?",
+      "x" : 0.07304526779835391,
+      "h" : 0.00872092988755968,
+      "y" : 0.792151162877907
+    },
+    {
+      "w" : 0.3950617088461822,
+      "conf" : 1,
+      "text" : "[A] Symmetrical, shrunken, pale kidneys with diffuse fine granularity",
+      "x" : 0.6975308691358024,
+      "h" : 0.010174418555365716,
+      "y" : 0.7899709302870639
+    },
+    {
+      "w" : 0.36213991177157034,
+      "conf" : 1,
+      "text" : "[A] Sudden relief of all urinary symptoms and clear dilute urine",
+      "x" : 0.2283950662551439,
+      "h" : 0.01031007766723635,
+      "y" : 0.7768217053822914
+    },
+    {
+      "w" : 0.3724279823543142,
+      "conf" : 1,
+      "text" : "[B] Unilateral golden-yellow circumscribed cortical tumor mass",
+      "x" : 0.6862139979766803,
+      "h" : 0.010174418555365716,
+      "y" : 0.7783430233284883
+    },
+    {
+      "w" : 0.4444444284499066,
+      "conf" : 1,
+      "text" : "[B] Severe ureteral colic (flank pain radiating to groin), gross hematuria, and",
+      "x" : 0.2674897193415635,
+      "h" : 0.011737725999620197,
+      "y" : 0.7644799739482357
+    },
+    {
+      "w" : 0.42386828728441917,
+      "conf" : 1,
+      "text" : "[C] Massive hydronephrotic sac completely filled with clear transudate",
+      "x" : 0.6995884703017836,
+      "h" : 0.010174418555365716,
+      "y" : 0.7667151162063954
+    },
+    {
+      "w" : 0.28600822304779633,
+      "conf" : 1,
+      "text" : "acute urinary obstruction by the sloughed tissue",
+      "x" : 0.18827160970507528,
+      "h" : 0.011627906163533597,
+      "y" : 0.7529069768410853
+    },
+    {
+      "w" : 0.07201645809149593,
+      "conf" : 1,
+      "text" : "without pus",
+      "x" : 0.5360082313528806,
+      "h" : 0.00872093015246922,
+      "y" : 0.7543604650564988
+    },
+    {
+      "w" : 0.40329219410254524,
+      "conf" : 1,
+      "text" : "[C] Instantaneous development of severe nephrotic-range proteinuria",
+      "x" : 0.24691358528806578,
+      "h" : 0.01030361758338083,
+      "y" : 0.7420704135220018
+    },
+    {
+      "w" : 0.38477363826343847,
+      "conf" : 1,
+      "text" : "[D] Swollen, enlarged kidney with discrete yellowish-white cortical",
+      "x" : 0.6903292201303155,
+      "h" : 0.011692506472269715,
+      "y" : 0.7427648581001045
+    },
+    {
+      "w" : 0.27777776178324,
+      "conf" : 1,
+      "text" : "[D] Profound hypercalcemia with cardiac arrest",
+      "x" : 0.18415638323045253,
+      "h" : 0.011718345748053638,
+      "y" : 0.7296963826798569
+    },
+    {
+      "w" : 0.3518518411888266,
+      "conf" : 1,
+      "text" : "microabscesses on the subcapsular surface and hyperemia",
+      "x" : 0.6738683171553497,
+      "h" : 0.011666666666666714,
+      "y" : 0.7311111113193207
+    },
+    {
+      "w" : 0.3868312715734326,
+      "conf" : 1,
+      "text" : "[E] Immediate spontaneous formation of a staghorn struvite stone",
+      "x" : 0.23868312849794238,
+      "h" : 0.01027777777777783,
+      "y" : 0.7187500001271802
+    },
+    {
+      "w" : 0.3024691215851022,
+      "conf" : 1,
+      "text" : "[E] Multiple bilateral subcapsular angiomyolipomas",
+      "x" : 0.6491769500342937,
+      "h" : 0.01029069794548887,
+      "y" : 0.7201453488466051
+    },
+    {
+      "w" : 0.4032921941025452,
+      "conf" : 1,
+      "text" : "Q31. [2023 Exam] What radiological imaging sign on retrograde",
+      "x" : 0.24897119845679,
+      "h" : 0.010174418555365605,
+      "y" : 0.6911337209847384
+    },
+    {
+      "w" : 0.40740741273892,
+      "conf" : 1,
+      "text" : "Q38. [2021 Exam] Which of the following is a recognized, severe",
+      "x" : 0.7057613219650204,
+      "h" : 0.010174418555365605,
+      "y" : 0.6911337209847384
+    },
+    {
+      "w" : 0.4238682872844193,
+      "conf" : 1,
+      "text" : "pyelography or contrast CT is considered pathognomonic of Renal",
+      "x" : 0.2572016513888888,
+      "h" : 0.01175064563751227,
+      "y" : 0.6772642117673712
+    },
+    {
+      "w" : 0.38477366225524523,
+      "conf" : 1,
+      "text" : "suppurative complication of untreated or complicated Acute",
+      "x" : 0.6944444492541151,
+      "h" : 0.011750645637512158,
+      "y" : 0.6772642117310339
+    },
+    {
+      "w" : 0.12345678701340777,
+      "conf" : 1,
+      "text" : "Papillary Necrosis?",
+      "x" : 0.10905349773662554,
+      "h" : 0.011724805831909157,
+      "y" : 0.664195736066975
+    },
+    {
+      "w" : 0.09876542721154558,
+      "conf" : 1,
+      "text" : "Pyelonephritis?",
+      "x" : 0.5514403280521263,
+      "h" : 0.011627906163533597,
+      "y" : 0.6642441858527132
+    },
+    {
+      "w" : 0.23083920748728623,
+      "conf" : 1,
+      "text" : "[A] 'Cannonball' pulmonary metastases",
+      "x" : 0.1604529115958841,
+      "h" : 0.013509923087225983,
+      "y" : 0.6488754276886367
+    },
+    {
+      "w" : 0.325102872068777,
+      "conf" : 1,
+      "text" : "[A] Lipoid nephrosis and massive selective albuminuria",
+      "x" : 0.6604938312242798,
+      "h" : 0.013113694720798041,
+      "y" : 0.64899870813877
+    },
+    {
+      "w" : 0.2510287926631904,
+      "conf" : 1,
+      "text" : "[B] 'Flea-bitten' cortical microhemorrhages",
+      "x" : 0.17078189718792855,
+      "h" : 0.01027777777777783,
+      "y" : 0.6373611113193206
+    },
+    {
+      "w" : 0.3786008103088762,
+      "conf" : 1,
+      "text" : "[B] Spontaneous development of adult polycystic kidney disease",
+      "x" : 0.6872427920438959,
+      "h" : 0.01027777777777783,
+      "y" : 0.6373611111739718
+    },
+    {
+      "w" : 0.25514403529137186,
+      "conf" : 1,
+      "text" : "[C] 'Maltese Cross' lipid polarization pattern",
+      "x" : 0.17283950936213985,
+      "h" : 0.01027777777777783,
+      "y" : 0.6256944443510938
+    },
+    {
+      "w" : 0.4506172803962756,
+      "conf" : 1,
+      "text" : "[C] Perinephric Abscess (extension of suppurative infection through the renal",
+      "x" : 0.7232510344393003,
+      "h" : 0.010277777777777719,
+      "y" : 0.625694444387431
+    },
+    {
+      "w" : 0.6152263137529481,
+      "conf" : 1,
+      "text" : "[D] 'Ring Shadow Sign' (contrast tracking around the sloughed, necrotic papilla capsule into Gerota fascia)",
+      "x" : 0.3528806522839507,
+      "h" : 0.010297157499525311,
+      "y" : 0.6140374676645481
+    },
+    {
+      "w" : 0.074074073407635,
+      "conf" : 1,
+      "text" : "in the calyx)",
+      "x" : 0.08230452798353904,
+      "h" : 0.010174418555365716,
+      "y" : 0.6024709303052327
+    },
+    {
+      "w" : 0.2860082230477963,
+      "conf" : 1,
+      "text" : "[D] Alport syndrome with sensorineural deafness",
+      "x" : 0.6430041116512347,
+      "h" : 0.010174418555365716,
+      "y" : 0.6024709301780522
+    },
+    {
+      "w" : 0.24485596470862814,
+      "conf" : 1,
+      "text" : "[E] 'Wire-loop' subendothelial calcification",
+      "x" : 0.1676954717764061,
+      "h" : 0.010174418555365716,
+      "y" : 0.5908430230862403
+    },
+    {
+      "w" : 0.2448559647086282,
+      "conf" : 1,
+      "text" : "[E] Dense deposit disease (MPGN type II)",
+      "x" : 0.620370374451303,
+      "h" : 0.010174418555365716,
+      "y" : 0.5908430233284883
+    },
+    {
+      "w" : 0.41152263137529477,
+      "conf" : 1,
+      "text" : "Q32. [2022 Exam] Acute Pyelonephritis is a suppurative bacterial",
+      "x" : 0.2530864163237312,
+      "h" : 0.010277777777777719,
+      "y" : 0.5631944442360259
+    },
+    {
+      "w" : 0.45473249903265034,
+      "conf" : 1,
+      "text" : "Q39. [2025 Exam] What is the defining gross morphological hallmark of",
+      "x" : 0.7294238645233198,
+      "h" : 0.011711886194017085,
+      "y" : 0.5639114988139958
+    },
+    {
+      "w" : 0.3683127397261325,
+      "conf" : 1,
+      "text" : "infection of the kidney that reaches the renal parenchyma",
+      "x" : 0.2294238744513029,
+      "h" : 0.011686046388414084,
+      "y" : 0.5508430229592651
+    },
+    {
+      "w" : 0.16255143603438849,
+      "conf" : 1,
+      "text" : "Chronic Pyelonephritis?",
+      "x" : 0.5833333360425239,
+      "h" : 0.010277777777777719,
+      "y" : 0.5501388888744778
+    },
+    {
+      "w" : 0.12551439633159517,
+      "conf" : 1,
+      "text" : "predominantly via:",
+      "x" : 0.11008230661865562,
+      "h" : 0.010277777777777719,
+      "y" : 0.5370833333312437
+    },
+    {
+      "w" : 0.3497942318706393,
+      "conf" : 1,
+      "text" : "[A] Symmetrical, smooth contracted kidneys with petechiae",
+      "x" : 0.6748971145404665,
+      "h" : 0.011763565805223308,
+      "y" : 0.534951550557279
+    },
+    {
+      "w" : 0.37654320099068883,
+      "conf" : 1,
+      "text" : "[A] Direct hematogenous seeding from the portal venous system",
+      "x" : 0.23353908837448584,
+      "h" : 0.010174418555365605,
+      "y" : 0.5210755813711241
+    },
+    {
+      "w" : 0.3806584196270636,
+      "conf" : 1,
+      "text" : "[B] Bilateral massive enlargement with non-communicating cysts",
+      "x" : 0.6903292244513028,
+      "h" : 0.011724805831909157,
+      "y" : 0.5233042638845755
+    },
+    {
+      "w" : 0.44444442844990667,
+      "conf" : 1,
+      "text" : "[B] Ascending infection from the lower urinary tract (urethra and bladder) via",
+      "x" : 0.2674897091906722,
+      "h" : 0.011750645637512047,
+      "y" : 0.5102357885354389
+    },
+    {
+      "w" : 0.3477366225524519,
+      "conf" : 1,
+      "text" : "[C] Multiple large subcapsular wedge-shaped pale infarcts",
+      "x" : 0.6676954775977365,
+      "h" : 0.01027777777777783,
+      "y" : 0.512361111301152
+    },
+    {
+      "w" : 0.06790123345716945,
+      "conf" : 1,
+      "text" : "the ureters",
+      "x" : 0.07921810812757196,
+      "h" : 0.0087403098742167,
+      "y" : 0.49853682168302804
+    },
+    {
+      "w" : 0.27777776178324004,
+      "conf" : 1,
+      "text" : "[D] Diffuse fine granularity with spared calyces",
+      "x" : 0.6368312803497941,
+      "h" : 0.010277777777777719,
+      "y" : 0.5006944443692625
+    },
+    {
+      "w" : 0.38683127157343256,
+      "conf" : 1,
+      "text" : "[C] Lymphatic spread from pelvic lymph nodes during appendicitis",
+      "x" : 0.23868312273662562,
+      "h" : 0.01027777777777783,
+      "y" : 0.48763888869884797
+    },
+    {
+      "w" : 0.4506172803962756,
+      "conf" : 1,
+      "text" : "[E] Asymmetric contraction with coarse U-shaped scars over blunted calyces",
+      "x" : 0.7232510363168722,
+      "h" : 0.010297157499525311,
+      "y" : 0.48903746780989704
+    },
+    {
+      "w" : 0.34979423187063924,
+      "conf" : 1,
+      "text" : "[D] Direct transperitoneal diapedesis across the renal fascia",
+      "x" : 0.2201646032235941,
+      "h" : 0.01027777777777783,
+      "y" : 0.4759722222604402
+    },
+    {
+      "w" : 0.3312757000233392,
+      "conf" : 1,
+      "text" : "[E) Retrograde arterial flow from the internal iliac arteries",
+      "x" : 0.21296296848422475,
+      "h" : 0.01031007766723624,
+      "y" : 0.46432170540046
+    },
+    {
+      "w" : 0.9094649980653007,
+      "conf" : 1,
+      "text" : "Q33. [2021 Exam] What is the single most common causative bacterial Q40. [Faculty] The histological hallmark 'Thyroidization of the Kidney' in",
+      "x" : 0.5020576224279831,
+      "h" : 0.011711886194017196,
+      "y" : 0.43608850144935046
+    },
+    {
+      "w" : 0.44032920981353185,
+      "conf" : 1,
+      "text" : "pathogen in both community-acquired and catheter-associated Acute",
+      "x" : 0.26748971241426617,
+      "h" : 0.011737725469801119,
+      "y" : 0.4230200261260019
+    },
+    {
+      "w" : 0.2222222142249533,
+      "conf" : 1,
+      "text" : "Chronic Pyelonephritis refers to:",
+      "x" : 0.5987654283950619,
+      "h" : 0.01028423786163335,
+      "y" : 0.42374677004557576
+    },
+    {
+      "w" : 0.10699587648019851,
+      "conf" : 1,
+      "text" : "Pyelonephritis?",
+      "x" : 0.1008230470507544,
+      "h" : 0.011627906163533597,
+      "y" : 0.40988372107558135
+    },
+    {
+      "w" : 0.3436213799242703,
+      "conf" : 1,
+      "text" : "[A] Dilated tubules filled with glassy, pink colloid-like casts",
+      "x" : 0.66975308069273,
+      "h" : 0.01174418555365675,
+      "y" : 0.40837209281462833
+    },
+    {
+      "w" : 0.4341563578671629,
+      "conf" : 1,
+      "text" : "[A] Uropathogenic Escherichia coli (UPEC, causing >80% of uncomplicated",
+      "x" : 0.2623456717764062,
+      "h" : 0.010277777777777719,
+      "y" : 0.39458333355553604
+    },
+    {
+      "w" : 0.29629629363054,
+      "conf" : 1,
+      "text" : "[B] Ectopic functional thyroid follicles in the cortex",
+      "x" : 0.6481481518518518,
+      "h" : 0.010174418555365716,
+      "y" : 0.39752906982194774
+    },
+    {
+      "w" : 0.04115226133814398,
+      "conf" : 1,
+      "text" : "cases)",
+      "x" : 0.06790123525377227,
+      "h" : 0.00872092988755968,
+      "y" : 0.3837209303294574
+    },
+    {
+      "w" : 0.3189300201224081,
+      "conf" : 1,
+      "text" : "[C] Metastatic invasion by follicular thyroid carcinoma",
+      "x" : 0.6594650258916321,
+      "h" : 0.011750645637512158,
+      "y" : 0.38523578843853973
+    },
+    {
+      "w" : 0.3148148014860333,
+      "conf" : 1,
+      "text" : "[B] Streptococcus pyogenes (Group A beta-hemolytic)",
+      "x" : 0.2026748918724281,
+      "h" : 0.010174418555365605,
+      "y" : 0.37136627904554265
+    },
+    {
+      "w" : 0.34773662255245186,
+      "conf" : 1,
+      "text" : "[D] Severe interstitial Hashimoto-like lymphocytic thyroiditis",
+      "x" : 0.6738683084104939,
+      "h" : 0.011711886194017196,
+      "y" : 0.3735885016068116
+    },
+    {
+      "w" : 0.15843620540211034,
+      "conf" : 1,
+      "text" : "[C] Staphylococcus aureus",
+      "x" : 0.1244855947273663,
+      "h" : 0.00872092988755968,
+      "y" : 0.36046511620639543
+    },
+    {
+      "w" : 0.3292180907051518,
+      "conf" : 1,
+      "text" : "[E] Extensive calcium phosphate precipitation in tubules",
+      "x" : 0.6625514348422498,
+      "h" : 0.011673126220703156,
+      "y" : 0.3619412146312981
+    },
+    {
+      "w" : 0.1893004051544382,
+      "conf" : 1,
+      "text" : "[D] Mycobacterium tuberculosis",
+      "x" : 0.13991769783950614,
+      "h" : 0.01031007766723635,
+      "y" : 0.34817829476305734
+    },
+    {
+      "w" : 0.15432098676573558,
+      "conf" : 1,
+      "text" : "[E] Neisseria gonorrhoeae",
+      "x" : 0.1224279837791495,
+      "h" : 0.010277777777777719,
+      "y" : 0.3365277780271309
+    },
+    {
+      "w" : 0.40740741273892,
+      "conf" : 1,
+      "text" : "Q34. [2020 Exam] Which bacterial virulence factor possessed by",
+      "x" : 0.2510288025102881,
+      "h" : 0.010174418555365605,
+      "y" : 0.3088662790261628
+    },
+    {
+      "w" : 0.40740741273891995,
+      "conf" : 1,
+      "text" : "Uropathogenic E. coli is essential for adhering to urothelium and",
+      "x" : 0.2510288106584361,
+      "h" : 0.01162790722317164,
+      "y" : 0.2965116279941861
+    },
+    {
+      "w" : 0.20987653432402217,
+      "conf" : 1,
+      "text" : "ascending into the renal pelvis?",
+      "x" : 0.15226337798353895,
+      "h" : 0.01029069794548887,
+      "y" : 0.2826453487981554
+    },
+    {
+      "w" : 0.26954732451049035,
+      "conf" : 1,
+      "text" : "[A] Streptolysin 0 and streptokinase enzymes",
+      "x" : 0.18209876992455404,
+      "h" : 0.010277777777777719,
+      "y" : 0.26819444452944025
+    },
+    {
+      "w" : 0.42592592059441325,
+      "conf" : 1,
+      "text" : "[B] Thick polysaccharide capsule identical to Streptococcus pneumoniae",
+      "x" : 0.2582304597736623,
+      "h" : 0.010277777777777719,
+      "y" : 0.2565277775793819
+    },
+    {
+      "w" : 0.42386828728441917,
+      "conf" : 1,
+      "text" : "[C] P-fimbriae (pyelonephritis-associated pili) binding to Gal-Gal receptor",
+      "x" : 0.25720163902606336,
+      "h" : 0.01027777777777783,
+      "y" : 0.24486111101379393
+    },
+    {
+      "w" : 0.1934156357867163,
+      "conf" : 1,
+      "text" : "glycoproteins on urothelial cells",
+      "x" : 0.144032924228395,
+      "h" : 0.010174418555365716,
+      "y" : 0.2332848838117732
+    },
+    {
+      "w" : 0.3827160289452511,
+      "conf" : 1,
+      "text" : "[D] Coagulase enzyme inducing intravascular fibrin clot formation",
+      "x" : 0.2366255080246916,
+      "h" : 0.010174418555365716,
+      "y" : 0.22165697667151157
+    },
+    {
+      "w" : 0.25514403529137186,
+      "conf" : 1,
+      "text" : "[E] Exotoxin A inhibiting elongation factor-2",
+      "x" : 0.17283951042523993,
+      "h" : 0.010174418555365605,
+      "y" : 0.21002906984011627
+    },
+    {
+      "w" : 0.45473249903265034,
+      "conf" : 1,
+      "text" : "Q41. [Core] A post-septic male develops oliguria: BUN 78, Cr 4.6 mg\/dL,",
+      "x" : 0.7294238734825103,
+      "h" : 0.011627906163533486,
+      "y" : 0.30959302340116285
+    },
+    {
+      "w" : 0.45061728039627547,
+      "conf" : 1,
+      "text" : "U_Na 62 mEq\/L, U_osm 290 mOsm\/kg, and FENa 3.4%. Urine sediment",
+      "x" : 0.7273662607767488,
+      "h" : 0.011627906163533486,
+      "y" : 0.2965116279796512
+    },
+    {
+      "w" : 0.3127571921678459,
+      "conf" : 1,
+      "text" : "shows Muddy Brown Granular Casts. Diagnosis:",
+      "x" : 0.6584362192043893,
+      "h" : 0.010290697945488758,
+      "y" : 0.28264534874970587
+    },
+    {
+      "w" : 0.2860082230477964,
+      "conf" : 1,
+      "text" : "[A] Acute post-streptococcal glomerulonephritis",
+      "x" : 0.6430041199931411,
+      "h" : 0.010277777777777719,
+      "y" : 0.26819444452944025
+    },
+    {
+      "w" : 0.25720164460955924,
+      "conf" : 1,
+      "text" : "[B] Acute Tubular Necrosis (Ischemic ATN)",
+      "x" : 0.6244855934927984,
+      "h" : 0.01027777777777783,
+      "y" : 0.25652777798202087
+    },
+    {
+      "w" : 0.32921809070515184,
+      "conf" : 1,
+      "text" : "[C] Acute Prerenal Azotemia with intact tubular function",
+      "x" : 0.6625514444444444,
+      "h" : 0.010277777777777719,
+      "y" : 0.24486111114097414
+    },
+    {
+      "w" : 0.27572015246505255,
+      "conf" : 1,
+      "text" : "[D] Postrenal obstructive uropathy due to BPH",
+      "x" : 0.6358024725823045,
+      "h" : 0.011627906163533486,
+      "y" : 0.2340116279796512
+    },
+    {
+      "w" : 0.3004115122669148,
+      "conf" : 1,
+      "text" : "[E] Minimal Change Disease with steroid sensitivity",
+      "x" : 0.6481481443930042,
+      "h" : 0.010174418555365716,
+      "y" : 0.22165697668968026
+    },
+    {
+      "w" : 0.9094649980653007,
+      "conf" : 1,
+      "text" : "Q35. [2024 Exam] Vesicoureteral Reflux (VUR) is a major risk factor for Q42. [Clini] A female on Ciprofloxacin\/Omeprazole develops fever, rash,",
+      "x" : 0.502057614266118,
+      "h" : 0.011731265915764677,
+      "y" : 0.1830878552014038
+    },
+    {
+      "w" : 0.8765431530070755,
+      "conf" : 1,
+      "text" : "recurrent pyelonephritis and reflux nephropathy. What is its anatomical rising Cr, sterile pyuria, WBC casts, and >3% Eosinophils on Hansel",
+      "x" : 0.4835390826474627,
+      "h" : 0.011666666666666714,
+      "y" : 0.16861111105284776
+    },
+    {
+      "w" : 0.049382713605772774,
+      "conf" : 1,
+      "text" : "cause?",
+      "x" : 0.07201646172839504,
+      "h" : 0.00872092988755968,
+      "y" : 0.1569767442829456
+    },
+    {
+      "w" : 0.11316871643066406,
+      "conf" : 1,
+      "text" : "stain. Diagnosis:",
+      "x" : 0.5565843625171467,
+      "h" : 0.011679586304558676,
+      "y" : 0.15554909569066755
+    },
+    {
+      "w" : 0.33744855196970813,
+      "conf" : 1,
+      "text" : "[A] Stricture of the external urethral meatus in young boys",
+      "x" : 0.2139917639231826,
+      "h" : 0.010174418555365605,
+      "y" : 0.14026162788275187
+    },
+    {
+      "w" : 0.30452673090328963,
+      "conf" : 1,
+      "text" : "[A] Acute Tubular Necrosis due to antibiotic toxicity",
+      "x" : 0.652263369410151,
+      "h" : 0.010174418555365716,
+      "y" : 0.14026162783430235
+    },
+    {
+      "w" : 0.28189300441142146,
+      "conf" : 1,
+      "text" : "[B] Complete duplication of the abdominal aorta",
+      "x" : 0.18827160963648815,
+      "h" : 0.010174418555365716,
+      "y" : 0.12863372100290688
+    },
+    {
+      "w" : 0.33127572401514593,
+      "conf" : 1,
+      "text" : "[B] Acute Glomerulonephritis due to bacterial complexes",
+      "x" : 0.6656378633950617,
+      "h" : 0.011731266445583755,
+      "y" : 0.12941214478562468
+    },
+    {
+      "w" : 0.3786008103088763,
+      "conf" : 1,
+      "text" : "[C] Spastic contraction of the detrusor muscle during ejaculation",
+      "x" : 0.23456789492455443,
+      "h" : 0.011692505942450637,
+      "y" : 0.11776485798054381
+    },
+    {
+      "w" : 0.2921810510023585,
+      "conf" : 1,
+      "text" : "[C] Drug-Induced Acute Interstitial Nephritis (AIN)",
+      "x" : 0.641975304989712,
+      "h" : 0.013145994610256562,
+      "y" : 0.1170381137884412
+    },
+    {
+      "w" : 0.6995884637412785,
+      "conf" : 1,
+      "text" : "[D] Congenital incompetence of the physiological flap-valve mechanism due [D] Acute uncomplicated bacterial cystitis",
+      "x" : 0.39711935322359354,
+      "h" : 0.011666666666666603,
+      "y" : 0.10611111129509582
+    },
+    {
+      "w" : 0.2901234416841711,
+      "conf" : 1,
+      "text" : "to an abnormally short intravesical ureteric tunnel",
+      "x" : 0.1903292170010288,
+      "h" : 0.011679585774739598,
+      "y" : 0.0944509042350945
+    },
+    {
+      "w" : 0.2921810510023585,
+      "conf" : 1,
+      "text" : "[E] Renal Papillary Necrosis due to sickle cell trait",
+      "x" : 0.644032918792867,
+      "h" : 0.011679586304558676,
+      "y" : 0.09445090430933245
+    },
+    {
+      "w" : 0.26954732451049035,
+      "conf" : 1,
+      "text" : "[E] Total absence of the median umbilical fold",
+      "x" : 0.18004115332647458,
+      "h" : 0.010174418555365716,
+      "y" : 0.08357558156492245
+    },
+    {
+      "w" : 0.5720164460955927,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal Pathology Master Class • Strictly Grounded in Faculty & Board xam Past Papers",
+      "x" : 0.318930048302469,
+      "h" : 0.017519379191928475,
+      "y" : 0.014573643611020815
+    },
+    {
+      "w" : 0.19135802646852884,
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567900205762,
+      "h" : 0.007344961166381836,
+      "y" : 0.019660852735567502
+    }
+  ],
+  "page" : 89
+}

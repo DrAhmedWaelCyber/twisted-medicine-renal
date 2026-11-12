@@ -1,0 +1,925 @@
+{
+  "items" : [
+    {
+      "x" : 0.27983539917695444,
+      "y" : 0.9774224804225952,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 6 MCQ Masterclass",
+      "h" : 0.013178294499715193,
+      "w" : 0.49382714805363104,
+      "conf" : 1
+    },
+    {
+      "x" : 0.34773661764403313,
+      "y" : 0.9651162789970931,
+      "text" : "Twisted Medicine Medical Series • Renal Stroma, Cortex, Medulla, Nephron & Tubules • Standard Board Practice Bank",
+      "h" : 0.00872092988755968,
+      "w" : 0.6296296029720667,
+      "conf" : 1
+    },
+    {
+      "x" : 0.934156377433845,
+      "y" : 0.9760174417962746,
+      "text" : "Page 1 of 4",
+      "h" : 0.010682686699761246,
+      "w" : 0.07010342939844671,
+      "conf" : 1
+    },
+    {
+      "x" : 0.500000003968254,
+      "y" : 0.9411854006141129,
+      "text" : "6. GENERAL STRUCTURE OF THE KIDNEY - HISTOLOGY LECTURE",
+      "h" : 0.013184754053751635,
+      "w" : 0.5555555715500934,
+      "conf" : 1
+    },
+    {
+      "x" : 0.4999999941975309,
+      "y" : 0.9179166669064536,
+      "text" : "Twisted Medicine Histology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "h" : 0.010277777777777719,
+      "w" : 0.5802468833683422,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2561728468792865,
+      "y" : 0.8938888888018034,
+      "text" : "Q01. [2025 Exam] Histologically, the renal capsule consists of dense",
+      "h" : 0.011666666666666714,
+      "w" : 0.4423867951399126,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7376543266718107,
+      "y" : 0.8938888888260281,
+      "text" : "Q08. [2022 Exam] Renal Columns of Bertin are histologically classified",
+      "h" : 0.011666666666666603,
+      "w" : 0.45473249903265034,
+      "conf" : 1
+    },
+    {
+      "x" : 0.254115218964335,
+      "y" : 0.8801388888893068,
+      "text" : "irregular collagenous connective tissue and contains which cell type",
+      "h" : 0.01027777777777783,
+      "w" : 0.4423867951399125,
+      "conf" : 1
+    },
+    {
+      "x" : 0.12654320804526753,
+      "y" : 0.8670704133948215,
+      "text" : "aiding in volume regulation?",
+      "h" : 0.01030361758338083,
+      "w" : 0.18312756520397258,
+      "conf" : 1
+    },
+    {
+      "x" : 0.10905350048010966,
+      "y" : 0.8531976744670543,
+      "text" : "[A] Skeletal muscle fibers",
+      "h" : 0.00872092988755968,
+      "w" : 0.15226336545164482,
+      "conf" : 1
+    },
+    {
+      "x" : 0.16358024364711943,
+      "y" : 0.8408430232013082,
+      "text" : "[B] Myofibroblasts with contractile capability",
+      "h" : 0.010174418555365716,
+      "w" : 0.26131686324593406,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1820987691615225,
+      "y" : 0.8292151163335756,
+      "text" : "[C] Non-contractile simple squamous mesothelium",
+      "h" : 0.010174418555365605,
+      "w" : 0.2983539029487274,
+      "conf" : 1
+    },
+    {
+      "x" : 0.15740741155692717,
+      "y" : 0.8176388889862061,
+      "text" : "[D] Continuous sheets of hyaline cartilage",
+      "h" : 0.010277777777777719,
+      "w" : 0.24897118334500293,
+      "conf" : 1
+    },
+    {
+      "x" : 0.520576131584362,
+      "y" : 0.8800872093386628,
+      "text" : "as:",
+      "h" : 0.007267441749572834,
+      "w" : 0.020576132168559913,
+      "conf" : 1
+    },
+    {
+      "x" : 0.675925929238683,
+      "y" : 0.8655523256540698,
+      "text" : "[A] Avascular fibrocartilage plates separating renal lobes",
+      "h" : 0.010174418555365716,
+      "w" : 0.33127572401514593,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7232510234825105,
+      "y" : 0.8539244185501453,
+      "text" : "[B] Specialized lymphatic channels draining the corticomedullary junction",
+      "h" : 0.010174418555365605,
+      "w" : 0.4259259205944135,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7376543255349793,
+      "y" : 0.8423546511307335,
+      "text" : "[C] Extensions of cortical tissue projecting into the medulla between pyramids",
+      "h" : 0.010290697415669792,
+      "w" : 0.45473249903265023,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6656378652606308,
+      "y" : 0.8306944445294402,
+      "text" : "[D] Medullary tissue projecting into the minor calyces",
+      "h" : 0.010277777777777719,
+      "w" : 0.3106995828496586,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7242798300411525,
+      "y" : 0.8197222222604401,
+      "text" : "[E] Dense fibrous connective tissue septa continuous with Gerota's fascia",
+      "h" : 0.008888888888888835,
+      "w" : 0.42798350592079415,
+      "conf" : 1
+    },
+    {
+      "x" : 0.16872428323045258,
+      "y" : 0.8059722220179791,
+      "text" : "[E] Adipose tissue only without collagen fibers",
+      "h" : 0.01027777777777783,
+      "w" : 0.2716049338286778,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2541152307201645,
+      "y" : 0.7863727390269419,
+      "text" : "Q02. [2024 Exam] The granular gross histological appearance of the",
+      "h" : 0.011698966556125234,
+      "w" : 0.43827157650353776,
+      "conf" : 1
+    },
+    {
+      "x" : 0.259259264866255,
+      "y" : 0.772529069858285,
+      "text" : "Renal Cortex under low power light microscopy is primarily due to the",
+      "h" : 0.010174418555365716,
+      "w" : 0.4485596470862814,
+      "conf" : 1
+    },
+    {
+      "x" : 0.07715797412357865,
+      "y" : 0.759509916141438,
+      "text" : "presence of:",
+      "h" : 0.009156707127888963,
+      "w" : 0.08465303265073765,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2026749027777776,
+      "y" : 0.7441666667543249,
+      "text" : "[A] Renal (Malpighian) corpuscles and convoluted tubules",
+      "h" : 0.008888888623979296,
+      "w" : 0.33950616128789557,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18312757126200274,
+      "y" : 0.7332848835513566,
+      "text" : "[B] Abundant fat droplets in cortical interstitial cells",
+      "h" : 0.010174418555365605,
+      "w" : 0.30041151226691476,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18004115594135794,
+      "y" : 0.7216569767986918,
+      "text" : "[C] Thin descending and ascending limbs of Henle",
+      "h" : 0.010174418555365716,
+      "w" : 0.29423868431235256,
+      "conf" : 1
+    },
+    {
+      "x" : 0.14197531008230446,
+      "y" : 0.7100290699370155,
+      "text" : "[D] Vasa recta hairpin capillary loops",
+      "h" : 0.010174418555365716,
+      "w" : 0.213991752960397,
+      "conf" : 1
+    },
+    {
+      "x" : 0.14197531227709176,
+      "y" : 0.6984625323354519,
+      "text" : "[E] Straight collecting ducts of Bellini",
+      "h" : 0.010297157499525311,
+      "w" : 0.2181069955885785,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24588476944444448,
+      "y" : 0.67884366922331,
+      "text" : "Q03. [2023 Exam] The striated appearance of the Renal Medullary",
+      "h" : 0.011757106251186755,
+      "w" : 0.42181070195803855,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24485596288065847,
+      "y" : 0.6649709301889535,
+      "text" : "Pyramids in histological sections is caused by the strictly parallel",
+      "h" : 0.010174418555365605,
+      "w" : 0.4197530686480444,
+      "conf" : 1
+    },
+    {
+      "x" : 0.08744855785322364,
+      "y" : 0.6518217052551112,
+      "text" : "arrangement of:",
+      "h" : 0.01031007766723624,
+      "w" : 0.10905349779428924,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18518518899176944,
+      "y" : 0.637361111301152,
+      "text" : "[A] Macula densa plaques and juxtaglomerular cells",
+      "h" : 0.01027777777777783,
+      "w" : 0.3045267309032896,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20061728814300403,
+      "y" : 0.6256944443510938,
+      "text" : "[B] Straight renal tubules, collecting ducts, and vasa recta",
+      "h" : 0.01027777777777783,
+      "w" : 0.33539094265152075,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1882716101165979,
+      "y" : 0.614037467809897,
+      "text" : "[C] Skeletal muscle fibers radiating from the capsule",
+      "h" : 0.010297157499525311,
+      "w" : 0.3106995828496585,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18415638238168713,
+      "y" : 0.6024709302870639,
+      "text" : "[D] Proximal convoluted tubules with brush borders",
+      "h" : 0.010174418555365716,
+      "w" : 0.30246912158510214,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7335391002314814,
+      "y" : 0.7870833333009626,
+      "text" : "Q09. [2023 Exam] Fibroblast-like interstitial cells located in the renal",
+      "h" : 0.010277777777777719,
+      "w" : 0.4465020617599007,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7366255083676271,
+      "y" : 0.7733042639814747,
+      "text" : "cortex between peritubular capillaries and tubules are the primary site",
+      "h" : 0.011724805831909157,
+      "w" : 0.45267486572265625,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5617283937757201,
+      "y" : 0.7602357882689661,
+      "text" : "of synthesis of:",
+      "h" : 0.01175064563751227,
+      "w" : 0.10288065784382372,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6666666705761317,
+      "y" : 0.7448611111409742,
+      "text" : "[A] Erythropoietin (EPO) in response to tissue hypoxia",
+      "h" : 0.010277777777777719,
+      "w" : 0.3127571921678459,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6100823070216048,
+      "y" : 0.733284883775436,
+      "text" : "[B] Atrial natriuretic peptide (ANP)",
+      "h" : 0.010174418555365605,
+      "w" : 0.19958847573718186,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6306584333590535,
+      "y" : 0.7216569768713663,
+      "text" : "[C] Calcitonin to decrease serum calcium",
+      "h" : 0.010174418555365605,
+      "w" : 0.24074074607225338,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6419753102194787,
+      "y" : 0.7100290699370155,
+      "text" : "[D] Aldosterone to promote sodium excretion",
+      "h" : 0.010174418555365716,
+      "w" : 0.2633744725641215,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6234567874485597,
+      "y" : 0.6984625323899577,
+      "text" : "[E] Antidiuretic hormone (Vasopressin)",
+      "h" : 0.0102971574995252,
+      "w" : 0.22633743286132812,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7201646160493824,
+      "y" : 0.6795704135401703,
+      "text" : "Q10. [2021 Exam] Specialized lipid-laden interstitial cells located",
+      "h" : 0.01030361758338083,
+      "w" : 0.4197530686480443,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6995884836762687,
+      "y" : 0.6649709303536822,
+      "text" : "predominantly in the Renal Medulla are known to produce:",
+      "h" : 0.010174418555365605,
+      "w" : 0.3786008103088764,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6172839469821674,
+      "y" : 0.6504166667656556,
+      "text" : "[A] Angiotensinogen and active renin",
+      "h" : 0.01027777777777783,
+      "w" : 0.2181069955885785,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6666666613854597,
+      "y" : 0.6387532298090756,
+      "text" : "[B] Melanin pigment to protect medulla from radiation",
+      "h" : 0.010284237861633239,
+      "w" : 0.3168724108042207,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6111111145404663,
+      "y" : 0.6271802325823643,
+      "text" : "[C] Urea transporter-A1 exclusively",
+      "h" : 0.010174418555365605,
+      "w" : 0.20576131568764744,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7026749036008229,
+      "y" : 0.6155523256056201,
+      "text" : "[D] Prostaglandin E2 (PGE2) and Medullipin I (vasodepressor lipid)",
+      "h" : 0.010174418555365605,
+      "w" : 0.38888888089162,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6676954764403292,
+      "y" : 0.6039244186773256,
+      "text" : "[E] Collagen type IV and laminin for Bowman's capsule",
+      "h" : 0.010174418555365605,
+      "w" : 0.3189300441142149,
+      "conf" : 1
+    },
+    {
+      "x" : 0.14300411797839496,
+      "y" : 0.5908430233466571,
+      "text" : "[E] Interlobular arteries and glomeruli",
+      "h" : 0.010174418555365716,
+      "w" : 0.22016460490676587,
+      "conf" : 1
+    },
+    {
+      "x" : 0.4804526637602884,
+      "y" : 0.5711563303809666,
+      "text" : "Q04. [2022 Exam] Medullary Rays (Rays of Ferrein) extending from the Q11. [2025 Exam] The corticomedullary junction is histologically",
+      "h" : 0.011757105721367789,
+      "w" : 0.8909464902098073,
+      "conf" : 1
+    },
+    {
+      "x" : 0.254115218964335,
+      "y" : 0.5573611110622436,
+      "text" : "base of the medullary pyramids upward into the cortex histologically",
+      "h" : 0.010277777777777719,
+      "w" : 0.4423867951399125,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7345678936899865,
+      "y" : 0.5573611110622436,
+      "text" : "demarcated by which large vascular arches running along the pyramid",
+      "h" : 0.010277777777777719,
+      "w" : 0.45267486572265625,
+      "conf" : 1
+    },
+    {
+      "x" : 0.06275720257141448,
+      "y" : 0.5450581395887671,
+      "text" : "contain:",
+      "h" : 0.00904676225450296,
+      "w" : 0.055656235173063465,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5349794246905535,
+      "y" : 0.545058139635133,
+      "text" : "bases?",
+      "h" : 0.008921882841322226,
+      "w" : 0.04945306358097479,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1934156325102882,
+      "y" : 0.5298546510338342,
+      "text" : "[A] Renal corpuscles and proximal convoluted tubules",
+      "h" : 0.01029069741566968,
+      "w" : 0.3209876534324022,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6522633792181068,
+      "y" : 0.5298546511307335,
+      "text" : "[A] Interlobar arteries running between pyramids",
+      "h" : 0.010290697415669792,
+      "w" : 0.28395061372960884,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18827160882201638,
+      "y" : 0.5181944445112716,
+      "text" : "[B] Distal convoluted tubules and interlobular veins",
+      "h" : 0.010277777777777719,
+      "w" : 0.3106995828496585,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6090535012345678,
+      "y" : 0.5181944445294403,
+      "text" : "[B] Peritubular capillary plexuses",
+      "h" : 0.01027777777777783,
+      "w" : 0.19753085442309115,
+      "conf" : 1
+    },
+    {
+      "x" : 0.17386830923353916,
+      "y" : 0.5065277779820208,
+      "text" : "[C] Sympathetic nerve ganglia and lymph nodes",
+      "h" : 0.010277777777777719,
+      "w" : 0.28189300441142146,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6213991797325102,
+      "y" : 0.5065277775612134,
+      "text" : "[C] Arcuate arteries and arcuate veins",
+      "h" : 0.010277777777777719,
+      "w" : 0.22222221422495336,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20370369943415648,
+      "y" : 0.49486111103196256,
+      "text" : "[D] Straight tubules (limbs of Henle) and collecting tubules",
+      "h" : 0.010277777777777719,
+      "w" : 0.34156377060608295,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6481481515946501,
+      "y" : 0.49486111114097414,
+      "text" : "[D] Segmental end-arteries entering renal hilum",
+      "h" : 0.010277777777777719,
+      "w" : 0.27572015246505255,
+      "conf" : 1
+    },
+    {
+      "x" : 0.14609053875171454,
+      "y" : 0.4832848837936046,
+      "text" : "[E] Arcuate arteries and arcuate veins",
+      "h" : 0.010174418555365716,
+      "w" : 0.22633743286132807,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6800411565072016,
+      "y" : 0.48328488377543605,
+      "text" : "[E] Interlobular arteries running perpendicularly into cortex",
+      "h" : 0.010174418555365716,
+      "w" : 0.33950616128789557,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25102880226337454,
+      "y" : 0.46432170525511124,
+      "text" : "Q05. [2021 Exam] The Cortical Labyrinth is defined as the region of",
+      "h" : 0.01031007766723635,
+      "w" : 0.4320987725407822,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7222222169238685,
+      "y" : 0.46362726069361365,
+      "text" : "Q12. [2020 Exam] The Renal Papilla at the apex of each medullary",
+      "h" : 0.011698966026306157,
+      "w" : 0.4238682872844193,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25514403751714665,
+      "y" : 0.4505587855140509,
+      "text" : "renal cortex situated between adjacent medullary rays, histologically",
+      "h" : 0.011673126220703156,
+      "w" : 0.44444442844990667,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7016460943621399,
+      "y" : 0.4505587856433015,
+      "text" : "pyramid is perforated by 20 to 25 duct orifices forming the:",
+      "h" : 0.011673126750522234,
+      "w" : 0.3827160529370577,
+      "conf" : 1
+    },
+    {
+      "x" : 0.09465020775034286,
+      "y" : 0.4368055557276368,
+      "text" : "characterized by:",
+      "h" : 0.01027777777777783,
+      "w" : 0.11934155638112962,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5668724293981481,
+      "y" : 0.43603682167091573,
+      "text" : "[Al Verumontanum",
+      "h" : 0.0087403098742167,
+      "w" : 0.11316871643066406,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21604938729423862,
+      "y" : 0.42223837214752896,
+      "text" : "[A] Pure loose connective tissue without any tubular segments",
+      "h" : 0.010174418555365716,
+      "w" : 0.36625513040794516,
+      "conf" : 1
+    },
+    {
+      "x" : 0.608024688914609,
+      "y" : 0.4237467700637443,
+      "text" : "[B] Area Cribrosa (sieve-like area",
+      "h" : 0.010284237861633239,
+      "w" : 0.19547324510490371,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20370370797325096,
+      "y" : 0.41067829472672024,
+      "text" : "[B] Exclusively thin descending segments of loop of Henle",
+      "h" : 0.01031007766723624,
+      "w" : 0.34156377060608295,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5658436227880658,
+      "y" : 0.41277777767549956,
+      "text" : "[C] Valve of Guerin",
+      "h" : 0.008888889153798485,
+      "w" : 0.11111110711247663,
+      "conf" : 1
+    },
+    {
+      "x" : 0.16358025126886128,
+      "y" : 0.3990277777395598,
+      "text" : "[C] Parallel bundles of vasa recta capillaries",
+      "h" : 0.01027777777777783,
+      "w" : 0.26131686324593406,
+      "conf" : 1
+    },
+    {
+      "x" : 0.580246915329218,
+      "y" : 0.4011111111228057,
+      "text" : "[D] Glomus choroideum",
+      "h" : 0.008888888888888835,
+      "w" : 0.1399176975466171,
+      "conf" : 1
+    },
+    {
+      "x" : 0.13374485932784627,
+      "y" : 0.3873611113193206,
+      "text" : "[D] Large papillary ducts of Bellini",
+      "h" : 0.01027777777777783,
+      "w" : 0.2016460730594659,
+      "conf" : 1
+    },
+    {
+      "x" : 0.560699586728395,
+      "y" : 0.389534883624031,
+      "text" : "[E] Macula densa",
+      "h" : 0.00872092988755968,
+      "w" : 0.10493826716201105,
+      "conf" : 1
+    },
+    {
+      "x" : 0.14711934537037025,
+      "y" : 0.37569444436926247,
+      "text" : "[E] Renal corpuscles, PCTs, and DCTs",
+      "h" : 0.01027777777777783,
+      "w" : 0.22839504217951556,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25823044981995885,
+      "y" : 0.35611111086217595,
+      "text" : "Q06. [2020 Exam] A classic anatomical and histological Renal Lobe is",
+      "h" : 0.011666666666666714,
+      "w" : 0.44650206175990076,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1594650236882715,
+      "y" : 0.342354651148902,
+      "text" : "bounded and defined as consisting of:",
+      "h" : 0.01029069741566968,
+      "w" : 0.24897118334500293,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19444444050925933,
+      "y" : 0.327761628034157,
+      "text" : "[A] All renal pyramids draining into a single minor calyx",
+      "h" : 0.010174418555365605,
+      "w" : 0.3230452627505896,
+      "conf" : 1
+    },
+    {
+      "x" : 0.17078189759945112,
+      "y" : 0.31613372100290704,
+      "text" : "[B] The renal pelvis and its three major calyces",
+      "h" : 0.010174418555365605,
+      "w" : 0.27572015246505255,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2530864252572015,
+      "y" : 0.30457041352200176,
+      "text" : "[C] One renal pyramid, overlying cortex, and half of adjacent Bertin columns",
+      "h" : 0.01030361758338083,
+      "w" : 0.44032920981353185,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19753086008230458,
+      "y" : 0.2929166668955524,
+      "text" : "[D] The cortex situated between two interlobular arteries",
+      "h" : 0.01027777777777783,
+      "w" : 0.3292180907051518,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20781893441358015,
+      "y" : 0.28054909595714056,
+      "text" : "[E] A single medullary ray and its flanking cortical labyrinths",
+      "h" : 0.011679586304558565,
+      "w" : 0.3497942318706393,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23456790788751697,
+      "y" : 0.23694121472819712,
+      "text" : "Q07. [2024 Exam] A microscopic Renal Lobule is anatomically",
+      "h" : 0.011673126220703156,
+      "w" : 0.3991769514743637,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2355967010631004,
+      "y" : 0.22317829459954003,
+      "text" : "centered upon which structure and delimited laterally by which",
+      "h" : 0.01031007766723635,
+      "w" : 0.40534977942892597,
+      "conf" : 1
+    },
+    {
+      "x" : 0.06378600720055562,
+      "y" : 0.2107558138625531,
+      "text" : "vessels?",
+      "h" : 0.009078278011745877,
+      "w" : 0.06182757563561014,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22736626000514396,
+      "y" : 0.19542958658700982,
+      "text" : "[A] Centered on a renal pyramid and bounded by interlobar arteries",
+      "h" : 0.01030361758338083,
+      "w" : 0.38888888089162005,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23045267884773654,
+      "y" : 0.18386627914244186,
+      "text" : "[B] Centered on a papillary duct and bounded by the fibrous capsule",
+      "h" : 0.010174418555365716,
+      "w" : 0.3950617088461822,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21913580717592576,
+      "y" : 0.17223837214752896,
+      "text" : "[C] Centered on a renal corpuscle and bounded by arcuate veins",
+      "h" : 0.010174418555365716,
+      "w" : 0.37654320099068883,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23353909966563782,
+      "y" : 0.16067829472672024,
+      "text" : "[D] Centered on an interlobular artery and bounded by medullary rays",
+      "h" : 0.01031007766723624,
+      "w" : 0.40123456079255115,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2345679062757201,
+      "y" : 0.14902777772139125,
+      "text" : "[E] Centered on a Medullary Ray and bounded by Interlobular Arteries",
+      "h" : 0.010277777777777719,
+      "w" : 0.40329219410254524,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7345678956275721,
+      "y" : 0.3561111111739719,
+      "text" : "Q13. [Faculty Exam] Which surface of the human kidney is covered by",
+      "h" : 0.011666666666666714,
+      "w" : 0.4485596470862814,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7376543255349793,
+      "y" : 0.3423546511307334,
+      "text" : "a true serous peritoneal mesothelium rather than retroperitoneal loose",
+      "h" : 0.010290697415669792,
+      "w" : 0.45473249903265023,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5349794245362447,
+      "y" : 0.3292151163727764,
+      "text" : "fascia?",
+      "h" : 0.01040346357557509,
+      "w" : 0.053584320740129976,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6543209925240054,
+      "y" : 0.314680232630814,
+      "text" : "[A] Inner medullary surface facing the renal sinus",
+      "h" : 0.010174418555365605,
+      "w" : 0.29218105100235847,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6800411465363514,
+      "y" : 0.30305232550872097,
+      "text" : "[B] Only the superior poles embedded in suprarenal glands",
+      "h" : 0.010174418555365605,
+      "w" : 0.34362137992427033,
+      "conf" : 1
+    },
+    {
+      "x" : 0.635802464883402,
+      "y" : 0.29142441853197676,
+      "text" : "[C] Entire posterior surface of both kidneys",
+      "h" : 0.010174418555365605,
+      "w" : 0.25514403529137186,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7345679087791493,
+      "y" : 0.2798546510822838,
+      "text" : "[D] Anterior surface areas corresponding to liver (right) and stomach\/jejunum",
+      "h" : 0.010290697415669792,
+      "w" : 0.45267486572265625,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5246913583539095,
+      "y" : 0.2667151163517441,
+      "text" : "(left)",
+      "h" : 0.010174418555365716,
+      "w" : 0.03292180907051523,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6440329236625513,
+      "y" : 0.2558333335461402,
+      "text" : "[E] Entire renal capsule including medial hilum",
+      "h" : 0.011666666666666603,
+      "w" : 0.2716049338286778,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7181069937242799,
+      "y" : 0.2369412145343987,
+      "text" : "Q14. [Core Concept] The connective tissue stroma of the normal",
+      "h" : 0.011673126220703156,
+      "w" : 0.41563785001166964,
+      "conf" : 1
+    },
+    {
+      "x" : 0.700617280144033,
+      "y" : 0.22317829462860977,
+      "text" : "kidney is histologically most abundant in which anatomical",
+      "h" : 0.01031007766723635,
+      "w" : 0.3806584196270637,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5586419765174897,
+      "y" : 0.21002906985828496,
+      "text" : "compartment?",
+      "h" : 0.010174418555365605,
+      "w" : 0.09670781789335814,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6440329262688614,
+      "y" : 0.1954295866051785,
+      "text" : "[A] Glomerular tufts inside Bowman's capsule",
+      "h" : 0.01030361758338083,
+      "w" : 0.26748969120049626,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6666666719478735,
+      "y" : 0.18386627914244197,
+      "text" : "[B] Outer cortex between proximal convoluted tubules",
+      "h" : 0.010174418555365716,
+      "w" : 0.3168724108042208,
+      "conf" : 1
+    },
+    {
+      "x" : 0.693415642489712,
+      "y" : 0.17223837214752896,
+      "text" : "[C] Inner medulla and renal papilla surrounding collecting ducts",
+      "h" : 0.010174418555365716,
+      "w" : 0.37037037303612663,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6841563829989712,
+      "y" : 0.16067829472672024,
+      "text" : "[D] Subcapsular cortical zone directly below fibrous capsule",
+      "h" : 0.01031007766723624,
+      "w" : 0.35185184118882673,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6512345714763375,
+      "y" : 0.14902777772139125,
+      "text" : "[E] Cortical labyrinths surrounding macula densa",
+      "h" : 0.010277777777777719,
+      "w" : 0.2860082230477963,
+      "conf" : 1
+    },
+    {
+      "x" : 0.3179012416923867,
+      "y" : 0.014573643611020815,
+      "text" : "Twisted Medicine • Renal Histology Master Class • Strictly Grounded in Faculty & Board EXam Past Papers",
+      "h" : 0.017519379191928475,
+      "w" : 0.5699588127855986,
+      "conf" : 1
+    },
+    {
+      "x" : 0.8734567925154321,
+      "y" : 0.01966085278616625,
+      "text" : "Confidential Student Revision Bank",
+      "h" : 0.007344961166381836,
+      "w" : 0.19135801447262546,
+      "conf" : 1
+    }
+  ],
+  "page" : 23
+}

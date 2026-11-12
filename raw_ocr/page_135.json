@@ -1,0 +1,957 @@
+{
+  "items" : [
+    {
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "w" : 0.47942385883451255,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 35 MCQ Masterclass",
+      "x" : 0.2808641896090538,
+      "y" : 0.9825193797553681
+    },
+    {
+      "h" : 0.010290697945488758,
+      "conf" : 1,
+      "w" : 0.6625514000466783,
+      "text" : "Twisted Medicine Medical Series • Clinical Nephrology, Cardinal Symptoms, Physical Signs & Evaluation • Standard Practice Bank",
+      "x" : 0.37242799458161824,
+      "y" : 0.9701453487497058
+    },
+    {
+      "h" : 0.011801207860310914,
+      "conf" : 1,
+      "w" : 0.07412820492150651,
+      "text" : "Page 1 of 4",
+      "x" : 0.9238683124492431,
+      "y" : 0.9825581393888133
+    },
+    {
+      "h" : 0.011711885664198118,
+      "conf" : 1,
+      "w" : 0.6460905255011793,
+      "text" : "35. INTRODUCTION TO CLINICAL NEPHROLOGY & APPROACH TO RENAL PATIENT",
+      "x" : 0.49999998923182476,
+      "y" : 0.9389114985733111
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.5514403049301051,
+      "text" : "Twisted Medicine Clinical Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "x" : 0.5000000056584362,
+      "y" : 0.92078488359375
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.4341563578671629,
+      "text" : "Q01. [2025 Exam] Which syndrome is defined by acute hematuria",
+      "x" : 0.26234568443930023,
+      "y" : 0.8990277777213912
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.41769548332166373,
+      "text" : "with dysmorphic RBCs, RBC casts, oliguria, hypertension, and",
+      "x" : 0.2541152221604939,
+      "y" : 0.885962532190103
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "w" : 0.0864197533085661,
+      "text" : "mild edema?",
+      "x" : 0.08847736616941015,
+      "y" : 0.8750000000121123
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.1707818853030415,
+      "text" : "[A] Pure Nephrotic Syndrome",
+      "x" : 0.12860082518004112,
+      "y" : 0.8597383721475291
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "w" : 0.16872427598485404,
+      "text" : "[B] Acute Nephritic Syndrome",
+      "x" : 0.12962963131687238,
+      "y" : 0.8488888889716713
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.22016460490676593,
+      "text" : "[C] Asymptomatic Urinary Abnormality",
+      "x" : 0.1532921847393689,
+      "y" : 0.8365277777395599
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "w" : 0.2160493862703911,
+      "text" : "[D] Chronic Tubulointerstitial Nephritis",
+      "x" : 0.15329218377057605,
+      "y" : 0.8255555556159087
+    },
+    {
+      "h" : 0.0087403098742167,
+      "conf" : 1,
+      "w" : 0.20164607305946589,
+      "text" : "[E] Isolated Renal Tubular Acidosis",
+      "x" : 0.14403291844993155,
+      "y" : 0.813963178316972
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "w" : 0.42592592059441325,
+      "text" : "Q02. [2024 Exam] Which clinical tetrad definitively differentiates",
+      "x" : 0.2582304579989711,
+      "y" : 0.7856782947267202
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.4094649980653007,
+      "text" : "classic Nephrotic Syndrome from other glomerular diseases?",
+      "x" : 0.24999999590534983,
+      "y" : 0.7725290696947674
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "w" : 0.38065841962706365,
+      "text" : "[A] Proteinuria >3.5 g\/d, albumin <3 g\/dL, edema, & hyperlipidemia",
+      "x" : 0.2335390994084361,
+      "y" : 0.7579295866233471
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.4012345607925511,
+      "text" : "[B] Gross hematuria, sterile pyuria, severe flank pain, & palpable mass",
+      "x" : 0.24588477253086424,
+      "y" : 0.7463662789001937
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.3786008103088762,
+      "text" : "[C] Acute anuria, severe hyperkalemia, alkalosis, & periorbital rash",
+      "x" : 0.23456790596707805,
+      "y" : 0.7354651163517443
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "w" : 0.3786008103088762,
+      "text" : "[D] Normal anion gap acidosis, hypokalemia, and nephrocalcinosis",
+      "x" : 0.23456790596707805,
+      "y" : 0.7238888889862061
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.3724279823543141,
+      "text" : "[E] Low C3, high ASO titer, oliguria, and cola-colored smoky urine",
+      "x" : 0.23148148613683117,
+      "y" : 0.7129166668443863
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.41975306864804446,
+      "text" : "Q03. [2023 Exam] What daily urine output threshold in an adult",
+      "x" : 0.25514403816872416,
+      "y" : 0.6707848838117734
+    },
+    {
+      "h" : 0.01174418555365675,
+      "conf" : 1,
+      "w" : 0.33744855196970813,
+      "text" : "fulfills the formal diagnostic criterion for Oliguria?",
+      "x" : 0.2119341521604939,
+      "y" : 0.6583720928267407
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "w" : 0.23045267548950962,
+      "text" : "[A] Urine volume < 100 mL per 24 hours",
+      "x" : 0.15843621687242787,
+      "y" : 0.6438888888260281
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "w" : 0.3580246691433888,
+      "text" : "[B] Urine volume < 400 mL\/24h (or < 0.5 mL\/kg\/h for >6 hours",
+      "x" : 0.22222221625514427,
+      "y" : 0.6329295864598297
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.3271604813869644,
+      "text" : "[C] Urine volume between 500 and 1000 mL per 24 hours",
+      "x" : 0.20884774071502046,
+      "y" : 0.6213662791242733
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.2901234416841711,
+      "text" : "[D] Urine volume exceeding 3.0 Liters per 24 hours",
+      "x" : 0.19032922173353906,
+      "y" : 0.6097383721838663
+    },
+    {
+      "h" : 0.010310077667236461,
+      "conf" : 1,
+      "w" : 0.2901234416841711,
+      "text" : "[E] Urine volume turning dark amber upon standing",
+      "x" : 0.1903292210082304,
+      "y" : 0.5981782947158191
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.4341563578671629,
+      "text" : "Q04. [2022 Exam] What clinical definition and pathophysiological",
+      "x" : 0.26234568335390934,
+      "y" : 0.5573611111591428
+    },
+    {
+      "h" : 0.008746769693162793,
+      "conf" : 1,
+      "w" : 0.25514403529137186,
+      "text" : "mechanism define Anuria in an adult?",
+      "x" : 0.17283951042523993,
+      "y" : 0.5450710595345845
+    },
+    {
+      "h" : 0.01029069741566968,
+      "conf" : 1,
+      "w" : 0.39917695147436366,
+      "text" : "[A] Urine output between 200 and 400 mL\/24h due to mild dehydration",
+      "x" : 0.24485597106995874,
+      "y" : 0.5298546511307334
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3744855916725015,
+      "text" : "[B] Painful burning during micturition due to acute bacterial cystitis",
+      "x" : 0.23251029274691346,
+      "y" : 0.5181944445476089
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "w" : 0.3662551304079451,
+      "text" : "[C] Excessive nighttime urination caused by detrusor overactivity",
+      "x" : 0.22839505730452683,
+      "y" : 0.5079295866596842
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.42592592059441325,
+      "text" : "[D] Urine output < 100 mL\/24h; implies bilateral vascular event or complete",
+      "x" : 0.2582304597736623,
+      "y" : 0.49636627914244186
+    },
+    {
+      "h" : 0.007267441749572723,
+      "conf" : 1,
+      "w" : 0.06584361814103036,
+      "text" : "obstruction",
+      "x" : 0.07613168614540469,
+      "y" : 0.4847383720203488
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.35390945050701406,
+      "text" : "[E] Passing air bubbles in urine due to an enterovesical fistula",
+      "x" : 0.22016461495198886,
+      "y" : 0.4723837210271318
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.40740741273892,
+      "text" : "Q05. [2021 Exam] How is true Polyuria clinically defined in an",
+      "x" : 0.24897119748971186,
+      "y" : 0.442638888986206
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "w" : 0.09259259325903166,
+      "text" : "adult patient?",
+      "x" : 0.09156378607782617,
+      "y" : 0.4302777776540605
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.38477363826343847,
+      "text" : "[A] Urine output > 1.5 L\/day accompanied by suprapubic discomfort",
+      "x" : 0.23765432740054848,
+      "y" : 0.4156976745155039
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.36419752108975767,
+      "text" : "[B] Voiding more than 4 times per hour with normal daily volume",
+      "x" : 0.2273662596965019,
+      "y" : 0.40406976751453483
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.32921809070515184,
+      "text" : "[C] Involuntary urine leakage during coughing or sneezing",
+      "x" : 0.2098765473251028,
+      "y" : 0.3931944445112716
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.3024691215851022,
+      "text" : "[D] Inability to initiate voiding despite bladder fullness",
+      "x" : 0.19650206265432082,
+      "y" : 0.381527777579382
+    },
+    {
+      "h" : 0.00872093015246922,
+      "conf" : 1,
+      "w" : 0.44032920981353185,
+      "text" : "[E] Urine volume > 3.0 Liters per 24 hours; caused by water or solute diuresis",
+      "x" : 0.26337448009259273,
+      "y" : 0.3706395349435014
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.39711934215617634,
+      "text" : "Q06. [2020 Exam] Why is Nocturia (>2 voids\/night) often the",
+      "x" : 0.24382716446502056,
+      "y" : 0.3292151163517441
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.4362139911771571,
+      "text" : "earliest and most sensitive symptom of Chronic Kidney Disease?",
+      "x" : 0.26337449286694076,
+      "y" : 0.3161337210513567
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.34362137992427033,
+      "text" : "[A] Primary psychological aversion to daytime fluid hydration",
+      "x" : 0.2170781935956789,
+      "y" : 0.3015374678280654
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.40534977942892597,
+      "text" : "[B] Progressive loss of medullary hypertonicity and concentrating ability",
+      "x" : 0.24794239189814807,
+      "y" : 0.28997093028706405
+    },
+    {
+      "h" : 0.008720930417378758,
+      "conf" : 0.5,
+      "w" : 0.08436213799242703,
+      "text" : "(sosthenuria) |",
+      "x" : 0.08744855976554039,
+      "y" : 0.2790697674303856
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.34773662255245186,
+      "text" : "[C] Glomerular filtration rate increases threefold during sleep",
+      "x" : 0.2170781849537038,
+      "y" : 0.268194444365923
+    },
+    {
+      "h" : 0.011692505942450637,
+      "conf" : 1,
+      "w" : 0.3909464902098074,
+      "text" : "[D] Nocturnal hypersecretion of vasopressin (ADH) by hypothalamus",
+      "x" : 0.24074074725651554,
+      "y" : 0.2572351420194562
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3456789892424577,
+      "text" : "[E] Renal blood flow drops to zero during REM sleep cycles",
+      "x" : 0.21604938847736607,
+      "y" : 0.24486111115914277
+    },
+    {
+      "h" : 0.01031007766723624,
+      "conf" : 1,
+      "w" : 0.4156378500116696,
+      "text" : "Q07. [2024 Exam] What clinical feature distinguishes the facial",
+      "x" : 0.25308641455761327,
+      "y" : 0.21432170527327976
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.38477366225524523,
+      "text" : "edema of Nephrotic Syndrome from that of Heart Failure?",
+      "x" : 0.237654325797325,
+      "y" : 0.20276162799781988
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.4238682872844193,
+      "text" : "[A] Prominent periorbitally upon waking in morning due to low tissue turgor",
+      "x" : 0.2572016513888888,
+      "y" : 0.18819444435109378
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.3621399117715704,
+      "text" : "[B] Occurs strictly on dependent feet and ankles late in evening",
+      "x" : 0.22633745459533589,
+      "y" : 0.17653746780989704
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.3827160289452511,
+      "text" : "[C] Affects only the upper eyelids with zero lower extremity swelling",
+      "x" : 0.2366255191872427,
+      "y" : 0.16497093028706394
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.34773662255245186,
+      "text" : "[D] Completely non-pitting and exquisitely tender to palpation",
+      "x" : 0.21913580161179702,
+      "y" : 0.1533430230862402
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.36831273972613254,
+      "text" : "[E] Always accompanied by prominent jugular venous distension",
+      "x" : 0.22736624900548721,
+      "y" : 0.14171511620639549
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.38271602894525114,
+      "text" : "Q08. [2022 Exam] What physical feature differentiates the",
+      "x" : 0.7078189364197529,
+      "y" : 0.8990277777395599
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.36213991177157046,
+      "text" : "Dependent Pitting Edema of Nephrosis from non-renal",
+      "x" : 0.697530870233196,
+      "y" : 0.8859625323839015
+    },
+    {
+      "h" : 0.010281731287638318,
+      "conf" : 0.5,
+      "w" : 0.0823309676452253,
+      "text" : "Myxedema?",
+      "x" : 0.5555555541838793,
+      "y" : 0.8742732557879398
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.3353909426515207,
+      "text" : "[A] Nephrotic edema is non-pitting, firm, and warm to touch",
+      "x" : 0.6820987687860083,
+      "y" : 0.8597383721656977
+    },
+    {
+      "h" : 0.01031007766723624,
+      "conf" : 1,
+      "w" : 0.41358021670167533,
+      "text" : "[B] Myxedema pits deeply and resolves within 2 seconds of leg elevation",
+      "x" : 0.7211934225308639,
+      "y" : 0.8481782947448888
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.39300409952799487,
+      "text" : "[C] Nephrotic edema pits on sustained digital pressure; myxedema is",
+      "x" : 0.7109053563443071,
+      "y" : 0.8365277777395599
+    },
+    {
+      "h" : 0.010710424847073075,
+      "conf" : 1,
+      "w" : 0.06395305177700594,
+      "text" : "non-pitting",
+      "x" : 0.5462962972878792,
+      "y" : 0.8248546509848608
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.3950617088461822,
+      "text" : "[D] Both conditions produce identical rapidly transient pitting in calves",
+      "x" : 0.7119341503429357,
+      "y" : 0.8131944446568333
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.3991769514743637,
+      "text" : "[E] Nephrotic edema is restricted strictly to the anterior abdominal wall",
+      "x" : 0.7139917650205763,
+      "y" : 0.803052325750969
+    },
+    {
+      "h" : 0.011763565805223197,
+      "conf" : 1,
+      "w" : 0.3950617088461821,
+      "text" : "Q09. [2023 Exam] In the workup of gross hematuria, what is",
+      "x" : 0.7139917732510287,
+      "y" : 0.7849515506057285
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.3991769514743637,
+      "text" : "revealed by the Three-Glass Test timing during micturition?",
+      "x" : 0.7139917655555557,
+      "y" : 0.7725290696947674
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "w" : 0.4300411392307881,
+      "text" : "[A] Initial hematuria indicates renal cortical necrosis; Total indicates anterior",
+      "x" : 0.7294238616941018,
+      "y" : 0.7579295863629304
+    },
+    {
+      "h" : 0.009140107896592808,
+      "conf" : 1,
+      "w" : 0.051579511390542065,
+      "text" : "urethritis",
+      "x" : 0.5401234559312573,
+      "y" : 0.7470930231659172
+    },
+    {
+      "h" : 0.01173772546980123,
+      "conf" : 1,
+      "w" : 0.41563785001166964,
+      "text" : "[B] Terminal hematuria indicates glomerular podocyte rupture exclusively",
+      "x" : 0.722222216049383,
+      "y" : 0.735520026126002
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "w" : 0.3724279823543142,
+      "text" : "[C] Total hematuria indicates acute urethral foreign body insertion",
+      "x" : 0.7006172886059671,
+      "y" : 0.7238888889862061
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.434156357867163,
+      "text" : "[D] Initial = urethral; Terminal = bladder neck\/prostate; Total = bladder\/upper",
+      "x" : 0.7314814858230452,
+      "y" : 0.7129166668625548
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.026748969120049648,
+      "text" : "tract",
+      "x" : 0.5277777778806585,
+      "y" : 0.7005813952034884
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.35390945050701406,
+      "text" : "[E] Timing has zero clinical value in localizing urinary bleeding",
+      "x" : 0.6913580305898488,
+      "y" : 0.6896802325823643
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.40740741273892,
+      "text" : "Q10. [2021 Exam] Which urinary microscopy finding provides",
+      "x" : 0.7201646056584363,
+      "y" : 0.6707848836603683
+    },
+    {
+      "h" : 0.011744185553656639,
+      "conf" : 1,
+      "w" : 0.37860081030887627,
+      "text" : "definitive proof that hematuria originated from within the",
+      "x" : 0.7037036973936902,
+      "y" : 0.6583720928146284
+    },
+    {
+      "h" : 0.011259142557779933,
+      "conf" : 1,
+      "w" : 0.08461069910781183,
+      "text" : "glomerulus?",
+      "x" : 0.5586419759437702,
+      "y" : 0.6460755815052904
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.3744855916725015,
+      "text" : "[A] Round, uniform biconcave RBCs with smooth cell membranes",
+      "x" : 0.7016460967764058,
+      "y" : 0.6315277775793819
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3991769514743637,
+      "text" : "[B] Presence of squamous epithelial cells and calcium oxalate crystals",
+      "x" : 0.7139917752400545,
+      "y" : 0.6198611109168947
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.3971193181643695,
+      "text" : "[C] Co-occurrence of triple phosphate crystals with alkaline urinary pH",
+      "x" : 0.7129629563443075,
+      "y" : 0.6090116278100774
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.3662551304079451,
+      "text" : "[D] High concentration of urobilinogen in centrifuged supernatant",
+      "x" : 0.6995884819444442,
+      "y" : 0.5973837210029069
+    },
+    {
+      "h" : 0.007338501082526316,
+      "conf" : 1,
+      "w" : 0.4320987725407823,
+      "text" : "TE Red Blood Cell (RBC) Casts and >5% Dysmorphic RBCs (Acanthocytes)",
+      "x" : 0.7304526676954736,
+      "y" : 0.5864470284003835
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.38888888089162,
+      "text" : "Q11. [2025 Exam] How is Glomerular (Nephritic) Hematuria",
+      "x" : 0.7109053546553497,
+      "y" : 0.5573611111409742
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.40329219410254513,
+      "text" : "differentiated from Urological Hematuria regarding color and",
+      "x" : 0.7181069925240056,
+      "y" : 0.5443055554826722
+    },
+    {
+      "h" : 0.010421816507975246,
+      "conf" : 1,
+      "w" : 0.04127353092409536,
+      "text" : "clots?",
+      "x" : 0.5370370374505908,
+      "y" : 0.5327034885391829
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.3888888808916199,
+      "text" : "[A] Glomerular: bright red with clots; Urological: tea-colored, no clots",
+      "x" : 0.7088477414866254,
+      "y" : 0.5167151163699129
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.44238684312352594,
+      "text" : "[B] Glomerular: smoky cola-colored, NO clots; Urological: bright red, with clots",
+      "x" : 0.735596707484568,
+      "y" : 0.5065277776338878
+    },
+    {
+      "h" : 0.008888888623979296,
+      "conf" : 1,
+      "w" : 0.40123456079255104,
+      "text" : "[C] Glomerular: clear yellow turning blue on air; Urological: green urine",
+      "x" : 0.7150205811471193,
+      "y" : 0.4941666667301
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.38271602894525114,
+      "text" : "[D] Both produce identical large blood clots causing acute retention",
+      "x" : 0.7057613232510286,
+      "y" : 0.4832848837936046
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.41563785001166964,
+      "text" : "[E] Glomerular hematuria never produces microscopic RBCs in sediment",
+      "x" : 0.7222222263786007,
+      "y" : 0.4716569768168605
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.4176954833216636,
+      "text" : "Q12. [2020 Exam] What is the defining clinical characteristic of",
+      "x" : 0.7253086430298352,
+      "y" : 0.44263888878635144
+    },
+    {
+      "h" : 0.011804480022854169,
+      "conf" : 1,
+      "w" : 0.38079572473681955,
+      "text" : "benign Orthostatic (Postural) Proteinuria in adolescents?",
+      "x" : 0.7067905641376224,
+      "y" : 0.4301763477018014
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.41563785001166964,
+      "text" : "[A] Present strictly while upright (<1 g\/day), completely absent in morning",
+      "x" : 0.7222222175925928,
+      "y" : 0.4164244187318314
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.07201645809149582,
+      "text" : "supine urine",
+      "x" : 0.5504115235339506,
+      "y" : 0.40406976751453483
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.4094649980653008,
+      "text" : "[B] Heavy nephrotic proteinuria (>5 g\/day) present strictly while sleeping",
+      "x" : 0.7191358075874486,
+      "y" : 0.3931944445112716
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.4176954833216636,
+      "text" : "[C] Proteinuria accompanied by severe hypertension and hematuria while",
+      "x" : 0.7232510329835391,
+      "y" : 0.3815277775793819
+    },
+    {
+      "h" : 0.009438132180107917,
+      "conf" : 1,
+      "w" : 0.04348892835701035,
+      "text" : "upright",
+      "x" : 0.5360082309902227,
+      "y" : 0.37063953496537033
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.3950617088461822,
+      "text" : "D] Rapidly progressive loss of renal function requiring steroid therapy",
+      "x" : 0.7139917744855966,
+      "y" : 0.3582848837754361
+    },
+    {
+      "h" : 0.01031007766723624,
+      "conf" : 1,
+      "w" : 0.3991769514743637,
+      "text" : "[E] Excretion of massive amounts of Bence-Jones light chains at night",
+      "x" : 0.7139917745370368,
+      "y" : 0.34817829472672024
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "w" : 0.4115226313752949,
+      "text" : "Q13. [Faculty Exam] How does true Renal Capsular Pain (e.g.,",
+      "x" : 0.7222222290809326,
+      "y" : 0.32848837209302323
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.32921809070515184,
+      "text" : "acute pyelonephritis) differ from Ureteral Colic?",
+      "x" : 0.6790123511659807,
+      "y" : 0.3161337210513567
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.4238682872844193,
+      "text" : "[A] Capsular pain is spasmodic and relieved completely by walking around",
+      "x" : 0.7263374556241425,
+      "y" : 0.3015374678583465
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.4094649980653007,
+      "text" : "[B] Ureteral colic is painless and accompanied by massive pedal edema",
+      "x" : 0.7191357961934158,
+      "y" : 0.2899709300629845
+    },
+    {
+      "h" : 0.01029069741566968,
+      "conf" : 1,
+      "w" : 0.40740741273892,
+      "text" : "[C] Capsular is constant, dull ache in CVA; Colic is severe, paroxysmal,",
+      "x" : 0.7181070009773661,
+      "y" : 0.2798546510762276
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.0699588427753568,
+      "text" : "loin-to-groin",
+      "x" : 0.5514403303840878,
+      "y" : 0.2674418605135659
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.35390945050701406,
+      "text" : "[D] Capsular pain radiates strictly to the ipsilateral shoulder tip",
+      "x" : 0.6913580202674898,
+      "y" : 0.25652777794568365
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.40123456079255104,
+      "text" : "[E] Both pain patterns are identical and restricted to anterior chest wall",
+      "x" : 0.7150205811471193,
+      "y" : 0.24486111117731146
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "w" : 0.44032920981353174,
+      "text" : "Q14. [Core Exam] What is the clinical significance of Pneumaturia",
+      "x" : 0.7366255199074072,
+      "y" : 0.21432170541862866
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.2654320818823088,
+      "text" : "(passing air\/bubbles during urination)?",
+      "x" : 0.6471193459876542,
+      "y" : 0.20276162802810077
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.4094649980653007,
+      "text" : "[A] Normal physiological variant after consuming carbonated beverages",
+      "x" : 0.7170781865226339,
+      "y" : 0.18680555553383832
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.34773662255245186,
+      "text" : "[B] Pathognomonic indicator of bilateral renal artery stenosis",
+      "x" : 0.6862139975651576,
+      "y" : 0.17653746780989704
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.3209876534324022,
+      "text" : "[C] Sign of retroperitoneal fibrosis encasing both ureters",
+      "x" : 0.6748971233539094,
+      "y" : 0.16497093032340115
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "w" : 0.38271602894525114,
+      "text" : "[D] Hallmark of Enterovesical Fistula (colonic diverticulitis, Crohn's,",
+      "x" : 0.7037036973251031,
+      "y" : 0.1548546512018445
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.07201645809149593,
+      "text" : "malignancy)",
+      "x" : 0.5504115217335391,
+      "y" : 0.1424418603924419
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.33127570002333917,
+      "text" : "[E] Manifestation of acute tubular necrosis in septic shock",
+      "x" : 0.6779835335733884,
+      "y" : 0.1315277779638523
+    },
+    {
+      "h" : 0.007344961166381836,
+      "conf" : 1,
+      "w" : 0.09670781789335815,
+      "text" : "Twisted Medicine",
+      "x" : 0.0895061740483539,
+      "y" : 0.01966085278616625
+    },
+    {
+      "h" : 0.01897286732991532,
+      "conf" : 1,
+      "w" : 0.44650206175990076,
+      "text" : "• Clinical Nephrology & Renal Evaluation Master Class • Faculty & Boach gm Preparation",
+      "x" : 0.3858024765775032,
+      "y" : 0.013846899196401974
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "w" : 0.2674897151923029,
+      "text" : "Confidential - Dedicated for Medical Student Revision",
+      "x" : 0.8251028833333334,
+      "y" : 0.018888888811493143
+    }
+  ],
+  "page" : 135
+}

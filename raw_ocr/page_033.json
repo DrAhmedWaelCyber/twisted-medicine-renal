@@ -1,0 +1,965 @@
+{
+  "items" : [
+    {
+      "conf" : 1,
+      "x" : 0.28292181903292146,
+      "w" : 0.5,
+      "h" : 0.013178294499715193,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 8 MCQ Masterclass",
+      "y" : 0.9774224804225952
+    },
+    {
+      "conf" : 1,
+      "x" : 0.3569958928755142,
+      "w" : 0.64814811082756,
+      "h" : 0.01031007766723635,
+      "text" : "Twisted Medicine Medical Series • Loop of Henle, Thin & Thick Limbs, Countercurrent Multiplier • Standard Practice Bank",
+      "y" : 0.9643217054186286
+    },
+    {
+      "conf" : 1,
+      "x" : 0.9341563782620697,
+      "w" : 0.07019636765965875,
+      "h" : 0.011023411220974388,
+      "text" : "Page 3 of 4",
+      "y" : 0.9760174416867475
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2510522021503379,
+      "w" : 0.43647756516558567,
+      "h" : 0.015707157982720266,
+      "text" : "Q29. [2025 Exam] At the terminal end of the Thick Ascending Limb,",
+      "y" : 0.9423733216175461
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23971192726337476,
+      "w" : 0.41358021670167555,
+      "h" : 0.01030361758338083,
+      "text" : "where it contacts the vascular pole of its parent glomerulus, the",
+      "y" : 0.9295704133948215
+    },
+    {
+      "conf" : 1,
+      "x" : 0.13888889148662542,
+      "w" : 0.2078189250058348,
+      "h" : 0.010174418555365716,
+      "text" : "epithelium specializes into the:",
+      "y" : 0.916424418659157
+    },
+    {
+      "conf" : 1,
+      "x" : 0.14197531227709176,
+      "w" : 0.2181069955885785,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Lacis \/ Goormaghtigh cell cluster",
+      "y" : 0.9004166668625548
+    },
+    {
+      "conf" : 1,
+      "x" : 0.13168724567901227,
+      "w" : 0.19753085442309112,
+      "h" : 0.011673126220703156,
+      "text" : "[B] Medullary interstitial lipid cell",
+      "y" : 0.8880587855140509
+    },
+    {
+      "conf" : 1,
+      "x" : 0.1378600832647462,
+      "w" : 0.20987653432402226,
+      "h" : 0.011711886194017196,
+      "text" : "[C] Outer medullary collecting duct",
+      "y" : 0.8764114985506497
+    },
+    {
+      "conf" : 1,
+      "x" : 0.18518518425925926,
+      "w" : 0.3045267309032896,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Macula Densa of the Juxtaglomerular Apparatus",
+      "y" : 0.8655523257085755
+    },
+    {
+      "conf" : 1,
+      "x" : 0.14609053882030165,
+      "w" : 0.23045267548950965,
+      "h" : 0.00872092988755968,
+      "text" : "[E] Parietal layer of Bowman's capsule",
+      "y" : 0.8531976744670543
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7181070025377227,
+      "w" : 0.3991769514743637,
+      "h" : 0.011666666666666714,
+      "text" : "Q36. [2023 Exam] Why are the Thick Ascending Limbs and S3",
+      "y" : 0.9433333333070189
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7181070025377227,
+      "w" : 0.3991769514743637,
+      "h" : 0.01030361758338083,
+      "text" : "segments of proximal tubules in the outer medulla selectively",
+      "y" : 0.9295704135401703
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6995884834019201,
+      "w" : 0.36213991177157034,
+      "h" : 0.010174418555365605,
+      "text" : "vulnerable to Ischemic Acute Tubular Necrosis (ATN)?",
+      "y" : 0.9164244186773256
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7314814761574076,
+      "w" : 0.42592592059441325,
+      "h" : 0.011666666666666714,
+      "text" : "[A] High active transport ATP demand in a medulla with low baseline p02",
+      "y" : 0.8997222224206181
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7211934223936898,
+      "w" : 0.4053497794289259,
+      "h" : 0.011673126220703156,
+      "text" : "[B] High levels of proteolytic enzymes destroying tubular membranes",
+      "y" : 0.8880587853687021
+    },
+    {
+      "conf" : 1,
+      "x" : 0.721193409293553,
+      "w" : 0.4094649980653007,
+      "h" : 0.011711885664198118,
+      "text" : "[C] They are exposed directly to toxic bile acids within the tubular fluid",
+      "y" : 0.8764114984279623
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7016460967078187,
+      "w" : 0.37037034904432,
+      "h" : 0.010297157499525311,
+      "text" : "[D They are completely devoid of any capillary vascular supply",
+      "y" : 0.864037467809897
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7150205804869684,
+      "w" : 0.3971193181643695,
+      "h" : 0.011627906163533486,
+      "text" : "[E] They have no basement membrane to support epithelial integrity",
+      "y" : 0.853197674612403
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2479423921553497,
+      "w" : 0.42592592059441337,
+      "h" : 0.011627906163533597,
+      "text" : "Q30. [2024 Exam] Histologically, the Macula Densa appears under",
+      "y" : 0.8154069768168605
+    },
+    {
+      "conf" : 1,
+      "x" : 0.21604937661179718,
+      "w" : 0.36625513040794516,
+      "h" : 0.011750645637512158,
+      "text" : "light microscopy as a localized plaque characterized by:",
+      "y" : 0.8022642116099099
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23353910133744837,
+      "w" : 0.4012345607925511,
+      "h" : 0.01031007766723624,
+      "text" : "[A] Giant binucleated cells filled with eosinophilic zymogen granules",
+      "y" : 0.7856782947448888
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2469135748971195,
+      "w" : 0.42798350592079404,
+      "h" : 0.011666666666666603,
+      "text" : "[B] Fibroblastic cells embedded in dense collagenous extracellular matrix",
+      "y" : 0.7747222224206181
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2253086467849793,
+      "w" : 0.3847736622552452,
+      "h" : 0.011673126220703045,
+      "text" : "[C] Clear vacuolated cells containing abundant glycogen deposits",
+      "y" : 0.7630587853929268
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2201646137345678,
+      "w" : 0.3744855916725015,
+      "h" : 0.011711886194017196,
+      "text" : "[D] Flattened simple squamous endothelial cells with wide gaps",
+      "y" : 0.7514114984295257
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2376543261659806,
+      "w" : 0.4094649980653007,
+      "h" : 0.011750645637512047,
+      "text" : "[E] Tall, narrow, crowded columnar epithelial cells with closely packed,",
+      "y" : 0.7397642114645611
+    },
+    {
+      "conf" : 1,
+      "x" : 0.14506172465706457,
+      "w" : 0.22427982354314072,
+      "h" : 0.011627906163533486,
+      "text" : "hyperchromatic nuclei near the lumen",
+      "y" : 0.728197674370155
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7253086470936212,
+      "w" : 0.4094649980653008,
+      "h" : 0.011627906163533597,
+      "text" : "Q37. [2022 Exam] In histological sections of the medullary rays,",
+      "y" : 0.815406976744186
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7078189314128942,
+      "w" : 0.3744855916725015,
+      "h" : 0.01175064563751227,
+      "text" : "which three tubular structures run parallel to one another?",
+      "y" : 0.8022642114645611
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6718107026954732,
+      "w" : 0.3106995828496585,
+      "h" : 0.011763565805223308,
+      "text" : "[A] Vasa recta, renal pelvis mucosa, and major calyx",
+      "y" : 0.7849515503084676
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7386831320576132,
+      "w" : 0.4485596470862814,
+      "h" : 0.013113694720798041,
+      "text" : "[B] Straight proximal tubules (pars recta), thick ascending limbs, and cortical",
+      "y" : 0.7739987081569386
+    },
+    {
+      "conf" : 1,
+      "x" : 0.5689300429012345,
+      "w" : 0.10493826716201105,
+      "h" : 0.011673126220703156,
+      "text" : "collecting ducts",
+      "y" : 0.7630587854171516
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6893004172839504,
+      "w" : 0.34567898924245766,
+      "h" : 0.011711886194017085,
+      "text" : "[C] Papillary ducts of Bellini, arcuate veins, and lymphatics",
+      "y" : 0.7514114984537504
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7078189338683126,
+      "w" : 0.3827160529370577,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Interlobular arteries, afferent arterioles, and efferent arterioles",
+      "y" : 0.740552325625
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7294238629886833,
+      "w" : 0.42592592059441337,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Proximal convoluted tubules, distal convoluted tubules, and glomeruli",
+      "y" : 0.7274709301780524
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23353909166666678,
+      "w" : 0.3971193181643696,
+      "h" : 0.011711886194017085,
+      "text" : "Q31. [2023 Exam] What is the primary sensory function of the",
+      "y" : 0.6889114985506496
+    },
+    {
+      "conf" : 1,
+      "x" : 0.19341564320987636,
+      "w" : 0.3209876534324022,
+      "h" : 0.010277777777777719,
+      "text" : "specialized epithelial cells of the Macula Densa?",
+      "y" : 0.6751388888744778
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2222222269547324,
+      "w" : 0.3786008103088762,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Detecting tubular fluid NaCl concentration\/flow and signaling",
+      "y" : 0.659156976798692
+    },
+    {
+      "conf" : 1,
+      "x" : 0.1718107030606995,
+      "w" : 0.27777776178324,
+      "h" : 0.010174418555365716,
+      "text" : "juxtaglomerular cells to modulate renin release",
+      "y" : 0.6475290698219478
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23353909966563782,
+      "w" : 0.40123456079255115,
+      "h" : 0.010297157499525311,
+      "text" : "[B] Synthesizing aldosterone to stimulate distal sodium reabsorption",
+      "y" : 0.6359625323172833
+    },
+    {
+      "conf" : 1,
+      "x" : 0.22736625028292196,
+      "w" : 0.38888888089162005,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Monitoring venous pressure in the peritubular capillary network",
+      "y" : 0.6243055556489062
+    },
+    {
+      "conf" : 1,
+      "x" : 0.22633744372427997,
+      "w" : 0.38683127157343256,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Secreting erythropoietin in response to local medullary hypoxia",
+      "y" : 0.612638888698848
+    },
+    {
+      "conf" : 1,
+      "x" : 0.1882716010545269,
+      "w" : 0.31069958284965854,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Measuring systemic arterial blood oxygen tension",
+      "y" : 0.6009722222786088
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7191357984979424,
+      "w" : 0.3971193421561763,
+      "h" : 0.01027777777777783,
+      "text" : "Q38. [2021 Exam] Histologically, the transition from the distal",
+      "y" : 0.6881944442239135
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7314814743827163,
+      "w" : 0.42592592059441337,
+      "h" : 0.01027777777777783,
+      "text" : "convoluted tubule to the Collecting Tubule and Duct is marked by:",
+      "y" : 0.6751388886806794
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7139917659670783,
+      "w" : 0.39094649020980743,
+      "h" : 0.010174418555365605,
+      "text" : "[A] Massive infiltration of smooth muscle cells into the tubular wall",
+      "y" : 0.6591569766424419
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6975308701646089,
+      "w" : 0.35802466914338904,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Development of a dense brush border identical to the PCT",
+      "y" : 0.6475290698885658
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7376543166049385,
+      "w" : 0.43827157650353776,
+      "h" : 0.010297157499525311,
+      "text" : "[C] Simple cuboidal epithelium showing very distinct lateral cell boundaries,",
+      "y" : 0.635962532190103
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6769547272290811,
+      "w" : 0.3168724108042207,
+      "h" : 0.01027777777777783,
+      "text" : "clear cytoplasm, and centrally located spherical nuclei",
+      "y" : 0.6243055556307376
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7098765495884771,
+      "w" : 0.38271602894525103,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Conversion to stratified squamous non-keratinized epithelium",
+      "y" : 0.6126388888260282
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7160493777777779,
+      "w" : 0.3950617088461822,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Complete disappearance of the underlying basement membrane",
+      "y" : 0.6009722222786088
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23045267978395054,
+      "w" : 0.39094649020980743,
+      "h" : 0.01027777777777783,
+      "text" : "Q32. [2022 Exam] The Countercurrent Multiplier system that",
+      "y" : 0.5618055557942551
+    },
+    {
+      "conf" : 1,
+      "x" : 0.25102880118312765,
+      "w" : 0.4320987725407822,
+      "h" : 0.011737725999620308,
+      "text" : "establishes the hyperosmotic medullary gradient relies structurally",
+      "y" : 0.5480200261244387
+    },
+    {
+      "conf" : 1,
+      "x" : 0.0534979417004098,
+      "w" : 0.04125423251457934,
+      "h" : 0.008964131673177111,
+      "text" : "upon.",
+      "y" : 0.5334302325137501
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2345678961934158,
+      "w" : 0.40329219410254524,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Parallel arrangement of proximal convoluted tubules in the cortex",
+      "y" : 0.51819444440226
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2530864124142664,
+      "w" : 0.44032920981353185,
+      "h" : 0.011692505942450637,
+      "text" : "[B] Countercurrent fluid flow in adjacent descending (water-permeable) and",
+      "y" : 0.5072351419225569
+    },
+    {
+      "conf" : 1,
+      "x" : 0.1903292233539093,
+      "w" : 0.31481480148603336,
+      "h" : 0.01027777777777783,
+      "text" : "ascending (NaCl-pumping, water-impermeable) limbs",
+      "y" : 0.4948611111591429
+    },
+    {
+      "conf" : 1,
+      "x" : 0.239711935005144,
+      "w" : 0.4135802167016755,
+      "h" : 0.011627906163533486,
+      "text" : "[C] Active secretion of urea by cortical collecting ducts into lymphatics",
+      "y" : 0.4840116280523255
+    },
+    {
+      "conf" : 1,
+      "x" : 0.2530864270233194,
+      "w" : 0.43621399117715703,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Complete absence of blood vessels throughout the medullary pyramids",
+      "y" : 0.4716569768168605
+    },
+    {
+      "conf" : 1,
+      "x" : 0.21913580867626867,
+      "w" : 0.3724279823543141,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Rapid pulsatile blood flow through cortical interlobular veins",
+      "y" : 0.46002906984011627
+    },
+    {
+      "conf" : 1,
+      "x" : 0.22633745334362126,
+      "w" : 0.38271602894525103,
+      "h" : 0.011627906163533486,
+      "text" : "Q33. [2021 Exam] The Vasa Recta function in the medullary",
+      "y" : 0.43459302329215105
+    },
+    {
+      "conf" : 1,
+      "x" : 0.22325103508230434,
+      "w" : 0.3765432009906889,
+      "h" : 0.010174418555365716,
+      "text" : "countercurrent mechanism specifically as 'Countercurrent",
+      "y" : 0.4207848837936046
+    },
+    {
+      "conf" : 1,
+      "x" : 0.12345679307270224,
+      "w" : 0.17695472525350703,
+      "h" : 0.010290697945488758,
+      "text" : "Exchangers' because they:",
+      "y" : 0.40764534874970587
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23765432610596698,
+      "w" : 0.40946499806530073,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Secrete concentrated hypertonic urea into the papillary interstitium",
+      "y" : 0.39171511633357553
+    },
+    {
+      "conf" : 1,
+      "x" : 0.254115218964335,
+      "w" : 0.4423867951399125,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Contain thick muscular walls that prevent any solute or water movement",
+      "y" : 0.3801388888408572
+    },
+    {
+      "conf" : 1,
+      "x" : 0.24897118801440343,
+      "w" : 0.4320987725407822,
+      "h" : 0.011692505942450526,
+      "text" : "[C] Hairpin fenestrated loops passively preserve gradient without washout",
+      "y" : 0.3677648579926563
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23045267011316883,
+      "w" : 0.39506170884618214,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Actively pump sodium against massive gradients into the cortex",
+      "y" : 0.3568055556704144
+    },
+    {
+      "conf" : 1,
+      "x" : 0.22427983257887532,
+      "w" : 0.3827160289452511,
+      "h" : 0.011679585774739598,
+      "text" : "[E] Are completely separate from the systemic venous circulation",
+      "y" : 0.34445090418664503
+    },
+    {
+      "conf" : 1,
+      "x" : 0.742798361316872,
+      "w" : 0.4444444284499066,
+      "h" : 0.01027777777777783,
+      "text" : "Q39. [2025 Exam] Principal (Light) Cells of the cortical and medullary",
+      "y" : 0.5618055557276368
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7314814743827163,
+      "w" : 0.42592592059441337,
+      "h" : 0.011737725999620308,
+      "text" : "collecting ducts are distinguished ultrastructurally by possessing:",
+      "y" : 0.5480200261486635
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6718107034207819,
+      "w" : 0.3065843642132837,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Secretory vesicles storing inactive renin granules",
+      "y" : 0.531250000090843
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6707818882030179,
+      "w" : 0.3045267309032894,
+      "h" : 0.011718346277872715,
+      "text" : "[B] Multiple flagella providing active motility to urine",
+      "y" : 0.5203036173459312
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7047325106224279,
+      "w" : 0.37242798235431396,
+      "h" : 0.011757105721367678,
+      "text" : "[C] Abundant brush border microvilli and dense apical canaliculi",
+      "y" : 0.5086563305989898
+    },
+    {
+      "conf" : 1,
+      "x" : 0.710905345138889,
+      "w" : 0.3847736622552451,
+      "h" : 0.011627906163533486,
+      "text" : "[D] A single primary non-motile cilium, pale cytoplasm, basolateral",
+      "y" : 0.49709302340116274
+    },
+    {
+      "conf" : 1,
+      "x" : 0.704732508058985,
+      "w" : 0.37242798235431407,
+      "h" : 0.011737725999620197,
+      "text" : "membrane infoldings with Na+\/K+ ATPase, and AQP2 channels",
+      "y" : 0.4855200260033146
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7222222273148147,
+      "w" : 0.40740741273892,
+      "h" : 0.01031007766723624,
+      "text" : "[E] Dense apical microplicae and abundant dark cytoplasmic granules",
+      "y" : 0.4731782947630574
+    },
+    {
+      "conf" : 1,
+      "x" : 0.24382716467078178,
+      "w" : 0.41769548332166373,
+      "h" : 0.011666666666666714,
+      "text" : "Q34. [2020 Exam] Loop Diuretics (e.g., Furosemide, Bumetanide)",
+      "y" : 0.3066666668480199
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23353908796296322,
+      "w" : 0.40123456079255115,
+      "h" : 0.011666666666666603,
+      "text" : "produce potent diuresis by pharmacologically inhibiting which",
+      "y" : 0.293611111149747
+    },
+    {
+      "conf" : 1,
+      "x" : 0.15740741155692717,
+      "w" : 0.24897118334500293,
+      "h" : 0.011679585774739598,
+      "text" : "specific transport system in the TAL?",
+      "y" : 0.28054909576490517
+    },
+    {
+      "conf" : 1,
+      "x" : 0.19238683526234557,
+      "w" : 0.31893004411421483,
+      "h" : 0.01028423786163335,
+      "text" : "[A] Epithelial sodium channel (ENaC) on principal cells",
+      "y" : 0.26375322997259293
+    },
+    {
+      "conf" : 1,
+      "x" : 0.16666666934156374,
+      "w" : 0.26748971519230297,
+      "h" : 0.010174418555365605,
+      "text" : "[B] Basolateral Na+\/K+ ATPase pump directly",
+      "y" : 0.252180232630814
+    },
+    {
+      "conf" : 1,
+      "x" : 0.177983543930041,
+      "w" : 0.2901234416841711,
+      "h" : 0.0117571051915486,
+      "text" : "[C] Carbonic anhydrase enzyme in the cytoplasm",
+      "y" : 0.24134366937834872
+    },
+    {
+      "conf" : 1,
+      "x" : 0.24279835915637846,
+      "w" : 0.4197530686480444,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Na+-K+-2Cl- cotransporter (NKCC2) on the apical plasma membrane",
+      "y" : 0.23041666647474507
+    },
+    {
+      "conf" : 1,
+      "x" : 0.18415638364197517,
+      "w" : 0.3024691215851022,
+      "h" : 0.011679586304558676,
+      "text" : "[E] Na+\/H+ exchanger-3 (NHE3) in the brush border",
+      "y" : 0.21804909598136535
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7427983578703703,
+      "w" : 0.4444444284499066,
+      "h" : 0.011627906163533597,
+      "text" : "Q40. [2020 Exam] Intercalated (Dark) Cells of the collecting ducts are",
+      "y" : 0.4345930231104651
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7211934186213991,
+      "w" : 0.4053497794289259,
+      "h" : 0.011705425580342599,
+      "text" : "rich in carbonic anhydrase and mitochondria, and their primary",
+      "y" : 0.42001937963268066
+    },
+    {
+      "conf" : 1,
+      "x" : 0.5565843630915637,
+      "w" : 0.07613168272582238,
+      "h" : 0.00872092988755968,
+      "text" : "function is:",
+      "y" : 0.40843023259447675
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6728395100308642,
+      "w" : 0.30864197353147105,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Reabsorption of filtered amino acids and glucose",
+      "y" : 0.39171511633357553
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6779835376886145,
+      "w" : 0.3189300201224081,
+      "h" : 0.011731265915764677,
+      "text" : "[B] Degradation of parathyroid hormone and calcitonin",
+      "y" : 0.3794121447985963
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7242798405349793,
+      "w" : 0.41152263137529477,
+      "h" : 0.011692505942450637,
+      "text" : "[C] Synthesis of Tamm-Horsfall glycoprotein for urinary cast formation",
+      "y" : 0.3677648581016678
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6769547364711932,
+      "w" : 0.3168724108042206,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Passive reabsorption of water in response to thirst",
+      "y" : 0.35680555559773997
+    },
+    {
+      "conf" : 1,
+      "x" : 0.723251033924897,
+      "w" : 0.4094649980653007,
+      "h" : 0.011679586304558676,
+      "text" : "[E] Regulation of acid-base balance via active H+ secretion (Type A) or",
+      "y" : 0.34445090418820845
+    },
+    {
+      "conf" : 1,
+      "x" : 0.5946502032235941,
+      "w" : 0.15226336545164476,
+      "h" : 0.010174418555365605,
+      "text" : "HC03- secretion (Type B)",
+      "y" : 0.3335755813226744
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7304526783950616,
+      "w" : 0.4197530686480445,
+      "h" : 0.011666666666666603,
+      "text" : "Q41. [Faculty Exam] The large terminal collecting ducts that open",
+      "y" : 0.30666666659608205
+    },
+    {
+      "conf" : 1,
+      "x" : 0.690329222350823,
+      "w" : 0.33950616128789557,
+      "h" : 0.01027777777777783,
+      "text" : "onto the cribriform area of the renal papilla are the:",
+      "y" : 0.294305555634077
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7335391018175581,
+      "w" : 0.4300411392307881,
+      "h" : 0.01031007766723635,
+      "text" : "[A] Papillary Ducts of Bellini, lined by tall, pale simple columnar epithelium",
+      "y" : 0.27682170540045997
+    },
+    {
+      "conf" : 1,
+      "x" : 0.614197528420782,
+      "w" : 0.19547324510490371,
+      "h" : 0.00872092988755968,
+      "text" : "[B] Convoluted tubules of Ferrein",
+      "y" : 0.26598837202034875
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6255144060185185,
+      "w" : 0.2181069955885786,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Paramesonephric ducts of Müller",
+      "y" : 0.25363372102107556
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6100823021862141,
+      "w" : 0.1872427958362508,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Mesonephric ducts of Wolff",
+      "y" : 0.2434722224024493
+    },
+    {
+      "conf" : 1,
+      "x" : 0.5751028787037038,
+      "w" : 0.1172839470629422,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Ducts of Rivinus",
+      "y" : 0.23180555547055975
+    },
+    {
+      "conf" : 1,
+      "x" : 0.23662551028806597,
+      "w" : 0.40329219410254524,
+      "h" : 0.011692505942450637,
+      "text" : "Q35. [2024 Exam] Bartter Syndrome is an autosomal recessive",
+      "y" : 0.18026485817434224
+    },
+    {
+      "conf" : 1,
+      "x" : 0.251028813786008,
+      "w" : 0.4320987725407822,
+      "h" : 0.010174418555365605,
+      "text" : "tubulopathy caused by loss-of-function mutations in TAL transport",
+      "y" : 0.1664244186773256
+    },
+    {
+      "conf" : 1,
+      "x" : 0.10596708055555548,
+      "w" : 0.14197530686480445,
+      "h" : 0.010174418555365716,
+      "text" : "proteins, resulting in:",
+      "y" : 0.15334302332848843
+    },
+    {
+      "conf" : 1,
+      "x" : 0.20370370939643326,
+      "w" : 0.3415637706060829,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Pure isolated renal glycosuria with normal blood sugar",
+      "y" : 0.13736111136777024
+    },
+    {
+      "conf" : 1,
+      "x" : 0.19547325509259253,
+      "w" : 0.3251028720687771,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Hypertension, hyperkalemia, and metabolic acidosis",
+      "y" : 0.12569444435109378
+    },
+    {
+      "conf" : 1,
+      "x" : 0.21193415895061718,
+      "w" : 0.3580246931351955,
+      "h" : 0.01175064563751227,
+      "text" : "[C] Acute anuric renal failure due to bilateral cortical necrosis",
+      "y" : 0.11476421180370833
+    },
+    {
+      "conf" : 1,
+      "x" : 0.228395068312757,
+      "w" : 0.3950617088461822,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Massive proteinuria with generalized edema and hyperlipidemia",
+      "y" : 0.10247093030523247
+    },
+    {
+      "conf" : 1,
+      "x" : 0.24794238140432112,
+      "w" : 0.43415635786716295,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Hypokalemic metabolic alkalosis, hypercalciuria, nephrocalcinosis, and",
+      "y" : 0.0908430232013081
+    },
+    {
+      "conf" : 1,
+      "x" : 0.12139917990397794,
+      "w" : 0.17695472525350703,
+      "h" : 0.010174418555365716,
+      "text" : "normal-to-low blood pressure",
+      "y" : 0.07921511635174411
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7386831244170097,
+      "w" : 0.436213991177157,
+      "h" : 0.011692505942450637,
+      "text" : "Q42. [Core Concept] Why does inhibition of NKCC2 by loop diuretics",
+      "y" : 0.18026485822279192
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7314814856995884,
+      "w" : 0.4218107019580385,
+      "h" : 0.010174418555365605,
+      "text" : "also cause significant urinary wasting of Calcium and Magnesium",
+      "y" : 0.1664244186773255
+    },
+    {
+      "conf" : 1,
+      "x" : 0.6368312727623457,
+      "w" : 0.23662550344407185,
+      "h" : 0.010174418555365605,
+      "text" : "(hypercalciuria \/ hypermagnesuria)?",
+      "y" : 0.1533430232013081
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7283950575308643,
+      "w" : 0.4197530686480444,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Loop diuretics directly bind and destroy calcium channels in the PCT",
+      "y" : 0.13736111117397187
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7366255073388206,
+      "w" : 0.44032920981353185,
+      "h" : 0.011711886194017196,
+      "text" : "[B] Loss of lumen-positive potential (+8 mV) dissipates Ca2+\/Mg2+ driving",
+      "y" : 0.12641149855064976
+    },
+    {
+      "conf" : 1,
+      "x" : 0.5360082304183813,
+      "w" : 0.0349794213876784,
+      "h" : 0.010174418555365716,
+      "text" : "force",
+      "y" : 0.11409883703972862
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7335390892232512,
+      "w" : 0.434156357867163,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Calcium precipitates with Tamm-Horsfall protein within the glomerulus",
+      "y" : 0.10247093017805226
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7263374555555554,
+      "w" : 0.4197530686480444,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Magnesium is actively secreted by principal cells via ENaC channels",
+      "y" : 0.09084302332848843
+    },
+    {
+      "conf" : 1,
+      "x" : 0.7129629568244171,
+      "w" : 0.39300409952799475,
+      "h" : 0.011705425580342599,
+      "text" : "[E] Stimulates parathyroid hormone degradation in collecting ducts",
+      "y" : 0.07998062036731934
+    },
+    {
+      "conf" : 1,
+      "x" : 0.3179012416923867,
+      "w" : 0.5699588127855986,
+      "h" : 0.017519379191928475,
+      "text" : "Twisted Medicine • Renal Histology Master Class • Strictly Grounded in Faculty & Board 5Yam Past Papers",
+      "y" : 0.014573643611020815
+    },
+    {
+      "conf" : 1,
+      "x" : 0.8734567900205762,
+      "w" : 0.19135802646852884,
+      "h" : 0.007344961166381836,
+      "text" : "Confidential Student Revision Bank",
+      "y" : 0.019660852735567502
+    }
+  ],
+  "page" : 33
+}

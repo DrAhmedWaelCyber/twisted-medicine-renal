@@ -1,0 +1,843 @@
+{
+  "id": 34,
+  "title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+  "department": "Clinical Nephrology & Urology",
+  "department_desc": "Clinical approach, AKI, dialysis, nephrotic/nephritic syndrome, renovascular hypertension, cystics and oncology",
+  "booklet_pages": "Pages 133 - 136",
+  "pdf_pages": [
+    135,
+    136,
+    137,
+    138
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 35 — HIGH-YIELD CLINICAL NEPHROLOGY & APPROACH TO RENAL PATIENT MATRIX",
+  "summary_table": [
+    {
+      "domain": "Alterations in Urine Volume",
+      "content": "Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria."
+    },
+    {
+      "domain": "L/d): solute vs water diuresis.",
+      "content": "CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable"
+    },
+    {
+      "domain": "Renal Physical Examination",
+      "content": "yelonephritis. Flank bruit = renal artery stenosis. Left >200 mg/dL) = uremic encephalopathy. Pericardial bimanually, resonant overlying bowel; Spleen has"
+    },
+    {
+      "domain": "Hallmarks",
+      "content": "friction rub = uremic pericarditis."
+    },
+    {
+      "domain": "anterior notch, not ballotable.",
+      "content": "non-collapsing varicocele = renal vein thrombus."
+    },
+    {
+      "domain": "A: Refractory Acidosis (pH <7.15)",
+      "content": "Urgent nephrology consult, temporary dual-lumen O: Refractory Fluid Overload (pulmonary edema hemodialysis vascular catheter placement,"
+    },
+    {
+      "domain": "(AEIOU)",
+      "content": "unresponsive to high-dose loop diuretics) E: Severe Hyperkalemia (>6.5 with ECG changes) U: Uremic Complications (pericarditis, heparin-free dialysis if pericarditis. I: Toxic Ingestion (lithium, ethylene glycol, salicylates) encephalopathy, bleeding diathesis)"
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which syndrome is defined by acute hematuria with dysmorphic RBCs, RBC casts, oliguria, hypertension, and mild edema?",
+      "options": {
+        "A": "Pure Nephrotic Syndrome",
+        "B": "Acute Nephritic Syndrome",
+        "C": "Asymptomatic Urinary Abnormality",
+        "D": "Chronic Tubulointerstitial Nephritis",
+        "E": "Isolated Renal Tubular Acidosis"
+      },
+      "correct_option": "B",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which clinical tetrad definitively differentiates classic Nephrotic Syndrome from other glomerular diseases?",
+      "options": {
+        "A": "Proteinuria >3.5 g/d, albumin <3 g/dL, edema, & hyperlipidemia",
+        "B": "Gross hematuria, sterile pyuria, severe flank pain, & palpable mass",
+        "C": "Acute anuria, severe hyperkalemia, alkalosis, & periorbital rash",
+        "D": "Normal anion gap acidosis, hypokalemia, and nephrocalcinosis",
+        "E": "Low C3, high ASO titer, oliguria, and cola-colored smoky urine"
+      },
+      "correct_option": "A",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What daily urine output threshold in an adult fulfills the formal diagnostic criterion for Oliguria?",
+      "options": {
+        "A": "Urine volume < 100 mL per 24 hours",
+        "B": "Urine volume < 400 mL/24h (or < 0.5 mL/kg/h for >6 hours",
+        "C": "Urine volume between 500 and 1000 mL per 24 hours",
+        "D": "Urine volume exceeding 3.0 Liters per 24 hours",
+        "E": "Urine volume turning dark amber upon standing"
+      },
+      "correct_option": "A",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What clinical definition and pathophysiological mechanism define Anuria in an adult?",
+      "options": {
+        "A": "Urine output between 200 and 400 mL/24h due to mild dehydration",
+        "B": "Painful burning during micturition due to acute bacterial cystitis",
+        "C": "Excessive nighttime urination caused by detrusor overactivity",
+        "D": "Urine output < 100 mL/24h; implies bilateral vascular event or complete obstruction",
+        "E": "Passing air bubbles in urine due to an enterovesical fistula"
+      },
+      "correct_option": "D",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "How is true Polyuria clinically defined in an adult patient?",
+      "options": {
+        "A": "Urine output > 1.5 L/day accompanied by suprapubic discomfort",
+        "B": "Voiding more than 4 times per hour with normal daily volume",
+        "C": "Involuntary urine leakage during coughing or sneezing",
+        "D": "Inability to initiate voiding despite bladder fullness",
+        "E": "Urine volume > 3.0 Liters per 24 hours; caused by water or solute diuresis"
+      },
+      "correct_option": "E",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Why is Nocturia (>2 voids/night) often the earliest and most sensitive symptom of Chronic Kidney Disease?",
+      "options": {
+        "A": "Primary psychological aversion to daytime fluid hydration",
+        "B": "Progressive loss of medullary hypertonicity and concentrating ability (sosthenuria) |",
+        "C": "Glomerular filtration rate increases threefold during sleep",
+        "D": "Nocturnal hypersecretion of vasopressin (ADH) by hypothalamus",
+        "E": "Renal blood flow drops to zero during REM sleep cycles"
+      },
+      "correct_option": "B",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What clinical feature distinguishes the facial edema of Nephrotic Syndrome from that of Heart Failure?",
+      "options": {
+        "A": "Prominent periorbitally upon waking in morning due to low tissue turgor",
+        "B": "Occurs strictly on dependent feet and ankles late in evening",
+        "C": "Affects only the upper eyelids with zero lower extremity swelling",
+        "D": "Completely non-pitting and exquisitely tender to palpation",
+        "E": "Always accompanied by prominent jugular venous distension"
+      },
+      "correct_option": "A",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What physical feature differentiates the Dependent Pitting Edema of Nephrosis from non-renal Myxedema?",
+      "options": {
+        "A": "Nephrotic edema is non-pitting, firm, and warm to touch",
+        "B": "Myxedema pits deeply and resolves within 2 seconds of leg elevation",
+        "C": "Nephrotic edema pits on sustained digital pressure; myxedema is non-pitting",
+        "D": "Both conditions produce identical rapidly transient pitting in calves",
+        "E": "Nephrotic edema is restricted strictly to the anterior abdominal wall"
+      },
+      "correct_option": "A",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "In the workup of gross hematuria, what is revealed by the Three-Glass Test timing during micturition?",
+      "options": {
+        "A": "Initial hematuria indicates renal cortical necrosis; Total indicates anterior urethritis",
+        "B": "Terminal hematuria indicates glomerular podocyte rupture exclusively",
+        "C": "Total hematuria indicates acute urethral foreign body insertion",
+        "D": "Initial = urethral; Terminal = bladder neck/prostate; Total = bladder/upper tract",
+        "E": "Timing has zero clinical value in localizing urinary bleeding"
+      },
+      "correct_option": "D",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which urinary microscopy finding provides definitive proof that hematuria originated from within the glomerulus?",
+      "options": {
+        "A": "Round, uniform biconcave RBCs with smooth cell membranes",
+        "B": "Presence of squamous epithelial cells and calcium oxalate crystals",
+        "C": "Co-occurrence of triple phosphate crystals with alkaline urinary pH",
+        "D": "High concentration of urobilinogen in centrifuged supernatant TE Red Blood Cell (RBC) Casts and >5% Dysmorphic RBCs (Acanthocytes)"
+      },
+      "correct_option": "E",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "How is Glomerular (Nephritic) Hematuria differentiated from Urological Hematuria regarding color and clots?",
+      "options": {
+        "A": "Glomerular: bright red with clots; Urological: tea-colored, no clots",
+        "B": "Glomerular: smoky cola-colored, NO clots; Urological: bright red, with clots",
+        "C": "Glomerular: clear yellow turning blue on air; Urological: green urine",
+        "D": "Both produce identical large blood clots causing acute retention",
+        "E": "Glomerular hematuria never produces microscopic RBCs in sediment"
+      },
+      "correct_option": "B",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the defining clinical characteristic of benign Orthostatic (Postural) Proteinuria in adolescents?",
+      "options": {
+        "A": "Present strictly while upright (<1 g/day), completely absent in morning supine urine",
+        "B": "Heavy nephrotic proteinuria (>5 g/day) present strictly while sleeping",
+        "C": "Proteinuria accompanied by severe hypertension and hematuria while upright",
+        "D": "Rapidly progressive loss of renal function requiring steroid therapy",
+        "E": "Excretion of massive amounts of Bence-Jones light chains at night"
+      },
+      "correct_option": "B",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "How does true Renal Capsular Pain (e.g., acute pyelonephritis) differ from Ureteral Colic?",
+      "options": {
+        "A": "Capsular pain is spasmodic and relieved completely by walking around",
+        "B": "Ureteral colic is painless and accompanied by massive pedal edema",
+        "C": "Capsular is constant, dull ache in CVA; Colic is severe, paroxysmal, loin-to-groin",
+        "D": "Capsular pain radiates strictly to the ipsilateral shoulder tip",
+        "E": "Both pain patterns are identical and restricted to anterior chest wall"
+      },
+      "correct_option": "A",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the clinical significance of Pneumaturia (passing air/bubbles during urination)?",
+      "options": {
+        "A": "Normal physiological variant after consuming carbonated beverages",
+        "B": "Pathognomonic indicator of bilateral renal artery stenosis",
+        "C": "Sign of retroperitoneal fibrosis encasing both ureters",
+        "D": "Hallmark of Enterovesical Fistula (colonic diverticulitis, Crohn's, malignancy)",
+        "E": "Manifestation of acute tubular necrosis in septic shock"
+      },
+      "correct_option": "E",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Introduction to Clinical Nephrology & Approach to Renal Patient.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What physical examination maneuver (Murphy's Kidney Punch) suggests Acute Pyelonephritis?",
+      "options": {
+        "A": "Rebound tenderness at McBurney's point in the right lower quadrant",
+        "B": "Gentle fist percussion over Costovertebral Angle (12th rib/spine) eliciting sharp pain",
+        "C": "Palpating spleen with patient in right lateral decubitus position",
+        "D": "Eliciting pain upon passive internal rotation of flexed right hip",
+        "E": "Deep palpation of left lower quadrant causing pain on right"
+      },
+      "correct_option": "E",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "How is an enlarged palpable kidney clinically differentiated from an enlarged spleen on palpation?",
+      "options": {
+        "A": "Spleen has notch, moves inferomedially, not ballotable; Kidney is rounded, ballotable",
+        "B": "Kidney has prominent anterior notch and can never be balloted",
+        "C": "Spleen is resonant to percussion while kidney is uniformly dull",
+        "D": "Examiner cannot get above enlarged kidney, but can get above spleen",
+        "E": "Spleen descends strictly vertically into pelvis without crossing midline"
+      },
+      "correct_option": "A",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "A continuous epigastric or flank vascular bruit radiating laterally in refractory hypertension suggests:",
+      "options": {
+        "A": "Acute post-streptococcal glomerulonephritis",
+        "B": "Bilateral ureteropelvic junction obstruction",
+        "C": "Renovascular Hypertension due to Renal Artery Stenosis",
+        "D": "Minimal change nephrotic syndrome in remission",
+        "E": "Benign prostatic hyperplasia with chronic urinary retention"
+      },
+      "correct_option": "A",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What does classic 'Uremic Frost' signify in severe, untreated End-Stage Renal Disease?",
+      "options": {
+        "A": "Generalized fungal tinea versicolor infection of face and trunk",
+        "B": "Subcutaneous calcium phosphate deposition causing calciphylaxis",
+        "C": "Severe hypothermia from acute hypothalamic failure",
+        "D": "White crystalline powder from urea evaporation in sweat when BUN > 200 mg/dL",
+        "E": "Direct extravasation of urine into cutaneous soft tissues"
+      },
+      "correct_option": "C",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What neurological sign termed Asterixis (flapping tremor\") indicates decompensated uremic encephalopathy?",
+      "options": {
+        "A": "Continuous, rhythmic resting tremor of hands resembling pill-rolling",
+        "B": "Inability to perform rapid alternating movements (dysdiadochokinesia)",
+        "C": "Hyperactive deep tendon reflexes with ankle clonus on one side",
+        "D": "Flaccid bilateral paralysis of the lower extremities",
+        "E": "Sudden, non-rhythmic lapses of posture when hands are held outstretched in dorsiflexion"
+      },
+      "correct_option": "D",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which combination of physical findings definitively indicates ECF Hypervolemia (Volume Overload)?",
+      "options": {
+        "A": "Postural hypotension, dry oral mucosa, and decreased skin turgor",
+        "B": "Elevated JVP (>4 cm above sternal angle), basilar lung crackles, and pitting edema",
+        "C": "Flattened neck veins, tachycardia, and sunken ocular globes",
+        "D": "Capillary refill time >4 seconds with cool, mottled extremities",
+        "E": "Normal heart sounds with clear lungs and zero peripheral edema"
+      },
+      "correct_option": "E",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Introduction to Clinical Nephrology & Approach to Renal Patient.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What physical appearance of the nails in advanced CKD is termed Lindsay's Nails ('Half-and-Half Nails')?",
+      "options": {
+        "A": "Uniform chalk-white discoloration across the entire nail plate",
+        "B": "Spoon-shaped concave depression of the nail plate (Koilonychia)",
+        "C": "Proximal 50% of nail bed is white/opaque, and distal 20-50% is",
+        "D": "Painful splinter hemorrhages in distal subungual capillary loops",
+        "E": "Digital clubbing with >180-degree Lovibond angle"
+      },
+      "correct_option": "A",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "On funduscopic exam, what distinguishes Grade IV Malignant Hypertensive Retinopathy from chronic hypertension?",
+      "options": {
+        "A": "Mild focal arteriolar narrowing without hemorrhages or exudates",
+        "B": "Increased arteriolar light reflex alone ('copper wiring')",
+        "C": "Arteriovenous nicking (Gunn sign) without any retinal edema",
+        "D": "Bilateral Papilledema (optic disc swelling) with flame hemorrhages & macular stars",
+        "E": "Total absence of any retinal or vascular changes"
+      },
+      "correct_option": "C",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What physical finding on testicular palpation in a male with a left renal mass suggests renal vein tumor thrombus?",
+      "options": {
+        "A": "Soft, transilluminating hydrocele of the right hemiscrotum",
+        "B": "Tender, swollen epididymis with a positive Prehn's sign",
+        "C": "Complete bilateral absence of testicular parenchyma",
+        "D": "Hard, fibrotic plaque along the dorsal shaft of penis",
+        "E": "Newly developed Left Varicocele that fails to decompress when placed supine"
+      },
+      "correct_option": "E",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Why does a left renal vein thrombus produce a non-collapsing varicocele while right-sided thrombi rarely do?",
+      "options": {
+        "A": "Left testicular vein drains into portal system while right drains into renal vein",
+        "B": "Left testicular vein drains into Left Renal Vein at right angle; right drains into IVC",
+        "C": "Right testicular vein carries 10 times more blood volume than left [D Left renal vein is three times shorter than right renal vein",
+        "E": "Right kidney lacks any venous drainage connections to scrotum"
+      },
+      "correct_option": "E",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "In an elderly male with retention, physical exam reveals a tender, smooth, dull mass extending to the umbilicus. This is:",
+      "options": {
+        "A": "Distended Urinary Bladder containing >800-1000 mL of retained urine",
+        "B": "Abdominal aortic aneurysm measuring >10 cm in diameter",
+        "C": "Massive retroperitoneal liposarcoma arising from Gerota's fascia",
+        "D": "Unilateral giant multicystic dysplastic kidney",
+        "E": "Ectopic mesenteric cyst within the small bowel mesentery"
+      },
+      "correct_option": "E",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which examination finding in a nephrotic patient signifies acute deep vein thrombosis (DVT) and pulmonary embolism risk?",
+      "options": {
+        "A": "Bilaterally symmetrical, cold, painless pitting edema of both ankles",
+        "B": "Spider nevi and palmar erythema over both hands",
+        "C": "Unilateral asymmetric swelling, warmth, erythema, and calf tenderness",
+        "D": "Diffuse maculopapular rash on the chest and back",
+        "E": "Hyperpigmented velvety plaques in the axillary skin folds"
+      },
+      "correct_option": "E",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Introduction to Clinical Nephrology & Approach to Renal Patient.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "On ultrasound in chronic azotemia, finding small (<8.5-9 cm), hyperechoic kidneys with thin cortices indicates:",
+      "options": {
+        "A": "Acute Prerenal Azotemia with completely reversible hemodynamics",
+        "B": "Acute Interstitial Nephritis that will normalize within 48 hours",
+        "C": "Acute Post-Streptococcal Glomerulonephritis with excellent prognosis",
+        "D": "Minimal Change Disease in pediatric remission",
+        "E": "Irreversible Chronic Kidney Disease (CKD) with parenchymal scarring and fibrosis"
+      },
+      "correct_option": "E",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which systemic condition is a notable exception where advanced CKD presents with NORMAL or ENLARGED kidneys on ultrasound?",
+      "options": {
+        "A": "Benign Hypertensive Nephrosclerosis",
+        "B": "Diabetic Nephropathy, Amyloidosis, and ADPKD",
+        "C": "Chronic reflux pyelonephritis",
+        "D": "Post-streptococcal chronic glomerulonephritis",
+        "E": "Chronic analgesic abuse nephropathy"
+      },
+      "correct_option": "B",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which clinical scenario represents an absolute emergency requiring IMMEDIATE Renal Replacement Therapy (Dialysis)?",
+      "options": {
+        "A": "Severe refractory Hyperkalemia (>6.5 with ECG changes) or diuretic-resistant pulmonary edema",
+        "B": "Serum creatinine of 1.4 mg/dL in an asymptomatic male",
+        "C": "Isolated microalbuminuria of 150 mg/g in a diabetic patient",
+        "D": "Asymptomatic uncomplicated cystitis responsive to oral nitrofurantoin",
+        "E": "Mild nocturnal enuresis in an 8-year-old child"
+      },
+      "correct_option": "A",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the clinical mnemonic 'AEIOU' utilized in nephrology to remember cardinal indications for emergency dialysis?",
+      "options": {
+        "A": "Anemia, Edema, Infection, Obstruction, and Urate stones",
+        "B": "Albuminuria, Eosinophiluria, Isosthenuria, Osteomalacia, Urethritis",
+        "C": "Acidosis (pH<7.15), Electrolytes (K>6.5), Ingestion, Overload, Uremia",
+        "D": "Azotemia, Embolism, Inflammation, Oliguria, and Ulcerations",
+        "E": "Alkalosis, Encephalitis, Infarction, Osmolality, and Urachus"
+      },
+      "correct_option": "C",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the gold standard procedure to definitively identify the specific histopathological etiology of nephrotic syndrome or RPGN?",
+      "options": {
+        "A": "24-hour urine collection for total creatinine and urea clearance",
+        "B": "Non-contrast abdominal CT scanning",
+        "C": "Retrograde ureteroscopy with brush cytology",
+        "D": "Percutaneous Renal Biopsy under ultrasound guidance with Light, IF, and",
+        "E": "Nuclear DTPA renography without tissue biopsy"
+      },
+      "correct_option": "D",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which clinical condition represents an absolute CONTRAINDICATION to performing a percutaneous renal biopsy?",
+      "options": {
+        "A": "Heavy proteinuria exceeding 3.5 g per day",
+        "B": "Microscopic hematuria with dysmorphic red cells",
+        "C": "Unexplained decline in renal function in a diabetic patient",
+        "D": "Suspected systemic lupus erythematosus (lupus nephritis)",
+        "E": "Uncorrected severe bleeding diathesis (thrombocytopenia or high INR)"
+      },
+      "correct_option": "E",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Introduction to Clinical Nephrology & Approach to Renal Patient.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Why must Blood Pressure be controlled to < 120/80 mmHg in proteinuric CKD patients from a pathophysiological standpoint?",
+      "options": {
+        "A": "Reduces intraglomerular capillary hypertension, blunting proteinuria-driven fibrosis",
+        "B": "High blood pressure causes rapid calcification of bladder urothelium",
+        "C": "Normal blood pressure prevents secretion of antidiuretic hormone",
+        "D": "Lowering blood pressure increases renal tubular synthesis of glucose",
+        "E": "Systemic hypotension completely stops renal lymph production"
+      },
+      "correct_option": "A",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In Acute Kidney Injury, how does Fractional Excretion of Sodium (FENa) distinguish Prerenal from Intrinsic AKI?",
+      "options": {
+        "A": "FENa > 5% indicates severe prerenal hypovolemia",
+        "B": "FENa is universally zero in established acute tubular necrosis",
+        "C": "FENa < 1% indicates intact tubular reabsorption (Prerenal); > 2% indicates ATN",
+        "D": "FENa cannot distinguish preenal from intrinsic failure in any patient",
+        "E": "FENa < 0.1% indicates acute bilateral ureteral obstruction"
+      },
+      "correct_option": "C",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "When evaluating acute oliguria during active Loop Diuretic therapy, which test is more reliable than FENa for Prerenal Azotemia?",
+      "options": {
+        "A": "Serum Creatinine measured via uncompensated Jaffe method",
+        "B": "Random urine specific gravity measured via dipstick",
+        "C": "Urine potassium concentration alone without plasma creatinine",
+        "D": "Fractional Excretion of Urea (FE_Urea < 35%), independent of diuretic sodium effect",
+        "E": "Blood hemoglobin concentration"
+      },
+      "correct_option": "D",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Which history question is most critical in a patient presenting with acute non-oliguric AKI and eosinophiluria?",
+      "options": {
+        "A": "Family history of autosomal dominant polycystic kidney disease",
+        "B": "Total dietary intake of dairy products and citrus fruits",
+        "C": "Frequency of daily vigorous cardiovascular exercise",
+        "D": "History of childhood nocturnal enuresis",
+        "E": "Recent medication initiation (PPls, NSAIDs, beta-lactams, fluoroquinolones) for AIN"
+      },
+      "correct_option": "E",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 19-year-old male has facial edema, dark cola urine, BP 155/98 mmHg, RBC casts, and low C3 two weeks post-pharyngitis. Diagnosis:|",
+      "options": {
+        "A": "Acute Nephritic Syndrome secondary to Post-Streptococcal GN (PSGN)",
+        "B": "Nephrotic Syndrome secondary to Minimal Change Disease",
+        "C": "Acute Pyelonephritis secondary to E. coli bacteremia",
+        "D": "Prerenal Azotemia secondary to acute dehydration",
+        "E": "Obstructive uropathy secondary to calcium oxalate calculus"
+      },
+      "correct_option": "A",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A cirrhotic male has rising Cr (0.9 to 2.8 mg/dL) over 5 days, BP 92/58, urine Na+ 6 mEq/L, FENa 0.3%, unresponsive to 48h IV Albumin. Diagnosis:",
+      "options": {
+        "A": "Ischemic Acute Tubular Necrosis with loss of concentrating function",
+        "B": "Hepatorenal Syndrome (HRS-AKI; splanchnic vasodilation causing renal vasoconstriction)",
+        "C": "Acute Interstitial Nephritis secondary to spironolactone toxicity",
+        "D": "Postrenal obstructive uropathy secondary to retroperitoneal fibrosis",
+        "E": "Rapidly progressive crescentic glomerulonephritis Type |"
+      },
+      "correct_option": "B",
+      "explanation": "**Alterations in Urine Volume**: Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria.\n\n**L/d): solute vs water diuresis.**: CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable",
+      "masterclass_id": 34,
+      "masterclass_title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology"
+    }
+  ]
+}

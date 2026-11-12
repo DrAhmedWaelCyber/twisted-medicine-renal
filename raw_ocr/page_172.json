@@ -1,0 +1,1181 @@
+{
+  "page" : 172,
+  "items" : [
+    {
+      "text" : "Twisted Medicine• Renal System Module • Lecture 44 MCQ Masterclass (Module Wrap-up)",
+      "conf" : 1,
+      "x" : 0.3436213918209878,
+      "w" : 0.5884773686247051,
+      "y" : 0.9716569766896803,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "Twisted Medicine Medical Series • BPH, Renal Cell Carcinoma, Bladder Cancer & Prostate Cancer • Standard Practice Bank",
+      "conf" : 1,
+      "x" : 0.3724279943072699,
+      "w" : 0.6460905255011793,
+      "y" : 0.9556944445294402,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "Page 2 of 4",
+      "conf" : 1,
+      "x" : 0.9094650195491538,
+      "w" : 0.08258645639479534,
+      "y" : 0.9716569766745671,
+      "h" : 0.011382217407226558
+    },
+    {
+      "text" : "Q15. [2025 Exam] Renal Cell Carcinoma (RCC) accounts for",
+      "conf" : 1,
+      "x" : 0.2592592661179696,
+      "w" : 0.4115226313752948,
+      "y" : 0.9323611112075925,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "~90% of all malignant renal parenchymal tumors. What is the",
+      "conf" : 1,
+      "x" : 0.2685185113511662,
+      "w" : 0.4300411392307882,
+      "y" : 0.9230200261002139,
+      "h" : 0.011737725999620197
+    },
+    {
+      "text" : "most common histological subtype (~75-80%) and its cellular",
+      "conf" : 1,
+      "x" : 0.2685185256858708,
+      "w" : 0.43004113923078807,
+      "y" : 0.9113727392821616,
+      "h" : 0.011698966026306157
+    },
+    {
+      "text" : "origin?",
+      "conf" : 1,
+      "x" : 0.0802469135784978,
+      "w" : 0.053601468883970244,
+      "y" : 0.8989825579699657,
+      "h" : 0.010449503792656856
+    },
+    {
+      "text" : "[A] Papillary RCC arising from distal convoluted tubules",
+      "conf" : 1,
+      "x" : 0.21296296827846348,
+      "w" : 0.3189300201224081,
+      "y" : 0.8873611113193207,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[B] Medullary Carcinoma associated with sickle cell trait",
+      "conf" : 1,
+      "x" : 0.21296295757887537,
+      "w" : 0.32304526275058965,
+      "y" : 0.8756944442239135,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Chromophobe RCC arising from medullary collecting duct intercalated",
+      "conf" : 1,
+      "x" : 0.2623456842849793,
+      "w" : 0.42181070195803855,
+      "y" : 0.8640374678280656,
+      "h" : 0.010297157499525311
+    },
+    {
+      "text" : "cells",
+      "conf" : 1,
+      "x" : 0.06893004173525374,
+      "w" : 0.03497942138767842,
+      "y" : 0.8539244186773256,
+      "h" : 0.007267441749572723
+    },
+    {
+      "text" : "[D] Collecting Duct (Bellini) Carcinoma arising from renal pelvis urothelium",
+      "conf" : 1,
+      "x" : 0.26543210589849087,
+      "w" : 0.4279835059207941,
+      "y" : 0.8430555556194068,
+      "h" : 0.008888889153798485
+    },
+    {
+      "text" : "[E] Clear Cell RCC, arising from the proximal convoluted tubule (PCT)",
+      "conf" : 1,
+      "x" : 0.2500000066186554,
+      "w" : 0.3971193181643696,
+      "y" : 0.8313888888018034,
+      "h" : 0.008888888888888946
+    },
+    {
+      "text" : "epithelium",
+      "conf" : 1,
+      "x" : 0.0864197541838134,
+      "w" : 0.06584361814103036,
+      "y" : 0.8212209302810078,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "Q16. [2024 Exam] What specific tumor suppressor gene",
+      "conf" : 1,
+      "x" : 0.2479423916923867,
+      "w" : 0.38888888089162,
+      "y" : 0.7972383721838663,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "mutation and chromosomal aberration is pathognomonic of",
+      "conf" : 1,
+      "x" : 0.261316876680384,
+      "w" : 0.4156378500116697,
+      "y" : 0.7863727390399134,
+      "h" : 0.011698966026306268
+    },
+    {
+      "text" : "both sporadic and hereditary Clear Cell RCC?",
+      "conf" : 1,
+      "x" : 0.21090534893689986,
+      "w" : 0.3148148014860333,
+      "y" : 0.7761272609600866,
+      "h" : 0.011698966026306268
+    },
+    {
+      "text" : "[A] Loss\/mutation of VHL gene on chr 3p (3p25), stabilizing HIF-1a and",
+      "conf" : 1,
+      "x" : 0.25308641303155033,
+      "w" : 0.4032921461189318,
+      "y" : 0.7630587852718028,
+      "h" : 0.011673126220703045
+    },
+    {
+      "text" : "overexpressing VEGF\/PDGF",
+      "conf" : 1,
+      "x" : 0.13271605030864198,
+      "w" : 0.15843620540211037,
+      "y" : 0.7529069769379845,
+      "h" : 0.011627906163533597
+    },
+    {
+      "text" : "[B] WT1 tumor suppressor gene deletion on chromosome 11p13",
+      "conf" : 1,
+      "x" : 0.2355967032150207,
+      "w" : 0.36831273972613254,
+      "y" : 0.7412790696947674,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[C] MET proto-oncogene activating mutation on chromosome 7q",
+      "conf" : 1,
+      "x" : 0.23559671242283942,
+      "w" : 0.3683127397261326,
+      "y" : 0.728924418659157,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[D] APC gene mutation on chromosome 5q21",
+      "conf" : 1,
+      "x" : 0.18724280169753074,
+      "w" : 0.2674897151923029,
+      "y" : 0.718750000090843,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[E] RET proto-oncogene translocation on chromosome 10g",
+      "conf" : 1,
+      "x" : 0.22016461327160486,
+      "w" : 0.33744855196970813,
+      "y" : 0.7063888888260281,
+      "h" : 0.011666666666666603
+    },
+    {
+      "text" : "Q17. [2023 Exam] Which histological and cytogenetic",
+      "conf" : 1,
+      "x" : 0.23971192794924578,
+      "w" : 0.37242798235431407,
+      "y" : 0.6823611110137939,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "characteristic distinguishes Chromophobe RCC from Clear Cell",
+      "conf" : 1,
+      "x" : 0.27057612996399183,
+      "w" : 0.43415635786716295,
+      "y" : 0.67078488359375,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[A] Abundant lipid and glycogen dissolved during processing, leaving",
+      "conf" : 1,
+      "x" : 0.24897118683127592,
+      "w" : 0.3950617088461822,
+      "y" : 0.6475290696947675,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "completely empty clear cytoplasm",
+      "conf" : 1,
+      "x" : 0.15329218439643333,
+      "w" : 0.19958847573718183,
+      "y" : 0.6366666666495931,
+      "h" : 0.008888888623979296
+    },
+    {
+      "text" : "[B] Polygonal cells with Perinuclear Halos, Hale colloidal iron (+), multiple",
+      "conf" : 1,
+      "x" : 0.26131686721536374,
+      "w" : 0.4197530686480444,
+      "y" : 0.6256944446568333,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "losses & great prognosis",
+      "conf" : 1,
+      "x" : 0.12345679192386827,
+      "w" : 0.14403291618299185,
+      "y" : 0.6148255814680232,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[C] Frond-like fibrovascular cores lined by pseudostratified columnar cells",
+      "conf" : 1,
+      "x" : 0.26234568604252373,
+      "w" : 0.42181070195803855,
+      "y" : 0.6046447027552918,
+      "h" : 0.00873385005527072
+    },
+    {
+      "text" : "with psammoma bodies",
+      "conf" : 1,
+      "x" : 0.12345679245541831,
+      "w" : 0.1399176855507137,
+      "y" : 0.5937500000726744,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[D] Sheets of small round blue cells forming Homer Wright rosettes",
+      "conf" : 1,
+      "x" : 0.24382715568415647,
+      "w" : 0.38477366225524523,
+      "y" : 0.5828552972204835,
+      "h" : 0.00873385005527072
+    },
+    {
+      "text" : "[E] Extensive keratin pearls with intercellular bridges",
+      "conf" : 1,
+      "x" : 0.203703707510288,
+      "w" : 0.30452673090328963,
+      "y" : 0.5719476744731105,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "Q18. [2022 Exam] The classical 'Too-Late Triad' of Renal Cell",
+      "conf" : 1,
+      "x" : 0.26440328690843634,
+      "w" : 0.42181070195803855,
+      "y" : 0.5573611109956254,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "Carcinoma includes which three clinical signs, and what is its",
+      "conf" : 1,
+      "x" : 0.26646090895061714,
+      "w" : 0.42592592059441337,
+      "y" : 0.5457848835513566,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "prognostic significance?",
+      "conf" : 1,
+      "x" : 0.1388888898148148,
+      "w" : 0.17078188530304148,
+      "y" : 0.5356782945768785,
+      "h" : 0.010310077137417273
+    },
+    {
+      "text" : "[A] Fever, maculopapular rash, and peripheral eosinophilia; indicates early",
+      "conf" : 1,
+      "x" : 0.26440328508230476,
+      "w" : 0.42592592059441325,
+      "y" : 0.5218023255329457,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "curable disease",
+      "conf" : 1,
+      "x" : 0.0997942402263374,
+      "w" : 0.09259258726108,
+      "y" : 0.5123611110544112,
+      "h" : 0.007500000000000062
+    },
+    {
+      "text" : "[B] Polyuria, polydipsia, and severe hypoglycemia; indicates early medullary",
+      "conf" : 1,
+      "x" : 0.27057612626028815,
+      "w" : 0.4341563578671629,
+      "y" : 0.4999999999273255,
+      "h" : 0.008888888888888835
+    },
+    {
+      "text" : "disease",
+      "conf" : 1,
+      "x" : 0.07716049461591218,
+      "w" : 0.04732510128860953,
+      "y" : 0.4905523256540698,
+      "h" : 0.007267441749572834
+    },
+    {
+      "text" : "[C] Gross Hematuria, Flank Pain, and a Palpable Flank Mass; present in",
+      "conf" : 1,
+      "x" : 0.25308641471193427,
+      "w" : 0.4032921941025452,
+      "y" : 0.4789244185501453,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "<10% of patients and indicates advanced, locally aggressive, or metastatic",
+      "conf" : 1,
+      "x" : 0.26748970480109757,
+      "w" : 0.427983505920794,
+      "y" : 0.4687499999273256,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "disease",
+      "conf" : 1,
+      "x" : 0.07716049461591218,
+      "w" : 0.04732510128860953,
+      "y" : 0.45857558146802324,
+      "h" : 0.007267441749572834
+    },
+    {
+      "text" : "[D] Pneumaturia, fecaluria, and recurrent cystitis; indicates colonic invasion",
+      "conf" : 1,
+      "x" : 0.26748970994513044,
+      "w" : 0.4320987725407823,
+      "y" : 0.44694767424903104,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[E] Hypertension, hypokalemia, and metabolic alkalosis; indicates reninoma",
+      "conf" : 1,
+      "x" : 0.26748970653292187,
+      "w" : 0.43209877254078216,
+      "y" : 0.4360368215619041,
+      "h" : 0.008740309874216812
+    },
+    {
+      "text" : "Q19. [2021 Exam] What is the most frequent clinical",
+      "conf" : 1,
+      "x" : 0.23765432108876117,
+      "w" : 0.3641975210897578,
+      "y" : 0.4215116279044707,
+      "h" : 0.008720930417378758
+    },
+    {
+      "text" : "presentation of Renal Cell Carcinoma in modern urological",
+      "conf" : 1,
+      "x" : 0.25720164099794246,
+      "w" : 0.40740741273892,
+      "y" : 0.41067829458137134,
+      "h" : 0.01031007766723635
+    },
+    {
+      "text" : "clinical practice (>60% of newly diagnosed cases)?",
+      "conf" : 1,
+      "x" : 0.23148147703189315,
+      "w" : 0.3559670598252015,
+      "y" : 0.3990277776123796,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[A] Massive life-threatening gross hematuria with acute clot retention",
+      "conf" : 1,
+      "x" : 0.2520576181327159,
+      "w" : 0.3971193421561763,
+      "y" : 0.3866666666253683,
+      "h" : 0.008888888623979296
+    },
+    {
+      "text" : "[B] Spontaneous rupture of the kidney producing severe retroperitoneal",
+      "conf" : 1,
+      "x" : 0.2572016392318247,
+      "w" : 0.4115226313752949,
+      "y" : 0.37569444422391346,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "hematoma (Wunderlich syndrome)",
+      "conf" : 1,
+      "x" : 0.15226337784636473,
+      "w" : 0.20164607305946589,
+      "y" : 0.3648255814922482,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[C] Acute onset bilateral lower extremity paraplegia from spinal metastases",
+      "conf" : 1,
+      "x" : 0.26851852394547315,
+      "w" : 0.43415635786716295,
+      "y" : 0.35392441865915697,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[D] Asymptomatic incidental detection ('Incidentaloma') on abdominal",
+      "conf" : 1,
+      "x" : 0.2520576064814817,
+      "w" : 0.40123456079255104,
+      "y" : 0.3430555556065128,
+      "h" : 0.008888888888888946
+    },
+    {
+      "text" : "ultrasound or CT performed for unrelated gastrointestinal or non-renal",
+      "conf" : 1,
+      "x" : 0.2530864247427982,
+      "w" : 0.3991769514743637,
+      "y" : 0.3320833331407847,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "complaints",
+      "conf" : 1,
+      "x" : 0.0864197541838134,
+      "w" : 0.06584361814103036,
+      "y" : 0.32267441865310076,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[E] Severe high-output cardiac failure from massive arteriovenous fistulas",
+      "conf" : 1,
+      "x" : 0.2623456811471192,
+      "w" : 0.42181070195803844,
+      "y" : 0.3103197673146802,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "Q22. [2023 Exam] Why does a newly developed,",
+      "conf" : 1,
+      "x" : 0.6800411579218105,
+      "w" : 0.33950616128789557,
+      "y" : 0.93166666683833,
+      "h" : 0.011666666666666714
+    },
+    {
+      "text" : "non-collapsing (fixed) Left-Sided Varicocele in an older adult",
+      "conf" : 1,
+      "x" : 0.7232510341306584,
+      "w" : 0.42592592059441337,
+      "y" : 0.9222932818006628,
+      "h" : 0.013191214137607044
+    },
+    {
+      "text" : "male raise strong clinical suspicion of Renal Cell Carcinoma?",
+      "conf" : 1,
+      "x" : 0.7222222292866938,
+      "w" : 0.4238682872844193,
+      "y" : 0.9106782945284289,
+      "h" : 0.010310077137417273
+    },
+    {
+      "text" : "[A] The right testicular vein directly enters the inferior vena cava at an acute",
+      "conf" : 1,
+      "x" : 0.7294238756172837,
+      "w" : 0.43827157650353776,
+      "y" : 0.8975290698401164,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "angle",
+      "conf" : 1,
+      "x" : 0.5298353915980796,
+      "w" : 0.0390946490209807,
+      "y" : 0.8873546512354651,
+      "h" : 0.007267441749572723
+    },
+    {
+      "text" : "[B] The left testicular vein drains perpendicularly into the Left Renal Vein,",
+      "conf" : 1,
+      "x" : 0.7211934226680381,
+      "w" : 0.4218107019580385,
+      "y" : 0.8764114986217607,
+      "h" : 0.01171188566419823
+    },
+    {
+      "text" : "which can be obstructed by an extending RCC tumor thrombus",
+      "conf" : 1,
+      "x" : 0.6923868373456787,
+      "w" : 0.3641975210897578,
+      "y" : 0.8662790698643411,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[C] RCC metastasizes selectively to the testicular tunica vaginalis via",
+      "conf" : 1,
+      "x" : 0.708847741589506,
+      "w" : 0.3971193421561763,
+      "y" : 0.8546447027431794,
+      "h" : 0.00873385005527072
+    },
+    {
+      "text" : "lymphatic vessels",
+      "conf" : 1,
+      "x" : 0.5627571998971195,
+      "w" : 0.10493826716201105,
+      "y" : 0.8444444443805932,
+      "h" : 0.008888889153798485
+    },
+    {
+      "text" : "[D] Tumor secretion of estrogen induces localized pampiniform venous",
+      "conf" : 1,
+      "x" : 0.7129629680298353,
+      "w" : 0.4053497794289259,
+      "y" : 0.8335755814498547,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "dilation",
+      "conf" : 1,
+      "x" : 0.5349794244341564,
+      "w" : 0.04526748897144628,
+      "y" : 0.8226744186773256,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[E] Left-sided varicocele is caused by compression of the celiac trunk",
+      "conf" : 1,
+      "x" : 0.70884774324417,
+      "w" : 0.39711931816436963,
+      "y" : 0.8125000000484497,
+      "h" : 0.008888888888888835
+    },
+    {
+      "text" : "Q23. [2021 Exam] What is the single best, gold-standard",
+      "conf" : 1,
+      "x" : 0.7098765382716052,
+      "w" : 0.3950617088461822,
+      "y" : 0.7972383720385174,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "imaging modality for diagnosing, characterizing, and staging",
+      "conf" : 1,
+      "x" : 0.7242798407407407,
+      "w" : 0.42798350592079404,
+      "y" : 0.786372739270049,
+      "h" : 0.011698966026306157
+    },
+    {
+      "text" : "suspected Renal Cell Carcinoma?",
+      "conf" : 1,
+      "x" : 0.627572013580247,
+      "w" : 0.23045267548950965,
+      "y" : 0.7761272606572764,
+      "h" : 0.011698966026306157
+    },
+    {
+      "text" : "[A] Plain abdominal radiography (KUB)",
+      "conf" : 1,
+      "x" : 0.6203703698302468,
+      "w" : 0.2242798235431407,
+      "y" : 0.7623546513263081,
+      "h" : 0.013081394831339521
+    },
+    {
+      "text" : "[B] Non-contrast intravenous urography (IVU)",
+      "conf" : 1,
+      "x" : 0.6399176981069958,
+      "w" : 0.2633744725641214,
+      "y" : 0.7507170541329377,
+      "h" : 0.01310077508290619
+    },
+    {
+      "text" : "[C] Triphasic Contrast-Enhanced Abdominal CT (showing avid arterial",
+      "conf" : 1,
+      "x" : 0.7078189251028808,
+      "w" : 0.3950617088461822,
+      "y" : 0.7397642115856851,
+      "h" : 0.011750645637512158
+    },
+    {
+      "text" : "enhancement, heterogeneous architecture, and wash-out on parenchymal",
+      "conf" : 1,
+      "x" : 0.723251034079218,
+      "w" : 0.4218107019580385,
+      "y" : 0.7296447027795165,
+      "h" : 0.00873385005527072
+    },
+    {
+      "text" : "phase)",
+      "conf" : 1,
+      "x" : 0.5329218112168449,
+      "w" : 0.04150389425409662,
+      "y" : 0.7194767442477941,
+      "h" : 0.009588554170396613
+    },
+    {
+      "text" : "[D] Radioisotope DMSA renal cortical scan",
+      "conf" : 1,
+      "x" : 0.6316872458333334,
+      "w" : 0.2427983553904408,
+      "y" : 0.7078552972333775,
+      "h" : 0.008733849790361292
+    },
+    {
+      "text" : "[E] Retrograde cystourethrogram",
+      "conf" : 1,
+      "x" : 0.6069958879972563,
+      "w" : 0.19341563578671628,
+      "y" : 0.6962209303294573,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "Q24. [2025 Exam] Under modern urological guidelines, what is",
+      "conf" : 1,
+      "x" : 0.7304526821673523,
+      "w" : 0.436213991177157,
+      "y" : 0.6823611111591428,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "the surgical standard of care for a localized clinical Tla renal",
+      "conf" : 1,
+      "x" : 0.7253086348079563,
+      "w" : 0.430041139230788,
+      "y" : 0.6715116278585271,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "mass (<= 4 cm in diameter)?",
+      "conf" : 1,
+      "x" : 0.6131687222736626,
+      "w" : 0.20164609705127268,
+      "y" : 0.6606782945450342,
+      "h" : 0.01031007766723635
+    },
+    {
+      "text" : "[A] Radical Nephrectomy removing the entire kidney, Gerota's fascia, and",
+      "conf" : 1,
+      "x" : 0.7211934209104935,
+      "w" : 0.4218107019580385,
+      "y" : 0.647529069858285,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "adrenal gland",
+      "conf" : 1,
+      "x" : 0.5524691357051495,
+      "w" : 0.08024691335810052,
+      "y" : 0.6373611109915576,
+      "h" : 0.007499999999999951
+    },
+    {
+      "text" : "[B] Immediate bilateral open radical nephrectomy with hemodialysis",
+      "conf" : 1,
+      "x" : 0.7057613198216736,
+      "w" : 0.39094649020980743,
+      "y" : 0.6256944446568333,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[C] Lifelong systemic chemotherapy without surgical resection",
+      "conf" : 1,
+      "x" : 0.6893004174897117,
+      "w" : 0.3580246691433887,
+      "y" : 0.614037467809897,
+      "h" : 0.010297157499525311
+    },
+    {
+      "text" : "[D] Partial Nephrectomy (Nephron-Sparing Surgery), preserving maximum",
+      "conf" : 1,
+      "x" : 0.7222222275205759,
+      "w" : 0.42386828728441917,
+      "y" : 0.603197674491279,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "normal renal parenchyma while achieving equivalent oncological control",
+      "conf" : 1,
+      "x" : 0.7191358093621397,
+      "w" : 0.41358021670167555,
+      "y" : 0.5923546511791831,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "[E] Watchful waiting without any imaging surveillance",
+      "conf" : 1,
+      "x" : 0.6646090573559669,
+      "w" : 0.30864197353147105,
+      "y" : 0.5813888888260281,
+      "h" : 0.008888888888888946
+    },
+    {
+      "text" : "Q25. [Faculty Exam] Why is conventional cytotoxic",
+      "conf" : 1,
+      "x" : 0.6893004159465019,
+      "w" : 0.35390945050701406,
+      "y" : 0.5566666667301,
+      "h" : 0.008888888623979296
+    },
+    {
+      "text" : "chemotherapy and radiotherapy ineffective in metastatic",
+      "conf" : 1,
+      "x" : 0.7119341613683127,
+      "w" : 0.3991769514743637,
+      "y" : 0.5457848838117733,
+      "h" : 0.010174418555365827
+    },
+    {
+      "text" : "Clear Cell RCC, and what modern therapy has transformed",
+      "conf" : 1,
+      "x" : 0.7160493759259262,
+      "w" : 0.40740741273892,
+      "y" : 0.5348837208817829,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "prognosis?",
+      "conf" : 1,
+      "x" : 0.5514403279149521,
+      "w" : 0.0781892980419614,
+      "y" : 0.5239825580184108,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[A] RCC lacks DNA replication; treated exclusively with high-dose aspirin",
+      "conf" : 1,
+      "x" : 0.7181070010288064,
+      "w" : 0.411522631375295,
+      "y" : 0.5116666666253683,
+      "h" : 0.008888888623979296
+    },
+    {
+      "text" : "[B] Radiotherapy cures 99% of bone and brain metastases in RCC",
+      "conf" : 1,
+      "x" : 0.6985596677983541,
+      "w" : 0.37654320099068894,
+      "y" : 0.4993055555338384,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Metastatic RCC cells are completely killed by penicillin infusions",
+      "conf" : 1,
+      "x" : 0.7037037101508914,
+      "w" : 0.38683127157343256,
+      "y" : 0.48833333327929573,
+      "h" : 0.008888889153798374
+    },
+    {
+      "text" : "[D] RCC responds solely to surgical excision of all distant organ metastases",
+      "conf" : 1,
+      "x" : 0.7253086473508229,
+      "w" : 0.4300411392307881,
+      "y" : 0.47674741616111377,
+      "h" : 0.0087273899714152
+    },
+    {
+      "text" : "[E] Chemoresistant via P-glycoprotein efflux; treated with VEGFR TKIS",
+      "conf" : 1,
+      "x" : 0.7098765498628256,
+      "w" : 0.3991769514743637,
+      "y" : 0.46511627916666665,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "(Sunitinib) + Immune Checkpoint Inhibitors",
+      "conf" : 1,
+      "x" : 0.6347736640260631,
+      "w" : 0.2489711833450029,
+      "y" : 0.45492894041696597,
+      "h" : 0.008746769693162681
+    },
+    {
+      "text" : "Q26. [Core Exam] What is the most common malignant renal",
+      "conf" : 1,
+      "x" : 0.7232510333676266,
+      "w" : 0.4218107019580386,
+      "y" : 0.42078488355135657,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "tumor of childhood (peak age 2 to 5 years), and what classic",
+      "conf" : 1,
+      "x" : 0.7232510330246913,
+      "w" : 0.4218107019580385,
+      "y" : 0.41067829474488876,
+      "h" : 0.01031007766723635
+    },
+    {
+      "text" : "genetic locus is implicated in its pathogenesis?",
+      "conf" : 1,
+      "x" : 0.6820987710905349,
+      "w" : 0.33950616128789557,
+      "y" : 0.39902777778800935,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[A] Wilms Tumor (Nephroblastoma); WT1 and WT2 tumor suppressor genes",
+      "conf" : 1,
+      "x" : 0.7263374539609053,
+      "w" : 0.4320987725407822,
+      "y" : 0.3866666666253683,
+      "h" : 0.008888888623979296
+    },
+    {
+      "text" : "on chromosome 11p13 and 11p15",
+      "conf" : 1,
+      "x" : 0.611111114403292,
+      "w" : 0.19753085442309115,
+      "y" : 0.377180232630814,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[B] Renal Cell Carcinoma; VHL gene on chromosome 3p",
+      "conf" : 1,
+      "x" : 0.6697530904063784,
+      "w" : 0.3189300441142148,
+      "y" : 0.3655523256359012,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[C] Neuroblastoma; N-myc amplification on chromosome 1p",
+      "conf" : 1,
+      "x" : 0.6820987697273662,
+      "w" : 0.34362137992427033,
+      "y" : 0.35392441865915697,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[D] Angiomyolipoma; TSC1 and TSC2 tuberous sclerosis genes",
+      "conf" : 1,
+      "x" : 0.6893004165294923,
+      "w" : 0.35802466914338893,
+      "y" : 0.3423546511533949,
+      "h" : 0.01029069794548887
+    },
+    {
+      "text" : "[E] Clear cell sarcoma; BCOR gene rearrangement",
+      "conf" : 1,
+      "x" : 0.6543209905349794,
+      "w" : 0.2880658323659837,
+      "y" : 0.3313888888114933,
+      "h" : 0.008888888888888946
+    },
+    {
+      "text" : "protein (PTHrP)?",
+      "conf" : 1,
+      "x" : 0.11316872577160492,
+      "w" : 0.11934155638112962,
+      "y" : 0.26375322997259293,
+      "h" : 0.01028423786163335
+    },
+    {
+      "text" : "[A] Severe Polycythemia with elevated hematocrit (caused by ectopic",
+      "conf" : 1,
+      "x" : 0.2520576181327159,
+      "w" : 0.3971193421561763,
+      "y" : 0.2506944443510938,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Erythropoietin)",
+      "conf" : 1,
+      "x" : 0.09773662698902602,
+      "w" : 0.08847736262675351,
+      "y" : 0.2405523256540697,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[B] Gynecomastia with hyperprolactinemia",
+      "conf" : 1,
+      "x" : 0.17798354331275706,
+      "w" : 0.2530864019813778,
+      "y" : 0.22892441872577518,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[C] Secondary Hyperreninemic Hypertension (caused by renin secretion)",
+      "conf" : 1,
+      "x" : 0.2582304475051441,
+      "w" : 0.41358021670167555,
+      "y" : 0.21735465126846265,
+      "h" : 0.01029069794548887
+    },
+    {
+      "text" : "[D] Cushing syndrome with hypercortisolemia (caused by ectopic ACTH)",
+      "conf" : 1,
+      "x" : 0.2572016392318247,
+      "w" : 0.4115226313752949,
+      "y" : 0.20708333350708646,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[E] Hypercalcemia with suppressed intact PTH levels",
+      "conf" : 1,
+      "x" : 0.2026749009002057,
+      "w" : 0.3024691215851022,
+      "y" : 0.19542958658700982,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "Q21. [2024 Exam] What is 'Stauffer Syndrome' in patients",
+      "conf" : 1,
+      "x" : 0.25514402620027454,
+      "w" : 0.4032921461189318,
+      "y" : 0.16137273913681255,
+      "h" : 0.011698966026306157
+    },
+    {
+      "text" : "with Renal Cell Carcinoma, and what is its clinical behavior",
+      "conf" : 1,
+      "x" : 0.25925925411522643,
+      "w" : 0.4115226313752948,
+      "y" : 0.15041666669903736,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "following nephrectomy?",
+      "conf" : 1,
+      "x" : 0.1388888910236625,
+      "w" : 0.17078188530304148,
+      "y" : 0.13875322997259293,
+      "h" : 0.01028423786163335
+    },
+    {
+      "text" : "[A] Reversible non-metastatic hepatic dysfunction (high ALP, long PT)",
+      "conf" : 1,
+      "x" : 0.24999999989711935,
+      "w" : 0.3971193181643696,
+      "y" : 0.1264114984279623,
+      "h" : 0.01171188566419823
+    },
+    {
+      "text" : "mediated by IL-6; resolves post-nephrectomy",
+      "conf" : 1,
+      "x" : 0.18518518964334688,
+      "w" : 0.26748969120049626,
+      "y" : 0.11627906981589153,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[B] Irreversible hepatic cirrhosis caused by direct metastatic parenchymal",
+      "conf" : 1,
+      "x" : 0.2633744926611795,
+      "w" : 0.4238682872844192,
+      "y" : 0.10392441872577518,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "destruction",
+      "conf" : 1,
+      "x" : 0.08744856011659807,
+      "w" : 0.07201645809149593,
+      "y" : 0.09520348854166666,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[C] Severe nephrotic syndrome caused by renal vein thrombosis",
+      "conf" : 1,
+      "x" : 0.23559671150205752,
+      "w" : 0.36831273972613254,
+      "y" : 0.08357558146802324,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[D] Bilateral adrenal insufficiency due to metastatic destruction",
+      "conf" : 1,
+      "x" : 0.2335390992026748,
+      "w" : 0.3641975210897578,
+      "y" : 0.07194767447311051,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[E] Acute cerebellar ataxia caused by anti-Purkinje antibodies",
+      "conf" : 1,
+      "x" : 0.22839506762688597,
+      "w" : 0.35390945050701406,
+      "y" : 0.06031976751453488,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "Q27. [Core Exam] What is the characteristic clinical",
+      "conf" : 1,
+      "x" : 0.691358020164609,
+      "w" : 0.36213991177157034,
+      "y" : 0.2965116278343023,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "presentation and classic triphasic histological appearance of",
+      "conf" : 1,
+      "x" : 0.7242798300925928,
+      "w" : 0.4238682872844193,
+      "y" : 0.28567829458137134,
+      "h" : 0.01031007766723635
+    },
+    {
+      "text" : "Wilms Tumor?",
+      "conf" : 1,
+      "x" : 0.5617283933470507,
+      "w" : 0.10288065784382372,
+      "y" : 0.274722222312388,
+      "h" : 0.008888889153798485
+    },
+    {
+      "text" : "[A] Painful gross hematuria in a teenager; histology shows clear cell sheets",
+      "conf" : 1,
+      "x" : 0.725308649142661,
+      "w" : 0.43004113923078824,
+      "y" : 0.2616666666011436,
+      "h" : 0.008888888623979407
+    },
+    {
+      "text" : "with chicken-wire vasculature",
+      "conf" : 1,
+      "x" : 0.5987654350480109,
+      "w" : 0.17695472525350697,
+      "y" : 0.252180232630814,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[B] Asymptomatic palpable flank mass in toddler; Triphasic (blastema,",
+      "conf" : 1,
+      "x" : 0.7129629697187927,
+      "w" : 0.405349779428926,
+      "y" : 0.23982558139534882,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "primitive tubules & stroma",
+      "conf" : 1,
+      "x" : 0.5925925925240054,
+      "w" : 0.16049382671620116,
+      "y" : 0.23041666658981286,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Severe bilious vomiting and jaundice in a newborn; histology shows pure",
+      "conf" : 1,
+      "x" : 0.7283950671810697,
+      "w" : 0.4362139911771571,
+      "y" : 0.21805555564363177,
+      "h" : 0.008888889153798374
+    },
+    {
+      "text" : "squamous pearls",
+      "conf" : 1,
+      "x" : 0.5606995867969822,
+      "w" : 0.10082303652973301,
+      "y" : 0.2078552972447082,
+      "h" : 0.00873385005527072
+    },
+    {
+      "text" : "[D] Bilateral hydronephrosis with renal failure; histology shows pure amyloid",
+      "conf" : 1,
+      "x" : 0.7283950573662552,
+      "w" : 0.436213991177157,
+      "y" : 0.19622093017441855,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "fibrils",
+      "conf" : 1,
+      "x" : 0.527777778292181,
+      "w" : 0.0349794213876784,
+      "y" : 0.18604651148255802,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[E] Painless scrotal swelling; histology shows seminomatous germ cells",
+      "conf" : 1,
+      "x" : 0.715020582956104,
+      "w" : 0.4094649980653007,
+      "y" : 0.17513888882602813,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Q28. [Core Exam] What is the most prevalent histological type",
+      "conf" : 1,
+      "x" : 0.7304526821673523,
+      "w" : 0.436213991177157,
+      "y" : 0.16067829474488865,
+      "h" : 0.01031007766723635
+    },
+    {
+      "text" : "of urinary bladder cancer worldwide (>90% in industrialized",
+      "conf" : 1,
+      "x" : 0.7222222292181066,
+      "w" : 0.4197530686480444,
+      "y" : 0.15041666686255467,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "nations) versus its historical epidemiology in rural Egypt?",
+      "conf" : 1,
+      "x" : 0.7139917745884772,
+      "w" : 0.40329219410254524,
+      "y" : 0.13875322997259293,
+      "h" : 0.01028423786163335
+    },
+    {
+      "text" : "[A] Adenocarcinoma worldwide; Small cell neuroendocrine cancer in Egypt",
+      "conf" : 1,
+      "x" : 0.7232510352194785,
+      "w" : 0.42592592059441337,
+      "y" : 0.12569444465683344,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[B] Leiomyosarcoma worldwide; Pure choriocarcinoma in Egypt",
+      "conf" : 1,
+      "x" : 0.691358029218107,
+      "w" : 0.36213991177157034,
+      "y" : 0.11482558146802324,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[C] Urothelial (TCC, >90%) worldwide; Squamous (SCC) in rural Egypt due to",
+      "conf" : 1,
+      "x" : 0.7283950573662552,
+      "w" : 0.436213991177157,
+      "y" : 0.10319767436046512,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "chronic Schistosoma haematobium",
+      "conf" : 1,
+      "x" : 0.6121399143004116,
+      "w" : 0.20370370636946,
+      "y" : 0.09305555565496243,
+      "h" : 0.008888888888888835
+    },
+    {
+      "text" : "[D] Squamous cell carcinoma worldwide; Transitional cell carcinoma in",
+      "conf" : 1,
+      "x" : 0.7119341496570647,
+      "w" : 0.4032921461189318,
+      "y" : 0.08138888883735895,
+      "h" : 0.008888889153798374
+    },
+    {
+      "text" : "Egypt",
+      "conf" : 1,
+      "x" : 0.5308641981481481,
+      "w" : 0.037037036703817416,
+      "y" : 0.07122093032945742,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[E] Clear cell adenocarcinoma in all geographical regions",
+      "conf" : 1,
+      "x" : 0.6738683182098764,
+      "w" : 0.3271604813869644,
+      "y" : 0.06031976751453488,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "Twisted Medicine • Clinical Nephrology & Urological Oncology Master Class • Facty & Board Exam Priati omatonted intil culty & Board Exam Past Papers",
+      "conf" : 1,
+      "x" : 0.5000000112654319,
+      "w" : 0.901234560792551,
+      "y" : 0.01598837227470934,
+      "h" : 0.02034883711073132
+    }
+  ]
+}

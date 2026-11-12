@@ -1,0 +1,881 @@
+{
+  "id": 38,
+  "title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+  "department": "Clinical Nephrology & Urology",
+  "department_desc": "Clinical approach, AKI, dialysis, nephrotic/nephritic syndrome, renovascular hypertension, cystics and oncology",
+  "booklet_pages": "Pages 149 - 152",
+  "pdf_pages": [
+    151,
+    152,
+    153,
+    154
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 39 - HIGH-YIELD UTI & PYELONEPHRITIS CLINICAL MATRIX",
+  "summary_table": [
+    {
+      "domain": "Acute Pyelonephritis",
+      "content": "Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d."
+    },
+    {
+      "domain": "parenchyma.",
+      "content": "Hallmark: White Blood Cell (WBC) Casts in"
+    },
+    {
+      "domain": "Etiology: UPEC, Klebsiella, Proteus",
+      "content": "patient: IV Ceftriaxone 1g daily or Cefepime urine sediment. uration: 7-14 day"
+    },
+    {
+      "domain": "Asymptomatic",
+      "content": "Asymptomatic. Safe in pregnancy: Cephalexin, Amox-Clav, >=10^5 CFU/mL in 2 consecutive voids Fosfomycin. Untreated in pregnancy: 20-40% progress to"
+    },
+    {
+      "domain": "Bacteriuria",
+      "content": "acute pyelonephritis, preterm labor, low birth Screen & Treat: Pregnant females & prior"
+    },
+    {
+      "domain": "(ASB) & Pregnancy",
+      "content": "Ave sides atlage). Tetracyclines weight."
+    },
+    {
+      "domain": "Infected Obstructed",
+      "content": "EMERGENCY: Immediate decompression via"
+    },
+    {
+      "domain": "Ureteral stone + pyelonephritis",
+      "content": "Sepsis, severe toxic flank pain. CT: Parenchymal/perirenal gas, stone"
+    },
+    {
+      "domain": "(hydronephrosis).",
+      "content": "retrograde Double- stent or PCN + IV"
+    },
+    {
+      "domain": "Kidney",
+      "content": "obstruction, perinephric stranding. Emphysematous: Gas-forming necrosis in Meropenem/Cefepime. Never delay decompression!"
+    },
+    {
+      "domain": "poorly controlled diabetics.",
+      "content": "Sepsis Six in 1 hour: Blood cultures, IV fluids 30 mL/kg,"
+    },
+    {
+      "domain": "Urosepsis & ESBL",
+      "content": "Life-threatening organ dysfunction from Hypotension, tachycardia, tachypnea oliguria, hyperlactatemia (>2 mmol/L),"
+    },
+    {
+      "domain": "Enterobacteriacea",
+      "content": "lactate. ESBL: Plasmid-mediated resistance to leukocytosis with bandemia. Estil rise Carbapenems (Meropenem) first line for"
+    },
+    {
+      "domain": "AUTI & Acute Bacterial CAUTI: Biofilm on Foley",
+      "content": "CAUTI: Fever, cloudy urine. CAUTI: Remove/replace Foley; treat if symptomatic. Prostatitis: Avoid vigorous massage! Ciprofloxacin or"
+    },
+    {
+      "domain": "Prostatitis: Ascending coliforms into",
+      "content": "Prostatitis: High fever, perineal/pelvic pain,"
+    },
+    {
+      "domain": "prostatic ducts in males.",
+      "content": "TMP-SMZ for 4-6 weeks. exquisite tender boggy prostate on gentle"
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which clinical feature definitively differentiates Acute Simple Cystitis from Acute Pyelonephritis?",
+      "options": {
+        "A": "Total absence of systemic signs (fever, chills) and costovertebral angle (CVA) tenderness",
+        "B": "Presence of microscopic hematuria",
+        "C": "Severe burning dysuria and frequency",
+        "D": "Cloudy foul-smelling morning urine",
+        "E": "Leukocyte esterase on urine dipstick"
+      },
+      "correct_option": "A",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the recommended first-line empiric oral therapy for acute uncomplicated bacterial cystitis in non-pregnant women?",
+      "options": {
+        "A": "Oral Nitrofurantoin 100 mg BID for 5 days (or single-dose Fosfomycin 3 g)",
+        "B": "Oral Ciprofloxacin 500 mg BID for 7 days",
+        "C": "Oral Amoxicillin 500 mg TID for 10 days",
+        "D": "Intramuscular Gentamicin single dose",
+        "E": "Oral Doxycycline 100 mg BID for 14 days"
+      },
+      "correct_option": "A",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Why are Fluoroquinolones (Ciprofloxacin) DISCOURAGED as first-line empiric therapy for simple cystitis?",
+      "options": {
+        "A": "They have zero urinary excretion in patients",
+        "B": "They cause immediate renal cortical necrosis",
+        "C": "Risk of collateral damage (resistance, C. difficile) and toxicities (tendon rupture, QT prolongation)",
+        "D": "They are inactive against Gram-negative bacteria",
+        "E": "Mandatory inpatient intravenous administration"
+      },
+      "correct_option": "B",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Under which clinical circumstance is a urinary tract infection formally classified as a 'Complicated UTI'?",
+      "options": {
+        "A": "Occurrence in a healthy premenopausal woman",
+        "B": "First episode of acute dysuria in a student",
+        "C": "Mild symptoms lasting less than 24 hours",
+        "D": "Male sex, pregnancy, catheter, urinary stones, diabetes, or immunosuppression",
+        "E": "Association with recent sexual intercourse"
+      },
+      "correct_option": "C",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why can the chemical urine dipstick Nitrite Test yield a FALSE-NEGATIVE result in a confirmed symptomatic UTI?",
+      "options": {
+        "A": "High dietary intake of animal protein",
+        "B": "Urine specific gravity exceeding 1.030",
+        "C": "Presence of heavy calcium oxalate crystals",
+        "D": "Microscopic hematuria with dysmorphic RBCS",
+        "E": "Infecting organism lacks nitrate reductase (Enterococcus, Staph) or bladder dwell was <4h"
+      },
+      "correct_option": "E",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In which patient population is routine screening and treatment of Asymptomatic Bacteriuria (ASB) strongly indicated?",
+      "options": {
+        "A": "Elderly individuals residing in nursing homes",
+        "B": "Pregnant women and patients prior to invasive urological mucosal procedures",
+        "C": "Patients with chronic indwelling Foley catheters",
+        "D": "Well-controlled asymptomatic diabetic patients",
+        "E": "Paraplegic patients on intermittent catheterization"
+      },
+      "correct_option": "B",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why must Asymptomatic Bacteriuria (ASB) be aggressively screened and treated in all pregnant women?",
+      "options": {
+        "A": "Untreated ASB carries a 20-40% risk of pyelonephritis, causing preterm labor and low birth weight",
+        "B": "ASB triggers maternal polycystic kidney disease",
+        "C": "ASB directly induces maternal autoimmune thyroiditis",
+        "D": "ASB causes first-trimester uterine rupture",
+        "E": "ASB prevents the normal pregnancy rise in GFR"
+      },
+      "correct_option": "A",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which antimicrobial regimen is considered SAFE and preferred for treating bacterial cystitis during early pregnancy?",
+      "options": {
+        "A": "Oral Ciprofloxacin 500 mg BID for 7 days",
+        "B": "Oral Doxycycline 100 mg BID for 10 days",
+        "C": "Oral Cephalexin 500 mg QID (or Amoxicillin-Clavulanate) for 5 to 7",
+        "D": "Intramuscular Gentamicin daily for 14 days",
+        "E": "High-dose oral Tetracycline with dairy"
+      },
+      "correct_option": "C",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Why are Fluoroquinolones (e.g., Ciprofloxacin) strictly CONTRAINDICATED throughout all trimesters of pregnancy?",
+      "options": {
+        "A": "Rapid induction of acute maternal hypercalcemia",
+        "B": "Destruction of fetal type Il pneumocytes",
+        "C": "Neonatal polycythemia and macroglossia",
+        "D": "Complete suppression of placental progesterone",
+        "E": "Risk of cartilage toxicity, fetal arthropathy, and permanent skeletal malformations"
+      },
+      "correct_option": "E",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why should Trimethoprim-Sulfamethoxazole (TMP-SMZ) be avoided in the 1st trimester and near term in pregnancy?",
+      "options": {
+        "A": "Causes fetal spastic quadriplegia and microcephaly",
+        "B": "Triggers severe maternal hypothermia in labor",
+        "C": "Induces acute cortical necrosis in all mothers",
+        "D": "1st tri: antifolate neural tube defects; 3rd tri: bilirubin displacement causing Kernicterus",
+        "E": "Completely blocks fetal thyroid hormone synthesis"
+      },
+      "correct_option": "D",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the clinical definition of Recurrent Urinary Tract Infections (rUTls) in an adult female?",
+      "options": {
+        "A": ">=2 symptomatic culture-proven episodes in 6 months, or >=3 episodes in 12 months",
+        "B": "Continuous refractory dysuria lasting >30 days",
+        "C": "One episode of cystitis every 3 years",
+        "D": "Microscopic hematuria lasting >6 months alone",
+        "E": "Failure of single-dose ampicillin in 1 hour"
+      },
+      "correct_option": "A",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In postmenopausal women with recurrent uncomplicated cystitis, which non-antibiotic intervention is proven effective?",
+      "options": {
+        "A": "Prophylactic daily high-dose oral vitamin C",
+        "B": "Topical vaginal Estrogen cream (restores lactobacilli and normal acidic vaginal pH)",
+        "C": "Routine continuous low-dose loop diuretics",
+        "D": "Daily cranberry juice exceeding 2 liters",
+        "E": "Complete surgical removal of the bladder"
+      },
+      "correct_option": "B",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the mechanism by which D-Mannose and Cranberry proanthocyanidins help prevent recurrent E. coli UTIs?",
+      "options": {
+        "A": "They act as bactericidal cell-wall disruptors",
+        "B": "They paralyze bacterial flagellar motors",
+        "C": "They competitively bind FimH adhesins on Type 1 fimbriae, blocking urothelial adherence",
+        "D": "They alkalize the urine to pH > 8.5",
+        "E": "They destroy all bacterial plasmid DNA"
+      },
+      "correct_option": "C",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which pathognomonic urinalysis microscopy finding confirms bacterial infection of the renal parenchyma (Pyelonephritis)?",
+      "options": {
+        "A": "Large calcium oxalate octahedral crystals",
+        "B": "Squamous epithelial cells and bacteria",
+        "C": "Pure Red Blood Cell casts exclusively",
+        "D": "White Blood Cell (WBC) Casts (leukocyte casts) embedded in Tamm-Horsfall protein",
+        "E": "Pure amorphous urate precipitation"
+      },
+      "correct_option": "D",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Urinary Tract Infections & Pyelonephritis - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why is Nitrofurantoin completely INEFFECTIVE and contraindicated for the treatment of Acute Pyelonephritis?",
+      "options": {
+        "A": "It is rapidly neutralized by gastric acid",
+        "B": "It is metabolized into insoluble gas by flora",
+        "C": "It concentrates strictly in the bladder lumen, yielding negligible renal parenchymal/tissue levels",
+        "D": "It triggers acute hemolysis in all patients",
+        "E": "It permanently binds tubular basement membranes"
+      },
+      "correct_option": "C",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the recommended empiric intravenous antibiotic for a hospitalized patient with acute pyelonephritis without shock?",
+      "options": {
+        "A": "Intravenous Vancomycin monotherapy 15 mg/kg",
+        "B": "Intravenous Ceftriaxone (1 g once daily) or Cefepime",
+        "C": "Intravenous Metronidazole 500 mg TID",
+        "D": "Oral Erythromycin ethylsuccinate",
+        "E": "Subcutaneous low-molecular-weight heparin"
+      },
+      "correct_option": "B",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "A patient with pyelonephritis remains febrile with leukocytosis after 72 hours of appropriate IV",
+      "options": {
+        "A": "Repeat urine dipstick with chemical nitrite",
+        "B": "24-hour ambulatory blood pressure monitoring",
+        "C": "Contrast-Enhanced Renal CT (or US) to rule out renal/perinephric",
+        "D": "Plain pelvic X-ray for iliac bone density",
+        "E": "Lumbar puncture to analyze CSF pressure"
+      },
+      "correct_option": "C",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the definitive management of an obstructing ureteral stone with acute pyelonephritis and hydronephrosis?",
+      "options": {
+        "A": "Conservative outpatient hydration and analgesia",
+        "B": "Immediate extracorporeal shock wave lithotripsy",
+        "C": "High-dose oral tamsulosin and discharge home",
+        "D": "Urological EMERGENCY: urgent decompression via double-j (DJ) stent or PCN plus IV antibiotics",
+        "E": "Immediate open radical nephrectomy in 1 hour"
+      },
+      "correct_option": "D",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What life-threatening gas-forming renal infection occurs primarily in diabetics and shows parenchymal gas on CT?",
+      "options": {
+        "A": "Acute post-streptococcal glomerulonephritis",
+        "B": "Emphysematous Pyelonephritis (EPN)",
+        "C": "Minimal change disease with lipoid nephrosis",
+        "D": "Medullary sponge kidney with microlithiasis",
+        "E": "Benign angiomyolipoma with hemorrhage"
+      },
+      "correct_option": "A",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What clinicopathological features characterize Xanthogranulomatous Pyelonephritis (XPN)?",
+      "options": {
+        "A": "Chronic granulomatous mass with lipid foamy macrophages and staghorn calculus, mimicking RCC",
+        "B": "Acute allergic eosinophilic tubulitis from drugs",
+        "C": "Congenital bilateral collecting duct microcysts",
+        "D": "Primary urothelial carcinoma of bladder dome",
+        "E": "Bilateral renal infarction from cardiac emboli"
+      },
+      "correct_option": "E",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Urinary Tract Infections & Pyelonephritis - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the recommended antibiotic duration and drug choice for Acute Bacterial Prostatitis for tissue penetration?",
+      "options": {
+        "A": "Single-dose oral cephalexin 500 mg",
+        "B": "3 days of oral nitrofurantoin",
+        "C": "4 to 6 weeks of Fluoroquinolone (Ciprofloxacin) or TMP-SMZ for therapeutic prostatic penetration",
+        "D": "Intravenous aminoglycosides for 6 months",
+        "E": "Lifelong daily nitrofurantoin suppression"
+      },
+      "correct_option": "D",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the management of Asymptomatic Candiduria in an ICU patient with an indwelling Foley catheter?",
+      "options": {
+        "A": "Immediate IV Amphotericin B for 14 days",
+        "B": "Intravenous high-dose Micafungin for 21 days",
+        "C": "Bilateral percutaneous nephrostomy placement",
+        "D": "Continuous bladder irrigation with hypochlorite",
+        "E": "Antifungals NOT indicated; remove or replace the catheter (resolves candiduria in >50% of cases)"
+      },
+      "correct_option": "D",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Which antifungal agent is the DRUG OF CHOICE for symptomatic Candida albicans cystitis due to high active urinary levels?",
+      "options": {
+        "A": "Oral Fluconazole (excreted largely unchanged by kidneys, achieving high active urine levels)",
+        "B": "Caspofungin (negligible active urinary excretion)",
+        "C": "Voriconazole (liver metabolized, <2% in urine)",
+        "D": "Posaconazole oral suspension",
+        "E": "Lipid Amphotericin B (poor urinary excretion)"
+      },
+      "correct_option": "C",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the single most effective intervention for preventing Catheter-Associated Urinary Tract Infections (CAUTI)?",
+      "options": {
+        "A": "Daily routine antibiotic ointments at meatus",
+        "B": "Routine changing of catheter bags every 6 hours",
+        "C": "Minimizing catheter use, closed sterile drainage, and prompt removal when no longer indicated",
+        "D": "Continuous prophylactic oral cephalexin",
+        "E": "Routine weekly bladder washouts with peroxide"
+      },
+      "correct_option": "B",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why are all urinary tract infections occurring in adult males clinically classified as Complicated UTIs?",
+      "options": {
+        "A": "Male infections are caused by obligate anaerobes",
+        "B": "Long urethra and prostatic fluid make cystitis rare; an underlying anatomical or functional lesion exists",
+        "C": "Males lack cell-mediated immunity to coliforms",
+        "D": "Male urothelium is impermeable to antibiotics",
+        "E": "Male UTIs always require urgent orchiectomy"
+      },
+      "correct_option": "B",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "A patient with fever and flank pain has a urine culture yielding Proteus mirabilis with a urinary pH of 8.2. High risk of:",
+      "options": {
+        "A": "Pure radiolucent uric acid stones",
+        "B": "Hexagonal flat cystine stones",
+        "C": "Bipyramidal calcium oxalate dihydrate stones",
+        "D": "Large branching Struvite (Magnesium Ammonium Phosphate / Staghorn) calculi casting calyces",
+        "E": "2,8-Dihydroxyadenine stones"
+      },
+      "correct_option": "D",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Urinary Tract Infections & Pyelonephritis - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In patients with severe Urosepsis and high risk of infection with ESBL-producing Enterobacteriaceae, what is FIRST-LINE?",
+      "options": {
+        "A": "Oral Ciprofloxacin or Levofloxacin",
+        "B": "Intravenous Ampicillin-Sulbactam",
+        "C": "Oral Cefuroxime axetil",
+        "D": "Intramuscular Penicillin G benzathine",
+        "E": "Intravenous Carbapenems (Meropenem, Imipenem-Cilastatin, or Ertapenem)"
+      },
+      "correct_option": "E",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What microbiological mechanism defines an Extended-Spectrum Beta-Lactamase (ESBL) produced by resistant E. coli / Klebsiella?",
+      "options": {
+        "A": "Hydrolysis of all beta-lactams including carbapenem",
+        "B": "Mutation in DNA gyrase subunits GyrA and ParC",
+        "C": "Overexpression of aminoglycoside transferases",
+        "D": "Methylation of 30S ribosomal subunits",
+        "E": "Enzymes hydrolyzing penicillins, cephalosporins, and aztreonam, but reliably inhibited by carbapenems"
+      },
+      "correct_option": "E",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the role of renal imaging in an otherwise healthy young woman with acute uncomplicated pyelonephritis who improves in 48h?",
+      "options": {
+        "A": "Routine imaging is MANDATORY in all within 2h",
+        "B": "Imaging indicated for histological GN typing",
+        "C": "Nuclear scan required to measure urea excretion",
+        "D": "Plain radiography to count podocyte density",
+        "E": "Routine imaging is NOT indicated; reserved for patients with persistent fever >72h or suspected obstruction"
+      },
+      "correct_option": "E",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "A 21-year-old male presents with burning dysuria and clear urethral discharge. Urinalysis shows 30 WBCS/HPF, but cultures are sterile. Pathogen:",
+      "options": {
+        "A": "Uropathogenic Escherichia coli",
+        "B": "Proteus mirabilis",
+        "C": "Enterococcus faecalis",
+        "D": "Chlamydia trachomatis (obligate intracellular organism causing non-gonococcal urethritis / sterile pyuria)",
+        "E": "Pseudomonas aeruginosa"
+      },
+      "correct_option": "D",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Phenazopyridine is used as an OTC urinary analgesic for acute severe dysuria. What patient education point is essential?",
+      "options": {
+        "A": "Harmless bright orange/red urine discoloration; limit to <=2 days to avoid masking worsening or methemoglobinemia",
+        "B": "Should be taken continuously for 6 months",
+        "C": "Cures the bacterial infection without antibiotics",
+        "D": "Permanently prevents future bladder tumors",
+        "E": "Turns skin and saliva bright metallic green"
+      },
+      "correct_option": "A",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What quantitative threshold defines clinically significant bacteriuria in a symptomatic woman with acute simple cystitis?",
+      "options": {
+        "A": ">= 10^7 CFU/mL in three consecutive voids",
+        "B": "Exactly 10^6 CFU/mL of polymicrobial organisms",
+        "C": "Any bacteria on external skin culture",
+        "D": "Zero colonies after 7 days of incubation",
+        "E": ">= 10^3 CFU/mL of a single uropathogen (e.g., E. coli)"
+      },
+      "correct_option": "E",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Urinary Tract Infections & Pyelonephritis - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the recommended antibiotic duration for uncomplicated Acute Pyelonephritis treated with oral Fluoroquinolones vs Beta-lactams?",
+      "options": {
+        "A": "Fluoroquinolones for 28 days; Beta-lactams for 2 days",
+        "B": "Fluoroquinolones for 7 days; Beta-lactams (e.g., Cefpodoxime, Amox-Clav) for 10 to 14 days due to higher relapse rates",
+        "C": "Both agents require exactly 6 weeks of therapy",
+        "D": "Both agents given as a single oral dose only",
+        "E": "Fluoroquinolones require lifelong daily suppression"
+      },
+      "correct_option": "D",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the underlying cause of 'Honeymoon Cystitis' frequently occurring in young, sexually active adult females?",
+      "options": {
+        "A": "Autoimmune destruction of detrusor receptors",
+        "B": "Excessive secretion of prostatic fluid",
+        "C": "Mechanical obliteration of the UV junction",
+        "D": "Mechanical massage of periurethral/rectal flora (E. coli, S. saprophyticus) into short female urethra",
+        "E": "Fungal colonization of distal collecting tubules"
+      },
+      "correct_option": "D",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which antibiotic option is a SINGLE-DOSE oral therapy approved for uncomplicated bacterial cystitis for non-compliant patients?",
+      "options": {
+        "A": "Nitrofurantoin 100 mg single dose",
+        "B": "Ciprofloxacin 750 mg single dose",
+        "C": "Fosfomycin trometamol 3 g dissolved in water taken as a single oral dose",
+        "D": "Ampicillin 2 g single dose",
+        "E": "Doxycycline 200 mg single dose"
+      },
+      "correct_option": "C",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In patients with severe renal impairment (eGFR < 30 mL/min), why is Nitrofurantoin strictly CONTRAINDICATED?",
+      "options": {
+        "A": "It is excreted by lungs causing alveolar collapse",
+        "B": "Fails to reach bactericidal urine levels; systemic accumulation causes toxic peripheral neuropathy and pulmonary fibrosis",
+        "C": "Produces severe hyperkalemia and cardiac arrest",
+        "D": "Triggers acute angle-closure glaucoma",
+        "E": "Neutralizes circulating antidiuretic hormone"
+      },
+      "correct_option": "B",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "A 24yo female has 2d of dysuria, urgency, and frequency without fever or CVA pain. Dipstick shows LE(+) and nitrite(+). First-line:",
+      "options": {
+        "A": "Simple Cystitis: oral Nitrofurantoin 100 mg BID x 5d (or Fosfomycin 3g single dose)",
+        "B": "Acute Pyelonephritis: admit for IV Ceftriaxone",
+        "C": "Acute Interstitial Nephritis: oral prednisone",
+        "D": "Asymptomatic Bacteriuria: hydration alone",
+        "E": "Urolithiasis: emergency CT and shockwave lithotripsy"
+      },
+      "correct_option": "A",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "A 62yo diabetic female has fever (39.2",
+      "options": {
+        "C": "Emergency open right nephrectomy in 30 min",
+        "A": "Discharge on ciprofloxacin and elective ESWL",
+        "B": "Oral tamsulosin and outpatient hydration",
+        "D": "IV fluids + broad-spectrum antibiotics (Meropenem) and URGENT decompression (DJ stent or PCN)",
+        "E": "Bed rest and high-dose IV loop diuretics"
+      },
+      "correct_option": "D",
+      "explanation": "**Acute Pyelonephritis**: Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d.\n\n**parenchyma.**: Hallmark: White Blood Cell (WBC) Casts in",
+      "masterclass_id": 38,
+      "masterclass_title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    }
+  ]
+}

@@ -1,0 +1,891 @@
+{
+  "id": 8,
+  "title": "Loop of Henle - Histology Lecture",
+  "department": "Histology",
+  "department_desc": "Microscopic architecture of renal cortex, filtration barrier, loop of Henle and vasculature",
+  "booklet_pages": "Pages 29 - 32",
+  "pdf_pages": [
+    31,
+    32,
+    33,
+    34
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 8 - HIGH-YIELD HISTOLOGY & COUNTERCURRENT MATRIX",
+  "summary_table": [
+    {
+      "domain": "present but shorter with fewer microvilli than",
+      "content": "organic solutes, glucose, and amino acids; water"
+    },
+    {
+      "domain": "(Pars Recta of PCT)",
+      "content": "medulla; high metabolic demand renders it"
+    },
+    {
+      "domain": "PCT; abundant mitochondria.",
+      "content": "permeable. vulnerable to ischemic ATN. Progressive osmotic concentration of tubular fluid,"
+    },
+    {
+      "domain": "Thin Descending Limb",
+      "content": "High water permeability via constitutive Simple squamous epithelium (Types I-IV); thin"
+    },
+    {
+      "domain": "(tDLH)",
+      "content": "cytoplasm, few blunt microvilli, nuclei bulge into Aquaporin-1 (AQP1); virtually impermeable to NaCI reaching hyperosmolality (~1200 mOsm/kg) at the and urea. hairpin bend."
+    },
+    {
+      "domain": "Simple squamous epithelium; found ONLY in",
+      "content": "Passive component of countercurrent COMPLETELY impermeable to water, highly"
+    },
+    {
+      "domain": "Thin Ascending Limb",
+      "content": "permeable to NaCl (passive reabsorption down multiplication; dissipates high tubular NaCl"
+    },
+    {
+      "domain": "from inner to outer medulla.",
+      "content": "gradient) and urea. concentration without water movement. Apical NKCC2 cotransporter; apical ROM K+ Paracellular Ca2+/Mg2+ reabsorption via"
+    },
+    {
+      "domain": "Thick Ascending Limb",
+      "content": "Claudin-16/19; Target of Loop Diuretics"
+    },
+    {
+      "domain": "(TAL / Diluting Segment) prominent basolateral infoldings packed with",
+      "content": "recycling; basolateral Na+/K+ ATPase; lumen-positive potential (+8 to +10 mV); (Furosemide); Defective in Bartter Syndrome;"
+    },
+    {
+      "domain": "elongated mitochondria (basal striations).",
+      "content": "Secretes Uromodulin. water-impermeable."
+    },
+    {
+      "domain": "Macula Densa",
+      "content": "Mediates Tubuloglomerular Feedback (TGF) to Chemoreceptor sensing luminal NaCI load/flow rate via apical NKCC2; signals juxtaglomerular control GFR and modulates systemic Renin release"
+    },
+    {
+      "domain": "(Late TAL plaque)",
+      "content": "cells through adenosine / PGE2."
+    },
+    {
+      "domain": "hyperchromatic nuclei contacting vascular",
+      "content": "by JG cells."
+    },
+    {
+      "domain": "pole.",
+      "content": "Target of Aldosterone (Spironolactone) & ADH Principal cells: Na+ reabsorption (ENaC) & K+"
+    },
+    {
+      "domain": "Simple cuboidal to tall columnar epithelium;",
+      "content": "secretion, water reabsorption (AQP2 via ADH);"
+    },
+    {
+      "domain": "distinct cell boundaries; Principal cells (pale,",
+      "content": "(Tolvaptan); Final regulation of urine osmolality"
+    },
+    {
+      "domain": "central cilium) & Intercalated cells (dark,",
+      "content": "Intercalated cells: H+ secretion (Type A) or HC03- and acid-base homeostasis."
+    },
+    {
+      "domain": "microplicae).",
+      "content": "(Type B)."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The Loop of Henle is a U-shaped hairpin nephron segment consisting of which histological sequence of tubular subdivisions?",
+      "options": {
+        "A": "Thick descending limb (pars recta), thin descending limb, thin ascending limb, and thick ascending limb",
+        "B": "Intercalated segment, principal tubule, and Bellini duct",
+        "C": "Thin descending limb, convoluted ascending limb, and arched tubule",
+        "D": "Distal convoluted tubule, macula densa, and connecting duct",
+        "E": "Proximal convoluted tubule, collecting tubule, and papillary duct"
+      },
+      "correct_option": "A",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The Thick Descending Limb of Henle's Loop represents the straight continuation of the proximal convoluted tubule, also termed:",
+      "options": {
+        "A": "Pars convoluta of distal tubule",
+        "B": "Pars recta of proximal tubule IC] Connecting tubule",
+        "D": "Papillary duct of Bellini",
+        "E": "Interlobular collecting duct"
+      },
+      "correct_option": "A",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Histologically, the epithelial lining of the Thick Descending Limb (pars recta) of Henle's loop consists of:",
+      "options": {
+        "A": "Pseudostratified ciliated columnar epithelium",
+        "B": "Stratified columnar epithelium with goblet cells",
+        "C": "Simple cuboidal epithelium with a prominent apical brush border and abundant mitochondria",
+        "D": "Simple squamous epithelium with fenestrations",
+        "E": "Low cuboidal epithelium completely devoid of microvilli"
+      },
+      "correct_option": "C",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "How does the brush border of the Thick Descending Limb compare ultrastructurally with that of the Proximal Convoluted Tubule?",
+      "options": {
+        "A": "It is composed of motile cilia rather than microvilli",
+        "B": "It is completely absent in the thick descending limb",
+        "C": "It contains three times more microvilli than the PCT",
+        "D": "It is shorter with fewer microvilli and lower endocytic complexity than PCT",
+        "E": "It possesses thick keratin plaques on the apical surface"
+      },
+      "correct_option": "D",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The transition from the thick descending limb to the Thin Descending Limb of Henle is marked histologically by an abrupt shift from:",
+      "options": {
+        "A": "Urothelium to non-keratinized stratified squamous",
+        "B": "Simple squamous epithelium to transitional epithelium",
+        "C": "Simple columnar to pseudostratified epithelium",
+        "D": "Stratified squamous to simple cuboidal epithelium",
+        "E": "Simple cuboidal epithelium to simple squamous epithelium"
+      },
+      "correct_option": "E",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In cross-sections of the renal medulla, how can the Thin Descending Limb of Henle be distinguished from blood capillary Vasa Recta?",
+      "options": {
+        "A": "Thin limbs have simple squamous cells with bulging nuclei and NO intraluminal RBCs",
+        "B": "Vasa recta have completely closed lumens filled with crystal casts",
+        "C": "Vasa recta have a stratified epithelial lining with cilia",
+        "D": "Thin limbs are lined by simple cuboidal epithelium with dense microvilli",
+        "E": "Thin limbs contain smooth muscle layers in their tunica media"
+      },
+      "correct_option": "A",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The Thin Descending Limb of Henle possesses extraordinarily high water permeability primarily due to abundant apical and basolateral expression of:",
+      "options": {
+        "A": "Urea transporters UT-A1 and UT-A3",
+        "B": "Aquaporin-1 (AQP1) water channels constitutively expressed",
+        "C": "Aquaporin-2 regulated by vasopressin (ADH)",
+        "D": "Aquaporin-4 confined to peritubular capillaries",
+        "E": "Epithelial sodium channels (ENaC)"
+      },
+      "correct_option": "A",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Regarding permeability characteristics, the epithelial cells of the Thin Descending Limb of Henle are functionally:",
+      "options": {
+        "A": "Highly permeable to proteins and glucose",
+        "B": "Completely impermeable to both water and all solutes",
+        "C": "Freely permeable to water, but virtually impermeable to NaCl and urea [D Active secretors of potassium into the tubular lumen",
+        "E": "Highly permeable to NaCl and urea, but completely impermeable to water"
+      },
+      "correct_option": "C",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Ultrastructurally, the simple squamous epithelial cells of the thin descending limb are characterized by:",
+      "options": {
+        "A": "Multiple layers of smooth muscle and elastic fibers",
+        "B": "Abundant secretory granules containing renin and dopamine",
+        "C": "Giant multinucleated cells anchored to peritubular capillaries",
+        "D": "A thin cytoplasm with few short blunt microvilli, sparse organelles, and tight junctions",
+        "E": "Intensely acidophilic cytoplasm packed with lysosomes"
+      },
+      "correct_option": "D",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In short-looped (cortical) nephrons, Henle's loop differs anatomically from juxtamedullary nephrons because it:",
+      "options": {
+        "A": "Consists exclusively of thin descending and thin ascending limbs",
+        "B": "Empties directly into the renal pelvis without collecting ducts",
+        "C": "Extends all the way to the tip of the renal papilla",
+        "D": "Possesses two hairpin turns within the renal cortex",
+        "E": "Lacks a thin ascending limb completely or has an extremely short thin segment"
+      },
+      "correct_option": "D",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In long-looped (juxtamedullary) nephrons, the hairpin turn of the loop of Henle is located within the:",
+      "options": {
+        "A": "Inner medulla, reaching deep toward the apex of the renal pyramid",
+        "B": "Minor calyx lumen bathed in final urine",
+        "C": "Outer cortex immediately beneath the fibrous capsule",
+        "D": "Tunica adventitia of the arcuate artery",
+        "E": "Cortical labyrinth between the convoluted tubules"
+      },
+      "correct_option": "E",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the primary physiological consequence of water reabsorption along the water-permeable Thin Descending Limb?",
+      "options": {
+        "A": "Progressive dilution of tubular fluid toward 100 mOsm/kg",
+        "B": "Progressive concentration of tubular fluid, reaching hyperosmolality (~1200 mOsm/kg) at the hairpin bend",
+        "C": "Neutralization of tubular pH to strictly 7.40",
+        "D": "Immediate precipitation of uric acid crystals in the lumen",
+        "E": "Total cessation of tubular fluid movement through the loop"
+      },
+      "correct_option": "B",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which histological type of thin Henle's epithelium (Types I-IV classification) lines the short loops of cortical nephrons?",
+      "options": {
+        "A": "Type IV transitional urothelium with umbrella cells",
+        "B": "Type III tall pseudostratified columnar epithelium",
+        "C": "Type I epithelium (very thin, simple non-interdigitating squamous cells)",
+        "D": "Type V stratified squamous keratinized epithelium",
+        "E": "Type II complex interdigitating cuboidal epithelium"
+      },
+      "correct_option": "C",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The basement membrane supporting the simple squamous cells of Henle's thin limb is histologically continuous with the basement membrane of the:",
+      "options": {
+        "A": "Parietal layer of Bowman's capsule and renal papilla",
+        "B": "Interlobular fibrous connective tissue stroma only",
+        "C": "Glomerular capillary endothelium via the vascular pole",
+        "D": "Pars recta of proximal tubule proximally and thick ascending limb distally",
+        "E": "Perinephric Gerota's fascia"
+      },
+      "correct_option": "D",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Loop of Henle - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In direct contrast to the thin descending limb, the epithelial cells of the Thin Ascending Limb are functionally:",
+      "options": {
+        "A": "Impermeable to water, but permeable to passive NaCI reabsorption",
+        "B": "Highly permeable to large serum proteins such as albumin",
+        "C": "Active transporters of bicarbonate via proton pumps",
+        "D": "Secretors of concentrated glucose into the medullary interstitium",
+        "E": "Highly permeable to water and impermeable to NaCl"
+      },
+      "correct_option": "A",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "The transition from the thin ascending limb to the Thick Ascending Limb (TAL) occurs anatomically at the junction between:",
+      "options": {
+        "A": "The renal cortex and the fibrous renal capsule",
+        "B": "The inner medulla and the outer medulla",
+        "C": "The renal pyramid and the minor calyx",
+        "D": "The medullary ray and the cortical labyrinth",
+        "E": "The vascular pole and the urinary pole"
+      },
+      "correct_option": "A",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Histologically, the epithelial lining of the Thick Ascending Limb (TAL / pars recta of distal tubule) consists of:",
+      "options": {
+        "A": "Simple columnar epithelium with dense tall microvilli",
+        "B": "Stratified squamous non-keratinized epithelium",
+        "C": "Simple cuboidal epithelium with prominent basolateral striations and NO brush border",
+        "D": "Simple squamous non-striated epithelium",
+        "E": "Pseudostratified ciliated columnar epithelium"
+      },
+      "correct_option": "B",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Ultrastructurally, the prominent 'basal striations' observed in TAL cuboidal epithelial cells are formed by:",
+      "options": {
+        "A": "Dense arrays of rough endoplasmic reticulum cisternae synthesizing renin",
+        "B": "Longitudinal stacks of Golgi complexes producing mucin",
+        "C": "Parallel bundles of keratin intermediate filaments in the apical cytoplasm",
+        "D": "Deep basolateral plasma membrane infoldings enclosing vertically oriented, elongated mitochondria",
+        "E": "Linear arrays of endocytic vacuoles containing reabsorbed albumin"
+      },
+      "correct_option": "C",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "The abundant elongated mitochondria packed within the basolateral infoldings of the TAL provide ATP primarily for:",
+      "options": {
+        "A": "Passive diffusion of water through aquaporin channels",
+        "B": "Lysosomal degradation of filtered immunoglobulins",
+        "C": "Apical H+/K+ ATPase pumps causing severe urine acidification",
+        "D": "Apical secretion of Tamm-Horsfall glycoprotein into blood",
+        "E": "Basolateral Na+/K+ ATPase pumps driving active sodium reabsorption"
+      },
+      "correct_option": "D",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "On the apical (luminal) membrane of TAL cuboidal epithelial cells, active transport of solutes is mediated by the electroneutral:",
+      "options": {
+        "A": "Na+-K+-2Cl- cotransporter isoform 2 (NKCC2)",
+        "B": "H+-ATPase proton pump",
+        "C": "Epithelial sodium channel (ENaC)",
+        "D": "Na+/glucose cotransporter-2 (SGLT2)",
+        "E": "Na+/CI- cotransporter (NCCT / thiazide-sensitive)"
+      },
+      "correct_option": "E",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Loop of Henle - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The transepithelial electrical potential difference across the Thick Ascending Limb is characteristically:",
+      "options": {
+        "A": "Zero (completely isoelectric across all segments)",
+        "B": "Highly variable fluctuating between -100 mV and +100 mV",
+        "C": "Lumen-positive (+8 to +10 mV), driving paracellular Ca2+ and Mg2+ reabsorption",
+        "D": "Generated solely by passive chloride secretion",
+        "E": "Strongly lumen-negative (-70 mV)"
+      },
+      "correct_option": "C",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Paracellular reabsorption of Calcium (Ca2+) and Magnesium (Mg2+) across the TAL epithelium requires which specialized tight junction proteins?",
+      "options": {
+        "A": "Connexin-43 and desmoplakin",
+        "B": "Nephrin and podocin",
+        "C": "Occludin and E-cadherin",
+        "D": "Claudin-16 (paracellin-1) and Claudin-19",
+        "E": "Integrin alpha-3 beta-1 and dystroglycan"
+      },
+      "correct_option": "D",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Tamm-Horsfall Glycoprotein (Uromodulin) is the most abundant protein in normal human urine and is exclusively synthesized by:",
+      "options": {
+        "A": "Mesangial cells within the glomerular stalk",
+        "B": "Visceral podocytes of the renal corpuscle",
+        "C": "Endothelial cells of peritubular capillaries",
+        "D": "Principal cells of medullary collecting ducts",
+        "E": "Epithelial cells of the thick ascending limb and early distal convoluted tubule"
+      },
+      "correct_option": "E",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Under conditions of low tubular flow and concentrated acidic urine, Tamm-Horsfall glycoprotein precipitates to form:",
+      "options": {
+        "A": "The organic matrix of Hyaline Casts and pathological urinary casts",
+        "B": "Fibrin thrombi within the afferent arteriole",
+        "C": "Calcium oxalate monohydrate calculi",
+        "D": "Amyloid fibrils in the glomerular mesangium",
+        "E": "Dense immune complex spikes in the GBM"
+      },
+      "correct_option": "E",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why is the Thick Ascending Limb of Henle referred to physiologically as the 'Diluting Segment' of the nephron?",
+      "options": {
+        "A": "It converts urea into pure water via enzymatic hydrolysis",
+        "B": "Active NaCI reabsorption without water permeability dilutes fluid (~100 mOsm/kg)",
+        "C": "It synthesizes hypotonic saline within the epithelial cytoplasm",
+        "D": "Secretes massive volumes of water from vasa recta into lumen",
+        "E": "It reabsorbs water in huge quantities without transporting ions"
+      },
+      "correct_option": "A",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In light microscopy, how can cross-sections of the Thick Ascending Limb be reliably distinguished from Proximal Convoluted Tubules?",
+      "options": {
+        "A": "TAL epithelial cells are simple squamous with bulging nuclei",
+        "B": "TAL cells display intense apical PAS-positivity matching the PCT",
+        "C": "Wider, clearer lumens and sharp margins due to ABSENCE of brush border",
+        "D": "Smaller, irregular lumens occluded by cellular debris",
+        "E": "TAL tubules are surrounded by thick smooth muscle sphincters"
+      },
+      "correct_option": "C",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Loop of Henle - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Histologically, the Macula Densa appears under light microscopy as a localized plaque characterized by:",
+      "options": {
+        "A": "Giant binucleated cells filled with eosinophilic zymogen granules",
+        "B": "Fibroblastic cells embedded in dense collagenous extracellular matrix",
+        "C": "Clear vacuolated cells containing abundant glycogen deposits",
+        "D": "Flattened simple squamous endothelial cells with wide gaps",
+        "E": "Tall, narrow, crowded columnar epithelial cells with closely packed, hyperchromatic nuclei near the lumen"
+      },
+      "correct_option": "E",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the primary sensory function of the specialized epithelial cells of the Macula Densa?",
+      "options": {
+        "A": "Detecting tubular fluid NaCl concentration/flow and signaling juxtaglomerular cells to modulate renin release",
+        "B": "Synthesizing aldosterone to stimulate distal sodium reabsorption",
+        "C": "Monitoring venous pressure in the peritubular capillary network",
+        "D": "Secreting erythropoietin in response to local medullary hypoxia",
+        "E": "Measuring systemic arterial blood oxygen tension"
+      },
+      "correct_option": "A",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Countercurrent Multiplier system that establishes the hyperosmotic medullary gradient relies structurally upon.",
+      "options": {
+        "A": "Parallel arrangement of proximal convoluted tubules in the cortex",
+        "B": "Countercurrent fluid flow in adjacent descending (water-permeable) and ascending (NaCl-pumping, water-impermeable) limbs",
+        "C": "Active secretion of urea by cortical collecting ducts into lymphatics",
+        "D": "Complete absence of blood vessels throughout the medullary pyramids",
+        "E": "Rapid pulsatile blood flow through cortical interlobular veins"
+      },
+      "correct_option": "B",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The Vasa Recta function in the medullary countercurrent mechanism specifically as 'Countercurrent Exchangers' because they:",
+      "options": {
+        "A": "Secrete concentrated hypertonic urea into the papillary interstitium",
+        "B": "Contain thick muscular walls that prevent any solute or water movement",
+        "C": "Hairpin fenestrated loops passively preserve gradient without washout",
+        "D": "Actively pump sodium against massive gradients into the cortex",
+        "E": "Are completely separate from the systemic venous circulation"
+      },
+      "correct_option": "C",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Loop Diuretics (e.g., Furosemide, Bumetanide) produce potent diuresis by pharmacologically inhibiting which specific transport system in the TAL?",
+      "options": {
+        "A": "Epithelial sodium channel (ENaC) on principal cells",
+        "B": "Basolateral Na+/K+ ATPase pump directly",
+        "C": "Carbonic anhydrase enzyme in the cytoplasm",
+        "D": "Na+-K+-2Cl- cotransporter (NKCC2) on the apical plasma membrane",
+        "E": "Na+/H+ exchanger-3 (NHE3) in the brush border"
+      },
+      "correct_option": "D",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Bartter Syndrome is an autosomal recessive tubulopathy caused by loss-of-function mutations in TAL transport proteins, resulting in:",
+      "options": {
+        "A": "Pure isolated renal glycosuria with normal blood sugar",
+        "B": "Hypertension, hyperkalemia, and metabolic acidosis",
+        "C": "Acute anuric renal failure due to bilateral cortical necrosis",
+        "D": "Massive proteinuria with generalized edema and hyperlipidemia",
+        "E": "Hypokalemic metabolic alkalosis, hypercalciuria, nephrocalcinosis, and normal-to-low blood pressure"
+      },
+      "correct_option": "E",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Loop of Henle - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In histological sections of the medullary rays, which three tubular structures run parallel to one another?",
+      "options": {
+        "A": "Vasa recta, renal pelvis mucosa, and major calyx",
+        "B": "Straight proximal tubules (pars recta), thick ascending limbs, and cortical collecting ducts",
+        "C": "Papillary ducts of Bellini, arcuate veins, and lymphatics",
+        "D": "Interlobular arteries, afferent arterioles, and efferent arterioles",
+        "E": "Proximal convoluted tubules, distal convoluted tubules, and glomeruli"
+      },
+      "correct_option": "B",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Histologically, the transition from the distal convoluted tubule to the Collecting Tubule and Duct is marked by:",
+      "options": {
+        "A": "Massive infiltration of smooth muscle cells into the tubular wall",
+        "B": "Development of a dense brush border identical to the PCT",
+        "C": "Simple cuboidal epithelium showing very distinct lateral cell boundaries, clear cytoplasm, and centrally located spherical nuclei",
+        "D": "Conversion to stratified squamous non-keratinized epithelium",
+        "E": "Complete disappearance of the underlying basement membrane"
+      },
+      "correct_option": "C",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Principal (Light) Cells of the cortical and medullary collecting ducts are distinguished ultrastructurally by possessing:",
+      "options": {
+        "A": "Secretory vesicles storing inactive renin granules",
+        "B": "Multiple flagella providing active motility to urine",
+        "C": "Abundant brush border microvilli and dense apical canaliculi",
+        "D": "A single primary non-motile cilium, pale cytoplasm, basolateral membrane infoldings with Na+/K+ ATPase, and AQP2 channels",
+        "E": "Dense apical microplicae and abundant dark cytoplasmic granules"
+      },
+      "correct_option": "D",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Intercalated (Dark) Cells of the collecting ducts are rich in carbonic anhydrase and mitochondria, and their primary function is:",
+      "options": {
+        "A": "Reabsorption of filtered amino acids and glucose",
+        "B": "Degradation of parathyroid hormone and calcitonin",
+        "C": "Synthesis of Tamm-Horsfall glycoprotein for urinary cast formation",
+        "D": "Passive reabsorption of water in response to thirst",
+        "E": "Regulation of acid-base balance via active H+ secretion (Type A) or HC03- secretion (Type B)"
+      },
+      "correct_option": "E",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The large terminal collecting ducts that open onto the cribriform area of the renal papilla are the:",
+      "options": {
+        "A": "Papillary Ducts of Bellini, lined by tall, pale simple columnar epithelium",
+        "B": "Convoluted tubules of Ferrein",
+        "C": "Paramesonephric ducts of Müller",
+        "D": "Mesonephric ducts of Wolff",
+        "E": "Ducts of Rivinus"
+      },
+      "correct_option": "A",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Why does inhibition of NKCC2 by loop diuretics also cause significant urinary wasting of Calcium and Magnesium (hypercalciuria / hypermagnesuria)?",
+      "options": {
+        "A": "Loop diuretics directly bind and destroy calcium channels in the PCT",
+        "B": "Loss of lumen-positive potential (+8 mV) dissipates Ca2+/Mg2+ driving force",
+        "C": "Calcium precipitates with Tamm-Horsfall protein within the glomerulus",
+        "D": "Magnesium is actively secreted by principal cells via ENaC channels",
+        "E": "Stimulates parathyroid hormone degradation in collecting ducts"
+      },
+      "correct_option": "B",
+      "explanation": "**present but shorter with fewer microvilli than**: organic solutes, glucose, and amino acids; water\n\n**(Pars Recta of PCT)**: medulla; high metabolic demand renders it",
+      "masterclass_id": 8,
+      "masterclass_title": "Loop of Henle - Histology Lecture",
+      "department": "Histology"
+    }
+  ]
+}

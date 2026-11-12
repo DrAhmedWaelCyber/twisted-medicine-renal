@@ -1,0 +1,1021 @@
+{
+  "items" : [
+    {
+      "text" : "Twisted Medicine • Renal System Module • Lecture 17 MCQ Masterclass",
+      "x" : 0.2870370455075443,
+      "y" : 0.9774224804225952,
+      "w" : 0.5082304372727495,
+      "h" : 0.013178294499715193,
+      "conf" : 1
+    },
+    {
+      "text" : "Twisted Medicine Medical Series • Electrolyte Balance, Hypo\/Hypernatremia, Hypo\/Hyperkalemia & Tubulopathies • Standard Practice Bank",
+      "x" : 0.4074074198902602,
+      "y" : 0.96432170540046,
+      "w" : 0.7489711833450029,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "text" : "Page 3 of 4",
+      "x" : 0.9341563774365681,
+      "y" : 0.9760174417750936,
+      "w" : 0.07017271173825046,
+      "h" : 0.010935553444756385,
+      "conf" : 1
+    },
+    {
+      "text" : "Q29. [2025 Exam] What fraction of total plasma Calcium is",
+      "x" : 0.22222222311385456,
+      "y" : 0.9426388890831052,
+      "w" : 0.37448559167250145,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "physiologically active (ionized), and how does systemic Alkalosis",
+      "x" : 0.2417695514609053,
+      "y" : 0.9280523256540698,
+      "w" : 0.41358021670167555,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "trigger acute tetany?",
+      "x" : 0.10082304753086414,
+      "y" : 0.9149709303536822,
+      "w" : 0.1358024669143389,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] 100% ionized; alkalosis directly destroys peripheral motor nerves",
+      "x" : 0.23971194084362113,
+      "y" : 0.8990277777395599,
+      "w" : 0.40123456079255104,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] 10% ionized; alkalosis increases calcium filtration across glomeruli",
+      "x" : 0.24588477759773653,
+      "y" : 0.8873611111194659,
+      "w" : 0.4135802167016755,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] 80% ionized; alkalosis stimulates excessive calcitonin release",
+      "x" : 0.23148147506858732,
+      "y" : 0.8764631782685223,
+      "w" : 0.38477363826343847,
+      "h" : 0.0087403098742167,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] ~50% ionized (Ca2+); alkalosis decreases H+ binding to albumin,",
+      "x" : 0.23971193917181058,
+      "y" : 0.8640374677917284,
+      "w" : 0.4012345607925511,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "text" : "exposing negative charges that bind more Ca2+, lowering ionized Ca2+",
+      "x" : 0.24794237993827184,
+      "y" : 0.8524709301598836,
+      "w" : 0.41358021670167555,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] 5% ionized; alkalosis causes immediate bone demineralization",
+      "x" : 0.23251029451303137,
+      "y" : 0.8415697674903101,
+      "w" : 0.3868312715734326,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "Q30. [2024 Exam] In the renal tubule, where and how does Parathyroid",
+      "x" : 0.2582304582561727,
+      "y" : 0.8146802326489826,
+      "w" : 0.44650206175990076,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "Hormone (PTH) stimulate Calcium reabsorption?",
+      "x" : 0.19238683652263358,
+      "y" : 0.8015374678583466,
+      "w" : 0.3148148014860333,
+      "h" : 0.0102971574995252,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Proximal convoluted tubule via apical SGLT1 cotransporter",
+      "x" : 0.22325103487654302,
+      "y" : 0.7856782947448888,
+      "w" : 0.3641975210897578,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Thick ascending limb by opening paracellular water channels",
+      "x" : 0.22942387458847718,
+      "y" : 0.7740277777395598,
+      "w" : 0.3765432009906889,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Cortical collecting duct by inserting Aquaporin-2 water pores",
+      "x" : 0.2283950664094649,
+      "y" : 0.762361111301152,
+      "w" : 0.3744855916725014,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Glomerular capillaries by constricting efferent arterioles",
+      "x" : 0.21399176522633756,
+      "y" : 0.7506944442420822,
+      "w" : 0.3456790132342644,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Distal Convoluted Tubule (DCT) by activating apical TRPV5 channels and",
+      "x" : 0.2623456845421809,
+      "y" : 0.7390374678280656,
+      "w" : 0.4423868431235259,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "text" : "basolateral NCX1 extrusion",
+      "x" : 0.12242798557098761,
+      "y" : 0.7281976744549419,
+      "w" : 0.1625514360343885,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "Q31. [2023 Exam] Why do Thiazide diuretics decrease urinary calcium",
+      "x" : 0.2561728356995886,
+      "y" : 0.6875000001937983,
+      "w" : 0.4423867951399125,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "text" : "excretion (Hypocalciuria), making them effective in preventing recurrent",
+      "x" : 0.2623456713648837,
+      "y" : 0.6737467700455757,
+      "w" : 0.45884771766902516,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "text" : "calcium stones?",
+      "x" : 0.08847736769547321,
+      "y" : 0.6606782945026407,
+      "w" : 0.10699587648019851,
+      "h" : 0.010310077667236461,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Inhibiting NCC in DCT lowers intracellular Nat, enhancing basolateral",
+      "x" : 0.2520576086076819,
+      "y" : 0.6445833334101871,
+      "w" : 0.4218107019580385,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "NCX1 (3Na+\/Ca2+) activity and driving apical Ca2+ entry via TRPV5",
+      "x" : 0.2386831209876546,
+      "y" : 0.6329295865082794,
+      "w" : 0.39506170884618225,
+      "h" : 0.01030361758338072,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Thiazides precipitate calcium in the collecting duct as insoluble stones",
+      "x" : 0.2572016388888891,
+      "y" : 0.6213662790455426,
+      "w" : 0.4320987725407822,
+      "h" : 0.010174418555365827,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Thiazides directly block parathyroid hormone degradation",
+      "x" : 0.21913580675582975,
+      "y" : 0.6097383719234497,
+      "w" : 0.3559670598252015,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Thiazides convert all ionic calcium into metallic magnesium",
+      "x" : 0.22530864667352518,
+      "y" : 0.5981782945026408,
+      "w" : 0.3683127397261325,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Thiazides stimulate massive bone resorption of calcium",
+      "x" : 0.21399177386831267,
+      "y" : 0.5872222221322654,
+      "w" : 0.3456790132342645,
+      "h" : 0.008888888623979407,
+      "conf" : 1
+    },
+    {
+      "text" : "Q32. [2022 Exam] What is the primary effect of Parathyroid Hormone",
+      "x" : 0.25411522713477364,
+      "y" : 0.5610885015235881,
+      "w" : 0.43827157650353776,
+      "h" : 0.01171188566419823,
+      "conf" : 1
+    },
+    {
+      "text" : "(PTH) on renal Phosphate handling in the proximal convoluted tubule?",
+      "x" : 0.25617283206447217,
+      "y" : 0.5472383720203489,
+      "w" : 0.44650206175990076,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Stimulates phosphate reabsorption by inserting NaPi-lla cotransporters",
+      "x" : 0.25823045701646086,
+      "y" : 0.5312500000726744,
+      "w" : 0.4341563578671629,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Induces endocytosis and lysosomal degradation of apical NaPi-lla\/c",
+      "x" : 0.25000000696159097,
+      "y" : 0.5195833331226162,
+      "w" : 0.4176954353380503,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "cotransporters, causing marked phosphaturia",
+      "x" : 0.1748971226851851,
+      "y" : 0.5079295865870099,
+      "w" : 0.26748971519230297,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Converts inorganic phosphate into organic phospholipids",
+      "x" : 0.21810699146090545,
+      "y" : 0.49636627901526165,
+      "w" : 0.35390945050701406,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Blocks all glomerular filtration of phosphate completely",
+      "x" : 0.21296296725823038,
+      "y" : 0.4847383721475291,
+      "w" : 0.34362137992427033,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Increases basolateral phosphate extrusion into peritubular capillaries",
+      "x" : 0.25205761844135793,
+      "y" : 0.47317829472672024,
+      "w" : 0.4218107019580385,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "text" : "Q33. [2021 Exam] Fibroblast Growth Factor 23 (FGF23), secreted by",
+      "x" : 0.25000000430041147,
+      "y" : 0.43308785533065447,
+      "w" : 0.4300411392307881,
+      "h" : 0.011731266445583644,
+      "conf" : 1
+    },
+    {
+      "text" : "osteocytes in response to hyperphosphatemia, functions as a",
+      "x" : 0.23045267880658432,
+      "y" : 0.4193055556159086,
+      "w" : 0.3909464902098074,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "phosphaturic hormone by:",
+      "x" : 0.11831275886831273,
+      "y" : 0.4062500000726744,
+      "w" : 0.16666666666666666,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Directly stimulating gastrointestinal phosphate absorption",
+      "x" : 0.21913579646776424,
+      "y" : 0.39026162788275187,
+      "w" : 0.36008230245338296,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Hyperactivating calcium-sensing receptors in parathyroid glands",
+      "x" : 0.23868313152263365,
+      "y" : 0.3786337210029069,
+      "w" : 0.3950617088461822,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Down-regulating proximal tubule NaPi-lla\/c and inhibiting",
+      "x" : 0.2170781849022635,
+      "y" : 0.3670704134129902,
+      "w" : 0.3518518411888267,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "text" : "1-alpha-hydroxylase, reducing calcitriol synthesis",
+      "x" : 0.18415637502572027,
+      "y" : 0.3554166668955524,
+      "w" : 0.28600822304779633,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Stimulating medullary collecting duct ENaC channels",
+      "x" : 0.20576131138545972,
+      "y" : 0.34445090406708434,
+      "w" : 0.32921809070515184,
+      "h" : 0.011679586304558676,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Increasing renal tubular uric acid reabsorption via URAT1",
+      "x" : 0.21604937834362148,
+      "y" : 0.33208333352525493,
+      "w" : 0.34979423187063924,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "Q34. [2020 Exam] Where in the nephron is the majority (~60%) of",
+      "x" : 0.24176954399862838,
+      "y" : 0.3066666664538598,
+      "w" : 0.4135802167016755,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "text" : "filtered Magnesium reabsorbed, and what driving force governs this",
+      "x" : 0.2500000047668037,
+      "y" : 0.2921963826540688,
+      "w" : 0.4300411392307881,
+      "h" : 0.011718346277872715,
+      "conf" : 1
+    },
+    {
+      "text" : "transport?",
+      "x" : 0.06790123545874624,
+      "y" : 0.279796511799533,
+      "w" : 0.07000543486397222,
+      "h" : 0.010335474014282253,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Early proximal convoluted tubule via active Na+\/Mg2+ symport",
+      "x" : 0.2335390985390946,
+      "y" : 0.26375322995442424,
+      "w" : 0.38888888089162,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Inner medullary collecting duct via passive aquaporin channels",
+      "x" : 0.233539101131687,
+      "y" : 0.252180232630814,
+      "w" : 0.38888888089162,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Distal convoluted tubule via paracellular tight junctions exclusively",
+      "x" : 0.2427983471193418,
+      "y" : 0.24055232550872097,
+      "w" : 0.40740741273892006,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Thick Ascending Limb (TAL) via paracellular Claudin-16\/19, driven by the",
+      "x" : 0.26131686893004125,
+      "y" : 0.22819767422480608,
+      "w" : 0.4444444284499066,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "text" : "lumen-positive transepithelial potential (+8 mV)",
+      "x" : 0.18106996351165963,
+      "y" : 0.21735465113073338,
+      "w" : 0.27983537110142737,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Descending thin limb of Henle via facilitated glucose transporters",
+      "x" : 0.2397119291409466,
+      "y" : 0.20569444440226003,
+      "w" : 0.4012345607925511,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "Q35. [2024 Exam] Why does Hypercalcemia induce nephrogenic",
+      "x" : 0.2386831326646089,
+      "y" : 0.17884366961903336,
+      "w" : 0.40740741273892,
+      "h" : 0.011757105721367789,
+      "conf" : 1
+    },
+    {
+      "text" : "diabetes insipidus with marked polyuria and polydipsia?",
+      "x" : 0.21296295851337457,
+      "y" : 0.16497093017805226,
+      "w" : 0.3559670598252015,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Calcium directly destroys the posterior pituitary gland",
+      "x" : 0.20679012764917687,
+      "y" : 0.15041666688072358,
+      "w" : 0.33539094265152075,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Calcium converts all collecting duct urothelium into bone tissue",
+      "x" : 0.2355967127314813,
+      "y" : 0.13875322993625572,
+      "w" : 0.39300409952799475,
+      "h" : 0.010284237861633239,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Calcium stimulates massive renin release causing severe hypotension",
+      "x" : 0.25514403832304516,
+      "y" : 0.12718023261264533,
+      "w" : 0.43209877254078227,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Hypercalcemia stimulates hypothalamic thirst center destruction",
+      "x" : 0.23971193917181058,
+      "y" : 0.11555232563590129,
+      "w" : 0.4012345607925511,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[E) Excess calcium activates CaSR on basolateral TAL and collecting ducts,",
+      "x" : 0.25925926476337435,
+      "y" : 0.1039244186228197,
+      "w" : 0.4403292098135318,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "impairing NKCC2 and down-regulating AQP2 channels",
+      "x" : 0.19855967296810695,
+      "y" : 0.09235465118523911,
+      "w" : 0.31893004411421483,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "text" : "Q36. [2023 Exam] Bartter Syndrome is an autosomal recessive",
+      "x" : 0.7109053467421125,
+      "y" : 0.9426388890831052,
+      "w" : 0.3971193181643695,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "tubulopathy affecting the Thick Ascending Limb (mutations in NKCC2,",
+      "x" : 0.7335390890689302,
+      "y" : 0.9280523255268895,
+      "w" : 0.4465020617599006,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "ROMK, or CLC-Kb). It mimics the chronic use of:",
+      "x" : 0.665637859233539,
+      "y" : 0.9149709301053779,
+      "w" : 0.3065843642132837,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Loop diuretics (Furosemide), causing hypokalemic metabolic alkalosis,",
+      "x" : 0.7335390874142664,
+      "y" : 0.8990277776426606,
+      "w" : 0.4341563578671629,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "normal\/low BP, and HYPERCALCIURIA",
+      "x" : 0.633744859876543,
+      "y" : 0.8873611113677702,
+      "w" : 0.2345678941258844,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Thiazide diuretics (hypocalciuria and hypomagnesemia)",
+      "x" : 0.6903292224537035,
+      "y" : 0.8756944443874309,
+      "w" : 0.34773662255245186,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Potassium-sparing diuretics (hyperkalemic metabolic acidosis)",
+      "x" : 0.7109053449331277,
+      "y" : 0.8640374676827167,
+      "w" : 0.3888888808916201,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Carbonic anhydrase inhibitors (Acetazolamide)",
+      "x" : 0.6635802432355968,
+      "y" : 0.8524709301780523,
+      "w" : 0.29423868431235267,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Osmotic diuretics (Mannitol)",
+      "x" : 0.6100823021862141,
+      "y" : 0.8408430232013082,
+      "w" : 0.1872427958362508,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "Q37. [2022 Exam] Gitelman Syndrome is an AR tubulopathy caused by",
+      "x" : 0.7335390890689302,
+      "y" : 0.8139114985854234,
+      "w" : 0.4465020617599006,
+      "h" : 0.011711885664198118,
+      "conf" : 1
+    },
+    {
+      "text" : "inactivating mutations in the NCC cotransporter in DCT, presenting",
+      "x" : 0.7222222262688613,
+      "y" : 0.800843023104614,
+      "w" : 0.42386828728441917,
+      "h" : 0.011686046388414195,
+      "conf" : 1
+    },
+    {
+      "text" : "with:",
+      "x" : 0.5267489707818931,
+      "y" : 0.7877906976017441,
+      "w" : 0.03292180907051523,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Severe hypertension, hyperkalemia, and metabolic acidosis",
+      "x" : 0.6985596681841564,
+      "y" : 0.7718023254360464,
+      "w" : 0.3641975210897578,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Hypokalemic metabolic alkalosis, normal\/low BP, HYPOMAGNESEMIA,",
+      "x" : 0.7335391018861452,
+      "y" : 0.7609625322870023,
+      "w" : 0.4341563578671629,
+      "h" : 0.0102971574995252,
+      "conf" : 1
+    },
+    {
+      "text" : "and HYPOCALCIURIA",
+      "x" : 0.5823045289437585,
+      "y" : 0.7500000000484497,
+      "w" : 0.1316872362820607,
+      "h" : 0.008888888888888835,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Nephrocalcinosis, hypercalciuria, and sensorineural deafness",
+      "x" : 0.7057613216049381,
+      "y" : 0.7376388888078595,
+      "w" : 0.37860081030887627,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Massive proteinuria (>3.5 g\/day) and hypoalbuminemia",
+      "x" : 0.6893004172839504,
+      "y" : 0.725972222405789,
+      "w" : 0.34567898924245766,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Hypernatremia, hypercalcemia, and acute renal failure",
+      "x" : 0.6831275776406034,
+      "y" : 0.71432170540046,
+      "w" : 0.33744855196970813,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "text" : "Q38. [2021 Exam] Liddle Syndrome is an autosomal dominant disorder",
+      "x" : 0.7355967039437586,
+      "y" : 0.6881944444661616,
+      "w" : 0.4506172803962756,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "caused by gain-of-function mutations in ENaC (loss of PY motif",
+      "x" : 0.7088477314557615,
+      "y" : 0.6737467700637443,
+      "w" : 0.41358021670167544,
+      "h" : 0.01028423786163346,
+      "conf" : 1
+    },
+    {
+      "text" : "preventing degradation), presenting with:",
+      "x" : 0.64197531303155,
+      "y" : 0.6606782947448888,
+      "w" : 0.2633744725641214,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Salt-wasting, hypotension, hyperkalemia, and elevated aldosterone",
+      "x" : 0.7201646141460903,
+      "y" : 0.6445833331407848,
+      "w" : 0.40740741273892,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Hyperglycemia, polyuria, polydipsia, and high anion gap acidosis",
+      "x" : 0.7150205826817555,
+      "y" : 0.6329295866051785,
+      "w" : 0.39300409952799475,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Severe hypertension, hypokalemia, metabolic alkalosis, and SUPPRESSED",
+      "x" : 0.7417695529063786,
+      "y" : 0.6213662791606105,
+      "w" : 0.4465020617599008,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "(low) plasma renin and aldosterone",
+      "x" : 0.6224279856172839,
+      "y" : 0.6097383721656977,
+      "w" : 0.20781892500583476,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Isolated hypomagnesemia without any change in blood pressure",
+      "x" : 0.7160493777777779,
+      "y" : 0.5981782946177086,
+      "w" : 0.3950617088461822,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Complete absence of parathyroid hormone secretion",
+      "x" : 0.6820987708847734,
+      "y" : 0.5865277777395599,
+      "w" : 0.3271604813869644,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "Q39. [2025 Exam] Gordon Syndrome (Pseudohypoaldosteronism Type",
+      "x" : 0.73456789739369,
+      "y" : 0.5610885015720377,
+      "w" : 0.4444444284499065,
+      "h" : 0.011711885664198007,
+      "conf" : 1
+    },
+    {
+      "text" : "Il) is caused by mutations in WNK1\/WNK4 kinases causing NCC",
+      "x" : 0.7139917644547327,
+      "y" : 0.5472383720385174,
+      "w" : 0.40740741273892,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "hyperactivation in DCT, presenting with:",
+      "x" : 0.6368312725565843,
+      "y" : 0.5333720928267407,
+      "w" : 0.2530864019813778,
+      "h" : 0.01174418555365675,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Severe hypotension, hypokalemia, and metabolic alkalosis",
+      "x" : 0.69650205311214,
+      "y" : 0.51819444440226,
+      "w" : 0.3600823024533829,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Massive hypercalcemia and recurrent nephrolithiasis",
+      "x" : 0.6820987695216048,
+      "y" : 0.5065277775612134,
+      "w" : 0.3271604813869645,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Polyuria, dilute urine, and nephrogenic diabetes insipidus",
+      "x" : 0.6934156422325103,
+      "y" : 0.49486111114097414,
+      "w" : 0.3497942318706393,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Hypertension, HYPERKALEMIA, and normal-anion gap metabolic acidosis",
+      "x" : 0.7407407351851854,
+      "y" : 0.48328488366642447,
+      "w" : 0.4444444284499066,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "with low\/normal aldosterone",
+      "x" : 0.6018518490054872,
+      "y" : 0.47238372083333335,
+      "w" : 0.1707818853030415,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Complete failure of proximal tubule glucose reabsorption",
+      "x" : 0.6934156437585732,
+      "y" : 0.4600290697916666,
+      "w" : 0.35390945050701406,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "Q40. [Faculty Exam] Apparent Mineralocorticoid Excess (AME) results",
+      "x" : 0.7345679067901234,
+      "y" : 0.4330878550802798,
+      "w" : 0.4444444284499066,
+      "h" : 0.011731265915764677,
+      "conf" : 1
+    },
+    {
+      "text" : "from congenital deficiency of 11-beta-hydroxysteroid dehydrogenase",
+      "x" : 0.7294238726954732,
+      "y" : 0.4200193798846188,
+      "w" : 0.43827157650353776,
+      "h" : 0.011705426639980754,
+      "conf" : 1
+    },
+    {
+      "text" : "type 2(11-beta-HSD2). Why does cortisol hyperactivate MR receptors?",
+      "x" : 0.7345678956275721,
+      "y" : 0.4062499999454941,
+      "w" : 0.4485596470862814,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Cortisol is converted into pure aldosterone inside adrenal cells",
+      "x" : 0.7098765479938269,
+      "y" : 0.3902616279978199,
+      "w" : 0.38271602894525103,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Cortisol directly stimulates apical ROMK potassium channels",
+      "x" : 0.7057613110425243,
+      "y" : 0.37863372076065893,
+      "w" : 0.3744855916725015,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Cortisol blocks all sodium filtration at the glomerular membrane",
+      "x" : 0.7150205826817555,
+      "y" : 0.3670704135401704,
+      "w" : 0.39300409952799475,
+      "h" : 0.01030361758338072,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Cortisol destroys the hypothalamic-pituitary-adrenal axis",
+      "x" : 0.6923868269290125,
+      "y" : 0.3554166668955524,
+      "w" : 0.34773662255245186,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] 11-beta-HSD2 normally converts cortisol to inactive cortisone; its absence",
+      "x" : 0.7427983583950617,
+      "y" : 0.344450904438583,
+      "w" : 0.4485596470862815,
+      "h" : 0.011679586834377642,
+      "conf" : 1
+    },
+    {
+      "text" : "allows high circulating cortisol to activate renal MR receptors",
+      "x" : 0.6975308701646089,
+      "y" : 0.3320833331226162,
+      "w" : 0.35802466914338904,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "Q41. [Core Exam] A 16-year-old boy presents with cramps: serum K+",
+      "x" : 0.7283950671296295,
+      "y" : 0.30597222205431635,
+      "w" : 0.4320987725407822,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "2.7, HC03- 32, normal BP, high renin\/aldosterone, high urine Ca2+.",
+      "x" : 0.7222222292866938,
+      "y" : 0.2929166669258335,
+      "w" : 0.4238682872844193,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "Hearing is normal. Diagnosis is:",
+      "x" : 0.612139915149177,
+      "y" : 0.2791279071005849,
+      "w" : 0.20370370636946,
+      "h" : 0.011744185553656639,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Bartter Syndrome (defective TAL transport with hypercalciuria)",
+      "x" : 0.7088477327777778,
+      "y" : 0.2637532298090755,
+      "w" : 0.384773662255245,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Gitelman Syndrome (characterized by hypocalciuria & hypomagnesemia)",
+      "x" : 0.7386831320164609,
+      "y" : 0.252180232630814,
+      "w" : 0.4444444284499067,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Liddle Syndrome (severe hypertension with low aldosterone)",
+      "x" : 0.7026748933950617,
+      "y" : 0.24055232550872108,
+      "w" : 0.37242798235431407,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Primary Hyperaldosteronism (Conn syndrome)",
+      "x" : 0.6635802424897121,
+      "y" : 0.22819767422480608,
+      "w" : 0.29423868431235267,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Type 1 Distal Renal Tubular Acidosis",
+      "x" : 0.633744859876543,
+      "y" : 0.21735465113073338,
+      "w" : 0.2345678941258844,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "text" : "Q42. [Clinical Vignette] A 68-year-old male on Lisinopril and",
+      "x" : 0.700617290226337,
+      "y" : 0.17884366937834872,
+      "w" : 0.3765432009906887,
+      "h" : 0.0117571051915486,
+      "conf" : 1
+    },
+    {
+      "text" : "Spironolactone presents with lethargy. ECG reveals tall peaked T waves",
+      "x" : 0.7386831332304525,
+      "y" : 0.16497093032340115,
+      "w" : 0.45267486572265625,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "and PR prolongation; K+ is 7.2 mEq\/L. The FIRST immediate step is:",
+      "x" : 0.7273662605195472,
+      "y" : 0.1518217053822914,
+      "w" : 0.4300411392307881,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Oral administration of sodium bicarbonate tablets",
+      "x" : 0.671810694341564,
+      "y" : 0.13736111117397187,
+      "w" : 0.31481480148603336,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Intravenous administration of 10% Calcium Gluconate (10 mL over 2-3",
+      "x" : 0.7294238611454049,
+      "y" : 0.12569444422391346,
+      "w" : 0.4300411392307881,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "minutes)",
+      "x" : 0.5452674889917697,
+      "y" : 0.11337209295058126,
+      "w" : 0.05761316887237744,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Immediate high-dose hemodialysis within 6 hours",
+      "x" : 0.6718106948902608,
+      "y" : 0.10169573601852527,
+      "w" : 0.31481480148603325,
+      "h" : 0.011724805831909157,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Administration of oral potassium binders (Patiromer)",
+      "x" : 0.6820987612911524,
+      "y" : 0.0908430232013081,
+      "w" : 0.33127570002333917,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Subcutaneous injection of regular insulin without glucose",
+      "x" : 0.6923868253429357,
+      "y" : 0.07921511620639549,
+      "w" : 0.3559670598252015,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Board 3am Past Papers",
+      "x" : 0.32098766008230445,
+      "y" : 0.014573643574683492,
+      "w" : 0.5761316647319674,
+      "h" : 0.017519379191928364,
+      "conf" : 1
+    },
+    {
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321,
+      "y" : 0.01966085278616625,
+      "w" : 0.19135801447262546,
+      "h" : 0.007344961166381836,
+      "conf" : 1
+    }
+  ],
+  "page" : 65
+}

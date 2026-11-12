@@ -1,0 +1,896 @@
+{
+  "id": 17,
+  "title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+  "department": "Physiology",
+  "department_desc": "Hemodynamics, autoregulation, GFR, tubular transport, countercurrent multiplier, acid-base and RFTs",
+  "booklet_pages": "Pages 65 - 68",
+  "pdf_pages": [
+    67,
+    68,
+    69,
+    70
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 18 - HIGH-YIELD RENAL ENDOCRINE & AUTACOID MATRIX",
+  "summary_table": [
+    {
+      "domain": "glomerulosa, hypothalamus.",
+      "content": "Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP."
+    },
+    {
+      "domain": "Source: Peritubular interstitial",
+      "content": "Stimulates RBC survival & proliferation. Deficiency"
+    },
+    {
+      "domain": "Erythropoietin (EPO)",
+      "content": "Triggered by Tissue Hypoxia via HIF-1alpha/HIF-2alpha stabilization. Under"
+    },
+    {
+      "domain": "fibroblasts (85-90%).",
+      "content": "causes normocytic normochromic anemia in CKD."
+    },
+    {
+      "domain": "(Hematopoietic",
+      "content": "normoxia, HIF is hydroxylated by PHD and Paraneoplastic polycythemia in RCC."
+    },
+    {
+      "domain": "Hormone)",
+      "content": "degraded by VHL. Stimulated by: PTH, hypocalcemia, Drives gut Ca2+ & Pi uptake; suppresses PTH release."
+    },
+    {
+      "domain": "1,25-(ОH)2-D3",
+      "content": "Deficiency in CKD leads to hypocalcemia, Secondary"
+    },
+    {
+      "domain": "1-alpha-hydroxylase.",
+      "content": "hypophosphatemia. Inhibited by: FGF23,"
+    },
+    {
+      "domain": "Targets: Intestine (duodenum), bone,",
+      "content": "hyperphosphatemia, and Calcitriol (negative Hyperparathyroidism & Renal Osteodystrophy."
+    },
+    {
+      "domain": "(Active Vitamin D3)",
+      "content": "feedback)."
+    },
+    {
+      "domain": "Renal Prostaglandins",
+      "content": "Selectively dilates afferent arteriole, buffering intense Synthesized via COX-1 & COX-2 in response to"
+    },
+    {
+      "domain": "(PGE2 & PGI2)",
+      "content": "Ang II, sympathetic tone, and hypoperfusion. vasoconstriction to prevent ischemic AKI. NSAIDs block COX, triggering preenal failure."
+    },
+    {
+      "domain": "Target: Afferent arteriole.",
+      "content": "Potent systemic vasodilation, inhibition of sympathetic Synthesized in medulla -> secreted into renal"
+    },
+    {
+      "domain": "Medullipin | & I|",
+      "content": "venous blood -> converted by hepatic CYP450"
+    },
+    {
+      "domain": "(lipid-laden RMICs).",
+      "content": "tone, and blood pressure reduction. Antihypertensive"
+    },
+    {
+      "domain": "(Renomedullary Lipids)",
+      "content": "endocrine mechanism. into Medullipin II."
+    },
+    {
+      "domain": "Kallikrein: Connecting tubule.",
+      "content": "Locally synthesized autacoids regulating Bradykinin & Dopamine (via D1) dilate renal vessels and"
+    },
+    {
+      "domain": "Kallikrein-Kinin &",
+      "content": "microvascular tone and tubular sodium"
+    },
+    {
+      "domain": "Dopamine: PCT from L-DOPA via",
+      "content": "promote natriuresis by inhibiting tubular Na+/K+ ATPase"
+    },
+    {
+      "domain": "Dopamine",
+      "content": "and NHE3."
+    },
+    {
+      "domain": "L-amino acid decarboxylase.",
+      "content": "excretion."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which specialized cell type within the kidney is responsible for synthesizing, storing, and secreting the proteolytic enzyme Renin?",
+      "options": {
+        "A": "Podocytes forming the visceral layer of Bowman's capsule",
+        "B": "Juxtaglomerular (JG) / Granular cells in the tunica media of the afferent arteriole",
+        "C": "Macula densa columnar epithelial cells in the thick ascending limb",
+        "D": "Extraglomerular mesangial (Lacis) cells at the vascular pole",
+        "E": "Principal cells of the cortical collecting duct"
+      },
+      "correct_option": "B",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The three anatomical components forming the Juxtaglomerular Apparatus (JGA) at the vascular pole are: [Al Macula densa, Juxtaglomerular granular cells, and Lacis (extraglomerular mesangial) cells",
+      "options": {
+        "B": "Proximal convoluted tubule, afferent arteriole, and efferent arteriole",
+        "C": "Podocyte pedicels, glomerular basement membrane, and fenestrated endothelium",
+        "D": "Thin descending limb, thin ascending limb, and vasa recta capillaries",
+        "E": "Intercalated cells, principal cells, and peritubular capillaries"
+      },
+      "correct_option": "A",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which of the following physiological signals acts as a potent primary stimulus for the release of Renin by juxtaglomerular cells?",
+      "options": {
+        "A": "Acute severe hypervolemia with systemic hypertension",
+        "B": "Markedly elevated systemic delivery of sodium to the macula densa",
+        "C": "Decreased renal perfusion pressure sensed by afferent arteriolar baroreceptors",
+        "D": "High circulating plasma levels of Atrial Natriuretic Peptide (ANP)",
+        "E": "Beta-adrenergic antagonist (beta-blocker) administration"
+      },
+      "correct_option": "B",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "How does the Macula Densa signal JG cells to stimulate renin release when tubular flow and GFR are low?",
+      "options": {
+        "A": "High intracellular sodium triggers massive nitric oxide destruction",
+        "B": "Decreased NaCl uptake via NKCC2 stimulates local COX-2/PGE2 release to",
+        "C": "Direct mechanical compression of the efferent arteriole by microvilli",
+        "D": "Massive release of Adenosine acting on A1 receptors of JG cells",
+        "E": "Complete apoptotic autolysis of extraglomerular mesangial cells"
+      },
+      "correct_option": "B",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Renal sympathetic nerve stimulation directly triggers renin secretion from juxtaglomerular cells through which specific receptor subtype?",
+      "options": {
+        "A": "Alpha-1 adrenergic receptors coupled to Gq and phospholipase C",
+        "B": "Alpha-2 adrenergic receptors coupled to Gi reducing intracellular cAMP",
+        "C": "Beta-2 adrenergic receptors located on peritubular capillaries",
+        "D": "Beta-1 adrenergic receptors coupled to Gs increasing intracellular cAMP",
+        "E": "Nicotinic cholinergic receptors at the vascular smooth muscle junction"
+      },
+      "correct_option": "B",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Enzymatically, what is the exact biochemical reaction catalyzed by circulating Renin in the bloodstream?",
+      "options": {
+        "A": "Conversion of circulating Angiotensin I into active Angiotensin I|",
+        "B": "Cleavage of the decapeptide Angiotensin I from hepatic Angiotensinogen",
+        "C": "Conversion of Angiotensin Il into inactive peptide fragments in the lung",
+        "D": "Direct enzymatic conversion of cholesterol into aldosterone in the adrenal cortex",
+        "E": "Hydrolysis of bradykinin into inactive peptide fragments"
+      },
+      "correct_option": "B",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Where is Angiotensin-Converting Enzyme (ACE) primarily located in the vascular system to convert Angiotensin I to Angiotensin I!?",
+      "options": {
+        "A": "On the luminal surface of pulmonary vascular endothelial cells",
+        "B": "In the brush border membrane of the proximal convoluted tubule only",
+        "C": "Dissolved as an inactive zymogen in the bile within the gallbladder",
+        "D": "In the interstitial matrix of the adrenal medulla",
+        "E": "Inside the granules of circulating eosinophils"
+      },
+      "correct_option": "A",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "At physiological levels, what is the selective hemodynamic action of Angiotensin Il on renal arterioles?",
+      "options": {
+        "A": "Preferential dilation of afferent arteriole with efferent constriction",
+        "B": "Preferential Efferent Arteriolar constriction, preserving GFR and increasing Filtration Fraction",
+        "C": "Complete dilation of both arterioles, lowering total renal resistance",
+        "D": "Selective thrombosis of all peritubular capillaries",
+        "E": "Immediate relaxation of mesangial cells to maximize surface area"
+      },
+      "correct_option": "B",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which tubular transport mechanism in the Proximal Convoluted Tubule is directly stimulated by Angiotensin Il binding to apical and basolateral AT1 receptors?",
+      "options": {
+        "A": "Apical SGLT1 glucose uptake in late straight tubule",
+        "B": "Apical NHE3 (Na+/H+ exchanger) and basolateral Na+/K+ ATPase, driving Nat and HCO3- reabsorption",
+        "C": "Basolateral OAT1 organic anion secretion",
+        "D": "Passive paracellular magnesium reabsorption via claudin-16",
+        "E": "Apical ENaC sodium reabsorption"
+      },
+      "correct_option": "D",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which systemic endocrine gland and specific zone are stimulated by Angiotensin Il to synthesize and release Aldosterone?",
+      "options": {
+        "A": "Anterior pituitary gland corticotrope cells",
+        "B": "Adrenal medulla chromaffin cells",
+        "C": "Zona Glomerulosa of the adrenal cortex",
+        "D": "Zona Fasciculata of the adrenal cortex",
+        "E": "Hypothalamic paraventricular neurosecretory nuclei"
+      },
+      "correct_option": "C",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Angiotensin Il exerts its major vasoconstrictor and salt-retaining effects via which receptor subtype?",
+      "options": {
+        "A": "AT1 Receptor (Gq-coupled, activating PLC, IP3, DAG, and intracellular Ca2+)",
+        "B": "AT2 Receptor (Gi-coupled, promoting vasodilation, apoptosis, and growth arrest)",
+        "C": "Beta-2 adrenergic receptor on vascular smooth muscle",
+        "D": "V2 vasopressin receptor on principal collecting duct cells",
+        "E": "Mineralocorticoid nuclear receptor in the cytoplasm"
+      },
+      "correct_option": "A",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "How does Angiotensin Il exert a negative feedback effect to inhibit its own further production?",
+      "options": {
+        "A": "By directly destroying pulmonary vascular endothelial cells",
+        "B": "By stimulating hepatic uptake and biliary excretion of renin",
+        "C": "By directly binding AT1 receptors on JG cells to suppress renin secretion (short-loop feedback)",
+        "D": "By inducing systemic hypokalemia which paralyzes the adrenal cortex",
+        "E": "By activating hypothalamic thirst centers to dilute plasma proteins"
+      },
+      "correct_option": "A",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In Renovascular Hypertension caused by Unilateral Renal Artery Stenosis (Goldblatt Kidney), what is the primary mechanism driving high blood pressure?",
+      "options": {
+        "A": "Bilateral destruction of all renal collecting ducts",
+        "B": "Hypoperfusion of the stenotic kidney triggers massive uninhibited Renin hypersecretion",
+        "C": "Excessive synthesis of erythropoietin causing hyperviscosity syndrome",
+        "D": "Massive loss of urinary albumin leading to hypovolemic shock",
+        "E": "Complete calcification of the abdominal aorta and renal veins"
+      },
+      "correct_option": "E",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Why can initiating an ACE inhibitor or ARB precipitate acute renal failure in a patient with Bilateral Renal Artery Stenosis?",
+      "options": {
+        "A": "It blocks proximal tubular glucose reabsorption causing massive osmotic diuresis",
+        "B": "It induces direct toxic necrosis of the medullary collecting ducts",
+        "C": "It abolishes Ang Il-mediated efferent arteriolar constriction, causing glomerular capillary pressure and GFR to collapse",
+        "D": "It triggers severe hypercalcemia with diffuse renal stone formation",
+        "E": "It converts all circulating renin into inactive prostaglandin fragments"
+      },
+      "correct_option": "E",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Endocrinal Function of the Kidney - Physiology Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which specific histological cell type in the renal parenchyma synthesizes and secretes Erythropoietin (EPO)?",
+      "options": {
+        "A": "Cortical peritubular capillary Interstitial Fibroblast-like cells",
+        "B": "Proximal convoluted tubule simple cuboidal epithelial cells",
+        "C": "Intraglomerular mesangial cells within the glomerular stalk [DJ Visceral epithelial podocytes wrapping capillary loops",
+        "E": "Medullary collecting duct principal cells"
+      },
+      "correct_option": "A",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the primary physiological stimulus that triggers the transcription and release of renal Erythropoietin?",
+      "options": {
+        "A": "Elevated systemic blood pressure and arterial wall stretch",
+        "B": "Decreased renal tissue oxygen tension (Tissue Hypoxia)",
+        "C": "High dietary protein and amino acid intake",
+        "D": "Respiratory alkalosis with severe hypocalcemia",
+        "E": "Acute bacterial infection within the renal pelvis"
+      },
+      "correct_option": "B",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Under normoxic conditions, what molecular mechanism normally targets Hypoxia-Inducible Factor 1-alpha / 2-alpha (HIF-alpha) for rapid proteasomal degradation?",
+      "options": {
+        "A": "Direct cleavage by luminal brush border carbonic anhydrase IV",
+        "B": "Prolyl Hydroxylation by oxygen-dependent prolyl hydroxylase domain (PHD) enzymes, recognized by VHL protein",
+        "C": "Phosphorylation by cyclic AMP-dependent protein kinase A",
+        "D": "Ubiquitination by parathyroid hormone in the proximal tubule cytoplasm",
+        "E": "Direct binding of deoxygenated hemoglobin to the HIF nuclear promoter"
+      },
+      "correct_option": "B",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the primary target cell and bone marrow action of circulating Erythropoietin (EPO)?",
+      "options": {
+        "A": "Stimulates megakaryocytes to accelerate platelet bud formation",
+        "B": "Promotes survival, proliferation, and differentiation of Colony-Forming Unit-Erythroid (CFU-E) precursors",
+        "C": "Directly induces apoptosis of mature circulating erythrocytes",
+        "D": "Stimulates osteoclasts to mobilize bone calcium into plasma",
+        "E": "Inhibits reticulocyte hemoglobin synthesis to prevent polycythemia"
+      },
+      "correct_option": "A",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Why do patients with advanced Chronic Kidney Disease (CKD) characteristically develop Normocytic, Normochromic Anemia? [Al Chronic autoimmune destruction of circulating mature red blood cells",
+      "options": {
+        "B": "Massive urinary excretion of intact erythrocytes due to nephrotic syndrome",
+        "C": "Destruction of renal peritubular interstitial cells leading to severe Erythropoietin deficiency",
+        "D": "Complete dietary malabsorption of vitamin B12 in the duodenum",
+        "E": "Direct bone marrow suppression caused by hypercalcemia"
+      },
+      "correct_option": "C",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What paraneoplastic hematological manifestation is classical for Renal Cell Carcinoma (RCC), and what is the underlying mechanism?",
+      "options": {
+        "A": "Severe megaloblastic anemia due to intrinsic factor autoantibodies",
+        "B": "Disseminated intravascular coagulation triggered by medullipin release",
+        "C": "Severe thrombocytopenia caused by renin-induced platelet lysis",
+        "D": "Acute hemolytic anemia caused by urinary tract bleeding",
+        "E": "Secondary Polycythemia (Erythrocytosis) caused by ectopic tumor synthesis of Erythropoietin"
+      },
+      "correct_option": "E",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Endocrinal Function of the Kidney - Physiology Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the fully active hormonal form of Vitamin D synthesized by the renal proximal tubule?",
+      "options": {
+        "A": "Cholecalciferol (Vitamin D3)",
+        "B": "Ergocalciferol (Vitamin D2)",
+        "C": "25-hydroxycholecalciferol (Calcidiol)",
+        "D": "1,25-dihydroxycholecalciferol (Calcitriol)",
+        "E": "24,25-dihydroxycholecalciferol"
+      },
+      "correct_option": "D",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which endocrine hormone is the primary physiological STIMULATOR of renal 1-alpha-hydroxylase gene expression and activity?",
+      "options": {
+        "A": "Parathyroid Hormone (PTH)",
+        "B": "Fibroblast Growth Factor 23 (FGF23)",
+        "C": "Calcitonin from thyroid C cells",
+        "D": "Calcitriol (via negative feedback)",
+        "E": "Antidiuretic Hormone (ADH)"
+      },
+      "correct_option": "E",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Which factors exert a direct INHIBITORY effect on renal 1-alpha-hydroxylase to prevent vitamin D toxicity? [A Hypocalcemia and severe metabolic acidosis",
+      "options": {
+        "B": "Elevated parathyroid hormone and hypophosphatemia",
+        "C": "Acute hypovolemia and aldosterone hypersecretion",
+        "D": "Excessive growth hormone release during puberty",
+        "E": "Elevated Fibroblast Growth Factor 23 (FGF23), hyperphosphatemia, and Calcitriol itself"
+      },
+      "correct_option": "E",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the primary biological action of active Calcitriol (1,25-(OH)2-D3) on the intestinal tract to maintain mineral balance?",
+      "options": {
+        "A": "Induces transcription of Calbindin-D28k, apical TRPV6, and PMCA1b, massively enhancing Calcium and Phosphate absorption",
+        "B": "Completely blocks the absorption of dietary calcium to protect the kidneys from stones",
+        "C": "Stimulates active secretion of magnesium and phosphate into the feces",
+        "D": "Accelerates intestinal transit time by inhibiting gut motility",
+        "E": "Promotes bacterial fermentation of lactose into bicarbonate"
+      },
+      "correct_option": "C",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Core Exam What is the direct action of Calcitriol on the parathyroid glands?",
+      "options": {
+        "A": "Stimulates parathyroid cell hyperplasia and increases PTH release",
+        "B": "Destroys parathyroid gland tissue through calcium precipitation",
+        "C": "Replaces parathyroid hormone receptors on bone osteocytes",
+        "D": "Has zero physiological action on the parathyroid gland",
+        "E": "Directly suppresses PTH gene transcription and inhibits parathyroid cell proliferation (negative feedback)"
+      },
+      "correct_option": "E",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "In CKD, loss of renal 1-alpha-hydroxylase activity leads to which pathophysiological cascade?",
+      "options": {
+        "A": "Calcitriol deficiency -> hypocalcemia -> Secondary Hyperparathyroidism and bone resorption",
+        "B": "Hypercalcemia -> suppressed PTH -> osteopetrosis with dense bones",
+        "C": "Primary hyperaldosteronism with marked bone hypercalcification",
+        "D": "Calcitriol excess -> massive intestinal calcium absorption and hypercalcemia",
+        "E": "Loss of osteoclasts resulting in excessive osteoid mineralization"
+      },
+      "correct_option": "E",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Endocrinal Function of the Kidney - Physiology Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the critical role of renal Prostaglandins (PGE2 & PGI2) during hypovolemia or high Ang Il tone?",
+      "options": {
+        "A": "They induce severe efferent arteriolar spasm to stop urine production",
+        "B": "They stimulate massive calcium deposition in the renal pyramid tips",
+        "C": "They completely abolish aldosterone-mediated sodium reabsorption",
+        "D": "They trigger widespread platelet aggregation inside glomerular capillaries",
+        "E": "Dilating Afferent Arterioles, buffering excessive vasoconstriction to maintain RBF and prevent AKI"
+      },
+      "correct_option": "E",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "How do Nonsteroidal Anti-Inflammatory Drugs (NSAIDs like Ibuprofen, Indomethacin) cause Acute Prerenal Kidney Injury?",
+      "options": {
+        "A": "Direct immunological destruction of glomerular podocyte pedicels",
+        "B": "By directly stimulating excessive renin secretion from the juxtaglomerular apparatus",
+        "C": "By activating V2 vasopressin receptors to cause water intoxication",
+        "D": "By inhibiting Cyclooxygenase (COX-1/COX-2), blocking protective afferent arteriolar PGE2/PGI2 synthesis and causing uninhibited vasoconstriction",
+        "E": "By hydrolyzing all circulating erythropoietin molecules in the blood"
+      },
+      "correct_option": "D",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which specialized cells located in the Renal Medullary Interstitium produce Medullipin I, and what is its systemic vascular function?",
+      "options": {
+        "A": "Podocytes; converted in lung into a potent vasoconstrictor",
+        "B": "Macula densa plaques; converted into angiotensinogen in the liver",
+        "C": "Vascular endothelial cells; converted into endothelin in the kidney",
+        "D": "Principal cells; converted into aldosterone in the adrenal gland",
+        "E": "Renal Medullary Interstitial Cells (RMICs) / Lipid-laden cells; converted by hepatic CYP450 into Medullipin II, causing systemic vasodilation"
+      },
+      "correct_option": "E",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In the renal Kallikrein-Kinin system, tissue kallikrein cleaves kininogen to form Bradykinin, which causes:",
+      "options": {
+        "A": "Potent renal vasodilation, increased renal blood flow, and promotion of natriuresis and diuresis",
+        "B": "Severe cortical vasoconstriction, marked GFR decline, and sodium retention",
+        "C": "Selective constriction of the main renal artery with total anuria",
+        "D": "Direct transcriptional activation of ENaC in principal cells",
+        "E": "Permanent occlusion of medullary vasa recta capillaries"
+      },
+      "correct_option": "A",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "How is Renal Dopamine synthesized locally within the kidney, and what is its primary physiological action?",
+      "options": {
+        "A": "From L-DOPA in PCT cells via L-amino acid decarboxylase; acts on D1 receptors for natriuresis",
+        "B": "Secreted by adrenal medulla; acts on alpha-1 receptors causing severe ischemia",
+        "C": "Produced by podocytes; acts on V2 receptors to concentrate urine",
+        "D": "Filtered from brain; blocks all sodium transport in loop of Henle",
+        "E": "Synthesized in collecting ducts; stimulates aldosterone synthesis"
+      },
+      "correct_option": "A",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Endothelin-1 (ET-1) is a locally produced peptide autacoid in the kidney that acts primarily as a:",
+      "options": {
+        "A": "Potent renal vasodilator that increases GFR tenfold",
+        "B": "Direct stimulator of bone marrow erythropoiesis",
+        "C": "Hormone that hydrolyzes filtered amino acids in the PCT",
+        "D": "Potent endogenous renal vasoconstrictor that contracts mesangial cells and reduces GFR and RBF",
+        "E": "Specific inhibitor of carbonic anhydrase enzymes"
+      },
+      "correct_option": "D",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Endocrinal Function of the Kidney - Physiology Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which of the following endocrine hormones acts directly ON the kidney (target organ) but is synthesized EXCLUSIVELY by extrarenal endocrine glands?",
+      "options": {
+        "A": "Renin",
+        "B": "Erythropoietin",
+        "C": "Parathyroid Hormone (PTH) [DJ 1,25-dihydroxycholecalciferol (Calcitriol) [E Medullipin I",
+        "D": "Option D"
+      },
+      "correct_option": "C",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why is Recombinant Human Erythropoietin (EPO) therapy administered in combination with oral or intravenous Iron supplementation in CKD patients?",
+      "options": {
+        "A": "Iron prevents the liver from metabolizing erythropoietin into bilirubin",
+        "B": "Iron acts as a direct cofactor for renal 1-alpha-hydroxylase",
+        "C": "Erythropoietin directly chelates iron and precipitates it in the urine",
+        "D": "Iron blocks parathyroid hormone secretion to protect bones",
+        "E": "Rapid erythropoiesis consumes massive amounts of iron; iron deficiency impairs response to EPO"
+      },
+      "correct_option": "E",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the primary cardiovascular risk associated with overcorrecting hemoglobin (>11-12 g/dL) using Recombinant Erythropoietin in CKD patients?",
+      "options": {
+        "A": "Severe hypotension and recurrent syncope",
+        "B": "Massive hemorrhagic stroke caused by platelet destruction",
+        "C": "Acute bone marrow aplasia and fatal agranulocytosis",
+        "D": "Diffuse osteomalacia with pathological rib fractures",
+        "E": "Increased blood viscosity, exacerbation of Hypertension, and Thrombotic cardiovascular events"
+      },
+      "correct_option": "E",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Which of the following describes the 'Endocrine Axis' linking the kidney to bone and mineral metabolism?",
+      "options": {
+        "A": "Renin -> Angiotensin I -> Aldosterone -> Bone resorption",
+        "B": "Erythropoietin -> Bone marrow -> Platelet release -> Osteoblast death",
+        "C": "Kidney 1-alpha-hydroxylase converts 25(OH)D to Calcitriol -> enhances gut Ca2+ uptake -> suppresses PTH release",
+        "D": "Medullipin | -> Liver -> Angiotensin II -> Osteoclast stimulation",
+        "E": "Kallikrein -> Bradykinin -> Calcitonin release -> Osteoid destruction"
+      },
+      "correct_option": "C",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A diabetic CKD patient has Hb 8.1 g/dL, Ca2+ 8.0 mg/dL, phosphate 6.2 mg/dL, and high PTH. The endocrine causes are.",
+      "options": {
+        "A": "Primary hyperparathyroidism and iron deficiency anemia",
+        "B": "Primary adrenal insufficiency and Addisonian crisis",
+        "C": "Renal cell carcinoma hypersecreting ectopic parathyroid hormone",
+        "D": "Deficient renal Erythropoietin and 1-alpha-hydroxylase (causing Secondary Hyperparathyroidism)",
+        "E": "Cushing disease with excessive pituitary ACTH secretion"
+      },
+      "correct_option": "E",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A patient taking Enalapril and Furosemide takes high-dose Naproxen (NSAID) and develops acute oliguric AKI due to:",
+      "options": {
+        "A": "Direct immune complex deposition on the glomerular basement membrane",
+        "B": "Massive overproduction of erythropoietin causing vascular thrombosis",
+        "C": "Naproxen directly activates 1-alpha-hydroxylase causing hypercalcemia",
+        "D": "Furosemide and Naproxen bind aldosterone receptors causing sodium loss",
+        "E": "Efferent dilation (ACEi) plus afferent constriction (NSAID), collapsing GFR"
+      },
+      "correct_option": "E",
+      "explanation": "**glomerulosa, hypothalamus.**: Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP.\n\n**Source: Peritubular interstitial**: Stimulates RBC survival & proliferation. Deficiency",
+      "masterclass_id": 17,
+      "masterclass_title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology"
+    }
+  ]
+}

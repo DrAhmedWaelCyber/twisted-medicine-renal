@@ -1,0 +1,997 @@
+{
+  "items" : [
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.98180555559774,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 26 MCQ Masterclass",
+      "x" : 0.26954733086419735,
+      "w" : 0.46090535097901925,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.9709302326065892,
+      "text" : "Twisted Medicine Medical Series • UPEC, Pyelonephritis, Cystitis, CAUTI & Renal TB • Standard Practice Bank",
+      "x" : 0.303497951200274,
+      "w" : 0.528806578438237,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888888888946,
+      "y" : 0.9811111111885067,
+      "text" : "Page 3 of 4",
+      "x" : 0.9259259252263375,
+      "w" : 0.06995884877330849,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666603,
+      "y" : 0.9433333333191312,
+      "text" : "Q29. [2025 Exam] What is the clinical definition and significance of",
+      "x" : 0.26748971733539084,
+      "w" : 0.4320987725407822,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.9433333332101196,
+      "text" : "Q36. [2023 Exam] Which urogenital parasite causes intense vaginitis",
+      "x" : 0.7181069881344311,
+      "w" : 0.4650205696153942,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01030361758338072,
+      "y" : 0.92957041358862,
+      "text" : "'Sterile Pyuria' (>5-10 WBCs\/HPF with negative routine cultures)?",
+      "x" : 0.2602880728737995,
+      "w" : 0.4218107019580385,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011692505942450637,
+      "y" : 0.9302648579320942,
+      "text" : "with frothy, foul-smelling greenish discharge and 'strawberry cervix'",
+      "x" : 0.7242798280521264,
+      "w" : 0.44032920981353185,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.9149709302870639,
+      "text" : "[A] Normal physiological state observed in all pregnant women",
+      "x" : 0.2325102926440328,
+      "w" : 0.36625513040794516,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.9164244186954942,
+      "text" : "in females, and urethritis\/prostatitis in males?",
+      "x" : 0.6563786045781892,
+      "w" : 0.30041151226691476,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01176356527540423,
+      "y" : 0.9025484494653825,
+      "text" : "[B] Diagnostic hallmark of acute cystitis from E. coli",
+      "x" : 0.20164608545953375,
+      "w" : 0.30452673090328963,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888888888835,
+      "y" : 0.9011111110501311,
+      "text" : "[A] Trichomonas vaginalis (flagellated protozoan trophozoite, sexually",
+      "x" : 0.710905344675926,
+      "w" : 0.4094649980653007,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.8902616278524709,
+      "text" : "[C] Pathognomonic sign of autosomal dominant PKD",
+      "x" : 0.2037036998456791,
+      "w" : 0.3086419735314711,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010822825961642857,
+      "y" : 0.8902616278451259,
+      "text" : "transmitted)",
+      "x" : 0.54526748840766,
+      "w" : 0.07835316807968806,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.8786337210574128,
+      "text" : "[D] Artifactual finding caused by excessive vitamin C",
+      "x" : 0.20267489534465022,
+      "w" : 0.3065843642132837,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.8786337208575581,
+      "text" : "[B] Giardia lamblia",
+      "x" : 0.5627571996913581,
+      "w" : 0.1172839470629422,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.8655523255268895,
+      "text" : "[E] Pyuria with sterile routine culture; indicates Renal TB, Chlamydia, or AIN",
+      "x" : 0.26646089992283967,
+      "w" : 0.4341563578671629,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.8662790698037791,
+      "text" : "[C] Enterobius vermicularis",
+      "x" : 0.5874485617026748,
+      "w" : 0.16255143603438849,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.8524709300629845,
+      "text" : "[DJ Echinococcus granulosus",
+      "x" : 0.5925925934842249,
+      "w" : 0.17283949462122883,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.8408430233284885,
+      "text" : "[E] Schistosoma haematobium",
+      "x" : 0.5987654351851851,
+      "w" : 0.18518517452216,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011673126220703156,
+      "y" : 0.8255587855140509,
+      "text" : "Q30. [2024 Exam] Urogenital Tuberculosis (Mycobacterium",
+      "x" : 0.24176954454732522,
+      "w" : 0.38065841962706365,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011673126220703045,
+      "y" : 0.825558785247578,
+      "text" : "Q37. [2022 Exam] In young girls, nighttime perianal itching,",
+      "x" : 0.6985596660236626,
+      "w" : 0.3806584196270636,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.8118055556489062,
+      "text" : "tuberculosis) classically presents with which clinical and diagnostic",
+      "x" : 0.2674897064814816,
+      "w" : 0.43621399117715703,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.8125000001453488,
+      "text" : "restlessness, nocturnal enuresis, and recurrent ascending bacterial",
+      "x" : 0.7232510270833334,
+      "w" : 0.4341563578671629,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.7994186047093024,
+      "text" : "features?",
+      "x" : 0.08127572080246911,
+      "w" : 0.06378600882284297,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010284237861633239,
+      "y" : 0.7987467701727559,
+      "text" : "cystitis are frequently caused by aberrant perineal migration of:",
+      "x" : 0.7150205813014402,
+      "w" : 0.41358021670167555,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011744185553656639,
+      "y" : 0.7833720926692795,
+      "text" : "[A] Flea-bitten petechiae with malignant hypertension",
+      "x" : 0.20473251189986277,
+      "w" : 0.31069958284965854,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.78415697686531,
+      "text" : "[A] Ancylostoma duodenale|",
+      "x" : 0.5925925954732508,
+      "w" : 0.17283949462122883,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7710755814861918,
+      "text" : "[B] Rapidly progressive crescentic GN with positive ANCA",
+      "x" : 0.21707819349279828,
+      "w" : 0.33539094265152075,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7710755815164729,
+      "text" : "[B] Enterobius vermicularis (pinworm \/ threadworm, diagnosed via perianal",
+      "x" : 0.7242798426611794,
+      "w" : 0.4362139911771571,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7594476744731105,
+      "text" : "[C] Bilaterally enlarged kidneys with positive blood culture",
+      "x" : 0.21707819349279828,
+      "w" : 0.33539094265152075,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7594476743640988,
+      "text" : "Scotch-tape test)",
+      "x" : 0.5648148134002058,
+      "w" : 0.11316871643066406,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.7470930233042635,
+      "text" : "[D] Sterile pyuria, microscopic hematuria, and acid-fast bacilli on ZN stain",
+      "x" : 0.26337449272976654,
+      "w" : 0.42798350592079404,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7478197675145348,
+      "text" : "[C] Strongyloides stercoralis",
+      "x" : 0.5905349822359396,
+      "w" : 0.16872427598485407,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7347383721656977,
+      "text" : "[E] Bilateral staghorn calculi composed of cystine",
+      "x" : 0.19444444927983523,
+      "w" : 0.2901234416841711,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.7354651163517443,
+      "text" : "[D] Ascaris lumbricoides",
+      "x" : 0.5792181088220163,
+      "w" : 0.14609052550117918,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01031007766723624,
+      "y" : 0.7231782947448888,
+      "text" : "[E) Fasciola hepatica",
+      "x" : 0.56893004324417,
+      "w" : 0.12551439633159522,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011718346277872715,
+      "y" : 0.7078036173459312,
+      "text" : "Q31. [2023 Exam] A 22-year-old male presents with dysuria and",
+      "x" : 0.2551440296982168,
+      "w" : 0.4115226313752948,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.7070833331226162,
+      "text" : "Q38. [2021 Exam] Accidental or facultative Urogenital Myiasis",
+      "x" : 0.7078189340329217,
+      "w" : 0.3991769514743637,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666603,
+      "y" : 0.6933333335945899,
+      "text" : "urethral discharge. Urinalysis shows pyuria, but routine bacterial",
+      "x" : 0.2572016479938271,
+      "w" : 0.41563785001166964,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.69333333316167,
+      "text" : "(infestation of the urinary passages by fly larvae) is most frequently",
+      "x" : 0.7253086346707822,
+      "w" : 0.43827157650353765,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011692505942450637,
+      "y" : 0.6802648582227919,
+      "text" : "culture is sterile. Diagnosis:",
+      "x" : 0.14403292167352538,
+      "w" : 0.18930040515443813,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011692505942450637,
+      "y" : 0.6802648579320942,
+      "text" : "caused in Egypt by larvae of which dipterous fly?",
+      "x" : 0.6646090482167355,
+      "w" : 0.3168724108042208,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.6649709301780522,
+      "text" : "[A] Chlamydia trachomatis (causing non-gonococcal urethritis)",
+      "x" : 0.23045267026748978,
+      "w" : 0.37037037303612663,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.6649709303234013,
+      "text" : "[A] Wohlfartia magnifica",
+      "x" : 0.5792181088220163,
+      "w" : 0.14609052550117918,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.6540697674781977,
+      "text" : "[B] Enterococcus faecalis |",
+      "x" : 0.1275720184156378,
+      "w" : 0.15637859608392296,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.6533430232800388,
+      "text" : "[B] Fannia canicularis \/ Fannia scalaris (the latrine fly)",
+      "x" : 0.6646090587791493,
+      "w" : 0.3168724108042208,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.6402616280281008,
+      "text" : "[C] Proteus vulgaris",
+      "x" : 0.10905349993141282,
+      "w" : 0.11934155638112962,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.6409883721656977,
+      "text" : "[C Dermatobia hominis",
+      "x" : 0.5771604956018518,
+      "w" : 0.14197530686480442,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.6286337208757267,
+      "text" : "[D] Uropathogenic Escherichia coli",
+      "x" : 0.15020575879629638,
+      "w" : 0.20164609705127262,
+      "conf" : 1
+    },
+    {
+      "h" : 0.007267441749572834,
+      "y" : 0.628633721002907,
+      "text" : "[D Ostrus ovis",
+      "x" : 0.5565843637517146,
+      "w" : 0.09670781789335825,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.6162790698401163,
+      "text" : "[E] Pseudomonas aeruginosa",
+      "x" : 0.13683127790637856,
+      "w" : 0.17489711593531962,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.6170704136370695,
+      "text" : "[E] Glossina palpalis",
+      "x" : 0.5679012360082304,
+      "w" : 0.12345678701340779,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666603,
+      "y" : 0.6002777775939168,
+      "text" : "Q32. [2022 Exam] Acute Hemorrhagic Cystitis presenting with",
+      "x" : 0.2500000039711933,
+      "w" : 0.3971193421561762,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666603,
+      "y" : 0.6002777775939168,
+      "text" : "Q39. [2025 Exam] Why can the chemical urine dipstick Nitrite test",
+      "x" : 0.7191358066872426,
+      "w" : 0.4218107019580385,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.5872222223479436,
+      "text" : "sudden gross hematuria, dysuria, and suprapubic pain in young",
+      "x" : 0.25308642011316873,
+      "w" : 0.40740741273891995,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.5872222220506826,
+      "text" : "yield a FALSE-NEGATIVE result in a confirmed symptomatic UTI?",
+      "x" : 0.7170781935185184,
+      "w" : 0.4218107019580386,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011686045858595118,
+      "y" : 0.5741569770180734,
+      "text" : "schoolboys or bone marrow transplant recipients is typically caused",
+      "x" : 0.2685185255486966,
+      "w" : 0.4382715765035377,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "y" : 0.5734625323536204,
+      "text" : "[A] E. coli produces excess nitrite that bleaches the pad",
+      "x" : 0.6748971235596706,
+      "w" : 0.337448551969708,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.5610465117248062,
+      "text" : "by:",
+      "x" : 0.061728395473251006,
+      "w" : 0.02469135680288638,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.5603197675145348,
+      "text" : "[B] Pathogen lacks nitrate reductase (e.g., Enterococcus\/Staph) or short",
+      "x" : 0.7170781963305896,
+      "w" : 0.4218107019580384,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.5457848836603683,
+      "text" : "[A] Adenovirus (subgroups 11 and 21) or Polyomavirus BK",
+      "x" : 0.21913579963991778,
+      "w" : 0.33950616128789557,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010284237861633239,
+      "y" : 0.5487467700455756,
+      "text" : "incubation (<4h)",
+      "x" : 0.5555555539094652,
+      "w" : 0.09876542721154558,
+      "conf" : 1
+    },
+    {
+      "h" : 0.007267441749572723,
+      "y" : 0.5341569767510421,
+      "text" : "B Parvovirus B19",
+      "x" : 0.10390946491769547,
+      "w" : 0.10905349779428927,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.5370833333372999,
+      "text" : "[C] Protein in urine irreversibly activates the pad",
+      "x" : 0.6471193448816872,
+      "w" : 0.2818930044114215,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.5210755814680232,
+      "text" : "[C] Epstein-Barr Virus",
+      "x" : 0.1131687264060356,
+      "w" : 0.12757201764568593,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.524722222011923,
+      "text" : "[D] Proteus converts all nitrite into inert argon gas",
+      "x" : 0.655349799142661,
+      "w" : 0.29423868431235256,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.509447674491279,
+      "text" : "[D] Human Papillomavirus type 16",
+      "x" : 0.149176956728395,
+      "w" : 0.19958847573718183,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.512361111301152,
+      "text" : "[E] The patient consumed large amounts of dietary nitrates",
+      "x" : 0.6790123499999998,
+      "w" : 0.3456790132342644,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.49709302332848826,
+      "text" : "[E] Hepatitis B Virus",
+      "x" : 0.11213991926440327,
+      "w" : 0.12551439633159517,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.48111111133385553,
+      "text" : "Q33. [2021 Exam] In kidney transplant recipients, reactivation of",
+      "x" : 0.2582304568106995,
+      "w" : 0.4135802167016755,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01029069741566968,
+      "y" : 0.4673546510338343,
+      "text" : "Polyomavirus BK in the allograft produces which clinical and",
+      "x" : 0.24485596056241446,
+      "w" : 0.3909464902098074,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.45421511627086464,
+      "text" : "pathological entity?",
+      "x" : 0.11419753096541882,
+      "w" : 0.1296296269638733,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.43968023267926354,
+      "text" : "[A] Extensive amyloid AL fibril deposition in glomeruli",
+      "x" : 0.20576132208504785,
+      "w" : 0.3127571921678459,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "y" : 0.4265374675676488,
+      "text" : "[B] Minimal change disease with steroid responsiveness",
+      "x" : 0.21399176755829907,
+      "w" : 0.3292180907051518,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.4156976743459303,
+      "text" : "[C] Bilateral acute cortical necrosis within 24 hours",
+      "x" : 0.19855966705246922,
+      "w" : 0.29835390294872743,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01176356527540412,
+      "y" : 0.40254844946538254,
+      "text" : "[D] Polyomavirus Nephropathy with viral inclusions (Decoy cells' in urine)",
+      "x" : 0.2623456719135805,
+      "w" : 0.4259259205944133,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011627906163533597,
+      "y" : 0.39098837214147275,
+      "text" : "and allograft tubulointerstitial damage",
+      "x" : 0.1635802507201645,
+      "w" : 0.2283950421795155,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.4811111112466463,
+      "text" : "Q40. [Faculty Exam] In a symptomatic woman with acute dysuria,",
+      "x" : 0.7170781945216049,
+      "w" : 0.41769548332166384,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010290697945488758,
+      "y" : 0.467354651153395,
+      "text" : "what minimum colony count of E. coli in clean-catch urine defines",
+      "x" : 0.7201646067215364,
+      "w" : 0.4238682872844193,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.4542151163699128,
+      "text" : "significant cystitis?",
+      "x" : 0.5720164624999999,
+      "w" : 0.12757201764568593,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.4396802324854651,
+      "text" : "[A] >= 10^3 CFU\/mL (or >= 10^2 CFU\/mL of coliforms)",
+      "x" : 0.6646090503292181,
+      "w" : 0.3168724108042207,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "y" : 0.4265374678280654,
+      "text" : "[B] Any count of polymicrobial flora > 10^4 CFU\/mL",
+      "x" : 0.6574074111882715,
+      "w" : 0.3024691215851023,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.41497093030523247,
+      "text" : "[C] Exactly 10^5 CFU\/mL in two consecutive specimens",
+      "x" : 0.6687242830864196,
+      "w" : 0.32510287206877697,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010310077137417273,
+      "y" : 0.40182170546551493,
+      "text" : "[D] >= 10^6 CFU\/mL with visible macrocysts",
+      "x" : 0.6358024718621398,
+      "w" : 0.2592592539277466,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.39098837212936055,
+      "text" : "[E] >= 10^7 CFU\/mL",
+      "x" : 0.5658436228909465,
+      "w" : 0.11934155638112964,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.37863372085755814,
+      "text" : "[E] Clear cell renal cell carcinoma of the donor kidney",
+      "x" : 0.20473250718106997,
+      "w" : 0.3106995828496585,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.3626388888260281,
+      "text" : "Q34. [2020 Exam] Leptospirosis (caused by Leptospira interrogans)",
+      "x" : 0.2685185228600822,
+      "w" : 0.43415635786716295,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.3502777775648471,
+      "text" : "is a zoonosis transmitted by contact with water contaminated with",
+      "x" : 0.2633744898765431,
+      "w" : 0.4279835539044074,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.33652777759421104,
+      "text" : "rodent urine. Its severe form (Weil's Disease) is characterized by:",
+      "x" : 0.2592592550617285,
+      "w" : 0.41975306864804446,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011757105721367789,
+      "y" : 0.32115633050209075,
+      "text" : "[A] Biphasic illness with fever, severe jaundice, widespread hemorrhages,",
+      "x" : 0.26337449272976654,
+      "w" : 0.42798350592079404,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.3103197675690406,
+      "text" : "and Acute Kidney Injury (nitrogen retention)",
+      "x" : 0.1769547308641976,
+      "w" : 0.25514403529137186,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.29723837203851744,
+      "text" : "[B] Pure urethritis with copious purulent discharge and zero systemic signs",
+      "x" : 0.2674897064814816,
+      "w" : 0.43621399117715703,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01031007766723624,
+      "y" : 0.28567829472672024,
+      "text" : "[C] Nephrotic syndrome, generalized edema, and profound hypercalcemia",
+      "x" : 0.26337449094650195,
+      "w" : 0.42798350592079404,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.27252906984011627,
+      "text" : "[D] Bilateral renal artery fibromuscular dysplasia with malignant",
+      "x" : 0.2355967140260629,
+      "w" : 0.37242798235431407,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.2616279069040699,
+      "text" : "hypertension",
+      "x" : 0.0884773652777778,
+      "w" : 0.07818929804196147,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.3626388888078595,
+      "text" : "Q41. [Core Exam] A 26-year-old pregnant female (20 weeks) has",
+      "x" : 0.7078189354423867,
+      "w" : 0.43209877254078216,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.3495833331858949,
+      "text" : "fever (39 C), rigors, right CVA tenderness, and WBC casts. Diagnosis",
+      "x" : 0.7263374410836765,
+      "w" : 0.4485596470862814,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888889153798374,
+      "y" : 0.3372222222639385,
+      "text" : "and SAFE antibiotic class:",
+      "x" : 0.5925925897119342,
+      "w" : 0.17283949462122894,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011700506210327144,
+      "y" : 0.3212281610437339,
+      "text" : "[A] Acute Pyelonephritis in Pregnancy; treated with IV Beta-lactams (e.g.,",
+      "x" : 0.718117346772738,
+      "w" : 0.4239916531544812,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.31031976761143404,
+      "text" : "Ceftriaxone)",
+      "x" : 0.5452674885459534,
+      "w" : 0.07407407340763494,
+      "conf" : 0.5
+    },
+    {
+      "h" : 0.011737725999620197,
+      "y" : 0.29802002612443873,
+      "text" : "[B] Renal Papillary Necrosis; treated with indomethacin",
+      "x" : 0.666666662654321,
+      "w" : 0.3209876534324022,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01031007766723624,
+      "y" : 0.28567829472672024,
+      "text" : "[C] Acute Interstitial Nephritis; treated with tetracycline",
+      "x" : 0.6666666706790123,
+      "w" : 0.3209876534324022,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.2725290697238372,
+      "text" : "[D] Asymptomatic bacteriuria; requires observation only",
+      "x" : 0.6697530831893004,
+      "w" : 0.32304526275058965,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "y" : 0.26096253231728334,
+      "text" : "[E] Acute Cystitis; treated with oral Ciprofloxacin",
+      "x" : 0.6481481516975307,
+      "w" : 0.28395061372960884,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.24930555577608643,
+      "text" : "[E] Chronic staghorn calculus formation with hyperparathyroidism",
+      "x" : 0.24074074456790112,
+      "w" : 0.3827160529370578,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.2332848838117732,
+      "text" : "Q35. [2024 Exam] Which patient group is at highest risk for Fungal",
+      "x" : 0.2644032975051439,
+      "w" : 0.42592592059441337,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011679586304558676,
+      "y" : 0.21945090407919676,
+      "text" : "Urinary Tract Infection (Candiduria \/ Renal Candidiasis caused by",
+      "x" : 0.2602880605709878,
+      "w" : 0.42181070195803855,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.20708333317712208,
+      "text" : "Candida albicans)?",
+      "x" : 0.11316872366255144,
+      "w" : 0.12345678701340776,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.19113372102107556,
+      "text" : "[A] Diabetic patients, immunocompromised hosts, and hospitalized patients",
+      "x" : 0.270576137217078,
+      "w" : 0.44238684312352594,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.17957041355833891,
+      "text" : "with indwelling Foley catheters on broad-spectrum antibiotics",
+      "x" : 0.23045267942386827,
+      "w" : 0.3621399117715704,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.16791666647474507,
+      "text" : "[B] Patients with Gilbert syndrome and mild indirect hyperbilirubinemia",
+      "x" : 0.2551440380658435,
+      "w" : 0.4115226313752949,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010290697415669792,
+      "y" : 0.15485465113073338,
+      "text" : "[C] Healthy young athletes consuming high-protein diets",
+      "x" : 0.21604938827160475,
+      "w" : 0.33333333333333337,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.14319444452944025,
+      "text" : "[D] Schoolchildren with uncomplicated enterobiasis",
+      "x" : 0.20164609561042507,
+      "w" : 0.30452673090328963,
+      "conf" : 1
+    },
+    {
+      "h" : 0.013158914248148523,
+      "y" : 0.2332461237945025,
+      "text" : "Q42. [Clini Exam] A 72-year-old male with a Foley catheter develops",
+      "x" : 0.7263374464334705,
+      "w" : 0.436213991177157,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011679586304558676,
+      "y" : 0.21945090407919676,
+      "text" : "fever and cloudy urine. Urine has pH 8.4, coffin-lid crystals, and",
+      "x" : 0.711934151234568,
+      "w" : 0.4115226313752949,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666603,
+      "y" : 0.20638888885025303,
+      "text" : "motile urease(+) rods. Diagnosis and risk:",
+      "x" : 0.646090539643347,
+      "w" : 0.2798353711014273,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.19113372100290688,
+      "text" : "[A] Escherichia coli; risk of minimal change disease",
+      "x" : 0.6553497993484223,
+      "w" : 0.30658434022147707,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01030361758338072,
+      "y" : 0.1795704135401704,
+      "text" : "[B] Enterococcus faecalis; risk of cortical necrosis",
+      "x" : 0.655349799211248,
+      "w" : 0.2983539029487273,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.16642441869549418,
+      "text" : "[C] Staphylococcus saprophyticus; risk of honeymoon cystitis",
+      "x" : 0.686213996270576,
+      "w" : 0.360082302453383,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01029069741566968,
+      "y" : 0.154854651148902,
+      "text" : "[D] Pseudomonas aeruginosa; risk of crescentic GN",
+      "x" : 0.6584362177983538,
+      "w" : 0.30452673090328963,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.14319444452944025,
+      "text" : "[E] Proteus mirabilis; risk of infected Struvite Staghorn Calculi",
+      "x" : 0.6862139953703703,
+      "w" : 0.3600823024533829,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.13013888898620607,
+      "text" : "[E] Elderly patients with untreated uncomplicated hypertension",
+      "x" : 0.2314814876200272,
+      "w" : 0.36831273972613254,
+      "conf" : 1
+    },
+    {
+      "h" : 0.013081394831339521,
+      "y" : 0.012354651253633664,
+      "text" : "Twisted Medicine • Renal Microbiology & Pathology Master Class • Strictly Grounded in Faculty Papers",
+      "x" : 0.3004115291666665,
+      "w" : 0.5226337264918681,
+      "conf" : 1
+    },
+    {
+      "h" : 0.007325581179724816,
+      "y" : 0.013837209304465525,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.876543212037037,
+      "w" : 0.1728395066171322,
+      "conf" : 1
+    }
+  ],
+  "page" : 101
+}

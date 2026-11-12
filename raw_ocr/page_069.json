@@ -1,0 +1,1005 @@
+{
+  "items" : [
+    {
+      "y" : 0.9774224804225952,
+      "w" : 0.4958847333800118,
+      "conf" : 1,
+      "x" : 0.2808642057956101,
+      "h" : 0.013178294499715193,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 18 MCQ Masterclass"
+    },
+    {
+      "y" : 0.9760174417356003,
+      "w" : 0.06806296822409963,
+      "conf" : 1,
+      "x" : 0.935185184900204,
+      "h" : 0.010727421442667584,
+      "text" : "Page 3 of 4"
+    },
+    {
+      "y" : 0.9643217054231215,
+      "w" : 0.6975308304312844,
+      "conf" : 1,
+      "x" : 0.38168723912894387,
+      "h" : 0.010310077137417273,
+      "text" : "Twisted Medicine Medical Series • RAAS, Erythropoietin, Calcitriol, Autacoids & Endocrine Nephropathies • Standard Practice Bank"
+    },
+    {
+      "y" : 0.9505587852718028,
+      "w" : 0.40123456079255115,
+      "conf" : 1,
+      "x" : 0.23353908796296322,
+      "h" : 0.011673126220703045,
+      "text" : "Q29. [2025 Exam] Which major vasodilator prostaglandins are"
+    },
+    {
+      "y" : 0.9505587851749036,
+      "w" : 0.45473249903265034,
+      "conf" : 1,
+      "x" : 0.739711935005144,
+      "h" : 0.011673126220703156,
+      "text" : "Q36. [2023 Exam] Which of the following hormones is PRODUCED AND"
+    },
+    {
+      "y" : 0.936805555612569,
+      "w" : 0.42798350592079404,
+      "conf" : 1,
+      "x" : 0.2469135748971195,
+      "h" : 0.010277777777777719,
+      "text" : "synthesized within the renal medulla and cortex (by interstitial and"
+    },
+    {
+      "y" : 0.9360885014751386,
+      "w" : 0.4218107019580385,
+      "conf" : 1,
+      "x" : 0.7232510358367625,
+      "h" : 0.011711885664198118,
+      "text" : "SECRETED by the human kidney (Endocrine function), rather than"
+    },
+    {
+      "y" : 0.9237467699744646,
+      "w" : 0.13168723628206075,
+      "conf" : 1,
+      "x" : 0.09876543429355274,
+      "h" : 0.010284237331814161,
+      "text" : "endothelial cells)?"
+    },
+    {
+      "y" : 0.9237467700455757,
+      "w" : 0.1460905255011793,
+      "conf" : 1,
+      "x" : 0.583333330898491,
+      "h" : 0.01028423786163335,
+      "text" : "merely acting upon it?"
+    },
+    {
+      "y" : 0.9083720926692795,
+      "w" : 0.2839506137296089,
+      "conf" : 1,
+      "x" : 0.17489712105624136,
+      "h" : 0.011744185553656639,
+      "text" : "[A] Thromboxane A2 and Prostaglandin F2-alpha"
+    },
+    {
+      "y" : 0.9084302326065892,
+      "w" : 0.2716049338286778,
+      "conf" : 1,
+      "x" : 0.6460905395061727,
+      "h" : 0.00872092988755968,
+      "text" : "[A] Antidiuretic Hormone (ADH \/ Vasopressin)"
+    },
+    {
+      "y" : 0.8975290698401164,
+      "w" : 0.22633743286132807,
+      "conf" : 1,
+      "x" : 0.14609053875171454,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Leukotriene B4 and Leukotriene C4"
+    },
+    {
+      "y" : 0.8968023255329457,
+      "w" : 0.09670781789335814,
+      "conf" : 1,
+      "x" : 0.5586419736968451,
+      "h" : 0.00872092988755968,
+      "text" : "[B Aldosterone"
+    },
+    {
+      "y" : 0.8852357883900901,
+      "w" : 0.2345678941258844,
+      "conf" : 1,
+      "x" : 0.15020576522633733,
+      "h" : 0.011750645637512158,
+      "text" : "[C] Serotonin and Histamine exclusively"
+    },
+    {
+      "y" : 0.8851744185683139,
+      "w" : 0.20370370636946,
+      "conf" : 1,
+      "x" : 0.612139915149177,
+      "h" : 0.00872092988755968,
+      "text" : "[C] Atrial Natriuretic Peptide (ANP)"
+    },
+    {
+      "y" : 0.8743055556307376,
+      "w" : 0.30452673090328963,
+      "conf" : 1,
+      "x" : 0.18518518213991775,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Prostaglandin E2 (PGE2) and Prostacyclin (PGI2)"
+    },
+    {
+      "y" : 0.8735885014266889,
+      "w" : 0.14197530686480442,
+      "conf" : 1,
+      "x" : 0.5812757225308641,
+      "h" : 0.011711885664198118,
+      "text" : "[D] Erythropoietin (EPO)"
+    },
+    {
+      "y" : 0.8626388889229274,
+      "w" : 0.22427982354314074,
+      "conf" : 1,
+      "x" : 0.1430041117626888,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Prostaglandin D2 and Endothelin-1"
+    },
+    {
+      "y" : 0.8619412148250964,
+      "w" : 0.18518518651806337,
+      "conf" : 1,
+      "x" : 0.6028806563271605,
+      "h" : 0.011673126220703156,
+      "text" : "[E] Parathyroid Hormone (PTH)"
+    },
+    {
+      "y" : 0.823462532190103,
+      "w" : 0.4197530686480444,
+      "conf" : 1,
+      "x" : 0.2427983469135805,
+      "h" : 0.010297157499525311,
+      "text" : "Q30. [2024 Exam] What is the critical role of renal Prostaglandins"
+    },
+    {
+      "y" : 0.8095930232073644,
+      "w" : 0.36625513040794516,
+      "conf" : 1,
+      "x" : 0.2139917634430729,
+      "h" : 0.011627906163533597,
+      "text" : "(PGE2 & PGI2) during hypovolemia or high Ang Il tone?"
+    },
+    {
+      "y" : 0.7943055556159087,
+      "w" : 0.4238682872844193,
+      "conf" : 1,
+      "x" : 0.24485597131687237,
+      "h" : 0.010277777777777719,
+      "text" : "[A] They induce severe efferent arteriolar spasm to stop urine production"
+    },
+    {
+      "y" : 0.7841569767684109,
+      "w" : 0.41975306864804435,
+      "conf" : 1,
+      "x" : 0.24074074773662527,
+      "h" : 0.010174418555365716,
+      "text" : "[B] They stimulate massive calcium deposition in the renal pyramid tips"
+    },
+    {
+      "y" : 0.771802325387597,
+      "w" : 0.41769543533805037,
+      "conf" : 1,
+      "x" : 0.24176954420438976,
+      "h" : 0.011627906163533486,
+      "text" : "[C] They completely abolish aldosterone-mediated sodium reabsorption"
+    },
+    {
+      "y" : 0.7602357882931909,
+      "w" : 0.4506172803962756,
+      "conf" : 1,
+      "x" : 0.25617283199588503,
+      "h" : 0.011750645637512158,
+      "text" : "[D] They trigger widespread platelet aggregation inside glomerular capillaries"
+    },
+    {
+      "y" : 0.7485885014509137,
+      "w" : 0.41152263137529477,
+      "conf" : 1,
+      "x" : 0.23662551954732497,
+      "h" : 0.011711885664198118,
+      "text" : "[E] Dilating Afferent Arterioles, buffering excessive vasoconstriction to"
+    },
+    {
+      "y" : 0.736944444553665,
+      "w" : 0.17901233457169444,
+      "conf" : 1,
+      "x" : 0.12037037335390936,
+      "h" : 0.008888888888888946,
+      "text" : "maintain RBF and prevent AKI"
+    },
+    {
+      "y" : 0.6961563304051914,
+      "w" : 0.4176954353380503,
+      "conf" : 1,
+      "x" : 0.24176954036351186,
+      "h" : 0.011757105721367789,
+      "text" : "Q31. [2023 Exam] How do Nonsteroidal Anti-Inflammatory Drugs"
+    },
+    {
+      "y" : 0.6823611110137939,
+      "w" : 0.4423867951399125,
+      "conf" : 1,
+      "x" : 0.25205760579561065,
+      "h" : 0.010277777777777719,
+      "text" : "(NSAIDs like Ibuprofen, Indomethacin) cause Acute Prerenal Kidney"
+    },
+    {
+      "y" : 0.6686046512790698,
+      "w" : 0.05144032892191186,
+      "conf" : 1,
+      "x" : 0.05452674923868313,
+      "h" : 0.01162790722317164,
+      "text" : "Injury?"
+    },
+    {
+      "y" : 0.6548546512793638,
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "x" : 0.23559670376543218,
+      "h" : 0.01029069794548887,
+      "text" : "[A] Direct immunological destruction of glomerular podocyte pedicels"
+    },
+    {
+      "y" : 0.64319444440226,
+      "w" : 0.4506172803962755,
+      "conf" : 1,
+      "x" : 0.2561728338734569,
+      "h" : 0.01027777777777783,
+      "text" : "[B] By directly stimulating excessive renin secretion from the juxtaglomerular"
+    },
+    {
+      "y" : 0.6308139535852713,
+      "w" : 0.06790123345716945,
+      "conf" : 1,
+      "x" : 0.06481481594650201,
+      "h" : 0.00872092988755968,
+      "text" : "apparatus"
+    },
+    {
+      "y" : 0.6198611111591428,
+      "w" : 0.4094649980653007,
+      "conf" : 1,
+      "x" : 0.23765432781207108,
+      "h" : 0.010277777777777719,
+      "text" : "[C] By activating V2 vasopressin receptors to cause water intoxication"
+    },
+    {
+      "y" : 0.6082848837936046,
+      "w" : 0.44855964708628143,
+      "conf" : 1,
+      "x" : 0.2572016505761316,
+      "h" : 0.010174418555365716,
+      "text" : "[D] By inhibiting Cyclooxygenase (COX-1\/COX-2), blocking protective afferent"
+    },
+    {
+      "y" : 0.5958720929599772,
+      "w" : 0.42592592059441325,
+      "conf" : 1,
+      "x" : 0.24588478076131665,
+      "h" : 0.011744185553656639,
+      "text" : "arteriolar PGE2\/PGI2 synthesis and causing uninhibited vasoconstriction"
+    },
+    {
+      "y" : 0.5850290698401162,
+      "w" : 0.4032921941025452,
+      "conf" : 1,
+      "x" : 0.23456790526748963,
+      "h" : 0.010174418555365716,
+      "text" : "[E] By hydrolyzing all circulating erythropoietin molecules in the blood"
+    },
+    {
+      "y" : 0.5690277779093464,
+      "w" : 0.3991769514743637,
+      "conf" : 1,
+      "x" : 0.23251028755144038,
+      "h" : 0.010277777777777719,
+      "text" : "Q32. [2022 Exam] Which specialized cells located in the Renal"
+    },
+    {
+      "y" : 0.5559722224387866,
+      "w" : 0.4403292098135319,
+      "conf" : 1,
+      "x" : 0.2530864142489714,
+      "h" : 0.010277777777777719,
+      "text" : "Medullary Interstitium produce Medullipin I, and what is its systemic"
+    },
+    {
+      "y" : 0.543611111172331,
+      "w" : 0.12139917769522035,
+      "conf" : 1,
+      "x" : 0.09362140039094646,
+      "h" : 0.008888889153798374,
+      "text" : "vascular function?"
+    },
+    {
+      "y" : 0.5268217054489097,
+      "w" : 0.36213991177157034,
+      "conf" : 1,
+      "x" : 0.21399177558299018,
+      "h" : 0.01031007766723635,
+      "text" : "[A] Podocytes; converted in lung into a potent vasoconstrictor"
+    },
+    {
+      "y" : 0.5152616280281008,
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "x" : 0.23559671457475978,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Macula densa plaques; converted into angiotensinogen in the liver"
+    },
+    {
+      "y" : 0.5036337208757267,
+      "w" : 0.3991769514743637,
+      "conf" : 1,
+      "x" : 0.23251028307613184,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Vascular endothelial cells; converted into endothelin in the kidney"
+    },
+    {
+      "y" : 0.49207041358862,
+      "w" : 0.38477363826343847,
+      "conf" : 1,
+      "x" : 0.2253086483882028,
+      "h" : 0.01030361758338083,
+      "text" : "[D] Principal cells; converted into aldosterone in the adrenal gland"
+    },
+    {
+      "y" : 0.48041666689555246,
+      "w" : 0.44650206175990076,
+      "conf" : 1,
+      "x" : 0.254115220756173,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Renal Medullary Interstitial Cells (RMICs) \/ Lipid-laden cells; converted by"
+    },
+    {
+      "y" : 0.4687500000726744,
+      "w" : 0.38065841962706365,
+      "conf" : 1,
+      "x" : 0.22119342198216713,
+      "h" : 0.01027777777777783,
+      "text" : "hepatic CYP450 into Medullipin II, causing systemic vasodilation"
+    },
+    {
+      "y" : 0.44191214506506904,
+      "w" : 0.45267486572265625,
+      "conf" : 1,
+      "x" : 0.25925926491769535,
+      "h" : 0.011731265915764677,
+      "text" : "Q33. [2021 Exam] In the renal Kallikrein-Kinin system, tissue kallikrein"
+    },
+    {
+      "y" : 0.4280523255571705,
+      "w" : 0.3436213799242704,
+      "conf" : 1,
+      "x" : 0.20473250456104275,
+      "h" : 0.010174418555365716,
+      "text" : "cleaves kininogen to form Bradykinin, which causes:"
+    },
+    {
+      "y" : 0.41347222227860875,
+      "w" : 0.4320987725407822,
+      "conf" : 1,
+      "x" : 0.24897118801440343,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Potent renal vasodilation, increased renal blood flow, and promotion of"
+    },
+    {
+      "y" : 0.40182170525511124,
+      "w" : 0.14609052550117926,
+      "conf" : 1,
+      "x" : 0.10390946258573397,
+      "h" : 0.01031007766723635,
+      "text" : "natriuresis and diuresis"
+    },
+    {
+      "y" : 0.39026162785247104,
+      "w" : 0.40534977942892597,
+      "conf" : 1,
+      "x" : 0.2335390895833335,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Severe cortical vasoconstriction, marked GFR decline, and sodium"
+    },
+    {
+      "y" : 0.37936046516472866,
+      "w" : 0.05967077819056481,
+      "conf" : 1,
+      "x" : 0.06069958947187924,
+      "h" : 0.00872092988755968,
+      "text" : "retention"
+    },
+    {
+      "y" : 0.3670704135401704,
+      "w" : 0.3827160289452511,
+      "conf" : 1,
+      "x" : 0.2242798417695471,
+      "h" : 0.01030361758338072,
+      "text" : "[C] Selective constriction of the main renal artery with total anuria"
+    },
+    {
+      "y" : 0.35541666649291365,
+      "w" : 0.35390945050701406,
+      "conf" : 1,
+      "x" : 0.20987654910836745,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Direct transcriptional activation of ENaC in principal cells"
+    },
+    {
+      "y" : 0.34445090401863476,
+      "w" : 0.3477366225524518,
+      "conf" : 1,
+      "x" : 0.2047325044924556,
+      "h" : 0.011679586304558676,
+      "text" : "[E] Permanent occlusion of medullary vasa recta capillaries"
+    },
+    {
+      "y" : 0.3154069767926357,
+      "w" : 0.4403292098135318,
+      "conf" : 1,
+      "x" : 0.25308642709190643,
+      "h" : 0.011627906163533486,
+      "text" : "Q34. [2020 Exam] How is Renal Dopamine synthesized locally within"
+    },
+    {
+      "y" : 0.3015374678583465,
+      "w" : 0.36213991177157034,
+      "conf" : 1,
+      "x" : 0.21399177558299018,
+      "h" : 0.010297157499525311,
+      "text" : "the kidney, and what is its primary physiological action?"
+    },
+    {
+      "y" : 0.28708333337969316,
+      "w" : 0.42798350592079404,
+      "conf" : 1,
+      "x" : 0.24485596447187943,
+      "h" : 0.01027777777777783,
+      "text" : "[A] From L-DOPA in PCT cells via L-amino acid decarboxylase; acts on D1"
+    },
+    {
+      "y" : 0.2747222221686025,
+      "w" : 0.14814814681527,
+      "conf" : 1,
+      "x" : 0.10493827345679009,
+      "h" : 0.008888888623979407,
+      "text" : "receptors for natriuresis"
+    },
+    {
+      "y" : 0.2623611113193206,
+      "w" : 0.43415635786716295,
+      "conf" : 1,
+      "x" : 0.2479423940672151,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Secreted by adrenal medulla; acts on alpha-1 receptors causing severe"
+    },
+    {
+      "y" : 0.2529069767926357,
+      "w" : 0.05967077819056481,
+      "conf" : 1,
+      "x" : 0.06069958947187924,
+      "h" : 0.00872092988755957,
+      "text" : "ischemia"
+    },
+    {
+      "y" : 0.2405523256540697,
+      "w" : 0.40946499806530073,
+      "conf" : 1,
+      "x" : 0.23559671464334686,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Produced by podocytes; acts on V2 receptors to concentrate urine"
+    },
+    {
+      "y" : 0.2289244186773256,
+      "w" : 0.39300409952799475,
+      "conf" : 1,
+      "x" : 0.22736626169410126,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Filtered from brain; blocks all sodium transport in loop of Henle"
+    },
+    {
+      "y" : 0.2173546511125649,
+      "w" : 0.4012345607925511,
+      "conf" : 1,
+      "x" : 0.23148148649691344,
+      "h" : 0.010290697415669792,
+      "text" : "[E] Synthesized in collecting ducts; stimulates aldosterone synthesis"
+    },
+    {
+      "y" : 0.18749999994186056,
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "x" : 0.24999999569958853,
+      "h" : 0.011666666666666603,
+      "text" : "Q35. [2024 Exam] Endothelin-1 (ET-1) is a locally produced peptide"
+    },
+    {
+      "y" : 0.17374677020909318,
+      "w" : 0.3004115122669148,
+      "conf" : 1,
+      "x" : 0.18312757577160485,
+      "h" : 0.01028423786163335,
+      "text" : "autacoid in the kidney that acts primarily as a:"
+    },
+    {
+      "y" : 0.15988372088178293,
+      "w" : 0.31893002012240806,
+      "conf" : 1,
+      "x" : 0.19032921279149537,
+      "h" : 0.00872092988755968,
+      "text" : "[A] Potent renal vasodilator that increases GFR tenfold"
+    },
+    {
+      "y" : 0.14830426373922667,
+      "w" : 0.30246912158510225,
+      "conf" : 1,
+      "x" : 0.18209876039094672,
+      "h" : 0.011724805831909269,
+      "text" : "[B] Direct stimulator of bone marrow erythropoiesis"
+    },
+    {
+      "y" : 0.13665697704073482,
+      "w" : 0.3518518411888267,
+      "conf" : 1,
+      "x" : 0.2067901175925928,
+      "h" : 0.011686046388414195,
+      "text" : "[C] Hormone that hydrolyzes filtered amino acids in the PCT"
+    },
+    {
+      "y" : 0.12430555567918722,
+      "w" : 0.4423867951399125,
+      "conf" : 1,
+      "x" : 0.25205760579561065,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Potent endogenous renal vasoconstrictor that contracts mesangial cells"
+    },
+    {
+      "y" : 0.1133333333504068,
+      "w" : 0.15843620540211037,
+      "conf" : 1,
+      "x" : 0.11008230188614551,
+      "h" : 0.008888888623979407,
+      "text" : "and reduces GFR and RBF"
+    },
+    {
+      "y" : 0.10097222242395765,
+      "w" : 0.3086419735314711,
+      "conf" : 1,
+      "x" : 0.1851851890432098,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Specific inhibitor of carbonic anhydrase enzymes"
+    },
+    {
+      "y" : 0.8234625323354519,
+      "w" : 0.42798355390440745,
+      "conf" : 1,
+      "x" : 0.7263374528395061,
+      "h" : 0.010297157499525311,
+      "text" : "Q37. [2022 Exam] Which of the following endocrine hormones acts"
+    },
+    {
+      "y" : 0.8095930231976745,
+      "w" : 0.4506172803962756,
+      "conf" : 1,
+      "x" : 0.7376543164814815,
+      "h" : 0.01162790722317164,
+      "text" : "directly ON the kidney (target organ) but is synthesized EXCLUSIVELY"
+    },
+    {
+      "y" : 0.7965116279941861,
+      "w" : 0.20781892500583476,
+      "conf" : 1,
+      "x" : 0.616255146111111,
+      "h" : 0.011627907223171752,
+      "text" : "by extrarenal endocrine glands?"
+    },
+    {
+      "y" : 0.7819444443927055,
+      "w" : 0.061728393506703894,
+      "conf" : 1,
+      "x" : 0.5411522626028806,
+      "h" : 0.008888889153798374,
+      "text" : "[A] Renin"
+    },
+    {
+      "y" : 0.7695833334101871,
+      "w" : 0.10493826716201116,
+      "conf" : 1,
+      "x" : 0.5627572012002743,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Erythropoietin"
+    },
+    {
+      "y" : 0.7587209301744187,
+      "w" : 0.18518518651806326,
+      "conf" : 1,
+      "x" : 0.6028806565843621,
+      "h" : 0.00872092988755968,
+      "text" : "[C] Parathyroid Hormone (PTH)"
+    },
+    {
+      "y" : 0.7463662789001937,
+      "w" : 0.2572016446095592,
+      "conf" : 1,
+      "x" : 0.6388888881001371,
+      "h" : 0.010174418555365716,
+      "text" : "[DJ 1,25-dihydroxycholecalciferol (Calcitriol)"
+    },
+    {
+      "y" : 0.7354651163517443,
+      "w" : 0.09053497794289267,
+      "conf" : 1,
+      "x" : 0.5555555566872428,
+      "h" : 0.00872092988755968,
+      "text" : "[E Medullipin I"
+    },
+    {
+      "y" : 0.6961563305989898,
+      "w" : 0.4341563578671629,
+      "conf" : 1,
+      "x" : 0.7294238655606997,
+      "h" : 0.011757105721367678,
+      "text" : "Q38. [2021 Exam] Why is Recombinant Human Erythropoietin (EPO)"
+    },
+    {
+      "y" : 0.6823611110622436,
+      "w" : 0.42386828728441917,
+      "conf" : 1,
+      "x" : 0.7222222151577506,
+      "h" : 0.010277777777777719,
+      "text" : "therapy administered in combination with oral or intravenous Iron"
+    },
+    {
+      "y" : 0.6700193797174676,
+      "w" : 0.22016460490676593,
+      "conf" : 1,
+      "x" : 0.6224279807870372,
+      "h" : 0.011705425580342599,
+      "text" : "supplementation in CKD patients?"
+    },
+    {
+      "y" : 0.6548546511307334,
+      "w" : 0.4176954353380504,
+      "conf" : 1,
+      "x" : 0.7191358094307269,
+      "h" : 0.01029069741566968,
+      "text" : "[A] Iron prevents the liver from metabolizing erythropoietin into bilirubin"
+    },
+    {
+      "y" : 0.6431944445294403,
+      "w" : 0.3641975210897578,
+      "conf" : 1,
+      "x" : 0.6923868373456787,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Iron acts as a direct cofactor for renal 1-alpha-hydroxylase"
+    },
+    {
+      "y" : 0.6315277775793819,
+      "w" : 0.405349779428926,
+      "conf" : 1,
+      "x" : 0.7129629697187927,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Erythropoietin directly chelates iron and precipitates it in the urine"
+    },
+    {
+      "y" : 0.6198611111591428,
+      "w" : 0.3744855916725015,
+      "conf" : 1,
+      "x" : 0.6975308704389573,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Iron blocks parathyroid hormone secretion to protect bones"
+    },
+    {
+      "y" : 0.608284883775436,
+      "w" : 0.4465020617599007,
+      "conf" : 1,
+      "x" : 0.7335391002314814,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Rapid erythropoiesis consumes massive amounts of iron; iron deficiency"
+    },
+    {
+      "y" : 0.5959302326550389,
+      "w" : 0.14814814681527,
+      "conf" : 1,
+      "x" : 0.5843621423868313,
+      "h" : 0.00872092988755968,
+      "text" : "impairs response to EPO"
+    },
+    {
+      "y" : 0.5697351421163555,
+      "w" : 0.4444444284499067,
+      "conf" : 1,
+      "x" : 0.7345678966049384,
+      "h" : 0.011692505942450526,
+      "text" : "Q39. [2025 Exam] What is the primary cardiovascular risk associated"
+    },
+    {
+      "y" : 0.5559722220361478,
+      "w" : 0.42798350592079415,
+      "conf" : 1,
+      "x" : 0.7263374556927297,
+      "h" : 0.010277777777777719,
+      "text" : "with overcorrecting hemoglobin (>11-12 g\/dL) using Recombinant"
+    },
+    {
+      "y" : 0.5421963825345081,
+      "w" : 0.20370370636946,
+      "conf" : 1,
+      "x" : 0.6141975274691359,
+      "h" : 0.011718345748053638,
+      "text" : "Erythropoietin in CKD patients?"
+    },
+    {
+      "y" : 0.5268217053035609,
+      "w" : 0.2736625431468652,
+      "conf" : 1,
+      "x" : 0.6471193370027437,
+      "h" : 0.01031007766723635,
+      "text" : "[A] Severe hypotension and recurrent syncope"
+    },
+    {
+      "y" : 0.5159883722383721,
+      "w" : 0.3662551304079451,
+      "conf" : 1,
+      "x" : 0.6934156390946501,
+      "h" : 0.011627906163533597,
+      "text" : "[B] Massive hemorrhagic stroke caused by platelet destruction"
+    },
+    {
+      "y" : 0.503633721002907,
+      "w" : 0.33744855196970813,
+      "conf" : 1,
+      "x" : 0.6790123513031548,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Acute bone marrow aplasia and fatal agranulocytosis"
+    },
+    {
+      "y" : 0.4920704135583389,
+      "w" : 0.3271604813869644,
+      "conf" : 1,
+      "x" : 0.6738683168467078,
+      "h" : 0.01030361758338083,
+      "text" : "[D] Diffuse osteomalacia with pathological rib fractures"
+    },
+    {
+      "y" : 0.48041666651108217,
+      "w" : 0.4465020617599007,
+      "conf" : 1,
+      "x" : 0.7335391002314814,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Increased blood viscosity, exacerbation of Hypertension, and Thrombotic"
+    },
+    {
+      "y" : 0.46944444434503757,
+      "w" : 0.13374484560024813,
+      "conf" : 1,
+      "x" : 0.5771604960562414,
+      "h" : 0.008888888888888835,
+      "text" : "cardiovascular events"
+    },
+    {
+      "y" : 0.44191214506506904,
+      "w" : 0.4362139911771571,
+      "conf" : 1,
+      "x" : 0.7304526803497942,
+      "h" : 0.011731265915764677,
+      "text" : "Q40. [Faculty Exam] Which of the following describes the 'Endocrine"
+    },
+    {
+      "y" : 0.4288436693783486,
+      "w" : 0.36831273972613265,
+      "conf" : 1,
+      "x" : 0.6965020637517145,
+      "h" : 0.0117571051915486,
+      "text" : "Axis' linking the kidney to bone and mineral metabolism?"
+    },
+    {
+      "y" : 0.4127777780365266,
+      "w" : 0.34773662255245186,
+      "conf" : 1,
+      "x" : 0.6841563728052127,
+      "h" : 0.011666666666666714,
+      "text" : "[A] Renin -> Angiotensin I -> Aldosterone -> Bone resorption"
+    },
+    {
+      "y" : 0.4018540048796601,
+      "w" : 0.4238682872844193,
+      "conf" : 1,
+      "x" : 0.7201646048148149,
+      "h" : 0.013152454694112081,
+      "text" : "[B] Erythropoietin -> Bone marrow -> Platelet release -> Osteoblast death"
+    },
+    {
+      "y" : 0.39020671830834874,
+      "w" : 0.45679013234264443,
+      "conf" : 1,
+      "x" : 0.7366255201131686,
+      "h" : 0.013191214137607155,
+      "text" : "[c] Kidney 1-alpha-hydroxylase converts 25(OH)D to Calcitriol -> enhances gut"
+    },
+    {
+      "y" : 0.3794121450408443,
+      "w" : 0.23662550344407185,
+      "conf" : 1,
+      "x" : 0.6306584401577502,
+      "h" : 0.011731265915764677,
+      "text" : "Ca2+ uptake -> suppresses PTH release"
+    },
+    {
+      "y" : 0.36776485795631897,
+      "w" : 0.37860081030887627,
+      "conf" : 1,
+      "x" : 0.7016460858024692,
+      "h" : 0.011692505942450637,
+      "text" : "[D] Medullipin | -> Liver -> Angiotensin II -> Osteoclast stimulation"
+    },
+    {
+      "y" : 0.35541666647474507,
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "x" : 0.7129629680298353,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Kallikrein -> Bradykinin -> Calcitonin release -> Osteoid destruction"
+    },
+    {
+      "y" : 0.3146802326489824,
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "x" : 0.7273662605195472,
+      "h" : 0.010174418555365716,
+      "text" : "Q41. [Core Exam] A diabetic CKD patient has Hb 8.1 g\/dL, Ca2+ 8.0"
+    },
+    {
+      "y" : 0.30084302312727546,
+      "w" : 0.4320987725407822,
+      "conf" : 1,
+      "x" : 0.726337441358025,
+      "h" : 0.011686045858595118,
+      "text" : "mg\/dL, phosphate 6.2 mg\/dL, and high PTH. The endocrine causes"
+    },
+    {
+      "y" : 0.28706395343386626,
+      "w" : 0.026748969120049537,
+      "conf" : 1,
+      "x" : 0.5257201642746915,
+      "h" : 0.007267441749572834,
+      "text" : "are."
+    },
+    {
+      "y" : 0.27252906984011627,
+      "w" : 0.3518518411888266,
+      "conf" : 1,
+      "x" : 0.6862139976337447,
+      "h" : 0.010174418555365605,
+      "text" : "[A] Primary hyperparathyroidism and iron deficiency anemia"
+    },
+    {
+      "y" : 0.26096253238390155,
+      "w" : 0.32304526275058965,
+      "conf" : 1,
+      "x" : 0.671810704972565,
+      "h" : 0.0102971574995252,
+      "text" : "[B] Primary adrenal insufficiency and Addisonian crisis"
+    },
+    {
+      "y" : 0.2506944442723631,
+      "w" : 0.4053497794289258,
+      "conf" : 1,
+      "x" : 0.7129629562071332,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Renal cell carcinoma hypersecreting ectopic parathyroid hormone"
+    },
+    {
+      "y" : 0.23903746766454814,
+      "w" : 0.45267486572265625,
+      "conf" : 1,
+      "x" : 0.7366255068587108,
+      "h" : 0.0102971574995252,
+      "text" : "[D] Deficient renal Erythropoietin and 1-alpha-hydroxylase (causing Secondary"
+    },
+    {
+      "y" : 0.22601744169089139,
+      "w" : 0.12962962696387337,
+      "conf" : 0.5,
+      "x" : 0.5771604924211249,
+      "h" : 0.010174418555365716,
+      "text" : "Hyperparathyroidism)"
+    },
+    {
+      "y" : 0.21504844944272095,
+      "w" : 0.35185184118882673,
+      "conf" : 1,
+      "x" : 0.6862139903635117,
+      "h" : 0.011763565805223308,
+      "text" : "[E] Cushing disease with excessive pituitary ACTH secretion"
+    },
+    {
+      "y" : 0.18750000007267442,
+      "w" : 0.4218107019580385,
+      "conf" : 1,
+      "x" : 0.723251034079218,
+      "h" : 0.011666666666666714,
+      "text" : "Q42. [Clini Exam] A patient taking Enalapril and Furosemide takes"
+    },
+    {
+      "y" : 0.17444121487354602,
+      "w" : 0.4465020617599007,
+      "conf" : 1,
+      "x" : 0.7335390873456793,
+      "h" : 0.011673126220703045,
+      "text" : "high-dose Naproxen (NSAID) and develops acute oliguric AKI due to:"
+    },
+    {
+      "y" : 0.15915697657461253,
+      "w" : 0.4588477176690252,
+      "conf" : 1,
+      "x" : 0.7397119356310013,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Direct immune complex deposition on the glomerular basement membrane"
+    },
+    {
+      "y" : 0.1483042639330251,
+      "w" : 0.4320987725407823,
+      "conf" : 1,
+      "x" : 0.7263374522633744,
+      "h" : 0.011724805831909269,
+      "text" : "[B] Massive overproduction of erythropoietin causing vascular thrombosis"
+    },
+    {
+      "y" : 0.13596253233545186,
+      "w" : 0.43827157650353776,
+      "conf" : 1,
+      "x" : 0.7294238756172837,
+      "h" : 0.0102971574995252,
+      "text" : "[C] Naproxen directly activates 1-alpha-hydroxylase causing hypercalcemia"
+    },
+    {
+      "y" : 0.1243055555762318,
+      "w" : 0.4320987725407823,
+      "conf" : 1,
+      "x" : 0.7263374527777777,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Furosemide and Naproxen bind aldosterone receptors causing sodium"
+    },
+    {
+      "y" : 0.1133720929748061,
+      "w" : 0.028806584436188665,
+      "conf" : 1,
+      "x" : 0.5246913575445816,
+      "h" : 0.00872092988755968,
+      "text" : "loss"
+    },
+    {
+      "y" : 0.10097222227255265,
+      "w" : 0.4465020617599008,
+      "conf" : 1,
+      "x" : 0.7335390909293553,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Efferent dilation (ACEi) plus afferent constriction (NSAID), collapsing GFR"
+    },
+    {
+      "y" : 0.014573643611020815,
+      "w" : 0.5761316647319674,
+      "conf" : 1,
+      "x" : 0.3209876615226336,
+      "h" : 0.017519379191928475,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Board am Past Papers"
+    },
+    {
+      "y" : 0.01966085278616625,
+      "w" : 0.19135801447262546,
+      "conf" : 1,
+      "x" : 0.8734567925154321,
+      "h" : 0.007344961166381836,
+      "text" : "Confidential Student Revision Bank"
+    }
+  ],
+  "page" : 69
+}

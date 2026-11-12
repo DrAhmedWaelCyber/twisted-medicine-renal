@@ -1,0 +1,1005 @@
+{
+  "items" : [
+    {
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "x" : 0.29605263038063906,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 38 MCQ Masterclass",
+      "y" : 0.9752777778911779,
+      "w" : 0.4755639104342649
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "x" : 0.37406015827067646,
+      "text" : "Twisted Medicine Medical Series • Glomerular Diseases, Nephrotic & Nephritic Syndromes • Standard Practice Bank",
+      "y" : 0.9636111111591428,
+      "w" : 0.6315789404402183
+    },
+    {
+      "h" : 0.010564445389641741,
+      "conf" : 1,
+      "x" : 0.9069548869583997,
+      "text" : "Page 3 of 4",
+      "y" : 0.9745639536275552,
+      "w" : 0.06964276421421467
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.25845864161184223,
+      "text" : "Q29. [2025 Exam] Which disease is globally recognized as the",
+      "y" : 0.9353197673873546,
+      "w" : 0.4003759256633043
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.25469924151002526,
+      "text" : "single most common primary glomerulonephritis worldwide?",
+      "y" : 0.9222383720203489,
+      "w" : 0.3966165373944105
+    },
+    {
+      "h" : 0.01029069741566968,
+      "conf" : 1,
+      "x" : 0.1409774407894738,
+      "text" : "[A] Membranous Nephropathy",
+      "y" : 0.9076453488692666,
+      "w" : 0.16917292185604443
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.16917293114035087,
+      "text" : "[B] Focal Segmental Glomerulosclerosis",
+      "y" : 0.8931944442871922,
+      "w" : 0.2255639104342649
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "x" : 0.17857143101503753,
+      "text" : "[C] Dense Deposit Disease (MPGN Type II)",
+      "y" : 0.8808333332682592,
+      "w" : 0.24436089565735086
+    },
+    {
+      "h" : 0.01030361758338072,
+      "conf" : 1,
+      "x" : 0.16353383190789478,
+      "text" : "[D] IgA Nephropathy (Berger Disease)",
+      "y" : 0.8670704134129901,
+      "w" : 0.21428570174896655
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.11372180565789472,
+      "text" : "[E] Alport Syndrome",
+      "y" : 0.8539244186773256,
+      "w" : 0.11466164935157935
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2744360830200504,
+      "text" : "Q35. [2024 Exam] According to the ISN\/RPS classification of Lupus",
+      "y" : 0.19263888888930675,
+      "w" : 0.432330791766827
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.2556390928101505,
+      "text" : "Nephritis, which class is the MOST COMMON and carries the",
+      "y" : 0.17957041341299018,
+      "w" : 0.39473682132065513
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.1663533870614034,
+      "text" : "MOST SEVERE renal prognosis?",
+      "y" : 0.16642441872577518,
+      "w" : 0.21616539588341346
+    },
+    {
+      "h" : 0.01031007766723624,
+      "conf" : 1,
+      "x" : 0.18796992156954898,
+      "text" : "[A] Class I: Minimal Mesangial Lupus Nephritis",
+      "y" : 0.15182170527327976,
+      "w" : 0.25939849261154296
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "x" : 0.19924811672932335,
+      "text" : "[B] Class II: Mesangial Proliferative Lupus Nephritis",
+      "y" : 0.13875322979090682,
+      "w" : 0.2857142763117249
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.1776315819783834,
+      "text" : "[C] Class V: Membranous Lupus Nephritis",
+      "y" : 0.125694444387431,
+      "w" : 0.24248120152290398
+    },
+    {
+      "h" : 0.011673126220703045,
+      "conf" : 1,
+      "x" : 0.19830827039473686,
+      "text" : "[D] Class VI: Advanced Sclerosing Lupus Nephritis",
+      "y" : 0.11194121487354602,
+      "w" : 0.283834582177278
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "x" : 0.25375940513784434,
+      "text" : "[E] Class IV: Diffuse Proliferative Lupus Nephritis (DPN; subendothelial",
+      "y" : 0.09888888901043075,
+      "w" : 0.39849620958954884
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.26597743662280726,
+      "text" : "'wire-loop' lesions, extensive crescents, and marked hypocomplementemia)",
+      "y" : 0.08652777764266073,
+      "w" : 0.4191729108863902
+    },
+    {
+      "h" : 0.011711885664198118,
+      "conf" : 1,
+      "x" : 0.6917293293859648,
+      "text" : "Q36. [2023 Exam] What is the characteristic 'Full House'",
+      "y" : 0.936088501523588,
+      "w" : 0.3646616493515794
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7236842051221806,
+      "text" : "immunofluorescence pattern in severe Lupus Nephritis (Class IV)?",
+      "y" : 0.9222383720385174,
+      "w" : 0.43233083564544394
+    },
+    {
+      "h" : 0.010290697945488758,
+      "conf" : 1,
+      "x" : 0.7133458715225562,
+      "text" : "[A] Isolated linear IgG deposition along capillary walls without complement",
+      "y" : 0.9076453487497058,
+      "w" : 0.41165413434860265
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.7105263135964913,
+      "text" : "[B] Concurrent positive granular deposition of IgG, IgA, IgM, C3, and C1q",
+      "y" : 0.8938888890893744,
+      "w" : 0.4060150300059535
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.5789473689223058,
+      "text" : "across mesangium\/walls",
+      "y" : 0.881527777866953,
+      "w" : 0.14285713815586254
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.7180451169924812,
+      "text" : "[C] Negative immunofluorescence for all immunoglobulins and complements",
+      "y" : 0.8684722220361478,
+      "w" : 0.42105262696014556
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6973684257988721,
+      "text" : "[D] Pure mesangial IgA deposition without any other immunoglobulin",
+      "y" : 0.855416666474745,
+      "w" : 0.3796992243664631
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "x" : 0.6907894773496239,
+      "text" : "[E] Pure tubular basement membrane kappa light chain deposition",
+      "y" : 0.8423546511307335,
+      "w" : 0.3665413434860263
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "x" : 0.2622180383145366,
+      "text" : "Q30. [2024 Exam] What is the classic clinical hallmark of Gross",
+      "y" : 0.8124999999515503,
+      "w" : 0.40789470220109186
+    },
+    {
+      "h" : 0.011737725469801119,
+      "conf" : 1,
+      "x" : 0.2048872229323307,
+      "text" : "Hematuria in patients with IgA Nephropathy?",
+      "y" : 0.7980200260775525,
+      "w" : 0.293233074788821
+    },
+    {
+      "h" : 0.01174418555365675,
+      "conf" : 1,
+      "x" : 0.26315788956766933,
+      "text" : "[A] Hematuria developing strictly 3 weeks post-impetigo with low serum C3",
+      "y" : 0.7833720928267407,
+      "w" : 0.413533806543741
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.25751880206766903,
+      "text" : "[B] Continuous massive gross hematuria containing large worm-like clots",
+      "y" : 0.7695833331407848,
+      "w" : 0.4060150300059534
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.25375940347744347,
+      "text" : "[C] Painless hematuria occurring exclusively in elderly diabetic females",
+      "y" : 0.7565277775975506,
+      "w" : 0.39849620958954884
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.24530075823934816,
+      "text" : "[D] Terminal hematuria with severe dysuria and sandy urine patches",
+      "y" : 0.7434722220361478,
+      "w" : 0.3815789404402184
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2622180399201129,
+      "text" : "[E] Synpharyngitic hematuria (episodes occurring concurrently or 1-2 days",
+      "y" : 0.7304166668955525,
+      "w" : 0.4154135226174964
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.1625939814223059,
+      "text" : "after URI) with NORMAL complement",
+      "y" : 0.7187499999273256,
+      "w" : 0.21240600761451967
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.24906015509868407,
+      "text" : "Q31. [2023 Exam] What systemic small-vessel vasculitis in",
+      "y" : 0.6881944443510938,
+      "w" : 0.37781955217132457
+    },
+    {
+      "h" : 0.011673126750522234,
+      "conf" : 1,
+      "x" : 0.25093985347744346,
+      "text" : "pediatric patients shares identical renal histopathology and",
+      "y" : 0.6744412145020473,
+      "w" : 0.3853383287091121
+    },
+    {
+      "h" : 0.011698966026306268,
+      "conf" : 1,
+      "x" : 0.2180451167763157,
+      "text" : "mesangial lgA deposition with IgA Nephropathy?",
+      "y" : 0.6613727393063863,
+      "w" : 0.31954885848900294
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.12030075401002499,
+      "text" : "[A] Kawasaki Disease",
+      "y" : 0.6468023256782947,
+      "w" : 0.12781954120167036
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.26691729849624046,
+      "text" : "[B] Henoch-Schönlein Purpura (IgA Vasculitis; palpable purpura, arthralgias,",
+      "y" : 0.6329295865870098,
+      "w" : 0.42105262696014556
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.14285714573934827,
+      "text" : "abdominal pain, and nephritis)",
+      "y" : 0.6213662791424419,
+      "w" : 0.1729323210945925
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.18796992152255645,
+      "text" : "[C] Granulomatosis with Polyangiitis (Wegener)",
+      "y" : 0.6082848836664245,
+      "w" : 0.26315788088043673
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "x" : 0.12500000228696734,
+      "text" : "[D] Polyarteritis Nodosa",
+      "y" : 0.5944444443934873,
+      "w" : 0.13721804478286753
+    },
+    {
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "x" : 0.237781957236842,
+      "text" : "[E] Eosinophilic Granulomatosis with Polyangiitis (Churg-Strauss)",
+      "y" : 0.5813888890893744,
+      "w" : 0.36278193327782393
+    },
+    {
+      "h" : 0.011711885664198007,
+      "conf" : 1,
+      "x" : 0.26221804652255637,
+      "text" : "Q32. [2022 Exam] What is the defining microscopic hallmark of",
+      "y" : 0.5639114984279623,
+      "w" : 0.4078947022010918
+    },
+    {
+      "h" : 0.011686045858595118,
+      "conf" : 1,
+      "x" : 0.24718045084586465,
+      "text" : "Membranoproliferative GN (MPGN) on silver or PAS stain?",
+      "y" : 0.5508430229819266,
+      "w" : 0.37781955217132457
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "x" : 0.25845864161184223,
+      "text" : "[A] 'Tram-track' or 'Double-Contour' basement membrane splitting due to",
+      "y" : 0.5356782946177086,
+      "w" : 0.4003759256633043
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "x" : 0.24906014555921066,
+      "text" : "[B] Thin and fragile basement membranes with basket-weave splitting",
+      "y" : 0.5109625321719344,
+      "w" : 0.38533832870911217
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.23778196093358375,
+      "text" : "[C] Large nodular Kimmelstiel-Wilson acellular matrix expansions",
+      "y" : 0.49781976751453483,
+      "w" : 0.36278193327782393
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.2537593918546368,
+      "text" : "[D] Pure subepithelial spikes on silver stain without cellular proliferation",
+      "y" : 0.48401162781007756,
+      "w" : 0.3984962095895489
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "x" : 0.2180451168233082,
+      "text" : "[E] Subcapsular petechial flea-bitten cortical hemorrhages",
+      "y" : 0.4701453487678745,
+      "w" : 0.32330826869720525
+    },
+    {
+      "h" : 0.01162790722317164,
+      "conf" : 1,
+      "x" : 0.261278198840852,
+      "text" : "Q33. [2021 Exam] Which systemic infectious pathogen is most",
+      "y" : 0.4404069768168604,
+      "w" : 0.40225564173705963
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "x" : 0.27067669703947356,
+      "text" : "strongly associated with secondary Type | Membranoproliferative",
+      "y" : 0.4265374678280654,
+      "w" : 0.42481201522903933
+    },
+    {
+      "h" : 0.011724805831909269,
+      "conf" : 1,
+      "x" : 0.17575188355263144,
+      "text" : "Glomerulonephritis (MPGN Type I)?",
+      "y" : 0.41419573630922313,
+      "w" : 0.2312029928376056
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.1362781934915414,
+      "text" : "[A] Epstein-Barr Virus (EBV)",
+      "y" : 0.3990277776123796,
+      "w" : 0.1597744292445015
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 0.5,
+      "x" : 0.13345864507518798,
+      "text" : "[B] Cytomegalovirus (CMV)",
+      "y" : 0.3859625321901031,
+      "w" : 0.15413533587150655
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.2612781903665415,
+      "text" : "[C] Hepatitis C Virus (HCV) infection (often accompanied by Type II Mixed",
+      "y" : 0.3728197673873547,
+      "w" : 0.40977441827484723
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "x" : 0.13627819743890973,
+      "text" : "Essential Cryoglobulinemia)",
+      "y" : 0.3612467701727559,
+      "w" : 0.15601503000595346
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "x" : 0.14849624213659143,
+      "text" : "[D] Human Papillomavirus (HPV)",
+      "y" : 0.34817829473277645,
+      "w" : 0.1842105297798908
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.11936090382988718,
+      "text" : "[E] Helicobacter pylori",
+      "y" : 0.3343023256540697,
+      "w" : 0.12593984706722344
+    },
+    {
+      "h" : 0.011731265915764788,
+      "conf" : 1,
+      "x" : 0.26973683505639123,
+      "text" : "Q34. [2020 Exam] What is the primary pathogenic driver of Dense",
+      "y" : 0.3169121448954954,
+      "w" : 0.4229322991552839
+    },
+    {
+      "h" : 0.011757105721367789,
+      "conf" : 1,
+      "x" : 0.19548871723057656,
+      "text" : "Deposit Disease (formerly MPGN Type II)?",
+      "y" : 0.30384366949790925,
+      "w" : 0.27443608956573506
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.21616540820802022,
+      "text" : "[A] Autoantibodies against the glomerular podocin protein",
+      "y" : 0.2884722222604402,
+      "w" : 0.31954885848900294
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.2283834535401004,
+      "text" : "[B] Deposition of circulating cryoglobulins in afferent arterioles",
+      "y" : 0.27472222229949406,
+      "w" : 0.343984948054738
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.18796992919799485,
+      "text" : "[C] Chronic infection with Treponema pallidum",
+      "y" : 0.2623611113193206,
+      "w" : 0.2631578808804368
+    },
+    {
+      "h" : 0.01171188566419823,
+      "conf" : 1,
+      "x" : 0.25375940294486204,
+      "text" : "[D] Over-activation of the alternative complement pathway driven by C3",
+      "y" : 0.2485885015720377,
+      "w" : 0.39849620958954896
+    },
+    {
+      "h" : 0.011673126220703156,
+      "conf" : 1,
+      "x" : 0.23872181052631558,
+      "text" : "Nephritic Factor (C3NeF; autoantibody stabilizing C3 convertse)",
+      "y" : 0.23694121472819712,
+      "w" : 0.36090223914337705
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "x" : 0.19924812387218033,
+      "text" : "[E] Excessive gastrointestinal absorption of oxalate",
+      "y" : 0.22317829476305734,
+      "w" : 0.2857142763117249
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7020676739896616,
+      "text" : "Q37. [2022 Exam] Alport Syndrome is an X-linked dominant",
+      "y" : 0.8118055557942551,
+      "w" : 0.3853383287091122
+    },
+    {
+      "h" : 0.011737725999620197,
+      "conf" : 1,
+      "x" : 0.68421052981203,
+      "text" : "hereditary nephropathy caused by mutations in which",
+      "y" : 0.7980200257545034,
+      "w" : 0.34962405239738736
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.5507518786654135,
+      "text" : "component?",
+      "y" : 0.7856104650254361,
+      "w" : 0.08270676679357536
+    },
+    {
+      "h" : 0.011718346277872715,
+      "conf" : 1,
+      "x" : 0.7105263198496241,
+      "text" : "[A] Alpha-3\/4\/5 chains of Type IV Collagen, with hematuria, sensorineural",
+      "y" : 0.7703036177691611,
+      "w" : 0.4060150300059535
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.5977443639097744,
+      "text" : "deafness & ocular lens defects",
+      "y" : 0.7587209303294574,
+      "w" : 0.18045111957168858
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6560150405639097,
+      "text" : "[B] Podocyte slit diaphragm protein Nephrin (NPHS1)",
+      "y" : 0.7448611111591428,
+      "w" : 0.29699248499702313
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6682330859210525,
+      "text" : "[C] Polycystin-1 and Polycystin-2 transmembrane proteins",
+      "y" : 0.7318055556159087,
+      "w" : 0.3214285745627583
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6607142895441729,
+      "text" : "[D] Uromodulin glycoprotein of the thick ascending limb",
+      "y" : 0.7187500000545058,
+      "w" : 0.30639097760856626
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6447368466791978,
+      "text" : "[E] Tubulointerstitial Tamm-Horsfall mucoprotein",
+      "y" : 0.7056944444809906,
+      "w" : 0.27443608956573506
+    },
+    {
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "x" : 0.7218045059680454,
+      "text" : "Q38. [2021 Exam] What is the characteristic ultrastructural finding",
+      "y" : 0.6874999999636628,
+      "w" : 0.42481201522903944
+    },
+    {
+      "h" : 0.011673126220703045,
+      "conf" : 1,
+      "x" : 0.6560150339285715,
+      "text" : "on Electron Microscopy in Alport Syndrome?",
+      "y" : 0.6744412146070732,
+      "w" : 0.293233074788821
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6569548918859648,
+      "text" : "[A] Subepithelial dome-shaped electron-dense humps",
+      "y" : 0.6591569765746124,
+      "w" : 0.29887217913147013
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.6936090262781953,
+      "text" : "[B] Diffuse continuous ribbon-like intramembranous dense deposits",
+      "y" : 0.6468023256395349,
+      "w" : 0.37218044782867543
+    },
+    {
+      "h" : 0.011692505942450637,
+      "conf" : 1,
+      "x" : 0.7180451073308273,
+      "text" : "[C] Irregular thickening, thinning, splitting, and 'Basket-Weave' lamellation of",
+      "y" : 0.6322351417772081,
+      "w" : 0.42105262696014556
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6682330880639096,
+      "text" : "the lamina densa of the glomerular basement membrane",
+      "y" : 0.6213662791908916,
+      "w" : 0.32142855262344994
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7077067709210525,
+      "text" : "[D] Pure effacement of foot processes with completely normal basement",
+      "y" : 0.6082848837936046,
+      "w" : 0.40037592566330427
+    },
+    {
+      "h" : 0.010389698876274944,
+      "conf" : 1,
+      "x" : 0.5451127831459651,
+      "text" : "membranes",
+      "y" : 0.5952034884896269,
+      "w" : 0.07147945181917237
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6127819583959899,
+      "text" : "[E] Giant mesangial crystalline arrays",
+      "y" : 0.5835755814680232,
+      "w" : 0.21052631348007278
+    },
+    {
+      "h" : 0.011711885664198007,
+      "conf" : 1,
+      "x" : 0.7208646619987469,
+      "text" : "Q39. [2025 Exam] Which primary glomerulopathy is characterized",
+      "y" : 0.5639114984279623,
+      "w" : 0.42293229915528396
+    },
+    {
+      "h" : 0.011686045858595118,
+      "conf" : 1,
+      "x" : 0.7189849571663536,
+      "text" : "on biopsy by diffuse thinning of the GBM (<250 nm) with isolated",
+      "y" : 0.5508430231030506,
+      "w" : 0.4191729108863901
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6973684257518795,
+      "text" : "persistent microscopic hematuria and an excellent benign",
+      "y" : 0.5370833333009626,
+      "w" : 0.3759398360975691
+    },
+    {
+      "h" : 0.011784355375501931,
+      "conf" : 1,
+      "x" : 0.5479323317975842,
+      "text" : "prognosis?",
+      "y" : 0.5247093025213512,
+      "w" : 0.07710698866141441
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6156015010573308,
+      "text" : "[A] Rapidly Progressive Crescentic GN",
+      "y" : 0.5094476743640988,
+      "w" : 0.21616541782272203
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.5874060170347744,
+      "text" : "[B] Collapsing FSGS variant",
+      "y" : 0.49636627916061044,
+      "w" : 0.15977442924450158
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.5845864677067669,
+      "text" : "[C] Dense Deposit Disease",
+      "y" : 0.4832848837936046,
+      "w" : 0.15413533587150652
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "x" : 0.7086466215695487,
+      "text" : "[D] Thin Basement Membrane Nephropathy (Benign Familial Hematuria)",
+      "y" : 0.47014534873153735,
+      "w" : 0.4022556417370595
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.5883458666823308,
+      "text" : "[E] Class IV Lupus Nephritis",
+      "y" : 0.45708333314078475,
+      "w" : 0.16165413434860265
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.704887214348371,
+      "text" : "Q40. [Faculty Exam] Which pharmacological class forms the",
+      "y" : 0.4404069765503876,
+      "w" : 0.39097743305176125
+    },
+    {
+      "h" : 0.011750646167331236,
+      "conf" : 1,
+      "x" : 0.7161654177067668,
+      "text" : "foundational cornerstone for reducing proteinuria and providing",
+      "y" : 0.42726421198140846,
+      "w" : 0.4172932386912518
+    },
+    {
+      "h" : 0.011724805831909157,
+      "conf" : 1,
+      "x" : 0.7039473635103384,
+      "text" : "renal protection in all chronic proteinuric glomerulopathies?",
+      "y" : 0.4141957361396494,
+      "w" : 0.3928571491255167
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.660714281931391,
+      "text" : "[A] High-dose oral loop diuretics in bolus monotherapy",
+      "y" : 0.3990277776123796,
+      "w" : 0.3026315674003639
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "x" : 0.6757518853070174,
+      "text" : "[B] Long-term prophylactic broad-spectrum aminoglycosides",
+      "y" : 0.38596253233545186,
+      "w" : 0.336466149577642
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6531954923637218,
+      "text" : "[C] Pure non-steroidal anti-inflammatory analgesics",
+      "y" : 0.3728197675327035,
+      "w" : 0.2913533806543741
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.665413539097744,
+      "text" : "[D] Daily systemic alkalinization with ammonium chloride",
+      "y" : 0.35973837216569765,
+      "w" : 0.31578947022010906
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7124060191353383,
+      "text" : "[E] Renin-Angiotensin System (RAS) Inhibitors (ACE inhibitors or ARBs at",
+      "y" : 0.3466569768168605,
+      "w" : 0.4097744182748472
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6719924776002507,
+      "text" : "maximally tolerated doses) combined with SGLT2 inhibitors",
+      "y" : 0.3335755812257753,
+      "w" : 0.32894735110054585
+    },
+    {
+      "h" : 0.011731265915764677,
+      "conf" : 1,
+      "x" : 0.7020676643562032,
+      "text" : "Q41. [Core Exam] A 4-year-old boy presents with periorbital",
+      "y" : 0.3169121449197203,
+      "w" : 0.3853383287091121
+    },
+    {
+      "h" : 0.011757105721367678,
+      "conf" : 1,
+      "x" : 0.7227443662359021,
+      "text" : "edema, normal BP, normal C3, 4+ proteinuria, and oval fat bodies.",
+      "y" : 0.30384366958269615,
+      "w" : 0.4266917313027948
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "x" : 0.6983082659539475,
+      "text" : "Biopsy LM is normal, IF negative, and EM shows podocyte",
+      "y" : 0.2906976743459302,
+      "w" : 0.3778195521713247
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "x" : 0.6456766962719296,
+      "text" : "effacement. Diagnosis and initial therapy:",
+      "y" : 0.2768217053520104,
+      "w" : 0.2725563734919797
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6748120259398498,
+      "text" : "[A] Minimal Change Disease; oral Prednisone (2 mg\/kg\/day)",
+      "y" : 0.2623611111921405,
+      "w" : 0.33082706717430144
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6644736881343983,
+      "text" : "[B] Post-streptococcal GN; oral penicillin G and bed rest",
+      "y" : 0.24930555579425512,
+      "w" : 0.3139097760856622
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "x" : 0.6851503789003759,
+      "text" : "[C] Membranous Nephropathy; immediate bilateral nephrectomy",
+      "y" : 0.23624677017881218,
+      "w" : 0.3552631567400364
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7086466124060152,
+      "text" : "[D] Focal Segmental Glomerulosclerosis; intravenous cyclophosphamide",
+      "y" : 0.22165697657461253,
+      "w" : 0.40225564173705974
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.685150381860902,
+      "text" : "[E] Alport Syndrome; fit hearing aids and perform hemodialysis",
+      "y" : 0.20857558151647276,
+      "w" : 0.3552631567400364
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.703947363557331,
+      "text" : "Q42. [Clinical Case] A 42-year-old male presents with severe",
+      "y" : 0.19263888885902586,
+      "w" : 0.38909771697800577
+    },
+    {
+      "h" : 0.011692505942450637,
+      "conf" : 1,
+      "x" : 0.70958647052005,
+      "text" : "edema and proteinuria 9.2 g\/d. Anti-PLA2R autoantibodies are",
+      "y" : 0.18026485822279192,
+      "w" : 0.40037592566330416
+    },
+    {
+      "h" : 0.011718345748053638,
+      "conf" : 1,
+      "x" : 0.7095864726503758,
+      "text" : "positive. Biopsy shows thickened GBM with 'Spike and Dome'",
+      "y" : 0.1671963827767562,
+      "w" : 0.40037592566330427
+    },
+    {
+      "h" : 0.011744185553656639,
+      "conf" : 1,
+      "x" : 0.652255643859649,
+      "text" : "silver stain and granular lgG\/C3. Diagnosis:",
+      "y" : 0.1541279072338213,
+      "w" : 0.28571427631172497
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "x" : 0.6409774480576439,
+      "text" : "[A] Minimal Change Disease with focal necrosis",
+      "y" : 0.13875322995442424,
+      "w" : 0.26691729108863904
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.6475563901315788,
+      "text" : "[B] Primary (Idiopathic) Membranous Nephropathy",
+      "y" : 0.12500000019379842,
+      "w" : 0.2800751719690756
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "x" : 0.663533838486842,
+      "text" : "[C] Crescentic Glomerulonephritis Type I (Goodpasture)",
+      "y" : 0.11124677020909318,
+      "w" : 0.3120300600119068
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "x" : 0.6635338397869672,
+      "text" : "[D] Diabetic Kimmelstiel-Wilson nodular nephrosclerosis",
+      "y" : 0.09888888896198117,
+      "w" : 0.3120300600119069
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6184210554041352,
+      "text" : "[E] Henoch-Schönlein Purpura nephritis",
+      "y" : 0.08652777772139125,
+      "w" : 0.22180450022606257
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.3261278106829577,
+      "text" : "Twisted Medicine • Clinical Nephrology Master Class • Strictly Grounded in Faculty & Board Past Papers",
+      "y" : 0.024027777836459152,
+      "w" : 0.5394736865199272
+    },
+    {
+      "h" : 0.018895348442925286,
+      "conf" : 1,
+      "x" : 0.5197368422149122,
+      "text" : "147",
+      "y" : 0.01235465132025182,
+      "w" : 0.0394736837775137
+    },
+    {
+      "h" : 0.007338501347435855,
+      "conf" : 1,
+      "x" : 0.7951127856203005,
+      "text" : "Confidential - Dedicated for Medical Student Revision",
+      "y" : 0.023947028395109204,
+      "w" : 0.293233074788821
+    }
+  ],
+  "page" : 149
+}

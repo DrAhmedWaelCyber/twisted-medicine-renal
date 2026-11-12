@@ -1,0 +1,997 @@
+{
+  "items" : [
+    {
+      "h" : 0.013178294499715193,
+      "x" : 0.10288065987654318,
+      "y" : 0.977422480441975,
+      "text" : "Twisted Medicine",
+      "conf" : 1,
+      "w" : 0.14403291618299183
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.3693415695130313,
+      "y" : 0.975972222405789,
+      "text" : "• Renal System Module • Lecture 15 MCQ Masterclass",
+      "conf" : 1,
+      "w" : 0.34362137992427033
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.3816872544238679,
+      "y" : 0.9651162791182171,
+      "text" : "Twisted Medicine Medical Series • Late Distal Tubule, Collecting Ducts, ADH, Aldosterone & Acidification • Standard Practice Bank",
+      "conf" : 1,
+      "w" : 0.6975308304312845
+    },
+    {
+      "h" : 0.010682686699761246,
+      "x" : 0.9341563794765866,
+      "y" : 0.9760174419449432,
+      "text" : "Page 1 of 4",
+      "conf" : 1,
+      "w" : 0.07010342939844671
+    },
+    {
+      "h" : 0.011866360770331541,
+      "x" : 0.5000029526662498,
+      "y" : 0.9433747091060156,
+      "text" : "15. FINAL ADJUSTMENT OF TUBULAR FLUID TO BECOME URINE - PHYSIOLOGY LECTURE",
+      "conf" : 1,
+      "w" : 0.6914285623802329
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.499999992952675,
+      "y" : 0.9222383720748546,
+      "text" : "Twisted Medicine Physiology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "conf" : 1,
+      "w" : 0.5637860088228429
+    },
+    {
+      "h" : 0.011666666666666603,
+      "x" : 0.4927983390603572,
+      "y" : 0.8997222224448429,
+      "text" : "Q01. [2025 Exam] The final adjustment of the volume, osmolality, and Q08. [2022 Exam] The primary apical channel responsible for basal",
+      "conf" : 1,
+      "w" : 0.8909464902098074
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.25000000501543196,
+      "y" : 0.887361111301152,
+      "text" : "electrolyte composition of tubular fluid to form definitive urine",
+      "conf" : 1,
+      "w" : 0.40123456079255104
+    },
+    {
+      "h" : 0.011686046388414195,
+      "x" : 0.7006172903635115,
+      "y" : 0.886656976895386,
+      "text" : "and regulated potassium secretion into the tubular lumen by",
+      "conf" : 1,
+      "w" : 0.38888888089162
+    },
+    {
+      "h" : 0.011711885664198007,
+      "x" : 0.20781893017832645,
+      "y" : 0.8735885015720377,
+      "text" : "occurs primarily within which nephron segments?",
+      "conf" : 1,
+      "w" : 0.3209876534324022
+    },
+    {
+      "h" : 0.011711885664198007,
+      "x" : 0.5617283963648834,
+      "y" : 0.8735885015720377,
+      "text" : "Principal cells is:",
+      "conf" : 1,
+      "w" : 0.11111110711247663
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.23971194050068567,
+      "y" : 0.8582848837936047,
+      "text" : "[A] Proximal convoluted tubule and descending thin limb of Henle",
+      "conf" : 1,
+      "w" : 0.3806584196270637
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.6347736604080934,
+      "y" : 0.8582848836603683,
+      "text" : "[A] Voltage-gated Kv1.3 lymphocyte channel",
+      "conf" : 1,
+      "w" : 0.2572016446095593
+    },
+    {
+      "h" : 0.010290697415669792,
+      "x" : 0.26234567184499336,
+      "y" : 0.8451453489177162,
+      "text" : "[B] Late Distal Convoluted Tubule (DCT) and Cortical\/Medullary Collecting",
+      "conf" : 1,
+      "w" : 0.43004113923078807
+    },
+    {
+      "h" : 0.011744186083475716,
+      "x" : 0.691358018655693,
+      "y" : 0.8458720927919668,
+      "text" : "[B] Calcium-activated Big Potassium (BK \/ maxi-K) channel only",
+      "conf" : 1,
+      "w" : 0.37037034904432
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.0668724284207819,
+      "y" : 0.8343023256540698,
+      "text" : "Ducts",
+      "conf" : 1,
+      "w" : 0.03497942438665426
+    },
+    {
+      "h" : 0.011714318593343043,
+      "x" : 0.6862140588887496,
+      "y" : 0.8328574887719044,
+      "text" : "[C] Renal Outer Medullary Potassium channel (ROMK \/ Kir1.1)",
+      "conf" : 1,
+      "w" : 0.36022896436775254
+    },
+    {
+      "h" : 0.01030361758338072,
+      "x" : 0.22016461337448542,
+      "y" : 0.8204295863629305,
+      "text" : "C] Glomerular capillary loops and Bowman's urinary space",
+      "conf" : 1,
+      "w" : 0.3415637706060829
+    },
+    {
+      "h" : 0.01030361758338083,
+      "x" : 0.6687242830864196,
+      "y" : 0.8204295866051785,
+      "text" : "[D] ATP-sensitive KATP channel of pancreatic beta cells",
+      "conf" : 1,
+      "w" : 0.32510287206877697
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.17695472995884778,
+      "y" : 0.8088662789970931,
+      "text" : "[D] Thin ascending limb of Henle exclusively",
+      "conf" : 1,
+      "w" : 0.25514403529137186
+    },
+    {
+      "h" : 0.00872093015246922,
+      "x" : 0.6244855926954733,
+      "y" : 0.8081395349677261,
+      "text" : "[E] Inward rectifier Kir2.1 cardiac channel",
+      "conf" : 1,
+      "w" : 0.24074072208044672
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.18209876206275724,
+      "y" : 0.7957848836664245,
+      "text" : "[E] Renal fibrous capsule and perirenal fat pad",
+      "conf" : 1,
+      "w" : 0.26954732451049035
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.25925926450617276,
+      "y" : 0.7783430233466571,
+      "text" : "Q02. [2024 Exam] In the late distal convoluted tubule and cortical",
+      "conf" : 1,
+      "w" : 0.4197530686480444
+    },
+    {
+      "h" : 0.01173772546980123,
+      "x" : 0.2561728342849795,
+      "y" : 0.764479973995122,
+      "text" : "collecting duct, the two morphologically and functionally distinct",
+      "conf" : 1,
+      "w" : 0.41769548332166373
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.12551440411522632,
+      "y" : 0.7506944446992267,
+      "text" : "epithelial cell types are:",
+      "conf" : 1,
+      "w" : 0.15226336545164482
+    },
+    {
+      "h" : 0.008888888888888946,
+      "x" : 0.20267489194101523,
+      "y" : 0.7369444444083162,
+      "text" : "[A] Principal (Light) cells and Intercalated (Dark) cells",
+      "conf" : 1,
+      "w" : 0.3106995828496585
+    },
+    {
+      "h" : 0.008888888888888946,
+      "x" : 0.18930041507201634,
+      "y" : 0.7238888889862061,
+      "text" : "[B] Juxtaglomerular granular cells and lacis cells",
+      "conf" : 1,
+      "w" : 0.28395061372960884
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.17695473683127555,
+      "y" : 0.7115277777395599,
+      "text" : "[C] Podocytes and vascular endothelial cells",
+      "conf" : 1,
+      "w" : 0.2592592539277466
+    },
+    {
+      "h" : 0.0102971574995252,
+      "x" : 0.1954732474279836,
+      "y" : 0.6984625323899577,
+      "text" : "[D] Macula densa plaque cells and mesangial cells",
+      "conf" : 1,
+      "w" : 0.29218105100235847
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.17901234176954745,
+      "y" : 0.6853197672722868,
+      "text" : "[E] Transitional umbrella cells and basal cells",
+      "conf" : 1,
+      "w" : 0.2633744725641215
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.7170781963305896,
+      "y" : 0.7783430232800388,
+      "text" : "Q09. [2023 Exam] Under high tubular flow rates, which potassium",
+      "conf" : 1,
+      "w" : 0.4218107019580384
+    },
+    {
+      "h" : 0.011737725469801119,
+      "x" : 0.7181069966392318,
+      "y" : 0.764479973873998,
+      "text" : "channel is mechanically activated by fluid shear stress to mediate",
+      "conf" : 1,
+      "w" : 0.4238682872844193
+    },
+    {
+      "h" : 0.011711885664198007,
+      "x" : 0.6286008227366255,
+      "y" : 0.7514114984279623,
+      "text" : "flow-dependent potassium secretion?",
+      "conf" : 1,
+      "w" : 0.24485596470862814
+    },
+    {
+      "h" : 0.010284237861633239,
+      "x" : 0.6954732472736627,
+      "y" : 0.7362467699910699,
+      "text" : "[A] Big Potassium (BK \/ Maxi-K) channel on the apical membrane",
+      "conf" : 1,
+      "w" : 0.37860081030887627
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.6286008271947873,
+      "y" : 0.724583333282794,
+      "text" : "[B] Constitutive basolateral Kir2.3 channel",
+      "conf" : 1,
+      "w" : 0.248971183345003
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6141975271947875,
+      "y" : 0.7115277776426606,
+      "text" : "[C] SGLT2 sodium-glucose symporter",
+      "conf" : 1,
+      "w" : 0.22016460490676593
+    },
+    {
+      "h" : 0.01175064563751227,
+      "x" : 0.6141975335648148,
+      "y" : 0.6977357884506522,
+      "text" : "[D] Apical Aquaporin-1 water channel",
+      "conf" : 1,
+      "w" : 0.21604938627039116
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6028806608539093,
+      "y" : 0.6853197674963663,
+      "text" : "[E] Tight junction claudin-16 pore",
+      "conf" : 1,
+      "w" : 0.19341563578671628
+    },
+    {
+      "h" : 0.011679586304558676,
+      "x" : 0.49382714561042584,
+      "y" : 0.6569509040670843,
+      "text" : "Q03. [2023 Exam] Principal cells comprise approximately 65% to 70% Q10. [2021 Exam] Intercalated cells comprise approximately 30% to",
+      "conf" : 1,
+      "w" : 0.8930041235198016
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.24485596049382735,
+      "y" : 0.6431944443840913,
+      "text" : "of collecting duct epithelial cells. Their primary physiological",
+      "conf" : 1,
+      "w" : 0.39506170884618214
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6872428028806585,
+      "y" : 0.6431944445476089,
+      "text" : "35% of collecting duct cells. Their primary physiological",
+      "conf" : 1,
+      "w" : 0.36213991177157034
+    },
+    {
+      "h" : 0.008888888888888946,
+      "x" : 0.09670782057613163,
+      "y" : 0.6308333333070189,
+      "text" : "functions are:",
+      "conf" : 1,
+      "w" : 0.09876542721154555
+    },
+    {
+      "h" : 0.0117312653859456,
+      "x" : 0.622427987414266,
+      "y" : 0.6294121448728339,
+      "text" : "specialization is the regulation of:",
+      "conf" : 1,
+      "w" : 0.23251028480769698
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.20679012744341557,
+      "y" : 0.6155523256359012,
+      "text" : "[A] Passive filtration of plasma albumin into the lumen",
+      "conf" : 1,
+      "w" : 0.31893004411421483
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.6615226389231823,
+      "y" : 0.6155523256540698,
+      "text" : "[A] Bulk isotonic reabsorption of extracellular volume",
+      "conf" : 1,
+      "w" : 0.3106995828496585
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.2716049438786007,
+      "y" : 0.6024709302870639,
+      "text" : "[B] Reabsorption of sodium and water, and regulated secretion of potassium",
+      "conf" : 1,
+      "w" : 0.4485596470862814
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6491769597736623,
+      "y" : 0.6024709303052327,
+      "text" : "[B] Filtration fraction across the glomerular barrier",
+      "conf" : 1,
+      "w" : 0.30246912158510225
+    },
+    {
+      "h" : 0.01031007766723635,
+      "x" : 0.20370370761316864,
+      "y" : 0.5893217053822914,
+      "text" : "[C] Exclusive synthesis of calcitriol and erythropoietin",
+      "conf" : 1,
+      "w" : 0.3127571921678459
+    },
+    {
+      "h" : 0.01031007766723635,
+      "x" : 0.6358024723765432,
+      "y" : 0.5893217054186286,
+      "text" : "[C] Reabsorption of 100% of filtered glucose",
+      "conf" : 1,
+      "w" : 0.2592592539277466
+    },
+    {
+      "h" : 0.010284237861633239,
+      "x" : 0.21090535524691345,
+      "y" : 0.5762532299544244,
+      "text" : "[D] Complete reabsorption of filtered glucose via SGLT2",
+      "conf" : 1,
+      "w" : 0.32716048138696446
+    },
+    {
+      "h" : 0.011737725999620197,
+      "x" : 0.71604938175583,
+      "y" : 0.5769799739966852,
+      "text" : "[D] Acid-base homeostasis and fine control of systemic bicarbonate and",
+      "conf" : 1,
+      "w" : 0.4197530686480444
+    },
+    {
+      "h" : 0.0087403098742167,
+      "x" : 0.18312757541152255,
+      "y" : 0.563963178438096,
+      "text" : "[E) Secretion of renin into the afferent arteriole",
+      "conf" : 1,
+      "w" : 0.2716049338286778
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.5524691369598765,
+      "y" : 0.5646802326489826,
+      "text" : "proton balance",
+      "conf" : 1,
+      "w" : 0.09259259325903169
+    },
+    {
+      "h" : 0.010297157499525311,
+      "x" : 0.6687242744170098,
+      "y" : 0.5515374677129976,
+      "text" : "[E] Secretion of erythropoietin into medullary vasa recta",
+      "conf" : 1,
+      "w" : 0.32510287206877697
+    },
+    {
+      "h" : 0.011763565805223308,
+      "x" : 0.25308641968449935,
+      "y" : 0.534951550557279,
+      "text" : "Q04. [2022 Exam] Sodium entry across the apical membrane of",
+      "conf" : 1,
+      "w" : 0.40740741273892
+    },
+    {
+      "h" : 0.01176356527540423,
+      "x" : 0.7211934102623457,
+      "y" : 0.5349515504498307,
+      "text" : "Q11. [2025 Exam] Type A (Alpha) Intercalated cells are specialized",
+      "conf" : 1,
+      "w" : 0.4300411392307881
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.25925926345679007,
+      "y" : 0.5210755814680232,
+      "text" : "Principal cells in the cortical collecting duct is mediated by which",
+      "conf" : 1,
+      "w" : 0.4197530686480444
+    },
+    {
+      "h" : 0.011627906163533486,
+      "x" : 0.7232510215706449,
+      "y" : 0.5218023257751938,
+      "text" : "for acid secretion. Their apical and basolateral membrane transport",
+      "conf" : 1,
+      "w" : 0.43827157650353776
+    },
+    {
+      "h" : 0.01030361758338083,
+      "x" : 0.14814814562757206,
+      "y" : 0.5079295864416611,
+      "text" : "specialized transport channel?",
+      "conf" : 1,
+      "w" : 0.2016460970512726
+    },
+    {
+      "h" : 0.01030361758338083,
+      "x" : 0.5761316896433469,
+      "y" : 0.5079295866536281,
+      "text" : "machinery includes:",
+      "conf" : 1,
+      "w" : 0.14403291618299185
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.17592592271090546,
+      "y" : 0.4934722224387867,
+      "text" : "[A] Electroneutral Na+\/H+ antiporter (NHE3)",
+      "conf" : 1,
+      "w" : 0.2572016446095593
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6666666706790123,
+      "y" : 0.49347222201797913,
+      "text" : "[A] Apical ENaC and basolateral NKCC2 cotransporters",
+      "conf" : 1,
+      "w" : 0.3209876534324022
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.18312757654320969,
+      "y" : 0.48041666649291365,
+      "text" : "[B] Apical NKCC2 electroneutral cotransporter",
+      "conf" : 1,
+      "w" : 0.27160493382867773
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.7067901302126198,
+      "y" : 0.48041666649291365,
+      "text" : "[B] Apical pendrin (CI-\/HCO3- exchanger) and basolateral H+-ATPase",
+      "conf" : 1,
+      "w" : 0.4053497794289259
+    },
+    {
+      "h" : 0.01029069741566968,
+      "x" : 0.1944444493484223,
+      "y" : 0.467354651179183,
+      "text" : "[C] SGLT1 high-affinity sodium-glucose symporter",
+      "conf" : 1,
+      "w" : 0.29423868431235256
+    },
+    {
+      "h" : 0.010290697415669792,
+      "x" : 0.7201646144547325,
+      "y" : 0.46735465114890207,
+      "text" : "[C] Apical H+-ATPase \/ H+\/K+-ATPase and basolateral Anion Exchanger 1",
+      "conf" : 1,
+      "w" : 0.4320987725407823
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.22325103028120713,
+      "y" : 0.45421511610949616,
+      "text" : "[D] Epithelial Sodium Channel (ENaC), an amiloride-sensitive",
+      "conf" : 1,
+      "w" : 0.3518518411888267
+    },
+    {
+      "h" : 0.008888888888888946,
+      "x" : 0.5514403303497942,
+      "y" : 0.4563888888260281,
+      "text" : "(AE1 \/ Band 3)",
+      "conf" : 1,
+      "w" : 0.09053497794289256
+    },
+    {
+      "h" : 0.008888888888888946,
+      "x" : 0.1234567926611796,
+      "y" : 0.44333333330701885,
+      "text" : "sodium-selective channel",
+      "conf" : 1,
+      "w" : 0.1522633654516448
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.6481481452674899,
+      "y" : 0.44263888878635144,
+      "text" : "[D] Apical SGLT2 and basolateral GLUT2 carriers",
+      "conf" : 1,
+      "w" : 0.28395061372960884
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.18312757541152255,
+      "y" : 0.43097222205431635,
+      "text" : "[E] Voltage-gated fast cardiac sodium channel",
+      "conf" : 1,
+      "w" : 0.2716049338286778
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.655349799211248,
+      "y" : 0.4309722220361478,
+      "text" : "[E] Apical Aquaporin-2 and basolateral Aquaporin-1",
+      "conf" : 1,
+      "w" : 0.2983539029487273
+    },
+    {
+      "h" : 0.011666666666666714,
+      "x" : 0.4938271753086415,
+      "y" : 0.4127777775551571,
+      "text" : "Q05. 2021 Exam] Electrogenic reabsorption of sodium through ENaC Q12. 2020 Exam Type B (Beta) Intercalated cells, activated during",
+      "conf" : 1,
+      "w" : 0.8888888568998132
+    },
+    {
+      "h" : 0.011666666666666714,
+      "x" : 0.26028805874485617,
+      "y" : 0.3997222224448429,
+      "text" : "without an accompanying anion creates which electrical condition",
+      "conf" : 1,
+      "w" : 0.42592592059441325
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.7181070012345677,
+      "y" : 0.4004166668443862,
+      "text" : "systemic metabolic alkalosis, secrete bicarbonate into the tubular",
+      "conf" : 1,
+      "w" : 0.4279835059207939
+    },
+    {
+      "h" : 0.011686045858595118,
+      "x" : 0.17798354344993128,
+      "y" : 0.3866569769696237,
+      "text" : "across the collecting duct epithelium?",
+      "conf" : 1,
+      "w" : 0.2613168632459341
+    },
+    {
+      "h" : 0.011686045858595118,
+      "x" : 0.622427987482853,
+      "y" : 0.38665697692117423,
+      "text" : "lumen via which apical transporter?",
+      "conf" : 1,
+      "w" : 0.23662550344407185
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.20370370891632358,
+      "y" : 0.37136627919089155,
+      "text" : "[A] Highly positive transepithelial potential of +50 mV",
+      "conf" : 1,
+      "w" : 0.3127571921678459
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6255144056790123,
+      "y" : 0.37136627914244186,
+      "text" : "[A] Vacuolar proton-pumping H+-ATPase",
+      "conf" : 1,
+      "w" : 0.23868311276225918
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.2211934173611111,
+      "y" : 0.35828488359375,
+      "text" : "[B] Total collapse of basolateral sodium-potassium ATPase",
+      "conf" : 1,
+      "w" : 0.34773662255245186
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6718107037808642,
+      "y" : 0.3582848838117732,
+      "text" : "[B] Pendrin, an apical electroneutral CI-\/HCO3- exchanger",
+      "conf" : 1,
+      "w" : 0.3353909426515207
+    },
+    {
+      "h" : 0.010290697415669792,
+      "x" : 0.20679011807270253,
+      "y" : 0.3451453489177162,
+      "text" : "[C] Isoelectric potential of exactly 0 mV across all cells",
+      "conf" : 1,
+      "w" : 0.32304526275058965
+    },
+    {
+      "h" : 0.010290697415669792,
+      "x" : 0.615226334670782,
+      "y" : 0.3451453488874351,
+      "text" : "[C] Sodium-hydrogen antiporter NHE3",
+      "conf" : 1,
+      "w" : 0.22222221422495336
+    },
+    {
+      "h" : 0.012036457591586558,
+      "x" : 0.21913462665226727,
+      "y" : 0.3327171204806114,
+      "text" : "[D] Immediate electrical depolarization blocking all ion flow",
+      "conf" : 1,
+      "w" : 0.34786737789897804
+    },
+    {
+      "h" : 0.011718345748053638,
+      "x" : 0.6224279854938272,
+      "y" : 0.3328036172232439,
+      "text" : "[D] Basolateral Anion Exchanger 1 (AE1)",
+      "conf" : 1,
+      "w" : 0.23662550344407185
+    },
+    {
+      "h" : 0.01030361758338072,
+      "x" : 0.2644032976080246,
+      "y" : 0.32042958662334714,
+      "text" : "[E] Lumen-negative transepithelial potential (-10 to -50 mV), driving K+ and",
+      "conf" : 1,
+      "w" : 0.43415635786716295
+    },
+    {
+      "h" : 0.01030361758338083,
+      "x" : 0.6100823009259262,
+      "y" : 0.32042958650827913,
+      "text" : "[E] Apical ROMK potassium channel",
+      "conf" : 1,
+      "w" : 0.21604938627039105
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.09053497983539091,
+      "y" : 0.30886627923934107,
+      "text" : "H+ secretion",
+      "conf" : 1,
+      "w" : 0.08230452267628795
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.265432105967078,
+      "y" : 0.2914244186773256,
+      "text" : "Q06. 2020 Exam] Aldosterone, a mineralocorticoid secreted by the",
+      "conf" : 1,
+      "w" : 0.43209877254078227
+    },
+    {
+      "h" : 0.011718345748053638,
+      "x" : 0.7078189270233197,
+      "y" : 0.2921963827767561,
+      "text" : "Q13. [Facul Exam] How does systemic acid-base status directly",
+      "conf" : 1,
+      "w" : 0.41152263137529477
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.2448559720164608,
+      "y" : 0.27834302331031974,
+      "text" : "adrenal zona glomerulosa, exerts its primary renal actions on",
+      "conf" : 1,
+      "w" : 0.3950617088461822
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.7067901201131688,
+      "y" : 0.278343023195252,
+      "text" : "influence potassium secretion by Principal cells in the cortical",
+      "conf" : 1,
+      "w" : 0.40123456079255104
+    },
+    {
+      "h" : 0.011737725469801119,
+      "x" : 0.1409465043552811,
+      "y" : 0.2644799738739981,
+      "text" : "Principal cells by binding to:",
+      "conf" : 1,
+      "w" : 0.18312756520397255
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.5586419766203703,
+      "y" : 0.2652616279978199,
+      "text" : "collecting duct?",
+      "conf" : 1,
+      "w" : 0.10493826716201105
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.18724280180041145,
+      "y" : 0.24930555579425512,
+      "text" : "[A] Cell-surface G-protein coupled V2 receptors",
+      "conf" : 1,
+      "w" : 0.27572015246505255
+    },
+    {
+      "h" : 0.008888888888888946,
+      "x" : 0.6419753120370371,
+      "y" : 0.2500000000726744,
+      "text" : "[A] Acidosis stimulates K+ secretion via ENaC",
+      "conf" : 1,
+      "w" : 0.2716049338286778
+    },
+    {
+      "h" : 0.01028423786163335,
+      "x" : 0.24485596680384092,
+      "y" : 0.23624676994867638,
+      "text" : "[B] Extracellular calcium-sensing receptors on the apical membrane",
+      "conf" : 1,
+      "w" : 0.3950617088461822
+    },
+    {
+      "h" : 0.008888888888888835,
+      "x" : 0.6460905385288065,
+      "y" : 0.23694444452944025,
+      "text" : "[B] Alkalosis blocks basolateral Na+\/K+ ATPase",
+      "conf" : 1,
+      "w" : 0.28395061372960884
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.2541152315072015,
+      "y" : 0.22458333326462532,
+      "text" : "[C] Cytoplasmic Mineralocorticoid Receptors (MR), translocating to the",
+      "conf" : 1,
+      "w" : 0.4135802167016755
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.6563786058984908,
+      "y" : 0.22458333328279395,
+      "text" : "[C] Acid-base balance has zero effect on potassium",
+      "conf" : 1,
+      "w" : 0.3045267309032894
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6851851806584364,
+      "y" : 0.21152777761237962,
+      "text" : "[D] Alkalosis promotes K+ secretion via cell uptake and ROMK",
+      "conf" : 1,
+      "w" : 0.36213991177157046
+    },
+    {
+      "h" : 0.011686046388414195,
+      "x" : 0.25000000414951973,
+      "y" : 0.19915697689538608,
+      "text" : "[D] Tyrosine kinase receptors on the peritubular capillary endothelium",
+      "conf" : 1,
+      "w" : 0.4053497794289258
+    },
+    {
+      "h" : 0.010297157499525311,
+      "x" : 0.6399176909465023,
+      "y" : 0.19846253223855254,
+      "text" : "[E] Acidosis accelerates distal potassium loss",
+      "conf" : 1,
+      "w" : 0.2716049338286778
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.1903292216820987,
+      "y" : 0.18680555579425512,
+      "text" : "[E] Apical Tamm-Horsfall glycoprotein filaments",
+      "conf" : 1,
+      "w" : 0.28600822304779633
+    },
+    {
+      "h" : 0.011705426639980754,
+      "x" : 0.2613168688957477,
+      "y" : 0.17001937975380477,
+      "text" : "Q07. [2024 Exam] Which of the following cellular events is directly",
+      "conf" : 1,
+      "w" : 0.4238682872844193
+    },
+    {
+      "h" : 0.011679586304558676,
+      "x" : 0.24279835733882021,
+      "y" : 0.15695090430933245,
+      "text" : "induced by Aldosterone in Principal cells to enhance sodium",
+      "conf" : 1,
+      "w" : 0.39094649020980743
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.18004115668724266,
+      "y" : 0.14319444457788982,
+      "text" : "reabsorption and potassium secretion?",
+      "conf" : 1,
+      "w" : 0.2654320818823089
+    },
+    {
+      "h" : 0.011627906163533486,
+      "x" : 0.23662551502057616,
+      "y" : 0.12790697655038757,
+      "text" : "[A] Immediate endocytosis and degradation of all ENaC subunits",
+      "conf" : 1,
+      "w" : 0.3786008103088763
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.18827160963648815,
+      "y" : 0.1155523256540697,
+      "text" : "[B] Suppression of mitochondrial ATP synthesis",
+      "conf" : 1,
+      "w" : 0.28189300441142146
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.24794238181584374,
+      "y" : 0.10247093017805226,
+      "text" : "[C] Inhibition of basolateral Na+\/K+ ATPase pump gene transcription",
+      "conf" : 1,
+      "w" : 0.4012345607925511
+    },
+    {
+      "h" : 0.01031007766723635,
+      "x" : 0.21707819495884753,
+      "y" : 0.08932170544890977,
+      "text" : "[D] Phosphorylation and closure of apical ROMK channels",
+      "conf" : 1,
+      "w" : 0.3395061612878955
+    },
+    {
+      "h" : 0.01028423786163335,
+      "x" : 0.24074073590534992,
+      "y" : 0.07625322982724408,
+      "text" : "[E] Induction of SGK1, increasing apical ENaC open probability and",
+      "conf" : 1,
+      "w" : 0.3868312715734326
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.11522633518518527,
+      "y" : 0.06540697664728679,
+      "text" : "membrane abundance",
+      "conf" : 1,
+      "w" : 0.1358024669143389
+    },
+    {
+      "h" : 0.011705426110161676,
+      "x" : 0.7006172774005489,
+      "y" : 0.17001937951312007,
+      "text" : "Q14. [Core Exam] Potassium-sparing diuretics Amiloride and",
+      "conf" : 1,
+      "w" : 0.39300409952799487
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.7067901284722221,
+      "y" : 0.1562500000908431,
+      "text" : "Triamterene reduce potassium excretion while producing mild",
+      "conf" : 1,
+      "w" : 0.40123456079255115
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.5895061756172838,
+      "y" : 0.14319444452944025,
+      "text" : "natriuresis primarily by:",
+      "conf" : 1,
+      "w" : 0.16666666666666674
+    },
+    {
+      "h" : 0.011627906163533486,
+      "x" : 0.7253086371399178,
+      "y" : 0.12790697655038757,
+      "text" : "[A] Inhibiting the mitochondrial electron transport chain in the loop of Henle",
+      "conf" : 1,
+      "w" : 0.43827157650353776
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.7211934210648148,
+      "y" : 0.11555232563590129,
+      "text" : "[B] Directly blocking apical ENaC channels, eliminating the lumen-negative",
+      "conf" : 1,
+      "w" : 0.434156357867163
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.5329218103703703,
+      "y" : 0.10319767433139537,
+      "text" : "potential",
+      "conf" : 1,
+      "w" : 0.05349794423805099
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.7150205814043209,
+      "y" : 0.09084302331031974,
+      "text" : "[C] Antagonizing vasopressin V2 receptors in medullary collecting ducts",
+      "conf" : 1,
+      "w" : 0.4218107019580385
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6769547281893005,
+      "y" : 0.07776162785247104,
+      "text" : "[D] Activating renal carbonic anhydrase in proximal tubules",
+      "conf" : 1,
+      "w" : 0.3456790132342644
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6820987597736627,
+      "y" : 0.06613372109980625,
+      "text" : "[E] Stimulating aldosterone secretion from the adrenal cortex",
+      "conf" : 1,
+      "w" : 0.360082302453383
+    },
+    {
+      "h" : 0.017519379191928475,
+      "x" : 0.3209876615226336,
+      "y" : 0.014573643611020815,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Boar Exam Past Papers",
+      "conf" : 1,
+      "w" : 0.5761316647319674
+    },
+    {
+      "h" : 0.007344961166381836,
+      "x" : 0.8734567925154321,
+      "y" : 0.01966085278616625,
+      "text" : "Confidential Student Revision Bank",
+      "conf" : 1,
+      "w" : 0.19135801447262546
+    }
+  ],
+  "page" : 59
+}

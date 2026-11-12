@@ -1,0 +1,1005 @@
+{
+  "items" : [
+    {
+      "h" : 0.008888889153798374,
+      "conf" : 1,
+      "x" : 0.27067669880952355,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 36 MCQ Masterclass",
+      "y" : 0.9752777776876119,
+      "w" : 0.42481201522903933
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.3477443705513781,
+      "text" : "Twisted Medicine Medical Series • Acute Kidney Injury (AKI), KDIGO, Hyperkalemia & RRT • Standard Practice Bank",
+      "y" : 0.9593023256782945,
+      "w" : 0.5789473291612374
+    },
+    {
+      "h" : 0.010530932744344024,
+      "conf" : 1,
+      "x" : 0.9097744358564567,
+      "text" : "Page 2 of 4",
+      "y" : 0.9745639533598836,
+      "w" : 0.06400333626676513
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "x" : 0.27631579436090214,
+      "text" : "Q15. [2025 Exam] What are the two major nephron segments",
+      "y" : 0.9345930233284884,
+      "w" : 0.3909774330517613
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.24999999429824582,
+      "text" : "most vulnerable to ischemic injury in Ischemic ATN?",
+      "y" : 0.9207848836482558,
+      "w" : 0.3421052539202912
+    },
+    {
+      "h" : 0.008888889153798374,
+      "conf" : 1,
+      "x" : 0.23496240991541342,
+      "text" : "[A] Glomerular parietal epithelial cells and macula densa",
+      "y" : 0.9055555556436317,
+      "w" : 0.3120300600119069
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.25281955234962405,
+      "text" : "[B] Connecting tubule and cortical collecting duct principal cells",
+      "y" : 0.8917151163517442,
+      "w" : 0.3477443582629403
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2706766878947369,
+      "text" : "[C] Straight segment of proximal tubule (pars recta S3) and medullary",
+      "y" : 0.8786337208575581,
+      "w" : 0.38345865651397376
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.15319548907424813,
+      "text" : "thick ascending limb (TAL)",
+      "y" : 0.8655523254542151,
+      "w" : 0.14849623152885738
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.24812029812030084,
+      "text" : "[D] Renal pelvic urothelium and distal ureteric smooth muscle",
+      "y" : 0.8524709301053779,
+      "w" : 0.33834586565139735
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.2312030105639097,
+      "text" : "[E] Juxtaglomerular granular cells and efferent arteriole",
+      "y" : 0.8379166668625548,
+      "w" : 0.30451126153481084
+    },
+    {
+      "h" : 0.011731265915764788,
+      "conf" : 1,
+      "x" : 0.26315789929511263,
+      "text" : "Q16. [2024 Exam] In Rhabdomyolysis-induced AKI, what",
+      "y" : 0.8080878550802797,
+      "w" : 0.3646616493515793
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.2781954936560149,
+      "text" : "primary mechanisms drive myoglobin-mediated renal tubular",
+      "y" : 0.7943055556340772,
+      "w" : 0.39473682132065513
+    },
+    {
+      "h" : 0.011396534177992024,
+      "conf" : 1,
+      "x" : 0.11090225623791597,
+      "text" : "damage?",
+      "y" : 0.7812500000849056,
+      "w" : 0.060477075090003815
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.2509398453242482,
+      "text" : "[A] Autoantibody production against podocyte nephrin proteins",
+      "y" : 0.7659883720203489,
+      "w" : 0.34398494805473806
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2443609063909774,
+      "text" : "[B] Intratubular cast obstruction with Tamm-Horsfall protein,",
+      "y" : 0.7521802325763081,
+      "w" : 0.3308270671743013
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.2302631609210526,
+      "text" : "heme-mediated oxidative toxicity, and vasoconstriction",
+      "y" : 0.7398255814534884,
+      "w" : 0.30263156740036395
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.23778195548245612,
+      "text" : "[C] Direct bacterial infection of proximal tubule lysosomes",
+      "y" : 0.725972222163541,
+      "w" : 0.31766916435455606
+    },
+    {
+      "h" : 0.008888888623979407,
+      "conf" : 1,
+      "x" : 0.24812030084206177,
+      "text" : "[D] Selective destruction of medullary interstitial cells of Cajal",
+      "y" : 0.7122222220934076,
+      "w" : 0.3383458656513973
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "x" : 0.2631579008771927,
+      "text" : "[E] Severe systemic metabolic alkalosis precipitating urate crystals",
+      "y" : 0.6984625323354519,
+      "w" : 0.3684210595597816
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.2753759366071429,
+      "text" : "Q17. [2023 Exam] What is the most effective evidence-based",
+      "y" : 0.6823611110259064,
+      "w" : 0.3890977169780059
+    },
+    {
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "x" : 0.2781954926691729,
+      "text" : "preventive strategy for Contrast-Induced Nephropathy (CIN)?",
+      "y" : 0.6686111113338555,
+      "w" : 0.394736821320655
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.25187970270676685,
+      "text" : "[A] Prophylactic hemodialysis started 10 minutes post-contrast",
+      "y" : 0.6533430233284885,
+      "w" : 0.3458646641284935
+    },
+    {
+      "h" : 0.011737725999620086,
+      "conf" : 1,
+      "x" : 0.2368421021052632,
+      "text" : "[B] Complete fluid restriction for 24 hours prior to imaging",
+      "y" : 0.6394799742454966,
+      "w" : 0.31578947022010917
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.20394737258771917,
+      "text" : "[C] Oral potassium chloride supplementation",
+      "y" : 0.6256944443692624,
+      "w" : 0.25
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "x" : 0.27161654617011266,
+      "text" : "[D] Isotonic IV saline volume expansion before and after, with minimal",
+      "y" : 0.6119444445294402,
+      "w" : 0.3853383287091121
+    },
+    {
+      "h" : 0.008848677741156608,
+      "conf" : 1,
+      "x" : 0.10338345921115871,
+      "text" : "contrast",
+      "y" : 0.600290697818292,
+      "w" : 0.04891013413517703
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.23308270984962398,
+      "text" : "[E] High-dose IV loop diuretics prior to contrast injection",
+      "y" : 0.5865277777395598,
+      "w" : 0.3082706717430131
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2847744428884709,
+      "text" : "Q18. [2022 Exam] Which classic ECG sequence corresponds to",
+      "y" : 0.5559722220361478,
+      "w" : 0.40789470220109186
+    },
+    {
+      "h" : 0.011718345748053638,
+      "conf" : 1,
+      "x" : 0.23402256022086457,
+      "text" : "progressively worsening Hyperkalemia in AKI?",
+      "y" : 0.5421963826919693,
+      "w" : 0.30639097760856626
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "x" : 0.27349624546522544,
+      "text" : "[A] Peaked T waves -> prolonged PR -> widened QRS -> sine wave ->",
+      "y" : 0.5268217053822914,
+      "w" : 0.38909771697800594
+    },
+    {
+      "h" : 0.007267441749572723,
+      "conf" : 0.5,
+      "x" : 0.09680451187343356,
+      "text" : "VFib",
+      "y" : 0.5152616279796511,
+      "w" : 0.03571428453896562
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.2810150426456766,
+      "text" : "[B] Prominent U waves -> ST depression -> QT prolongation -> Torsades",
+      "y" : 0.5006944443510938,
+      "w" : 0.4041353139321981
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.23872180850563898,
+      "text" : "[C] Electrical alternans with low QRS voltage in all leads",
+      "y" : 0.48763888884419676,
+      "w" : 0.319548858489003
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "x" : 0.25751880145676675,
+      "text" : "[D] Delta waves with short PR interval and wide QRS complexes",
+      "y" : 0.47388888898620607,
+      "w" : 0.3571428508744833
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.25845865110432326,
+      "text" : "[E] ST segment elevation in leads II, III, and aVF with depression",
+      "y" : 0.46002906982194774,
+      "w" : 0.3590225450089302
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.2838345824060151,
+      "text" : "Q19. [2021 Exam] In a patient with severe Hyperkalemia (K+ 7.2",
+      "y" : 0.42957041342389124,
+      "w" : 0.40601503000595346
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.27819548208020073,
+      "text" : "mEq\/L) and widened QRS complexes, what is the IMMEDIATE",
+      "y" : 0.4156976743701551,
+      "w" : 0.3984962095895489
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.13533834404761907,
+      "text" : "first medication?",
+      "y" : 0.40334302342538747,
+      "w" : 0.11278195521713245
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.25469925251409764,
+      "text" : "[A] Oral sodium polystyrene sulfonate (Kayexalate) with sorbitol",
+      "y" : 0.38736111133748913,
+      "w" : 0.35150374653183414
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.22932331328320785,
+      "text" : "[B] Intravenous loop diuretic bolus to induce kaliuresis",
+      "y" : 0.372819767514535,
+      "w" : 0.300751873265917
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2180451174185462,
+      "text" : "[C] Subcutaneous regular insulin without dextrose",
+      "y" : 0.35973837216569765,
+      "w" : 0.27819547783462883
+    },
+    {
+      "h" : 0.01174418555365675,
+      "conf" : 1,
+      "x" : 0.27255639290413536,
+      "text" : "[D] Intravenous Calcium Gluconate (10%) to stabilize cardiac myocyte",
+      "y" : 0.34587209300842675,
+      "w" : 0.3872180447828676
+    },
+    {
+      "h" : 0.00873385005527072,
+      "conf" : 1,
+      "x" : 0.1550751853696743,
+      "text" : "resting membrane potential",
+      "y" : 0.3328552972447081,
+      "w" : 0.15601503000595346
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.1766917320802004,
+      "text" : "[E] Oral potassium-sparing diuretic",
+      "y" : 0.32042958670207766,
+      "w" : 0.19548871652588062
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.27913534231202997,
+      "text" : "Q20. [2020 Exam] How do IV Regular Insulin and Dextrose act",
+      "y" : 0.3030523256540697,
+      "w" : 0.3966165373944105
+    },
+    {
+      "h" : 0.011724805831909157,
+      "conf" : 1,
+      "x" : 0.2810150426456766,
+      "text" : "to rapidly lower serum potassium concentration in emergency",
+      "y" : 0.28919573628499823,
+      "w" : 0.4041353139321981
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.12781954765037595,
+      "text" : "hyperkalemia?",
+      "y" : 0.27543604649345926,
+      "w" : 0.09774435826294033
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "x" : 0.2556391021616541,
+      "text" : "[A] Directly bind and chelate circulating potassium ions in serum",
+      "y" : 0.26096253231728334,
+      "w" : 0.353383440666281
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.26973684687499994,
+      "text" : "[B] Precipitate potassium into insoluble potassium phosphate in bone",
+      "y" : 0.24709302332848837,
+      "w" : 0.3815789404402184
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2828947409210525,
+      "text" : "[C] Stimulate Na+\/K+-ATPase pumps, shifting extracellular potassium into",
+      "y" : 0.23328488379360462,
+      "w" : 0.4078947460797088
+    },
+    {
+      "h" : 0.00872092988755957,
+      "conf" : 1,
+      "x" : 0.19924812431077682,
+      "text" : "intracellular compartment within 15-30 min",
+      "y" : 0.22093023260658912,
+      "w" : 0.24060148544914853
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2612781918421053,
+      "text" : "[D] Induce massive gastrointestinal secretion of potassium in stool",
+      "y" : 0.20708333350708646,
+      "w" : 0.3646616493515794
+    },
+    {
+      "h" : 0.008888888623979407,
+      "conf" : 1,
+      "x" : 0.20112781945270153,
+      "text" : "[E] Increase glomerular filtration rate tenfold",
+      "y" : 0.1933333333324337,
+      "w" : 0.24436089565735084
+    },
+    {
+      "h" : 0.01175064563751227,
+      "conf" : 1,
+      "x" : 0.2791353433035713,
+      "text" : "Q21. [2024 Exam] Which adjuvant agent shifts potassium into",
+      "y" : 0.1772642117310339,
+      "w" : 0.3966165373944105
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.28195489124060147,
+      "text" : "cells by stimulating beta-2 adrenergic receptors and adenylate",
+      "y" : 0.16347222240578896,
+      "w" : 0.4022556417370597
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.15601503803258146,
+      "text" : "[A] Intravenous Propranolol",
+      "y" : 0.13444767458817825,
+      "w" : 0.15413533587150657
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.2810150426456766,
+      "text" : "[B] Inhaled or nebulized Salbutamol (Albuterol) in high doses (10-20 mg)",
+      "y" : 0.12063953495639546,
+      "w" : 0.4041353139321981
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.15695488981829564,
+      "text" : "[C] Oral Metoprolol tartrate",
+      "y" : 0.10680555566435818,
+      "w" : 0.15601503000595346
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.20300752293233065,
+      "text" : "[D] Intramuscular Epinephrine in microdoses",
+      "y" : 0.09375000007267442,
+      "w" : 0.24812028392624458
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.16635338315319548,
+      "text" : "[E] Inhaled Ipratropium bromide",
+      "y" : 0.07921511615188959,
+      "w" : 0.17857142543724164
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6842105305921052,
+      "text" : "Q22. [2023 Exam] What is the primary role of Sodium",
+      "y" : 0.9353197674963663,
+      "w" : 0.3421052539202911
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7124060110526316,
+      "text" : "Zirconium Cyclosilicate (Lokelma) and Patiromer in managing",
+      "y" : 0.9207848836773256,
+      "w" : 0.39849625346816586
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7095864711231201,
+      "text" : "[A] Intravenous agents that rapidly dissolve cardiac potassium channels",
+      "y" : 0.8917151163699129,
+      "w" : 0.3966165373944104
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7011278258771928,
+      "text" : "[B] Direct antagonists of mineralocorticoid receptors in principal cells",
+      "y" : 0.8786337210029069,
+      "w" : 0.379699224366463
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "x" : 0.6729323348684209,
+      "text" : "[C] Osmotic agents that induce rapid free water clearance",
+      "y" : 0.8640374678280656,
+      "w" : 0.3233082686972052
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6776315822744361,
+      "text" : "[D] Proximal tubule inhibitors of sodium-hydrogen exchange",
+      "y" : 0.850972222405789,
+      "w" : 0.3327067613087482
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.7161654186560149,
+      "text" : "[E] Non-absorbed oral potassium binders exchanging cations in GI tract to",
+      "y" : 0.8379166668443863,
+      "w" : 0.4097744182748473
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.594924814755639,
+      "text" : "eliminate potassium in feces",
+      "y" : 0.8248611113677702,
+      "w" : 0.16353382848304943
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7048872228383457,
+      "text" : "Q23. [2021 Exam] What is the clinical consensus on routine",
+      "y" : 0.8088662791242733,
+      "w" : 0.3834586565139737
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6860902197368421,
+      "text" : "Loop Diuretics (e.g., Furosemide) in established AKI?",
+      "y" : 0.7943055555190094,
+      "w" : 0.34962405239738714
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "x" : 0.6926691765601503,
+      "text" : "[A] Indicated for volume overload; do NOT reduce mortality or aid",
+      "y" : 0.7798546511307335,
+      "w" : 0.3627819552171323
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.5366541344924813,
+      "text" : "recovery",
+      "y" : 0.7659883720445737,
+      "w" : 0.05075187875074427
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6926691774671051,
+      "text" : "[B] Mandatory in all patients to convert oliguric to non-oliguric AKI",
+      "y" : 0.7536337210210755,
+      "w" : 0.3627819552171323
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "x" : 0.7030075235902254,
+      "text" : "[C] Completely contraindicated in all stages under any circumstances",
+      "y" : 0.7390374678280656,
+      "w" : 0.3834586565139737
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.679511283803258,
+      "text" : "[D] Recommended as first-line replacement for hemodialysis",
+      "y" : 0.725972222405789,
+      "w" : 0.336466149577642
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6954887279448619,
+      "text" : "[E] Proven to reverse established ischemic necrosis within 6 hours",
+      "y" : 0.7129166668625548,
+      "w" : 0.36842105955978166
+    },
+    {
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "x" : 0.6860902210526317,
+      "text" : "Q24. [2025 Exam] Why is 'Renal-Dose Dopamine' (1-3",
+      "y" : 0.681666666596082,
+      "w" : 0.3458646421891849
+    },
+    {
+      "h" : 0.01309431499905056,
+      "conf" : 1,
+      "x" : 0.7067669221334586,
+      "text" : "mcg\/kg\/min) no longer recommended in clinical practice for",
+      "y" : 0.6693249353194874,
+      "w" : 0.3872180447828675
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "x" : 0.6071428587092731,
+      "text" : "AKI prevention or treatment?",
+      "y" : 0.6548546511428458,
+      "w" : 0.1879699180487846
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.7058270725328946,
+      "text" : "[A] It causes instantaneous bilateral cortical necrosis in 100% of cases",
+      "y" : 0.6395348837936046,
+      "w" : 0.389097716978006
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7020676739426691,
+      "text" : "[B] It permanently down-regulates all renal beta-adrenergic receptors",
+      "y" : 0.6256944443510938,
+      "w" : 0.38157894044021834
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "x" : 0.6804511320488721,
+      "text" : "[C] It is rapidly converted into cyanide within proximal tubules",
+      "y" : 0.6112467702090931,
+      "w" : 0.33834586565139735
+    },
+    {
+      "h" : 0.010310077667236461,
+      "conf" : 1,
+      "x" : 0.7152255679887218,
+      "text" : "[D] Multiple clinical trials showed NO benefit in GFR recovery or mortality,",
+      "y" : 0.5981782947158191,
+      "w" : 0.4078947460797089
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6428571384711781,
+      "text" : "with potential risks of arrhythmias and ischemia",
+      "y" : 0.586527777594211,
+      "w" : 0.2631578808804367
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6719924852208645,
+      "text" : "[E] It has zero vasodilatory effect on splanchnic circulation",
+      "y" : 0.5719476745094476,
+      "w" : 0.3214285526234498
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7058270715225564,
+      "text" : "Q25. [Faculty Exam] In fluid resuscitation of sepsis-induced",
+      "y" : 0.5559722220361477,
+      "w" : 0.3853383287091121
+    },
+    {
+      "h" : 0.011718346277872715,
+      "conf" : 1,
+      "x" : 0.7058270708803258,
+      "text" : "prerenal AKI, which intravenous fluid is preferred over 0.9%",
+      "y" : 0.5421963823907225,
+      "w" : 0.3853383287091121
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6390977479949874,
+      "text" : "[A] 10% Dextrose in water without electrolytes",
+      "y" : 0.5123611110770726,
+      "w" : 0.25563908240334077
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6625939900062656,
+      "text" : "[B] Hydroxyethyl starch (HES) colloids in high volumes",
+      "y" : 0.4993055557760865,
+      "w" : 0.302631567400364
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "x" : 0.7152255679887218,
+      "text" : "[C] Balanced crystalloids (e.g., Lactated Ringer's or Plasma-Lyte) to avoid",
+      "y" : 0.4862467701909245,
+      "w" : 0.4078947460797089
+    },
+    {
+      "h" : 0.01031007766723624,
+      "conf" : 1,
+      "x" : 0.6823308312969923,
+      "text" : "hyperchloremic metabolic acidosis and renal vasoconstriction",
+      "y" : 0.4731782947630574,
+      "w" : 0.33834586565139735
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.631578951378446,
+      "text" : "[D] Hypertonic 3% sodium chloride boluses",
+      "y" : 0.46002906984011627,
+      "w" : 0.2406014854491486
+    },
+    {
+      "h" : 0.011880757013956744,
+      "conf" : 1,
+      "x" : 0.6174820677874587,
+      "text" : "[E] Sterile distilled water intravenously",
+      "y" : 0.44629426533551975,
+      "w" : 0.2125805128743372
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.6945488767152255,
+      "text" : "Q26. [Core Exam] What is the typical clinical course and",
+      "y" : 0.4295704135583389,
+      "w" : 0.3627819552171325
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.7124060200187969,
+      "text" : "primary hazard during the Diuretic (Recovery) Phase of Acute",
+      "y" : 0.4156976744912791,
+      "w" : 0.3984962095895489
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.5733082718796991,
+      "text" : "Tubular Necrosis?",
+      "y" : 0.4033430233284884,
+      "w" : 0.12030075369422855
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6738721858709271,
+      "text" : "[A] Rapid onset of severe hyperkalemic metabolic acidosis",
+      "y" : 0.3873611113193206,
+      "w" : 0.3251879628316522
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6926691774671051,
+      "text" : "[B] Massive polyuria (3-5 L\/day) with severe risk of hypokalemia,",
+      "y" : 0.3728197674963662,
+      "w" : 0.3627819552171323
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "x" : 0.6503759433270675,
+      "text" : "hypomagnesemia, and profound volume depletion",
+      "y" : 0.3612467701727559,
+      "w" : 0.27819547783462883
+    },
+    {
+      "h" : 0.01176356527540412,
+      "conf" : 1,
+      "x" : 0.6832706824248118,
+      "text" : "[C] Recurrent anuria requiring daily hemodialysis for 6 months",
+      "y" : 0.34745155053461746,
+      "w" : 0.3439849480547381
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7058270741541353,
+      "text" : "[D] Severe hypertension secondary to intravascular volume expansion",
+      "y" : 0.33357558146802324,
+      "w" : 0.389097716978006
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.6541353431077692,
+      "text" : "[E] Irreversible loss of 100% of functional nephrons",
+      "y" : 0.3204295866051785,
+      "w" : 0.28571427631172497
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7152255706453632,
+      "text" : "Q27. [Core Exam] Which clinical triad classically characterizes",
+      "y" : 0.3030523256540698,
+      "w" : 0.40413531393219815
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6973684256578945,
+      "text" : "Atheroembolic Renal Disease (Cholesterol Embolization)",
+      "y" : 0.28997093028706405,
+      "w" : 0.36842105955978155
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6259398483082707,
+      "text" : "following vascular catheterization?",
+      "y" : 0.27541666666270026,
+      "w" : 0.2293232987031586
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "x" : 0.6597744331203008,
+      "text" : "[A] Livedo reticularis, blue toes with intact pulses, and",
+      "y" : 0.2609625321901031,
+      "w" : 0.29699248499702324
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7067669238095234,
+      "text" : "eosinophilia\/hypocomplementemia with biconvex needle-shaped clefts",
+      "y" : 0.24781976751453488,
+      "w" : 0.39097743305176125
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7161654186560149,
+      "text" : "[B] Massive macroscopic hematuria, flank mass, and severe polycythemia",
+      "y" : 0.23473837214752896,
+      "w" : 0.4097744182748473
+    },
+    {
+      "h" : 0.011744186083475716,
+      "conf" : 1,
+      "x" : 0.6964285683270677,
+      "text" : "[C] High fever, bilateral costovertebral tenderness, and WBC casts",
+      "y" : 0.22087209279196685,
+      "w" : 0.37030073175492006
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6954887264097742,
+      "text" : "[D] Sudden painless anuria, bilateral loin collaterals, and high LDH",
+      "y" : 0.20708333314078486,
+      "w" : 0.36842105955978155
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6757518851817041,
+      "text" : "[E] Periorbital facial edema, low C3, and elevated ASO titer",
+      "y" : 0.1940277775793819,
+      "w" : 0.32894735110054596
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6795112815225564,
+      "text" : "Q28. [Core Exam] What is the characteristic clinical",
+      "y" : 0.1780523256540697,
+      "w" : 0.3327067613087482
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7077067701597743,
+      "text" : "presentation of Abdominal Compartment Syndrome causing",
+      "y" : 0.16347222239367665,
+      "w" : 0.389097716978006
+    },
+    {
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "x" : 0.5751879715225563,
+      "text" : "acute oliguric AKI?",
+      "y" : 0.14972222207248503,
+      "w" : 0.12781954120167038
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.692669166885965,
+      "text" : "[A] Intra-abdominal pressure < 5 mmHg with collapsed vena cava",
+      "y" : 0.1344476743459303,
+      "w" : 0.36278193327782393
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.6597744410401002,
+      "text" : "[B] Massive polyuria with severe respiratory alkalosis",
+      "y" : 0.12063953498062019,
+      "w" : 0.29699246305771476
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6936090262030076,
+      "text" : "[C] Completely soft, scaphoid abdomen with absent bowel sounds",
+      "y" : 0.1068055556159086,
+      "w" : 0.3646616493515793
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6719924771851504,
+      "text" : "[D] Spontaneous disappearance of renal capsular vessels",
+      "y" : 0.09374999990915689,
+      "w" : 0.3214285526234498
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7124060200657893,
+      "text" : "[E] Intra-abdominal pressure > 20 mmHg with tense distended abdomen,",
+      "y" : 0.07921511629723832,
+      "w" : 0.40225564173705974
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6635338295112784,
+      "text" : "causing renal vein compression and reduced perfusion",
+      "y" : 0.06763888884085723,
+      "w" : 0.3045112615348109
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.21898496782581436,
+      "text" : "Twisted Medicine • Clinical Nephrology & ICU Master Class",
+      "y" : 0.024027777739559775,
+      "w" : 0.32518796283165213
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.539473679385965,
+      "text" : "• Strictly Grounded in Faculty & Board Exam Past Papers",
+      "y" : 0.02402777764266073,
+      "w" : 0.2894736645806187
+    },
+    {
+      "h" : 0.018895348442925286,
+      "conf" : 1,
+      "x" : 0.5197368423026315,
+      "text" : "138",
+      "y" : 0.012354651228197566,
+      "w" : 0.03947368377751359
+    },
+    {
+      "h" : 0.008888888623979296,
+      "conf" : 1,
+      "x" : 0.8552631608395989,
+      "text" : "Confidential Student Revision Bank",
+      "y" : 0.024722222144377692,
+      "w" : 0.1766917203331405
+    }
+  ],
+  "page" : 140
+}

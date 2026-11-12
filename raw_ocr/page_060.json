@@ -1,0 +1,957 @@
+{
+  "items" : [
+    {
+      "text" : "Twisted Medicine • Renal System Module • Lecture 15 MCQ Masterclass",
+      "y" : 0.9774224804225952,
+      "w" : 0.5082304372727495,
+      "conf" : 1,
+      "h" : 0.013178294499715193,
+      "x" : 0.2870370455075443
+    },
+    {
+      "text" : "Twisted Medicine Medical Series • Late Distal Tubule, Collecting Ducts, ADH, Aldosterone & Acidification • Standard Practice Bank",
+      "y" : 0.9651162791182171,
+      "w" : 0.6975308304312845,
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.3816872544238679
+    },
+    {
+      "text" : "Page 2 of 4",
+      "y" : 0.9760174417750936,
+      "w" : 0.07017271173825046,
+      "conf" : 1,
+      "h" : 0.010935553444756385,
+      "x" : 0.9341563774365681
+    },
+    {
+      "text" : "Q15. [2025 Exam] In the absence of Antidiuretic Hormone (ADH \/",
+      "y" : 0.9454295865870099,
+      "w" : 0.42181070195803855,
+      "conf" : 1,
+      "h" : 0.01030361758338072,
+      "x" : 0.26028807111625507
+    },
+    {
+      "text" : "Vasopressin), the epithelial lining of the collecting duct system is",
+      "y" : 0.9309722220845974,
+      "w" : 0.42798350592079404,
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.2613168795610423
+    },
+    {
+      "text" : "characterized by:",
+      "y" : 0.9179166668773838,
+      "w" : 0.11522633774475481,
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.10493826968449935
+    },
+    {
+      "text" : "[A] Spontaneous hyper-absorption of water into the hypertonic medulla",
+      "y" : 0.9033430233284884,
+      "w" : 0.41358021670167555,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.25411523323045243
+    },
+    {
+      "text" : "[B] Total impermeability to water, resulting in the excretion of large volumes",
+      "y" : 0.8902616279978197,
+      "w" : 0.442386843123526,
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.2685185240483538
+    },
+    {
+      "text" : "of dilute urine",
+      "y" : 0.8793604650193798,
+      "w" : 0.08436213799242703,
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.08950617143347056
+    },
+    {
+      "text" : "[C] Massive active secretion of sodium into the tubular lumen",
+      "y" : 0.8662790698401163,
+      "w" : 0.360082302453383,
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.22736625964506163
+    },
+    {
+      "text" : "[D] Complete mechanical collapse and occlusion of all collecting ducts",
+      "y" : 0.853197674491279,
+      "w" : 0.4135802167016755,
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.2541152315072015
+    },
+    {
+      "text" : "[E] Transformation of principal cells into ciliated respiratory epithelium",
+      "y" : 0.8408430233103197,
+      "w" : 0.41152263137529477,
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.25308642489711924
+    },
+    {
+      "text" : "Q22. [2023 Exam] How does ADH-stimulated urea reabsorption from",
+      "y" : 0.9454295865082792,
+      "w" : 0.4465020617599008,
+      "conf" : 1,
+      "h" : 0.01030361758338083,
+      "x" : 0.7232510213648837
+    },
+    {
+      "text" : "the Inner Medullary Collecting Duct (IMCD) contribute to maximal",
+      "y" : 0.9316666664538598,
+      "w" : 0.42592592059441337,
+      "conf" : 1,
+      "h" : 0.011666666666666714,
+      "x" : 0.7150205725308645
+    },
+    {
+      "text" : "urine concentration?",
+      "y" : 0.918611111149747,
+      "w" : 0.14814814681527,
+      "conf" : 1,
+      "h" : 0.008888888888888946,
+      "x" : 0.5781892979423868
+    },
+    {
+      "text" : "[A] It lowers medullary osmolality down to cortical plasma levels",
+      "y" : 0.9033430233284884,
+      "w" : 0.3744855916725014,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.6934156416049382
+    },
+    {
+      "text" : "[B] Urea directly blocks all aquaporin water channels in cortical nephrons",
+      "y" : 0.8909883722868217,
+      "w" : 0.42798350592079404,
+      "conf" : 1,
+      "h" : 0.011627906163533597,
+      "x" : 0.7160493855281207
+    },
+    {
+      "text" : "[C] Urea recycling into the thin Henle loop establishes ~40-50% of inner",
+      "y" : 0.8779069766957364,
+      "w" : 0.41563785001166964,
+      "conf" : 1,
+      "h" : 0.011627906163533486,
+      "x" : 0.7119341494513034
+    },
+    {
+      "text" : "medullary hypertonicity",
+      "y" : 0.8655523254118217,
+      "w" : 0.1399176855507137,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.5740740737311385
+    },
+    {
+      "text" : "[D] It converts interstitial fluid into an isotonic saline solution",
+      "y" : 0.8539244186773256,
+      "w" : 0.3580246691433888,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.683127577983539
+    },
+    {
+      "text" : "[E] Urea causes immediate constriction of the main renal artery",
+      "y" : 0.8408430232013082,
+      "w" : 0.37037037303612663,
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6893004068930042
+    },
+    {
+      "text" : "Q16. [2024 Exam] Antidiuretic Hormone binds specifically to V2",
+      "y" : 0.8190277775612134,
+      "w" : 0.4094649980653007,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.25411523145576126
+    },
+    {
+      "text" : "receptors on the basolateral membrane of Principal cells, initiating",
+      "y" : 0.8045704133948215,
+      "w" : 0.43209877254078227,
+      "conf" : 1,
+      "h" : 0.01030361758338083,
+      "x" : 0.26337447839506195
+    },
+    {
+      "text" : "which signaling cascade?",
+      "y" : 0.7914244185319768,
+      "w" : 0.16460904535257592,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.13168724115226338
+    },
+    {
+      "text" : "[A] Gi-protein activation -> Inhibition of adenylyl cyclase -> drop in cAMP",
+      "y" : 0.7768217054489097,
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "h" : 0.01031007766723635,
+      "x" : 0.26234568617969795
+    },
+    {
+      "text" : "[B] Gq-protein activation -> Phospholipase C -> IP3 and diacylglycerol",
+      "y" : 0.7637532298272441,
+      "w" : 0.4012345607925511,
+      "conf" : 1,
+      "h" : 0.010284237861633239,
+      "x" : 0.24794238181584374
+    },
+    {
+      "text" : "[C] Gs-protein activation -> Adenylyl cyclase - cAMP -> Protein Kinase A",
+      "y" : 0.7506944444177119,
+      "w" : 0.42592592059441337,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.2602880729423866
+    },
+    {
+      "text" : "(PKA)",
+      "y" : 0.7390988371184593,
+      "w" : 0.03909464902098074,
+      "conf" : 0.5,
+      "h" : 0.010174418555365605,
+      "x" : 0.0648148143261317
+    },
+    {
+      "text" : "[D] Receptor tyrosine kinase auto-phosphorylation -> MAPK cascade",
+      "y" : 0.7259722224239576,
+      "w" : 0.39917695147436366,
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.24691358523662538
+    },
+    {
+      "text" : "[E] Guanylyl cyclase activation -> cyclic GMP -> Protein Kinase G",
+      "y" : 0.7129166667656556,
+      "w" : 0.37654320099068883,
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.23353908837448584
+    },
+    {
+      "text" : "Q23. [2021 Exam] Which tubular fluid parameter remains essentially",
+      "y" : 0.8183333332682592,
+      "w" : 0.43827157650353776,
+      "conf" : 1,
+      "h" : 0.011666666666666714,
+      "x" : 0.7253086463580245
+    },
+    {
+      "text" : "unchanged along the Cortical Collecting Duct when ADH levels are",
+      "y" : 0.8045704134129901,
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "h" : 0.01030361758338072,
+      "x" : 0.7191357970936214
+    },
+    {
+      "text" : "zero?",
+      "y" : 0.7921511628633721,
+      "w" : 0.0390946490209807,
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.5257201650977367
+    },
+    {
+      "text" : "[A] Potassium concentration drops to absolute zero",
+      "y" : 0.7761111111591428,
+      "w" : 0.30041151226691476,
+      "conf" : 1,
+      "h" : 0.008888888888888946,
+      "x" : 0.6563786045781892
+    },
+    {
+      "text" : "[B] Sodium concentration rises to ten times plasma levels",
+      "y" : 0.7637532298272441,
+      "w" : 0.33744855196970813,
+      "conf" : 1,
+      "h" : 0.010284237861633239,
+      "x" : 0.6728395019547326
+    },
+    {
+      "text" : "[C] Inulin concentration increases by one hundred-fold",
+      "y" : 0.7514114984537504,
+      "w" : 0.3189300201224081,
+      "conf" : 1,
+      "h" : 0.011711886194017085,
+      "x" : 0.6635802522290808
+    },
+    {
+      "text" : "[D] Tubular fluid osmolality remains low (~100 mOsm\/kg) because water",
+      "y" : 0.737638888729129,
+      "w" : 0.42592592059441337,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.7191357953703705
+    },
+    {
+      "text" : "cannot exit",
+      "y" : 0.7267474161853387,
+      "w" : 0.07818929804196151,
+      "conf" : 1,
+      "h" : 0.0087273899714152,
+      "x" : 0.5432098778463648
+    },
+    {
+      "text" : "[E] Fluid volume decreases by 90% before entering medullary ducts",
+      "y" : 0.7129166668807234,
+      "w" : 0.3950617088461823,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.701646095473251
+    },
+    {
+      "text" : "Q17. [2023 Exam] Phosphorylation of Aquaporin-2 (AQP2) by Protein Q24. [2025 Exam] What is the Obligatory Urine Volume, and why must",
+      "y" : 0.6911337210210755,
+      "w" : 0.9074073647553067,
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.5030864310956789
+    },
+    {
+      "text" : "Kinase A leads to which decisive cellular event in Principal cells?",
+      "y" : 0.6780523256540698,
+      "w" : 0.4176954833216637,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.25823045685185175
+    },
+    {
+      "text" : "a healthy adult excrete at least ~0.5 Liters of urine per day?",
+      "y" : 0.6772642115856851,
+      "w" : 0.38683127157343256,
+      "conf" : 1,
+      "h" : 0.011750645637512158,
+      "x" : 0.69753085936214
+    },
+    {
+      "text" : "[A] Endocytic internalization and lysosomal destruction of AQP2",
+      "y" : 0.662083333570365,
+      "w" : 0.37654320099068883,
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.23353909509602191
+    },
+    {
+      "text" : "[A] To keep renal oxygen consumption elevated",
+      "y" : 0.6620833333009627,
+      "w" : 0.27777776178324,
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6450617318672839
+    },
+    {
+      "text" : "[B] Blockade of basolateral water exit into peritubular capillaries",
+      "y" : 0.6504166668141051,
+      "w" : 0.37448559167250145,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.23456790747599426
+    },
+    {
+      "text" : "[B] To prevent capillary intravascular clotting",
+      "y" : 0.6497214647049926,
+      "w" : 0.2615407547860775,
+      "conf" : 1,
+      "h" : 0.01174993726942275,
+      "x" : 0.6347824481305406
+    },
+    {
+      "text" : "[C] Direct opening of paracellular tight junction claudin pores",
+      "y" : 0.6366569769211742,
+      "w" : 0.3559670598252015,
+      "conf" : 1,
+      "h" : 0.011686045858595007,
+      "x" : 0.22530864790809307
+    },
+    {
+      "text" : "[C] To provide constant bladder wall lubrication",
+      "y" : 0.637361111301152,
+      "w" : 0.27777776178324,
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6430041186985597
+    },
+    {
+      "text" : "[D] Translocation of AQP2 into the mitochondrial outer membrane",
+      "y" : 0.6249999999273255,
+      "w" : 0.3847736622552452,
+      "conf" : 1,
+      "h" : 0.008888888888888835,
+      "x" : 0.23971192934670793
+    },
+    {
+      "text" : "[D] To wash away sloughed urothelial cells",
+      "y" : 0.6243055557760864,
+      "w" : 0.2530864019813778,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.6306584404320987
+    },
+    {
+      "text" : "[E] Exocytic insertion of intracellular AQP2-bearing vesicles into the apical",
+      "y" : 0.6112467700637443,
+      "w" : 0.4300411392307882,
+      "conf" : 1,
+      "h" : 0.01028423786163346,
+      "x" : 0.26234567363683137
+    },
+    {
+      "text" : "[E] Excreting ~600 mOsm solutes at max 1200 mOsm\/kg",
+      "y" : 0.6112467700940253,
+      "w" : 0.33744855196970813,
+      "conf" : 1,
+      "h" : 0.010284237861633239,
+      "x" : 0.6707818873799727
+    },
+    {
+      "text" : "membrane",
+      "y" : 0.6002906978197675,
+      "w" : 0.06790123345716945,
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.0812757200617284
+    },
+    {
+      "text" : "Q18. [2022 Exam] Water absorbed across the apical membrane via",
+      "y" : 0.5639114984279623,
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "h" : 0.011711885664198007,
+      "x" : 0.26234568220164595
+    },
+    {
+      "text" : "Q25. [Facul Exam] During prolonged water deprivation (antidiuresis),",
+      "y" : 0.5639114985506496,
+      "w" : 0.4423867951399125,
+      "conf" : 1,
+      "h" : 0.011711886194017085,
+      "x" : 0.72530863590535
+    },
+    {
+      "text" : "Aquaporin-2 exits the basolateral membrane of Principal cells into",
+      "y" : 0.5501388888260282,
+      "w" : 0.42798350592079404,
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.26337449272976654
+    },
+    {
+      "text" : "what percentage of total filtered water is reabsorbed by the end of",
+      "y" : 0.550843023104614,
+      "w" : 0.42798350592079404,
+      "conf" : 1,
+      "h" : 0.011686046388414195,
+      "x" : 0.7201646159122084
+    },
+    {
+      "text" : "the interstitium via which channels?",
+      "y" : 0.5377777777360615,
+      "w" : 0.24691357402681552,
+      "conf" : 1,
+      "h" : 0.008888889153798374,
+      "x" : 0.1707818971193414
+    },
+    {
+      "text" : "the collecting duct system?",
+      "y" : 0.5370833333312437,
+      "w" : 0.1872427958362508,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.5997942418038408
+    },
+    {
+      "text" : "[A] Electrogenic sodium-water symporters",
+      "y" : 0.5210755815164729,
+      "w" : 0.24897118334500298,
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.17181070373799714
+    },
+    {
+      "text" : "[A] Less than 20% (the kidney cannot conserve water during dehydration)",
+      "y" : 0.5218023255232558,
+      "w" : 0.4238682872844193,
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.7181069916460906
+    },
+    {
+      "text" : "[B] Voltage-gated Aquaporin-1 channels exclusively",
+      "y" : 0.5094476744731105,
+      "w" : 0.3004115122669148,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.1975308679526748
+    },
+    {
+      "text" : "[B] Exactly 50% (half of filtered load is always excreted)",
+      "y" : 0.5094476743640988,
+      "w" : 0.32304526275058953,
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6656378560442388
+    },
+    {
+      "text" : "[C] Simple lipid bilayer diffusion without membrane channel proteins",
+      "y" : 0.49636627901526165,
+      "w" : 0.39917695147436366,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.24691357525720176
+    },
+    {
+      "text" : "[C] 75% (fixed reabsorption percentage regardless of hydration)",
+      "y" : 0.49636627901526165,
+      "w" : 0.37242798235431407,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.6903292134516461
+    },
+    {
+      "text" : "[D] Apical Aquaporin-2 operating in a reverse direction",
+      "y" : 0.4832848837936046,
+      "w" : 0.3189300201224081,
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.20679012877229064
+    },
+    {
+      "text" : "[D] Over 99% of filtered water (excreting less than 1% as concentrated urine)",
+      "y" : 0.4832848837936046,
+      "w" : 0.4444444284499066,
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.7283950691358021
+    },
+    {
+      "text" : "[E] Constitutive Aquaporin-3 (AQP3) and Aquaporin-4 (AQP4) water channels [E] 100% (urine output drops to absolute zero)",
+      "y" : 0.47014534877236736,
+      "w" : 0.7263374088695215,
+      "conf" : 1,
+      "h" : 0.010290697415669792,
+      "x" : 0.4104938234910839
+    },
+    {
+      "text" : "Q19. [2021 Exam] In states of maximal ADH stimulation (severe",
+      "y" : 0.4368055557579178,
+      "w" : 0.4094649980653007,
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.25411523145576126
+    },
+    {
+      "text" : "Q26. [2022 Exam] Why does tubular fluid entering the early Distal",
+      "y" : 0.436805555794255,
+      "w" : 0.4197530686480445,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.7160493879629628
+    },
+    {
+      "text" : "dehydration), what is the maximum osmolality of definitive urine that Convoluted Tubule from the Thick Ascending Limb always have an",
+      "y" : 0.4230200260048779,
+      "w" : 0.8888888568998131,
+      "conf" : 1,
+      "h" : 0.011737725469801119,
+      "x" : 0.4917695584362136
+    },
+    {
+      "text" : "the human kidney can produce?",
+      "y" : 0.4106782945284289,
+      "w" : 0.21810699558857852,
+      "conf" : 1,
+      "h" : 0.010310077137417273,
+      "x" : 0.15637860445816174
+    },
+    {
+      "text" : "osmolality of ~100 m0sm\/kg?",
+      "y" : 0.40995155063151667,
+      "w" : 0.2016460730594659,
+      "conf" : 1,
+      "h" : 0.01176356527540423,
+      "x" : 0.6069958881344306
+    },
+    {
+      "text" : "[A] 5000 mOsm\/kg (equal to oceanic seawater osmolality)",
+      "y" : 0.3945833331407847,
+      "w" : 0.34362137992427033,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.2191358067644032
+    },
+    {
+      "text" : "[A] Complete destruction of all osmotic particles by medullary enzymes",
+      "y" : 0.3945833331407847,
+      "w" : 0.41563785001166964,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.7139917747427982
+    },
+    {
+      "text" : "[B] Exactly 300 mOsm\/kg (strictly iso-osmotic with normal plasma)",
+      "y" : 0.38223514204368103,
+      "w" : 0.39300409952799487,
+      "conf" : 1,
+      "h" : 0.011692505942450637,
+      "x" : 0.2438271654063785
+    },
+    {
+      "text" : "[B] Massive water secretion from the vasa recta directly into the loop lumen",
+      "y" : 0.3822222222733343,
+      "w" : 0.44238684312352594,
+      "conf" : 1,
+      "h" : 0.008888888623979407,
+      "x" : 0.7253086475051438
+    },
+    {
+      "text" : "[C] 50 to 70 mOsm\/kg (maximally dilute hypotonic urine)",
+      "y" : 0.3684722223237188,
+      "w" : 0.3312757000233392,
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.21296296176268864
+    },
+    {
+      "text" : "[C] Active NaCI reabsorption in TAL without water permeability dilutes the",
+      "y" : 0.3691666667414308,
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "h" : 0.008888888888888835,
+      "x" : 0.7191357953017835
+    },
+    {
+      "text" : "[D] Approximately 1200 to 1400 m0sm\/kg (equilibrating with deep medullary",
+      "y" : 0.3561111111981966,
+      "w" : 0.4506172803962755,
+      "conf" : 1,
+      "h" : 0.011666666666666714,
+      "x" : 0.2705761241769549
+    },
+    {
+      "text" : "lumen fluid",
+      "y" : 0.357571059424791,
+      "w" : 0.07613168272582244,
+      "conf" : 1,
+      "h" : 0.00874676995807222,
+      "x" : 0.5360082298010974
+    },
+    {
+      "text" : "[D] Selective filtration of distilled water across the macula densa",
+      "y" : 0.3451453488692665,
+      "w" : 0.3744855916725015,
+      "conf" : 1,
+      "h" : 0.010290697415669792,
+      "x" : 0.6934156316186559
+    },
+    {
+      "text" : "[E] 100 m0sm\/kg (equal to early distal tubule fluid)",
+      "y" : 0.33208333355553604,
+      "w" : 0.30041151226691476,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.19547324602194804
+    },
+    {
+      "text" : "[E] Direct connection between the early DCT and the thoracic lymph duct",
+      "y" : 0.33208333352525493,
+      "w" : 0.42386828728441917,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.7160493774176955
+    },
+    {
+      "text" : "Q20. [2020 Exam] In the complete absence of ADH (water diuresis or Q27. [Core Exam] Which of the following factors is a major",
+      "y" : 0.3095930233527133,
+      "w" : 0.8353908706761005,
+      "conf" : 1,
+      "h" : 0.011627906163533597,
+      "x" : 0.46707820322359345
+    },
+    {
+      "text" : "central DI), what is the minimum osmolality and maximum volume of",
+      "y" : 0.2965116280159883,
+      "w" : 0.4444444284499066,
+      "conf" : 1,
+      "h" : 0.011627906163533597,
+      "x" : 0.26954733065843606
+    },
+    {
+      "text" : "physiological stimulus for the release of Antidiuretic Hormone from",
+      "y" : 0.2965116279796512,
+      "w" : 0.4444444284499066,
+      "conf" : 1,
+      "h" : 0.011627906163533486,
+      "x" : 0.7201646146090535
+    },
+    {
+      "text" : "urine that can be excreted per day?",
+      "y" : 0.2826453487981554,
+      "w" : 0.2407407220804466,
+      "conf" : 1,
+      "h" : 0.01029069794548887,
+      "x" : 0.16769547726337436
+    },
+    {
+      "text" : "the posterior pituitary?",
+      "y" : 0.2826453487981554,
+      "w" : 0.15432098676573547,
+      "conf" : 1,
+      "h" : 0.01029069794548887,
+      "x" : 0.5812757227366254
+    },
+    {
+      "text" : "[A] ~300 mOsm\/kg with fixed volume of exactly 1.5 Liters per day",
+      "y" : 0.26819444452944025,
+      "w" : 0.38271602894525103,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.24074074711934132
+    },
+    {
+      "text" : "[A] Hypo-osmolality of systemic plasma (<270 mOsm\/kg)",
+      "y" : 0.26819444454760893,
+      "w" : 0.3353909426515208,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.6738683169495885
+    },
+    {
+      "text" : "[B] ~50 mOsm\/kg with urine volumes reaching 15 to 20 Liters per day",
+      "y" : 0.25513888898620607,
+      "w" : 0.40740741273892006,
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.2510288133744854
+    },
+    {
+      "text" : "[B] Increased plasma osmolality (>280-285 mOsm\/kg) sensed by",
+      "y" : 0.25513888898620607,
+      "w" : 0.37860081030887627,
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6954732548148148
+    },
+    {
+      "text" : "[C] ~1200 mOsm\/kg with volume restricted to 0.5 Liters per day",
+      "y" : 0.24207041334031576,
+      "w" : 0.37242798235431407,
+      "conf" : 1,
+      "h" : 0.01030361758338083,
+      "x" : 0.23353909302983544
+    },
+    {
+      "text" : "hypothalamic osmoreceptors",
+      "y" : 0.2434722220361477,
+      "w" : 0.17695472525350708,
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.592592595541838
+    },
+    {
+      "text" : "[D] ~600 mOsm\/kg with complete cessation of all urine output",
+      "y" : 0.22969638267985704,
+      "w" : 0.36831273972613254,
+      "conf" : 1,
+      "h" : 0.011718345748053638,
+      "x" : 0.2314814876200272
+    },
+    {
+      "text" : "[C] Massive arterial hypertension stimulating carotid baroreceptors",
+      "y" : 0.23111111091062564,
+      "w" : 0.39094649020980743,
+      "conf" : 1,
+      "h" : 0.011666666666666714,
+      "x" : 0.7016460876543211
+    },
+    {
+      "text" : "[E] Zero mOsm\/kg with excretion of pure distilled water without solutes",
+      "y" : 0.2158430232315891,
+      "w" : 0.41769543533805037,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.2541152193758576
+    },
+    {
+      "text" : "[D] Hypervolemia and acute central blood volume expansion",
+      "y" : 0.2187500001271802,
+      "w" : 0.3518518411888265,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.6820987660236625
+    },
+    {
+      "text" : "[E] Total absence of angiotensin Il in the systemic circulation",
+      "y" : 0.20498062024463193,
+      "w" : 0.3580246691433888,
+      "conf" : 1,
+      "h" : 0.011705426110161676,
+      "x" : 0.6831275708504801
+    },
+    {
+      "text" : "Q21. [2024 Exam] The Medullary Collecting Duct differs",
+      "y" : 0.1830878551756157,
+      "w" : 0.36213991177157034,
+      "conf" : 1,
+      "h" : 0.01173126538594571,
+      "x" : 0.22839505569272997
+    },
+    {
+      "text" : "fundamentally from the Cortical Collecting Duct in its handling of",
+      "y" : 0.1693055554887284,
+      "w" : 0.4218107019580385,
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.2582304474022635
+    },
+    {
+      "text" : "Urea because the medullary segment:",
+      "y" : 0.1562500000545059,
+      "w" : 0.2530864019813778,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.17386831592078186
+    },
+    {
+      "text" : "[A] Actively secretes urea into the lumen via ATP-driven primary pumps",
+      "y" : 0.14026162788275187,
+      "w" : 0.4135802167016755,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.25411521944444465
+    },
+    {
+      "text" : "[B] Is completely impermeable to urea under all physiological conditions",
+      "y" : 0.12863372087572683,
+      "w" : 0.4197530686480444,
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.25720164084362146
+    },
+    {
+      "text" : "[C] Expresses ADH-sensitive urea transporters (UT-A1 and UT-A3), allowing",
+      "y" : 0.11555232550872097,
+      "w" : 0.43827157650353776,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.26440328487654347
+    },
+    {
+      "text" : "[D] Synthesizes urea de novo from ammonium and bicarbonate ions",
+      "y" : 0.0908430232013081,
+      "w" : 0.39711934215617634,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.24588476869855985
+    },
+    {
+      "text" : "[E] Destroys urea using epithelial urease enzymes",
+      "y" : 0.07776162785247104,
+      "w" : 0.2921810510023585,
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.19135802103909477
+    },
+    {
+      "text" : "Q28. [Core Exam] In addition to hyperosmolality, which hemodynamic",
+      "y" : 0.1830878550802797,
+      "w" : 0.4506172803962756,
+      "conf" : 1,
+      "h" : 0.011731265915764677,
+      "x" : 0.7314814871141975
+    },
+    {
+      "text" : "change powerfully stimulates ADH secretion even in the presence of",
+      "y" : 0.16930555547055975,
+      "w" : 0.44238684312352594,
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.7273662507201648
+    },
+    {
+      "text" : "normal or low plasma osmolality?",
+      "y" : 0.15554909598136535,
+      "w" : 0.23045267548950965,
+      "conf" : 1,
+      "h" : 0.011679586304558676,
+      "x" : 0.6193415676268861
+    },
+    {
+      "text" : "[A] Complete transection of the lumbar spinal cord",
+      "y" : 0.14026162802810077,
+      "w" : 0.29629629363054,
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6543209925925925
+    },
+    {
+      "text" : "[B] Severe hypervolemia with systemic venous engorgement",
+      "y" : 0.12779179287077275,
+      "w" : 0.3519916654382862,
+      "conf" : 1,
+      "h" : 0.011964516109890355,
+      "x" : 0.6820914854092817
+    },
+    {
+      "text" : "[C] Unilateral renal artery dilation",
+      "y" : 0.1155523256540697,
+      "w" : 0.19547324510490371,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.6018518551097393
+    },
+    {
+      "text" : "[D] Bilateral adrenalectomy with high mineralocorticoid levels",
+      "y" : 0.10247093030523247,
+      "w" : 0.3580246691433888,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.6851851911522631
+    },
+    {
+      "text" : "[E] Severe hypovolemia or hypotension (>8-10% decrease in blood",
+      "y" : 0.08932170528418093,
+      "w" : 0.38477366225524523,
+      "conf" : 1,
+      "h" : 0.01031007766723624,
+      "x" : 0.6965020537654321
+    },
+    {
+      "text" : "volume\/pressure)",
+      "y" : 0.0777616280765504,
+      "w" : 0.10699587648019848,
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.5576131702331961
+    },
+    {
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Boar gam Past Papers",
+      "y" : 0.014573643574683492,
+      "w" : 0.5761316647319674,
+      "conf" : 1,
+      "h" : 0.017519379191928364,
+      "x" : 0.32098766008230445
+    },
+    {
+      "text" : "Confidential Student Revision Bank",
+      "y" : 0.01966085278616625,
+      "w" : 0.19135801447262546,
+      "conf" : 1,
+      "h" : 0.007344961166381836,
+      "x" : 0.8734567925154321
+    }
+  ],
+  "page" : 60
+}

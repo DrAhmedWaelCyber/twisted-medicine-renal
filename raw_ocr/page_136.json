@@ -1,0 +1,973 @@
+{
+  "items" : [
+    {
+      "h" : 0.011705426110161676,
+      "y" : 0.9825193797553681,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 35 MCQ Masterclass",
+      "x" : 0.2808641896090538,
+      "w" : 0.47942385883451255,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.9709302326308139,
+      "text" : "Twisted Medicine Medical Series • Clinical Nephrology, Cardinal Symptoms, Physical Signs & Evaluation • Standard Practice Bank",
+      "x" : 0.37242799182098735,
+      "w" : 0.6625514000466783,
+      "conf" : 1
+    },
+    {
+      "h" : 0.012788346608479828,
+      "y" : 0.9825581393346703,
+      "text" : "Page 2 of 4",
+      "x" : 0.92386831235188,
+      "w" : 0.07442172068469932,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.9396802324309592,
+      "text" : "Q15. [2025 Exam] Which abdominal examination technique is",
+      "x" : 0.2489711976851851,
+      "w" : 0.40740741273892,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "y" : 0.9265374676645481,
+      "text" : "specifically utilized to palpate and ballot an enlarged kidney?",
+      "x" : 0.2489711893415639,
+      "w" : 0.40740741273892006,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888889153798485,
+      "y" : 0.9127777777118367,
+      "text" : "[A] Hooking technique under the right costal margin during inspiration",
+      "x" : 0.24176955223765423,
+      "w" : 0.3930040995279948,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888888888946,
+      "y" : 0.9011111111833676,
+      "text" : "[B] Direct percussion over pubic symphysis with empty bladder",
+      "x" : 0.22427984135802445,
+      "w" : 0.3580246691433888,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.8902616279796511,
+      "text" : "[C] Auscultation over femoral canal while the patient coughs",
+      "x" : 0.21707819502743467,
+      "w" : 0.34362137992427033,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.8786337209847384,
+      "text" : "[D] Shifting dullness in supine and lateral decubitus positions",
+      "x" : 0.2181070002057612,
+      "w" : 0.3456790132342644,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.8670704135401703,
+      "text" : "[E] Bimanual exam: posterior hand lifts renal angle, anterior hand feels",
+      "x" : 0.24588478034979405,
+      "w" : 0.4012345607925511,
+      "conf" : 1
+    },
+    {
+      "h" : 0.007344961166381836,
+      "y" : 0.8553391473410141,
+      "text" : "lumbar mass",
+      "x" : 0.08230452805212615,
+      "w" : 0.07818929804196148,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.8190277775793819,
+      "text" : "Q16. [2024 Exam] What physical examination maneuver (Murphy's",
+      "x" : 0.2654321031687242,
+      "w" : 0.44032920981353185,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.8059722220845974,
+      "text" : "Kidney Punch) suggests Acute Pyelonephritis?",
+      "x" : 0.20679012884087772,
+      "w" : 0.32304526275058965,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7914244186954942,
+      "text" : "[A] Rebound tenderness at McBurney's point in the right lower quadrant",
+      "x" : 0.24897119850823035,
+      "w" : 0.40740741273892006,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010290697415669792,
+      "y" : 0.7798546511125648,
+      "text" : "[B] Gentle fist percussion over Costovertebral Angle (12th rib\/spine) eliciting",
+      "x" : 0.26028807121913566,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008943982654147642,
+      "y" : 0.7688953489126724,
+      "text" : "sharp pain",
+      "x" : 0.07613168801386662,
+      "w" : 0.06179077220412921,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.7565277780123019,
+      "text" : "[C] Palpating spleen with patient in right lateral decubitus position",
+      "x" : 0.22942386210562432,
+      "w" : 0.37242798235431407,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7463662791242733,
+      "text" : "[D] Eliciting pain upon passive internal rotation of flexed right hip",
+      "x" : 0.2273662596965019,
+      "w" : 0.36419752108975767,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7347383721656977,
+      "text" : "[E] Deep palpation of left lower quadrant causing pain on right",
+      "x" : 0.22119341915637858,
+      "w" : 0.3518518411888267,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.939680232630814,
+      "text" : "Q22. [2023 Exam] What auscultatory finding indicates Uremic",
+      "x" : 0.720164613127572,
+      "w" : 0.40740741273892,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "y" : 0.926537467809897,
+      "text" : "Pericarditis and serves as an absolute indication for emergency",
+      "x" : 0.7283950659670781,
+      "w" : 0.42386828728441905,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010464616351657408,
+      "y" : 0.9149709303270295,
+      "text" : "dialysis?",
+      "x" : 0.5473251036513898,
+      "w" : 0.06182295721282005,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.9004166669110044,
+      "text" : "[A] Superficial, scratchy Pericardial Friction Rub heard along left sternal",
+      "x" : 0.7181070026748968,
+      "w" : 0.40740741273892,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008894164827134898,
+      "y" : 0.8895348838297232,
+      "text" : "border",
+      "x" : 0.5349794239206727,
+      "w" : 0.0412251664407598,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.877180232630814,
+      "text" : "[B] Holosystolic blowing murmur radiating to the left axilla",
+      "x" : 0.6779835445473248,
+      "w" : 0.3271604813869645,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.8655523254118217,
+      "text" : "[C] Mid-systolic ejection click followed by a late systolic murmur",
+      "x" : 0.6954732455418383,
+      "w" : 0.36213991177157046,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.8539244186954942,
+      "text" : "[D] Opening snap followed by a low-pitched rumbling diastolic murmur",
+      "x" : 0.7139917745370368,
+      "w" : 0.3991769514743637,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.8437500001695737,
+      "text" : "[E] Fixed splitting of the second heart sound (S2)",
+      "x" : 0.6543209868998628,
+      "w" : 0.2798353711014274,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.8183333335945898,
+      "text" : "Q23. [2021 Exam] What physical appearance of the nails in",
+      "x" : 0.7109053494598766,
+      "w" : 0.38888888089162,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.8059722220361478,
+      "text" : "advanced CKD is termed Lindsay's Nails ('Half-and-Half Nails')?",
+      "x" : 0.7273662622427982,
+      "w" : 0.42592592059441325,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7914244185501453,
+      "text" : "[A] Uniform chalk-white discoloration across the entire nail plate",
+      "x" : 0.6954732465020577,
+      "w" : 0.36213991177157034,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010290697415669792,
+      "y" : 0.7798546511489021,
+      "text" : "[B] Spoon-shaped concave depression of the nail plate (Koilonychia)",
+      "x" : 0.7098765480967076,
+      "w" : 0.39094649020980743,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.7688888890893744,
+      "text" : "[C] Proximal 50% of nail bed is white\/opaque, and distal 20-50% is",
+      "x" : 0.7047325044924557,
+      "w" : 0.3806584196270638,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7463662791242733,
+      "text" : "[D] Painful splinter hemorrhages in distal subungual capillary loops",
+      "x" : 0.7047325150462962,
+      "w" : 0.3806584196270636,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7347383720203489,
+      "text" : "[E] Digital clubbing with >180-degree Lovibond angle",
+      "x" : 0.6646090484224968,
+      "w" : 0.3045267309032895,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.696947674375,
+      "text" : "Q17. [2023 Exam] How is an enlarged palpable kidney clinically",
+      "x" : 0.2551440287242799,
+      "w" : 0.4197530686480444,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011627906163533597,
+      "y" : 0.6845930233527132,
+      "text" : "differentiated from an enlarged spleen on palpation?",
+      "x" : 0.22119342150205745,
+      "w" : 0.3518518411888266,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.6707848836482557,
+      "text" : "[A] Spleen has notch, moves inferomedially, not ballotable; Kidney is",
+      "x" : 0.23868312105624162,
+      "w" : 0.3909464902098074,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.6598837208333332,
+      "text" : "rounded, ballotable",
+      "x" : 0.09979423679698224,
+      "w" : 0.11316871643066408,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.649027777594211,
+      "text" : "[B] Kidney has prominent anterior notch and can never be balloted",
+      "x" : 0.23251028175583008,
+      "w" : 0.37860081030887627,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525422,
+      "y" : 0.6359625323839015,
+      "text" : "[C] Spleen is resonant to percussion while kidney is uniformly dull",
+      "x" : 0.23045268113854575,
+      "w" : 0.37448559167250145,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.6243055555338384,
+      "text" : "[D] Examiner cannot get above enlarged kidney, but can get above spleen",
+      "x" : 0.25617284344993124,
+      "w" : 0.42181070195803844,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.6126388891135993,
+      "text" : "[E] Spleen descends strictly vertically into pelvis without crossing midline",
+      "x" : 0.2500000053840876,
+      "w" : 0.41358021670167555,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010284237861633239,
+      "y" : 0.5762532298381452,
+      "text" : "Q18. [2022 Exam] A continuous epigastric or flank vascular bruit",
+      "x" : 0.26028806154320994,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.5631944442239136,
+      "text" : "radiating laterally in refractory hypertension suggests:",
+      "x" : 0.22736624900548721,
+      "w" : 0.36831273972613254,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888888888946,
+      "y" : 0.549444444553665,
+      "text" : "[A] Acute post-streptococcal glomerulonephritis",
+      "x" : 0.18312757668038396,
+      "w" : 0.2798353711014274,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888889153798374,
+      "y" : 0.5377777777360615,
+      "text" : "[B] Bilateral ureteropelvic junction obstruction",
+      "x" : 0.17489712366255128,
+      "w" : 0.2592592539277466,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01031007766723635,
+      "y" : 0.5268217053822914,
+      "text" : "[C] Renovascular Hypertension due to Renal Artery Stenosis",
+      "x" : 0.2181070002057612,
+      "w" : 0.3456790132342644,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.5152616279796511,
+      "text" : "[D] Minimal change nephrotic syndrome in remission",
+      "x" : 0.1975308692729765,
+      "w" : 0.3045267309032896,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.5036337208757267,
+      "text" : "[E] Benign prostatic hyperplasia with chronic urinary retention",
+      "x" : 0.21913579807098776,
+      "w" : 0.3518518411888267,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.45569444440226,
+      "text" : "Q19. [2021 Exam] What does classic 'Uremic Frost' signify in",
+      "x" : 0.2469135752057615,
+      "w" : 0.40329219410254524,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.4426388888408572,
+      "text" : "severe, untreated End-Stage Renal Disease?",
+      "x" : 0.19444444146090542,
+      "w" : 0.2983539029487274,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.4280523256722384,
+      "text" : "[A] Generalized fungal tinea versicolor infection of face and trunk",
+      "x" : 0.2294238729166666,
+      "w" : 0.3683127397261326,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.4164244185501453,
+      "text" : "[B] Subcutaneous calcium phosphate deposition causing calciphylaxis",
+      "x" : 0.24279834891975316,
+      "w" : 0.39917695147436366,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.4062499999273256,
+      "text" : "[C] Severe hypothermia from acute hypothalamic failure",
+      "x" : 0.20267489180384105,
+      "w" : 0.3189300201224081,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.3945833332195154,
+      "text" : "[D] White crystalline powder from urea evaporation in sweat when BUN > 200",
+      "x" : 0.26440328796296314,
+      "w" : 0.4423867951399126,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.38226744181201533,
+      "text" : "mg\/dL",
+      "x" : 0.06275720099451304,
+      "w" : 0.03909464902098073,
+      "conf" : 0.5
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.3720930232921511,
+      "text" : "[E] Direct extravasation of urine into cutaneous soft tissues",
+      "x" : 0.2119341605967077,
+      "w" : 0.33744855196970813,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.696947674491279,
+      "text" : "Q24. [2025 Exam] On funduscopic exam, what distinguishes",
+      "x" : 0.7160493867078189,
+      "w" : 0.3991769514743637,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011627906163533375,
+      "y" : 0.6845930234011628,
+      "text" : "Grade IV Malignant Hypertensive Retinopathy from chronic",
+      "x" : 0.7129629636059669,
+      "w" : 0.39300409952799475,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.6722383721838663,
+      "text" : "hypertension?",
+      "x" : 0.5648148160751029,
+      "w" : 0.10082304852563628,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01029069794548887,
+      "y" : 0.6576453487497058,
+      "text" : "[A] Mild focal arteriolar narrowing without hemorrhages or exudates",
+      "x" : 0.7067901298696844,
+      "w" : 0.3847736382634386,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.6460755812257752,
+      "text" : "[B] Increased arteriolar light reflex alone ('copper wiring')",
+      "x" : 0.6759259254115226,
+      "w" : 0.32304526275058965,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.6344476743640988,
+      "text" : "[C] Arteriovenous nicking (Gunn sign) without any retinal edema",
+      "x" : 0.6965020530606998,
+      "w" : 0.3641975210897578,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.6243055556307376,
+      "text" : "[D] Bilateral Papilledema (optic disc swelling) with flame hemorrhages &",
+      "x" : 0.719135795644719,
+      "w" : 0.4094649980653007,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888888888946,
+      "y" : 0.6119444445294402,
+      "text" : "macular stars",
+      "x" : 0.5545267499742798,
+      "w" : 0.08024691335810052,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.6009722223876204,
+      "text" : "[E] Total absence of any retinal or vascular changes",
+      "x" : 0.6635802506430041,
+      "w" : 0.29835390294872743,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010284237861633239,
+      "y" : 0.5762532299544244,
+      "text" : "Q25. [Faculty Exam] What physical finding on testicular palpation",
+      "x" : 0.7345679085048008,
+      "w" : 0.436213991177157,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.5631944443692624,
+      "text" : "in a male with a left renal mass suggests renal vein tumor",
+      "x" : 0.7078189339094652,
+      "w" : 0.38683127157343267,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.5523255813226744,
+      "text" : "thrombus?",
+      "x" : 0.552469134850823,
+      "w" : 0.07613168272582238,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888888888946,
+      "y" : 0.5363888889862061,
+      "text" : "[A] Soft, transilluminating hydrocele of the right hemiscrotum",
+      "x" : 0.6862139960648148,
+      "w" : 0.34362137992427044,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.5254166668625548,
+      "text" : "[B] Tender, swollen epididymis with a positive Prehn's sign",
+      "x" : 0.6820987710219477,
+      "w" : 0.3353909426515207,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011673126220703045,
+      "y" : 0.513058785126454,
+      "text" : "[C] Complete bilateral absence of testicular parenchyma",
+      "x" : 0.6748971145404665,
+      "w" : 0.3209876534324021,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.5021802326792635,
+      "text" : "[D] Hard, fibrotic plaque along the dorsal shaft of penis",
+      "x" : 0.6707818982167351,
+      "w" : 0.3127571921678459,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.49127906984011616,
+      "text" : "[E] Newly developed Left Varicocele that fails to decompress when placed",
+      "x" : 0.7253086472479422,
+      "w" : 0.4218107019580385,
+      "conf" : 1
+    },
+    {
+      "h" : 0.007267441749572834,
+      "y" : 0.47892441853197676,
+      "text" : "supine",
+      "x" : 0.5349794231824416,
+      "w" : 0.04115226133814398,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.45569444451127167,
+      "text" : "Q26. [Core Exam] Why does a left renal vein thrombus produce a",
+      "x" : 0.732510293467078,
+      "w" : 0.4320987725407821,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.44263888884085717,
+      "text" : "non-collapsing varicocele while right-sided thrombi rarely do?",
+      "x" : 0.7232510218449935,
+      "w" : 0.4176954353380503,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.42805232570251933,
+      "text" : "[A] Left testicular vein drains into portal system while right drains into renal",
+      "x" : 0.7263374556241425,
+      "w" : 0.4238682872844193,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.41715116283914744,
+      "text" : "vein",
+      "x" : 0.5288065848422496,
+      "w" : 0.028806584436188776,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888889153798374,
+      "y" : 0.40555555564363177,
+      "text" : "[B] Left testicular vein drains into Left Renal Vein at right angle; right drains",
+      "x" : 0.7273662604681068,
+      "w" : 0.42592592059441325,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.3945833332195154,
+      "text" : "into IVC",
+      "x" : 0.5380658441358025,
+      "w" : 0.04732510128860956,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.3829295866051785,
+      "text" : "[C] Right testicular vein carries 10 times more blood volume than left",
+      "x" : 0.7098765471193413,
+      "w" : 0.3909464902098073,
+      "conf" : 1
+    },
+    {
+      "h" : 0.007267441749572723,
+      "y" : 0.37136627914244197,
+      "text" : "[D Left renal vein is three times shorter than right renal vein",
+      "x" : 0.6851851908779147,
+      "w" : 0.3415637706060829,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.3604651161821706,
+      "text" : "[E] Right kidney lacks any venous drainage connections to scrotum",
+      "x" : 0.7047325039437587,
+      "w" : 0.3806584196270637,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011627906163533597,
+      "y" : 0.3343023257751939,
+      "text" : "Q27. [Core Exam] In an elderly male with retention, physical exam",
+      "x" : 0.736625509602195,
+      "w" : 0.44032920981353196,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011757105721367678,
+      "y" : 0.32115633048997827,
+      "text" : "reveals a tender, smooth, dull mass extending to the umbilicus.",
+      "x" : 0.7273662604681068,
+      "w" : 0.42592592059441325,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.30959302330426364,
+      "text" : "This is:",
+      "x" : 0.5442386840534978,
+      "w" : 0.055555553556238424,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.29430555559773997,
+      "text" : "[A] Distended Urinary Bladder containing >800-1000 mL of retained urine",
+      "x" : 0.72427984063786,
+      "w" : 0.4197530686480444,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010290697945488758,
+      "y" : 0.28264534874970587,
+      "text" : "[B] Abdominal aortic aneurysm measuring >10 cm in diameter",
+      "x" : 0.6934156438271604,
+      "w" : 0.3580246691433888,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.27252906967659885,
+      "text" : "[C] Massive retroperitoneal liposarcoma arising from Gerota's fascia",
+      "x" : 0.7078189252057614,
+      "w" : 0.38683127157343256,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.25944767449127903,
+      "text" : "[D] Unilateral giant multicystic dysplastic kidney",
+      "x" : 0.6522633790809327,
+      "w" : 0.27572015246505266,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.24930555575791785,
+      "text" : "[E] Ectopic mesenteric cyst within the small bowel mesentery",
+      "x" : 0.6882716092849794,
+      "w" : 0.34773662255245175,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011627906163533597,
+      "y" : 0.3343023257751939,
+      "text" : "Q20. [2020 Exam] What neurological sign termed Asterixis",
+      "x" : 0.238683125240055,
+      "w" : 0.3868312715734326,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011757105721367678,
+      "y" : 0.32115633055054027,
+      "text" : "(flapping tremor\") indicates decompensated uremic",
+      "x" : 0.21913580826474602,
+      "w" : 0.34773662255245186,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.30886627919089155,
+      "text" : "encephalopathy?",
+      "x" : 0.10493827359396424,
+      "w" : 0.11934155638112962,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011705426110161676,
+      "y" : 0.2950193794888951,
+      "text" : "[A] Continuous, rhythmic resting tremor of hands resembling pill-rolling",
+      "x" : 0.24382715547839523,
+      "w" : 0.4012345607925511,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011744185553656639,
+      "y" : 0.28337209279040354,
+      "text" : "[B] Inability to perform rapid alternating movements (dysdiadochokinesia)",
+      "x" : 0.25205760794753096,
+      "w" : 0.41769548332166373,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.27252906967659885,
+      "text" : "[C] Hyperactive deep tendon reflexes with ankle clonus on one side",
+      "x" : 0.23559670300925936,
+      "w" : 0.3847736622552452,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "y" : 0.26096253231728334,
+      "text" : "[D] Flaccid bilateral paralysis of the lower extremities",
+      "x" : 0.19650206139403284,
+      "w" : 0.3024691215851022,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.249305555612569,
+      "text" : "[E] Sudden, non-rhythmic lapses of posture when hands are held",
+      "x" : 0.22839505709876554,
+      "w" : 0.3703703730361267,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888623979296,
+      "y" : 0.238333333447306,
+      "text" : "outstretched in dorsiflexion",
+      "x" : 0.1255144059670781,
+      "w" : 0.1604938267162011,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.21291666673537468,
+      "text" : "Q21. [2024 Exam] Which combination of physical findings",
+      "x" : 0.2376543161779837,
+      "w" : 0.38477366225524523,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.19986111120304156,
+      "text" : "definitively indicates ECF Hypervolemia (Volume Overload)?",
+      "x" : 0.24691357621399185,
+      "w" : 0.40329219410254524,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008740309874216812,
+      "y" : 0.18603682173147768,
+      "text" : "[A] Postural hypotension, dry oral mucosa, and decreased skin turgor",
+      "x" : 0.2427983604938269,
+      "w" : 0.3950617088461822,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888888888946,
+      "y" : 0.17444444445450646,
+      "text" : "[B] Elevated JVP (>4 cm above sternal angle), basilar lung crackles, and",
+      "x" : 0.2510288066835113,
+      "w" : 0.41152263137529477,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888889153798374,
+      "y" : 0.1627777777360615,
+      "text" : "pitting edema",
+      "x" : 0.0864197544581618,
+      "w" : 0.08230452267628796,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01031007766723635,
+      "y" : 0.15182170540045997,
+      "text" : "[C] Flattened neck veins, tachycardia, and sunken ocular globes",
+      "x" : 0.23045268106995864,
+      "w" : 0.37037034904432,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.14026162799781988,
+      "text" : "[D] Capillary refill time >4 seconds with cool, mottled extremities",
+      "x" : 0.22839506630658427,
+      "w" : 0.36625513040794516,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.12863372100290688,
+      "text" : "[E] Normal heart sounds with clear lungs and zero peripheral edema",
+      "x" : 0.23868313144032913,
+      "w" : 0.3868312715734326,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.2129166668625549,
+      "text" : "Q28. [Core Exam] Which examination finding in a nephrotic",
+      "x" : 0.7139917734979424,
+      "w" : 0.3950617088461822,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.19986111117397187,
+      "text" : "patient signifies acute deep vein thrombosis (DVT) and pulmonary",
+      "x" : 0.7355967004458165,
+      "w" : 0.4423867951399125,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.188194444387431,
+      "text" : "embolism risk?",
+      "x" : 0.5709876557355966,
+      "w" : 0.11316871643066406,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01028423786163335,
+      "y" : 0.1737467701909246,
+      "text" : "[A] Bilaterally symmetrical, cold, painless pitting edema of both ankles",
+      "x" : 0.7139917762002741,
+      "w" : 0.3991769514743636,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.16208333326462532,
+      "text" : "[B] Spider nevi and palmar erythema over both hands",
+      "x" : 0.6687242836934155,
+      "w" : 0.30864197353147094,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.15041666686255467,
+      "text" : "[C] Unilateral asymmetric swelling, warmth, erythema, and calf tenderness",
+      "x" : 0.7263374556241425,
+      "w" : 0.4238682872844193,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01028423786163335,
+      "y" : 0.13875322995442424,
+      "text" : "[D] Diffuse maculopapular rash on the chest and back",
+      "x" : 0.6687242829218105,
+      "w" : 0.30864197353147105,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.12718023248546512,
+      "text" : "[E] Hyperpigmented velvety plaques in the axillary skin folds",
+      "x" : 0.6851851794238686,
+      "w" : 0.34567898924245777,
+      "conf" : 1
+    },
+    {
+      "h" : 0.007344961166381836,
+      "y" : 0.01966085278616625,
+      "text" : "Twisted Medicine",
+      "x" : 0.08847736748971191,
+      "w" : 0.09876542721154555,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01897286732991532,
+      "y" : 0.013846899196401974,
+      "text" : "• Clinical Nephrology & Renal Evaluation Master Class • Faculty & Boat yam Preparation",
+      "x" : 0.3858024765775032,
+      "w" : 0.44650206175990076,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888888888835,
+      "y" : 0.018888888811493143,
+      "text" : "Confidential - Dedicated for Medical Student Revision",
+      "x" : 0.8251028833333334,
+      "w" : 0.2674897151923029,
+      "conf" : 1
+    }
+  ],
+  "page" : 136
+}

@@ -1,0 +1,901 @@
+{
+  "items" : [
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine",
+      "x" : 0.1039094668467078,
+      "w" : 0.14609052550117926,
+      "h" : 0.013178294499715193,
+      "y" : 0.9774224804528762
+    },
+    {
+      "conf" : 1,
+      "text" : "• Renal System Module • Lecture 23 MCQ Masterclass",
+      "x" : 0.3683127515089165,
+      "w" : 0.341563770606083,
+      "h" : 0.01027777777777783,
+      "y" : 0.9759722223088898
+    },
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine Medical Series • Tubulointerstitial Nephritis, ATN, AIN & Papillary Necrosis • Standard Practice Bank",
+      "x" : 0.3405349871141973,
+      "w" : 0.615226313752948,
+      "h" : 0.01031007766723635,
+      "y" : 0.9643217054186286
+    },
+    {
+      "conf" : 1,
+      "text" : "Page 1 of 4",
+      "x" : 0.9341563783464293,
+      "w" : 0.07017271173825057,
+      "h" : 0.010935553444756385,
+      "y" : 0.9760174417304973
+    },
+    {
+      "conf" : 1,
+      "text" : "23. TUBULOINTERSTITIAL NEPHRITIS & TOXIC NEPHROPATHIES - PATHOLOGY LECTURE",
+      "x" : 0.49897118784293565,
+      "w" : 0.7304526754895097,
+      "h" : 0.013165374332004154,
+      "y" : 0.9396382426987956
+    },
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine Pathology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "x" : 0.5000000071502055,
+      "w" : 0.5720164460955925,
+      "h" : 0.010284237861633239,
+      "y" : 0.9237467702090931
+    },
+    {
+      "conf" : 1,
+      "text" : "Q01. [2025 Exam] What is the single most common cause of intrinsic Q08. [2022 Exam] Which set of urine and serum biochemical",
+      "x" : 0.4670781997942385,
+      "w" : 0.8395061372960888,
+      "h" : 0.010277777777777719,
+      "y" : 0.8990277777577285
+    },
+    {
+      "conf" : 1,
+      "text" : "Acute Kidney Injury (AKI) in hospitalized patients, accounting for over",
+      "x" : 0.26646090973251024,
+      "w" : 0.4382715765035377,
+      "h" : 0.011750646167331236,
+      "y" : 0.8852357881639403
+    },
+    {
+      "conf" : 1,
+      "text" : "parameters is characteristic of established Acute Tubular Necrosis",
+      "x" : 0.7129629561385462,
+      "w" : 0.42592592059441337,
+      "h" : 0.011750645637512158,
+      "y" : 0.8852357881478421
+    },
+    {
+      "conf" : 1,
+      "text" : "50% of cases?",
+      "x" : 0.0936213991492561,
+      "w" : 0.09259259325903166,
+      "h" : 0.010174418555365605,
+      "y" : 0.8728197674614266
+    },
+    {
+      "conf" : 1,
+      "text" : "(Intrinsic AKI)?",
+      "x" : 0.5483539079218108,
+      "w" : 0.0967078178933582,
+      "h" : 0.010174418555365605,
+      "y" : 0.8728197676114341
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Acute post-streptococcal glomerulonephritis",
+      "x" : 0.1862139964677639,
+      "w" : 0.28189300441142146,
+      "h" : 0.010277777777777719,
+      "y" : 0.8568055556159087
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] FENa < 1%, urine Na+ < 20 mEq\/L, and urine osmolality > 500 mOsm\/kg",
+      "x" : 0.7181070013374484,
+      "w" : 0.436213991177157,
+      "h" : 0.01027777777777783,
+      "y" : 0.85680555559774
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Acute Tubular Necrosis (ATN) resulting from ischemia or toxic insult",
+      "x" : 0.2561728325445818,
+      "w" : 0.4176954353380503,
+      "h" : 0.010290697415669792,
+      "y" : 0.8451453489177162
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] FENa > 2%, urine Na+ > 40 mEq\/L, and urine osmolality < 350 mOsm\/kg",
+      "x" : 0.7191358078960904,
+      "w" : 0.434156357867163,
+      "h" : 0.01029069794548887,
+      "y" : 0.8451453487315372
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Bilateral renal artery fibromuscular dysplasia",
+      "x" : 0.1862139964677639,
+      "w" : 0.28189300441142146,
+      "h" : 0.010174418555365605,
+      "y" : 0.8335755814680232
+    },
+    {
+      "conf" : 0.5,
+      "text" : "(isosthenuria)",
+      "x" : 0.542181068904321,
+      "w" : 0.08436213799242709,
+      "h" : 0.00872092988755968,
+      "y" : 0.834302325508721
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Minimal change nephrotic syndrome",
+      "x" : 0.1625514373971194,
+      "w" : 0.2345678941258844,
+      "h" : 0.010174418555365716,
+      "y" : 0.8219476743640988
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] BUN:Cr ratio > 20:1 with fractional excretion of urea < 35%",
+      "x" : 0.6790123397119343,
+      "w" : 0.3580246691433888,
+      "h" : 0.00872092988755968,
+      "y" : 0.8226744185562016
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Benign hypertensive nephrosclerosis",
+      "x" : 0.1625514373971194,
+      "w" : 0.2345678941258844,
+      "h" : 0.010174418555365716,
+      "y" : 0.8103197673873546
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Massive glucosuria without hyperglycemia and urine pH > 8.0",
+      "x" : 0.6903292228137858,
+      "w" : 0.3765432009906887,
+      "h" : 0.010174418555365716,
+      "y" : 0.8103197675327034
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Complete absence of sodium and potassium in 24-hour urine",
+      "x" : 0.6882715986625516,
+      "w" : 0.37654320099068894,
+      "h" : 0.011673126220703156,
+      "y" : 0.7994412146312979
+    },
+    {
+      "conf" : 1,
+      "text" : "Q02. [2024 Exam] Etiologically, Acute Tubular Necrosis is broadly",
+      "x" : 0.25411522301097406,
+      "w" : 0.4135802167016755,
+      "h" : 0.011763565805223197,
+      "y" : 0.777548449442721
+    },
+    {
+      "conf" : 1,
+      "text" : "categorized into which two major pathophysiological forms?",
+      "x" : 0.23971193896604925,
+      "w" : 0.3847736622552452,
+      "h" : 0.01028423786163335,
+      "y" : 0.7637532299725929
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Glomerular ATN and interstitial ATN",
+      "x" : 0.16049382485596714,
+      "w" : 0.23045267548950965,
+      "h" : 0.0087403098742167,
+      "y" : 0.7485368215764389
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] IgA-mediated ATN and anti-GBM ATN",
+      "x" : 0.16666666364883412,
+      "w" : 0.2386831127622592,
+      "h" : 0.010284237861633239,
+      "y" : 0.7362467699486764
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Ischemic ATN (shock, sepsis) and Nephrotoxic ATN (drugs, poisons,",
+      "x" : 0.2551440399176952,
+      "w" : 0.41975306864804446,
+      "h" : 0.010277777777777719,
+      "y" : 0.7245833331858949
+    },
+    {
+      "conf" : 1,
+      "text" : "pigments)",
+      "x" : 0.07716049349279837,
+      "w" : 0.059670778190564815,
+      "h" : 0.00872092988755968,
+      "y" : 0.7122093022165698
+    },
+    {
+      "conf" : 1,
+      "text" : "D] Congenital ATN and neoplastic ATN",
+      "x" : 0.16255144417009593,
+      "w" : 0.23045267548950965,
+      "h" : 0.01028423786163335,
+      "y" : 0.701253230002874
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Obstructive ATN and amyloid ATN",
+      "x" : 0.1553497907750344,
+      "w" : 0.22016460490676593,
+      "h" : 0.011627906163533486,
+      "y" : 0.6904069769379846
+    },
+    {
+      "conf" : 1,
+      "text" : "Q09. [2023 Exam] During the clinical course of ATN, what is the",
+      "x" : 0.7026749021347736,
+      "w" : 0.40123456079255115,
+      "h" : 0.011763565805223197,
+      "y" : 0.777548449321597
+    },
+    {
+      "conf" : 1,
+      "text" : "sequence of the three classic clinical phases?",
+      "x" : 0.6471193378858026,
+      "w" : 0.29423868431235256,
+      "h" : 0.010284237861633239,
+      "y" : 0.7637532297909069
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Latent phase, crescentic phase, and sclerotic phase",
+      "x" : 0.6615226283607683,
+      "w" : 0.32304526275058953,
+      "h" : 0.0087403098742167,
+      "y" : 0.7485368216345785
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Polyuric phase, azotemic phase, and anuric phase",
+      "x" : 0.6563785969650207,
+      "w" : 0.30864197353147094,
+      "h" : 0.008888888888888835,
+      "y" : 0.7369444444204287
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Initiation phase, Maintenance (Oliguric) phase, and Recovery (Diuretic)",
+      "x" : 0.7150205690329221,
+      "w" : 0.4300411392307882,
+      "h" : 0.011666666666666603,
+      "y" : 0.7252777777005059
+    },
+    {
+      "conf" : 1,
+      "text" : "phase",
+      "x" : 0.5205761312757201,
+      "w" : 0.03703703670381753,
+      "h" : 0.010174418555365605,
+      "y" : 0.7129360463420542
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Exudative phase, proliferative phase, and healing phase",
+      "x" : 0.6728395095884774,
+      "w" : 0.3415637706060829,
+      "h" : 0.01028423786163335,
+      "y" : 0.7012532299544243
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Nephrotic phase, nephritic phase, and uremic phase",
+      "x" : 0.6615226391289436,
+      "w" : 0.32304526275058953,
+      "h" : 0.011627906163533486,
+      "y" : 0.6904069767926357
+    },
+    {
+      "conf" : 1,
+      "text" : "Q03. [2023 Exam] In Ischemic ATN, which segments of the nephron are Q10. [2021 Exam] During the Maintenance (Oliguric) phase of ATN,",
+      "x" : 0.4866255290466387,
+      "w" : 0.8786007863170695,
+      "h" : 0.011679586304558676,
+      "y" : 0.6555490958360164
+    },
+    {
+      "conf" : 1,
+      "text" : "selectively most vulnerable to hypoxia and ischemic injury?",
+      "x" : 0.2345679075445814,
+      "w" : 0.37860081030887627,
+      "h" : 0.010174418555365605,
+      "y" : 0.6417151164001937
+    },
+    {
+      "conf" : 1,
+      "text" : "patients face the greatest risk of death from which complications?",
+      "x" : 0.7129629587448562,
+      "w" : 0.4218107019580386,
+      "h" : 0.010174418555365716,
+      "y" : 0.6417151162063954
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Glomerular parietal podocytes and Bowman capsule",
+      "x" : 0.20884773117283967,
+      "w" : 0.3271604813869644,
+      "h" : 0.010174418555365605,
+      "y" : 0.6271802324854652
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Severe hypocalcemia and tetany",
+      "x" : 0.6049382681069959,
+      "w" : 0.2098765343240222,
+      "h" : 0.010174418555365605,
+      "y" : 0.6271802324854652
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Distal convoluted tubule and cortical collecting duct",
+      "x" : 0.20679011807270253,
+      "w" : 0.32304526275058965,
+      "h" : 0.010174418555365605,
+      "y" : 0.615552325508721
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Profound hypokalemia and metabolic alkalosis",
+      "x" : 0.6471193445061728,
+      "w" : 0.29423868431235256,
+      "h" : 0.010174418555365716,
+      "y" : 0.6155523256540696
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Thin descending limb of Henle and macula densa",
+      "x" : 0.19958847222222242,
+      "w" : 0.3086419735314711,
+      "h" : 0.010174418555365716,
+      "y" : 0.6039244185319768
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Acute renal papillary calcification and osteoma",
+      "x" : 0.6460905300411525,
+      "w" : 0.29629629363054,
+      "h" : 0.010174418555365716,
+      "y" : 0.6039244185319768
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Straight portion of proximal tubule (pars recta S3) and thick ascending",
+      "x" : 0.26131687949245513,
+      "w" : 0.427983505920794,
+      "h" : 0.011744186083475716,
+      "y" : 0.5916279072080332
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Massive selective albuminuria and anasarca",
+      "x" : 0.6388888844650207,
+      "w" : 0.2818930044114215,
+      "h" : 0.010290697415669792,
+      "y" : 0.5923546512276326
+    },
+    {
+      "conf" : 1,
+      "text" : "limb (TAL)",
+      "x" : 0.07818929931412899,
+      "w" : 0.06584361814103037,
+      "h" : 0.008746769693162681,
+      "y" : 0.5799289405138651
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Severe Hyperkalemia, pulmonary edema (volume overload), and uremic",
+      "x" : 0.7160493754458164,
+      "w" : 0.4362139911771571,
+      "h" : 0.010277777777777719,
+      "y" : 0.5806944443840913
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Papillary ducts of Bellini exclusively",
+      "x" : 0.15946501676954744,
+      "w" : 0.2283950421795155,
+      "h" : 0.010277777777777719,
+      "y" : 0.5690277779638522
+    },
+    {
+      "conf" : 1,
+      "text" : "infections",
+      "x" : 0.529835391941015,
+      "w" : 0.06378600882284291,
+      "h" : 0.00872092988755968,
+      "y" : 0.5683139533430233
+    },
+    {
+      "conf" : 1,
+      "text" : "Q04. [2022 Exam] Which histological feature characteristically",
+      "x" : 0.24382716535493817,
+      "w" : 0.3930040995279948,
+      "h" : 0.01174418555365675,
+      "y" : 0.5333720927177292
+    },
+    {
+      "conf" : 1,
+      "text" : "Q11. [2025 Exam] In the Recovery (Diuretic) phase of ATN, urine output",
+      "x" : 0.729423875891632,
+      "w" : 0.45473249903265023,
+      "h" : 0.011744185553656639,
+      "y" : 0.5333720929599772
+    },
+    {
+      "conf" : 1,
+      "text" : "differentiates Ischemic ATN from Nephrotoxic ATN on light",
+      "x" : 0.23559670405349803,
+      "w" : 0.3765432009906889,
+      "h" : 0.010174418555365605,
+      "y" : 0.5210755813226744
+    },
+    {
+      "conf" : 1,
+      "text" : "can surge to 3-5 L\/day. What is the major clinical danger in this phase?",
+      "x" : 0.7294238739969134,
+      "w" : 0.45473249903265045,
+      "h" : 0.011718345748053749,
+      "y" : 0.5203036175260538
+    },
+    {
+      "conf" : 1,
+      "text" : "microscopy?",
+      "x" : 0.08744855826420576,
+      "w" : 0.08443948757723443,
+      "h" : 0.010499493281046601,
+      "y" : 0.5065406976071656
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Acute hypertensive encephalopathy and hypervolemia",
+      "x" : 0.6687242831687243,
+      "w" : 0.33333333333333337,
+      "h" : 0.010277777777777719,
+      "y" : 0.5051388889862061
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Ischemic ATN shows complete amyloid replacement of all glomeruli",
+      "x" : 0.2561728447273661,
+      "w" : 0.4176954833216637,
+      "h" : 0.01030361758338083,
+      "y" : 0.4920704135583389
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Sudden bilateral staghorn stone formation",
+      "x" : 0.6337448515089165,
+      "w" : 0.26748969120049626,
+      "h" : 0.010277777777777719,
+      "y" : 0.4934722224690677
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Nephrotoxic ATN exhibits prominent crescent formation in Bowman space [C] Development of dense deposit disease (MPGN type II)",
+      "x" : 0.44238682139917723,
+      "w" : 0.7901234176923644,
+      "h" : 0.011666666666666603,
+      "y" : 0.4811111111739717
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Ischemic ATN preserves tubular basement membrane in 100% of cases",
+      "x" : 0.2644032976594649,
+      "w" : 0.43827157650353776,
+      "h" : 0.01027777777777783,
+      "y" : 0.46875000005450584
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Accelerated malignant nephrosclerosis",
+      "x" : 0.6265432140946501,
+      "w" : 0.2530864019813778,
+      "h" : 0.010290697945488758,
+      "y" : 0.47014534874970587
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Nephrotoxic ATN never affects the proximal convoluted tubules",
+      "x" : 0.2427983604938269,
+      "w" : 0.3950617088461822,
+      "h" : 0.01027777777777783,
+      "y" : 0.4570833331226162
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Severe Hypokalemia, profound dehydration, and electrolyte depletion",
+      "x" : 0.7098765484567899,
+      "w" : 0.4197530686480444,
+      "h" : 0.010174418555365716,
+      "y" : 0.4585755814498547
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Ischemic ATN causes focal, patchy necrosis with tubulorrhexis; toxic ATN",
+      "x" : 0.2705761373199587,
+      "w" : 0.4506172803962756,
+      "h" : 0.01030361758338083,
+      "y" : 0.4454295866233471
+    },
+    {
+      "conf" : 1,
+      "text" : "causes diffuse necrosis with intact basement membranes",
+      "x" : 0.21913580826474602,
+      "w" : 0.34773662255245186,
+      "h" : 0.00872092988755968,
+      "y" : 0.43459302330426364
+    },
+    {
+      "conf" : 1,
+      "text" : "Q05. [2021 Exam] What is 'Tubulorrhexis', and in which form of acute Q12. [2020 Exam] Nephrotoxic AT caused by Aminoglycoside",
+      "x" : 0.47427984393004113,
+      "w" : 0.8539094744988209,
+      "h" : 0.011698966556125234,
+      "y" : 0.4113727390560116
+    },
+    {
+      "conf" : 1,
+      "text" : "tubular injury is it a prominent histological hallmark?",
+      "x" : 0.21707819502743467,
+      "w" : 0.34362137992427033,
+      "h" : 0.011724805831909269,
+      "y" : 0.3983042639330251
+    },
+    {
+      "conf" : 1,
+      "text" : "antibiotics (e.g., Gentamicin) is typically characterized clinically by:",
+      "x" : 0.7139917748456788,
+      "w" : 0.42386828728441917,
+      "h" : 0.010174418555365716,
+      "y" : 0.39752906982194774
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Rupture of the tubular basement membrane with denudation, classic for [A] Sudden anuria within 15 minutes of the first dose",
+      "x" : 0.4269547420524689,
+      "w" : 0.7633744725641215,
+      "h" : 0.00872092988755968,
+      "y" : 0.38372093030523247
+    },
+    {
+      "conf" : 1,
+      "text" : "Ischemic ATN",
+      "x" : 0.08847736769547321,
+      "w" : 0.08641974731061444,
+      "h" : 0.00872092988755968,
+      "y" : 0.3720930233527133
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Non-oliguric renal failure occurring after 7-10 days of sustained therapy",
+      "x" : 0.7201646035493828,
+      "w" : 0.4403292098135319,
+      "h" : 0.010174418555365716,
+      "y" : 0.37136627905159886
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Proliferation of podocyte foot processes in minimal change disease",
+      "x" : 0.253086424759945,
+      "w" : 0.41563785001166964,
+      "h" : 0.010174418555365605,
+      "y" : 0.3597383719234496
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Acute crescentic glomerulonephritis with hemoptysis",
+      "x" : 0.6666666722222221,
+      "w" : 0.33333333333333337,
+      "h" : 0.010174418555365716,
+      "y" : 0.35973837216569765
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Formation of hyaline nodules in diabetic intercapillary glomerulosclerosis [D] Massive hyperkalemia and renal papillary calcification",
+      "x" : 0.44135803789437544,
+      "w" : 0.7921810510023585,
+      "h" : 0.01031007766723635,
+      "y" : 0.34817829474488876
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Dilatation of calyces in hydronephrosis",
+      "x" : 0.16872428401920425,
+      "w" : 0.25102879266319034,
+      "h" : 0.01027777777777783,
+      "y" : 0.3365277777395598
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Severe allergic maculopapular rash and eosinophiluria",
+      "x" : 0.6676954679355283,
+      "w" : 0.33539094265152075,
+      "h" : 0.011666666666666714,
+      "y" : 0.33722222215727193
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Deposition of lgA within the mesangial matrix",
+      "x" : 0.18930041632373099,
+      "w" : 0.2880658323659837,
+      "h" : 0.010277777777777719,
+      "y" : 0.32486111136777024
+    },
+    {
+      "conf" : 1,
+      "text" : "Q06. [2020 Exam] Oliguria in Acute Tubular Necrosis is driven by each Q13. [Faculty Contrast-Induced Nephropathy (CIN) following iodinated",
+      "x" : 0.49897120470678985,
+      "w" : 0.9032921941025451,
+      "h" : 0.011724805831909157,
+      "y" : 0.2891957363213353
+    },
+    {
+      "conf" : 1,
+      "text" : "of the following mechanisms EXCEPT:",
+      "x" : 0.1697530888683127,
+      "w" : 0.24485596470862814,
+      "h" : 0.01031007766723635,
+      "y" : 0.2768217053713902
+    },
+    {
+      "conf" : 1,
+      "text" : "radiocontrast administration is primarily driven by which mechanism?",
+      "x" : 0.7222222253086419,
+      "w" : 0.4444444284499067,
+      "h" : 0.011698966026306157,
+      "y" : 0.27612726057248965
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Tubular obstruction by sloughed necrotic cells and casts",
+      "x" : 0.22119340977366272,
+      "w" : 0.3518518411888267,
+      "h" : 0.010297157499525311,
+      "y" : 0.26096253223855265
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Direct mechanical laceration of the ureterovesical junction",
+      "x" : 0.6810699633744856,
+      "w" : 0.36213991177157046,
+      "h" : 0.008888888623979296,
+      "y" : 0.2616666666253683
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Back-leak of glomerular filtrate across denuded membranes",
+      "x" : 0.23148148608539076,
+      "w" : 0.3683127397261325,
+      "h" : 0.01027777777777783,
+      "y" : 0.2506944443510938
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Anti-GBM antibody cross-reaction against pulmonary alveoli",
+      "x" : 0.6841563723936902,
+      "w" : 0.3724279823543142,
+      "h" : 0.010277777777777719,
+      "y" : 0.25069444422391346
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Severe intrarenal vasoconstriction mediated by TGF",
+      "x" : 0.20679011941872438,
+      "w" : 0.32304526275058965,
+      "h" : 0.008888888623979296,
+      "y" : 0.23833333337463147
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Selective destruction of juxtaglomerular cells",
+      "x" : 0.6430041188014403,
+      "w" : 0.2860082230477963,
+      "h" : 0.010297157499525311,
+      "y" : 0.23903746779172835
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Increased tubular pressure reducing net ultrafiltration",
+      "x" : 0.2139917751028805,
+      "w" : 0.33333333333333337,
+      "h" : 0.011724805831909269,
+      "y" : 0.22669573630922313
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Intense medullary vasoconstriction combined with direct tubular epithelial",
+      "x" : 0.7253086363425927,
+      "w" : 0.4506172803962755,
+      "h" : 0.010174418555365716,
+      "y" : 0.22747093017805226
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Massive glomerular hyperfiltration with elevated GFR",
+      "x" : 0.2098765486968448,
+      "w" : 0.3292180907051518,
+      "h" : 0.010174418555365716,
+      "y" : 0.21584302332848843
+    },
+    {
+      "conf" : 1,
+      "text" : "cytotoxicity",
+      "x" : 0.536008231515775,
+      "w" : 0.06790123345716947,
+      "h" : 0.010174418555365605,
+      "y" : 0.21438953471414735
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Apoptosis of podocyte cell bodies in cortical glomeruli",
+      "x" : 0.6687242756172841,
+      "w" : 0.3374485519697082,
+      "h" : 0.010174418555365605,
+      "y" : 0.2042151162245639
+    },
+    {
+      "conf" : 1,
+      "text" : "Q07. [2024 Exam] What pathognomonic finding on microscopic",
+      "x" : 0.24897119845679,
+      "w" : 0.4032921941025452,
+      "h" : 0.01027777777777783,
+      "y" : 0.16791666651108217
+    },
+    {
+      "conf" : 1,
+      "text" : "examination of the urine sediment is diagnostic of Acute Tubular",
+      "x" : 0.2530864211934156,
+      "w" : 0.4115226313752948,
+      "h" : 0.01029069794548887,
+      "y" : 0.15485465119578823
+    },
+    {
+      "conf" : 1,
+      "text" : "Necrosis?",
+      "x" : 0.08024691440329215,
+      "w" : 0.06584361814103036,
+      "h" : 0.00872092988755968,
+      "y" : 0.14244186053779084
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Muddy Brown Granular Casts composed of degenerated necrotic tubular",
+      "x" : 0.2674897174897118,
+      "w" : 0.4444444284499066,
+      "h" : 0.010277777777777719,
+      "y" : 0.125694444387431
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Red blood cell casts with dysmorphic acanthocytes",
+      "x" : 0.20679012744341557,
+      "w" : 0.31893004411421483,
+      "h" : 0.010174418555365716,
+      "y" : 0.10392441865915697
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Broad waxy casts with notched brittle edges",
+      "x" : 0.1851851886831275,
+      "w" : 0.2798353950932341,
+      "h" : 0.010290697415669792,
+      "y" : 0.09235465111256491
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Coffin-lid struvite crystals in alkaline urine",
+      "x" : 0.17798353467078204,
+      "w" : 0.2654320818823089,
+      "h" : 0.010277777777777719,
+      "y" : 0.0806944443840914
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Fatty casts with Maltese-cross birefringence",
+      "x" : 0.1851851805212622,
+      "w" : 0.2798353711014274,
+      "h" : 0.01027777777777783,
+      "y" : 0.06902777796385229
+    },
+    {
+      "conf" : 1,
+      "text" : "Q14. [Core] In Rhabdomyolysis, acute kidney injury is initiated by",
+      "x" : 0.705761320946502,
+      "w" : 0.40740741273892,
+      "h" : 0.010277777777777719,
+      "y" : 0.16791666649291354
+    },
+    {
+      "conf" : 1,
+      "text" : "massive release into the circulation of which muscle pigment?",
+      "x" : 0.700617288914609,
+      "w" : 0.3971193421561764,
+      "h" : 0.01029069741566968,
+      "y" : 0.154854651148902
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Bilirubin bound to albumin",
+      "x" : 0.5874485576903292,
+      "w" : 0.1748971159353196,
+      "h" : 0.010174418555365605,
+      "y" : 0.14026162803415698
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Cytochrome P450 enzymes",
+      "x" : 0.5905349826474622,
+      "w" : 0.19341563578671628,
+      "h" : 0.011627906163533486,
+      "y" : 0.12790697684108537
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Creatine phosphokinase directly blocking ENaC",
+      "x" : 0.6481481528120712,
+      "w" : 0.29629629363054,
+      "h" : 0.01030361758338083,
+      "y" : 0.1170704136370696
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Myoglobin, which causes heme-mediated free-radical injury and cast",
+      "x" : 0.7098706784687938,
+      "w" : 0.41986971681222973,
+      "h" : 0.011902170181274485,
+      "y" : 0.10456590258021758
+    },
+    {
+      "conf" : 1,
+      "text" : "obstruction in acidic urine",
+      "x" : 0.5792181095679011,
+      "w" : 0.15432098676573558,
+      "h" : 0.01027777777777783,
+      "y" : 0.09375000007267442
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Troponin I precipitating as calcium stones",
+      "x" : 0.6327160460648148,
+      "w" : 0.2654320818823088,
+      "h" : 0.010277777777777719,
+      "y" : 0.08208333352525493
+    },
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine Renal Pathology Master Class • Strictly Grounded in Faculty & Board ram Past Papers",
+      "x" : 0.3189300458161864,
+      "w" : 0.5720164460955925,
+      "h" : 0.020361756218804317,
+      "y" : 0.014541343614113966
+    },
+    {
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567900205762,
+      "w" : 0.19135802646852884,
+      "h" : 0.007344961166381836,
+      "y" : 0.019660852735567502
+    }
+  ],
+  "page" : 87
+}

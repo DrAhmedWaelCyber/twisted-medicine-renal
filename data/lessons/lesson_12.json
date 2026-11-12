@@ -1,0 +1,905 @@
+{
+  "id": 12,
+  "title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+  "department": "Physiology",
+  "department_desc": "Hemodynamics, autoregulation, GFR, tubular transport, countercurrent multiplier, acid-base and RFTs",
+  "booklet_pages": "Pages 45 - 48",
+  "pdf_pages": [
+    47,
+    48,
+    49,
+    50
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 12 - HIGH-YIELD TUBULAR TRANSPORT & TUBULOPATHIES MATRIX",
+  "summary_table": [
+    {
+      "domain": "Q11 [2025 ]",
+      "content": "Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]"
+    },
+    {
+      "domain": "Q12 [2020 ]",
+      "content": "1 [C [B [D"
+    },
+    {
+      "domain": "Q13 [Facul]",
+      "content": "Q41 [Core ] Q27 [Core ] [A A ID"
+    },
+    {
+      "domain": "Q14 [Core ]",
+      "content": "Q42 [Clini] Q28 [Core ] ] Apical & Basolateral Transporters Clinical Syndromes & Pharmacology Reabsorption & Secretion Mechanisms"
+    },
+    {
+      "domain": "Tubular Segment",
+      "content": "Apical: SGLT2 (S1) & SGLT1 (S3), NHE3 (Na+/H+), Fanconi Syndrome: glucosuria, aminoaciduria,"
+    },
+    {
+      "domain": "Proximal Tubule (PCT)",
+      "content": "Reabsorbs 65-70% Na+, H20, K+, Cl-; 100% glucose & NaPi-lla, OAT4/MRP. Basolateral: Na+/K+ ATPase, amino acids; 85-90% HCO3- via CA-IV/II. Secretes phosphaturia, Type 2 RTA."
+    },
+    {
+      "domain": "Early S1 / Late S2-S3",
+      "content": "organic anions (PAH, penicillin, urate) & cations"
+    },
+    {
+      "domain": "NBCe1 (Na+-3HC03-), GLUT2/GLUT1, OAT1/3,",
+      "content": "SGLT2i (Empagliflozin): glucosuria, activates TGF. Probenecid: blocks AT & URAT1."
+    },
+    {
+      "domain": "OCT2.",
+      "content": "(creatinine, cimetidine)."
+    },
+    {
+      "domain": "Thick Ascending Limb",
+      "content": "Reabsorbs 25% filtered NaCl; water-impermeable Bartter Syndrome: NKCC2/ROMK mutation; Apical: NKCC2 (1Na+-1K+-2Cl- symport), ROMK (K+ (dilutes fluid to ~100 mOsm/kg); generates"
+    },
+    {
+      "domain": "TAL (Diluting Segment)",
+      "content": "hypokalemic metabolic alkalosis, hypercalciuria,"
+    },
+    {
+      "domain": "recycling). Basolateral: Na+/K+ ATPase, CIC-Kb.",
+      "content": "normal BP."
+    },
+    {
+      "domain": "Paracellular: Claudin-16/19.",
+      "content": "lumen-positive potential (+8 mV) driving paracellular Ca2+ & Mg2+ uptake. Loop Diuretics (Furosemide): inhibit NKCC2; Ca2+/Mg2+ wasting."
+    },
+    {
+      "domain": "Distal Convoluted Tubule",
+      "content": "Reabsorbs ~5% filtered NaCl; water-impermeable; active Gitelman Syndrome: NCC mutation; hypokalemic Apical: NCC (Na+-Cl- cotransporter), TRPV5 (Ca2+ metabolic alkalosis, hypomagnesemia, transcellular Ca2+ reabsorption stimulated by PTH and"
+    },
+    {
+      "domain": "Early DCT",
+      "content": "1,25-(ОH)2D3. HYPOCALCIURIA."
+    },
+    {
+      "domain": "(Na+/Ca2+ exchanger), PMCA1b.",
+      "content": "Thiazides (HCTZ): inhibit NCC; hypercalcemia. Liddle Syndrome: ENaC gain-of-function; hypertension,"
+    },
+    {
+      "domain": "Principal: apical ENaC & ROMK; basolateral V2",
+      "content": "Principal cells reabsorb Na+ & water, secrete K+. Type A"
+    },
+    {
+      "domain": "Collecting Duct",
+      "content": "low aldo."
+    },
+    {
+      "domain": "(CAMP -> AQP2). Type A: apical H+-ATPase &",
+      "content": "cells secrete H+ & regenerate HC03- (in acidosis). Type"
+    },
+    {
+      "domain": "Principal & Intercalated",
+      "content": "B cells secrete HCO3- via Pendrin (in alkalosis). Aldosterone (Spironolactone): controls ENaC. H+/K+-ATPase. Type B: apical Pendrin (CI-/HCO3-). ADH (Tolvaptan): inserts AQP2."
+    },
+    {
+      "domain": "Glucose Handling & Tm",
+      "content": "Tm_G = 375 mg/min (males) / 300 mg/min (females). Diabetes Mellitus: plasma glucose > 200 mg/dL SGLT2 (S1, high capacity, 90% load) & SGLT1 (S3, Renal threshold = 180-200 mg/dL venous plasma. Splay exceeds threshold -> osmotic diuresis (polyuria,"
+    },
+    {
+      "domain": "facilitated diffusion.",
+      "content": "due to nephron heterogeneity and low carrier affinity. polydipsia). Benign Renal Glucosuria: low Tm with normal glycemia."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which of the following transport mechanisms provides the primary driving force for the reabsorption of almost all solutes and water in the renal tubule?",
+      "options": {
+        "A": "Basolateral Na+/K+ ATPase generating low intracellular Na+ and a negative membrane potential",
+        "B": "Apical pinocytosis of albumin and low molecular weight globulins",
+        "C": "Transcellular simple passive diffusion of sodium across lipid bilayers",
+        "D": "Direct vesicular exocytosis of intact filtrate across tubular cells",
+        "E": "Paracellular solvent drag driven solely by medullary interstitial urea"
+      },
+      "correct_option": "A",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In the Proximal Convoluted Tubule (PCT), what percentage of the filtered load of sodium, water, and potassium is normally reabsorbed?",
+      "options": {
+        "A": "Approximately 65% to 70% (isotonically reabsorbed)",
+        "B": "10% to 15%",
+        "C": "Exactly 100% with no sodium reaching the loop of Henle",
+        "D": "Less than 25% under normal resting conditions",
+        "E": "90% in cortical nephrons and 0% in juxtamedullary nephrons"
+      },
+      "correct_option": "A",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Why does the tubular fluid remaining at the end of the Proximal Convoluted Tubule remain strictly ISOSMOTIC (-290-300 mOsm/kg) to plasma?",
+      "options": {
+        "A": "The PCT reabsorbs sodium and solutes without any accompanying water",
+        "B": "The PCT is completely impermeable to water along its entire length",
+        "C": "Urea is actively pumped out of tubular cells into the lumen",
+        "D": "Active water secretion balances active sodium reabsorption",
+        "E": "Water is reabsorbed proportionally with solutes via Aquaporin-1"
+      },
+      "correct_option": "E",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Glomerulotubular (G-T) Balance is an intrinsic autoregulatory mechanism of the proximal tubule that ensures:",
+      "options": {
+        "A": "A constant absolute milligram amount of sodium is reabsorbed regardless of GFR",
+        "B": "A constant percentage (~65-70%) of filtered load is reabsorbed despite GFR changes",
+        "C": "The GFR is completely suppressed whenever blood pressure rises",
+        "D": "Renal blood flow remains completely constant between 50 and 80 mmHg",
+        "E": "The macula densa completely stops secreting adenosine during exercise"
+      },
+      "correct_option": "B",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which peritubular capillary Starling force primarily drives the uptake of reabsorbed fluid from the proximal tubule interstitium back into the blood?",
+      "options": {
+        "A": "High peritubular capillary hydrostatic pressure (averaging -55 mmHg)",
+        "B": "High peritubular interstitial oncotic pressure derived from lymphatics",
+        "C": "Low interstitial hydrostatic pressure combined with zero oncotic pressure",
+        "D": "Active pinocytosis by peritubular endothelial fenestrations",
+        "E": "High peritubular capillary oncotic pressure (~32-35 mmHg) and low hydrostatic pressure (~13 mmHg)"
+      },
+      "correct_option": "C",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "During extracellular fluid volume expansion (e.g., rapid saline infusion), what happens to peritubular Starling forces and proximal tubular reabsorption?",
+      "options": {
+        "A": "Peritubular oncotic pressure rises steeply, accelerating fluid uptake",
+        "B": "Proximal sodium reabsorption increases to 100%, causing total anuria",
+        "C": "Peritubular oncotic falls and hydrostatic rises, inhibiting reabsorption",
+        "D": "Peritubular capillary resistance increases 10-fold, stopping all blood flow",
+        "E": "Glomerular ultrafiltration coefficient drops to zero immediately"
+      },
+      "correct_option": "C",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The sodium-hydrogen antiporter NHE3 on the apical brush border membrane of the proximal tubule functions via:",
+      "options": {
+        "A": "Primary active transport requiring direct ATP hydrolysis by the carrier",
+        "B": "Paracellular solvent drag driven by transcellular chloride reabsorption",
+        "C": "Facilitated diffusion of protons into cells down an electrical gradient",
+        "D": "Secondary active countertransport coupling Na+ influx with H+ efflux",
+        "E": "Simple passive diffusion independent of sodium concentration gradients"
+      },
+      "correct_option": "D",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Approximately 85% to 90% of filtered bicarbonate (HCO3-) is reabsorbed in the proximal tubule. This process is initiated apically by:",
+      "options": {
+        "A": "Direct apical uptake of filtered bicarbonate by an electrogenic symporter",
+        "B": "Endocytosis of bicarbonate ions via clathrin-coated pits",
+        "C": "Apical H+ secretion via NHE3, converting luminal HCO3- to H2CO3",
+        "D": "Direct paracellular HCO3- diffusion driven by lumen-positive potential",
+        "E": "Hydrolysis of bicarbonate into ammonium ions by glutaminase enzymes"
+      },
+      "correct_option": "C",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "The membrane-bound enzyme Carbonic Anhydrase IV (CA-IV) localized on the brush border of proximal",
+      "options": {
+        "A": "Synthesis of aldosterone from intracellular cholesterol precursors",
+        "B": "Active transport of calcium ions across tight junctions",
+        "C": "Rapid conversion of intracellular CO2 and H20 into carbonic acid",
+        "D": "Hydrolysis of ATP to drive the basolateral sodium-potassium pump",
+        "E": "Rapid dehydration of luminal H2CO3 into CO2 and H20 for passive"
+      },
+      "correct_option": "E",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Once inside the proximal tubule epithelial cell, bicarbonate is extruded across the basolateral membrane into the interstitial fluid primarily via:",
+      "options": {
+        "A": "Simple non-ionic passive diffusion across the lipid bilayer",
+        "B": "The basolateral Na+-3HCO3- cotransporter (NBCe1 / electrogenic symport)",
+        "C": "The apical NHE3 antiporter operating in a reverse direction",
+        "D": "Apical CFTR chloride channels operating as bicarbonate exchangers",
+        "E": "Direct vesicular exocytosis into the lumen of peritubular capillaries"
+      },
+      "correct_option": "B",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In the early proximal tubule (S1 segment), glucose, amino acids, and phosphate are reabsorbed preferentially with sodium, resulting in:",
+      "options": {
+        "A": "A steep fall in luminal chloride concentration to near zero",
+        "B": "A progressive increase in luminal chloride concentration (TF/P_CI > 1.0) along the tubule",
+        "C": "Complete alkalinization of the tubular fluid to pH 9.0",
+        "D": "Immediate precipitation of calcium oxalate crystals in all healthy nephrons",
+        "E": "A massive drop in tubular fluid osmolality to 50 mOsm/kg"
+      },
+      "correct_option": "B",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In the late proximal tubule (S2 and S3 segments), why does chloride reabsorption across tight junctions generate a slight lumen-positive potential (+2 to +4 mV)?",
+      "options": {
+        "A": "High active secretion of sodium ions into the tubular lumen",
+        "B": "Direct binding of chloride to Tamm-Horsfall glycoprotein",
+        "C": "Complete absence of basolateral sodium-potassium ATPase pumps",
+        "D": "Rapid active secretion of potassium through apical ROMK channels",
+        "E": "Chloride diffusion down its concentration gradient through anion-selective claudins"
+      },
+      "correct_option": "E",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The lumen-positive potential (+2 to +4 mV) in the late proximal tubule is physiologically important because it drives the paracellular reabsorption of:",
+      "options": {
+        "A": "Glucose and neutral amino acids down their chemical gradients",
+        "B": "Urea and uric acid via secondary active symport",
+        "C": "Cations, including Na+, Ca2+, and Mg2+, across tight junctions",
+        "D": "Bicarbonate ions against their electrical gradient",
+        "E": "Tamm-Horsfall mucoproteins into the systemic circulation"
+      },
+      "correct_option": "C",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Filtered low-molecular-weight proteins and small peptide hormones (e.g., insulin, beta-2 microglobulin) are reabsorbed in the proximal tubule via:",
+      "options": {
+        "A": "Receptor-mediated endocytosis via Megalin-Cubilin complexes on apical membranes",
+        "B": "Facilitated diffusion mediated by GLUT2 hexose transporters",
+        "C": "Simple passive diffusion through tight junction aqueous pores",
+        "D": "Paracellular solvent drag across claudin-2 water channels",
+        "E": "Primary active transport coupled directly to apical H+ ATPase"
+      },
+      "correct_option": "A",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Renal Tubular Reabsorption & Secretion - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The high-capacity, low-affinity Sodium-Glucose Cotransporter SGLT2 is located on the apical membrane of which nephron segment?",
+      "options": {
+        "A": "Thick ascending limb of Henle in the outer medulla",
+        "B": "Medullary collecting duct responding to antidiuretic hormone",
+        "C": "Late distal convoluted tubule and initial connecting tubule",
+        "D": "Early proximal tubule (S1 and S2 segments), reabsorbing ~90% of filtered glucose",
+        "E": "Descending thin limb of Henle in juxtamedullary nephrons"
+      },
+      "correct_option": "D",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Once transported across the apical membrane by SGLT2, glucose exits the proximal tubular cell into the interstitial space across the basolateral membrane via:",
+      "options": {
+        "A": "Facilitated diffusion mediated by GLUT2 uniporters",
+        "B": "Primary active transport by the basolateral Na+/K+ ATPase",
+        "C": "Paracellular retrograde back-leak through tight junctions",
+        "D": "Apical countertransport coupled to hydrogen ion secretion",
+        "E": "Receptor-mediated endocytosis into peritubular capillaries"
+      },
+      "correct_option": "A",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In the late proximal tubule (S3 segment), the remaining ~10% of filtered glucose is cleared with high affinity and low capacity by:",
+      "options": {
+        "A": "SGLT1 cotransporters coupling 2 Na+ ions to 1 glucose molecule (exiting via basolateral GLUT1)",
+        "B": "Simple non-ionic diffusion through paracellular pores",
+        "C": "SGLT2 cotransporters coupling 1 Na+ to 1 glucose molecule",
+        "D": "Apical NHE3 antiporters operating in reverse",
+        "E": "Active pinocytosis followed by lysosomal degradation"
+      },
+      "correct_option": "A",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In a healthy adult male, the maximum rate at which the kidneys can reabsorb glucose (Transport Maximum, Tm_G) averages approximately:",
+      "options": {
+        "A": "50 mg/min",
+        "B": "375 mg/min (and -300 mg/min in healthy adult females)",
+        "C": "1000 mg/min",
+        "D": "125 mg/min (exactly equal to normal GFR",
+        "E": "Infinite (glucose transport can never be saturated at any plasma level)"
+      },
+      "correct_option": "B",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Although theoretical Tm_G is reached at plasma glucose -300 mg/dL, glucose first appears in urine at a Renal Threshold' of ~180-200 mg/dL. This difference is known as:",
+      "options": {
+        "A": "The 'Splay' phenomenon (due to nephron heterogeneity and low carrier affinity near saturation)",
+        "B": "The Bayliss myogenic reflex",
+        "C": "Autoregulation of renal blood flow",
+        "D": "The Filtration Fraction equilibrium",
+        "E": "Glomerulotubular balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "SGLT2 inhibitors (e.g., Empagliflozin, Dapagliflozin) lower blood glucose in Type 2 Diabetes Mellitus primarily by:",
+      "options": {
+        "A": "Directly stimulating insulin secretion from pancreatic beta cells",
+        "B": "Inhibiting apical SGLT2 in S1 PCT, inducing therapeutic glucosuria and natriuresis",
+        "C": "Destroying GLUT2 transporters on hepatic cell membranes",
+        "D": "Blocking glucose filtration across the glomerular basement membrane",
+        "E": "Stimulating glucose synthesis by medullary collecting duct cells"
+      },
+      "correct_option": "B",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Renal Tubular Reabsorption & Secretion - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The Organic Anion Transport (OAT) system in the proximal tubule actively secretes endogenous and exogenous anions, including:",
+      "options": {
+        "A": "Para-aminohippurate (PAH), penicillin, furosemide, thiazides, and urate",
+        "B": "Sodium, chloride, and potassium ions",
+        "C": "Glucose, amino acids, and bicarbonate ions",
+        "D": "Creatinine, morphine, and cimetidine only",
+        "E": "Urea, inulin, and mannitol exclusively"
+      },
+      "correct_option": "A",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Basolateral uptake of organic anions (e.g., PAH, penicillin) into proximal tubule cells via OAT1 and OAT3 is an example of:",
+      "options": {
+        "A": "Simple passive diffusion driven by blood hydrostatic pressure",
+        "B": "Direct primary ATP hydrolysis by the OAT transporter protein",
+        "C": "Paracellular bulk flow across claudin-1 tight junctions",
+        "D": "Tertiary active transport (coupled to outward movement of alpha-ketoglutarate down its gradient)",
+        "E": "Receptor-mediated endocytosis via clathrin-coated pits"
+      },
+      "correct_option": "D",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Why does co-administration of Probenecid prolong the half-life and therapeutic blood levels of Penicillin?",
+      "options": {
+        "A": "Probenecid destroys bacterial beta-lactamase enzymes directly",
+        "B": "Probenecid precipitates penicillin into insoluble crystals in muscle",
+        "C": "Probenecid competitively inhibits basolateral OAT transporters, blocking tubular secretion of penicillin",
+        "D": "Probenecid stimulates hepatic metabolism of all beta-lactam antibiotics",
+        "E": "Probenecid blocks glomerular filtration of penicillin across the GBM"
+      },
+      "correct_option": "C",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Organic Cation Transport (OCT) system secretes cationic drugs (e.g., cimetidine). Apical exit via MATE is driven by:",
+      "options": {
+        "A": "Simple non-ionic passive diffusion down electrical gradients",
+        "B": "Direct ATP hydrolysis by basolateral Na+/K+ ATPase",
+        "C": "Paracellular solvent drag across anion-selective pores",
+        "D": "Binding to filtered Tamm-Horsfall glycoprotein in the lumen",
+        "E": "Electroneutral H+/organic cation antiport driven by lumen H+ gradient"
+      },
+      "correct_option": "D",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Uric acid handling in the human kidney is complex and involves which sequential four-component process in the proximal tubule?",
+      "options": {
+        "A": "Non-filtration, complete distal secretion, and collecting duct uptake",
+        "B": "Complete filtration with zero reabsorption (clearance equals GFR)",
+        "C": "Primary active secretion in the thin ascending limb without any filtration",
+        "D": "Filtration, reabsorption (via URAT1), secretion, and post-secretory uptake",
+        "E": "Continuous synthesis by tubular epithelial cells from urea precursors"
+      },
+      "correct_option": "D",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "The uricosuric drug Probenecid promotes urinary excretion of uric acid in patients with chronic gout primarily by:",
+      "options": {
+        "A": "Inhibiting apical URAT1 and GLUT9, blocking proximal urate reabsorption",
+        "B": "Stimulating filtration of uric acid by dilating afferent arterioles",
+        "C": "Inhibiting xanthine oxidase in hepatocytes, blocking uric acid synthesis",
+        "D": "Binding uric acid in the bladder to form soluble calcium salts",
+        "E": "Acidifying the urine to convert uric acid into volatile ammonia gas"
+      },
+      "correct_option": "A",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Renal Tubular Reabsorption & Secretion - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Hartnup Disease is an inherited renal and intestinal transport defect involving the BOAT1 transporter, resulting in defective tubular reabsorption of:",
+      "options": {
+        "A": "Dicarboxylic amino acids (glutamate and aspartate) causing renal calculi",
+        "B": "Basic amino acids (cystine, ornithine, lysine, arginine / COLA)",
+        "C": "Inorganic phosphate, leading to isolated X-linked hypophosphatemia",
+        "D": "Neutral amino acids (especially Tryptophan), predisposing to Pellagra-like symptoms (dementia, dermatitis, diarrhea)",
+        "E": "Glucose and galactose, leading to severe neonatal lactic acidosis"
+      },
+      "correct_option": "D",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Cystinuria is caused by defective apical reabsorption of dibasic amino acids via the rBAT/b0,+AT transporter, clinically causing renal stones composed of:",
+      "options": {
+        "A": "Cholesterol plaques originating from the renal capsule",
+        "B": "Coffin-lid shaped Struvite (magnesium ammonium phosphate) crystals",
+        "C": "Needle-shaped uric acid crystals soluble only in strong acid",
+        "D": "Pure calcium phosphate crystals resulting from distal RTA",
+        "E": "Hexagonal, radiopaque Cystine crystals (due to poor solubility of cystine at acidic urine pH)"
+      },
+      "correct_option": "E",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Thick Ascending Limb of Henle (TAL) reabsorbs ~25% of filtered NaCl via the apical NKCC2 cotransporter. This carrier is classified as:",
+      "options": {
+        "A": "Primary active electrogenic pump powered directly by ATP hydrolysis",
+        "B": "Uniporter facilitating passive potassium entry down chemical gradients",
+        "C": "Passive paracellular channel gated by extracellular calcium levels",
+        "D": "Secondary active electroneutral symporter transporting 1 Na+, 1 K+, and 2 Cl- ions into the cell",
+        "E": "Tertiary countertransporter coupled to bicarbonate exit into the lumen"
+      },
+      "correct_option": "D",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Bartter Syndrome is an autosomal recessive tubulopathy caused by inactivating mutations in TAL transport proteins (NKCC2, ROMK, or CIC-Kb), mimicking chronic use of:",
+      "options": {
+        "A": "Thiazide diuretics (inhibiting distal convoluted tubule NCC)",
+        "B": "Carbonic anhydrase inhibitors (inhibiting proximal bicarbonate uptake)",
+        "C": "Osmotic diuretics (e.g., Mannitol), causing massive hypernatremia",
+        "D": "Potassium-sparing diuretics (e.g., Amiloride), causing severe hyperkalemia",
+        "E": "Loop diuretics (e.g., Furosemide), presenting with hypokalemic metabolic alkalosis, hypercalciuria, and normal BP"
+      },
+      "correct_option": "E",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In the early Distal Convoluted Tubule (DCT), ~5% of filtered NaCl is reabsorbed across the apical membrane via:",
+      "options": {
+        "A": "The amiloride-sensitive epithelial sodium channel (ENaC)",
+        "B": "The Sodium-Hydrogen antiporter NHE3 coupled to carbonic anhydrase",
+        "C": "SGLT1 cotransporters operating without glucose",
+        "D": "Paracellular solvent drag driven by medullary countercurrent gradients",
+        "E": "The electroneutral Sodium-Chloride Cotransporter (NCC), which is inhibited by Thiazide Diuretics"
+      },
+      "correct_option": "E",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Gitelman Syndrome is an inherited loss-of-function tubulopathy of the thiazide-sensitive NCC cotransporter in the DCT, characteristically featuring:",
+      "options": {
+        "A": "Hyperkalemic metabolic acidosis with severe hypertension",
+        "B": "Severe hypercalciuria with recurrent staghorn calculi",
+        "C": "Hypokalemic metabolic alkalosis, hypomagnesemia, and HYPOCALCIURIA (reduced urinary calcium excretion)",
+        "D": "Rapidly progressive glomerulonephritis with cellular crescent formation",
+        "E": "Profound generalized aminoaciduria and glucosuria (Fanconi phenotype)"
+      },
+      "correct_option": "C",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Renal Tubular Reabsorption & Secretion - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Liddle Syndrome is a rare autosomal dominant disorder caused by 'gain-of-function' mutations in ENaC subunits that prevent channel degradation, resulting in:",
+      "options": {
+        "A": "Salt wasting, hypotension, hyperkalemia, and high aldosterone levels",
+        "B": "Massive proteinuria with generalized nephrotic edema",
+        "C": "Hyperactivation of ENaC: severe hypertension, hypokalemia, low renin/aldo",
+        "D": "Isolated renal glucosuria with perfectly normal blood pressure",
+        "E": "Defective urinary concentration mimicking nephrogenic diabetes insipidus"
+      },
+      "correct_option": "C",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Aldosterone promotes sodium reabsorption and potassium/hydrogen secretion in the collecting duct by binding to intracellular mineralocorticoid receptors and:",
+      "options": {
+        "A": "Stimulating rapid degradation of medullary aquaporin-2 water channels",
+        "B": "Increasing apical insertion of ENaC and basolateral Na+/K+ ATPase units",
+        "C": "Directly inhibiting the basolateral sodium-potassium ATPase pump",
+        "D": "Blocking all hydrogen ion secretion by Type A intercalated cells",
+        "E": "Decreasing the activity of renal outer medullary potassium channels"
+      },
+      "correct_option": "D",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Type A Intercalated Cells of the collecting duct are primarily responsible for acid secretion and bicarbonate regeneration during acidosis via apical:",
+      "options": {
+        "A": "Carbonic anhydrase IV operating as a sodium cotransporter",
+        "B": "SGLT2 cotransporters pumping bicarbonate against chemical gradients",
+        "C": "Vacuolar H+-ATPase and H+/K+-ATPase pumps, extruding H+ into urine",
+        "D": "Pendrin (anion exchanger) secreting bicarbonate into the tubular lumen",
+        "E": "ENaC sodium channels operating in reverse to expel protons"
+      },
+      "correct_option": "D",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Type B Intercalated Cells function during systemic metabolic alkalosis to eliminate excess base. They accomplish this via apical expression of:",
+      "options": {
+        "A": "NHE3 antiporters pumping bicarbonate directly into the blood",
+        "B": "Vacuolar H+-ATPase pumps facing the tubular lumen exclusively",
+        "C": "ROMK channels coupled to basolateral Megalin receptors",
+        "D": "Pendrin (apical CI-/HCO3- exchanger), which actively secretes bicarbonate into tubular fluid",
+        "E": "Aquaporin-2 channels transporting liquid alkali into the urine"
+      },
+      "correct_option": "D",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Antidiuretic Hormone (ADH / Vasopressin) regulates water permeability in principal cells of the collecting duct by binding basolateral V2 receptors and:",
+      "options": {
+        "A": "Directly opening paracellular tight junctions to allow bulk water flow",
+        "B": "Gs-adenylyl cyclase-cAMP signaling inserting Aquaporin-2 into apical membrane",
+        "C": "Phosphorylating apical NKCC2 cotransporters to pump water into tissue",
+        "D": "Blocking basolateral AQP3 and AQP4 channels, trapping water in cells",
+        "E": "Activating Gq-phospholipase C to degrade intracellular aquaporin stores"
+      },
+      "correct_option": "B",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "Osmotic Diuresis occurs when unreabsorbed, non-reabsorbable solutes remain in the tubular lumen (e.g., Mannitol, or Glucose exceeding Tm_G). The mechanism is:",
+      "options": {
+        "A": "Direct chemical destruction of the renal outer medullary collecting ducts",
+        "B": "Retrograde filtration of urine from the pelvis back into glomerular capillaries",
+        "C": "Inhibition of systemic antidiuretic hormone release by pituitary",
+        "D": "Luminal osmotic pressure opposes water uptake, sweeping water into urine",
+        "E": "Direct toxic stimulation of the adrenal cortex to hypersecrete aldosterone"
+      },
+      "correct_option": "D",
+      "explanation": "**Q11 [2025 ]**: Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]\n\n**Q12 [2020 ]**: 1 [C [B [D",
+      "masterclass_id": 12,
+      "masterclass_title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology"
+    }
+  ]
+}

@@ -1,0 +1,821 @@
+{
+  "items" : [
+    {
+      "h" : 0.013178293969896115,
+      "conf" : 1,
+      "x" : 0.29320987568587104,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 20 MCQ Masterclass",
+      "y" : 0.9774224804452566,
+      "w" : 0.520576093181874
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "x" : 0.3611111029063789,
+      "text" : "Twisted Medicine Medical Series • Diuretics Pharmacology, Mechanisms & Clinical Therapeutics • Standard Practice Bank",
+      "y" : 0.9643217052732798,
+      "w" : 0.656378596083923
+    },
+    {
+      "h" : 0.010572976006401835,
+      "conf" : 1,
+      "x" : 0.9341563794763181,
+      "text" : "Page 1 of 4",
+      "y" : 0.976017441946319,
+      "w" : 0.07007282185104657
+    },
+    {
+      "h" : 0.011731265915764677,
+      "conf" : 1,
+      "x" : 0.5010287977023322,
+      "text" : "20. PHARMACOLOGY OF DIURETICS - PHARMACOLOGY LECTURE",
+      "y" : 0.9419121447985962,
+      "w" : 0.5823045166783363
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.5010288146347734,
+      "text" : "Twisted Medicine Pharmacology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "y" : 0.9222383721838663,
+      "w" : 0.6440328921911851
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.2592592663237309,
+      "text" : "Q01. [2025 Exam] Which class of diuretics is characterized as",
+      "y" : 0.9004166669110044,
+      "w" : 0.4238682872844192
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7129629557270236,
+      "text" : "Q08. [2022 Exam] What pharmacokinetic property explains why",
+      "y" : 0.9004166667656556,
+      "w" : 0.4341563578671629
+    },
+    {
+      "h" : 0.011686046388414195,
+      "conf" : 1,
+      "x" : 0.501028792283951,
+      "text" : "'High-Ceiling' because its members inhibit transport in a segment Mannitol must be administered exclusively via the Intravenous (IV)",
+      "y" : 0.886656976895386,
+      "w" : 0.9115226313752948
+    },
+    {
+      "h" : 0.011711885664198007,
+      "conf" : 1,
+      "x" : 0.20164608957475993,
+      "text" : "responsible for ~25% of filtered sodium load?",
+      "y" : 0.8735885015720377,
+      "w" : 0.31275719216784587
+    },
+    {
+      "h" : 0.010745219124688066,
+      "conf" : 1,
+      "x" : 0.5216049387818235,
+      "text" : "route?",
+      "y" : 0.8742732559897228,
+      "w" : 0.04756473445292536
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.23045268106995864,
+      "text" : "[A] Loop Diuretics acting on the Thick Ascending Limb of Henle",
+      "y" : 0.8582848837936047,
+      "w" : 0.37037034904432
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.6954732576131686,
+      "text" : "[A] It is 100% destroyed by gastric hydrochloric acid within seconds",
+      "y" : 0.859011628003876,
+      "w" : 0.39506170884618225
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.19958848045267485,
+      "text" : "[B] Carbonic anhydrase inhibitors in proximal tubules",
+      "y" : 0.8459302326162791,
+      "w" : 0.3086419735314711
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.6872428046639231,
+      "text" : "[B] It binds irreversibly to oral mucosal epithelial cell membranes",
+      "y" : 0.8459302326550387,
+      "w" : 0.3786008103088763
+    },
+    {
+      "h" : 0.008733849790361181,
+      "conf" : 1,
+      "x" : 0.21707819273662549,
+      "text" : "[C] Thiazide diuretics acting on the distal convoluted tubule",
+      "y" : 0.8328552972188425,
+      "w" : 0.34362140391607704
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7181070013888888,
+      "text" : "[C] It is not absorbed from the Gl tract; oral dosing causes osmotic diarrhea",
+      "y" : 0.8320833331407848,
+      "w" : 0.4403292098135319
+    },
+    {
+      "h" : 0.008888888623979296,
+      "conf" : 1,
+      "x" : 0.22119342003600814,
+      "text" : "[D] Potassium-sparing diuretics in the cortical collecting duct",
+      "y" : 0.8197222222733342,
+      "w" : 0.3518518411888266
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.7057613116769549,
+      "text" : "[D] It is completely metabolized into toxic methanol by salivary amylase",
+      "y" : 0.8204295864416611,
+      "w" : 0.4156378500116696
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.18621399529320976,
+      "text" : "[E] Osmotic diuretics in the descending thin limb",
+      "y" : 0.8073611111773114,
+      "w" : 0.28189300441142146
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6718107053840875,
+      "text" : "[E] It precipitates as large crystals in the esophageal lumen",
+      "y" : 0.8073611111591428,
+      "w" : 0.3477366225524518
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.5020576222633744,
+      "text" : "Q02. [2024 Exam] What is the primary cellular mechanism of actionQ09. [2023 Exam] What is the primary physiological mechanism by",
+      "y" : 0.7783430233284885,
+      "w" : 0.9094649980653008
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.22633745459533589,
+      "text" : "of Acetazolamide in the proximal convoluted tubule?",
+      "y" : 0.7652616280281008,
+      "w" : 0.3621399117715704
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6676954788408778,
+      "text" : "which Mannitol induces diuresis in the nephron?",
+      "y" : 0.7652616280281008,
+      "w" : 0.3353909426515208
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "x" : 0.25308642494855954,
+      "text" : "[A] Competitive inhibition of apical NCC sodium-chloride cotransporters",
+      "y" : 0.7500000000726745,
+      "w" : 0.4156378500116696
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6862139964763374,
+      "text" : "[A] Direct competitive inhibition of apical ENaC sodium channels",
+      "y" : 0.7506944443510938,
+      "w" : 0.3765432009906889
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.24588477767489703,
+      "text" : "[B] Reversible inhibition of brush-border CA IV and cytoplasmic CA I|",
+      "y" : 0.7376388888260282,
+      "w" : 0.40123456079255104
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6975308708504798,
+      "text" : "[B] Stimulates massive systemic release of Atrial Naturetic Peptide",
+      "y" : 0.7376388888260282,
+      "w" : 0.39917695147436366
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.2561728464677637,
+      "text" : "[C] Non-competitive irreversible blockade of basolateral Na+\/K+ ATPase",
+      "y" : 0.724583333570365,
+      "w" : 0.42181070195803844
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.7067901304183812,
+      "text" : "[C] Degrades basolateral Aquaporin-3 and Aquaporin-4 water channels",
+      "y" : 0.724583333282794,
+      "w" : 0.41769543533805026
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.24588478034979405,
+      "text" : "[D] Direct opening of paracellular chloride-selective claudin channels",
+      "y" : 0.7115277777395599,
+      "w" : 0.4012345607925511
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7150205804732508,
+      "text" : "[D] Blocks water reabsorption in PCT and thin descending limb by osmotic",
+      "y" : 0.7115277777395598,
+      "w" : 0.4341563578671629
+    },
+    {
+      "h" : 0.008888888623979407,
+      "conf" : 1,
+      "x" : 0.20164609449588464,
+      "text" : "[E] Blockade of the mineralocorticoid nuclear receptor",
+      "y" : 0.6991666666253684,
+      "w" : 0.3168724108042207
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6769547293552813,
+      "text" : "[E] Selectively constricts the efferent arteriole to elevate GFR",
+      "y" : 0.6868055555338384,
+      "w" : 0.3580246691433889
+    },
+    {
+      "h" : 0.011679586304558676,
+      "conf" : 1,
+      "x" : 0.4835391091906716,
+      "text" : "Q03. [2023 Exam] Why does the diuretic efficacy of Acetazolamide Q10. [2021 Exam] Which clinical scenario represents a major,",
+      "y" : 0.6569509041155339,
+      "w" : 0.8724279823543141
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.23559670405349803,
+      "text" : "diminish rapidly after 2 to 3 days of continuous therapy",
+      "y" : 0.6431944444131612,
+      "w" : 0.3765432009906889
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.7026748902949247,
+      "text" : "FDA-approved indication for intravenous Mannitol therapy?",
+      "y" : 0.643194444432541,
+      "w" : 0.40946499806530057
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.11728395241769544,
+      "text" : "(self-limiting effect)?",
+      "y" : 0.6301388890043746,
+      "w" : 0.14403291618299185
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6779835435956789,
+      "text" : "[A] Chronic outpatient management of essential hypertension",
+      "y" : 0.6286337209847384,
+      "w" : 0.36008230245338296
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2644032976594649,
+      "text" : "[A] It induces complete down-regulation of all glomerular podocyte pedicels",
+      "y" : 0.6155523256359012,
+      "w" : 0.43827157650353776
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6893004179698214,
+      "text" : "[B] Idiopathic hypercalciuria with recurrent calcium oxalate stones",
+      "y" : 0.6155523256540698,
+      "w" : 0.3868312715734326
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.4814814923868311,
+      "text" : "[B] Rapid metabolic induction of hepatic CYP3A4 degrades the drug instantly [C] Reversal of hyperkalemic cardiac toxicity in end-stage renal disease",
+      "y" : 0.6024709303234013,
+      "w" : 0.8724279823543141
+    },
+    {
+      "h" : 0.01206136491563592,
+      "conf" : 1,
+      "x" : 0.49279270029026057,
+      "text" : "[C] Depletion of filtered bicarbonate and metabolic acidosis reduce substrate [D] Primary treatment of congestive heart failure with pulmonary congestion",
+      "y" : 0.5902528750688578,
+      "w" : 0.8951139630011792
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.24279834897119354,
+      "text" : "[D] Acetazolamide irreversibly binds to albumin in peripheral tissues",
+      "y" : 0.5770348836482558,
+      "w" : 0.3950617088461822
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7057613210288065,
+      "text" : "[E] Acute reduction of elevated Intracranial Pressure (Cerebral Edema)",
+      "y" : 0.5777616279505813,
+      "w" : 0.41563785001166964
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.26543209334705087,
+      "text" : "[E] It triggers immediate conversion of proximal tubules into collecting ducts",
+      "y" : 0.5631944446568333,
+      "w" : 0.4403292098135318
+    },
+    {
+      "h" : 0.01031007766723624,
+      "conf" : 1,
+      "x" : 0.5020576245370368,
+      "text" : "Q04. [2022 Exam] What is the primary therapeutic indication for Q11. [2025 Exam] What dangerous acute complication can occur if",
+      "y" : 0.5356782947630574,
+      "w" : 0.9094649980653007
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "x" : 0.5010288188271601,
+      "text" : "topical Carbonic Anhydrase Inhibitors such as Dorzolamide and Mannitol is administered to a patient with severe Congestive Heart",
+      "y" : 0.5218023253875969,
+      "w" : 0.9115226313752948
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.09670781794238684,
+      "text" : "Brinzolamide?",
+      "y" : 0.5087209301744187,
+      "w" : 0.09876542721154555
+    },
+    {
+      "h" : 0.009354768329196461,
+      "conf" : 1,
+      "x" : 0.5277777767823446,
+      "text" : "Failure?",
+      "y" : 0.5087209301946944,
+      "w" : 0.05984994300506402
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.19855967461419743,
+      "text" : "[A] Treatment of acute hypercalcemia of malignancy",
+      "y" : 0.49347222201797913,
+      "w" : 0.3065843642132837
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7109053540534979,
+      "text" : "[A] Acute ECF volume expansion and pulmonary edema due to fluid shift",
+      "y" : 0.4934722220361478,
+      "w" : 0.42592592059441325
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2067901258230452,
+      "text" : "[B] Eradication of Pseudomonas urinary tract infections",
+      "y" : 0.4804166667804846,
+      "w" : 0.32304526275058965
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6903292229166665,
+      "text" : "[B] Immediate vascular collapse and profound hypovolemic shock",
+      "y" : 0.48041666651108217,
+      "w" : 0.3847736622552452
+    },
+    {
+      "h" : 0.010290697945488758,
+      "conf" : 1,
+      "x" : 0.22325103233882018,
+      "text" : "[C] Reversal of digitalis-induced ventricular tachyarrhythmias",
+      "y" : 0.467354651153395,
+      "w" : 0.35596705982520144
+    },
+    {
+      "h" : 0.008888889153798374,
+      "conf" : 1,
+      "x" : 0.655349794338802,
+      "text" : "[C] Sudden total thrombosis of both main renal veins",
+      "y" : 0.4680555555680308,
+      "w" : 0.3148148254778401
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.2283950587791496,
+      "text" : "[D] Reduction of intraocular pressure in Open-Angle Glaucoma",
+      "y" : 0.45569444462633946,
+      "w" : 0.36625513040794516
+    },
+    {
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "x" : 0.6543209900720164,
+      "text" : "[D] Severe hypocalcemic tetany with laryngeal stridor",
+      "y" : 0.4549806202930815,
+      "w" : 0.31275719216784587
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.1574074102109053,
+      "text" : "[E] Prevention of diabetic ketoacidosis",
+      "y" : 0.44263888896803744,
+      "w" : 0.22427982354314072
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6296296322633743,
+      "text" : "[E] Permanent irreversible diabetes insipidus",
+      "y" : 0.442638888986206,
+      "w" : 0.2633744725641215
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.25000000405349787,
+      "text" : "Q05. [2021 Exam] In the prophylaxis and treatment of Acute",
+      "y" : 0.41347222240578896,
+      "w" : 0.4053497794289259
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.2561728464677637,
+      "text" : "Mountain Sickness (high-altitude pulmonary\/cerebral edema),",
+      "y" : 0.39972222229949406,
+      "w" : 0.42181070195803844
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.13374485812757195,
+      "text" : "Acetazolamide works by:",
+      "y" : 0.38736111130115203,
+      "w" : 0.1728395066171322
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.25823045693415636,
+      "text" : "[A] Directly blocking pulmonary vascular smooth muscle beta-2 receptors",
+      "y" : 0.37136627914244186,
+      "w" : 0.42592592059441337
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.23456789766803854,
+      "text" : "[B] Paralyzing diaphragm muscle to decrease alveolar ventilation",
+      "y" : 0.35828488355135657,
+      "w" : 0.37860081030887627
+    },
+    {
+      "h" : 0.008720930417378758,
+      "conf" : 1,
+      "x" : 0.247942386906279,
+      "text" : "[C] Stimulating massive erythropoietin secretion from peritubular cells",
+      "y" : 0.3459302325553263,
+      "w" : 0.40534977942892586
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.22839505582990413,
+      "text" : "[D] Dilating systemic arterioles to lower systolic blood pressure",
+      "y" : 0.33357558156492245,
+      "w" : 0.36625513040794516
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.2602880701440328,
+      "text" : "[E] Producing mild metabolic acidosis, stimulating central chemoreceptors",
+      "y" : 0.3204295866051785,
+      "w" : 0.43004113923078807
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6913580199074076,
+      "text" : "Q12. [2020 Exam] In which of the following conditions is",
+      "y" : 0.41347222227860875,
+      "w" : 0.38271602894525114
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.700617278883745,
+      "text" : "intravenous Mannitol therapy strictly CONTRAINDICATED?",
+      "y" : 0.40041666673537457,
+      "w" : 0.40534977942892597
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6481481430727025,
+      "text" : "[A] Acute angle-closure glaucoma prior to iridotomy",
+      "y" : 0.3844476743943798,
+      "w" : 0.3045267309032896
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6666666609739371,
+      "text" : "[B] Active intracranial bleeding (except during craniotomy)",
+      "y" : 0.372819767369186,
+      "w" : 0.34156377060608295
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6635802413237313,
+      "text" : "[C] Acute cerebral edema following traumatic brain injury",
+      "y" : 0.3597383720203489,
+      "w" : 0.3353909426515207
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6790123517832646,
+      "text" : "[D] Prophylaxis against oliguric renal failure in rhabdomyolysis",
+      "y" : 0.3466569768168605,
+      "w" : 0.3662551304079451
+    },
+    {
+      "h" : 0.008733849790361181,
+      "conf" : 1,
+      "x" : 0.682098770036008,
+      "text" : "[E] High intraocular pressure during cataract extraction surgery",
+      "y" : 0.33285529723337753,
+      "w" : 0.36831273972613254
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.48662552318930025,
+      "text" : "Q06. [2020 Exam] Which acid-base and electrolyte disturbance is Q13. [Faculty Exam] Acetazolamide can be utilized clinically to",
+      "y" : 0.2914244186773255,
+      "w" : 0.8786007863170695
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.2602880586762691,
+      "text" : "characteristically produced by Carbonic Anhydrase Inhibitors?",
+      "y" : 0.2783430231831395,
+      "w" : 0.4300411392307881
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6862139870627574,
+      "text" : "promote the urinary excretion of which toxic weak acid",
+      "y" : 0.2783430231649709,
+      "w" : 0.376543200990689
+    },
+    {
+      "h" : 0.011737725999620197,
+      "conf" : 1,
+      "x" : 0.31790124138374465,
+      "text" : "[A] Hyperchloremic Normal Anion Gap Metabolic Acidosis with hypokalemia substances?",
+      "y" : 0.26447997391189854,
+      "w" : 0.5452674529837361
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2345679075445814,
+      "text" : "[B] Hypochloremic metabolic alkalosis with severe hyperkalemia",
+      "y" : 0.2506944443692623,
+      "w" : 0.37860081030887627
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "x" : 0.6121399205504114,
+      "text" : "[A] Morphine and basic amphetamines",
+      "y" : 0.2500000000726744,
+      "w" : 0.22839506617132221
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.21399177376543196,
+      "text" : "[C] High anion gap metabolic acidosis with hypernatremia",
+      "y" : 0.23763888884419682,
+      "w" : 0.33744855196970813
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "x" : 0.5823045288580246,
+      "text" : "[B] Quinine and chloroquine",
+      "y" : 0.23694444452944025,
+      "w" : 0.16872427598485407
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.23559671416323716,
+      "text" : "[D] Respiratory acidosis with compensatory hyperbicarbonatemia",
+      "y" : 0.22458333328279395,
+      "w" : 0.3806584196270637
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6882716087448558,
+      "text" : "[C] Uric acid and Cystine (alkaline urine increases their solubility)",
+      "y" : 0.22458333328279395,
+      "w" : 0.38065841962706365
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.18930041440329212,
+      "text" : "[E] Metabolic alkalosis with isolated hypocalciuria",
+      "y" : 0.21152777773955977,
+      "w" : 0.28806583236598365
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.5987654354595335,
+      "text" : "[D] Aminoglycosides and colistin",
+      "y" : 0.21152777778800946,
+      "w" : 0.2016460730594659
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "x" : 0.6255144058436214,
+      "text" : "[E] Diazepam and lipid-soluble barbiturates",
+      "y" : 0.19846253233545186,
+      "w" : 0.25514403529137186
+    },
+    {
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "x" : 0.4989712050411518,
+      "text" : "Q07. [2024 Exam] Why is Acetazolamide strictly contraindicated in Q14. [Core Exam] Which of the following adverse effects is shared",
+      "y" : 0.17001937975536807,
+      "w" : 0.9032921941025451
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.18106996337448547,
+      "text" : "patients with severe Hepatic Cirrhosis?",
+      "y" : 0.156250000121124,
+      "w" : 0.2716049338286778
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.7222222147462278,
+      "text" : "by Acetazolamide, Loop Diuretics, and Thiazides due to chemical",
+      "y" : 0.1562499999757751,
+      "w" : 0.4485596470862813
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.20473251347736623,
+      "text" : "[A] It induces immediate rupture of esophageal varices",
+      "y" : 0.1417151163517441,
+      "w" : 0.31893004411421483
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.262345686248285,
+      "text" : "[B] Urine alkalinization converts NH4+ to NH3, increasing encephalopathy",
+      "y" : 0.12863372100290688,
+      "w" : 0.4341563578671629
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.2530864239094649,
+      "text" : "[C] It directly inhibits hepatic glycogenolysis causing fatal hypoglycemia",
+      "y" : 0.1155523256540697,
+      "w" : 0.4156378500116696
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.2510288106995884,
+      "text" : "[D] It precipitates as insoluble crystalline casts in the common bile duct",
+      "y" : 0.10319767447674422,
+      "w" : 0.4115226313752948
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.2448559721193415,
+      "text" : "[E] It completely shuts down hepatic blood flow via portal vein spasm",
+      "y" : 0.09011627914244202,
+      "w" : 0.4032921941025452
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6368312804869684,
+      "text" : "[A] Severe hypercalcemia and nephrocalcinosis",
+      "y" : 0.12863372100290688,
+      "w" : 0.28600822304779633
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6707818964609051,
+      "text" : "[B] Gynaecomastia and anti-androgenic sexual dysfunction",
+      "y" : 0.1155523256540697,
+      "w" : 0.3456790132342643
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6183127531207134,
+      "text" : "[C] Spastic tetany and carpopedal spasm",
+      "y" : 0.10247093015988373,
+      "w" : 0.24485596470862808
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "x" : 0.6913580285596707,
+      "text" : "[D] Allergic hypersensitivity reactions due to a Sulfonamide moiety",
+      "y" : 0.08932170540045997,
+      "w" : 0.3868312715734325
+    },
+    {
+      "h" : 0.010284237861633239,
+      "conf" : 1,
+      "x" : 0.6275720197530863,
+      "text" : "[E] Permanent complete loss of visual acuity",
+      "y" : 0.07625322993625572,
+      "w" : 0.2633744725641215
+    },
+    {
+      "h" : 0.017519379191928475,
+      "conf" : 1,
+      "x" : 0.3343621474537035,
+      "text" : "Twisted Medicine • Renal Pharmacology Master Class • Strictly Grounded in Faculty & Bagd Exam Past Papers",
+      "y" : 0.014573643611020815,
+      "w" : 0.6028806578438237
+    },
+    {
+      "h" : 0.008888888623979296,
+      "conf" : 1,
+      "x" : 0.8724279809327847,
+      "text" : "Confidential Student Revision Bank",
+      "y" : 0.018888889005369114,
+      "w" : 0.19341563578671628
+    }
+  ],
+  "page" : 75
+}

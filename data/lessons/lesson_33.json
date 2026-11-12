@@ -1,0 +1,845 @@
+{
+  "id": 33,
+  "title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+  "department": "Pharmacology & Epidemiology",
+  "department_desc": "Urinary tract pharmacology, uroselective blockers, anticholinergics and renal epidemiology",
+  "booklet_pages": "Pages 129 - 132",
+  "pdf_pages": [
+    131,
+    132,
+    133,
+    134
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 34 — HIGH-YIELD RENAL EPIDEMIOLOGY & PREVENTION MATRIX",
+  "summary_table": [
+    {
+      "domain": "Early CKD (G1-G3)",
+      "content": "• Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,"
+    },
+    {
+      "domain": "Tertiary Prevention",
+      "content": "• Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter)."
+    },
+    {
+      "domain": "Advanced CKD (G4-G5)",
+      "content": "• Preemptive kidney transplant workup. • Anemia management (ESAs + IV Iron, Hb 10-11.5). dialysis-associated mortality. • Hepatitis B vaccination (40 mog double dose). • CKD-MBD control (dietary phosphate binders,"
+    },
+    {
+      "domain": "calcimimetics).",
+      "content": "ESRD funding & organ donation infrastructure. Transplantation saves - $50,000/patient/year"
+    },
+    {
+      "domain": "Health Economics & RRT",
+      "content": "ISN Oby25 Initiative (Zero preventable AKI deaths). • ESRD consumes 5-7% of health budgets for <0.2% • Opt-Out (Presumed Consent) legislation (Spanish model). over dialysis. Universal coverage reduces"
+    },
+    {
+      "domain": "Public Health Policy",
+      "content": "catastrophic OOP costs. • Strict ethical laws preventing organ commercialism."
+    },
+    {
+      "domain": "population.",
+      "content": "• Hemodialysis (>85% in Egypt) vs. Peritoneal Dialysis. • Expanding local PD manufacturing in low-income nations. • Kidney Transplantation: gold standard survival &"
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Globally, Chronic Kidney Disease (CKD) represents a major public health challenge with an estimated global adult prevalence of approximately:",
+      "options": {
+        "A": "1% to 2%",
+        "B": "10% to 14% (affecting >800 million individuals worldwide)",
+        "C": "Exactly 35% to 40%",
+        "D": "Less than 0.1%",
+        "E": "50% in healthy young adults"
+      },
+      "correct_option": "D",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Worldwide and in developed/middle-income nations, what is the SINGLE MOST COMMON primary etiology responsible for End-Stage Renal Disease (ESRD)?",
+      "options": {
+        "A": "Diabetic Kidney Disease (Diabetic Nephropathy, ~40-45% of cases)",
+        "B": "Hereditary Polycystic Kidney Disease",
+        "C": "Bilateral renal cell carcinoma",
+        "D": "Minimal change disease",
+        "E": "Acute post-streptococcal glomerulonephritis"
+      },
+      "correct_option": "C",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "In epidemiological surveys, what is the SECOND Q10. [2021 Exam] In Egypt and parts of the Middle East, historical leading cause of Chronic Kidney Disease and ESRD globally, accounting for ~25-30% of incident cases?",
+      "options": {
+        "A": "Renal amyloidosis",
+        "B": "Acute interstitial nephritis",
+        "C": "Hypertensive Nephrosclerosis (Vascular Disease)",
+        "D": "Minimal change nephropathy",
+        "E": "Simple solitary renal cysts"
+      },
+      "correct_option": "C",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which of the following non-modifiable risk factors is strongly associated with an increased lifetime risk of developing CKD and lower nephron endowment?",
+      "options": {
+        "A": "Blood group O positive status",
+        "B": "Consuming a diet rich in dietary potassium",
+        "C": "High physical aerobic fitness",
+        "D": "Low birth weight (<2,500 g) and prematurity",
+        "E": "Female sex before age 30"
+      },
+      "correct_option": "D",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In individuals of recent African ancestry, which genetic variants are strongly associated with a markedly elevated risk of FSGS, HIVAN, and hypertensive ESRD?",
+      "options": {
+        "A": "CFTR gene mutations",
+        "B": "BRCA1 and BRCA2 mutations",
+        "C": "HLA-B27 antigen positivity",
+        "D": "Hexosaminidase A gene deletion",
+        "E": "APOL1 (Apolipoprotein L1) high-risk G1 and G2 alleles"
+      },
+      "correct_option": "B",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Which modifiable behavioral risk factor independently accelerates the rate of decline of GFR and doubles the risk of progression from micro- to macroalbuminuria?",
+      "options": {
+        "A": "Moderate daily water consumption (2-3 L/day)",
+        "B": "Cigarette smoking",
+        "C": "Walking 30 minutes daily",
+        "D": "Drinking green tea",
+        "E": "Consuming fresh fruits"
+      },
+      "correct_option": "B",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "According to the KDIGO guidelines, what dual criteria define Chronic Kidney Disease (CKD)?",
+      "options": {
+        "A": "Decreased eGFR (<60 mL/min/1.73m2) OR markers of kidney damage (e.g., albuminuria) persisting for >3 months",
+        "B": "Serum creatinine >1.5 mg/dL on a single random blood sample",
+        "C": "Unilateral flank pain lasting for 48 hours",
+        "D": "Presence of fever with costovertebral tenderness",
+        "E": "Trace hematuria on a dipstick after heavy exercise"
+      },
+      "correct_option": "D",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In patients diagnosed with Chronic Kidney Disease, what is the SINGLE MOST COMMON cause of death across all stages before reaching dialysis?",
+      "options": {
+        "A": "Accidental trauma",
+        "B": "Sepsis from cutaneous carbuncles",
+        "C": "Acute hepatic failure",
+        "D": "Cardiovascular Disease (CVD: myocardial infarction, heart failure, sudden cardiac death)",
+        "E": "Primary central nervous system malignancies"
+      },
+      "correct_option": "E",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Why are patients with mild-to-moderate CKD (Stages G2-G3) far more likely to die of cardiovascular events than to survive to reach ESRD (Stage G5)?",
+      "options": {
+        "A": "Yellow fever and Dengue",
+        "B": "Cutaneous Leishmaniasis",
+        "C": "Intestinal Trichinella spiralis",
+        "D": "Hookworm iron deficiency anemia",
+        "E": "Urinary Schistosomiasis (Schistosoma haematobium causing ureteric strictures and hydronephrosis"
+      },
+      "correct_option": "B",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 10 covering high-yield concepts in Epidemiology & Prevention of Renal Diseases - Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the KDIGO albuminuria staging category 'A2' (formerly called Microalbuminuria), which signifies increased cardiovascular and renal progression risk?",
+      "options": {
+        "A": "Spot urine Albumin-to-Creatinine Ratio (ACR) of 30 to 300 mg/g (or 3 to 30 mg/mmol)",
+        "B": "Spot urine ACR <10 mg/g",
+        "C": "Spot urine ACR >3,000 mg/g",
+        "D": "Urine protein dipstick reading of solid 4+",
+        "E": "Complete absence of urinary albumin"
+      },
+      "correct_option": "E",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Which over-the-counter medication class is a major preventable cause of drug-induced nephrotoxicity and accelerated CKD decline?",
+      "options": {
+        "A": "Paracetamol in therapeutic doses",
+        "B": "NSAIDs (ibuprofen, naproxen, diclofenac)",
+        "C": "Vitamin C supplements",
+        "D": "Calcium carbonate antacids",
+        "E": "Topical emollient creams"
+      },
+      "correct_option": "B",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The epidemiological concept of 'Brenner Nephron Endowment Hypothesis' suggests that individuals born with a congenitally reduced number of nephrons:",
+      "options": {
+        "A": "Are permanently immune to systemic hypertension",
+        "B": "Excrete 10 times more creatinine per day than normal adults",
+        "C": "Develop compensatory glomerular hyperfiltration and hypertrophy, predisposing to accelerated glomerulosclerosis in adult life",
+        "D": "Have hyperactive immune defenses against pyelonephritis",
+        "E": "Require immediate neonatal dialysis"
+      },
+      "correct_option": "D",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Metabolic Syndrome (central obesity, insulin resistance, hypertension, hypertriglyceridemia, low HDL) increases the risk of CKD primarily by inducing:",
+      "options": {
+        "A": "Complete agenesis of the ureteral buds",
+        "B": "Spontaneous renal artery dissection",
+        "C": "Direct deposition of uric acid stones in 100% of cases",
+        "D": "Renal hyperfiltration, endothelial dysfunction, chronic low-grade inflammation, and podocyte injury",
+        "E": "Autoimmune anti-GBM antibody production"
+      },
+      "correct_option": "E",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Epidemiology & Prevention of Renal Diseases - Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the primary objective of Primary Prevention in the context of renal disease epidemiology?",
+      "options": {
+        "A": "Preparing patients for peritoneal dialysis",
+        "B": "Preventing the initial onset of kidney damage in individuals harboring major risk factors (e.g., diabetics and hypertensives)",
+        "C": "Managing uremic pericarditis in the intensive care unit",
+        "D": "Treating end-stage hyperkalemia with emergency calcium gluconate",
+        "E": "Rescaling organ transplant waiting lists"
+      },
+      "correct_option": "B",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "For a diabetic patient without current kidney damage, which glycemic control target is recommended as primary prevention to prevent the onset of diabetic nephropathy?",
+      "options": {
+        "A": "HbA1c < 7.0% (individualized to 6.5-8.0% based on hypoglycemia risk)",
+        "B": "Random blood glucose strictly below 40 mg/dL",
+        "C": "Complete elimination of all carbohydrates from the diet",
+        "D": "HbA1c maintained between 10% and 12%",
+        "E": "Fasting blood glucose fixed at 250 mg/dL"
+      },
+      "correct_option": "E",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In hypertensive patients with or without diabetes, what target blood pressure is recommended by KIGO 2021 guidelines (using standardized office BP) to slow CKD progression?",
+      "options": {
+        "A": "Any blood pressure as long as heart rate is <60 bpm",
+        "B": "Blood pressure between 150/100 and 160/110 mmHg",
+        "C": "Systolic pressure strictly below 80 mmHg",
+        "D": "Diastolic pressure fixed at exactly 100 mmHg",
+        "E": "Systolic Blood Pressure < 120 mmHg (when tolerated)"
+      },
+      "correct_option": "C",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which drug class is first-line therapy for Secondary Prevention (slowing progression) in CKD with significant albuminuria?",
+      "options": {
+        "A": "Direct acting vasodilators (Hydralazine and Minoxidil)",
+        "B": "Thiazide monotherapy without diet control",
+        "C": "Renin-Angiotensin System (RAS) Inhibitors (ACE inhibitors or ARBs)",
+        "D": "Loop diuretics in bolus doses twice weekly",
+        "E": "Alpha-1 blockers exclusively"
+      },
+      "correct_option": "C",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "How do SGLT2 Inhibitors (e.g., Dapagliflozin, Empagliflozin) provide profound nephroprotection in both diabetic and non-diabetic CKD patients?",
+      "options": {
+        "A": "They destroy podocytes to decrease filtration surface",
+        "B": "They permanently shut down all distal potassium excretion",
+        "C": "They stimulate massive renal renin synthesis",
+        "D": "They restore tubuloglomerular feedback by increasing NaCI delivery to macula densa, constricting afferent arterioles and reducing hyperfiltration",
+        "E": "They bind and precipitate filtered albumin in the tubules"
+      },
+      "correct_option": "A",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Non-Steroidal Anti-Inflammatory Drugs (NSAIDs) Q28. [Core Exam] What is the primary epidemiological goal of should be strictly avoided or discontinued in CKD patients primarily because they:",
+      "options": {
+        "A": "Produce severe systemic hypoglycemia within 30 minutes",
+        "B": "Inhibit renal vasodilatory prostaglandins (PGE2/PGI2), precipitating acute prerenal vasoconstriction and accelerating CKD decline",
+        "C": "Cause massive hypercalcemia by activating parathyroid gland",
+        "D": "Directly stimulate aldosterone secretion",
+        "E": "Permanently stain the patient's sclera blue"
+      },
+      "correct_option": "C",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Epidemiology & Prevention of Renal Diseases - Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In patients with chronic metabolic acidosis secondary to CKD (serum bicarbonate < 22 mEq/L), oral Sodium Bicarbonate supplementation slows CKD decline by:",
+      "options": {
+        "A": "Directly dissolving glomerular crescents",
+        "B": "Converting all metabolic acids into inert nitrogen gas",
+        "C": "Stimulating massive erythropoietin secretion by osteocytes",
+        "D": "Suppressing acid-induced endothelin and aldosterone activation and blunting complement-mediated interstitial tubulopathy",
+        "E": "Inducing severe acute contraction alkalosis"
+      },
+      "correct_option": "D",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Tertiary Prevention of renal disease focuses primarily on which of the following clinical domains?",
+      "options": {
+        "A": "Promoting water fluoridation in communities",
+        "B": "Banning smoking in public parks across the country",
+        "C": "Mass screening of healthy 18-year-old military recruits",
+        "D": "Vaccinating all schoolchildren against rotavirus",
+        "E": "Managing ESRD complications, timely preparation for RRT, and preventing morbidity and mortality in advanced kidney failure"
+      },
+      "correct_option": "E",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "To optimize vascular access for maintenance hemodialysis, an Arteriovenous (AV) Fistula should ideally be constructed:",
+      "options": {
+        "A": "Immediately after the patient receives a kidney transplant",
+        "B": "On the day of the first emergency hemodialysis session",
+        "C": "At least 3 to 6 months before the anticipated start of hemodialysis to allow adequate vein maturation",
+        "D": "Only after all peripheral veins have thrombosed",
+        "E": "In the lower limb femoral artery in 100% of cases"
+      },
+      "correct_option": "C",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Why are Native Arteriovenous (AV) Fistulas strongly preferred over synthetic AV grafts and Central Venous Catheters (CVs) for long-term hemodialysis?",
+      "options": {
+        "A": "AV fistulas require zero surgical intervention to construct",
+        "B": "AV fistulas carry significantly lower rates of bacteremia, thrombosis, and intervention, ensuring superior long-term patency and survival",
+        "C": "Central catheters can be used indefinitely without infection risk",
+        "D": "Synthetic grafts never develop stenosis",
+        "E": "AV fistulas eliminate the need for dialyzer filters"
+      },
+      "correct_option": "E",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which routine vaccination is of paramount public health importance for all progressive CKD patients early in their disease course before starting dialysis?",
+      "options": {
+        "A": "Stimulating parathyroid hyperplasia to maximize PTH levels",
+        "B": "Increasing serum phosphate above 10 mg/dL",
+        "C": "Preventing bone fractures, hyperphosphatemia, and vascular calcification to lower excess cardiovascular mortality",
+        "D": "Completely replacing skeletal bone with titanium pins",
+        "E": "Eliminating dietary calcium intake from all food sources"
+      },
+      "correct_option": "E",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 28 covering high-yield concepts in Epidemiology & Prevention of Renal Diseases - Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Epidemiology & Prevention of Renal Diseases - Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What constitutes the gold-standard, cost-effective laboratory duo for annual CKD screening in high-risk patients (e.g., diabetics)?",
+      "options": {
+        "A": "Serum cystatin C combined with urine glucose dipstick",
+        "B": "24-hour urine collection for uric acid and sodium",
+        "C": "Routine plain abdominal X-ray (KUB) and serum potassium",
+        "D": "Renal core needle biopsy under ultrasound guidance",
+        "E": "Serum Creatinine (to calculate eGFR) PLUS a spot urine Albumin-to-Creatinine Ratio (ACR)"
+      },
+      "correct_option": "A",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Why is routine urine dipstick testing alone (without quantitative ACR) INADEQUATE for early screening of diabetic kidney disease?",
+      "options": {
+        "A": "Dipstick protein reagent pads are insensitive to albuminuria below 300 mg/L (they miss early Microalbuminuria, Stage A2)",
+        "B": "Dipsticks give false-positive readings in 100% of healthy patients",
+        "C": "Dipsticks detect only immunoglobulin light chains",
+        "D": "Dipsticks are destroyed by normal urine urea concentrations",
+        "E": "Dipstick testing takes 48 hours to yield results"
+      },
+      "correct_option": "A",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Regarding the health economics of End-Stage Renal Disease (ESRD), what remarkable disparity characterizes RRT funding worldwide?",
+      "options": {
+        "A": "Dialysis costs less than $10 per patient per year globally",
+        "B": "ESRD consumes approximately 5% to 7% of national healthcare budgets while patients represent less than 0.1% to 0.2% of the population",
+        "C": "Kidney disease is the least expensive chronic medical illness",
+        "D": "Developing nations spend 90% of their GDP on peritoneal dialysis",
+        "E": "RRT funding is entirely covered by international lottery funds"
+      },
+      "correct_option": "B",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Among the three modalities of Renal Replacement Therapy (Hemodialysis, Peritoneal Dialysis, and Kidney Transplantation), which modality provides the greatest long-term survival, quality of life, and cost-effectiveness?",
+      "options": {
+        "A": "Nocturnal home hemodialysis with bioartificial kidneys",
+        "B": "In-center maintenance hemodialysis 3 times weekly",
+        "C": "Continuous ambulatory peritoneal dialysis indefinitely",
+        "D": "Successful Kidney Transplantation",
+        "E": "Conservative medical management without RRT"
+      },
+      "correct_option": "D",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In Egypt and many developing nations, which RRT modality accounts for the overwhelming majority (>85-90%) of patients on chronic dialytic support?",
+      "options": {
+        "A": "Continuous Ambulatory Peritoneal Dialysis (CAPD)",
+        "B": "Automated Peritoneal Dialysis (APD)",
+        "C": "In-center Maintenance Hemodialysis",
+        "D": "Home Hemodialysis",
+        "E": "Preemptive pediatric kidney transplantation"
+      },
+      "correct_option": "C",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the primary public health barrier limiting the wider adoption of Peritoneal Dialysis (PD) in low-to-middle income countries?",
+      "options": {
+        "A": "National laws strictly forbid home-based medical treatments",
+        "B": "Complete lack of peritoneal membranes in elderly populations",
+        "C": "PD is 100% ineffective at removing urea and potassium",
+        "D": "PD requires general anesthesia for every daily exchange",
+        "E": "High cost of imported dialysate bags, lack of local manufacturing, risk of peritonitis, and shortage of trained nephrology nurses"
+      },
+      "correct_option": "E",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Epidemiology & Prevention of Renal Diseases - Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The International Society of Nephrology (ISN) launched the 'Oby25' Global Initiative, which aims to achieve which public health milestone?",
+      "options": {
+        "A": "Zero preventable deaths from Acute Kidney Injury (AKI) worldwide by the year 2025, particularly in low-resource settings",
+        "B": "Zero dialyzed patients in all European hospitals by 2025",
+        "C": "Reducing global salt intake to exactly zero grams by 2025",
+        "D": "Banning all pharmaceutical antibiotics by 2025",
+        "E": "Eradicating diabetes mellitus globally within 5 years"
+      },
+      "correct_option": "A",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In community-acquired Acute Kidney Injury (AKI) in developing countries, what preventable etiologies predominate compared to high-income nations?",
+      "options": {
+        "A": "Extensive multi-organ radiocontrast examinations",
+        "B": "Coronary artery bypass graft surgical ischemia",
+        "C": "Severe gastroenteritis with dehydration, malaria, snakebites, toxic herbal remedies, and septic obstetric complications",
+        "D": "High-dose chemotherapy for advanced multiple myeloma",
+        "E": "Solid organ transplant rejection crises"
+      },
+      "correct_option": "C",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the epidemiological distinction between Community-Acquired AKI (CA-AKI) and Hospital-Acquired AKI (HA-AKI)?",
+      "options": {
+        "A": "CA-AKI requires permanent hemodialysis in all cases",
+        "B": "CA-AKI has 100% mortality rate while HA-AKI has zero mortality",
+        "C": "HA-AKI is caused exclusively by snake venom",
+        "D": "CA-AKI is young, single-organ, hypovolemia-driven; HA-AKI is older, multi-organ ICU sepsis/toxins",
+        "E": "HA-AKI never involves tubular necrosis"
+      },
+      "correct_option": "D",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Which public health legal framework has markedly increased deceased donor kidney transplantation rates in Spain?",
+      "options": {
+        "A": "Restricting kidney transplantation strictly to patients aged >80",
+        "B": "Mandatory living donor nephrectomy for all prisoners",
+        "C": "Commercial sale of kidneys in open public markets",
+        "D": "Banning deceased organ donation completely",
+        "E": "Opt-Out (Presumed Consent) legislation with hospital transplant coordinators"
+      },
+      "correct_option": "E",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A 54-year-old diabetic male has eGFR 88 mL/min and persistent microalbuminuria (ACR 160 mg/g). What level of prevention and therapy is indicated?",
+      "options": {
+        "A": "Secondary Prevention; initiate SGLT2 inhibitor plus ACE inhibitor (or ARB) to retard progression",
+        "B": "Tertiary Prevention; refer for immediate emergency hemodialysis",
+        "C": "Primordial Prevention; no therapy needed since eGFR is normal",
+        "D": "Initiate high-dose steroids for minimal change disease",
+        "E": "Discontinue all antidiabetic medications immediately"
+      },
+      "correct_option": "E",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "An asymptomatic 62-year-old female with Stage G4 CKD (eGFR 22 mL/min) attends nephrology clinic. What tertiary prevention step is planned?",
+      "options": {
+        "A": "Place a temporary femoral hemodialysis catheter immediately today",
+        "B": "Plan and surgically create a non-dominant forearm Arteriovenous (AV) Fistula for maturation before ESRD",
+        "C": "Start high-dose NSAID analgesia for joint pain",
+        "D": "Administer live attenuated viral vaccines immediately",
+        "E": "Discontinue all blood pressure medications"
+      },
+      "correct_option": "B",
+      "explanation": "**Early CKD (G1-G3)**: • Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,\n\n**Tertiary Prevention**: • Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter).",
+      "masterclass_id": 33,
+      "masterclass_title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology"
+    }
+  ]
+}

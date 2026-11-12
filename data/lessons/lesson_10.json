@@ -1,0 +1,868 @@
+{
+  "id": 10,
+  "title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+  "department": "Physiology",
+  "department_desc": "Hemodynamics, autoregulation, GFR, tubular transport, countercurrent multiplier, acid-base and RFTs",
+  "booklet_pages": "Pages 37 - 40",
+  "pdf_pages": [
+    39,
+    40,
+    41,
+    42
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 10 - HIGH-YIELD RENAL HEMODYNAMICS & AUTOREGULATION MATRIX",
+  "summary_table": [
+    {
+      "domain": "Renal Blood Flow (RBF) &",
+      "content": "Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent"
+    },
+    {
+      "domain": "Distribution",
+      "content": "solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand."
+    },
+    {
+      "domain": "Measurement of RPF & GFR",
+      "content": "Para-aminohippuric acid (PAH) is freely filtered and actively secreted by organic At plasma PAH above Tm (~80 mg/min), secretion saturates anion transporters (OATs) in PCT with ~90% extraction. Clearance of PAH and C_PAH falls toward Inulin clearance (GFR). Inulin = gold"
+    },
+    {
+      "domain": "(Fick / PAH)",
+      "content": "standard for GFR (C_PAH) = eRPF (~600 mL/min). True RPF = eRPF / 0.90 (~660 mL/min). Filtration Fraction (FF) = GFR / RPF = 125 / 625 = ~20%. Rapid fast response (seconds). Intrinsic to vascular smooth Operates within Mean Arterial Pressure (MAP) 80 to 180 mmHg. Increased"
+    },
+    {
+      "domain": "Myogenic Autoregulation",
+      "content": "arterial pressure stretches vascular smooth muscle of AFFERENT arteriole →>"
+    },
+    {
+      "domain": "(Bayliss Effect)",
+      "content": "muscle (persists in completely denervated and isolated opens stretch-sensitive Ca2+ channels -> depolarization → Ca2+ influx →> perfused kidneys). vasoconstriction. Flow = Pressure / Resistance remains constant. Macula Densa (terminal TAL / early DCT) senses increased luminal NaCl delivery Negative feedback loop. High-protein diet and hyperglycemia"
+    },
+    {
+      "domain": "Tubuloglomerular Feedback",
+      "content": "via apical NKCC2 cotransport -> releases ATP / Adenosine -> activates A1 (via SGLT2) increase PCT Na+ reabsorption -> decrease distal"
+    },
+    {
+      "domain": "(TGF)",
+      "content": "adenosine receptors on extraglomerular mesangial / vascular cells -> selective NaCl -> blunt TGF -> cause hyperfiltration. AFFERENT arteriolar constriction -> lowers Pgc and GFR. Sympathetic nerves (alpha-1): constrict afferent > efferent > sharp drop in RBF &NSAIDs block protective prostaglandins -> unopposed afferent"
+    },
+    {
+      "domain": "Neurohormonal Regulation of",
+      "content": "GFR during hemorrhage. Angiotensin Il: constricts EFFERENT > afferent →>"
+    },
+    {
+      "domain": "RBF/GFR",
+      "content": "constriction -> acute renal failure in volume-depleted patients. preserves GFR despite low RPF -> raises FF. Prostaglandins (PGE2, PGI2): dilate afferent arteriole. NO: baseline vasodilation. ANP: dilates afferent & constricts"
+    },
+    {
+      "domain": "efferent -> increases GFR.",
+      "content": "Bilateral Renal Artery Stenosis: GFR depends entirely on Ang Il Triple Whammy: ACEi/ARB (blocks efferent constriction) + NSAID (blocks"
+    },
+    {
+      "domain": "Clinical Syndromes & Drug",
+      "content": "afferent dilation) + Diuretic (hypovolemia) -> dramatic drop in Pgc and GFR-> efferent constriction; giving ACE/ARB abolishes GFR and"
+    },
+    {
+      "domain": "Interactions",
+      "content": "causes acute renal failure. acute tubular necrosis. Hepatorenal Syndrome (HRS): extreme renal vasoconstriction secondary to splanchnic arterial vasodilation in cirrhosis."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In a healthy 70-kg adult male at rest, the normal Total Renal Blood Flow (RBF) averages approximately:",
+      "options": {
+        "A": "1200 to 1250 mL/min (20% to 25% of cardiac output)",
+        "B": "500 mL/min (10% of cardiac output)",
+        "C": "2500 mL/min (50% of cardiac output)",
+        "D": "125 mL/min (equal to GFR)",
+        "E": "650 mL/min (equal to renal plasma flow)"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "If a patient has an RBF of 1200 mL/min and a Hematocrit (Hct) of 45%, what is the Renal Plasma Flow (RPF)?",
+      "options": {
+        "A": "540 mL/min",
+        "B": "660 mL/min [calculated as RBF x (1 - Hct)]",
+        "C": "125 mL/min",
+        "D": "900 mL/min",
+        "E": "1200 mL/min"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Regarding intrarenal blood flow distribution, how is blood partitioned between the renal cortex and medulla?",
+      "options": {
+        "A": "50% Cortex and 50% Medulla equally",
+        "B": "10% Cortex and 90% Medulla",
+        "C": "90% to 93% to the Cortex, and only 7% to 10% to the Medulla",
+        "D": "70% Medulla and 30% Cortex",
+        "E": "The inner medulla receives the highest blood flow per gram of tissue"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Why does the renal cortex have an extremely high blood flow rate (~4 to 5 mL/g/min), exceeding that of the brain or heart?",
+      "options": {
+        "A": "To meet the highest metabolic oxygen consumption rate in the body",
+        "B": "To prevent oxygen free radical formation",
+        "C": "To cool the kidneys during physical exertion",
+        "D": "To supply high hydrostatic pressure required for continuous glomerular ultrafiltration",
+        "E": "To prevent red blood cell aggregation in the peritubular capillaries"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The Arterio-Venous oxygen extraction ratio across the normal kidney is remarkably low (~10-15%) primarily because:",
+      "options": {
+        "A": "Renal cells rely completely on anaerobic glycolysis",
+        "B": "The renal arterial blood contains very low dissolved oxygen",
+        "C": "Hemoglobin cannot release oxygen at normal renal parenchymal pH",
+        "D": "Renal capillary endothelium is completely impermeable to oxygen",
+        "E": "Blood flow is delivered far in excess of the kidney's basal metabolic oxygen"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Para-aminohippuric acid (PAH) clearance is clinically used to estimate Effective Renal Plasma Flow (eRPF) because PAH is:",
+      "options": {
+        "A": "Freely filtered and actively secreted by organic anion transporters with ~90% extraction",
+        "B": "Neither filtered nor secreted by the renal tubules",
+        "C": "Completely filtered and 100% reabsorbed in the proximal tubule",
+        "D": "Metabolized completely by renal tubular epithelial enzymes",
+        "E": "Bound irreversibly to serum albumin and trapped in capillaries"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "If urine PAH concentration is 14 mg/mL, urine flow rate is 1 mL/min, and arterial plasma PAH is 0.02 mg/mL, the calculated eRPF is:",
+      "options": {
+        "A": "125 mL/min",
+        "B": "700 mL/min [Clearance = (U_PAH x V) / P_PAH]",
+        "C": "600 mL/min",
+        "D": "1200 mL/min",
+        "E": "350 mL/min"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "To calculate the TRUE total Renal Plasma Flow from Effective RPF (eRPF), one must correct for the extraction ratio of PAH (~0.90) by:",
+      "options": {
+        "A": "Multiplying eRPF by 0.90",
+        "B": "Subtracting GFR from eRPF",
+        "C": "Dividing eRPF by 0.90 [True RPF = eRPF / 0.90]",
+        "D": "Adding Hematocrit to eRPF",
+        "E": "Multiplying eRPF by cardiac output"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "At high plasma concentrations of PAH exceeding the transport maximum (Tm_PAH ~80 mg/min), the clearance of PAH:",
+      "options": {
+        "A": "Increases exponentially toward total renal blood flow",
+        "B": "Remains completely constant regardless of concentration",
+        "C": "Drops immediately to zero",
+        "D": "Decreases progressively and approaches the clearance of Inulin (GFR",
+        "E": "Becomes equal to glucose clearance"
+      },
+      "correct_option": "D",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Filtration Fraction (FF) is defined as the ratio of GFR to RPF. Under normal resting baseline conditions, the normal FF is approximately:",
+      "options": {
+        "A": "5% (0.05)",
+        "B": "50% (0.50)",
+        "C": "85% (0.85)",
+        "D": "100% (1.00)",
+        "E": "20% (0.20, representing 125 / 625 mL/min)"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which of the following vascular sites within the renal circulation exhibits the HIGHEST resistance to blood flow?",
+      "options": {
+        "A": "Afferent and Efferent Arterioles combined (accounting for ~85% of total resistance)",
+        "B": "Renal vein and inferior vena cava",
+        "C": "Glomerular capillary bed",
+        "D": "Interlobar veins and stellate venules",
+        "E": "Arcuate arteries"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the average hydrostatic pressure inside the Glomerular Capillaries (Pgc) compared to typical systemic skeletal capillaries?",
+      "options": {
+        "A": "Much lower (~5 to 10 mmHg vs. 30 mmHg systemic)",
+        "B": "Significantly higher (~50 to 55 mmHg vs. ~20 to 25 mmHg systemic)",
+        "C": "Identical (~20 mmHg in both)",
+        "D": "Highly pulsatile ranging from 0 to 120 mmHg",
+        "E": "Equal to atmospheric pressure (0 mmHg)"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The hydrostatic pressure in the Peritubular Capillaries (Ppc) averages ~13 mmHg. This low pressure is functionally crucial because it:",
+      "options": {
+        "A": "Secondary filtration across tubule basolateral membranes",
+        "B": "Triggers immediate renin secretion from proximal tubule cells",
+        "C": "Together with high oncotic pressure, drives fluid reabsorption",
+        "D": "Causes retrograde flow into the glomerular capillary space",
+        "E": "Prevents potassium secretion in the collecting duct"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Why does the oncotic pressure inside efferent arterioles and peritubular capillaries (~32-35 mmHg) exceed systemic arterial oncotic pressure (~25-28 mmHg)?",
+      "options": {
+        "A": "Albumin is actively synthesized by podocyte pedicels",
+        "B": "Red blood cells lyse and release hemoglobin into the efferent plasma",
+        "C": "Efferent arterioles actively reabsorb globulins from the interstitium",
+        "D": "Loss of 20% protein-free plasma water during glomerular filtration",
+        "E": "Aldosterone directly stimulates plasma protein synthesis in capillaries"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Renal Circulation & Autoregulation of RBF - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "When Mean Arterial Pressure drops below the autoregulatory threshold (<75-80 mmHg), what happens to RBF and GFR?",
+      "options": {
+        "A": "RBF and GFR decrease sharply and proportionally with further pressure drops",
+        "B": "GFR increases paradoxically while RBF remains fixed",
+        "C": "Autoregulation maintains GFR perfectly down to 20 mmHg",
+        "D": "Efferent arterioles completely close, raising GFR to supranormal levels",
+        "E": "Renal vascular resistance doubles automatically"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Autoregulation of RBF and GFR persists intact in isolated, completely denervated, and perfused kidneys. This proven finding demonstrates that autoregulation is:",
+      "options": {
+        "A": "Entirely dependent on central sympathetic vasomotor tone",
+        "B": "An intrinsic intrarenal property independent of systemic renal nerves or circulating hormones",
+        "C": "Mediated solely by baroreceptors in the carotid sinus and aortic arch",
+        "D": "Governed by postganglionic parasympathetic vagal innervation",
+        "E": "Dependent on pituitary ADH secretion into renal lymphatics"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Myogenic Mechanism of renal autoregulation (Bayliss effect) operates in response to acute vascular stretch primarily by:",
+      "options": {
+        "A": "Stimulating nitric oxide release to dilate interlobar arteries",
+        "B": "Inhibiting voltage-gated calcium channels in the efferent arteriole",
+        "C": "Opening stretch-activated cation (Ca2+) channels in afferent arteriolar smooth muscle leading to vasoconstriction",
+        "D": "Releasing bradykinin from podocyte foot processes",
+        "E": "Inducing smooth muscle cell hyperpolarization via potassium efflux"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In the Myogenic Mechanism, an acute rise in renal arterial perfusion pressure causes vasoconstriction predominantly of which vascular segment?",
+      "options": {
+        "A": "Efferent arteriole exclusively",
+        "B": "Peritubular capillary network",
+        "C": "Arcuate vein",
+        "D": "Afferent Arteriole (increasing resistance in direct proportion to pressure)",
+        "E": "Descending vasa recta only"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "The sensor component in the Tubuloglomerular Feedback (TGF) mechanism is anatomically situated in the:",
+      "options": {
+        "A": "Podocyte pedicels of the visceral layer",
+        "B": "Brush border of early proximal convoluted tubules",
+        "C": "Endothelial cells of descending vasa recta",
+        "D": "Mesangial matrix of the urinary pole",
+        "E": "Macula Densa cells located at the junction of thick ascending limb and early DCT"
+      },
+      "correct_option": "D",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What luminal parameter is directly detected by Macula Densa cells to initiate Tubuloglomerular Feedback?",
+      "options": {
+        "A": "Rate of NaCl transport via apical NKCC2 cotransporters (reflecting tubular flow rate)",
+        "B": "Urinary glucose concentration exceeding the renal threshold",
+        "C": "Plasma oncotic pressure in the peritubular capillaries",
+        "D": "Dissolved nitrogen gas partial pressure",
+        "E": "Intraluminal pH independent of electrolyte concentration"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Renal Circulation & Autoregulation of RBF - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Activation of Tubuloglomerular Feedback by high distal NaCI delivery restores GFR to normal by inducing:",
+      "options": {
+        "A": "Dilation of the afferent arteriole",
+        "B": "Selective constriction of the arcuate vein",
+        "C": "Constriction of the Afferent Arteriole, reducing glomerular hydrostatic pressure (Pgc)",
+        "D": "Massive dilation of the efferent arteriole with afferent spasm",
+        "E": "Relaxation of mesangial cells to double the filtration area"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "How do Loop Diuretics (e.g., Furosemide) affect the Tubuloglomerular Feedback mechanism?",
+      "options": {
+        "A": "They stimulate TGF, causing profound afferent arteriolar constriction",
+        "B": "They destroy macula densa cell nuclei within minutes",
+        "C": "They convert adenosine into a potent systemic vasoconstrictor",
+        "D": "They block NKCC2 in macula densa, mimicking low tubular NaCl and blocking TF-mediated vasoconstriction",
+        "E": "They abolish all myogenic responses in systemic muscular arteries"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What is the primary physiological purpose of renal autoregulation of GFR and RBF?",
+      "options": {
+        "A": "To allow wide urine output swings when blood pressure changes",
+        "B": "To prevent arterial blood from ever reaching the renal medulla",
+        "C": "To stimulate continuous renin secretion during rest",
+        "D": "To link renal oxygen consumption directly to cardiac output",
+        "E": "To prevent huge water & solute excretion swings during BP changes"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "If Mean Arterial Pressure increases from 100 to 140 mmg within the autoregulatory range, what change occurs in Renal Vascular Resistance (RVR)?",
+      "options": {
+        "A": "RVR increases proportionally (Flow = Pressure / Resistance, maintaining constant RBF)",
+        "B": "RVR decreases by 50% to allow more blood flow",
+        "C": "RVR remains completely unchanged",
+        "D": "RVR drops to zero",
+        "E": "RVR fluctuates erratically without any relationship to pressure"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "High-protein intake and amino acid infusions cause a notable increase in GFR and RBF. What is the accepted mechanism?",
+      "options": {
+        "A": "Amino acids directly destroy the glomerular basement membrane",
+        "B": "Increased Na+-amino acid cotransport in PCT decreases distal NaCl delivery to macula densa, turning off TGF constriction",
+        "C": "Complete paralysis of the afferent arteriolar smooth muscle by urea",
+        "D": "Direct stimulation of renal sympathetic vasoconstrictor nerves",
+        "E": "Acute contraction of extraglomerular mesangial cells"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "In uncontrolled Diabetes Mellitus with severe hyperglycemia, early renal hyperfiltration (elevated GFR) is largely driven by:",
+      "options": {
+        "A": "Absence of efferent arteriolar smooth muscle in diabetics",
+        "B": "Retrograde blood flow from renal veins into glomeruli",
+        "C": "SGLT2 uptake in PCT drops distal NaCl, dilating afferent arterioles",
+        "D": "Hyperglycemia-induced apoptosis of juxtaglomerular cells",
+        "E": "Precipitation of glucose crystals in Bowman's capsule"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Renal Circulation & Autoregulation of RBF - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Under physiological low-to-moderate concentrations, Angiotensin Il selectively constricts which renal blood vessel?",
+      "options": {
+        "A": "Afferent arteriole exclusively",
+        "B": "Main renal vein",
+        "C": "Interlobar artery",
+        "D": "Peritubular capillary venule",
+        "E": "Efferent Arteriole (maintaining Pgc and GFR despite reduced renal plasma flow, thus increasing FF)"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "When Angiotensin Il constricts the efferent arteriole, what happens to the Filtration Fraction (FF = GFR / RPF)?",
+      "options": {
+        "A": "FF increases (because FR is preserved while RPF is reduced)",
+        "B": "FF drops to zero",
+        "C": "FF decreases markedly because GFR falls faster than RPF",
+        "D": "FF remains completely unaffected under all circumstances",
+        "E": "FF becomes negative"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Renal Prostaglandins (PGE2 and PGI2 / Prostacyclin) play a critical protective role in renal hemodynamics by:",
+      "options": {
+        "A": "Constricting afferent arterioles during sleep to prevent nocturia",
+        "B": "Dilating the Afferent Arteriole to counteract excessive vasoconstriction by Ang Il and sympathetic nerves",
+        "C": "Inducing generalized thrombosis of arcuate veins [DJ Blocking glomerular filtration of water and electrolytes",
+        "E": "Increasing peritubular capillary hydrostatic pressure above 60 mmHg"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Administration of Nonsteroidal Anti-inflammatory Drugs (NSAIDs) in a volume-depleted or heart failure patient can precipitate Acute Kidney Injury because NSAIDs:",
+      "options": {
+        "A": "Directly stimulate Angiotensin Il degradation",
+        "B": "Produce massive efferent arteriolar dilation via histamine release",
+        "C": "Inhibit COX enzymes, blocking protective vasodilator Prostaglandins and causing unopposed Afferent Arteriolar Constriction",
+        "D": "Prevent sodium reabsorption in the collecting ducts",
+        "E": "Lyse glomerular endothelial cells directly"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "How do ACE Inhibitors (e.g., Enalapril) or ARBs (e.g., Losartan) affect glomerular hemodynamics in bilateral renal artery stenosis?",
+      "options": {
+        "A": "They dilate afferent arterioles, raising FR to dangerously high levels",
+        "B": "They trigger acute papillary hypertrophy and renal vein stenosis",
+        "C": "They stimulate immediate release of endothelin from podocytes",
+        "D": "They block Ang II-mediated Efferent Arteriolar Constriction, causing glomerular capillary pressure (Pgc) and FR to plummet",
+        "E": "They convert efferent arterioles into non-contractile capillaries"
+      },
+      "correct_option": "D",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Atrial Natriuretic Peptide (ANP) regulates glomerular hemodynamics and promotes natriuresis by:",
+      "options": {
+        "A": "Constricting both afferent and efferent arterioles equally",
+        "B": "Dilating efferent arterioles while closing afferent arterioles",
+        "C": "Blocking all sodium channels in the proximal tubule exclusively",
+        "D": "Inhibiting cardiac output by 50%",
+        "E": "Dilating the Afferent Arteriole while constricting the Efferent Arteriole, markedly increasing Pgc and GFR"
+      },
+      "correct_option": "E",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Renal Circulation & Autoregulation of RBF - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Endothelin-1 (ET-1) is one of the most potent intrarenal paracrine agents known. Its primary physiological/pathological action is:",
+      "options": {
+        "A": "Selective dilation of interlobular arteries",
+        "B": "Profound, long-lasting Renal Vasoconstriction with marked reduction in RBF and GFR",
+        "C": "Increasing renal blood flow three-fold during septic shock",
+        "D": "Dissolving glomerular basement membrane immune complexes",
+        "E": "Stimulating massive potassium reabsorption in the macula densa"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Low-dose infusion of Dopamine (1 to 3 mcg/kg/min) is known to produce 'renal dose' vasodilation primarily by activating:",
+      "options": {
+        "A": "Beta-1 adrenergic receptors in the heart",
+        "B": "Alpha-2 adrenergic receptors in the peritubular capillaries",
+        "C": "Dopamine D1 receptors on renal vascular smooth muscle, increasing renal blood flow",
+        "D": "Muscarinic M3 receptors on podocyte pedicels",
+        "E": "Vasopressin V2 receptors in collecting ducts"
+      },
+      "correct_option": "C",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the hemodynamic effect of selective Afferent Arteriolar Constriction on RBF, Pgc, and GFR?",
+      "options": {
+        "A": "RBF increases, Pgo increases, and GFR increases",
+        "B": "RBF decreases, Pgc increases, and GFR increases",
+        "C": "RBF increases, Pge decreases, and FR is unchanged",
+        "D": "RBF decreases, Pgo decreases, and FR decreases",
+        "E": "RBF is unchanged, but Filtration Fraction increases to 100%"
+      },
+      "correct_option": "D",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What is the hemodynamic effect of selective Efferent Arteriolar Constriction on RBF, Pgc, and GFR?",
+      "options": {
+        "A": "RBF increases, Pgo decreases, and GFR decreases",
+        "B": "Both RBF and GFR drop to zero immediately",
+        "C": "Pgc drops below Bowman's space hydrostatic pressure",
+        "D": "Efferent resistance has zero effect on glomerular hemodynamics",
+        "E": "RBF decreases, Pge increases, and GFR initially increases (or is preserved), raising FF"
+      },
+      "correct_option": "D",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In Hepatorenal Syndrome (HRS), what is the underlying hemodynamic disturbance within the kidneys?",
+      "options": {
+        "A": "Extreme Renal Vasoconstriction (profoundly high renal vascular resistance) secondary to splanchnic arterial vasodilation",
+        "B": "Massive intrarenal vasodilation with renal blood flow exceeding 3000 mL/min",
+        "C": "Bilateral renal vein thrombosis with hemorrhagic infarction",
+        "D": "Direct toxic destruction of podocytes by bilirubin crystals",
+        "E": "Acute calcification of the interlobular arteries"
+      },
+      "correct_option": "A",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "The 'Triple Whammy' drug combination that carries an exceptionally high risk of inducing Acute Kidney Injury consists of:",
+      "options": {
+        "A": "Aspirin, Penicillin, and Paracetamol",
+        "B": "An ACE inhibitor/ARB (blocks efferent constriction) + NSAID (blocks afferent dilation) + Diuretic (causes hypovolemia)",
+        "C": "Beta-blocker, Calcium channel blocker, and Statin",
+        "D": "Insulin, Metformin, and Sulfonylurea",
+        "E": "Digoxin, Warfarin, and Heparin"
+      },
+      "correct_option": "B",
+      "explanation": "**Renal Blood Flow (RBF) &**: Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent\n\n**Distribution**: solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand.",
+      "masterclass_id": 10,
+      "masterclass_title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology"
+    }
+  ]
+}

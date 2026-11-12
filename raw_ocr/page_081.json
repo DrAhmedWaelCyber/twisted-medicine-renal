@@ -1,0 +1,981 @@
+{
+  "page" : 81,
+  "items" : [
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 21 MCQ Masterclass",
+      "x" : 0.2870370455075443,
+      "w" : 0.5082304372727495,
+      "h" : 0.013178294499715193,
+      "y" : 0.9774224804225952
+    },
+    {
+      "conf" : 1,
+      "text" : "Page 3 of 4",
+      "x" : 0.9351851848066375,
+      "w" : 0.06797966267327837,
+      "h" : 0.010438896814982113,
+      "y" : 0.9760174416923642
+    },
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine Medical Series • Glomerulonephritis, Nephrotic vs Nephritic Syndrome & Podocytopathies • Standard Practice Bank",
+      "x" : 0.3899177043981479,
+      "w" : 0.713991752960397,
+      "h" : 0.01031007766723635,
+      "y" : 0.9643217054186286
+    },
+    {
+      "conf" : 1,
+      "text" : "Q29. [2025 Exam] Rapidly Progressive Glomerulonephritis (RPGN \/",
+      "x" : 0.24999999569958853,
+      "w" : 0.4300411392307881,
+      "h" : 0.01028423786163335,
+      "y" : 0.9512532298090755
+    },
+    {
+      "conf" : 1,
+      "text" : "Q36. [2023 Exam] What is the most common form of primary",
+      "x" : 0.7078189251543211,
+      "w" : 0.39094649020980743,
+      "h" : 0.01028423786163335,
+      "y" : 0.951253229827244
+    },
+    {
+      "conf" : 1,
+      "text" : "Crescentic GN) is clinically and morphologically defined by:",
+      "x" : 0.22942387479423848,
+      "w" : 0.38888888089162,
+      "h" : 0.011666666666666603,
+      "y" : 0.9375000000968992
+    },
+    {
+      "conf" : 1,
+      "text" : "Glomerulonephritis worldwide, typically presenting in young adult",
+      "x" : 0.7242798406893003,
+      "w" : 0.42386828728441917,
+      "h" : 0.011666666666666714,
+      "y" : 0.9375000000726744
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Benign asymptomatic microscopic hematuria with 100% spontaneous",
+      "x" : 0.24794239399862805,
+      "w" : 0.4300411392307881,
+      "h" : 0.010174418555365716,
+      "y" : 0.9222383721656977
+    },
+    {
+      "conf" : 1,
+      "text" : "males with episodic macroscopic hematuria?",
+      "x" : 0.6584362103395063,
+      "w" : 0.29218105100235847,
+      "h" : 0.011673126220703045,
+      "y" : 0.9244412146070732
+    },
+    {
+      "conf" : 1,
+      "text" : "recovery",
+      "x" : 0.05967078100137177,
+      "w" : 0.05349793824009925,
+      "h" : 0.00872092988755968,
+      "y" : 0.9098837208817829
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] lgA Nephropathy (Berger's Disease)",
+      "x" : 0.6255144004115226,
+      "w" : 0.23045267548950954,
+      "h" : 0.010174418555365605,
+      "y" : 0.9091569766896802
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Massive selective albuminuria resolving within 48 hours of steroid therapy",
+      "x" : 0.26028807342249627,
+      "w" : 0.45473249903265034,
+      "h" : 0.011724805831909269,
+      "y" : 0.8983042638361258
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Minimal Change Disease",
+      "x" : 0.595679009430727,
+      "w" : 0.17489711593531965,
+      "h" : 0.010174418555365716,
+      "y" : 0.8960755813711241
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Isolated congenital renal artery narrowing without glomerular involvement",
+      "x" : 0.25925925706447195,
+      "w" : 0.45267486572265625,
+      "h" : 0.01175064563751227,
+      "y" : 0.8852357885354389
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Membranous Nephropathy",
+      "x" : 0.5997942364454734,
+      "w" : 0.1790123465675978,
+      "h" : 0.01030361758338072,
+      "y" : 0.8829295865143354
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Formation of large cholesterol gallstones in the renal pelvis",
+      "x" : 0.21707819390432087,
+      "w" : 0.36831273972613254,
+      "h" : 0.010174418555365716,
+      "y" : 0.8728197674963663
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Rapid progressive decline in renal function over weeks\/months, with",
+      "x" : 0.24176955150205756,
+      "w" : 0.41769548332166373,
+      "h" : 0.010174418555365605,
+      "y" : 0.8597383721656977
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Goodpasture Syndrome",
+      "x" : 0.5905349776748972,
+      "w" : 0.16049382671620105,
+      "h" : 0.010174418555365716,
+      "y" : 0.8582848838481105
+    },
+    {
+      "conf" : 1,
+      "text" : "histologic formation of 'Crescents' in >50% of glomeruli",
+      "x" : 0.1965020617026748,
+      "w" : 0.3271604813869644,
+      "h" : 0.01031007766723624,
+      "y" : 0.8481782947630574
+    },
+    {
+      "conf" : 1,
+      "text" : "Q30. [2024 Exam] Histologically, the diagnostic 'Crescents' in RPGN",
+      "x" : 0.2530864270233194,
+      "w" : 0.43621399117715703,
+      "h" : 0.011686045858595007,
+      "y" : 0.8241569769211742
+    },
+    {
+      "conf" : 1,
+      "text" : "are formed within Bowman's urinary space primarily by the",
+      "x" : 0.2232510224622773,
+      "w" : 0.38065841962706365,
+      "h" : 0.010174418555365716,
+      "y" : 0.810319767369186
+    },
+    {
+      "conf" : 1,
+      "text" : "proliferation of:",
+      "x" : 0.0853909447530865,
+      "w" : 0.10493826716201111,
+      "h" : 0.010174418555365716,
+      "y" : 0.7972383719718992
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Podocyte pedicels and smooth muscle cells of the afferent arteriole",
+      "x" : 0.24074073554526762,
+      "w" : 0.4156378500116696,
+      "h" : 0.010290697415669792,
+      "y" : 0.7826453488874352
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Endothelial cells and circulating erythrocytes",
+      "x" : 0.177983543930041,
+      "w" : 0.2901234416841711,
+      "h" : 0.010277777777777719,
+      "y" : 0.7695833331710658
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Proximal convoluted tubule brush border microvilli",
+      "x" : 0.19341564320987636,
+      "w" : 0.3209876534324022,
+      "h" : 0.010277777777777719,
+      "y" : 0.7565277776278316
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Parietal epithelial cells of Bowman's capsule and infiltrating",
+      "x" : 0.21707818469650217,
+      "w" : 0.36831273972613254,
+      "h" : 0.010277777777777719,
+      "y" : 0.7434722224387866
+    },
+    {
+      "conf" : 1,
+      "text" : "monocytes\/macrophages, mixed with fibrin strands",
+      "x" : 0.18518518010973953,
+      "w" : 0.3045267309032896,
+      "h" : 0.01027777777777783,
+      "y" : 0.7318055554705597
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Transitional epithelial cells from the ureter",
+      "x" : 0.166666670010288,
+      "w" : 0.26748971519230297,
+      "h" : 0.008888888888888835,
+      "y" : 0.7194444443692625
+    },
+    {
+      "conf" : 1,
+      "text" : "Q31. [2023 Exam] In Type | RPGN (Anti-GBM Disease \/ Goodpasture",
+      "x" : 0.254115233641975,
+      "w" : 0.4382715765035377,
+      "h" : 0.011757105721367789,
+      "y" : 0.6961563305505403
+    },
+    {
+      "conf" : 1,
+      "text" : "Syndrome), Immunofluorescence microscopy reveals which",
+      "x" : 0.22839505781893019,
+      "w" : 0.3868312715734326,
+      "h" : 0.0117312653859456,
+      "y" : 0.6830878550787164
+    },
+    {
+      "conf" : 1,
+      "text" : "diagnostic hallmark?",
+      "x" : 0.10596708055555548,
+      "w" : 0.14197530686480445,
+      "h" : 0.011705426110161676,
+      "y" : 0.6700193797069184
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Linear, smooth, continuous deposition of IgG (and C3) along the entire",
+      "x" : 0.24794239220679,
+      "w" : 0.4300411392307881,
+      "h" : 0.010290697415669792,
+      "y" : 0.6548546511489021
+    },
+    {
+      "conf" : 1,
+      "text" : "glomerular basement membrane",
+      "x" : 0.13271605264060343,
+      "w" : 0.1954732451049037,
+      "h" : 0.01027777777777783,
+      "y" : 0.6431944445294403
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Granular'starry-sky' deposits of C3 and IgG along the mesangium",
+      "x" : 0.234567907956104,
+      "w" : 0.4032921461189318,
+      "h" : 0.011666666666666714,
+      "y" : 0.6308333332585692
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Negative staining for all immunoglobulins (pauci-immune)",
+      "x" : 0.2129629610082305,
+      "w" : 0.36008230245338296,
+      "h" : 0.011692506472269715,
+      "y" : 0.6177648581001046
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Mesangial IgA clumping without capillary loop involvement",
+      "x" : 0.2160493888203016,
+      "w" : 0.36625513040794516,
+      "h" : 0.01027777777777783,
+      "y" : 0.6054166664929136
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Clumpy subepithelial deposits with spike formation",
+      "x" : 0.19341564320987636,
+      "w" : 0.3209876534324022,
+      "h" : 0.010290697415669792,
+      "y" : 0.5923546511307335
+    },
+    {
+      "conf" : 1,
+      "text" : "Q32. [2022 Exam] Goodpasture Syndrome causes rapidly progressive",
+      "x" : 0.2582304582561727,
+      "w" : 0.44650206175990076,
+      "h" : 0.011692505942450526,
+      "y" : 0.5697351420436811
+    },
+    {
+      "conf" : 1,
+      "text" : "GN and alveolar hemorrhage (hemoptysis) because:",
+      "x" : 0.20473251594650188,
+      "w" : 0.33950616128789557,
+      "h" : 0.01027777777777783,
+      "y" : 0.5559722220845974
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Autoantibodies target NC1 of alpha-3 Type IV Collagen shared by GBM and",
+      "x" : 0.2613168648148151,
+      "w" : 0.4567900843590311,
+      "h" : 0.010174418555365716,
+      "y" : 0.5414244185804264
+    },
+    {
+      "conf" : 1,
+      "text" : "alveoli",
+      "x" : 0.05658436268004115,
+      "w" : 0.04320987665428306,
+      "h" : 0.00872092988755968,
+      "y" : 0.5305232558866279
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Streptococcal pyrogenic toxins dissolve tracheal and ureteral cartilage",
+      "x" : 0.24897120061728367,
+      "w" : 0.4320987725407822,
+      "h" : 0.010174418555365605,
+      "y" : 0.5167151163517443
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] High ADH levels cause water intoxication in lungs and kidneys",
+      "x" : 0.2294238748628256,
+      "w" : 0.3930040995279948,
+      "h" : 0.010174418555365716,
+      "y" : 0.5036337210513566
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Uric acid crystals embolize simultaneously to alveoli and glomeruli",
+      "x" : 0.23765431724965722,
+      "w" : 0.40946499806530073,
+      "h" : 0.011757105721367789,
+      "y" : 0.4913436693525605
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Both organs undergo acute hypertensive fibrinoid necrosis",
+      "x" : 0.21502058068415625,
+      "w" : 0.3641975210897577,
+      "h" : 0.010174418555365605,
+      "y" : 0.478924418659157
+    },
+    {
+      "conf" : 1,
+      "text" : "Q37. [2022 Exam] How does the timing of Gross Hematuria in IgA",
+      "x" : 0.7232510358367625,
+      "w" : 0.4218107019580385,
+      "h" : 0.011686045858595118,
+      "y" : 0.8241569768727246
+    },
+    {
+      "conf" : 1,
+      "text" : "Nephropathy differ from PSGN?",
+      "x" : 0.6183127606652948,
+      "w" : 0.20781892500583488,
+      "h" : 0.010174418555365716,
+      "y" : 0.8103197675629845
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] lgA nephropathy develops 6 weeks post-impetigo; PSGN within 12 hours",
+      "x" : 0.7335391020919066,
+      "w" : 0.4465020617599008,
+      "h" : 0.010174418555365716,
+      "y" : 0.7957848837936046
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] |gA nephropathy is synpharyngitic (during\/1-2 days post-URI); PSGN is",
+      "x" : 0.728395068998628,
+      "w" : 0.4362139911771571,
+      "h" : 0.010290697945488758,
+      "y" : 0.7826453487497058
+    },
+    {
+      "conf" : 1,
+      "text" : "1-3 weeks post-infection",
+      "x" : 0.5925925952674895,
+      "w" : 0.16049382671620116,
+      "h" : 0.010174418555365605,
+      "y" : 0.7710755814680232
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] IgA nephropathy never produces hematuria, only pure glucosuria",
+      "x" : 0.7139917763374484,
+      "w" : 0.40740741273892,
+      "h" : 0.01030361758338083,
+      "y" : 0.7579295866536281
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] PSGN hematuria occurs exclusively during heavy exercise in hot weather",
+      "x" : 0.733539087208505,
+      "w" : 0.4465020617599007,
+      "h" : 0.011731265915764677,
+      "y" : 0.7455878549591557
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Both conditions occur strictly 24 hours prior to viral inoculation",
+      "x" : 0.7047325167695471,
+      "w" : 0.38888888089162,
+      "h" : 0.008746769693162681,
+      "y" : 0.7325710594861349
+    },
+    {
+      "conf" : 1,
+      "text" : "Q38. [2021 Exam] Immunofluorescence microscopy in Berger's",
+      "x" : 0.7160493886145403,
+      "w" : 0.40740741273892,
+      "h" : 0.0117571051915486,
+      "y" : 0.6961563305247522
+    },
+    {
+      "conf" : 1,
+      "text" : "Disease (IgA Nephropathy) definitively demonstrates:",
+      "x" : 0.6882716092849794,
+      "w" : 0.34773662255245175,
+      "h" : 0.010174418555365605,
+      "y" : 0.6838662791242733
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Diffuse linear capillary wall IgG deposition",
+      "x" : 0.6471193460562414,
+      "w" : 0.26954732451049035,
+      "h" : 0.011666666666666714,
+      "y" : 0.6686111112950959
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Granular mesangial deposition of IgA (often with C3) in the mesangial",
+      "x" : 0.7242798282578876,
+      "w" : 0.4279835059207939,
+      "h" : 0.01027777777777783,
+      "y" : 0.6562499999273256
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Negative immunofluorescence for all antibodies",
+      "x" : 0.6635802519547322,
+      "w" : 0.3024691215851022,
+      "h" : 0.010277777777777719,
+      "y" : 0.6315277775793819
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Pure subepithelial IgM deposits",
+      "x" : 0.6172839541838133,
+      "w" : 0.21399175296039707,
+      "h" : 0.01027777777777783,
+      "y" : 0.6184722220845974
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Heavy C1q staining in the parietal epithelium",
+      "x" : 0.651234571424897,
+      "w" : 0.2818930044114215,
+      "h" : 0.01027777777777783,
+      "y" : 0.605416666474745
+    },
+    {
+      "conf" : 1,
+      "text" : "Q39. [2025 Exam] In Systemic Lupus Erythematosus (SLE), which",
+      "x" : 0.7211934191529492,
+      "w" : 0.4218107019580385,
+      "h" : 0.013081395361158599,
+      "y" : 0.5690406974942959
+    },
+    {
+      "conf" : 1,
+      "text" : "histological class of Lupus Nephritis is the most common, most",
+      "x" : 0.7170781824074075,
+      "w" : 0.41358021670167544,
+      "h" : 0.011666666666666714,
+      "y" : 0.5566666667414308
+    },
+    {
+      "conf" : 1,
+      "text" : "severe, and carries the worst prognosis?",
+      "x" : 0.6430041108024693,
+      "w" : 0.2654320818823088,
+      "h" : 0.01027777777777783,
+      "y" : 0.5429166668773838
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Class I: Minimal mesangial lupus nephritis",
+      "x" : 0.6460905395061727,
+      "w" : 0.2716049338286778,
+      "h" : 0.010174418555365716,
+      "y" : 0.5283430233284883
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Class IV: Diffuse Proliferative Lupus Nephritis (showing wire-loop lesions,",
+      "x" : 0.7345678937585737,
+      "w" : 0.4485596470862816,
+      "h" : 0.010174418555365605,
+      "y" : 0.515261627882752
+    },
+    {
+      "conf" : 1,
+      "text" : "extensive subendothelial immune deposits, and crescents)",
+      "x" : 0.6841563743055556,
+      "w" : 0.34362137992427033,
+      "h" : 0.010174418555365605,
+      "y" : 0.5036337208393895
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Class II: Mesangial proliferative lupus nephritis",
+      "x" : 0.6594650242541151,
+      "w" : 0.29423868431235267,
+      "h" : 0.010174418555365605,
+      "y" : 0.4905523256722384
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Class III: Focal lupus nephritis",
+      "x" : 0.6111111078189302,
+      "w" : 0.19753085442309104,
+      "h" : 0.010174418555365605,
+      "y" : 0.47892441853197676
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Class V: Membranous lupus nephritis",
+      "x" : 0.6316872390946504,
+      "w" : 0.2386831127622593,
+      "h" : 0.010174418555365605,
+      "y" : 0.46584302342538764
+    },
+    {
+      "conf" : 1,
+      "text" : "Q40. [Faculty Exam] The classic 'Wire-Loop' lesion observed in diffuse",
+      "x" : 0.7386831241426614,
+      "w" : 0.4485596470862814,
+      "h" : 0.011666666666666714,
+      "y" : 0.443333333403918
+    },
+    {
+      "conf" : 1,
+      "text" : "proliferative Lupus Nephritis (Class IV) is morphologically caused by:",
+      "x" : 0.7355967003772295,
+      "w" : 0.4465020617599008,
+      "h" : 0.01030361758338083,
+      "y" : 0.4295704133948215
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Massive subendothelial immune complex deposits between endothelial",
+      "x" : 0.7294238610082306,
+      "w" : 0.43827157650353765,
+      "h" : 0.011724805831909157,
+      "y" : 0.41419573616387423
+    },
+    {
+      "conf" : 1,
+      "text" : "cells and the GBM, circumferentially thickening capillary walls",
+      "x" : 0.6923868358281893,
+      "w" : 0.3641975210897578,
+      "h" : 0.013152454694112192,
+      "y" : 0.40185400500684054
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Proliferation of myofibroblasts in the renal capsule",
+      "x" : 0.6718107049039779,
+      "w" : 0.3189300201224081,
+      "h" : 0.010174418555365716,
+      "y" : 0.3902616279796511
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Subepithelial humps protruding into the urinary space",
+      "x" : 0.6790123512345678,
+      "w" : 0.33333333333333337,
+      "h" : 0.010174418555365605,
+      "y" : 0.377180232630814
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Calcification of the peritubular capillaries",
+      "x" : 0.6440329251543209,
+      "w" : 0.267489715192303,
+      "h" : 0.010297157499525311,
+      "y" : 0.3640374678280654
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Hyalinization of the efferent arteriole in diabetes",
+      "x" : 0.6615226287037038,
+      "w" : 0.3024691215851023,
+      "h" : 0.010277777777777719,
+      "y" : 0.35097222230888975
+    },
+    {
+      "conf" : 1,
+      "text" : "Q33. [2021 Exam] Type III RPGN (Pauci-Immune Crescentic GN) is",
+      "x" : 0.24794238418209885,
+      "w" : 0.42592592059441337,
+      "h" : 0.011666666666666714,
+      "y" : 0.44333333335546843
+    },
+    {
+      "conf" : 1,
+      "text" : "characteristically distinguished by negative\/scant",
+      "x" : 0.19547324561042542,
+      "w" : 0.32510287206877697,
+      "h" : 0.01030361758338083,
+      "y" : 0.4295704133948215
+    },
+    {
+      "conf" : 1,
+      "text" : "immunofluorescence and high association with:",
+      "x" : 0.18930041543209863,
+      "w" : 0.31275719216784587,
+      "h" : 0.011627906163533486,
+      "y" : 0.4156976744912791
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Anti-Streptolysin O titers > 1000 Todd units",
+      "x" : 0.17078189759945112,
+      "w" : 0.27572015246505255,
+      "h" : 0.010277777777777719,
+      "y" : 0.4004166668625548
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Hepatitis B surface antigenemia",
+      "x" : 0.13991769814814808,
+      "w" : 0.21399175296039702,
+      "h" : 0.008888888888888835,
+      "y" : 0.3880555556159086
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Elevated lgE levels and peripheral eosinophilia",
+      "x" : 0.17901234933127563,
+      "w" : 0.29218105100235847,
+      "h" : 0.01027777777777783,
+      "y" : 0.3756944443510938
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Anti-Neutrophil Cytoplasmic Antibodies (c-ANCA \/ PR3 or p-ANCA \/ MPO),",
+      "x" : 0.26028807342249627,
+      "w" : 0.45473249903265034,
+      "h" : 0.01027777777777783,
+      "y" : 0.3626388887291291
+    },
+    {
+      "conf" : 1,
+      "text" : "associated with systemic vasculitis",
+      "x" : 0.13888888623971202,
+      "w" : 0.2119341436422096,
+      "h" : 0.01027777777777783,
+      "y" : 0.35097222224227154
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Positive blood cultures for Pseudomonas aeruginosa",
+      "x" : 0.19855967630315483,
+      "w" : 0.3312757000233392,
+      "h" : 0.010277777777777719,
+      "y" : 0.3379166668625548
+    },
+    {
+      "conf" : 1,
+      "text" : "Q34. [2020 Exam] Membranoproliferative Glomerulonephritis (MPGN)",
+      "x" : 0.25925926666666643,
+      "w" : 0.4485596470862815,
+      "h" : 0.011627906163533486,
+      "y" : 0.3154069765503876
+    },
+    {
+      "conf" : 1,
+      "text" : "characteristically shows which distinctive light microscopic",
+      "x" : 0.2263374421124831,
+      "w" : 0.3868312715734326,
+      "h" : 0.011750645637512158,
+      "y" : 0.30226421156146027
+    },
+    {
+      "conf" : 1,
+      "text" : "appearance on silver stain?",
+      "x" : 0.12448559975994501,
+      "w" : 0.18312756520397258,
+      "h" : 0.010277777777777719,
+      "y" : 0.2884722224542386
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] 'Tram-track' or 'double-contour' appearance caused by mesangial cell",
+      "x" : 0.2448559617798355,
+      "w" : 0.4238682872844192,
+      "h" : 0.01027777777777783,
+      "y" : 0.2740277776123796
+    },
+    {
+      "conf" : 1,
+      "text" : "interposition splitting the capillary basement membrane",
+      "x" : 0.19855967630315483,
+      "w" : 0.3312757000233392,
+      "h" : 0.01027777777777783,
+      "y" : 0.2623611113193206
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Complete absence of basement membrane on all loops",
+      "x" : 0.20576132119341556,
+      "w" : 0.3456790132342644,
+      "h" : 0.010277777777777719,
+      "y" : 0.24930555575791785
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] 'Spike and dome' subepithelial projections",
+      "x" : 0.17078189759945112,
+      "w" : 0.27572015246505255,
+      "h" : 0.01028423786163335,
+      "y" : 0.2362467701909246
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Pure crescent formation without capillary wall alteration",
+      "x" : 0.20679012780349784,
+      "w" : 0.34773662255245186,
+      "h" : 0.01031007766723635,
+      "y" : 0.22317829476305734
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Onion-skin hyperplastic arteriolosclerosis",
+      "x" : 0.1656378560013719,
+      "w" : 0.2654320818823089,
+      "h" : 0.01027777777777783,
+      "y" : 0.21152777783645915
+    },
+    {
+      "conf" : 1,
+      "text" : "Q35. [2024 Exam] In Type I| MPGN (Dense Deposit Disease), the",
+      "x" : 0.24176427612667606,
+      "w" : 0.41373750698641415,
+      "h" : 0.013833866119384752,
+      "y" : 0.18843590622941092
+    },
+    {
+      "conf" : 1,
+      "text" : "primary pathogenetic defect is continuous alternative complement",
+      "x" : 0.2499999931069961,
+      "w" : 0.4300411392307882,
+      "h" : 0.011673126220703156,
+      "y" : 0.17444121448594901
+    },
+    {
+      "conf" : 1,
+      "text" : "pathway activation driven by:",
+      "x" : 0.13271605264060343,
+      "w" : 0.1954732451049037,
+      "h" : 0.010310077137417273,
+      "y" : 0.1606782945284289
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] C3 Nephritic Factor (C3NeF), an autoantibody stabilizing C3 convertase",
+      "x" : 0.25102880113168735,
+      "w" : 0.436213991177157,
+      "h" : 0.011627906163533486,
+      "y" : 0.1468023255087209
+    },
+    {
+      "conf" : 1,
+      "text" : "(C3bBb) leading to profound hypocomplementemia",
+      "x" : 0.18518518899176944,
+      "w" : 0.3045267309032896,
+      "h" : 0.01175064563751227,
+      "y" : 0.13523578841431494
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Circulating immune complexes of Hepatitis C and IgG",
+      "x" : 0.2006172854938271,
+      "w" : 0.33539094265152075,
+      "h" : 0.01171188566419823,
+      "y" : 0.12358850157203771
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Anti-GBM antibodies targeting podocyte integrins",
+      "x" : 0.18930041543209863,
+      "w" : 0.31275719216784587,
+      "h" : 0.010174418555365716,
+      "y" : 0.10973837214752896
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Monoclonal lgA overproduction in intestinal Peyer patches",
+      "x" : 0.21399176502057626,
+      "w" : 0.3621399117715704,
+      "h" : 0.010174418555365716,
+      "y" : 0.09665697668968026
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Direct bacterial exotoxin destruction of the lamina densa",
+      "x" : 0.2078189256687244,
+      "w" : 0.34979423187063924,
+      "h" : 0.00872092988755968,
+      "y" : 0.08430232550872085
+    },
+    {
+      "conf" : 1,
+      "text" : "Q41. [Core Exam] A 4-year-old boy has anasarca, normal BP and",
+      "x" : 0.7181069889574763,
+      "w" : 0.41563785001166964,
+      "h" : 0.011627906163533597,
+      "y" : 0.3154069766957365
+    },
+    {
+      "conf" : 1,
+      "text" : "complement. Urinalysis: 4+ protein, oval fat bodies, no RBCs. LM:",
+      "x" : 0.7242798424554181,
+      "w" : 0.4238682872844193,
+      "h" : 0.011750645637512158,
+      "y" : 0.3022642117068091
+    },
+    {
+      "conf" : 1,
+      "text" : "normal glomeruli; IF: negative. Diagnosis and EM finding:",
+      "x" : 0.700617290226337,
+      "w" : 0.3765432009906887,
+      "h" : 0.01027777777777783,
+      "y" : 0.28847222240578907
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Minimal Change Disease; diffuse effacement of podocyte foot processes",
+      "x" : 0.7366255218106992,
+      "w" : 0.4444444284499066,
+      "h" : 0.01027777777777783,
+      "y" : 0.2740277777395598
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Post-Streptococcal GN; subepithelial electron-dense humps",
+      "x" : 0.6985596754372427,
+      "w" : 0.37242798235431407,
+      "h" : 0.0102971574995252,
+      "y" : 0.26096253235362055
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Membranous Nephropathy; subepithelial spikes on silver stain",
+      "x" : 0.7037036989197534,
+      "w" : 0.38271602894525103,
+      "h" : 0.010174418555365605,
+      "y" : 0.24781976738735467
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Focal Segmental Glomerulosclerosis; segmental hyalinosis",
+      "x" : 0.6965020637517145,
+      "w" : 0.36831273972613265,
+      "h" : 0.010174418555365716,
+      "y" : 0.23473837221414734
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Alport Syndrome; splitting and basket-weave appearance of GBM",
+      "x" : 0.7109053434499317,
+      "w" : 0.40123456079255104,
+      "h" : 0.010310077137417273,
+      "y" : 0.2231782945768785
+    },
+    {
+      "conf" : 1,
+      "text" : "Q42. [Clini Exam] A 24-year-old male has hemoptysis, smoky urine,",
+      "x" : 0.7283950661179697,
+      "w" : 0.4320987725407823,
+      "h" : 0.011666666666666714,
+      "y" : 0.18749999980620158
+    },
+    {
+      "conf" : 1,
+      "text" : "and rapid Cr rise to 5.2. Biopsy: crescents in 80% glomeruli; IF: linear",
+      "x" : 0.7345678999314129,
+      "w" : 0.4444444284499067,
+      "h" : 0.011673126220703156,
+      "y" : 0.17444121448594901
+    },
+    {
+      "conf" : 1,
+      "text" : "IgG along capillary walls. Diagnosis:",
+      "x" : 0.6316872397633745,
+      "w" : 0.2427983553904407,
+      "h" : 0.011698966026306157,
+      "y" : 0.1613727391610375
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Granulomatosis with Polyangiitis (Wegener, pauci-immune ANCA-positive)",
+      "x" : 0.7376543266718107,
+      "w" : 0.45473249903265034,
+      "h" : 0.011627906163533597,
+      "y" : 0.1468023256540697
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Post-Streptococcal Glomerulonephritis with nephrotic transformation",
+      "x" : 0.7232510341306584,
+      "w" : 0.42592592059441337,
+      "h" : 0.011750645637512158,
+      "y" : 0.13523578837797773
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] lgA Nephropathy with secondary acute tubular necrosis",
+      "x" : 0.685185191015089,
+      "w" : 0.3497942318706393,
+      "h" : 0.010174418555365716,
+      "y" : 0.12136627914244197
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Diabetic Kimmelstiel-Wilson nodular nephropathy",
+      "x" : 0.6666666705761317,
+      "w" : 0.3127571921678459,
+      "h" : 0.010174418555365605,
+      "y" : 0.1082848837754361
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Goodpasture Syndrome (Anti-GBM Antibody-mediated RPGN Type I)",
+      "x" : 0.7191357972479424,
+      "w" : 0.4176954833216636,
+      "h" : 0.010290697415669792,
+      "y" : 0.09514534888743509
+    },
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal Pathology Master Class • Strictly Grounded in Faculty & Board gm Past Papers",
+      "x" : 0.318930048302469,
+      "w" : 0.5720164460955927,
+      "h" : 0.017519379191928475,
+      "y" : 0.014573643611020815
+    },
+    {
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321,
+      "w" : 0.19135801447262546,
+      "h" : 0.007344961166381836,
+      "y" : 0.01966085278616625
+    }
+  ]
+}

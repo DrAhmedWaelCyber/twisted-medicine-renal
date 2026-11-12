@@ -1,0 +1,887 @@
+{
+  "id": 30,
+  "title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+  "department": "Clinical Biochemistry",
+  "department_desc": "Purine metabolism, uric acid, clinical enzymology, biomarkers, inborn errors and stone chemistry",
+  "booklet_pages": "Pages 117 - 120",
+  "pdf_pages": [
+    119,
+    120,
+    121,
+    122
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 31 — HIGH-YIELD URINALYSIS, INBORN ERRORS & CALCULI MATRIX",
+  "summary_table": [
+    {
+      "domain": "Category / Condition",
+      "content": "ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast"
+    },
+    {
+      "domain": "Proteinuria & Bence-Jones",
+      "content": "filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts."
+    },
+    {
+      "domain": "Multiple Myeloma",
+      "content": "Dipstick: negative/trace (detects only albumin)."
+    },
+    {
+      "domain": "reabsorption.",
+      "content": "Ferric Chloride (FeCI3) test: transient olive-green Musty / mousy urine odor (phenylacetate), severe"
+    },
+    {
+      "domain": "Deficiency of hepatic Phenylalanine",
+      "content": "color."
+    },
+    {
+      "domain": "Phenylketonuria (PKU)",
+      "content": "intellectual disability, microcephaly, fair hair/skin Hydroxylase (PAH) or BH4 (tetrahydrobiopterin)"
+    },
+    {
+      "domain": "Aromatic Amino Acid",
+      "content": "Guthrie Test: Bacillus subtilis growth restored by"
+    },
+    {
+      "domain": "cofactor. AR.",
+      "content": "(hypopigmentation). elevated blood phenylalanine. Urine turns dark brown/black on standing or alkalinization. Benedict's Test: strongly positive with dark"
+    },
+    {
+      "domain": "Alkaptonuria",
+      "content": "Deficiency of Homogentisate 1,2-Dioxygenase supernatant (HGA is a reducing agent). Ochronosis: blue-black pigment in cartilage/sclera,"
+    },
+    {
+      "domain": "Tyrosine Catabolism",
+      "content": "crippling arthritis. FeCI3 test: transient purple/black. 2,4-DNPH test: yellow-white precipitate with Sweet maple syrup / burnt sugar odor. Lethargy, vomiting,"
+    },
+    {
+      "domain": "Maple Syrup Urine (MSUD)",
+      "content": "branched-chain keto acids. Defect in Branched-Chain Alpha-Keto Acid severe ketoacidosis, neurotoxicity in neonates. Leu/lle/Val"
+    },
+    {
+      "domain": "Branched-Chain Defect",
+      "content": "Dehydrogenase (BCKDH) complex. AR. Rothera test: positive for ketones. accumulate. Rx: restrict BCAA (Leu, lle, Val). Cystinuria: defect in renal proximal COLA Cystinuria: recurrent radiopaque hexagonal cystine"
+    },
+    {
+      "domain": "Cystinuria &",
+      "content": "Brand's Test: sodium cyanide + nitroprusside yields calculi."
+    },
+    {
+      "domain": "Homocystinuria",
+      "content": "brilliant cherry-red/magenta color in both. Homocystinuria: ectopia lentis (downward), thrombosis, Homocystinuria: Cystathionine beta-synthase Microscopy: hexagonal flat plates in cystinuria."
+    },
+    {
+      "domain": "defect.",
+      "content": "Marfanoid habitus. Carbonate: effervescence with HCI."
+    },
+    {
+      "domain": "Renal Calculi Chemical",
+      "content": "Guides metabolic therapy: alkalinization for urate/cystine; Calcium: white ppt with ammonium oxalate. Chemical identification of cations (Ca2+, Mg2+,"
+    },
+    {
+      "domain": "Analysis",
+      "content": "NH4+) and anions (Oxalate, Phosphate, Urate, thiazides for calcium; antibiotics & surgery for infected Oxalate: decolorizes KMnO4."
+    },
+    {
+      "domain": "Qualitative In Vitro Tests",
+      "content": "struvite. Phosphate: yellow ppt with ammonium molybdate. Urate: purple Murexide test."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which pigment is primarily responsible for the normal physiological yellow-amber color of freshly voided human urine?",
+      "options": {
+        "A": "Bilirubin",
+        "B": "Urochrome (a metabolic product of hemoglobin breakdown)",
+        "C": "Porphobilinogen",
+        "D": "Indican",
+        "E": "Homogentisic acid"
+      },
+      "correct_option": "B",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "A urine specimen that turns dark brown or black upon standing exposed to air or when alkalinized is characteristic of:",
+      "options": {
+        "A": "Alkaptonuria (accumulation and oxidation of homogentisic acid)",
+        "B": "Diabetes mellitus with glucosuria",
+        "C": "Maple syrup urine disease",
+        "D": "Cystinuria with hexagonal stones",
+        "E": "Acute intermittent porphyria"
+      },
+      "correct_option": "C",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "On standard commercial urine test strips (dipstick), what is the biochemical principle of the Protein test pad?",
+      "options": {
+        "A": "Copper reduction of alkaline tartrate reagent",
+        "B": "'Protein error of indicators' using tetrabromphenol blue (pH 3.0)",
+        "C": "Immunoturbidimetric monoclonal antibody agglutination",
+        "D": "Diazonium salt coupling producing an azobilirubin dye",
+        "E": "Pseudoperoxidase activity oxidizing tetramethylbenzidine"
+      },
+      "correct_option": "E",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Standard urine dipstick protein test pads are primarily sensitive to which protein and may completely miss light chains?",
+      "options": {
+        "A": "Tamm-Horsfall mucoprotein (Uromodulin)",
+        "B": "Beta-2 Microglobulin",
+        "C": "Bence-Jones immunoglobulin light chains",
+        "D": "Albumin (highly sensitive to albumin, insensitive to globulins)",
+        "E": "Alpha-1 Microglobulin"
+      },
+      "correct_option": "E",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the primary diagnostic utility of the Sulfosalicylic Acid (SSA) precipitation test in urinalysis?",
+      "options": {
+        "A": "It selectively detects only glucose and galactose",
+        "B": "It detects only Bence-Jones protein and is negative for albumin",
+        "C": "It differentiates conjugated bilirubin from urobilinogen",
+        "D": "It measures the exact quantitative GFR in mL/min",
+        "E": "It precipitates ALL urinary proteins (albumin, globulins, Bence-Jones, glycoproteins)"
+      },
+      "correct_option": "E",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the unique classical thermal solubility characteristic of Bence-Jones Protein in Multiple Myeloma?",
+      "options": {
+        "A": "Precipitates at 100°C and dissolves upon cooling to 0°C",
+        "B": "Remains permanently insoluble at all temperatures above 37°C",
+        "C": "Precipitates at 40-60°C, redissolves at 100°C, reprecipitates at 60°C",
+        "D": "Dissolves only in 100% concentrated hydrochloric acid",
+        "E": "Evaporates into gas at body temperature"
+      },
+      "correct_option": "B",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In patients with Multiple Myeloma, what is the chemical nature of Bence-Jones Protein excreted in urine?",
+      "options": {
+        "A": "Monoclonal intact IgG immunoglobulin molecules",
+        "B": "Polyclonal IgA secretory components",
+        "C": "Polymerized Tamm-Horsfall uromodulin fibrils",
+        "D": "Heavy chains of IgM with rheumatoid factor activity",
+        "E": "Free monoclonal immunoglobulin light chains (either Kappa or Lambda)"
+      },
+      "correct_option": "E",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What discrepancy between dipstick and SSA testing definitively suggests Bence-Jones Proteinuria (Myeloma Kidney)?",
+      "options": {
+        "A": "Strongly positive dipstick (4+) with completely negative SSA test",
+        "B": "Both dipstick and SSA are completely negative in overt myeloma",
+        "C": "Negative/trace dipstick protein with strongly positive (3+/4+) SSA",
+        "D": "Strongly positive dipstick glucose with negative Benedict test",
+        "E": "Both tests show identical trace positivity with alkaline pH"
+      },
+      "correct_option": "C",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "The glucose reagent pad on urine dipsticks uses which enzymatic reaction, making it highly specific for D-glucose?",
+      "options": {
+        "A": "Glucose Oxidase / Peroxidase coupled to a chromogen",
+        "B": "Hexokinase coupled to glucose-6-phosphate dehydrogenase",
+        "C": "Benedict's alkaline cupric tartrate reduction",
+        "D": "Alkaline phosphatase coupled with nitroblue tetrazolium",
+        "E": "Amyloglucosidase coupled with aldehyde dehydrogenase"
+      },
+      "correct_option": "D",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Benedict's qualitative reagent is a non-specific test for reducing sugars that can yield positive results with all EXCEPT:",
+      "options": {
+        "A": "Glucose",
+        "B": "Galactose (in classic galactosemia)",
+        "C": "Fructose (in essential fructosuria)",
+        "D": "Sucrose (table sugar, a non-reducing disaccharide)",
+        "E": "Lactose (in late pregnancy and lactation)"
+      },
+      "correct_option": "E",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Rothera's Nitroprusside test for ketone bodies in urine reacts positively with which ketone bodies?",
+      "options": {
+        "A": "Beta-hydroxybutyrate exclusively",
+        "B": "Acetoacetate, Acetone, and Beta-hydroxybutyrate equally",
+        "C": "Acetoacetate and Acetone (forming a purple/violet ring; negative with beta-hydroxybutyrate)",
+        "D": "Free fatty acids and cholesterol esters",
+        "E": "Pyruvate and lactate only"
+      },
+      "correct_option": "C",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Gerhardt's Ferric Chloride test detects Acetoacetate in urine (bordeaux-red color). How is it differentiated from salicylates?",
+      "options": {
+        "A": "Salicylate color disappears after boiling; acetoacetate persists",
+        "B": "Boiling bleaches acetoacetate (heat-labile); salicylate persists",
+        "C": "Adding sodium hydroxide immediately bleaches salicylate color only",
+        "D": "Salicylates produce a bright yellow color while acetoacetate is blue",
+        "E": "Acetoacetate requires 24h incubation; salicylates are immediate"
+      },
+      "correct_option": "B",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Hay's Sulfur Test is clinically used to detect which abnormal constituent in human urine?",
+      "options": {
+        "A": "Bilirubin (bile pigment)",
+        "C": "Bence-Jones protein",
+        "D": "Bile Salts (bile salts lower urine surface tension, causing sulfur powder to",
+        "E": "Hemoglobin"
+      },
+      "correct_option": "B",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Fouchet's Test is a classical qualitative laboratory method specifically utilized to detect:",
+      "options": {
+        "A": "Glucose in diabetic ketoacidosis",
+        "B": "Bile Salts in obstructive cholestasis",
+        "C": "Bilirubin in urine (trichloroacetic acid + ferric chloride oxidizes bilirubin to green biliverdin)",
+        "D": "Phenylpyruvate in phenylketonuria",
+        "E": "Bence-Jones protein in multiple myeloma"
+      },
+      "correct_option": "B",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What characteristic odor is classically associated with the urine of untreated patients with classic Phenylketonuria (PKU)?",
+      "options": {
+        "A": "Sweet maple syrup or burnt caramel odor",
+        "B": "Cabbage-like or rotten fish odor",
+        "C": "Musty or 'mousy' odor (due to phenylacetate accumulation)",
+        "D": "Sweaty feet odor",
+        "E": "Fecal or ammonia odor"
+      },
+      "correct_option": "C",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "In the chemical screening of PKU, adding 10% Ferric Chloride (FeCI3) to urine produces which characteristic color reaction?",
+      "options": {
+        "A": "Permanent intense purple-black color",
+        "B": "Immediate cherry-red ring",
+        "C": "Canary yellow precipitate",
+        "D": "Brilliant turquoise blue ring",
+        "E": "Transient olive-green color (due to phenylpyruvate)"
+      },
+      "correct_option": "E",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Guthrie Test is a neonatal bacterial inhibition assay used for mass screening of PKU. What organism and inhibitor are utilized?",
+      "options": {
+        "A": "Escherichia coli inhibited by penicillin G",
+        "B": "Staphylococcus aureus inhibited by novobiocin",
+        "C": "Proteus mirabilis inhibited by urea",
+        "D": "Streptococcus pneumoniae inhibited by optochin",
+        "E": "Bacillus subtilis inhibited by beta-2-thienylalanine"
+      },
+      "correct_option": "E",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Alkaptonuria is an autosomal recessive inborn error of tyrosine catabolism caused by deficiency of:",
+      "options": {
+        "A": "Phenylalanine hydroxylase",
+        "B": "Tyrosine transaminase",
+        "C": "p-Hydroxyphenylpyruvate dioxygenase",
+        "D": "Homogentisate 1,2-Dioxygenase (Homogentisic Acid Oxidase)",
+        "E": "Fumarylacetoacetate hydrolase"
+      },
+      "correct_option": "D",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is 'Ochronosis' in Alkaptonuria, and what long-term debilitating clinical complication does it produce?",
+      "options": {
+        "A": "Severe mental retardation with infantile microcephaly",
+        "B": "Blue-black cartilage/sclera pigment and severe Ochronotic Arthritis",
+        "C": "Congenital bilateral cataracts with hepatosplenomegaly",
+        "D": "Multiple radiolucent xanthine bladder stones",
+        "E": "Acute intermittent porphyric neuropathy"
+      },
+      "correct_option": "B",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why does the urine of patients with Alkaptonuria test STRONGLY POSITIVE on Benedict's test despite normal blood glucose?",
+      "options": {
+        "A": "Alkaptonuria causes severe proximal renal glycosuria",
+        "B": "Benedict reagent oxidizes melanin into galactose",
+        "C": "Homogentisic acid acts as a potent chemical reducing agent",
+        "D": "Patient urine contains high levels of unabsorbed lactose",
+        "E": "Patients produce excessive amounts of glucuronic acid"
+      },
+      "correct_option": "C",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which trio of branched-chain amino acids and their respective keto-acids accumulate in body fluids and urine in MSUD?",
+      "options": {
+        "A": "Phenylalanine, Tyrosine, and Tryptophan",
+        "B": "Methionine, Cysteine, and Homocysteine",
+        "C": "Glycine, Alanine, and Serine",
+        "D": "Leucine, Isoleucine, and Valine",
+        "E": "Lysine, Arginine, and Histidine"
+      },
+      "correct_option": "D",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which chemical screening test is positive in MSUD, producing a heavy yellow-white precipitate with urinary keto acids?",
+      "options": {
+        "A": "Ehrlich's aldehyde test",
+        "B": "Rothera's nitroprusside test",
+        "C": "Hay's surface tension test",
+        "D": "Brand's sodium cyanide test",
+        "E": "2,4-Dinitrophenylhydrazine (DNPH) test"
+      },
+      "correct_option": "E",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Cystinuria is caused by an inherited transport defect in the proximal convoluted tubule and small intestine affecting:",
+      "options": {
+        "A": "Neutral amino acids exclusively (Tryptophan)",
+        "B": "Acidic amino acids (Aspartate and Glutamate)",
+        "C": "Aromatic amino acids (Phenylalanine and Tyrosine)",
+        "D": "Basic amino acids & cystine (COLA: Cys, Orn, Lys, Arg)",
+        "E": "Imino acids (Proline and Hydroxyproline)"
+      },
+      "correct_option": "B",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Under microscopic examination of concentrated acidic urine, Cystine crystals display which pathognomonic appearance?",
+      "options": {
+        "A": "Coffin-lid rectangular prisms",
+        "B": "Dumbbell-shaped monohydrate stones",
+        "C": "Hexagonal flat plates (benzene ring-like crystals)",
+        "D": "Rhomboid radiolucent barrels",
+        "E": "Needle-shaped bundles with negative birefringence"
+      },
+      "correct_option": "A",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the biochemical principle of Brand's Sodium Cyanide-Nitroprusside Test for Cystinuria?",
+      "options": {
+        "A": "Cyanide oxidizes cystine to insoluble sulfate ions",
+        "B": "Cyanide reduces cystine disulfide bonds to free cysteine; nitroprusside reacts with sulfhydryl groups forming a cherry-red color",
+        "C": "Nitroprusside directly precipitates calcium ions in urine",
+        "D": "Cyanide hydrolyzes peptide bonds in albumin",
+        "E": "Nitroprusside binds specifically to branched-chain keto acids"
+      },
+      "correct_option": "E",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Classic Homocystinuria is most commonly caused by an inborn deficiency of which pyridoxal phosphate (B6)-dependent enzyme?",
+      "options": {
+        "A": "Methionine synthase",
+        "B": "Homocysteine methyltransferase",
+        "C": "Methylenetetrahydrofolate reductase (MTHFR)",
+        "D": "Cystathionine gamma-lyase",
+        "E": "Cystathionine Beta-Synthase (CBS)"
+      },
+      "correct_option": "D",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "A distinctive odor of 'sweaty feet' in an acutely ill, encephalopathic infant with metabolic ketoacidosis is characteristic of:",
+      "options": {
+        "B": "Maple syrup urine disease",
+        "C": "Alkaptonuria [DJ Isovaleric Acidemia (isovaleryl-CoA dehydrogenase deficiency)",
+        "A": "Option A",
+        "D": "Option D"
+      },
+      "correct_option": "D",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Hartnup Disease is an inborn error of neutral amino acid transport (B0AT1). The inability to absorb Tryptophan results in deficiency of:",
+      "options": {
+        "A": "Niacin (B3) deficiency, causing Pellagra (3-Ds)",
+        "B": "Thyroxine (T4) synthesis, causing congenital cretinism",
+        "C": "Melanin synthesis, causing oculocutaneous albinism",
+        "D": "Hemoglobin heme synthesis, causing microcytic anemia",
+        "E": "Epinephrine synthesis, causing profound orthostatic hypotension"
+      },
+      "correct_option": "A",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In qualitative chemical calculus analysis, adding dilute Hydrochloric Acid (HCI) directly produces active effervescence (gas bubbles). This confirms:",
+      "options": {
+        "A": "Carbonate (CO3^2- liberating CO2 gas)",
+        "B": "Uric acid",
+        "C": "Calcium oxalate",
+        "D": "Cystine",
+        "E": "Magnesium ammonium phosphate"
+      },
+      "correct_option": "A",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the classical chemical test used to confirm Calcium in an acid-dissolved renal calculus powder?",
+      "options": {
+        "A": "Adding ferric chloride to produce a violet color",
+        "B": "Adding silver nitrate to produce a black precipitate",
+        "C": "Adding sodium nitroprusside to produce a red color",
+        "D": "Adding Ammonium Oxalate to form a white precipitate of Calcium Oxalate",
+        "E": "Adding Nessler's reagent to produce a brown precipitate"
+      },
+      "correct_option": "D",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In chemical stone analysis, the presence of Oxalate in a stone solution is confirmed when adding dilute Potassium Permanganate (KMnO4) results in:",
+      "options": {
+        "A": "Decolorizes purple KMnO4 (oxalate reduces permanganate)",
+        "B": "Formation of an intense blue ring at the interface",
+        "C": "Precipitation of bright yellow ammonium phosphomolybdate",
+        "D": "Generation of bright red murexide pigment",
+        "E": "Complete gelatinization of the acidic solution"
+      },
+      "correct_option": "A",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the definitive chemical test for Phosphate in dissolved urinary calculi?",
+      "options": {
+        "A": "Reaction with ammonium molybdate in nitric acid yielding a bright canary-yellow precipitate on warming",
+        "B": "Reaction with barium chloride yielding a green color",
+        "C": "Reaction with ninhydrin yielding a purple color",
+        "D": "Reaction with picric acid in alkali yielding an orange color",
+        "E": "Immediate effervescence with sodium bicarbonate"
+      },
+      "correct_option": "A",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In chemical stone testing, how is the presence of Ammonium (NH4+) in a struvite calculus definitively detected?",
+      "options": {
+        "A": "Boiling with dilute HCl to form white fumes",
+        "B": "Heating with NaOH evolves ammonia gas turning red litmus blue",
+        "C": "Adding cold ethanol to precipitate yellow crystals",
+        "D": "Adding acetic acid to generate a rotten egg odor",
+        "E": "Adding copper sulfate to produce a buret purple ring"
+      },
+      "correct_option": "B",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why do Uric Acid calculi fail to visualize on plain abdominal radiography (KUB) but are readily detected on non-contrast helical CT?",
+      "options": {
+        "A": "Uric acid crystals absorb X-rays 100 times more than cortical bone",
+        "B": "Composed of light elements (C,H,N,O); radiolucent on X-rays",
+        "C": "Uric acid dissolves instantly upon exposure to radiographic photons",
+        "D": "Plain X-rays only detect stones located inside the bladder",
+        "E": "Uric acid calculi are surrounded by an impermeable lead capsule"
+      },
+      "correct_option": "B",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "An alkaline urine (pH 7.8) stone from a chronic UTI patient tests positive for Ammonium, Magnesium, and Phosphate. What is the calculus?",
+      "options": {
+        "A": "Pure uric acid calculus",
+        "B": "Struvite (Triple Phosphate / Mg-Ammonium-Phosphate) stone",
+        "C": "Calcium oxalate monohydrate calculus",
+        "D": "Pure cystine calculus",
+        "E": "Xanthine calculus"
+      },
+      "correct_option": "B",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Watson-Schwartz Test is clinically utilized to differentiate which two porphyrin precursors in suspected porphyria vs. hemolytic jaundice?",
+      "options": {
+        "A": "Urobilinogen (chloroform-soluble) vs Porphobilinogen (insoluble)",
+        "B": "Bilirubin from biliverdin",
+        "C": "Bence-Jones protein from albumin",
+        "D": "Homogentisic acid from phenylpyruvate",
+        "E": "Cystine from methionine"
+      },
+      "correct_option": "A",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A 4-day-old infant presents with lethargy, vomiting, and sweet burnt-sugar diaper odor with marked ketoacidosis. Diagnosis and urgent dietary management:",
+      "options": {
+        "A": "MSUD; restrict branched-chain amino acids (Leu, lle, Val)",
+        "B": "Classic Phenylketonuria; high-protein phenylalanine diet",
+        "C": "Alkaptonuria; high-dose vitamin C and homogentisate infusion",
+        "D": "Cystinuria; strict fluid restriction and acidifying agents",
+        "E": "Classic Galactosemia; lactose-rich breast milk supplementation"
+      },
+      "correct_option": "E",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "An elderly male with osteolytic lesions has 4+ proteinuria (6 g/d) with trace dipstick, 4+ SSA turbidity, and Bence-Jones protein on electrophoresis. Diagnosis:",
+      "options": {
+        "A": "Minimal Change Nephrotic Syndrome",
+        "B": "Post-streptococcal glomerulonephritis",
+        "C": "Diabetic glomerulosclerosis",
+        "D": "Acute pyelonephritis with sterile pyuria",
+        "E": "Multiple Myeloma with Bence-Jones cast nephropathy"
+      },
+      "correct_option": "C",
+      "explanation": "**Category / Condition**: ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast\n\n**Proteinuria & Bence-Jones**: filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts.",
+      "masterclass_id": 30,
+      "masterclass_title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry"
+    }
+  ]
+}

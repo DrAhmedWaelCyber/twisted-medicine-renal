@@ -1,0 +1,965 @@
+{
+  "items" : [
+    {
+      "conf" : 1,
+      "h" : 0.0087273899714152,
+      "x" : 0.09362139781378603,
+      "y" : 0.976747416015765,
+      "text" : "Twisted Medicine",
+      "w" : 0.10905349779428924
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.3209876490397807,
+      "y" : 0.9759722223088898,
+      "text" : "• Renal System Module • Lecture 25 MCQ Masterclass",
+      "w" : 0.3168724108042207
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.3353909563786004,
+      "y" : 0.9651162791666666,
+      "text" : "Twisted Medicine Medical Series • Urolithiasis, Calcium, Struvite, Uric Acid Stones & Hydronephrosis • Standard Practice Bank",
+      "w" : 0.5925925872610799
+    },
+    {
+      "conf" : 1,
+      "h" : 0.0103678533766004,
+      "x" : 0.9290123453008179,
+      "y" : 0.976017441691968,
+      "text" : "Page 1 of 4",
+      "w" : 0.06795878980144765
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.5010288121604938,
+      "y" : 0.9381944443692624,
+      "text" : "25. URINARY STONES & OBSTRUCTIVE UROPATHY - PATHOLOGY LECTURE",
+      "w" : 0.5576131568764741
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.4999999988340192,
+      "y" : 0.9179166667804846,
+      "text" : "Twisted Medicine Pathology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "w" : 0.5514403049301051
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.23765432487654312,
+      "y" : 0.8960755814680232,
+      "text" : "Q01. [2025 Exam] What is the single most common chemical",
+      "w" : 0.38888888089162
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011692505942450637,
+      "x" : 0.2520576147119341,
+      "y" : 0.8822351417772081,
+      "text" : "composition of renal calculi, accounting for approximately 70% to",
+      "w" : 0.42181070195803855
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011666666666666714,
+      "x" : 0.12551440178326478,
+      "y" : 0.8691666664538598,
+      "text" : "80% of all urinary stones?",
+      "w" : 0.16872427598485407
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.11316872572016459,
+      "y" : 0.8531976744767442,
+      "text" : "[A] Pure uric acid stones",
+      "w" : 0.14403291618299185
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.19032922188785997,
+      "y" : 0.8401162791424419,
+      "text" : "[B] Calcium Oxalate and Calcium Phosphate stones",
+      "w" : 0.3024691215851022
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.20164608667695483,
+      "y" : 0.827761628034157,
+      "text" : "[C] Magnesium ammonium phosphate (struvite) stones",
+      "w" : 0.325102872068777
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.10905349963991764,
+      "y" : 0.8146802326126454,
+      "text" : "[D] Pure cystine stones",
+      "w" : 0.1358024669143389
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010297157499525311,
+      "x" : 0.16255144341563774,
+      "y" : 0.8015374677917284,
+      "text" : "[E] Xanthine and dihydroxyadenine stones",
+      "w" : 0.2469135740268155
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.24279834886831284,
+      "y" : 0.7740277776123796,
+      "text" : "Q02. [2024 Exam] What is the primary driving physical process",
+      "w" : 0.4032921941025452
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011750645637512158,
+      "x" : 0.2592592519204392,
+      "y" : 0.7602357882931909,
+      "text" : "required for the initiation and nucleation of urinary stone formation?",
+      "w" : 0.44032920981353185
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.26440329664609047,
+      "y" : 0.7448611111591428,
+      "text" : "[A] Urinary Supersaturation exceeding the solubility product of the crystalloid",
+      "w" : 0.4465020617599008
+    },
+    {
+      "conf" : 1,
+      "h" : 0.007267441749572723,
+      "x" : 0.05349794230452675,
+      "y" : 0.7332848837572674,
+      "text" : "salt",
+      "w" : 0.024691358302374303
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01029069794548887,
+      "x" : 0.24176955401234546,
+      "y" : 0.7201453487497058,
+      "text" : "[B] Excessive secretion of Tamm-Horsfall mucoprotein by podocytes",
+      "w" : 0.40123456079255104
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.22839505541838157,
+      "y" : 0.7070833335070864,
+      "text" : "[C] Complete systemic absence of alkaline phosphatase enzyme",
+      "w" : 0.37860081030887627
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.1985596654663925,
+      "y" : 0.6940277780123019,
+      "text" : "[D] Transcellular fluid secretion by papillary urothelium",
+      "w" : 0.3189300201224081
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.2427983471193418,
+      "y" : 0.6809722224690676,
+      "text" : "[E] Retrograde lymphatic flow from the bladder into renal parenchyma",
+      "w" : 0.40740741273892006
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01176356527540412,
+      "x" : 0.26131686692386846,
+      "y" : 0.6525484494411578,
+      "text" : "Q03. [2023 Exam] Which endogenous urinary constituent acts as the",
+      "w" : 0.44032920981353185
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01028423786163335,
+      "x" : 0.24074074739368975,
+      "y" : 0.638753230002874,
+      "text" : "most potent physiological inhibitor of Calcium Oxalate crystal",
+      "w" : 0.3991769514743637
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.11934156183127577,
+      "y" : 0.6256944442057449,
+      "text" : "nucleation and growth?",
+      "w" : 0.15637859608392296
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.0792181082647462,
+      "y" : 0.610465116375969,
+      "text" : "[A] Uric acid",
+      "w" : 0.07613168272582241
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.2335390897890948,
+      "y" : 0.5966569766896803,
+      "text" : "[B] Citrate (which chelates ionized calcium into a soluble complex)",
+      "w" : 0.38888888089162
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.1028806605624142,
+      "y" : 0.5843023256782947,
+      "text" : "[C] Ammonium ions",
+      "w" : 0.12757201764568593
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.10185185336934155,
+      "y" : 0.5712209303052325,
+      "text" : "[D] Bicarbonate ions",
+      "w" : 0.12139917769522038
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.09979423665980802,
+      "y" : 0.5573611110622436,
+      "text" : "[E] Inorganic sulfate",
+      "w" : 0.12139917769522038
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011679586304558676,
+      "x" : 0.240740741255144,
+      "y" : 0.5305490957391172,
+      "text" : "Q04. [2022 Exam] What is the single most common metabolic",
+      "w" : 0.3950617088461822
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.25000000696159097,
+      "y" : 0.5167151163517443,
+      "text" : "abnormality identified in patients with recurrent Calcium Oxalate",
+      "w" : 0.4176954353380503
+    },
+    {
+      "conf" : 0.5,
+      "h" : 0.010174418555365716,
+      "x" : 0.1018518538751714,
+      "y" : 0.5036337210513566,
+      "text" : "nephrolithiasis?",
+      "w" : 0.12139917769522036
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.13683127811213983,
+      "y" : 0.4876388888078596,
+      "text" : "[A] Primary hyperparathyroidism",
+      "w" : 0.19135801447262552
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.15226337731481476,
+      "y" : 0.47458333330096264,
+      "text" : "[B] Type 1 distal renal tubular acidosis",
+      "w" : 0.22633743286132812
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.183127568415638,
+      "y" : 0.4615277776487168,
+      "text" : "[C] Systemic sarcoidosis with hypervitaminosis D",
+      "w" : 0.2880658323659837
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.2448559738683125,
+      "y" : 0.4498611112708709,
+      "text" : "[D] Idiopathic Hypercalciuria with normal serum calcium (eucalcemia)",
+      "w" : 0.40740741273891995
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.16049383014403285,
+      "y" : 0.4368055557579178,
+      "text" : "[E] Familial hypocalciuric hypercalcemia",
+      "w" : 0.23868311276225918
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01174418555365675,
+      "x" : 0.2572016532921808,
+      "y" : 0.40837209295997706,
+      "text" : "Q05. [2021 Exam] Why do patients with Crohn disease or extensive",
+      "w" : 0.4320987725407822
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011718345748053749,
+      "x" : 0.25823044724794253,
+      "y" : 0.39530361734436786,
+      "text" : "small bowel resection frequently develop Enteric Hyperoxaluria and",
+      "w" : 0.4341563578671629
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01030361758338083,
+      "x" : 0.1265432114454732,
+      "y" : 0.38292958665968424,
+      "text" : "calcium oxalate stones?",
+      "w" : 0.17078188530304148
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.22325103487654302,
+      "y" : 0.3655523256540698,
+      "text" : "[A] Small bowel resection directly synthesizes oxalate de novo",
+      "w" : 0.3641975210897578
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011627906163533597,
+      "x" : 0.22119341697530864,
+      "y" : 0.3531976742248061,
+      "text" : "[B] Colonic bacteria convert all dietary glucose into oxalic acid",
+      "w" : 0.3641975210897578
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.23868312990397794,
+      "y" : 0.34084302342538747,
+      "text" : "[C] Intestinal mucosa hypersecretes vitamin C into mesenteric veins",
+      "w" : 0.39917695147436366
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.1934156430041151,
+      "y" : 0.32776162802810077,
+      "text" : "[D] Bile salts crystallize directly inside renal tubules",
+      "w" : 0.30864197353147116
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.25617284674211227,
+      "y" : 0.314680232630814,
+      "text" : "[E] Unabsorbed fatty acids bind luminal calcium, leaving free oxalate to be",
+      "w" : 0.43415635786716295
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.123456792935528,
+      "y" : 0.3030523256540698,
+      "text" : "hyperabsorbed by the colon",
+      "w" : 0.16872427598485407
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.2551440371604938,
+      "y" : 0.28708333328279395,
+      "text" : "Q06. [2020 Exam] What is the microscopic appearance of Calcium",
+      "w" : 0.4238682872844192
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011724805831909269,
+      "x" : 0.2613168797668036,
+      "y" : 0.2733042639330251,
+      "text" : "Oxalate Dihydrate crystals classically observed in urinary sediment?",
+      "w" : 0.44032920981353185
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01030361758338072,
+      "x" : 0.16152263675411513,
+      "y" : 0.25792958662334714,
+      "text" : "[A] Coffin-lid shaped rectangular prisms",
+      "w" : 0.24074074607225332
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.1697530896862139,
+      "y" : 0.24486111114097414,
+      "text" : "[B] Hexagonal benzene-ring shaped crystals",
+      "w" : 0.261316863245934
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.20061727856652967,
+      "y" : 0.23180555547055975,
+      "text" : "[C] Bipyramidal 'Envelope' shaped crystals (octahedral)",
+      "w" : 0.32304526275058965
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008888888888888946,
+      "x" : 0.19135802849794226,
+      "y" : 0.21944444436926247,
+      "text" : "[D] Diamond or rhomboid shaped radiolucent plates",
+      "w" : 0.3045267309032896
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011666666666666714,
+      "x" : 0.2119341621399175,
+      "y" : 0.2063888888018035,
+      "text" : "[E] Fine needle-shaped crystals with negative birefringence",
+      "w" : 0.34567898924245777
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011627906163533486,
+      "x" : 0.2592592646604937,
+      "y" : 0.1656976744912791,
+      "text" : "Q07. [2024 Exam] What is the initial histological subepithelial nidus",
+      "w" : 0.4320987725407822
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723635,
+      "x" : 0.24382716454732503,
+      "y" : 0.15182170540045997,
+      "text" : "for calcium oxalate stone formation on renal papillary surfaces",
+      "w" : 0.40534977942892586
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008809677229987267,
+      "x" : 0.06893004104943469,
+      "y" : 0.13953488373724443,
+      "text" : "termed?",
+      "w" : 0.05558334206635098
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.12962963184156373,
+      "y" : 0.1228197674963662,
+      "text" : "[A] Kimmelstiel-Wilson nodule",
+      "w" : 0.17695472525350706
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.12654320696159133,
+      "y" : 0.10973837202034892,
+      "text" : "[B] Mallory-Denk hyaline body",
+      "w" : 0.1748971159353196
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.09259259437585728,
+      "y" : 0.09665697681686047,
+      "text" : "[C] Aschoff body",
+      "w" : 0.10699587648019851
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.10390946718106989,
+      "y" : 0.08357558146802324,
+      "text" : "[D] Councilman body",
+      "w" : 0.1296296269638733
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.25205760890946505,
+      "y" : 0.07122093017441855,
+      "text" : "[E] Randall's Plaque (subepithelial interstitial calcium phosphate deposit)",
+      "w" : 0.4259259205944133
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.7273662622427982,
+      "y" : 0.8960755814680232,
+      "text" : "Q08. [2022 Exam] What radiological feature distinguishes Calcium",
+      "w" : 0.42592592059441325
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01030361758338083,
+      "x" : 0.7181070026748968,
+      "y" : 0.8829295866051785,
+      "text" : "Oxalate and Calcium Phosphate calculi on plain abdominal KUB",
+      "w" : 0.40740741273892
+    },
+    {
+      "conf" : 1,
+      "h" : 0.012162766986423157,
+      "x" : 0.5565843636156612,
+      "y" : 0.8691860465996022,
+      "text" : "radiographs?",
+      "w" : 0.08861509958903002
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.7006172792438274,
+      "y" : 0.8531976743459302,
+      "text" : "[A] They are completely Radiolucent and invisible on plain X-rays",
+      "w" : 0.37654320099068883
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.6460905394375855,
+      "y" : 0.8401162791666666,
+      "text" : "[B] They appear as bright gaseous lucencies",
+      "w" : 0.26748969120049626
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6965020622170781,
+      "y" : 0.8277616279978197,
+      "text" : "[C] They are dense Radio-Opaque shadows with sharp margins",
+      "w" : 0.36831273972613265
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.7170781944187241,
+      "y" : 0.8146802326126454,
+      "text" : "[D] They display intense acoustic shadowing without X-ray attenuation",
+      "w" : 0.4094649980653007
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010297157499525311,
+      "x" : 0.6604938221536352,
+      "y" : 0.8015374676645481,
+      "text" : "[E] They only enhance after intravenous gadolinium",
+      "w" : 0.30041151226691465
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.7366255106995885,
+      "y" : 0.7740277776063234,
+      "text" : "Q09. [2023 Exam] Why does Type 1 Distal RTA predispose to bilateral",
+      "w" : 0.4444444284499066
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010297157499525311,
+      "x" : 0.6748971139231827,
+      "y" : 0.760962532190103,
+      "text" : "Nephrocalcinosis and Calcium Phosphate stones?",
+      "w" : 0.32510287206877697
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.7355967022376546,
+      "y" : 0.7448611110319626,
+      "text" : "[A] Defective H+ secretion causes alkaline urine (pH > 5.5) and hypocitraturia",
+      "w" : 0.4465020617599008
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.7150205828875169,
+      "y" : 0.7318055556159087,
+      "text" : "[B] Proximal tubules fail to reabsorb filtered glucose and amino acids",
+      "w" : 0.4053497794289258
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6893004174897117,
+      "y" : 0.7187500000726744,
+      "text" : "[C] Collecting ducts hypersecrete uric acid into renal papillae",
+      "w" : 0.3580246691433887
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.7273662479080936,
+      "y" : 0.705694444432541,
+      "text" : "[D] Aldosterone resistance causes severe hyperkalemia and crystallization",
+      "w" : 0.434156357867163
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.6872428027777775,
+      "y" : 0.6926388890043746,
+      "text" : "[E] Loop of Henle is completely destroyed by autoantibodies",
+      "w" : 0.35390945050701406
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723624,
+      "x" : 0.7109053547582304,
+      "y" : 0.6518217054186286,
+      "text" : "Q10. [2021 Exam] Which dietary modification is paradoxically",
+      "w" : 0.3971193421561763
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01028423786163335,
+      "x" : 0.7160493867489712,
+      "y" : 0.6387532299544243,
+      "text" : "CONTRAINDICATED in patients with idiopathic calcium oxalate",
+      "w" : 0.40329219410254524
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.6635802418724281,
+      "y" : 0.6256944442239136,
+      "text" : "stones because it increases stone recurrence?",
+      "w" : 0.3024691215851022
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.6687242837448559,
+      "y" : 0.6097383721475291,
+      "text" : "[A] Increasing daily oral fluid intake to >2.5-3.0 L\/day",
+      "w" : 0.3127571921678459
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6203703739711934,
+      "y" : 0.5966569768168604,
+      "text" : "[B] Reducing dietary sodium intake",
+      "w" : 0.21604938627039116
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6656378651920437,
+      "y" : 0.5835755814680232,
+      "text" : "[C] Reducing excessive animal protein consumption",
+      "w" : 0.30658434022147696
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01030361758338072,
+      "x" : 0.7232510217764063,
+      "y" : 0.5704295865082794,
+      "text" : "[D] Severe dietary Calcium restriction (which enhances intestinal oxalate",
+      "w" : 0.4218107019580385
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010405685636732276,
+      "x" : 0.5473251030358207,
+      "y" : 0.5588662789430989,
+      "text" : "absorption)",
+      "w" : 0.07002551600618179
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011627906163533486,
+      "x" : 0.6995884710562416,
+      "y" : 0.5465116278585271,
+      "text" : "[E] Avoiding high-oxalate foods like spinach, nuts, and chocolate",
+      "w" : 0.37860081030887627
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011679586304558676,
+      "x" : 0.72427984063786,
+      "y" : 0.5305490959571404,
+      "text" : "Q11. [2025 Exam] Which diuretic class is specifically indicated as",
+      "w" : 0.4197530686480444
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.7160493895061725,
+      "y" : 0.5167151163517443,
+      "text" : "first-line pharmacological therapy to prevent recurrent calcium",
+      "w" : 0.40740741273892
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.5709876562757201,
+      "y" : 0.5036337210513566,
+      "text" : "nephrolithiasis?",
+      "w" : 0.1172839470629422
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6059670758487655,
+      "y" : 0.48763888869884797,
+      "text" : "[A] Loop Diuretics (Furosemide)",
+      "w" : 0.1872427958362508
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.6604938308641974,
+      "y" : 0.47458333330096264,
+      "text" : "[B] Carbonic Anhydrase Inhibitors (Acetazolamide)",
+      "w" : 0.29629629363054
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6985596661265434,
+      "y" : 0.4615277776487168,
+      "text" : "[C] Thiazide Diuretics (e.g., Hydrochlorothiazide, Chlorthalidone)",
+      "w" : 0.37242798235431407
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008888889153798374,
+      "x" : 0.6069958816186558,
+      "y" : 0.44916666676915384,
+      "text" : "[D] Osmotic Diuretics (Mannitol)",
+      "w" : 0.18930040515443813
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.652263377983539,
+      "y" : 0.4368055557579178,
+      "text" : "[E] Potassium-Sparing Aldosterone Antagonists",
+      "w" : 0.2798353950932341
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01174418555365675,
+      "x" : 0.7109053563443071,
+      "y" : 0.4083720926692796,
+      "text" : "Q12. [2020 Exam] How do Thiazide diuretics decrease urinary",
+      "w" : 0.3971193181643695
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011718345748053638,
+      "x" : 0.7026749034636486,
+      "y" : 0.3953036175139414,
+      "text" : "calcium excretion (causing hypocalciuria) to prevent stone",
+      "w" : 0.3806584196270636
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.5493827151234568,
+      "y" : 0.38226744182412786,
+      "text" : "formation?",
+      "w" : 0.07407407340763505
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.7098765383230454,
+      "y" : 0.3655523255268895,
+      "text" : "[A] By chemically precipitating calcium inside proximal tubular cells",
+      "w" : 0.3909464902098073
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.7088477300068589,
+      "y" : 0.3524709302083334,
+      "text" : "[B] By inhibiting NCC in DCT, which enhances basolateral Na+\/Ca2+",
+      "w" : 0.3971193181643695
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6378600864883399,
+      "y" : 0.3408430233284884,
+      "text" : "exchange and proximal Ca2+ reabsorption",
+      "w" : 0.25102879266319034
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.6779835391975308,
+      "y" : 0.32921511644864343,
+      "text" : "[C] By destroying parathyroid hormone receptors in bone",
+      "w" : 0.33127570002333917
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.6738683182098764,
+      "y" : 0.31613372100290704,
+      "text" : "[D] By converting calcium into insoluble calcium sulfate",
+      "w" : 0.3271604813869644
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6687242837962961,
+      "y" : 0.3030523256359012,
+      "text" : "[E] By blocking intestinal vitamin D absorption directly",
+      "w" : 0.3168724108042208
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.7263374539094649,
+      "y" : 0.28708333326462543,
+      "text" : "Q13. [Faculty Exam] How does Vitamin A deficiency pathologically",
+      "w" : 0.42798350592079404
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6491769592935526,
+      "y" : 0.27402777778800935,
+      "text" : "predispose to urinary calculus formation?",
+      "w" : 0.2736625431468652
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011692505942450637,
+      "x" : 0.6666666614540468,
+      "y" : 0.2572351419225568,
+      "text" : "[A] It directly increases intestinal calcium absorption",
+      "w" : 0.31275719216784603
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.6738683073045268,
+      "y" : 0.24486111106224356,
+      "text" : "[B] It stimulates hypersecretion of parathyroid hormone",
+      "w" : 0.3271604813869645
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6296296325617283,
+      "y" : 0.23180555559773997,
+      "text" : "[C] It inhibits hepatic purine degradation",
+      "w" : 0.2345678941258844
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.7150205693072704,
+      "y" : 0.2187499999757751,
+      "text" : "[D] It causes squamous metaplasia and desquamation of urinary tract",
+      "w" : 0.4094649980653008
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6676954784293552,
+      "y" : 0.20708333312261618,
+      "text" : "epithelium, providing a nidus for stone crystallization",
+      "w" : 0.3106995828496585
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008888888623979407,
+      "x" : 0.6213991797325102,
+      "y" : 0.1947222222733343,
+      "text" : "[E] It blocks renal ammonia synthesis",
+      "w" : 0.22222221422495336
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011627906163533486,
+      "x" : 0.7109053431069962,
+      "y" : 0.16569767437015498,
+      "text" : "Q14. [Core Exam] Which of the following conditions does NOT",
+      "w" : 0.40123456079255115
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010310077137417273,
+      "x" : 0.6018518488683129,
+      "y" : 0.1518217054715711,
+      "text" : "predispose to urolithiasis?",
+      "w" : 0.1790123345716944
+    },
+    {
+      "conf" : 1,
+      "h" : 0.0102971574995252,
+      "x" : 0.6069958879972563,
+      "y" : 0.13596253233545186,
+      "text" : "[A] Primary hyperparathyroidism",
+      "w" : 0.19341563578671628
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.616255140500686,
+      "y" : 0.12281976741763567,
+      "text" : "[B] Chronic urinary tract obstruction",
+      "w" : 0.21193414364220964
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011737725469801119,
+      "x" : 0.6358024682613169,
+      "y" : 0.11052002607755235,
+      "text" : "[C] Hydrocele of the tunica vaginalis testis",
+      "w" : 0.24691357402681557
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01176356527540423,
+      "x" : 0.5843621374485597,
+      "y" : 0.09745155043771825,
+      "text" : "[D] Enteric hyperoxaluria",
+      "w" : 0.14814814681527
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.5956790094993141,
+      "y" : 0.08502906969476753,
+      "text" : "[E] Gout with hyperuricosuria",
+      "w" : 0.1707818853030415
+    },
+    {
+      "conf" : 1,
+      "h" : 0.02034883711073132,
+      "x" : 0.2962963017146774,
+      "y" : 0.015988372432170495,
+      "text" : "Twisted Medicine • Renal Pathology Master Class • strictly Grounded in Faculty & Board Exam Papers",
+      "w" : 0.5185185078554934
+    },
+    {
+      "conf" : 1,
+      "h" : 0.007280361652374334,
+      "x" : 0.8765432099781845,
+      "y" : 0.021082041342371627,
+      "text" : "Confidential Student Revision Bank",
+      "w" : 0.1728395066171322
+    }
+  ],
+  "page" : 95
+}

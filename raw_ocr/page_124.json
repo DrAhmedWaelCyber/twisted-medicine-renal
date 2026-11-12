@@ -1,0 +1,1021 @@
+{
+  "items" : [
+    {
+      "h" : 0.011724805831909157,
+      "x" : 0.27160493744855974,
+      "y" : 0.9766957360185253,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 32 MCQ Masterclass",
+      "conf" : 1,
+      "w" : 0.44855964708628143
+    },
+    {
+      "h" : 0.008888888623979407,
+      "x" : 0.3991769635288064,
+      "y" : 0.9622222221686025,
+      "text" : "Twisted Medicine Medica\/ Series • Renal Clearance, Inulin, Creatinine, Cystatin C, eGFR Formulas & Proteinuria • Standard Practice Bank",
+      "conf" : 1,
+      "w" : 0.7037036823776534
+    },
+    {
+      "h" : 0.010522821214463907,
+      "x" : 0.9228395057938754,
+      "y" : 0.976017441692833,
+      "text" : "Page 2 of 4",
+      "conf" : 1,
+      "w" : 0.0680041403140661
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.24794239344993121,
+      "y" : 0.9381944443692624,
+      "text" : "Q15. [2025 Exam] In the classic Cockcroft-Gault formula for",
+      "conf" : 1,
+      "w" : 0.3971193181643696
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.2633744927983537,
+      "y" : 0.9251388888260281,
+      "text" : "estimating Creatinine Clearance, what mathematical relationship",
+      "conf" : 1,
+      "w" : 0.4320987725407822
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.12860082307956106,
+      "y" : 0.913472222163541,
+      "text" : "is used for adult males?",
+      "conf" : 1,
+      "w" : 0.1625514360343885
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.25514402880658443,
+      "y" : 0.899027777594211,
+      "text" : "[A] eC_Cr = [(140 - Age) * Weight (kg)] \/ [72 * Serum Creatinine (mg\/dL)]",
+      "conf" : 1,
+      "w" : 0.4115226313752948
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.21810699251028814,
+      "y" : 0.8873611111739719,
+      "text" : "[B] eC_Cr = [72 * Serum Creatinine] \/ [(140 - Age) * Weight]",
+      "conf" : 1,
+      "w" : 0.33744855196970813
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.1728395062242798,
+      "y" : 0.8743055555762318,
+      "text" : "[C] eC_Cr = (140 - Age) \/ Serum Creatinine",
+      "conf" : 1,
+      "w" : 0.24691357402681555
+    },
+    {
+      "h" : 0.011673126220703156,
+      "x" : 0.18106995795610428,
+      "y" : 0.8619412144859491,
+      "text" : "[D] eC_Cr = [Weight * Serum Creatinine] \/ 140",
+      "conf" : 1,
+      "w" : 0.26337447256412144
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.17592592312242802,
+      "y" : 0.8495833330829394,
+      "text" : "[E] eC_Cr = 186 * (Serum Creatinine)^-1.154",
+      "conf" : 1,
+      "w" : 0.25720164460955924
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.7273662478395064,
+      "y" : 0.9381944442723631,
+      "text" : "Q22. [2023 Exam] Why is Serum Cystatin C considered a superior",
+      "conf" : 1,
+      "w" : 0.43827157650353776
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6944444382373116,
+      "y" : 0.9251388886806794,
+      "text" : "endogenous filtration marker compared to Creatinine in",
+      "conf" : 1,
+      "w" : 0.37242798235431407
+    },
+    {
+      "h" : 0.011666666666666714,
+      "x" : 0.6481481528120712,
+      "y" : 0.9127777776520564,
+      "text" : "sarcopenic, elderly, or amputee patients?",
+      "conf" : 1,
+      "w" : 0.2798353711014273
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.697530868930041,
+      "y" : 0.8990277777577285,
+      "text" : "[A] It is produced exclusively by proximal tubule brush border cells",
+      "conf" : 1,
+      "w" : 0.37860081030887627
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.6872428043209874,
+      "y" : 0.8873611113193207,
+      "text" : "[B] It is excreted in large amounts across alveolar membranes",
+      "conf" : 1,
+      "w" : 0.3580246691433888
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.7057613234567899,
+      "y" : 0.8743055557760865,
+      "text" : "[C] It undergoes active primary secretion by distal convoluted tubules",
+      "conf" : 1,
+      "w" : 0.3950617088461822
+    },
+    {
+      "h" : 0.008888888888888946,
+      "x" : 0.6522633792866939,
+      "y" : 0.861944444553665,
+      "text" : "[D] It binds irreversible fluorescent dyes in plasma",
+      "conf" : 1,
+      "w" : 0.2880658323659837
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.7222222150205764,
+      "y" : 0.8495833331374452,
+      "text" : "[E] Constant production by all nucleated cells, independent of muscle mass,",
+      "conf" : 1,
+      "w" : 0.4320987725407822
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.5833333358367625,
+      "y" : 0.8379166669110044,
+      "text" : "age, sex, and protein diet",
+      "conf" : 1,
+      "w" : 0.15020575613345744
+    },
+    {
+      "h" : 0.011731265915764677,
+      "x" : 0.7160493857338819,
+      "y" : 0.8169121447985962,
+      "text" : "Q23. [2021 Exam] What is the renal fate of Cystatin C after it is",
+      "conf" : 1,
+      "w" : 0.41152263137529477
+    },
+    {
+      "h" : 0.01030361758338083,
+      "x" : 0.687242802829218,
+      "y" : 0.804570413558339,
+      "text" : "freely filtered across the glomerular filtration barrier?",
+      "conf" : 1,
+      "w" : 0.3580246931351956
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.6800411579903975,
+      "y" : 0.7899709303536822,
+      "text" : "[A] Completely secreted by collecting duct intercalated cells",
+      "conf" : 1,
+      "w" : 0.34362137992427033
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6893004054183816,
+      "y" : 0.7783430231831396,
+      "text" : "[B] Excreted unchanged in urine at exactly 100% of filtered load",
+      "conf" : 1,
+      "w" : 0.3662551304079452
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.7283950561728396,
+      "y" : 0.7652616278524709,
+      "text" : "[C] Completely reabsorbed and catabolized by proximal tubular epithelial cells",
+      "conf" : 1,
+      "w" : 0.4444444284499066
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.6286008270576131,
+      "y" : 0.7551388889377564,
+      "text" : "via megalin, so none returns to circulation",
+      "conf" : 1,
+      "w" : 0.2407407220804466
+    },
+    {
+      "h" : 0.011692505942450637,
+      "x" : 0.6388888872085049,
+      "y" : 0.7427648582227919,
+      "text" : "[D] Converted into urea by medullary arginase",
+      "conf" : 1,
+      "w" : 0.2654320818823088
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6646090574588477,
+      "y" : 0.730416666474745,
+      "text" : "[E] Precipitated into Tamm-Horsfall mucoprotein matrix",
+      "conf" : 1,
+      "w" : 0.3168724108042209
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.24382716535493817,
+      "y" : 0.8176388889680375,
+      "text" : "Q16. [2024 Exam] Why must the Cockcroft-Gault clearance",
+      "conf" : 1,
+      "w" : 0.38888888089162
+    },
+    {
+      "h" : 0.011757105721367789,
+      "x" : 0.24074073590534992,
+      "y" : 0.8038436694736846,
+      "text" : "estimate be multiplied by 0.85 when calculating creatinine",
+      "conf" : 1,
+      "w" : 0.3868312715734326
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.14094650209190673,
+      "y" : 0.7914244184350776,
+      "text" : "clearance in adult females?",
+      "conf" : 1,
+      "w" : 0.18312756520397258
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.24691358683127543,
+      "y" : 0.7776162791182171,
+      "text" : "[A] Females have higher rates of renal tubular creatinine reabsorption",
+      "conf" : 1,
+      "w" : 0.39506170884618214
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.252057619993141,
+      "y" : 0.7652616279796511,
+      "text" : "[B] Adult females have on average ~15% less skeletal muscle mass per",
+      "conf" : 1,
+      "w" : 0.4094649980653008
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.1502057594650206,
+      "y" : 0.7536337208030524,
+      "text" : "kilogram of body weight than males",
+      "conf" : 1,
+      "w" : 0.20164609705127262
+    },
+    {
+      "h" : 0.01030361758338072,
+      "x" : 0.25411522173353923,
+      "y" : 0.7420704135946761,
+      "text" : "[C] Female glomerular capillaries possess thicker basement membranes",
+      "conf" : 1,
+      "w" : 0.4094649980653008
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.21502057061042543,
+      "y" : 0.7289244185804264,
+      "text" : "[DJ Estrogen directly destroys urinary creatinine molecules",
+      "conf" : 1,
+      "w" : 0.3312757000233392
+    },
+    {
+      "h" : 0.01029069741566968,
+      "x" : 0.1995884824417008,
+      "y" : 0.7173546511307334,
+      "text" : "[E] Female renal blood flow is universally 15% higher",
+      "conf" : 1,
+      "w" : 0.30452673090328963
+    },
+    {
+      "h" : 0.01030361758338083,
+      "x" : 0.24074074456790112,
+      "y" : 0.6954295866051785,
+      "text" : "Q17. [2023 Exam] Why are modern eGFR reporting values",
+      "conf" : 1,
+      "w" : 0.3827160529370578
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.2500000066186555,
+      "y" : 0.6823611109168947,
+      "text" : "mathematically standardized and expressed relative to Body",
+      "conf" : 1,
+      "w" : 0.40123456079255115
+    },
+    {
+      "h" : 0.011705426639980754,
+      "x" : 0.15226337270233203,
+      "y" : 0.6700193797780296,
+      "text" : "Surface Area (mL\/min\/1.73 m2)?",
+      "conf" : 1,
+      "w" : 0.21399177695220375
+    },
+    {
+      "h" : 0.008888888888888835,
+      "x" : 0.20164609567901218,
+      "y" : 0.6569444443450376,
+      "text" : "[A] To account for fluctuations in ambient temperature",
+      "conf" : 1,
+      "w" : 0.3086419735314711
+    },
+    {
+      "h" : 0.008888889153798485,
+      "x" : 0.23971192774348446,
+      "y" : 0.6438888888373588,
+      "text" : "[B] To correct for non-linear optical distortion in spectrophotometers",
+      "conf" : 1,
+      "w" : 0.3847736382634385
+    },
+    {
+      "h" : 0.008888888888888946,
+      "x" : 0.2716049457475992,
+      "y" : 0.6322222223331146,
+      "text" : "[C] To eliminate the effects of variation in body size across diverse individuals,",
+      "conf" : 1,
+      "w" : 0.44855964708628143
+    },
+    {
+      "h" : 0.008720930152469109,
+      "x" : 0.16769546923868323,
+      "y" : 0.6206395349677261,
+      "text" : "allowing direct comparison to CKD stages",
+      "conf" : 1,
+      "w" : 0.2407407220804466
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.20884773569958853,
+      "y" : 0.6082848835513566,
+      "text" : "[D] To adjust for dietary sodium consumption differences",
+      "conf" : 1,
+      "w" : 0.32304526275058965
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.20164609567901218,
+      "y" : 0.5959302326550389,
+      "text" : "[E] To calibrate against international insulin standards",
+      "conf" : 1,
+      "w" : 0.3086419735314711
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.2623456832716049,
+      "y" : 0.5748611113193206,
+      "text" : "Q18. [2022 Exam] Which of the following variables is included in",
+      "conf" : 1,
+      "w" : 0.42592592059441337
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.2654320933127573,
+      "y" : 0.5618055556489062,
+      "text" : "the 4-variable Modification of Diet in Renal Disease (MDRD) study",
+      "conf" : 1,
+      "w" : 0.4362139911771571
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.08230452558299045,
+      "y" : 0.5494186045542636,
+      "text" : "equation?",
+      "conf" : 1,
+      "w" : 0.06995884277535686
+    },
+    {
+      "h" : 0.01031007766723624,
+      "x" : 0.20370370679012337,
+      "y" : 0.5356782947448888,
+      "text" : "[A] Body weight in kilograms and height in centimeters",
+      "conf" : 1,
+      "w" : 0.3086419735314711
+    },
+    {
+      "h" : 0.00872738997141509,
+      "x" : 0.22530864642489698,
+      "y" : 0.523252583984235,
+      "text" : "[B] 24-hour urinary urea nitrogen excretion and serum albumin",
+      "conf" : 1,
+      "w" : 0.35596705982520144
+    },
+    {
+      "h" : 0.00872092988755957,
+      "x" : 0.21296295744170116,
+      "y" : 0.5101744185562016,
+      "text" : "[C] Blood hemoglobin concentration and serum potassium",
+      "conf" : 1,
+      "w" : 0.3312757000233392
+    },
+    {
+      "h" : 0.0087403098742167,
+      "x" : 0.21604937849794253,
+      "y" : 0.49853682156190404,
+      "text" : "[D] Serum Creatinine, Age, Sex, and Race (ethnicity factor)",
+      "conf" : 1,
+      "w" : 0.33744855196970813
+    },
+    {
+      "h" : 0.01028423786163335,
+      "x" : 0.18312757541152255,
+      "y" : 0.4862467701727559,
+      "text" : "[E] Plasma renin activity and aldosterone levels",
+      "conf" : 1,
+      "w" : 0.2716049338286778
+    },
+    {
+      "h" : 0.011757105721367789,
+      "x" : 0.7304526822359394,
+      "y" : 0.6961563305020906,
+      "text" : "Q24. [2025 Exam] When is a confirmatory eGFR based on Cystatin",
+      "conf" : 1,
+      "w" : 0.44032920981353174
+    },
+    {
+      "h" : 0.011731266445583755,
+      "x" : 0.6841563820781893,
+      "y" : 0.6830878553306544,
+      "text" : "C (eGFR_cys or combined eGFR_cr-cys) specifically",
+      "conf" : 1,
+      "w" : 0.34773662255245186
+    },
+    {
+      "h" : 0.01309431499905056,
+      "x" : 0.6306584330504117,
+      "y" : 0.669324935210476,
+      "text" : "recommended by DIGO guidelines?",
+      "conf" : 1,
+      "w" : 0.2530864019813778
+    },
+    {
+      "h" : 0.008888889153798374,
+      "x" : 0.7160493785596709,
+      "y" : 0.6569444443709032,
+      "text" : "[A] When eGFR_cr is between 45-59 mL\/min\/1.73 m2 without markers of",
+      "conf" : 1,
+      "w" : 0.41563785001166964
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6522633708847736,
+      "y" : 0.646075581340843,
+      "text" : "kidney damage, to confirm or refute Stage 3a CKD",
+      "conf" : 1,
+      "w" : 0.2880658323659837
+    },
+    {
+      "h" : 0.008888888888888946,
+      "x" : 0.6275720123456792,
+      "y" : 0.632222222284665,
+      "text" : "[B] In acute severe cardiogenic shock only",
+      "conf" : 1,
+      "w" : 0.24691357402681546
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6676954742455419,
+      "y" : 0.6198611109168947,
+      "text" : "[C] Exclusively in patients undergoing peritoneal dialysis",
+      "conf" : 1,
+      "w" : 0.32304526275058965
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.6625514441872428,
+      "y" : 0.608284883775436,
+      "text" : "[D] When urine dipstick is strongly positive for bilirubin",
+      "conf" : 1,
+      "w" : 0.30864197353147116
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.6286008189643348,
+      "y" : 0.5959302325096899,
+      "text" : "[E] Only in children under 6 months of age",
+      "conf" : 1,
+      "w" : 0.24485596470862814
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.7181070000411521,
+      "y" : 0.5748611113193206,
+      "text" : "Q25. [Faculty Exam] Which of the following clinical factors can",
+      "conf" : 1,
+      "w" : 0.41563785001166953
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.7129629561385461,
+      "y" : 0.5618055556307376,
+      "text" : "cause non-GFR-related elevation of Serum Cystatin C levels?",
+      "conf" : 1,
+      "w" : 0.4094649980653007
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.6286008189643348,
+      "y" : 0.54796511623062,
+      "text" : "[A] High dietary cooked meat consumption",
+      "conf" : 1,
+      "w" : 0.24485596470862814
+    },
+    {
+      "h" : 0.01031007766723624,
+      "x" : 0.6563785958161867,
+      "y" : 0.53567829459954,
+      "text" : "[B] Sarcopenia and extreme skeletal muscle atrophy",
+      "conf" : 1,
+      "w" : 0.30041151226691476
+    },
+    {
+      "h" : 0.00872738997141509,
+      "x" : 0.7211934209619341,
+      "y" : 0.523252583984235,
+      "text" : "[C] Untreated hyperthyroidism, high-dose corticosteroid therapy, and active",
+      "conf" : 1,
+      "w" : 0.42592592059441325
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.5730452696502057,
+      "y" : 0.5123611113193206,
+      "text" : "systemic inflammation",
+      "conf" : 1,
+      "w" : 0.12962962696387326
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6265432072359398,
+      "y" : 0.4993055555338384,
+      "text" : "[D] Ingestion of trimethoprim or cimetidine",
+      "conf" : 1,
+      "w" : 0.2407407220804466
+    },
+    {
+      "h" : 0.008888888888888835,
+      "x" : 0.6502057577160494,
+      "y" : 0.4869444443840914,
+      "text" : "[E] Extreme physical endurance marathon running",
+      "conf" : 1,
+      "w" : 0.2880658323659837
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.2695473295061728,
+      "y" : 0.45421511635174416,
+      "text" : "Q19. [2021 Exam] What is the major clinical limitation of the MDRD",
+      "conf" : 1,
+      "w" : 0.44032920981353185
+    },
+    {
+      "h" : 0.011627906163533597,
+      "x" : 0.7119341612482851,
+      "y" : 0.45348837189922486,
+      "text" : "Q26. [Core Exam] What is the formula for calculating Fractional",
+      "conf" : 1,
+      "w" : 0.43621399117715703
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.25411522582304524,
+      "y" : 0.44113372109980625,
+      "text" : "equation when applied to patients with normal or near-normal",
+      "conf" : 1,
+      "w" : 0.4135802167016755
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.7283950580932785,
+      "y" : 0.44113372086967056,
+      "text" : "Excretion of Sodium (FENa), expressed in terms of spot urine and",
+      "conf" : 1,
+      "w" : 0.4362139911771572
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.09979423999485593,
+      "y" : 0.42877906984011616,
+      "text" : "renal function?",
+      "conf" : 1,
+      "w" : 0.1049382671620111
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.5740740753497942,
+      "y" : 0.4280523256540698,
+      "text" : "plasma chemistry?",
+      "conf" : 1,
+      "w" : 0.12757201764568593
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.22633745298353902,
+      "y" : 0.41497093028706405,
+      "text" : "[A] It significantly overestimates GFR in acute tubular necrosis",
+      "conf" : 1,
+      "w" : 0.35390945050701406
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.6522633696159124,
+      "y" : 0.41497093015988373,
+      "text" : "[A] FENa = (U_Na * P_Na) \/ (U_Cr * P_Cr) * 100%",
+      "conf" : 1,
+      "w" : 0.29218105100235847
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.2129629671039094,
+      "y" : 0.4026162791424418,
+      "text" : "[B] It cannot be calculated without 24-hour urine collection",
+      "conf" : 1,
+      "w" : 0.3312757000233393
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6059670748628259,
+      "y" : 0.40334302313469,
+      "text" : "[B] FENa = (U_Na \/P_Na) * 100%",
+      "conf" : 1,
+      "w" : 0.19958847573718186
+    },
+    {
+      "h" : 0.010284237331814161,
+      "x" : 0.22222222702331948,
+      "y" : 0.38875322997708583,
+      "text" : "[C] It is completely invalid in elderly individuals over 50 years",
+      "conf" : 1,
+      "w" : 0.34567898924245777
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.6039094617626888,
+      "y" : 0.39026162778585266,
+      "text" : "[C] FENa = (P_Cr \/U_Cr) * 100%",
+      "conf" : 1,
+      "w" : 0.1954732451049036
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.19032922280521247,
+      "y" : 0.377180232630814,
+      "text" : "[D] It produces negative values in female patients",
+      "conf" : 1,
+      "w" : 0.2818930044114215
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.6965020639574757,
+      "y" : 0.377180232630814,
+      "text" : "[D] FENa = [(U_Na * P_Cr) \/ (P_Na * U_Cr)] * 100% [which equals",
+      "conf" : 1,
+      "w" : 0.3806584196270637
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.23662550967078202,
+      "y" : 0.3648255813226744,
+      "text" : "[E] It systematically underestimates true GFR at higher levels (>60",
+      "conf" : 1,
+      "w" : 0.37860081030887627
+    },
+    {
+      "h" : 0.01030361758338072,
+      "x" : 0.6234567872427984,
+      "y" : 0.36707041337665286,
+      "text" : "(Clearance_Na \/ Clearance_Cr) * 100%]",
+      "conf" : 1,
+      "w" : 0.23045267548950954
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.18827160024005501,
+      "y" : 0.3531976743701549,
+      "text" : "mL\/min\/1.73 m2), leading to false CKD diagnoses",
+      "conf" : 1,
+      "w" : 0.2818930044114215
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.631687239660494,
+      "y" : 0.35392441851380807,
+      "text" : "[E] FENa = (U_Na + U_Cr) \/ (P_Na + P_Cr)",
+      "conf" : 1,
+      "w" : 0.25102879266319034
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.2654321030864197,
+      "y" : 0.33208333312261606,
+      "text" : "Q20. [2020 Exam] Why has the CKD-EPI (Chronic Kidney Disease",
+      "conf" : 1,
+      "w" : 0.43209877254078227
+    },
+    {
+      "h" : 0.011692505942450637,
+      "x" : 0.2664609107767488,
+      "y" : 0.31973514204368103,
+      "text" : "Epidemiology Collaboration) equation largely replaced the MDRD",
+      "conf" : 1,
+      "w" : 0.4341563578671629
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.1502057646776405,
+      "y" : 0.30736111120759246,
+      "text" : "equation in clinical practice?",
+      "conf" : 1,
+      "w" : 0.20164607305946586
+    },
+    {
+      "h" : 0.008888889153798374,
+      "x" : 0.17798354344993128,
+      "y" : 0.29361111116264105,
+      "text" : "[A] It requires invasive arterial catheterization",
+      "conf" : 1,
+      "w" : 0.2613168632459341
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.2551440381172838,
+      "y" : 0.2812500000545059,
+      "text" : "[B] It is significantly more accurate at GFR >60 mL\/min\/1.73 m?, reducing",
+      "conf" : 1,
+      "w" : 0.41563785001166953
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.2541152211676955,
+      "y" : 0.26958333352525493,
+      "text" : "false-positive CKD classifications while maintaining precision at low GFR",
+      "conf" : 1,
+      "w" : 0.4135802167016755
+    },
+    {
+      "h" : 0.008888888888888946,
+      "x" : 0.20370369849108388,
+      "y" : 0.25722222228466485,
+      "text" : "[C] It does not require serum creatinine measurement",
+      "conf" : 1,
+      "w" : 0.3127571921678459
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.2242798412208503,
+      "y" : 0.24486111115914277,
+      "text" : "[D] It measures inulin clearance directly through skin sensors",
+      "conf" : 1,
+      "w" : 0.3497942318706393
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.16975309050068577,
+      "y" : 0.2318055556159086,
+      "text" : "[E] It is unaffected by renal artery stenosis",
+      "conf" : 1,
+      "w" : 0.24485596470862814
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.7314814889917693,
+      "y" : 0.3320833331226162,
+      "text" : "Q27. [Core Exam] A patient with acute oliguria has FENa < 1% (and",
+      "conf" : 1,
+      "w" : 0.45061728039627547
+    },
+    {
+      "h" : 0.011692505942450637,
+      "x" : 0.7150205830932783,
+      "y" : 0.3197351420194562,
+      "text" : "urine sodium < 20 mEq\/L). What does this biochemical finding",
+      "conf" : 1,
+      "w" : 0.4176954353380503
+    },
+    {
+      "h" : 0.01100174268086751,
+      "x" : 0.5411522628298915,
+      "y" : 0.3074127908737242,
+      "text" : "indicate?",
+      "conf" : 1,
+      "w" : 0.07019054964653348
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.7150205813528805,
+      "y" : 0.29430555556140287,
+      "text" : "[A] Prerenal Azotemia with avid sodium and water reabsorption by intact,",
+      "conf" : 1,
+      "w" : 0.4176954833216636
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.5823045264060358,
+      "y" : 0.2812499998304265,
+      "text" : "functioning renal tubules",
+      "conf" : 1,
+      "w" : 0.14814814681527
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.7047325152520575,
+      "y" : 0.2695833331044476,
+      "text" : "[B] Acute Tubular Necrosis with loss of tubular reabsorptive capability",
+      "conf" : 1,
+      "w" : 0.3971193421561763
+    },
+    {
+      "h" : 0.008888888888888946,
+      "x" : 0.6183127543981481,
+      "y" : 0.2572222222604402,
+      "text" : "[C] Postrenal urinary tract obstruction",
+      "conf" : 1,
+      "w" : 0.2242798235431408
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6769547381344306,
+      "y" : 0.24486111115914277,
+      "text" : "[D] Severe nephrotoxic tubular injury from aminoglycosides",
+      "conf" : 1,
+      "w" : 0.33744855196970813
+    },
+    {
+      "h" : 0.008746769693162793,
+      "x" : 0.6430041197873797,
+      "y" : 0.23257105948613482,
+      "text" : "[E] Complete absence of aldosterone receptors",
+      "conf" : 1,
+      "w" : 0.2736625431468652
+    },
+    {
+      "h" : 0.011724806361728235,
+      "x" : 0.4927983450411525,
+      "y" : 0.21080426346462727,
+      "text" : "Q21. [2024 Exam] In a patient with bilateral lower limb amputations Q28. [Core Exam] When a patient with acute oliguria is receiving",
+      "conf" : 1,
+      "w" : 0.8868312235898193
+    },
+    {
+      "h" : 0.0102971574995252,
+      "x" : 0.26337449272976654,
+      "y" : 0.19846253233545186,
+      "text" : "or severe muscle-wasting cachexia, how does Serum Creatinine",
+      "conf" : 1,
+      "w" : 0.42798350592079404
+    },
+    {
+      "h" : 0.011686045858595118,
+      "x" : 0.7294238738425924,
+      "y" : 0.19915697689694928,
+      "text" : "Loop Diuretics (which invalidate FENa), what alternative fractional",
+      "conf" : 1,
+      "w" : 0.44238684312352594
+    },
+    {
+      "h" : 0.010277777777777719,
+      "x" : 0.1460905373971193,
+      "y" : 0.18680555579425512,
+      "text" : "behave relative to true GFR?",
+      "conf" : 1,
+      "w" : 0.1934156357867163
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.5864197547325102,
+      "y" : 0.18680555530077325,
+      "text" : "excretion test is used?",
+      "conf" : 1,
+      "w" : 0.15637859608392302
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.2674897075720165,
+      "y" : 0.1722383720203488,
+      "text" : "[A] Creatinine production is markedly reduced, yielding a deceptively 'normal'",
+      "conf" : 1,
+      "w" : 0.43621399117715703
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.6347736582647463,
+      "y" : 0.17296511623062027,
+      "text" : "[A] Fractional Excretion of Glucose (FE_Glu)",
+      "conf" : 1,
+      "w" : 0.2572016446095592
+    },
+    {
+      "h" : 0.01031007766723635,
+      "x" : 0.1923868264403294,
+      "y" : 0.16067829459954003,
+      "text" : "serum creatinine despite severely depressed GFR",
+      "conf" : 1,
+      "w" : 0.2901234416841711
+    },
+    {
+      "h" : 0.00872092988755968,
+      "x" : 0.6358024648148148,
+      "y" : 0.15988372083333335,
+      "text" : "[B] Fractional Excretion of Potassium (FE_K)",
+      "conf" : 1,
+      "w" : 0.2592592539277466
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.2541152211676955,
+      "y" : 0.14902777757604235,
+      "text" : "[B] Serum creatinine is falsely elevated, causing underestimation of GFR",
+      "conf" : 1,
+      "w" : 0.4135802167016755
+    },
+    {
+      "h" : 0.010174418555365605,
+      "x" : 0.7273662625171465,
+      "y" : 0.14752906984011627,
+      "text" : "[C] Fractional Excretion of Urea (FE_Urea < 35% indicates prerenal azotemia",
+      "conf" : 1,
+      "w" : 0.4423867951399125
+    },
+    {
+      "h" : 0.0102971574995252,
+      "x" : 0.20679012744341557,
+      "y" : 0.13596253235362055,
+      "text" : "[C] Serum creatinine matches inulin clearance perfectly",
+      "conf" : 1,
+      "w" : 0.31893004411421483
+    },
+    {
+      "h" : 0.010297157499525311,
+      "x" : 0.6656378547668041,
+      "y" : 0.13596253223855254,
+      "text" : "because urea transport is independent of loop diuretics)",
+      "conf" : 1,
+      "w" : 0.3189300201224081
+    },
+    {
+      "h" : 0.010174418555365716,
+      "x" : 0.23456790747599426,
+      "y" : 0.12281976751453488,
+      "text" : "[D] Creatinine clearance becomes completely independent of age",
+      "conf" : 1,
+      "w" : 0.37448559167250145
+    },
+    {
+      "h" : 0.01027777777777783,
+      "x" : 0.6337448588477365,
+      "y" : 0.12430555534316656,
+      "text" : "[D] Fractional Excretion of Calcium (FE_Ca)",
+      "conf" : 1,
+      "w" : 0.25514403529137186
+    },
+    {
+      "h" : 0.01028423786163335,
+      "x" : 0.1872427936213993,
+      "y" : 0.11124677004557576,
+      "text" : "[E] Creatinine is converted to albumin by the liver",
+      "conf" : 1,
+      "w" : 0.28395061372960884
+    },
+    {
+      "h" : 0.01028423786163335,
+      "x" : 0.6440329264060355,
+      "y" : 0.1112467701909246,
+      "text" : "[E] Fractional Excretion of Magnesium (FE_Mg)",
+      "conf" : 1,
+      "w" : 0.27572015246505255
+    },
+    {
+      "h" : 0.007344961166381836,
+      "x" : 0.09670782021604934,
+      "y" : 0.01966085278616625,
+      "text" : "Twisted Medicine",
+      "conf" : 1,
+      "w" : 0.1028806578438237
+    },
+    {
+      "h" : 0.017519379191928475,
+      "x" : 0.3796296218449934,
+      "y" : 0.014573643526234081,
+      "text" : "•Clinical Biochemistry & Renal Clearance Master Class Faculty & BonEyam Preparation",
+      "conf" : 1,
+      "w" : 0.46707815494177474
+    },
+    {
+      "h" : 0.007344961166381836,
+      "x" : 0.8220164642746914,
+      "y" : 0.01966085278616625,
+      "text" : "Confidential - Dedicated for Medical Student Revision",
+      "conf" : 1,
+      "w" : 0.26954732451049035
+    }
+  ],
+  "page" : 124
+}

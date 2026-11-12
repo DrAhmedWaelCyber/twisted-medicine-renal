@@ -1,0 +1,1013 @@
+{
+  "page" : 47,
+  "items" : [
+    {
+      "y" : 0.9781976745155039,
+      "text" : "Twisted Medicine",
+      "x" : 0.11316872695473243,
+      "w" : 0.1604938267162011,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "y" : 0.976747416136889,
+      "text" : "• Renal System Module • Lecture 12 MCQ Masterclass",
+      "x" : 0.3683127629629628,
+      "w" : 0.3456789892424577,
+      "h" : 0.0087273899714152,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9651162791424419,
+      "text" : "Twisted Medicine Medical Series • Tubular Transport, Glucose Tm, SGLT, Secretion & Tubulopathies • Standard Practice Bank",
+      "x" : 0.3693415721965018,
+      "w" : 0.6728394706294222,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.976747416123995,
+      "text" : "Page 1 of 4",
+      "x" : 0.9341563774348425,
+      "w" : 0.06995884277535691,
+      "h" : 0.008727390236324739,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9382170541329375,
+      "text" : "12. RENAL TUBULAR REABSORPTION & SECRETION - PHYSIOLOGY LECTURE",
+      "x" : 0.5000000062962962,
+      "w" : 0.6296296029720667,
+      "h" : 0.01310077508290608,
+      "conf" : 1
+    },
+    {
+      "y" : 0.9164244186773256,
+      "text" : "Twisted Medicine Physiology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "x" : 0.50102881622085,
+      "w" : 0.5781892980419615,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8924806202446319,
+      "text" : "Q01. [2025 Exam] Which of the following transport mechanisms",
+      "x" : 0.25205761505486957,
+      "w" : 0.4341563578671629,
+      "h" : 0.011705426110161676,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8786337208393895,
+      "text" : "provides the primary driving force for the reabsorption of almost",
+      "x" : 0.25617283397633756,
+      "w" : 0.44238684312352594,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8662790698643411,
+      "text" : "all solutes and water in the renal tubule?",
+      "x" : 0.1738683174554182,
+      "w" : 0.28189300441142146,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8524709303234012,
+      "text" : "[A] Basolateral Na+\/K+ ATPase generating low intracellular Na+ and a",
+      "x" : 0.2397119393261316,
+      "w" : 0.4135802167016755,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8408430230862403,
+      "text" : "negative membrane potential",
+      "x" : 0.12139917482853231,
+      "w" : 0.17695472525350703,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8299806203673192,
+      "text" : "[B] Apical pinocytosis of albumin and low molecular weight globulins",
+      "x" : 0.23251028737997256,
+      "w" : 0.3991769514743636,
+      "h" : 0.011705425580342599,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8176388888590258,
+      "text" : "[C] Transcellular simple passive diffusion of sodium across lipid bilayers",
+      "x" : 0.24279834866255165,
+      "w" : 0.4197530686480445,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8066666667543249,
+      "text" : "[D] Direct vesicular exocytosis of intact filtrate across tubular cells",
+      "x" : 0.22633745500685848,
+      "w" : 0.38683127157343256,
+      "h" : 0.008888888623979296,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7943055556340772,
+      "text" : "[E] Paracellular solvent drag driven solely by medullary interstitial urea",
+      "x" : 0.2397119393261316,
+      "w" : 0.4135802167016755,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7703036174897167,
+      "text" : "Q02. [2024 Exam] In the Proximal Convoluted Tubule (PCT), what",
+      "x" : 0.25720165164609043,
+      "w" : 0.4444444284499066,
+      "h" : 0.011718345748053638,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7565277775975506,
+      "text" : "percentage of the filtered load of sodium, water, and potassium is",
+      "x" : 0.259259264866255,
+      "w" : 0.4485596470862814,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7448611112560419,
+      "text" : "normally reabsorbed?",
+      "x" : 0.11111111337448551,
+      "w" : 0.1522633654516448,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7311111111626412,
+      "text" : "[A] Approximately 65% to 70% (isotonically reabsorbed)",
+      "x" : 0.19753086968449912,
+      "w" : 0.32921809070515184,
+      "h" : 0.008888889153798485,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7194444443450376,
+      "text" : "[B] 10% to 15%",
+      "x" : 0.08127572177640599,
+      "w" : 0.09670781789335817,
+      "h" : 0.008888888888888835,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7070833334101871,
+      "text" : "[C] Exactly 100% with no sodium reaching the loop of Henle",
+      "x" : 0.20884773899176945,
+      "w" : 0.3518518411888266,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6954295863629304,
+      "text" : "[D] Less than 25% under normal resting conditions",
+      "x" : 0.18106996165980788,
+      "w" : 0.3004115122669148,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6845930233042635,
+      "text" : "[E] 90% in cortical nephrons and 0% in juxtamedullary nephrons",
+      "x" : 0.22119342191358005,
+      "w" : 0.3765432009906889,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8931944445476088,
+      "text" : "Q08. [2022 Exam] Approximately 85% to 90% of filtered",
+      "x" : 0.699588482047325,
+      "w" : 0.3744855916725016,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8794121449212836,
+      "text" : "bicarbonate (HCO3-) is reabsorbed in the proximal tubule. This",
+      "x" : 0.7253086481138543,
+      "w" : 0.4300411392307881,
+      "h" : 0.0117312653859456,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8655523256540698,
+      "text" : "process is initiated apically by:",
+      "x" : 0.6193415674211247,
+      "w" : 0.2181069955885785,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8524709303234012,
+      "text" : "[A] Direct apical uptake of filtered bicarbonate by an electrogenic symporter",
+      "x" : 0.7304526804012346,
+      "w" : 0.44032920981353174,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8415697674903101,
+      "text" : "[B] Endocytosis of bicarbonate ions via clathrin-coated pits",
+      "x" : 0.682098771159122,
+      "w" : 0.34362137992427033,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8299806203673192,
+      "text" : "[C] Apical H+ secretion via NHE3, converting luminal HCO3- to H2CO3",
+      "x" : 0.7181069948559671,
+      "w" : 0.41563785001166964,
+      "h" : 0.011705425580342599,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8176388890346556,
+      "text" : "[D] Direct paracellular HCO3- diffusion driven by lumen-positive potential",
+      "x" : 0.7222222292866938,
+      "w" : 0.4238682872844193,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.8059722224206181,
+      "text" : "[E] Hydrolysis of bicarbonate into ammonium ions by glutaminase enzymes",
+      "x" : 0.728395054389575,
+      "w" : 0.44032920981353174,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7710755814389534,
+      "text" : "Q09. [2023 Exam] The membrane-bound enzyme Carbonic",
+      "x" : 0.7098765471604938,
+      "w" : 0.3950617088461822,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7565277779093464,
+      "text" : "Anhydrase IV (CA-IV) localized on the brush border of proximal",
+      "x" : 0.727366259233539,
+      "w" : 0.4300411392307881,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.731111111172331,
+      "text" : "[A] Synthesis of aldosterone from intracellular cholesterol precursors",
+      "x" : 0.709876547201646,
+      "w" : 0.3991769514743636,
+      "h" : 0.008888889153798374,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7194444443692625,
+      "text" : "[B] Active transport of calcium ions across tight junctions",
+      "x" : 0.6769547366769546,
+      "w" : 0.33333333333333326,
+      "h" : 0.008888888888888835,
+      "conf" : 1
+    },
+    {
+      "y" : 0.7085755815649224,
+      "text" : "[C] Rapid conversion of intracellular CO2 and H20 into carbonic acid",
+      "x" : 0.7119341499314131,
+      "w" : 0.4032921461189317,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.696947674545785,
+      "text" : "[D] Hydrolysis of ATP to drive the basolateral sodium-potassium pump",
+      "x" : 0.7150205739454734,
+      "w" : 0.4094649980653008,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6845930234496124,
+      "text" : "[E] Rapid dehydration of luminal H2CO3 into CO2 and H20 for passive",
+      "x" : 0.7170781915980795,
+      "w" : 0.4176954353380503,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6497222224206181,
+      "text" : "Q03. [2023 Exam] Why does the tubular fluid remaining at the end",
+      "x" : 0.25823044709362153,
+      "w" : 0.44650206175990076,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6359625321719344,
+      "text" : "of the Proximal Convoluted Tubule remain strictly ISOSMOTIC",
+      "x" : 0.2469135749485598,
+      "w" : 0.4238682872844193,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6220930234011628,
+      "text" : "(-290-300 mOsm\/kg) to plasma?",
+      "x" : 0.14506173213305887,
+      "w" : 0.22427982354314074,
+      "h" : 0.011627906163533375,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6097383721656977,
+      "text" : "[A] The PCT reabsorbs sodium and solutes without any accompanying water",
+      "x" : 0.258230460185185,
+      "w" : 0.4506172803962756,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5981782947448888,
+      "text" : "[B] The PCT is completely impermeable to water along its entire length",
+      "x" : 0.24074074766803816,
+      "w" : 0.4156378500116696,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5865277777395599,
+      "text" : "[C] Urea is actively pumped out of tubular cells into the lumen",
+      "x" : 0.21399177558299018,
+      "w" : 0.36213991177157034,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.574861111301152,
+      "text" : "[D] Active water secretion balances active sodium reabsorption",
+      "x" : 0.21810700051440318,
+      "w" : 0.3703703730361267,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5631944444661616,
+      "text" : "[E] Water is reabsorbed proportionally with solutes via Aquaporin-1",
+      "x" : 0.2283950631001371,
+      "w" : 0.3909464902098074,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5268217052732798,
+      "text" : "Q04. [2022 Exam] Glomerulotubular (G-T) Balance is an intrinsic",
+      "x" : 0.2530864143004116,
+      "w" : 0.43621399117715703,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5137532298090755,
+      "text" : "autoregulatory mechanism of the proximal tubule that ensures:",
+      "x" : 0.24999999276406057,
+      "w" : 0.4341563578671629,
+      "h" : 0.01028423786163346,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5006944442723631,
+      "text" : "[A] A constant absolute milligram amount of sodium is reabsorbed regardless",
+      "x" : 0.25823044516460925,
+      "w" : 0.4506172803962755,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4898255813226744,
+      "text" : "of GFR",
+      "x" : 0.05761316815843622,
+      "w" : 0.04526748897144629,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.47819767446705425,
+      "text" : "[B] A constant percentage (~65-70%) of filtered load is reabsorbed despite",
+      "x" : 0.2510288138545951,
+      "w" : 0.4362139911771571,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "y" : 0.465843023346657,
+      "text" : "GFR changes",
+      "x" : 0.0781893014917695,
+      "w" : 0.08641975330856612,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.45498062051110477,
+      "text" : "[C] The GFR is completely suppressed whenever blood pressure rises",
+      "x" : 0.2397119393261316,
+      "w" : 0.4135802167016755,
+      "h" : 0.011705426110161676,
+      "conf" : 1
+    },
+    {
+      "y" : 0.44333333326825913,
+      "text" : "[D] Renal blood flow remains completely constant between 50 and 80 mmHg",
+      "x" : 0.2572016505761316,
+      "w" : 0.44855964708628143,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "y" : 0.43097222205431635,
+      "text" : "[E] The macula densa completely stops secreting adenosine during exercise",
+      "x" : 0.2561728450874484,
+      "w" : 0.4465020617599007,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.40554909581179155,
+      "text" : "Q05. [2021 Exam] Which peritubular capillary Starling force",
+      "x" : 0.23662550936214002,
+      "w" : 0.40329219410254524,
+      "h" : 0.011679586304558676,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3917151161882268,
+      "text" : "primarily drives the uptake of reabsorbed fluid from the proximal",
+      "x" : 0.25617283397633756,
+      "w" : 0.44238684312352594,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3793604650193798,
+      "text" : "tubule interstitium back into the blood?",
+      "x" : 0.1687242753086421,
+      "w" : 0.27160493382867773,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.36634366942679825,
+      "text" : "[A] High peritubular capillary hydrostatic pressure (averaging -55 mmHg)",
+      "x" : 0.24691358410493816,
+      "w" : 0.427983505920794,
+      "h" : 0.011757105191548711,
+      "conf" : 1
+    },
+    {
+      "y" : 0.35464470277951654,
+      "text" : "[B] High peritubular interstitial oncotic pressure derived from lymphatics",
+      "x" : 0.24279835910493816,
+      "w" : 0.4156378500116696,
+      "h" : 0.00873385005527072,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3423546511307335,
+      "text" : "[C] Low interstitial hydrostatic pressure combined with zero oncotic pressure",
+      "x" : 0.25617284694787357,
+      "w" : 0.44650206175990076,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "y" : 0.33069444454760893,
+      "text" : "[D] Active pinocytosis by peritubular endothelial fenestrations",
+      "x" : 0.2129629674125513,
+      "w" : 0.35596705982520144,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3190277775975505,
+      "text" : "[E] High peritubular capillary oncotic pressure (~32-35 mmHg) and low",
+      "x" : 0.2397119393261316,
+      "w" : 0.4135802167016755,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3073611111591428,
+      "text" : "hydrostatic pressure (~13 mmHg)",
+      "x" : 0.13374485932784627,
+      "w" : 0.2016460730594659,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.28337209293575244,
+      "text" : "Q06. [2020 Exam] During extracellular fluid volume expansion",
+      "x" : 0.24485597232510273,
+      "w" : 0.4197530686480444,
+      "h" : 0.01174418555365675,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2703036173459312,
+      "text" : "(e.g., rapid saline infusion), what happens to peritubular Starling",
+      "x" : 0.2530864176954733,
+      "w" : 0.44032920981353185,
+      "h" : 0.011718346277872715,
+      "conf" : 1
+    },
+    {
+      "y" : 0.25652777799292203,
+      "text" : "forces and proximal tubular reabsorption?",
+      "x" : 0.1790123427572017,
+      "w" : 0.2921810749941652,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2434722220845975,
+      "text" : "[A] Peritubular oncotic pressure rises steeply, accelerating fluid uptake",
+      "x" : 0.23971194104938254,
+      "w" : 0.4135802167016755,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2332848837754361,
+      "text" : "[B] Proximal sodium reabsorption increases to 100%, causing total anuria",
+      "x" : 0.24794239220679,
+      "w" : 0.4300411392307881,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.22165697681686047,
+      "text" : "[C] Peritubular oncotic falls and hydrostatic rises, inhibiting reabsorption",
+      "x" : 0.2438271675240053,
+      "w" : 0.42181070195803855,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.21002906982194774,
+      "text" : "[D] Peritubular capillary resistance increases 10-fold, stopping all blood flow",
+      "x" : 0.25411523186728385,
+      "w" : 0.44238684312352594,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.19846253230638206,
+      "text" : "[E] Glomerular ultrafiltration coefficient drops to zero immediately",
+      "x" : 0.2232510326131687,
+      "w" : 0.3806584196270637,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "y" : 0.648998708098799,
+      "text" : "Q10. [2021 Exam] Once inside the proximal tubule epithelial cell,",
+      "x" : 0.7314814858641975,
+      "w" : 0.43827157650353765,
+      "h" : 0.013113694720798152,
+      "conf" : 1
+    },
+    {
+      "y" : 0.635962532432351,
+      "text" : "bicarbonate is extruded across the basolateral membrane into the",
+      "x" : 0.7366255149519891,
+      "w" : 0.4485596470862815,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6220930233527132,
+      "text" : "interstitial fluid primarily via:",
+      "x" : 0.6100823078532236,
+      "w" : 0.19958847573718186,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "y" : 0.6097383721656977,
+      "text" : "[A] Simple non-ionic passive diffusion across the lipid bilayer",
+      "x" : 0.6872428018930039,
+      "w" : 0.35390945050701395,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.59817829459954,
+      "text" : "[B] The basolateral Na+-3HCO3- cotransporter (NBCe1 \/ electrogenic",
+      "x" : 0.7139917627572019,
+      "w" : 0.40740741273892,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5857558138768508,
+      "text" : "symport)",
+      "x" : 0.5370370363692001,
+      "w" : 0.05359970548617765,
+      "h" : 0.009037885665893697,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5748611111739718,
+      "text" : "[C] The apical NHE3 antiporter operating in a reverse direction",
+      "x" : 0.6934156317558301,
+      "w" : 0.3662551304079451,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5624999998062017,
+      "text" : "[D] Apical CFTR chloride channels operating as bicarbonate exchangers",
+      "x" : 0.721193417249657,
+      "w" : 0.4218107019580385,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5515374677917283,
+      "text" : "[E] Direct vesicular exocytosis into the lumen of peritubular capillaries",
+      "x" : 0.7129629680298353,
+      "w" : 0.4053497794289259,
+      "h" : 0.0102971574995252,
+      "conf" : 1
+    },
+    {
+      "y" : 0.5268217053459543,
+      "text" : "Q11. [2025 Exam] In the early proximal tubule (S1 segment),",
+      "x" : 0.7160493878086419,
+      "w" : 0.40740741273892,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "y" : 0.513058785126454,
+      "text" : "glucose, amino acids, and phosphate are reabsorbed",
+      "x" : 0.6923868302812071,
+      "w" : 0.3641975210897578,
+      "h" : 0.011673126220703045,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4999999998062016,
+      "text" : "preferentially with sodium, resulting in:",
+      "x" : 0.6460905366255143,
+      "w" : 0.2716049338286778,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4876388891135992,
+      "text" : "[A] A steep fall in luminal chloride concentration to near zero",
+      "x" : 0.6862139881001373,
+      "w" : 0.35185184118882673,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.47597222240578896,
+      "text" : "[B] A progressive increase in luminal chloride concentration (TF\/P_CI > 1.0)",
+      "x" : 0.7304526793004115,
+      "w" : 0.44032920981353185,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.46432170525511124,
+      "text" : "along the tubule",
+      "x" : 0.5586419736968451,
+      "w" : 0.09670781789335814,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4527616280281008,
+      "text" : "[C] Complete alkalinization of the tubular fluid to pH 9.0",
+      "x" : 0.6728395115912206,
+      "w" : 0.32510287206877697,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4411337208757268,
+      "text" : "[D] Immediate precipitation of calcium oxalate crystals in all healthy nephrons",
+      "x" : 0.7355967021862141,
+      "w" : 0.4506172803962756,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.4295704135111007,
+      "text" : "[E] A massive drop in tubular fluid osmolality to 50 mOsm\/kg",
+      "x" : 0.6862139952880657,
+      "w" : 0.3518518411888266,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "y" : 0.404854651179183,
+      "text" : "Q12. [2020 Exam] In the late proximal tubule (S2 and S3",
+      "x" : 0.7016460968449928,
+      "w" : 0.37860081030887627,
+      "h" : 0.01029069741566968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3917151162063954,
+      "text" : "segments), why does chloride reabsorption across tight junctions",
+      "x" : 0.7355967003086422,
+      "w" : 0.4506172803962756,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3786337208393896,
+      "text" : "generate a slight lumen-positive potential (+2 to +4 mV)?",
+      "x" : 0.703703698868313,
+      "w" : 0.38683127157343267,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.36627906981589153,
+      "text" : "[A] High active secretion of sodium ions into the tubular lumen",
+      "x" : 0.6923868373456787,
+      "w" : 0.3641975210897578,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3546963827767561,
+      "text" : "[B] Direct binding of chloride to Tamm-Horsfall glycoprotein",
+      "x" : 0.6841563815843619,
+      "w" : 0.34362137992427033,
+      "h" : 0.011718345748053638,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3430555556290968,
+      "text" : "[C] Complete absence of basolateral sodium-potassium ATPase pumps",
+      "x" : 0.7191358066460904,
+      "w" : 0.4176954833216636,
+      "h" : 0.008888889153798485,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3306944443295856,
+      "text" : "[D] Rapid active secretion of potassium through apical ROMK channels",
+      "x" : 0.7181069951131687,
+      "w" : 0.41563785001166964,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.31902777786695297,
+      "text" : "[E] Chloride diffusion down its concentration gradient through anion-selective",
+      "x" : 0.734567902674897,
+      "w" : 0.4485596470862815,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.3081395348110466,
+      "text" : "claudins",
+      "x" : 0.5360082298096708,
+      "w" : 0.05144032892191186,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2841569768168605,
+      "text" : "Q13. [Faculty Exam] The lumen-positive potential (+2 to +4 mV) in",
+      "x" : 0.7345679056790124,
+      "w" : 0.4444444284499067,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2695833331407847,
+      "text" : "the late proximal tubule is physiologically important because it",
+      "x" : 0.7253086473508229,
+      "w" : 0.4300411392307881,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.25652777798202087,
+      "text" : "drives the paracellular reabsorption of:",
+      "x" : 0.6440329184670782,
+      "w" : 0.267489715192303,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2434722223237188,
+      "text" : "[A] Glucose and neutral amino acids down their chemical gradients",
+      "x" : 0.7057613218106995,
+      "w" : 0.39094649020980743,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2325710595103596,
+      "text" : "[B] Urea and uric acid via secondary active symport",
+      "x" : 0.6615226375257199,
+      "w" : 0.3024691215851022,
+      "h" : 0.008746769693162681,
+      "conf" : 1
+    },
+    {
+      "y" : 0.2216569769137598,
+      "text" : "[C] Cations, including Na+, Ca2+, and Mg2+, across tight junctions",
+      "x" : 0.7057613147462278,
+      "w" : 0.39094649020980743,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.20930232557830297,
+      "text" : "[D] Bicarbonate ions against their electrical gradient",
+      "x" : 0.6625514404269912,
+      "w" : 0.3045267548950963,
+      "h" : 0.008720930417378758,
+      "conf" : 1
+    },
+    {
+      "y" : 0.1976744186773256,
+      "text" : "[E] Tamm-Horsfall mucoproteins into the systemic circulation",
+      "x" : 0.6882716093878598,
+      "w" : 0.3559670598252015,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.1613727390399135,
+      "text" : "Q07. [2024 Exam] The sodium-hydrogen antiporter NHE3 on the",
+      "x" : 0.25205762026748946,
+      "w" : 0.4341563578671629,
+      "h" : 0.011698966026306157,
+      "conf" : 1
+    },
+    {
+      "y" : 0.14902777757604235,
+      "text" : "apical brush border membrane of the proximal tubule functions",
+      "x" : 0.25102880118312765,
+      "w" : 0.4320987725407822,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.1351744185562015,
+      "text" : "via:",
+      "x" : 0.04732510240054871,
+      "w" : 0.0288065844361887,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.12281976751453488,
+      "text" : "[A] Primary active transport requiring direct ATP hydrolysis by the carrier",
+      "x" : 0.24485597131687237,
+      "w" : 0.4238682872844193,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.11124676998052069,
+      "text" : "[B] Paracellular solvent drag driven by transcellular chloride reabsorption",
+      "x" : 0.2458847750771605,
+      "w" : 0.4259259205944133,
+      "h" : 0.010284237331814272,
+      "conf" : 1
+    },
+    {
+      "y" : 0.09958333328279395,
+      "text" : "[C] Facilitated diffusion of protons into cells down an electrical gradient",
+      "x" : 0.24074074766803816,
+      "w" : 0.4156378500116696,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.0872222221686027,
+      "text" : "[D] Secondary active countertransport coupling Na+ influx with H+ efflux",
+      "x" : 0.24588477893518504,
+      "w" : 0.4218107019580385,
+      "h" : 0.008888888623979407,
+      "conf" : 1
+    },
+    {
+      "y" : 0.07625322995442424,
+      "text" : "[E] Simple passive diffusion independent of sodium concentration gradients",
+      "x" : 0.2530864241563785,
+      "w" : 0.44032920981353185,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "y" : 0.16208333330096264,
+      "text" : "Q14. [Core Concept] Filtered low-molecular-weight proteins and",
+      "x" : 0.7294238737397118,
+      "w" : 0.4341563578671629,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "y" : 0.14830426386035062,
+      "text" : "small peptide hormones (e.g., insulin, beta-2 microglobulin) are",
+      "x" : 0.7273662605709874,
+      "w" : 0.4341563578671629,
+      "h" : 0.011724805831909157,
+      "conf" : 1
+    },
+    {
+      "y" : 0.13523578843853973,
+      "text" : "reabsorbed in the proximal tubule via:",
+      "x" : 0.6430041196502057,
+      "w" : 0.26543208188230893,
+      "h" : 0.011750645637512158,
+      "conf" : 1
+    },
+    {
+      "y" : 0.12136627890019375,
+      "text" : "[A] Receptor-mediated endocytosis via Megalin-Cubilin complexes on apical",
+      "x" : 0.7335390957133058,
+      "w" : 0.4465020617599007,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "y" : 0.11046511637596901,
+      "text" : "membranes",
+      "x" : 0.5483539106652949,
+      "w" : 0.07201645809149593,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "y" : 0.09958333326462532,
+      "text" : "[B] Facilitated diffusion mediated by GLUT2 hexose transporters",
+      "x" : 0.698559675488683,
+      "w" : 0.37654320099068883,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.08791666642963503,
+      "text" : "[C] Simple passive diffusion through tight junction aqueous pores",
+      "x" : 0.701646088203018,
+      "w" : 0.38271602894525114,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "y" : 0.07625322995442424,
+      "text" : "[D] Paracellular solvent drag across claudin-2 water channels",
+      "x" : 0.6903292241083675,
+      "w" : 0.360082302453383,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "y" : 0.06468023261264533,
+      "text" : "[E] Primary active transport coupled directly to apical H+ ATPase",
+      "x" : 0.7006172887088475,
+      "w" : 0.3806584196270638,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "y" : 0.013846899272005941,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Board Exam Past Papers",
+      "x" : 0.32098765941358015,
+      "w" : 0.5761316647319673,
+      "h" : 0.018972868389553477,
+      "conf" : 1
+    },
+    {
+      "y" : 0.01966085278616625,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321,
+      "w" : 0.19135801447262546,
+      "h" : 0.007344961166381836,
+      "conf" : 1
+    }
+  ]
+}

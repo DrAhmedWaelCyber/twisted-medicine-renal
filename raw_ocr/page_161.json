@@ -1,0 +1,1061 @@
+{
+  "items" : [
+    {
+      "h" : 0.011718345748053638,
+      "conf" : 1,
+      "x" : 0.280075179761905,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 41 MCQ Masterclass",
+      "y" : 0.9796963825829578,
+      "w" : 0.49248117958359544
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.9191729315037593,
+      "text" : "Page 3 of 4",
+      "y" : 0.9804166668773838,
+      "w" : 0.08270676679357536
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.25845865099624055,
+      "text" : "Q29. [2025 Exam] Chronic Tubulointerstitial Nephritis (CTIN)",
+      "y" : 0.9454295866051785,
+      "w" : 0.4379698961094761
+    },
+    {
+      "h" : 0.011731265915764677,
+      "conf" : 1,
+      "x" : 0.22744361535087693,
+      "text" : "is pathologically characterized by which irreversible",
+      "y" : 0.9330878551045045,
+      "w" : 0.3796992243664629
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.1334586434837094,
+      "text" : "morphological hallmarks?",
+      "y" : 0.9215116278100774,
+      "w" : 0.18796991804878457
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "x" : 0.2265037656954885,
+      "text" : "[A] Diffuse crescentic cellular proliferation in >90% of glomeruli",
+      "y" : 0.9076453487981555,
+      "w" : 0.3778195521713246
+    },
+    {
+      "h" : 0.008733849790361181,
+      "conf" : 1,
+      "x" : 0.24248120710526308,
+      "text" : "[B] Massive subendothelial immune complex deposition and wire-loop",
+      "y" : 0.8953552972188425,
+      "w" : 0.40977441827484723
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.060150376691729304,
+      "text" : "lesions",
+      "y" : 0.8851744186531008,
+      "w" : 0.045112779892922124
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.23308271165413522,
+      "text" : "[C] Pure glomerular podocyte detachment with completely normal",
+      "y" : 0.8728197675327034,
+      "w" : 0.3909774330517613
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.07330827186716787,
+      "text" : "interstitium",
+      "y" : 0.8619186046996123,
+      "w" : 0.07142856907793124
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.2518797046052631,
+      "text" : "[D] Progressive Tubular Atrophy, interstitial mononuclear infiltration, and",
+      "y" : 0.8495833333009626,
+      "w" : 0.4285714034979332
+    },
+    {
+      "h" : 0.011698966026306157,
+      "conf" : 1,
+      "x" : 0.25939849962406003,
+      "text" : "dense Interstitial Fibrosis (which correlates most tightly with long-term GFR",
+      "y" : 0.8386272605724896,
+      "w" : 0.4398496121832315
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.06296992528195487,
+      "text" : "decline)",
+      "y" : 0.8284883721511628,
+      "w" : 0.04699247951219615
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2359022596052631,
+      "text" : "[E] Acute bilateral renal cortical infarction with liquefactive necrosis",
+      "y" : 0.8161337210029069,
+      "w" : 0.39661653739441044
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2603383522869672,
+      "text" : "Q30. [2024 Exam] What is the clinical definition and classical",
+      "y" : 0.7972383719234497,
+      "w" : 0.44172932825698685
+    },
+    {
+      "h" : 0.011698966026306157,
+      "conf" : 1,
+      "x" : 0.1729323274906016,
+      "text" : "etiology of 'Analgesic Nephropathy'?",
+      "y" : 0.7863727391610376,
+      "w" : 0.26691729108863904
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.26409775002349606,
+      "text" : "[A] Acute allergic anaphylaxis developing immediately after one baby aspirin",
+      "y" : 0.7718023256540698,
+      "w" : 0.45300749306366817
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.241541360181704,
+      "text" : "[B] Pure minimal change disease caused by topical lidocaine patches",
+      "y" : 0.759447674491279,
+      "w" : 0.4078947022010918
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.22086466623590217,
+      "text" : "[C] Acute tubular necrosis induced exclusively by IV morphine",
+      "y" : 0.7478197675327034,
+      "w" : 0.36654134348602624
+    },
+    {
+      "h" : 0.010284237861633239,
+      "conf" : 1,
+      "x" : 0.2283834634163533,
+      "text" : "[D] Bilateral ureteral obstruction caused by paracetamol crystals",
+      "y" : 0.7362467701727559,
+      "w" : 0.3815789404402184
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "x" : 0.2631578966165413,
+      "text" : "[E] Chronic tubulointerstitial nephritis and papillary necrosis from cumulative",
+      "y" : 0.7231782945450342,
+      "w" : 0.45112782086852987
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.25281955604636563,
+      "text" : "long-term abuse of combination analgesics (phenacetin, acetaminophen,",
+      "y" : 0.7129166667656556,
+      "w" : 0.4304511195716885
+    },
+    {
+      "h" : 0.008966195848253089,
+      "conf" : 1,
+      "x" : 0.062030075752527114,
+      "text" : "aspirin)",
+      "y" : 0.7020348837905344,
+      "w" : 0.0451912266328813
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2189849659962405,
+      "text" : "Q31. [2023 Exam] Patients with chronic Analgesic",
+      "y" : 0.6823611111591428,
+      "w" : 0.35902254500893016
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.2612782026315787,
+      "text" : "Nephropathy carry a dramatically increased long-term risk of",
+      "y" : 0.6715116281007751,
+      "w" : 0.44360900045212526
+    },
+    {
+      "h" : 0.011744185553656639,
+      "conf" : 1,
+      "x" : 0.19172932711466156,
+      "text" : "developing which aggressive malignancy?",
+      "y" : 0.6583720929357524,
+      "w" : 0.30451126153481084
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2528195554824558,
+      "text" : "[A] Transitional Cell (Urothelial) Carcinoma of the renal pelvis, ureters, or",
+      "y" : 0.6445833334101871,
+      "w" : 0.4304511195716885
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.15319549251253117,
+      "text" : "bladder (up to 10-fold increased risk)",
+      "y" : 0.634447674491279,
+      "w" : 0.2274436045687118
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.13439849526942357,
+      "text" : "[B] Primary renal osteosarcoma",
+      "y" : 0.6213662789001937,
+      "w" : 0.19360902239143377
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.21052632155388448,
+      "text" : "[C] Clear cell Renal Cell Carcinoma of the proximal tubules",
+      "y" : 0.6097383721656977,
+      "w" : 0.3458646421891849
+    },
+    {
+      "h" : 0.01031007766723624,
+      "conf" : 1,
+      "x" : 0.18045113258145348,
+      "text" : "[D] Multiple Myeloma with light-chain deposition",
+      "y" : 0.5981782947448888,
+      "w" : 0.28571427631172497
+    },
+    {
+      "h" : 0.0087273899714152,
+      "conf" : 1,
+      "x" : 0.2142857178195488,
+      "text" : "[E] Malignant angiomyolipoma with retroperitoneal bleeding",
+      "y" : 0.5857525839697002,
+      "w" : 0.353383440666281
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2471804563204886,
+      "text" : "Q32. [2022 Exam] What is the characteristic radiographic",
+      "y" : 0.5573611111409742,
+      "w" : 0.4154135226174964
+    },
+    {
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "x" : 0.23496241253132813,
+      "text" : "appearance of Renal Papillary Necrosis on Retrograde",
+      "y" : 0.5450193796100192,
+      "w" : 0.39097743305176136
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "x" : 0.15131579320175426,
+      "text" : "Pyelography or CT Urography?",
+      "y" : 0.5326453487981555,
+      "w" : 0.22368419436050954
+    },
+    {
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "x" : 0.21710526237468672,
+      "text" : "[A] 'Snowstorm' granular pattern throughout the renal cortex",
+      "y" : 0.5188888890893744,
+      "w" : 0.35902254500893016
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.25657895174812023,
+      "text" : "[B] 'Ring Shadow' sign (sloughed, necrotic avascular papilla surrounded by",
+      "y" : 0.5065277775793819,
+      "w" : 0.4379698961094761
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.1954887248746866,
+      "text" : "radiopaque contrast medium in the medullary cavity)",
+      "y" : 0.4970930234496124,
+      "w" : 0.31578947022010917
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.25187970639097723,
+      "text" : "[C] Total absence of the left renal shadow with contralateral hypertrophy",
+      "y" : 0.48473837211724813,
+      "w" : 0.42857140349793316
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.23402256130169163,
+      "text" : "[D] Large calcified staghorn calculus casting the entire renal pelvis",
+      "y" : 0.4716569767986919,
+      "w" : 0.3928571491255167
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.23496241094924802,
+      "text" : "[E] Complete bilateral occlusion of the proximal main renal arteries",
+      "y" : 0.46002906982194774,
+      "w" : 0.39473682132065513
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.7077067734649121,
+      "text" : "Q36. [Core Exam] How do renal tubular epithelial cells",
+      "y" : 0.9454295866051785,
+      "w" : 0.3928571491255167
+    },
+    {
+      "h" : 0.011731265915764788,
+      "conf" : 1,
+      "x" : 0.7152255690084586,
+      "text" : "microscopically reveal chronic heavy metal (e.g., lead or",
+      "y" : 0.9330878550802797,
+      "w" : 0.4078947460797089
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.6372180482612781,
+      "text" : "bismuth) toxicity on renal biopsy?",
+      "y" : 0.9215116280159883,
+      "w" : 0.2518796941344468
+    },
+    {
+      "h" : 0.010290697945488758,
+      "conf" : 1,
+      "x" : 0.7330827142230574,
+      "text" : "[A] Formation of pathognomonic intracellular acid-fast intranuclear inclusion",
+      "y" : 0.9076453487497058,
+      "w" : 0.44736838872101903
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.6090225597117793,
+      "text" : "bodies (lead-protein complexes)",
+      "y" : 0.8968023256782947,
+      "w" : 0.1992481047947744
+    },
+    {
+      "h" : 0.013333333333333308,
+      "conf" : 1,
+      "x" : 0.715225558670113,
+      "text" : "[B] Complete absence of cell membranes with multinucleated syncytia",
+      "y" : 0.8844444445870807,
+      "w" : 0.4191729108863902
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7218045041353386,
+      "text" : "[C] Massive intracellular accumulation of neutral triglycerides (steatosis)",
+      "y" : 0.872819767369186,
+      "w" : 0.4285714034979331
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.703947363557331,
+      "text" : "[D] Presence of Maltese-cross polarized lipid droplets in cytoplasm",
+      "y" : 0.8597383720385174,
+      "w" : 0.38909771697800577
+    },
+    {
+      "h" : 0.010310077137417273,
+      "conf" : 1,
+      "x" : 0.6917293294486214,
+      "text" : "[E] Deposition of continuous linear IgG along the brush border",
+      "y" : 0.8481782945284289,
+      "w" : 0.36842105955978166
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.24624059736842113,
+      "text" : "Q33. [2021 Exam] Which clinical mnemonic 'POSTCARDS'",
+      "y" : 0.4207848836482559,
+      "w" : 0.41353380654374106
+    },
+    {
+      "h" : 0.011744186083475716,
+      "conf" : 1,
+      "x" : 0.23496240210526317,
+      "text" : "summarizes major causes of Renal Papillary Necrosis?",
+      "y" : 0.40837209304077826,
+      "w" : 0.39097743305176125
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.22368421517857134,
+      "text" : "[A] Polycystic, Orthostatic, Sarcoid, TB, Cirrhosis, Alport, Reflux",
+      "y" : 0.3945833331044476,
+      "w" : 0.37218044782867543
+    },
+    {
+      "h" : 0.011692506472269715,
+      "conf" : 1,
+      "x" : 0.23778196130952362,
+      "text" : "[B] Preeclampsia, Osteodystrophy, Sepsis, Trauma, Cancer, Amyloid",
+      "y" : 0.3822351418998955,
+      "w" : 0.4003759256633043
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.25093985389097734,
+      "text" : "[C] Pyelonephritis, Obstruction, Sickle cell, TB, Analgesics, RVT, Diabetes",
+      "y" : 0.3698611111591428,
+      "w" : 0.4266917313027947
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2171052676456766,
+      "text" : "[D] Penicillin, Omeprazole, Sulfa, Thiazides, Cipro, Allopurinol",
+      "y" : 0.3582848838117732,
+      "w" : 0.35902254500893016
+    },
+    {
+      "h" : 0.010290697945488758,
+      "conf" : 1,
+      "x" : 0.2180451188596489,
+      "text" : "[E] Pneumaturia, Oliguria, Strangury, Tenesmus, Colic, Anuria",
+      "y" : 0.34514534874970587,
+      "w" : 0.36466164935157935
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.24624060839598977,
+      "text" : "Q34. [2020 Exam] Aristolochic Acid Nephropathy (Balkan",
+      "y" : 0.2943055556159086,
+      "w" : 0.41353380654374106
+    },
+    {
+      "h" : 0.011679586834377642,
+      "conf" : 1,
+      "x" : 0.25375940278195475,
+      "text" : "Endemic & Chinese Herb Nephropathy) is characterized by:",
+      "y" : 0.281950904438583,
+      "w" : 0.4285714034979331
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.22556390664160406,
+      "text" : "[A] Rapidly progressive immune-complex GN with low serum C3",
+      "y" : 0.2681944443962038,
+      "w" : 0.3759398360975692
+    },
+    {
+      "h" : 0.011692505942450637,
+      "conf" : 1,
+      "x" : 0.23402255575657893,
+      "text" : "[B] Massive hypercalcemia with diffuse medullary nephrocalcinosis",
+      "y" : 0.25723514211635545,
+      "w" : 0.3928571491255167
+    },
+    {
+      "h" : 0.008888888623979407,
+      "conf" : 1,
+      "x" : 0.21146617120927302,
+      "text" : "[C] Formation of large radiopaque ammonium urate calculi",
+      "y" : 0.2441666667543248,
+      "w" : 0.34774435826294037
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2584586539786965,
+      "text" : "[D] Extensive hypocellular interstitial fibrosis, tubular atrophy, early severe",
+      "y" : 0.2318055556159086,
+      "w" : 0.44172932825698685
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.22556391442669163,
+      "text" : "anemia, and high incidence of upper tract Urothelial Carcinoma",
+      "y" : 0.2216569767986919,
+      "w" : 0.37218044782867543
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.23402255247493753,
+      "text" : "[E] Acute oliguric renal failure that resolves completely in 24 hours",
+      "y" : 0.2085755812257753,
+      "w" : 0.3928571491255168
+    },
+    {
+      "h" : 0.011757105721367789,
+      "conf" : 1,
+      "x" : 0.25093985391604,
+      "text" : "Q35. [Faculty Exam] Chronic Lead Nephropathy (Saturnine",
+      "y" : 0.17884366935256052,
+      "w" : 0.42293229915528396
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.22274436456766908,
+      "text" : "Gout) typically presents in patients with long-term",
+      "y" : 0.1664244186773255,
+      "w" : 0.36654134348602624
+    },
+    {
+      "h" : 0.011679586304558676,
+      "conf" : 1,
+      "x" : 0.21334586900845856,
+      "text" : "occupational exposure with which clinical triad?",
+      "y" : 0.15554909599347766,
+      "w" : 0.34774435826294037
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2171052676456766,
+      "text" : "[A] Nephrotic syndrome, bilateral hearing loss, and cataracts",
+      "y" : 0.1417151163699129,
+      "w" : 0.35902254500893016
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.243421059492481,
+      "text" : "[B] Extensive pulmonary hemorrhage, hemoptysis, and crescentic GN",
+      "y" : 0.12863372105135668,
+      "w" : 0.41165413434860265
+    },
+    {
+      "h" : 0.011692505942450637,
+      "conf" : 1,
+      "x" : 0.2509398567355887,
+      "text" : "[C] Massive polyuria, hypercalcemia, and proximal renal tubular acidosis",
+      "y" : 0.11776485807744308,
+      "w" : 0.42669173130279475
+    },
+    {
+      "h" : 0.011718346277872715,
+      "conf" : 1,
+      "x" : 0.2058270655075189,
+      "text" : "[D] Acute anuria, severe flank pain, and livedo reticularis",
+      "y" : 0.10469638265406878,
+      "w" : 0.336466149577642
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "x" : 0.2546992502192982,
+      "text" : "[E] Chronic tubulointerstitial disease, secondary Hypertension, and severe",
+      "y" : 0.09235465115339492,
+      "w" : 0.4342105078405823
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.18796992778195487,
+      "text" : "Hyperuricemia with clinical Gout ('Saturnine Gout')",
+      "y" : 0.08208333312261606,
+      "w" : 0.2969924849970233
+    },
+    {
+      "h" : 0.011737725469801119,
+      "conf" : 1,
+      "x" : 0.7283834592418548,
+      "text" : "Q37. [Core Exam] In IgG4-Related Systemic Disease, what is",
+      "y" : 0.798020026126002,
+      "w" : 0.43421050784058235
+    },
+    {
+      "h" : 0.011698966026306157,
+      "conf" : 1,
+      "x" : 0.7030075123433586,
+      "text" : "the characteristic tubulointerstitial renal histological",
+      "y" : 0.7863727391852622,
+      "w" : 0.3872180447828675
+    },
+    {
+      "h" : 0.01175064563751227,
+      "conf" : 1,
+      "x" : 0.7105263208176691,
+      "text" : "[A] Pure minimal change podocytopathy without interstitial changes",
+      "y" : 0.7602357884143149,
+      "w" : 0.40225564173705974
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7161654187030074,
+      "text" : "[B] Dense lymphoplasmacytic infiltrate rich in IgG4+ plasma cells with",
+      "y" : 0.7478197675327034,
+      "w" : 0.41353380654374106
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7152255587640979,
+      "text" : "'Storiform' fibrosis and obliterative phlebitis; corticosteroid-responsive",
+      "y" : 0.737638888698848,
+      "w" : 0.41165413434860265
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6898496285714284,
+      "text" : "[C] Extensive necrotizing granulomas with caseous necrosis",
+      "y" : 0.7245833333009627,
+      "w" : 0.36090223914337705
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7171052579652257,
+      "text" : "[D] Continuous linear IgG staining along tubular basement membranes",
+      "y" : 0.7129166667353747,
+      "w" : 0.4154135226174964
+    },
+    {
+      "h" : 0.010284237861633239,
+      "conf" : 1,
+      "x" : 0.6879699292763157,
+      "text" : "[E] Acute ischemic tubular necrosis sparing the interstitium",
+      "y" : 0.701253229972593,
+      "w" : 0.3571428508744833
+    },
+    {
+      "h" : 0.011731265915764788,
+      "conf" : 1,
+      "x" : 0.7189849660009398,
+      "text" : "Q38. [Core Exam] What is the primary pathophysiological",
+      "y" : 0.6830878551529542,
+      "w" : 0.4154135226174963
+    },
+    {
+      "h" : 0.01162790722317164,
+      "conf" : 1,
+      "x" : 0.709586470131579,
+      "text" : "defect causing Polyuria and Polydipsia in patients with",
+      "y" : 0.6715116279651163,
+      "w" : 0.3966165373944105
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6428571454887217,
+      "text" : "Chronic Tubulointerstitial Nephritis?",
+      "y" : 0.6591569768168604,
+      "w" : 0.2631578808804368
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6748120342105262,
+      "text" : "[A] Massive hypersecretion of central vasopressin (ADH)",
+      "y" : 0.6445833331407848,
+      "w" : 0.3308270671743013
+    },
+    {
+      "h" : 0.013081395361158599,
+      "conf" : 1,
+      "x" : 0.6607142814849625,
+      "text" : "[B] Primary psychogenic compulsive water drinking",
+      "y" : 0.6315406976275324,
+      "w" : 0.3026315674003639
+    },
+    {
+      "h" : 0.011731265915764677,
+      "conf" : 1,
+      "x" : 0.7293233153508769,
+      "text" : "[C] Tubular resistance to ADH (Nephrogenic Diabetes Insipidus) and loss of",
+      "y" : 0.6205878552014037,
+      "w" : 0.4398496121832315
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7199248050125315,
+      "text" : "medullary hypertonicity due to structural interstitial fibrosis and tubular",
+      "y" : 0.6097383720203489,
+      "w" : 0.42105262696014567
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.7349624135338344,
+      "text" : "[D] Excessive filtration of unabsorbed glucose exceeding transport maximum",
+      "y" : 0.5865277777395599,
+      "w" : 0.45112782086852976
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6710526356203006,
+      "text" : "[E] Total destruction of all glomerular filtration barriers",
+      "y" : 0.574861111301152,
+      "w" : 0.3233082686972052
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.687030079581767,
+      "text" : "Q39. [Core Exam] Which clinical feature strongly",
+      "y" : 0.5573611111409742,
+      "w" : 0.35150374653183414
+    },
+    {
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "x" : 0.7171052700187968,
+      "text" : "distinguishes Tubulointerstitial from primary Glomerular",
+      "y" : 0.5450193796584689,
+      "w" : 0.41165413434860265
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.5469924820958647,
+      "text" : "diseases?",
+      "y" : 0.5334302326308139,
+      "w" : 0.07142856907793116
+    },
+    {
+      "h" : 0.008888889153798485,
+      "conf" : 1,
+      "x" : 0.7255639025689227,
+      "text" : "[A] Tubulointerstitial diseases produce massive proteinuria (>5-10 g\/day)",
+      "y" : 0.5188888888373588,
+      "w" : 0.432330791766827
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.7349624135338344,
+      "text" : "[B] Tubulointerstitial diseases cause early tubular defects (RTA, salt wasting,",
+      "y" : 0.5065277780123019,
+      "w" : 0.45112782086852976
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6954887254887218,
+      "text" : "polyuria) with modest proteinuria (<1-2 g\/d) and NO RBC casts",
+      "y" : 0.49636627914244186,
+      "w" : 0.36842105955978166
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.7011278243421052,
+      "text" : "[C] Glomerular diseases never produce microscopic hematuria or",
+      "y" : 0.48401162797965114,
+      "w" : 0.3834586565139737
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.5498120310385339,
+      "text" : "hypertension",
+      "y" : 0.47238372100290704,
+      "w" : 0.07706766793575326
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7321428618107767,
+      "text" : "[D] Tubulointerstitial diseases always present with severe hypoalbuminemic",
+      "y" : 0.4600290695978683,
+      "w" : 0.44548871652588073
+    },
+    {
+      "h" : 0.007267441749572723,
+      "conf" : 1,
+      "x" : 0.5385338354949873,
+      "text" : "anasarca",
+      "y" : 0.44985465123546514,
+      "w" : 0.05451127798929223
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.71898496268797,
+      "text" : "[E] Both disease categories produce identical dysmorphic acanthocytes",
+      "y" : 0.4381944444661616,
+      "w" : 0.4191729108863902
+    },
+    {
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "x" : 0.7180451076127821,
+      "text" : "Q40. [Core Exam] Why does Type 4 (Hyperkalemic) Renal",
+      "y" : 0.4200193795252325,
+      "w" : 0.41353380654374106
+    },
+    {
+      "h" : 0.011744186083475716,
+      "conf" : 1,
+      "x" : 0.7199248132205514,
+      "text" : "Tubular Acidosis frequently occur in patients with chronic",
+      "y" : 0.40837209279196685,
+      "w" : 0.4172932386912519
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6560150404887217,
+      "text" : "diabetic tubulointerstitial nephropathy?",
+      "y" : 0.39607558146802324,
+      "w" : 0.2894736865199272
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.6748120289473685,
+      "text" : "[A] Total destruction of all renal medullary blood vessels",
+      "y" : 0.38292958670207766,
+      "w" : 0.3308270671743013
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6917293187500002,
+      "text" : "[B] Complete genetic absence of collecting duct principal cells",
+      "y" : 0.36986111103196256,
+      "w" : 0.3646616493515793
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7105263204887218,
+      "text" : "[C] Direct excessive secretion of potassium by proximal tubular cells",
+      "y" : 0.3582848838481104,
+      "w" : 0.40225564173705963
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.6757518838580825,
+      "text" : "[D] Massive excessive synthesis of systemic aldosterone",
+      "y" : 0.345930232630814,
+      "w" : 0.3327067613087483
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6992481266290724,
+      "text" : "[E] Hyporeninemic Hypoaldosteronism caused by damage to the",
+      "y" : 0.33357558146802324,
+      "w" : 0.379699224366463
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "x" : 0.7293233027725565,
+      "text" : "juxtaglomerular apparatus and interstitium, impairing distal potassium and",
+      "y" : 0.3234625321719346,
+      "w" : 0.4398496121832315
+    },
+    {
+      "h" : 0.010636773639255082,
+      "conf" : 1,
+      "x" : 0.5601074190666352,
+      "text" : "proton secretion",
+      "y" : 0.31188078791638546,
+      "w" : 0.09814899589928006
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7105263108082707,
+      "text" : "Q41. [Clinical Vignette] A 46-year-old male with ADPKD",
+      "y" : 0.2943055554887284,
+      "w" : 0.3984962095895489
+    },
+    {
+      "h" : 0.011679586834377642,
+      "conf" : 1,
+      "x" : 0.7330827112030074,
+      "text" : "presents with sudden thunderclap headache and BP 185\/110.",
+      "y" : 0.28195090440951326,
+      "w" : 0.44360900045212526
+    },
+    {
+      "h" : 0.011718346277872715,
+      "conf" : 1,
+      "x" : 0.7030075226315788,
+      "text" : "Head CT shows basal cistern hemorrhage. Diagnosis:",
+      "y" : 0.27030361774009126,
+      "w" : 0.3834586565139738
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.723684203383459,
+      "text" : "[A] Subarachnoid Hemorrhage secondary to a ruptured intracranial Berry",
+      "y" : 0.2565277779638522,
+      "w" : 0.4285714034979332
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.5874060124373435,
+      "text" : "Aneurysm (Circle of Willis)",
+      "y" : 0.24636627899709312,
+      "w" : 0.1560150300059534
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7077067735275686,
+      "text" : "[B] Hypertensive encephalopathy without structural vascular lesion",
+      "y" : 0.23328488379360451,
+      "w" : 0.3966165373944104
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6710526356203006,
+      "text" : "[C] Acute ischemic stroke of the middle cerebral artery",
+      "y" : 0.2216569767986919,
+      "w" : 0.3233082686972052
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6851503817982454,
+      "text" : "[D] Bacterial meningitis complicating an infected renal cyst",
+      "y" : 0.20857558151647276,
+      "w" : 0.35150374653183414
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6879699307644109,
+      "text" : "[E] Acute subdural hematoma caused by minor head trauma",
+      "y" : 0.19694767449127903,
+      "w" : 0.3571428508744833
+    },
+    {
+      "h" : 0.011757105721367789,
+      "conf" : 1,
+      "x" : 0.7293233137218045,
+      "text" : "Q42. [Clinical Vignette] A 62-year-old female on Omeprazole",
+      "y" : 0.17884366961903336,
+      "w" : 0.4360902239143377
+    },
+    {
+      "h" : 0.011718345748053638,
+      "conf" : 1,
+      "x" : 0.7171052700187968,
+      "text" : "develops fever, rash, and creatinine rise from 0.9 to 2.8.",
+      "y" : 0.16719638258295766,
+      "w" : 0.41165413434860265
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "x" : 0.7011278242951126,
+      "text" : "Urinalysis: sterile pyuria, WBC casts, eosinophiluria.",
+      "y" : 0.1548546511125649,
+      "w" : 0.379699224366463
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.5620300768796992,
+      "text" : "Management:",
+      "y" : 0.14316860472383725,
+      "w" : 0.10150375750148832
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.695488715601504,
+      "text" : "[A] Acute Tubular Necrosis; administer high-dose IV furosemide",
+      "y" : 0.13013888884085723,
+      "w" : 0.37218044782867543
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.7340225507753761,
+      "text" : "[B] Drug-Induced AIN; immediately DISCONTINUE causative drug and initiate",
+      "y" : 0.11707041341299018,
+      "w" : 0.4492481047947744
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6343985003446113,
+      "text" : "oral Corticosteroids if no prompt recovery",
+      "y" : 0.10680555556745908,
+      "w" : 0.24624058979179775
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6635338307330829,
+      "text" : "[C] Post-streptococcal GN; prescribe oral penicillin V",
+      "y" : 0.0937499999454941,
+      "w" : 0.30827067174301315
+    },
+    {
+      "h" : 0.011718345748053638,
+      "conf" : 1,
+      "x" : 0.6983082704182331,
+      "text" : "[D] Acute Pyelonephritis; start intravenous gentamicin and cipro",
+      "y" : 0.08280361756239119,
+      "w" : 0.37781955217132457
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.6983082744548872,
+      "text" : "[E] Renal Papillary Necrosis; emergent bilateral ureteral stenting",
+      "y" : 0.07042958657610865,
+      "w" : 0.37781955217132457
+    },
+    {
+      "h" : 0.021802325778537357,
+      "conf" : 1,
+      "x" : 0.4990601658208014,
+      "text" : "Twisted Medicine • Clinical Nephrology Master Class • Strictly Grounded in Faculty 5 Goard Past Papers Confidential - Dedicated for Medical Student Revision",
+      "y" : 0.01526162817344967,
+      "w" : 0.9266917313027947
+    }
+  ],
+  "page" : 161
+}

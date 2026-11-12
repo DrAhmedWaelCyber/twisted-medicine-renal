@@ -1,0 +1,853 @@
+{
+  "id": 18,
+  "title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+  "department": "Physiology",
+  "department_desc": "Hemodynamics, autoregulation, GFR, tubular transport, countercurrent multiplier, acid-base and RFTs",
+  "booklet_pages": "Pages 69 - 72",
+  "pdf_pages": [
+    71,
+    72,
+    73,
+    74
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 19 - HIGH-YIELD URINALYSIS & RENAL FUNCTION TESTS MATRIX",
+  "summary_table": [
+    {
+      "domain": "Urinary Crystals &",
+      "content": "Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent."
+    },
+    {
+      "domain": "Lithiasis",
+      "content": "lysis. Hexagonal cystine crystals diagnostic of"
+    },
+    {
+      "domain": "fresh morning urine under polarized light.",
+      "content": "Cystinuria (COLA defect). Cystine: hexagonal benzene rings. Cimetidine & Trimethoprim: block Cr secretion. Sarcopenia in elderly masks renal failure. Cystatin"
+    },
+    {
+      "domain": "Inulin: gold standard GFR. Serum Creatinine",
+      "content": "Inverse hyperbolic curve: FR drops ~50% before C is independent of muscle mass and diet, serving (0.6-1.2 mg/dL) inversely related to GFR. C_Cr"
+    },
+    {
+      "domain": "GFR Biomarkers (Cr,",
+      "content": "Cr rises above normal. overestimates GFR by 10-20% due to proximal as a superior early FR biomarker for mild kidney"
+    },
+    {
+      "domain": "BUN, CysC)",
+      "content": "BUN:Cr >20:1: Prerenal Azotemia."
+    },
+    {
+      "domain": "tubular OCT2/MATE secretion.",
+      "content": "injury. BUN:Cr <15:1: ATN. FENa = [(U_Na * P_Cr) / (P_Na *U_Cr)] * 100%. FENa differentiates intact tubular sodium avid FENa < 1% & FE_Urea <35%: Prerenal AKI. FENa >2% & FE_Urea >50%: Intrinsic ATN."
+    },
+    {
+      "domain": "Tubular Tests & Water",
+      "content": "reabsorption from ATN epithelial necrosis. FE_Urea Evaluates tubular integrity during acute oliguria. is essential when diuretics confound FENa. NH4CI Water deprivation tests ADH release and medullary Central DI: U_osm >50% increase post-dDAVP."
+    },
+    {
+      "domain": "response.",
+      "content": "Nephrogenic DI: <10% response. test confirms Type 1 RTA."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which type of urine specimen is clinically considered the best for routine urinalysis, screening for microalbuminuria, and evaluating microscopic formed elements?",
+      "options": {
+        "A": "Random spot afternoon sample after heavy exercise",
+        "B": "First-morning clean-catch void (most concentrated and acidic, preserving cellular elements)",
+        "C": "24-hour collection preserved with strong hydrochloric acid",
+        "D": "Catheterized specimen obtained immediately after bladder irrigation",
+        "E": "Midday postprandial specimen collected after 2 liters of water"
+      },
+      "correct_option": "B",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The normal yellow-amber color of healthy concentrated urine is primarily imparted by which endogenous metabolic pigment?",
+      "options": {
+        "A": "Urochrome (urobilin), an end-product of hemoglobin breakdown",
+        "B": "Biliverdin derived from gallbladder bile",
+        "C": "Porphobilinogen synthesized by renal tubular mitochondria",
+        "D": "Melanin granules filtered through the glomerular basement membrane",
+        "E": "Unconjugated bilirubin bound to Tamm-Horsfall glycoprotein"
+      },
+      "correct_option": "C",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "A patient presents with dark reddish-brown 'cola-colored' or 'tea-colored' smoky urine. This characteristic physical appearance is most typical of:",
+      "options": {
+        "A": "Lower urinary tract bleeding from a bladder papilloma",
+        "B": "Acute Glomerulonephritis with glomerular hematuria and acid hematin formation",
+        "C": "Massive bacterial pyuria caused by Proteus mirabilis",
+        "D": "Ingestion of large doses of vitamin C (ascorbic acid)",
+        "E": "Chyluria resulting from lymphatic-urinary fistula in filariasis"
+      },
+      "correct_option": "E",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the clinical definition and diagnostic significance of Isosthenuria (fixed urine specific gravity of exactly 1.010)?",
+      "options": {
+        "A": "Minimal change disease in young children",
+        "B": "Acute post-streptococcal glomerulonephritis",
+        "C": "Primary hyperaldosteronism (Conn syndrome)",
+        "D": "Early diabetic renal hyperfiltration stage",
+        "E": "End-Stage Renal Disease (ESRD) and the maintenance phase of Acute Tubular Necrosis (ATN)"
+      },
+      "correct_option": "D",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 5 covering high-yield concepts in Renal Function Tests & Urine Analysis - Physiology Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Urinary Specific Gravity measured by refractometry or dipstick typically ranges from 1.003 to 1.030. Hyposthenuria (<1.007) is characteristic of:",
+      "options": {
+        "A": "Severe volume depletion and prerenal azotemia",
+        "B": "Heavy proteinuria in nephrotic syndrome",
+        "C": "Diabetes Insipidus (central or nephrogenic) and primary polydipsia",
+        "D": "Radiographic iodinated contrast administration",
+        "E": "Glucosuria in uncontrolled diabetes mellitus"
+      },
+      "correct_option": "B",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Routine urine dipsticks detect proteinuria using a colorimetric tetrabromphenol blue indicator. Which protein does the standard dipstick detect with high sensitivity?",
+      "options": {
+        "A": "Bence-Jones free immunoglobulin light chains exclusively",
+        "B": "Tamm-Horsfall mucoprotein synthesized in the loop of Henle",
+        "C": "Beta-2 microglobulin derived from proximal tubular breakdown",
+        "D": "Hemoglobin alpha and beta chains in hemolytic crisis",
+        "E": "Albumin (it is relatively insensitive to globulins and Bence-Jones light chains)"
+      },
+      "correct_option": "C",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "A 65-year-old male with multiple myeloma presents with bone pain and renal failure. Urine dipstick is negative for protein, but 24-hr urine protein is 4.5 g. What test detects these light chains?",
+      "options": {
+        "A": "Glucose oxidase reagent strip test",
+        "B": "Griess nitrite diazotization reaction",
+        "C": "Sulfosalicylic Acid (SSA) precipitation test (turbidimetric assay)",
+        "D": "Nitroprusside legal reaction",
+        "E": "Leukocyte esterase indoxyl ester cleavage"
+      },
+      "correct_option": "D",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Microalbuminuria is defined as urinary albumin excretion between 30 and 300 mg/day (or 30-300 mcg/mg creatinine). Its primary clinical significance is:",
+      "options": {
+        "A": "It is the earliest clinically detectable marker of Diabetic Nephropathy and endothelial injury",
+        "B": "It indicates irreversible end-stage renal sclerotic destruction",
+        "C": "It confirms the presence of acute ascending bacterial pyelonephritis",
+        "D": "It is a benign physiological variant requiring no pharmacological therapy",
+        "E": "It proves the diagnosis of Wilson disease"
+      },
+      "correct_option": "A",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "To differentiate true Hematuria from Hemoglobinuria or Myoglobinuria in reddish urine, the sample is centrifuged. What result indicates true hematuria?",
+      "options": {
+        "A": "Clear red supernatant with no pellet at the bottom",
+        "B": "Supernatant remains bright red and turns green after acidification",
+        "C": "Formation of a thick floating chylous layer at the surface",
+        "D": "Intact RBC pellet at the bottom with a clear, straw-colored supernatant",
+        "E": "Instant disappearance of all reddish color upon exposure to air"
+      },
+      "correct_option": "B",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Reddish-brown urine yields a red supernatant post-centrifugation (heme+ on dipstick). Serum haptoglobin is normal, and CPK is 25,000 U/L. The diagnosis is:",
+      "options": {
+        "A": "Intravascular hemolysis with hemoglobinuria",
+        "B": "Glomerulonephritis with dysmorphic RBC casts",
+        "C": "Rhabdomyolysis with Myoglobinuria (low protein binding & rapid clearance)",
+        "D": "Papillary transitional cell bladder carcinoma",
+        "E": "Alkaptonuria with homogentisic aciduria"
+      },
+      "correct_option": "C",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "The urine dipstick Nitrite test is useful for screening for Urinary Tract Infections (UTs) because it detects:",
+      "options": {
+        "A": "Any viral or fungal particle multiplying in the bladder",
+        "B": "Gram-negative enterobacteria (e.g., E. coli, Proteus) that reduce dietary nitrate to nitrite",
+        "C": "White blood cell degranulation enzymes in the urinary sediment",
+        "D": "Breakdown products of urothelial transitional cell carcinoma",
+        "E": "Uric acid crystal precipitation in acidic urine"
+      },
+      "correct_option": "D",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Which urinary pathogen is a common cause of UTI but consistently yields a FALSE-NEGATIVE dipstick Nitrite test because it lacks nitrate reductase?",
+      "options": {
+        "A": "Escherichia coli",
+        "B": "Klebsiella pneumoniae",
+        "C": "Proteus mirabilis",
+        "D": "Enterococcus faecalis (or Staphylococcus saprophyticus)",
+        "E": "Enterobacter cloacae"
+      },
+      "correct_option": "A",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Urine dipstick tests for Bilirubin and Urobilinogen assist in jaundice differential. In complete Obstructive (Cholestatic) Jaundice, the expected pattern is:",
+      "options": {
+        "A": "Bilirubin negative, Urobilinogen markedly increased",
+        "B": "Bilirubin positive (unconjugated), Urobilinogen normal",
+        "C": "Bilirubin positive (conjugated), Urobilinogen ABSENT (conjugated bile cannot reach intestine)",
+        "D": "Both Bilirubin and Urobilinogen completely negative",
+        "E": "Both Bilirubin and Urobilinogen maximally elevated"
+      },
+      "correct_option": "B",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Renal Function Tests & Urine Analysis - Physiology Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "All urinary cylindrical casts are formed within the lumens of the distal convoluted tubules and collecting ducts embedded in a core matrix of:",
+      "options": {
+        "A": "Plasma albumin precipitated by alkaline pH",
+        "B": "Fibrinogen complexes derived from damaged glomerular podocytes",
+        "C": "Uromodulin (Tamm-Horsfall Glycoprotein) secreted exclusively by thick ascending limb cells",
+        "D": "Collagen Type IV alpha-3 chains",
+        "E": "Actin and myosin filaments shed from necrotic vascular walls"
+      },
+      "correct_option": "C",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Red Blood Cell (RBC) Casts in the microscopic urine sediment are pathognomonic of which classic nephrological category?",
+      "options": {
+        "A": "Acute cystitis and lower urinary tract infection",
+        "B": "Nephrolithiasis with ureteral colic",
+        "C": "Acute tubular necrosis induced by aminoglycosides",
+        "D": "Polycystic kidney disease without infection",
+        "E": "Acute Glomerulonephritis / Nephritic Syndrome (e.g., PSGN, IgA nephropathy, RPGN)"
+      },
+      "correct_option": "E",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "White Blood Cell (WBC) Casts in urine sediment are crucial because they differentiate upper urinary infection (Acute Pyelonephritis) from lower UTI (Cystitis) by demonstrating:",
+      "options": {
+        "A": "That the bladder urothelium has undergone squamous metaplasia",
+        "B": "That bacteria have colonized the anterior urethra exclusively",
+        "C": "Complete destruction of all collecting duct aquaporin channels",
+        "D": "That the patient has developed autoimmune Hashimoto thyroiditis",
+        "E": "That leukocytes originated within renal parenchymal tubules rather than bladder mucosa"
+      },
+      "correct_option": "E",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In addition to acute pyelonephritis, White Blood Cell (WBC) Casts accompanied by Eosinophiluria (>1% on Hansel stain) are pathognomonic of:",
+      "options": {
+        "A": "Diabetic nodular glomerulosclerosis",
+        "B": "Clear cell renal cell carcinoma",
+        "C": "Minimal change disease",
+        "D": "Acute Interstitial Nephritis (AIN), commonly drug-induced (e.g., penicillins, PPls, NSAIDs)",
+        "E": "Benign prostatic hyperplasia"
+      },
+      "correct_option": "D",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Muddy Brown Granular Casts containing sloughed necrotic tubular epithelial cells in urine sediment are pathognomonic of:",
+      "options": {
+        "A": "Acute Glomerulonephritis with proliferative crescents",
+        "B": "Acute Tubular Necrosis (ATN) resulting from ischemia or nephrotoxic injury",
+        "C": "Prerenal azotemia with intact tubular reabsorption",
+        "D": "Nephrotic syndrome with severe hypoalbuminemia",
+        "E": "Chronic hydronephrosis due to bilateral staghorn calculi"
+      },
+      "correct_option": "A",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Broad, Waxy Casts with sharp notched borders in urine sediment are termed 'renal failure casts' because they indicate:",
+      "options": {
+        "A": "Rapid hyperfiltration through enlarged juvenile nephrons",
+        "B": "Acute allergic interstitial degranulation of basophils",
+        "C": "Stasis in markedly dilated, atrophic collecting tubules of chronically diseased nephrons (CKD)",
+        "D": "Selective destruction of glomerular podocyte pedicels",
+        "E": "Retrograde reflux from the seminal vesicles"
+      },
+      "correct_option": "A",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Renal Function Tests & Urine Analysis - Physiology Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Hyaline Casts composed of pure Tamm-Horsfall mucoprotein without cellular elements can be seen in healthy individuals following:",
+      "options": {
+        "A": "Complete bilateral renal artery occlusion",
+        "B": "Massive immune complex deposition in the mesangium",
+        "C": "Proximal tubular brush border total necrosis",
+        "D": "Heavy strenuous exercise, concentrated acidic urine, dehydration, or mild febrile state",
+        "E": "Rupture of an aortic aneurysm into the inferior vena cava"
+      },
+      "correct_option": "D",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Urine microscopy in an acidic urine (pH 5.0) reveals flat, yellow-brown diamond or rhomboid-shaped crystals that are completely radiolucent on KUB. These are:",
+      "options": {
+        "A": "Calcium oxalate dihydrate crystals",
+        "B": "Magnesium ammonium phosphate crystals",
+        "C": "Calcium carbonate crystals",
+        "D": "Bilirubin crystals",
+        "E": "Uric Acid Crystals"
+      },
+      "correct_option": "B",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Microscopic examination of alkaline urine (pH > 7.5) reveals 'coffin-lid' prism crystals of Magnesium Ammonium Phosphate (Struvite). These are caused by:",
+      "options": {
+        "A": "Severe purine overproduction in primary gout",
+        "B": "Inactivating mutations in cystine transporter genes",
+        "C": "Prolonged fasting with severe acetoacetate ketonuria",
+        "D": "Infection with Urease-producing bacteria (e.g., Proteus mirabilis) generating ammonia and alkaline pH",
+        "E": "High dietary intake of spinach and rhubarb"
+      },
+      "correct_option": "C",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Hexagonal, benzene-ring shaped crystals identified in the acidic urine of a 20-year-old patient with recurrent bilateral urinary calculi are pathognomonic of:",
+      "options": {
+        "A": "Calcium oxalate monohydrate (dumbbell shape)",
+        "B": "Triple phosphate struvite calculi",
+        "C": "Cystinuria (impaired tubular reabsorption of dibasic amino acids: COLA)",
+        "D": "Sulfonamide drug precipitation",
+        "E": "Cholesterol crystal embolization"
+      },
+      "correct_option": "A",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Envelope-shaped (dihydrate) or dumbbell-shaped (monohydrate) crystals identified in acidic-to-neutral urine are composed of:",
+      "options": {
+        "A": "Uric acid dihydrate",
+        "B": "Calcium Oxalate (the most common constituent of human renal calculi)",
+        "C": "Magnesium ammonium phosphate",
+        "D": "Pure sodium urate",
+        "E": "Barium sulfate"
+      },
+      "correct_option": "D",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "In suspected ethylene glycol (antifreeze) poisoning, what characteristic urinary sediment crystal finding supports the diagnosis of toxic acute kidney injury?",
+      "options": {
+        "A": "Coffin-lid struvite crystals",
+        "B": "Pure cystine hexagonal plates",
+        "C": "Cholesterol clefts with Maltese cross pattern",
+        "D": "Amorphous urate dust in alkaline urine",
+        "E": "Massive Calcium Oxalate Monohydrate crystals (needle or dumbbell shaped)"
+      },
+      "correct_option": "B",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Renal Function Tests & Urine Analysis - Physiology Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 30 covering high-yield concepts in Renal Function Tests & Urine Analysis - Physiology Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which pharmacological agents competitively inhibit proximal tubular secretion of creatinine, causing an elevated serum creatinine WITHOUT reducing true GFR?",
+      "options": {
+        "A": "Cimetidine and Trimethoprim",
+        "B": "Furosemide and Hydrochlorothiazide",
+        "C": "Enalapril and Losartan",
+        "D": "Penicillin G and Ampicillin",
+        "E": "Spironolactone and Amiloride"
+      },
+      "correct_option": "A",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Serum Cystatin C is considered a superior endogenous biomarker to serum creatinine for estimating early GFR decline because Cystatin C is:",
+      "options": {
+        "A": "Completely independent of muscle mass, age, sex, and dietary protein intake",
+        "B": "Reabsorbed and returned to the blood without tubular degradation",
+        "C": "Synthesized only during acute bacterial infection",
+        "D": "Actively secreted in large quantities by principal cells",
+        "E": "Measured accurately by standard urine dipsticks"
+      },
+      "correct_option": "A",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "How does the BUN:Cr ratio reliably differentiate Prerenal Azotemia from Intrinsic Renal Failure (ATN)?",
+      "options": {
+        "A": "Prerenal: BUN:Cr < 10:1; Intrinsic ATN: BUN:Cr > 20:1",
+        "B": "BUN:Cr ratio is always fixed at 10:1 regardless of underlying etiology",
+        "C": "Intrinsic AT always produces negative BUN values",
+        "D": "Prerenal: BUN:Cr > 20:1 (avid urea uptake); Intrinsic ATN: BUN:Cr < 15:1",
+        "E": "Prerenal azotemia causes selective urea drop with rising creatinine"
+      },
+      "correct_option": "D",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "The Fractional Excretion of Sodium (FENa = [U_Na *P_Cr] / [P_Na * U_Cr] * 100%) is a key diagnostic test in acute oliguria. What values define Prerenal AKI vs. ATN?",
+      "options": {
+        "A": "Prerenal: FENa < 1% (avid tubular sodium retention); Intrinsic ATN: FENa > 2% (tubular epithelial transport failure)",
+        "B": "Prerenal: FENa > 2%; Intrinsic ATN: FENa < 1%",
+        "C": "Both conditions show FENa exactly equal to 50%",
+        "D": "Prerenal failure is diagnosed only when FENa equals zero",
+        "E": "ATN causes complete absence of sodium in urine (FENa = 0%)"
+      },
+      "correct_option": "A",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In an oliguric patient who has recently received loop diuretics (furosemide), FENa is falsely elevated. Which alternative parameter reliably confirms Prerenal Azotemia?",
+      "options": {
+        "A": "Fractional Excretion of Urea (FE_Urea < 35%), which is independent of sodium transport",
+        "B": "Urine leukocyte esterase dipstick test",
+        "C": "Serum potassium to calcium ratio",
+        "D": "Urine pH measurement with litmus paper",
+        "E": "Fractional excretion of potassium >95%"
+      },
+      "correct_option": "A",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Renal Function Tests & Urine Analysis - Physiology Tutorial.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In water deprivation, if urine osmolality remains <300 mOsm/kg and increases by <10% after exogenous dDAVP, the diagnosis is:",
+      "options": {
+        "A": "Central Diabetes Insipidus",
+        "B": "Nephrogenic Diabetes Insipidus (collecting duct end-organ resistance)",
+        "C": "Primary Polydipsia with intact concentrating capability",
+        "D": "Primary Hyperaldosteronism",
+        "E": "Fanconi syndrome"
+      },
+      "correct_option": "B",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The Ammonium Chloride (NH4Cl) Acid Loading Test evaluates distal tubular acidification. A failure of urine pH to fall BELOW 5.3 despite systemic acidosis (blood pH <7.30) confirms:",
+      "options": {
+        "A": "Type 2 Proximal Renal Tubular Acidosis",
+        "B": "Type 1 (Distal) Renal Tubular Acidosis (defective H+ secretion by alpha-intercalated cells)",
+        "C": "Type 4 Hyperkalemic Renal Tubular Acidosis",
+        "D": "Primary Respiratory Acidosis with intact renal response",
+        "E": "Metabolic Alkalosis induced by diuretic therapy"
+      },
+      "correct_option": "C",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the expected urinary diagnostic profile in a dehydrated patient with acute Prerenal Azotemia secondary to severe gastroenteritis?",
+      "options": {
+        "A": "U_osm < 300 mOsm/kg, U_Na > 40 mEq/L, FENa > 2%, muddy brown casts",
+        "B": "U_osm > 500 mOsm/kg, U_Na < 20 mEq/L, FENa < 1%, BUN:Cr > 20:1, hyaline casts",
+        "C": "Fixed specific gravity 1.010, broad waxy casts, RBC casts",
+        "D": "U_osm = 300 mOsm/kg, FENa = 10%, heavy glucosuria",
+        "E": "Alkaline urine pH > 8.0 with triple phosphate crystals"
+      },
+      "correct_option": "D",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In Contrast-Induced Nephropathy (CIN), what characteristic urine diagnostic pattern is typically observed within 24 to 48 hours following iodinated contrast administration?",
+      "options": {
+        "A": "Transient acute oliguria with LOW FENa (<1%) due to intense renal vasoconstriction, followed by ATN features",
+        "B": "Massive proteinuria >10 g/day with fatty casts",
+        "C": "Immediate fixed alkaline urine pH > 7.5 with struvite stones",
+        "D": "Complete bilateral renal infarction with total anuria",
+        "E": "Massive selective glycosuria without hyperglycemia"
+      },
+      "correct_option": "A",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Septic shock with oliguria: BUN 58, Cr 4.2, U_Na 68, U_osm 280, FENa 3.2%, and muddy brown granular casts on microscopy. Diagnosis:",
+      "options": {
+        "A": "Acute Tubular Necrosis (ATN) with intrinsic tubular cell necrosis",
+        "B": "Acute Prerenal Azotemia due to hypovolemia",
+        "C": "Postrenal obstructive nephropathy secondary to BPH",
+        "D": "Acute post-streptococcal glomerulonephritis",
+        "E": "Minimal change nephropathy"
+      },
+      "correct_option": "B",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "Osteomyelitis patient on Nafcillin develops fever, rash, and rising creatinine. Urine: mild proteinuria, WBC casts, and >5% Eosinophils. Diagnosis:",
+      "options": {
+        "A": "Acute Pyelonephritis due to E. coli ascending infection",
+        "B": "Ischemic Acute Tubular Necrosis",
+        "C": "Goodpasture syndrome with anti-GBM antibodies",
+        "D": "Renal amyloidosis with Congo red birefringence",
+        "E": "Acute Drug-Induced Interstitial Nephritis (AIN) hypersensitivity reaction"
+      },
+      "correct_option": "C",
+      "explanation": "**Urinary Crystals &**: Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent.\n\n**Lithiasis**: lysis. Hexagonal cystine crystals diagnostic of",
+      "masterclass_id": 18,
+      "masterclass_title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology"
+    }
+  ]
+}

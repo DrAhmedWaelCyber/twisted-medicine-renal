@@ -1,0 +1,1005 @@
+{
+  "items" : [
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.4794238588345126,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 35 MCQ Masterclass",
+      "x" : 0.2808642055212618,
+      "y" : 0.9818055556159087
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.6625514000466783,
+      "text" : "Twisted Medicine Medical Series • Clinical Nephrology, Cardinal Symptoms, Physical Signs & Evaluation • Standard Practice Bank",
+      "x" : 0.37242799182098735,
+      "y" : 0.9709302326308139
+    },
+    {
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "w" : 0.07407407340763494,
+      "text" : "Page 3 of 4",
+      "x" : 0.9238683137174213,
+      "y" : 0.9825193797553681
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.4074074127389201,
+      "text" : "Q36. [2023 Exam] In KDIGO clinical staging of CKD, what two",
+      "x" : 0.7181069890946505,
+      "y" : 0.9396802325339146
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.41358021670167555,
+      "text" : "parameters determine both stage and overall prognostic risk?",
+      "x" : 0.7211934087448562,
+      "y" : 0.9265374676645481
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.2880658323659837,
+      "text" : "[A] Serum potassium level combined with urine pH",
+      "x" : 0.6584362097393692,
+      "y" : 0.9120833335703651
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "w" : 0.430041139230788,
+      "text" : "[B] Glomerular Filtration Rate category (G1-G5) combined with Albuminuria",
+      "x" : 0.7294238629372429,
+      "y" : 0.9011111110137939
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 0.5,
+      "w" : 0.05144032892191186,
+      "text" : "(A1-A3)",
+      "x" : 0.5401234576474623,
+      "y" : 0.8902616279796511
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.3168724108042207,
+      "text" : "[C] 24-hour urine volume combined with specific gravity",
+      "x" : 0.6728395101337448,
+      "y" : 0.8786337209847384
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "w" : 0.33333333333333326,
+      "text" : "[D] Blood urea nitrogen level combined with serum sodium",
+      "x" : 0.6810699532921812,
+      "y" : 0.8670704133948215
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.2880658323659837,
+      "text" : "[E] Total cholesterol combined with serum calcium",
+      "x" : 0.6584362175925925,
+      "y" : 0.855416666474745
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.42798350592079404,
+      "text" : "Q29. [2025 Exam] What is the initial diagnostic imaging modality",
+      "x" : 0.25925925390946514,
+      "y" : 0.9396802325036337
+    },
+    {
+      "h" : 0.011686045858595118,
+      "conf" : 1,
+      "w" : 0.4238682872844193,
+      "text" : "of choice to evaluate any patient with unexplained acute kidney",
+      "x" : 0.2572016530178324,
+      "y" : 0.9258430229819266
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.051440328921911846,
+      "text" : "injury?",
+      "x" : 0.06893004179526749,
+      "y" : 0.9149709302870639
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.32921809070515184,
+      "text" : "[A] Contrast-enhanced helical abdominal CT angiography",
+      "x" : 0.207818924554184,
+      "y" : 0.900416666717206
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "w" : 0.31687241080422074,
+      "text" : "[B] Intravenous Urography (IVU) with iodinated contrast",
+      "x" : 0.203703707664609,
+      "y" : 0.8887532299725929
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.36213991177157034,
+      "text" : "[C] Magnetic resonance angiography with high-dose gadolinium",
+      "x" : 0.22633745308641962,
+      "y" : 0.8771802326126453
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.4115226313752948,
+      "text" : "[D] Renal Ultrasound; non-invasive, assesses size, and excludes urinary",
+      "x" : 0.2510288106995884,
+      "y" : 0.8662790698255813
+    },
+    {
+      "h" : 0.008952308230929962,
+      "conf" : 1,
+      "w" : 0.06590424543656642,
+      "text" : "obstruction",
+      "x" : 0.07818930123404565,
+      "y" : 0.8546511628662647
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.33127572401514593,
+      "text" : "[E] Plain abdominal radiography (KUB) without ultrasound",
+      "x" : 0.20884773993827155,
+      "y" : 0.8437500000726744
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.4053497794289259,
+      "text" : "Q30. [2024 Exam] On ultrasound in chronic azotemia, finding",
+      "x" : 0.2479423935871054,
+      "y" : 0.8190277775309324
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3827160289452511,
+      "text" : "small (<8.5-9 cm), hyperechoic kidneys with thin cortices",
+      "x" : 0.2366255191872427,
+      "y" : 0.8059722220179791
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.06790123345716945,
+      "text" : "indicates:",
+      "x" : 0.07921810812757196,
+      "y" : 0.7936046512596899
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.40123456079255115,
+      "text" : "[A] Acute Prerenal Azotemia with completely reversible hemodynamics",
+      "x" : 0.2458847786779835,
+      "y" : 0.7790697675145348
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.3621399117715704,
+      "text" : "[B] Acute Interstitial Nephritis that will normalize within 48 hours",
+      "x" : 0.22633745459533589,
+      "y" : 0.7681944445294402
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.4156378500116696,
+      "text" : "[C] Acute Post-Streptococcal Glomerulonephritis with excellent prognosis",
+      "x" : 0.25308641455761327,
+      "y" : 0.7565277779456836
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.2901234416841711,
+      "text" : "[D] Minimal Change Disease in pediatric remission",
+      "x" : 0.19032922294238666,
+      "y" : 0.7448611111591428
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.44238684312352594,
+      "text" : "[E] Irreversible Chronic Kidney Disease (CKD) with parenchymal scarring and",
+      "x" : 0.2644032866512347,
+      "y" : 0.7332848836664245
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.0452674889714463,
+      "text" : "fibrosis",
+      "x" : 0.06584362064471881,
+      "y" : 0.7223837208817829
+    },
+    {
+      "h" : 0.011750645637512047,
+      "conf" : 1,
+      "w" : 0.37448559167250145,
+      "text" : "Q31. [2023 Exam] Which systemic condition is a notable",
+      "x" : 0.23251028614540473,
+      "y" : 0.6977357885354389
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.39094649020980743,
+      "text" : "exception where advanced CKD presents with NORMAL or",
+      "x" : 0.24074074533607664,
+      "y" : 0.6853197676114342
+    },
+    {
+      "h" : 0.010174418555365827,
+      "conf" : 1,
+      "w" : 0.24074074607225335,
+      "text" : "ENLARGED kidneys on ultrasound?",
+      "x" : 0.16563786021090532,
+      "y" : 0.672238371965843
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "w" : 0.23456789412588447,
+      "text" : "[A] Benign Hypertensive Nephrosclerosis",
+      "x" : 0.16255144267489713,
+      "y" : 0.6576453487497058
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.2942386843123526,
+      "text" : "[B] Diabetic Nephropathy, Amyloidosis, and ADPKD",
+      "x" : 0.19238683220164607,
+      "y" : 0.6460755812257752
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.1831275652039726,
+      "text" : "[C] Chronic reflux pyelonephritis",
+      "x" : 0.13683127343107004,
+      "y" : 0.6344476743640988
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.2798353950932341,
+      "text" : "[D] Post-streptococcal chronic glomerulonephritis",
+      "x" : 0.1851851886831275,
+      "y" : 0.6243055557579179
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.23868311276225926,
+      "text" : "[E] Chronic analgesic abuse nephropathy",
+      "x" : 0.16255144430727012,
+      "y" : 0.6126388887775787
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "w" : 0.4320987725407822,
+      "text" : "Q32. [2022 Exam] Which clinical scenario represents an absolute",
+      "x" : 0.2613168670267491,
+      "y" : 0.576253229827244
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.41358021670167544,
+      "text" : "emergency requiring IMMEDIATE Renal Replacement Therapy",
+      "x" : 0.25205761833847723,
+      "y" : 0.5631944443510938
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.074074073407635,
+      "text" : "(Dialysis)?",
+      "x" : 0.08024691283950619,
+      "y" : 0.5515988371366278
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3641975210897578,
+      "text" : "[A] Severe refractory Hyperkalemia (>6.5 with ECG changes) or",
+      "x" : 0.22530864008916332,
+      "y" : 0.5370833333796933
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.20164607305946589,
+      "text" : "diuretic-resistant pulmonary edema",
+      "x" : 0.14609053683127565,
+      "y" : 0.5254166666203067
+    },
+    {
+      "h" : 0.010284237331814383,
+      "conf" : 1,
+      "w" : 0.33950616128789557,
+      "text" : "[B] Serum creatinine of 1.4 mg\/dL in an asymptomatic male",
+      "x" : 0.21296296313443072,
+      "y" : 0.5137532299770858
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.35390945050701406,
+      "text" : "[C] Isolated microalbuminuria of 150 mg\/g in a diabetic patient",
+      "x" : 0.22222222812071313,
+      "y" : 0.5021802326792635
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.4135802167016755,
+      "text" : "[D] Asymptomatic uncomplicated cystitis responsive to oral nitrofurantoin",
+      "x" : 0.2520576200617282,
+      "y" : 0.49127906981589153
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.27572015246505255,
+      "text" : "[E] Mild nocturnal enuresis in an 8-year-old child",
+      "x" : 0.18312757546296285,
+      "y" : 0.4789244186954942
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.42592592059441337,
+      "text" : "Q33. [2021 Exam] What is the clinical mnemonic 'AEIOU' utilized",
+      "x" : 0.2582304473508232,
+      "y" : 0.45569444440226
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.41769548332166373,
+      "text" : "in nephrology to remember cardinal indications for emergency",
+      "x" : 0.2541152305144032,
+      "y" : 0.4426388889571364
+    },
+    {
+      "h" : 0.01033214039272734,
+      "conf" : 1,
+      "w" : 0.061780113844001824,
+      "text" : "dialysis?",
+      "x" : 0.07613168724344985,
+      "y" : 0.429505813826309
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.34362140391607704,
+      "text" : "[A] Anemia, Edema, Infection, Obstruction, and Urate stones",
+      "x" : 0.21707819273662549,
+      "y" : 0.4156976744767442
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.3971193181643696,
+      "text" : "[B] Albuminuria, Eosinophiluria, Isosthenuria, Osteomalacia, Urethritis",
+      "x" : 0.2438271671124826,
+      "y" : 0.4040697674903101
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.4156378500116696,
+      "text" : "[C] Acidosis (pH<7.15), Electrolytes (K>6.5), Ingestion, Overload, Uremia",
+      "x" : 0.25308642494855954,
+      "y" : 0.3931944445112716
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.36625513040794516,
+      "text" : "[D] Azotemia, Embolism, Inflammation, Oliguria, and Ulcerations",
+      "x" : 0.22839506316872424,
+      "y" : 0.3815277776762812
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.35596705982520144,
+      "text" : "[E] Alkalosis, Encephalitis, Infarction, Osmolality, and Urachus",
+      "x" : 0.2211934097050756,
+      "y" : 0.36986111101379393
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.41563785001166964,
+      "text" : "Q37. [2022 Exam] Why must Blood Pressure be controlled to <",
+      "x" : 0.7242798405864197,
+      "y" : 0.8190277775612134
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.32510287206877697,
+      "text" : "120\/80 mmHg in proteinuric CKD patients from a",
+      "x" : 0.6769547379286692,
+      "y" : 0.8059722220361478
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "w" : 0.21604938627039116,
+      "text" : "pathophysiological standpoint?",
+      "x" : 0.6224279815843622,
+      "y" : 0.7936111109106256
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.33950616128789557,
+      "text" : "[A] Reduces intraglomerular capillary hypertension, blunting",
+      "x" : 0.6841563799382716,
+      "y" : 0.7783430230862403
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.14814814681527,
+      "text" : "proteinuria-driven fibrosis",
+      "x" : 0.5884773681069957,
+      "y" : 0.7681944445112716
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "w" : 0.4053497794289259,
+      "text" : "[B] High blood pressure causes rapid calcification of bladder urothelium",
+      "x" : 0.7170781943672837,
+      "y" : 0.755833333282794
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.3950617088461822,
+      "text" : "[C] Normal blood pressure prevents secretion of antidiuretic hormone",
+      "x" : 0.7119341629629627,
+      "y" : 0.7448611111591428
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.41563785001166964,
+      "text" : "[D] Lowering blood pressure increases renal tubular synthesis of glucose",
+      "x" : 0.7222222291495195,
+      "y" : 0.7332848837936046
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.37860081030887627,
+      "text" : "[E] Systemic hypotension completely stops renal lymph production",
+      "x" : 0.7037037043895747,
+      "y" : 0.7216569765746124
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.4115226313752949,
+      "text" : "Q38. [2021 Exam] In Acute Kidney Injury, how does Fractional",
+      "x" : 0.7222222290809326,
+      "y" : 0.6969476745397287
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "w" : 0.4176954353380504,
+      "text" : "Excretion of Sodium (FENa) distinguish Prerenal from Intrinsic",
+      "x" : 0.7253086427640604,
+      "y" : 0.6845930230620154
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 0.5,
+      "w" : 0.03703703670381753,
+      "text" : "AKI?",
+      "x" : 0.5329218100823047,
+      "y" : 0.67296511623062
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "w" : 0.3106995828496585,
+      "text" : "[A] FENa > 5% indicates severe prerenal hypovolemia",
+      "x" : 0.6697530915980794,
+      "y" : 0.6576453487497058
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.37037037303612663,
+      "text" : "[B] FENa is universally zero in established acute tubular necrosis",
+      "x" : 0.6995884727366257,
+      "y" : 0.646075581340843
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.39300409952799487,
+      "text" : "[C] FENa < 1% indicates intact tubular reabsorption (Prerenal); > 2%",
+      "x" : 0.7109053563443071,
+      "y" : 0.634447674491279
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "w" : 0.08230452267628796,
+      "text" : "indicates ATN",
+      "x" : 0.5555555563786008,
+      "y" : 0.6250000001090117
+    },
+    {
+      "h" : 0.011673126220703045,
+      "conf" : 1,
+      "w" : 0.40740741273892,
+      "text" : "[D] FENa cannot distinguish preenal from intrinsic failure in any patient",
+      "x" : 0.7181069896433472,
+      "y" : 0.6119412144859492
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.3497942318706393,
+      "text" : "[E] FENa < 0.1% indicates acute bilateral ureteral obstruction",
+      "x" : 0.6893004173525374,
+      "y" : 0.600972222405789
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "w" : 0.41563785001166964,
+      "text" : "Q39. [2025 Exam] When evaluating acute oliguria during active",
+      "x" : 0.7242798395473251,
+      "y" : 0.5762532299544243
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.4238682872844193,
+      "text" : "Loop Diuretic therapy, which test is more reliable than FENa for",
+      "x" : 0.7283950670267488,
+      "y" : 0.5631944443874309
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.1316872362820607,
+      "text" : "Prerenal Azotemia?",
+      "x" : 0.5823045251028808,
+      "y" : 0.5523255813226744
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.3744855916725014,
+      "text" : "[A] Serum Creatinine measured via uncompensated Jaffe method",
+      "x" : 0.7016460942798353,
+      "y" : 0.537083333282794
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3189300201224081,
+      "text" : "[B] Random urine specific gravity measured via dipstick",
+      "x" : 0.6738683180727022,
+      "y" : 0.5254166669110044
+    },
+    {
+      "h" : 0.011673126220703156,
+      "conf" : 1,
+      "w" : 0.37860081030887627,
+      "text" : "[C] Urine potassium concentration alone without plasma creatinine",
+      "x" : 0.7037036994341564,
+      "y" : 0.5130587851749036
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.4218107019580385,
+      "text" : "[D] Fractional Excretion of Urea (FE_Urea < 35%), independent of diuretic",
+      "x" : 0.7253086472479422,
+      "y" : 0.5036337209847384
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.08024691335810052,
+      "text" : "sodium effect",
+      "x" : 0.5545267499742798,
+      "y" : 0.49127906984011616
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.20576131568764744,
+      "text" : "[E] Blood hemoglobin concentration",
+      "x" : 0.6172839531893003,
+      "y" : 0.4789244186954942
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.4218107019580385,
+      "text" : "Q40. [Faculty Exam] Which history question is most critical in a",
+      "x" : 0.7273662604166666,
+      "y" : 0.45569444451127167
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.33744855196970813,
+      "text" : "patient presenting with acute non-oliguric AKI and",
+      "x" : 0.6831275663923184,
+      "y" : 0.4426388887924076
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.10699587648019848,
+      "text" : "eosinophiluria?",
+      "x" : 0.5679012327846364,
+      "y" : 0.42950581388081394
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.3806584196270638,
+      "text" : "[A] Family history of autosomal dominant polycystic kidney disease",
+      "x" : 0.7047325044924557,
+      "y" : 0.4149709300629845
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.3189300441142149,
+      "text" : "[B] Total dietary intake of dairy products and citrus fruits",
+      "x" : 0.6738683167438271,
+      "y" : 0.4033430233466571
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3168724108042207,
+      "text" : "[C] Frequency of daily vigorous cardiovascular exercise",
+      "x" : 0.6728395101337448,
+      "y" : 0.3931944445112716
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "w" : 0.2427983553904408,
+      "text" : "[D] History of childhood nocturnal enuresis",
+      "x" : 0.6358024721707818,
+      "y" : 0.38083333328279395
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.3497942318706393,
+      "text" : "[E] Recent medication initiation (PPls, NSAIDs, beta-lactams,",
+      "x" : 0.6893004173525374,
+      "y" : 0.36986111106224356
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.14403291618299174,
+      "text" : "fluoroquinolones) for AIN",
+      "x" : 0.5864197523662551,
+      "y" : 0.35828488359375
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "w" : 0.4341563578671629,
+      "text" : "Q41. [Clinical Vignette] A 19-year-old male has facial edema, dark",
+      "x" : 0.733539091538066,
+      "y" : 0.3343023257267441
+    },
+    {
+      "h" : 0.011757105721367789,
+      "conf" : 1,
+      "w" : 0.4218107019580385,
+      "text" : "cola urine, BP 155\/98 mmHg, RBC casts, and low C3 two weeks",
+      "x" : 0.7253086367026751,
+      "y" : 0.32115633038096664
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.19753085442309115,
+      "text" : "post-pharyngitis. Diagnosis:|",
+      "x" : 0.6152263399176955,
+      "y" : 0.3088662791606104
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.4300411392307881,
+      "text" : "[A] Acute Nephritic Syndrome secondary to Post-Streptococcal GN (PSGN)",
+      "x" : 0.7294238736882716,
+      "y" : 0.294305555634077
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "w" : 0.36213991177157034,
+      "text" : "[B] Nephrotic Syndrome secondary to Minimal Change Disease",
+      "x" : 0.6954732465020577,
+      "y" : 0.2826453488874351
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "w" : 0.32304526275058976,
+      "text" : "[C] Acute Pyelonephritis secondary to E. coli bacteremia",
+      "x" : 0.6759259249742798,
+      "y" : 0.2718023257267441
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.3106995828496585,
+      "text" : "[D] Prerenal Azotemia secondary to acute dehydration",
+      "x" : 0.6697530875514404,
+      "y" : 0.259447674249031
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.360082302453383,
+      "text" : "[E] Obstructive uropathy secondary to calcium oxalate calculus",
+      "x" : 0.6923868252743487,
+      "y" : 0.2493055556307377
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.3806584196270636,
+      "text" : "Q34. [2020 Exam] What is the gold standard procedure to",
+      "x" : 0.23559671257716033,
+      "y" : 0.33357558148619193
+    },
+    {
+      "h" : 0.011757106251186755,
+      "conf" : 1,
+      "w" : 0.40329219410254524,
+      "text" : "definitively identify the specific histopathological etiology of",
+      "x" : 0.24691357621399185,
+      "y" : 0.32115633066041105
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.20781892500583482,
+      "text" : "nephrotic syndrome or RPGN?",
+      "x" : 0.14917695733024686,
+      "y" : 0.3088662791606104
+    },
+    {
+      "h" : 0.008746769693162681,
+      "conf" : 1,
+      "w" : 0.37242798235431407,
+      "text" : "[A] 24-hour urine collection for total creatinine and urea clearance",
+      "x" : 0.23148148768861435,
+      "y" : 0.295071059486135
+    },
+    {
+      "h" : 0.011744185553656639,
+      "conf" : 1,
+      "w" : 0.24279835539044076,
+      "text" : "[B] Non-contrast abdominal CT scanning",
+      "x" : 0.16460905754458147,
+      "y" : 0.28337209291152754
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "w" : 0.279835395093234,
+      "text" : "[C] Retrograde ureteroscopy with brush cytology",
+      "x" : 0.18312756851851858,
+      "y" : 0.2718023255087209
+    },
+    {
+      "h" : 0.011750645637512158,
+      "conf" : 1,
+      "w" : 0.44032920981353185,
+      "text" : "[D] Percutaneous Renal Biopsy under ultrasound guidance with Light, IF, and",
+      "x" : 0.26337447825788773,
+      "y" : 0.2602357882447412
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.29629629363054,
+      "text" : "[E] Nuclear DTPA renography without tissue biopsy",
+      "x" : 0.19135802839506164,
+      "y" : 0.2376388888078595
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.43827157650353776,
+      "text" : "Q35. [2024 Exam] Which clinical condition represents an absolute",
+      "x" : 0.2644032976594649,
+      "y" : 0.21291666688072358
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.4382715765035377,
+      "text" : "CONTRAINDICATION to performing a percutaneous renal biopsy?",
+      "x" : 0.264403286702675,
+      "y" : 0.1998611111921405
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.26337447256412144,
+      "text" : "[A] Heavy proteinuria exceeding 3.5 g per day",
+      "x" : 0.17695473525377214,
+      "y" : 0.18531976727228677
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3004115122669148,
+      "text" : "[B] Microscopic hematuria with dysmorphic red cells",
+      "x" : 0.19547325603566512,
+      "y" : 0.17513888882602813
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3456790132342645,
+      "text" : "[C] Unexplained decline in renal function in a diabetic patient",
+      "x" : 0.21810699876543205,
+      "y" : 0.1634722224602947
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "w" : 0.3518518411888266,
+      "text" : "[D] Suspected systemic lupus erythematosus (lupus nephritis)",
+      "x" : 0.22119342150205745,
+      "y" : 0.15182170540045997
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.42181070195803855,
+      "text" : "[E] Uncorrected severe bleeding diathesis (thrombocytopenia or high INR)",
+      "x" : 0.25411521930727055,
+      "y" : 0.14026162783430235
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.4218107019580386,
+      "text" : "Q42. [Clinical Vignette] A cirrhotic male has rising Cr (0.9 to 2.8",
+      "x" : 0.7253086349451305,
+      "y" : 0.21291666676565557
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.41152263137529477,
+      "text" : "mg\/dL) over 5 days, BP 92\/58, urine Na+ 6 mEq\/L, FENa 0.3%,",
+      "x" : 0.7201646141975309,
+      "y" : 0.1998611112648147
+    },
+    {
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "w" : 0.2962962936305401,
+      "text" : "unresponsive to 48h IV Albumin. Diagnosis:",
+      "x" : 0.6625514353909467,
+      "y" : 0.18749999995155048
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "w" : 0.4053497794289259,
+      "text" : "[A] Ischemic Acute Tubular Necrosis with loss of concentrating function",
+      "x" : 0.7170781943672837,
+      "y" : 0.17374677017275592
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.430041139230788,
+      "text" : "[B] Hepatorenal Syndrome (HRS-AKI; splanchnic vasodilation causing renal",
+      "x" : 0.7294238726131685,
+      "y" : 0.16208333328279395
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.09876542721154558,
+      "text" : "vasoconstriction)",
+      "x" : 0.5637860092181071,
+      "y" : 0.15116279075581385
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "w" : 0.37242798235431407,
+      "text" : "[C] Acute Interstitial Nephritis secondary to spironolactone toxicity",
+      "x" : 0.7006172876748971,
+      "y" : 0.13875322995442424
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.4032921461189318,
+      "text" : "[D] Postrenal obstructive uropathy secondary to retroperitoneal fibrosis",
+      "x" : 0.7160493894375856,
+      "y" : 0.12718023263081402
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.34362137992427044,
+      "text" : "[E] Rapidly progressive crescentic glomerulonephritis Type |",
+      "x" : 0.6862139960648148,
+      "y" : 0.11555232567223839
+    },
+    {
+      "h" : 0.007344961166381836,
+      "conf" : 1,
+      "w" : 0.09670781789335815,
+      "text" : "Twisted Medicine",
+      "x" : 0.0895061740483539,
+      "y" : 0.01966085278616625
+    },
+    {
+      "h" : 0.01897286732991532,
+      "conf" : 1,
+      "w" : 0.44650206175990076,
+      "text" : "• Clinical Nephrology & Renal Evaluation Master Class • Faculty & Board Lam Preparation",
+      "x" : 0.3858024765775032,
+      "y" : 0.013846899196401974
+    },
+    {
+      "h" : 0.007344961166381836,
+      "conf" : 1,
+      "w" : 0.2674897151923029,
+      "text" : "Confidential - Dedicated for Medical Student Revision",
+      "x" : 0.8251028840020576,
+      "y" : 0.01966085278616625
+    }
+  ],
+  "page" : 137
+}

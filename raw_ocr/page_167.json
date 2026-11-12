@@ -1,0 +1,909 @@
+{
+  "items" : [
+    {
+      "text" : "Twisted Mind eini sena! System, Mos, Ustrudecture any son Masterrogal Emergencies • Standard Practice Bank",
+      "x" : 0.3740601436090226,
+      "h" : 0.01751291963789192,
+      "y" : 0.9665342374814043,
+      "w" : 0.6766917313027947,
+      "conf" : 1
+    },
+    {
+      "text" : "Page 1 of 4",
+      "x" : 0.9210526312460743,
+      "h" : 0.012924341625637492,
+      "y" : 0.9694767440461434,
+      "w" : 0.0792502781026746,
+      "conf" : 1
+    },
+    {
+      "text" : "43. NEPHROLITHIASIS, OBSTRUCTIVE UROPATHY & UROLOGICAL EMERGENCIES — CLINICAL LECTURE",
+      "x" : 0.49999998897243153,
+      "h" : 0.011627906163533597,
+      "y" : 0.9345930230620155,
+      "w" : 0.706766881332562,
+      "conf" : 1
+    },
+    {
+      "text" : "Twisted Medicine Clinical Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "x" : 0.5000000089598995,
+      "h" : 0.010174418555365716,
+      "y" : 0.9222383721656977,
+      "w" : 0.5375939704461719,
+      "conf" : 1
+    },
+    {
+      "text" : "Q01. [2025 Exam] What is the most common mineral composition",
+      "x" : 0.2603383395676694,
+      "h" : 0.011666666666666603,
+      "y" : 0.8997222222994941,
+      "w" : 0.4417293282569869,
+      "conf" : 1
+    },
+    {
+      "text" : "of kidney stones worldwide (~75-80% of nephrolithiasis)?",
+      "x" : 0.2349624011278197,
+      "h" : 0.010174418555365605,
+      "y" : 0.8902616278161337,
+      "w" : 0.39097743305176136,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Calcium Oxalate (alone or admixed with Calcium Phosphate)",
+      "x" : 0.21616541948621532,
+      "h" : 0.00872092988755968,
+      "y" : 0.8779069768410852,
+      "w" : 0.3571428508744833,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Pure Uric Acid formed in persistently acidic urine",
+      "x" : 0.18233083068609013,
+      "h" : 0.008888888888888835,
+      "y" : 0.8677777777395599,
+      "w" : 0.2894736865199272,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Struvite (triple phosphate \/ magnesium ammonium phosphate)",
+      "x" : 0.22274435719924818,
+      "h" : 0.00874676995807222,
+      "y" : 0.8575710595120005,
+      "w" : 0.37030073175492006,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Pure Cystine from proximal tubular transport defects",
+      "x" : 0.19454887610432323,
+      "h" : 0.00872092988755968,
+      "y" : 0.8473837210029069,
+      "w" : 0.3139097760856623,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Xanthine stones caused by hereditary xanthinuria",
+      "x" : 0.18515037889097738,
+      "h" : 0.010277777777777719,
+      "y" : 0.8365277777395599,
+      "w" : 0.2951127689232679,
+      "conf" : 1
+    },
+    {
+      "text" : "Q02. [2024 Exam] What suburothelial lesion ('Randall\\'s Plaque')",
+      "x" : 0.2575188042606513,
+      "h" : 0.01027777777777783,
+      "y" : 0.8131944443692624,
+      "w" : 0.43609022391433766,
+      "conf" : 1
+    },
+    {
+      "text" : "serves as the initial nidus for calcium oxalate stones?",
+      "x" : 0.22086466528195484,
+      "h" : 0.010174418555365605,
+      "y" : 0.8030523256540698,
+      "w" : 0.36278195521713247,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Subepithelial cholesterol crystal clefts in arcuate arteries",
+      "x" : 0.2058270718749999,
+      "h" : 0.00872092988755968,
+      "y" : 0.790697674491279,
+      "w" : 0.336466149577642,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Calcium Phosphate (Carbonate Apatite) in Henlel's loop basement membrane",
+      "x" : 0.26221805072838333,
+      "h" : 0.010277777777777719,
+      "y" : 0.7812500000545057,
+      "w" : 0.44924810479477445,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Dense amyloid fibrils deposited in podocyte slit diaphragms",
+      "x" : 0.21334587052004994,
+      "h" : 0.008733849790361181,
+      "y" : 0.7703552972091527,
+      "w" : 0.35150374653183414,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Caseating granulomas eroding through calyceal fornices",
+      "x" : 0.2048872236215537,
+      "h" : 0.010174418555365605,
+      "y" : 0.759447674491279,
+      "w" : 0.3345864554431951,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Intraepithelial uric acid crystal plugs in proximal tubules",
+      "x" : 0.20300752210526304,
+      "h" : 0.01027777777777783,
+      "y" : 0.7493055557760865,
+      "w" : 0.33082706717430127,
+      "conf" : 1
+    },
+    {
+      "text" : "Q03. [2023 Exam] Which urinary molecule is the most potent",
+      "x" : 0.24624060181704258,
+      "h" : 0.010174418555365716,
+      "y" : 0.7347383719234497,
+      "w" : 0.413533806543741,
+      "conf" : 1
+    },
+    {
+      "text" : "inhibitor of calcium stones by chelating ionic calcium into a",
+      "x" : 0.2387217994830828,
+      "h" : 0.010277777777777719,
+      "y" : 0.7245833331556137,
+      "w" : 0.40225564173705963,
+      "conf" : 1
+    },
+    {
+      "text" : "soluble complex?",
+      "x" : 0.09774436259398489,
+      "h" : 0.010310077667236461,
+      "y" : 0.7143217054973593,
+      "w" : 0.11654135445568048,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Ascorbic acid (Vitamin C)",
+      "x" : 0.11748120500469919,
+      "h" : 0.007267441749572723,
+      "y" : 0.7027616279614826,
+      "w" : 0.15977442924450147,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Uric acid",
+      "x" : 0.07330826978383462,
+      "h" : 0.0073320412635802246,
+      "y" : 0.692554909490816,
+      "w" : 0.07142856907793124,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Citrate (hypocitraturia is a major treatable metabolic risk factor)",
+      "x" : 0.22556390601503765,
+      "h" : 0.008888888888888946,
+      "y" : 0.6816666667317408,
+      "w" : 0.3759398360975692,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Inorganic phosphate",
+      "x" : 0.10526315620300757,
+      "h" : 0.00872092988755968,
+      "y" : 0.6715116278343023,
+      "w" : 0.1353383396787664,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Tamm-Horsfall mucoprotein aggregate",
+      "x" : 0.15507519090695482,
+      "h" : 0.008888888888888946,
+      "y" : 0.6613888889862061,
+      "w" : 0.23496240304580787,
+      "conf" : 1
+    },
+    {
+      "text" : "Q04. [2022 Exam] In Crohn|'s disease or ileal resection, what",
+      "x" : 0.24624060708020032,
+      "h" : 0.011627906163533597,
+      "y" : 0.6468023253875969,
+      "w" : 0.413533806543741,
+      "conf" : 1
+    },
+    {
+      "text" : "mechanism causes Enteric Hyperoxaluria and calcium stones?",
+      "x" : 0.24812030776942334,
+      "h" : 0.011686045858595007,
+      "y" : 0.6366569769211742,
+      "w" : 0.42105262696014556,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Excessive gastrointestinal secretion of calcium carbonate",
+      "x" : 0.21146617120927302,
+      "h" : 0.008888888888888946,
+      "y" : 0.6250000000968992,
+      "w" : 0.34774435826294037,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Direct bacterial synthesis of oxalate in the jejunum",
+      "x" : 0.19078947879072664,
+      "h" : 0.010297157499525311,
+      "y" : 0.614037467809897,
+      "w" : 0.30639097760856626,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Complete suppression of proximal tubular citrate reabsorption",
+      "x" : 0.22086466623590217,
+      "h" : 0.010174418555365716,
+      "y" : 0.603924418659157,
+      "w" : 0.36654134348602624,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Free fatty acids saponify Calcium, leaving free Oxalate hyper-absorbed in",
+      "x" : 0.2518796974937344,
+      "h" : 0.011679586304558565,
+      "y" : 0.5944509043093325,
+      "w" : 0.42857140349793316,
+      "conf" : 1
+    },
+    {
+      "text" : "colon",
+      "x" : 0.05357142803884713,
+      "h" : 0.007267441749572723,
+      "y" : 0.5835755813226744,
+      "w" : 0.03195488530041758,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Congenital deficiency of alanine-glyoxylate aminotransferase",
+      "x" : 0.2227443655075186,
+      "h" : 0.01027777777777783,
+      "y" : 0.5748611108864007,
+      "w" : 0.37030073175492,
+      "conf" : 1
+    },
+    {
+      "text" : "Q05. [2021 Exam] Why do pure Uric Acid calculi fail to visualize on",
+      "x" : 0.26221804956766914,
+      "h" : 0.010174418555365716,
+      "y" : 0.5588662791424419,
+      "w" : 0.4454887165258807,
+      "conf" : 1
+    },
+    {
+      "text" : "plain KUB radiography but are seen on non-contrast CT?",
+      "x" : 0.23026316425438573,
+      "h" : 0.01173772546980123,
+      "y" : 0.5480200260291028,
+      "w" : 0.3815789404402184,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Uric acid calculi absorb X-rays 100 times more than bone",
+      "x" : 0.2077067711701127,
+      "h" : 0.01027777777777783,
+      "y" : 0.5370833332646254,
+      "w" : 0.3402255597858443,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Uric acid stones dissolve immediately upon X-ray exposure",
+      "x" : 0.21428571870300733,
+      "h" : 0.01031007766723635,
+      "y" : 0.5268217053822914,
+      "w" : 0.35338344066628097,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Uric acid calculi are located exclusively inside bile ducts",
+      "x" : 0.20488722222744352,
+      "h" : 0.010174418555365716,
+      "y" : 0.5167151163335755,
+      "w" : 0.3345864554431951,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Uric acid calculi are surrounded by thick radiopaque jackets",
+      "x" : 0.2152255683505638,
+      "h" : 0.010277777777777719,
+      "y" : 0.5051388890043746,
+      "w" : 0.3552631567400364,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Composed of light elements (C, H, N, O), making them Radiolucent on plain",
+      "x" : 0.2556390922932333,
+      "h" : 0.011731265915764677,
+      "y" : 0.49558785493493096,
+      "w" : 0.4360902239143377,
+      "conf" : 1
+    },
+    {
+      "text" : "X-rays",
+      "x" : 0.05827067716165412,
+      "h" : 0.00872092988755968,
+      "y" : 0.48546511635174416,
+      "w" : 0.03759398415823963,
+      "conf" : 1
+    },
+    {
+      "text" : "Q06. [2020 Exam] What prerequisite triggers Uric Acid stone",
+      "x" : 0.24530075091635342,
+      "h" : 0.013133074442545634,
+      "y" : 0.47017764840297255,
+      "w" : 0.4154135226174964,
+      "conf" : 1
+    },
+    {
+      "text" : "precipitation, and what is the cornerstone of medical chemolysis?",
+      "x" : 0.26221804956766914,
+      "h" : 0.011724806361728235,
+      "y" : 0.460804263609976,
+      "w" : 0.4454887165258807,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Persistent Acidic Urine (pH <5.5); treated with oral Potassium Citrate (target",
+      "x" : 0.2584586510714285,
+      "h" : 0.014722222222222192,
+      "y" : 0.4476388890253838,
+      "w" : 0.4454887165258807,
+      "conf" : 1
+    },
+    {
+      "text" : "pH 6.5-7.0)",
+      "x" : 0.07236842214537359,
+      "h" : 0.011867227554321236,
+      "y" : 0.4396802326590815,
+      "w" : 0.06619318640549178,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Persistent alkaline urine (pH >7.5); treated with ammonium chloride",
+      "x" : 0.23684210924812024,
+      "h" : 0.01030361758338072,
+      "y" : 0.4295704135401704,
+      "w" : 0.3984962534681659,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Massive hypercalcemia; treated with IV calcium gluconate",
+      "x" : 0.21052632155388448,
+      "h" : 0.008888889153798374,
+      "y" : 0.4186111112110906,
+      "w" : 0.3458646421891849,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Severe hypouricosuria; treated with high-purine organ meat diets",
+      "x" : 0.23120301397243087,
+      "h" : 0.01174418555365675,
+      "y" : 0.40837209295997706,
+      "w" : 0.3872180447828676,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Persistent hypermagnesuria; treated with oral phosphate",
+      "x" : 0.2095864704652255,
+      "h" : 0.010174418555365716,
+      "y" : 0.3975290698582848,
+      "w" : 0.34398494805473806,
+      "conf" : 1
+    },
+    {
+      "text" : "Q07. [2024 Exam] Struvite (triple phosphate) calculi",
+      "x" : 0.21616541710526305,
+      "h" : 0.011757106251186755,
+      "y" : 0.3836563308057598,
+      "w" : 0.3571428508744832,
+      "conf" : 1
+    },
+    {
+      "text" : "characteristically form in which microbiological and biochemical",
+      "x" : 0.25657895171052625,
+      "h" : 0.011711886194017196,
+      "y" : 0.37358850120053905,
+      "w" : 0.43421050784058235,
+      "conf" : 1
+    },
+    {
+      "text" : "environment?",
+      "x" : 0.08740601369047624,
+      "h" : 0.010174418555365716,
+      "y" : 0.3626453486676357,
+      "w" : 0.09586465315883919,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Infection with sterile viruses in an intensely acidic urine (pH <4.5)",
+      "x" : 0.23120301397243087,
+      "h" : 0.011666666666666603,
+      "y" : 0.3502777776520563,
+      "w" : 0.3872180447828676,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Urease-producing bacteria (e.g., Proteus mirabilis) in ALKALINE urine (pH",
+      "x" : 0.24812029367167943,
+      "h" : 0.011744185553656639,
+      "y" : 0.34162790708847246,
+      "w" : 0.42481201522903933,
+      "conf" : 1
+    },
+    {
+      "text" : ">7.2)",
+      "x" : 0.05451127763157897,
+      "h" : 0.00872092988755968,
+      "y" : 0.33139534878875965,
+      "w" : 0.0338345849196916,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Pure anaerobic Bacteroides infection in neutral urine with normal flora",
+      "x" : 0.24248120983709248,
+      "h" : 0.01030361758338083,
+      "y" : 0.3204295866051785,
+      "w" : 0.40977441827484723,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] High-dose penicillin excretion in primary hyperaldosteronism",
+      "x" : 0.21710526914160383,
+      "h" : 0.010174418555365716,
+      "y" : 0.310319767514535,
+      "w" : 0.3590225450089302,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Isolated systemic cytomegalovirus reactivation in allografts",
+      "x" : 0.21146615955513806,
+      "h" : 0.01027777777777783,
+      "y" : 0.3001388887291291,
+      "w" : 0.35150374653183414,
+      "conf" : 1
+    },
+    {
+      "text" : "Q08. [2022 Exam] Why cannot Struvite Staghorn Calculi",
+      "x" : 0.7067669236215537,
+      "h" : 0.01027777777777783,
+      "y" : 0.9004166668625548,
+      "w" : 0.37969922436646286,
+      "conf" : 1
+    },
+    {
+      "text" : "('coraliform stones') be cured by antimicrobial therapy alone?",
+      "x" : 0.726503766134085,
+      "h" : 0.010174418555365716,
+      "y" : 0.8902616280765503,
+      "w" : 0.4191729108863902,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Bacteria produce neutral gas that inactivates all known antibiotics",
+      "x" : 0.7095864709821427,
+      "h" : 0.00872092988755968,
+      "y" : 0.8779069768168605,
+      "w" : 0.3853383287091122,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Bacteria inside stone matrix act as a permanent nidus for recurrent sepsis",
+      "x" : 0.732142862523496,
+      "h" : 0.008888888888888835,
+      "y" : 0.8677777777395599,
+      "w" : 0.4304511195716886,
+      "conf" : 1
+    },
+    {
+      "text" : "unless surgically excised",
+      "x" : 0.5855263140742482,
+      "h" : 0.00874676995807222,
+      "y" : 0.8575710594974655,
+      "w" : 0.1372180447828676,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Antibiotics cause rapid transformation of struvite into lead",
+      "x" : 0.6870300694548873,
+      "h" : 0.01031007766723624,
+      "y" : 0.84817829459954,
+      "w" : 0.3439849480547381,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Struvite stones dissolve completely within 2 hours of antibiotics",
+      "x" : 0.7030075125939852,
+      "h" : 0.008888889153798374,
+      "y" : 0.8372222223123881,
+      "w" : 0.37218044782867543,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Struvite calculi are located strictly inside the appendix",
+      "x" : 0.6757518743421054,
+      "h" : 0.00872092988755968,
+      "y" : 0.8270348836724806,
+      "w" : 0.3214285526234498,
+      "conf" : 1
+    },
+    {
+      "text" : "Q09. [2023 Exam] In inherited Cystinuria, what pathognomonic",
+      "x" : 0.731203009774436,
+      "h" : 0.011666666666666603,
+      "y" : 0.8124999998062015,
+      "w" : 0.42481201522903933,
+      "conf" : 1
+    },
+    {
+      "text" : "crystal morphology is identified in acidic urine sediment?",
+      "x" : 0.7114661702772556,
+      "h" : 0.011750645637512158,
+      "y" : 0.8022642117673711,
+      "w" : 0.3890977169780061,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Bipyramidal envelope crystals with strong positive birefringence",
+      "x" : 0.7039473730968044,
+      "h" : 0.010174418555365716,
+      "y" : 0.791424418659157,
+      "w" : 0.37406012002381384,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Dumbbell-shaped crystals displaying bright rainbow birefringence",
+      "x" : 0.7077067717340224,
+      "h" : 0.008888889153798374,
+      "y" : 0.7805555556436317,
+      "w" : 0.3853383287091122,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Coffin-lid prismatic crystals formed in alkaline urine",
+      "x" : 0.6682330776002507,
+      "h" : 0.00873385005527072,
+      "y" : 0.7703552972447082,
+      "w" : 0.30639097760856626,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Flat, clear, Hexagonal ('benzene ring') crystals in acidic urine",
+      "x" : 0.6964285774122805,
+      "h" : 0.010174418555365605,
+      "y" : 0.759447674491279,
+      "w" : 0.35902254500893016,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Needle-shaped crystals with intense negative birefringence",
+      "x" : 0.6898496284304511,
+      "h" : 0.010277777777777719,
+      "y" : 0.7493055557579178,
+      "w" : 0.34962405239738725,
+      "conf" : 1
+    },
+    {
+      "text" : "Q10. [2021 Exam] What target urinary pH is required to dissolve",
+      "x" : 0.7349623987468674,
+      "h" : 0.010174418555365605,
+      "y" : 0.7347383720203489,
+      "w" : 0.4360902239143376,
+      "conf" : 1
+    },
+    {
+      "text" : "Cystine stones, and what second-line chelating drug is used?",
+      "x" : 0.7236842124060149,
+      "h" : 0.011666666666666603,
+      "y" : 0.7252777777005059,
+      "w" : 0.41353380654374106,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Urinary pH <5.0; treated with oral ascorbic acid",
+      "x" : 0.658834583677945,
+      "h" : 0.011666666666666714,
+      "y" : 0.7122222222994941,
+      "w" : 0.28383458217727797,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Urinary pH 6.0; treated with allopurinol monotherapy",
+      "x" : 0.6729323255639099,
+      "h" : 0.010174418555365605,
+      "y" : 0.7027616278343023,
+      "w" : 0.31578947022010917,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Urinary pH >9.0; treated with IV hydrochloric acid",
+      "x" : 0.6654135291353386,
+      "h" : 0.013184754053751635,
+      "y" : 0.6911854007594618,
+      "w" : 0.29699246305771476,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Urinary pH 4.0; treated with high-dose loop diuretics",
+      "x" : 0.6729323360275687,
+      "h" : 0.010277777777777719,
+      "y" : 0.6823611111591428,
+      "w" : 0.3120300600119069,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Urinary pH >7.5 (via Potassium Citrate); Thiol drugs (Tiopronin \/",
+      "x" : 0.7030075234492481,
+      "h" : 0.00872092988755968,
+      "y" : 0.6715116279796511,
+      "w" : 0.37218044782867543,
+      "conf" : 1
+    },
+    {
+      "text" : "D-Penicillamine)",
+      "x" : 0.5629699250313283,
+      "h" : 0.00872092988755968,
+      "y" : 0.6627906978197675,
+      "w" : 0.08834586016657031,
+      "conf" : 1
+    },
+    {
+      "text" : "Q11. [2025 Exam] Which imaging modality is the GOLD",
+      "x" : 0.7030075174812029,
+      "h" : 0.011627906163533486,
+      "y" : 0.6468023257751938,
+      "w" : 0.36842105955978155,
+      "conf" : 1
+    },
+    {
+      "text" : "STANDARD initial diagnostic test for suspected acute ureteral",
+      "x" : 0.7265037550438598,
+      "h" : 0.011686045858595118,
+      "y" : 0.6366569770180734,
+      "w" : 0.4191729108863901,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Low-Dose Non-Contrast Helical Abdominal\/Pelvic CT (NCCT)",
+      "x" : 0.6917293291979948,
+      "h" : 0.010297157499525311,
+      "y" : 0.614037467809897,
+      "w" : 0.353383440666281,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Intravenous Urography (IVU) with high-osmolar iodinated contrast",
+      "x" : 0.7086466229949872,
+      "h" : 0.010174418555365605,
+      "y" : 0.6039244186773256,
+      "w" : 0.3872180447828675,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Plain abdominal radiography (KUB) combined with barium swallow",
+      "x" : 0.7095864596804513,
+      "h" : 0.01027777777777783,
+      "y" : 0.5937499999273256,
+      "w" : 0.3890977169780059,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Radionuclide renal cortical scan (DMSA) under anesthesia",
+      "x" : 0.6870300808583958,
+      "h" : 0.010174418555365716,
+      "y" : 0.5835755814195736,
+      "w" : 0.34022555978584423,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Magnetic Resonance Angiography (MRA) with gadolinium",
+      "x" : 0.6842105307017543,
+      "h" : 0.011686045858595118,
+      "y" : 0.5741569770180734,
+      "w" : 0.3345864554431951,
+      "conf" : 1
+    },
+    {
+      "text" : "Q12. [2020 Exam] Which renal calculi represent the notable",
+      "x" : 0.7189849556704262,
+      "h" : 0.010174418555365716,
+      "y" : 0.5588662789970931,
+      "w" : 0.40413531393219804,
+      "conf" : 1
+    },
+    {
+      "text" : "EXCEPTION that fails to visualize even on Non-Contrast CT?",
+      "x" : 0.7180451060776946,
+      "h" : 0.010284237861633239,
+      "y" : 0.5487467700455756,
+      "w" : 0.40225564173705974,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Calcium oxalate monohydrate calculi",
+      "x" : 0.6315789512531327,
+      "h" : 0.011698966026306268,
+      "y" : 0.5363727393306111,
+      "w" : 0.23308270891136096,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Indinavir (and protease inhibitor) radiolucent calculi",
+      "x" : 0.6691729284774437,
+      "h" : 0.01031007766723624,
+      "y" : 0.5268217052369426,
+      "w" : 0.30827067174301315,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Large struvite staghorn calculi",
+      "x" : 0.6109022564379699,
+      "h" : 0.010174418555365605,
+      "y" : 0.51671511640625,
+      "w" : 0.19172932825698696,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Cystine calculi with mild radiopacity",
+      "x" : 0.6259398468515037,
+      "h" : 0.008888888623979296,
+      "y" : 0.5058333332699,
+      "w" : 0.22180450022606268,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Calcium hydrogen phosphate (brushite) calculi",
+      "x" : 0.6550751914708646,
+      "h" : 0.010277777777777719,
+      "y" : 0.4948611111773113,
+      "w" : 0.2800751719690757,
+      "conf" : 1
+    },
+    {
+      "text" : "Q13. [2024 Exam] What acoustic and Doppler findings identify a",
+      "x" : 0.7349624106516289,
+      "h" : 0.011744185553656639,
+      "y" : 0.47087209266927954,
+      "w" : 0.43233079176682687,
+      "conf" : 1
+    },
+    {
+      "text" : "renal calculus on diagnostic ultrasound examination?",
+      "x" : 0.6973684271303255,
+      "h" : 0.011724805831909157,
+      "y" : 0.46080426388457546,
+      "w" : 0.3646616493515794,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Anechoic cystic space with distal acoustic enhancement",
+      "x" : 0.6813909732847745,
+      "h" : 0.011686046388414195,
+      "y" : 0.4491569770165101,
+      "w" : 0.3327067613087482,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Homogeneous hypochoic mass with central vascular flow signals",
+      "x" : 0.7086466214285714,
+      "h" : 0.01310077508290608,
+      "y" : 0.4382170541511063,
+      "w" : 0.39097743305176136,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Hyperechoic focus with Posterior Acoustic Shadowing and 'Twinkling Artifact'",
+      "x" : 0.7377819623120299,
+      "h" : 0.0117571051915486,
+      "y" : 0.4288436693783486,
+      "w" : 0.44548871652588073,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Fluid-fluid level with swirling echogenic debris in pelvis",
+      "x" : 0.6776315748825189,
+      "h" : 0.01027777777777783,
+      "y" : 0.4179166668955524,
+      "w" : 0.3251879628316521,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Total disappearance of kidney parenchyma during respiration",
+      "x" : 0.6964285774749372,
+      "h" : 0.010290697945488758,
+      "y" : 0.40764534874970587,
+      "w" : 0.36278193327782404,
+      "conf" : 1
+    },
+    {
+      "text" : "Q14. [2022 Exam] What dietary advice regarding Calcium is",
+      "x" : 0.7199248160526315,
+      "h" : 0.010174418555365605,
+      "y" : 0.3844476744912789,
+      "w" : 0.40225564173705963,
+      "conf" : 1
+    },
+    {
+      "text" : "universally recommended to prevent recurrent Calcium Oxalate",
+      "x" : 0.733082713972431,
+      "h" : 0.010174418555365716,
+      "y" : 0.372819767514535,
+      "w" : 0.432330791766827,
+      "conf" : 1
+    },
+    {
+      "text" : "stones?",
+      "x" : 0.5451127818641432,
+      "h" : 0.007267441749572723,
+      "y" : 0.36264534884973926,
+      "w" : 0.05639097760856615,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Severe dietary calcium restriction (<400 mg\/d) to eliminate urinary calcium",
+      "x" : 0.7349624005169173,
+      "h" : 0.010277777777777719,
+      "y" : 0.35097222227860875,
+      "w" : 0.4398496121832315,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Complete elimination of all dietary water and fluid hydration",
+      "x" : 0.6936090285087717,
+      "h" : 0.01174418555365675,
+      "y" : 0.34162790718537167,
+      "w" : 0.35714285087448316,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Consuming 5 grams of elemental calcium pills at bedtime without food",
+      "x" : 0.7208646565084589,
+      "h" : 0.010174418555365605,
+      "y" : 0.3292151162245639,
+      "w" : 0.41165413434860254,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Normal-to-high dietary calcium (1,000-1,200 mg\/d); restriction increases",
+      "x" : 0.727443601942356,
+      "h" : 0.008888888888888946,
+      "y" : 0.31972222228466485,
+      "w" : 0.42481201522903944,
+      "conf" : 1
+    },
+    {
+      "text" : "oxalate absorption & recurrence!",
+      "x" : 0.608082709093045,
+      "h" : 0.010174418555365605,
+      "y" : 0.3103197675327035,
+      "w" : 0.18609022391433772,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Exclusive consumption of high-oxalate spinach and rhubarb smoothies",
+      "x" : 0.7208646685150374,
+      "h" : 0.010277777777777719,
+      "y" : 0.3001388888260283,
+      "w" : 0.41165413434860265,
+      "conf" : 1
+    },
+    {
+      "text" : "Twisted Medicine • Clinical Nephrology & Urology Master Class + Faculty & Board ExaT Saration Confidential Meritient it in Facully & Roard Exam Past Papers",
+      "x" : 0.4990601626879695,
+      "h" : 0.023255812327067082,
+      "y" : 0.015988372480620183,
+      "w" : 0.922932299155284,
+      "conf" : 1
+    }
+  ],
+  "page" : 167
+}

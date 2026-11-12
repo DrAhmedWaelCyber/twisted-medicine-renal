@@ -1,0 +1,854 @@
+{
+  "id": 28,
+  "title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+  "department": "Clinical Biochemistry",
+  "department_desc": "Purine metabolism, uric acid, clinical enzymology, biomarkers, inborn errors and stone chemistry",
+  "booklet_pages": "Pages 109 - 112",
+  "pdf_pages": [
+    111,
+    112,
+    113,
+    114
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 29 - HIGH-YIELD PURINE METABOLISM & GOUT BIOCHEMISTRY MATRIX",
+  "summary_table": [
+    {
+      "domain": "(Liver & Kidneys)",
+      "content": "• Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption)."
+    },
+    {
+      "domain": "→ Uric Acid.",
+      "content": "(females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202"
+    },
+    {
+      "domain": "byproduct.",
+      "content": "• Overproduction (10%) vs. Underexcretion (90%). • Von Gierke: G6P -> HMP shunt -> excess PRPP + • Acute Gout: MSU crystals activate NLRP3"
+    },
+    {
+      "domain": "Hyperuricemia & Gout",
+      "content": "Primary: PRPP synthetase overactivity, HGPR"
+    },
+    {
+      "domain": "(Primary vs. Secondary)",
+      "content": "lactic acid blocks urate OAT secretion. inflammasome -> IL-1b. • Podagra: 1st MTP joint (50%). eficiency, Von Gierke disease (G6Pase deficiency • Diuretics: Volume contraction + OAT competition. • Secondary: Leukemias, chemotherapy (TLS), CKD, • Alcohol: Lactic acid blocks secretion + accelerated • Polarized light: Needle-shaped MSU, STRONG NEGATIVE BIREFRINGENCE (yellow parallel, blue ATP -> AMP."
+    },
+    {
+      "domain": "Diuretics, Ethanol.",
+      "content": "perpendicular). • Lethal Interaction: Allopurinol + Azathioprine / 6-MP: XO • Chronic ULT: XOls (Allopurinol: suicide inhibitor;"
+    },
+    {
+      "domain": "Gout Pharmacology &",
+      "content": "• Acute flare: NSAIDs (Indomethacin), Colchicine inhibition blocks 6-MP breakdown -> fatal pancytopenia! (binds unpolymerized tubulin, blocks microtubule Febuxostat), Uricosurics (Probenecid: inhibits"
+    },
+    {
+      "domain": "Interactions",
+      "content": "Reduce 6-MP dose by 75%. URAT1), Uricase (Pegloticase, Rasburicase). assembly & neutrophil chemotaxis), Corticosteroids."
+    },
+    {
+      "domain": "(Acute vs Chronic ULT)",
+      "content": "• Allopurinol hypersensitivity: HLA-B*5801. • Alkalinize urine to pH 6.5-7.0 with • Cardinal rule: Never start or change ULT during"
+    },
+    {
+      "domain": "acute attack!",
+      "content": "K-citrate/bicarbonate."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Chemically, purines consist of a fused pyrimidine and imidazole bicyclic ring. The chemical designation of Uric Acid is:",
+      "options": {
+        "A": "6-Aminopurine (Adenine)",
+        "B": "2,6,8-Trioxypurine",
+        "C": "2-Amino-6-oxypurine (Guanine)",
+        "D": "2,4-Dioxypyrimidine (Uracil)",
+        "E": "6-Oxypurine (Hypoxanthine)"
+      },
+      "correct_option": "B",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In the de novo biosynthesis of the purine ring, which single amino acid contributes the Nitrogen atom at position N1?",
+      "options": {
+        "A": "Aspartate",
+        "B": "Glycine",
+        "C": "Glutamine (amide nitrogen)",
+        "D": "Alanine",
+        "E": "Glutamate"
+      },
+      "correct_option": "A",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which single molecule is completely incorporated into the purine ring, supplying carbon atoms C4 and C5, and nitrogen atom N7?",
+      "options": {
+        "A": "Aspartic acid",
+        "B": "Glycine",
+        "C": "Glutamine",
+        "D": "N10-formyl tetrahydrofolate",
+        "E": "Carbon dioxide"
+      },
+      "correct_option": "B",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In the de novo synthesis of the purine nucleus, the nitrogen atoms at positions N3 and N9 are derived from:",
+      "options": {
+        "A": "The alpha-amino group of Aspartate",
+        "B": "The alpha-amino group of Glycine",
+        "C": "The amide nitrogen of Glutamine",
+        "D": "Ammonium ions (NH4+) dissolved in cytoplasm",
+        "E": "Urea produced by the ornithine cycle"
+      },
+      "correct_option": "C",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The carbon atoms at positions C2 and C8 of the purine ring are contributed by which coenzyme donor?",
+      "options": {
+        "A": "S-adenosylmethionine (SAM)",
+        "B": "Formyl-Tetrahydrofolate (N10-formyl and N5,N10-methenyl THF)",
+        "C": "Biotin-bound carbon dioxide",
+        "D": "Thiamine pyrophosphate (TPP)",
+        "E": "Pyridoxal phosphate (PLP)"
+      },
+      "correct_option": "B",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Carbon atom C6 of the purine bicyclic ring is directly contributed by which simple physiological precursor?",
+      "options": {
+        "A": "Formate from tryptophan catabolism",
+        "B": "The methyl group of Methionine",
+        "C": "Respiratory Carbon Dioxide (CO2 / Bicarbonate)",
+        "D": "The beta-carbon of Serine",
+        "E": "Acetyl-CoA carboxyl group"
+      },
+      "correct_option": "C",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Subcellularly, the complex enzymatic cascade responsible for the de novo synthesis of purine nucleotides occurs primarily in the:",
+      "options": {
+        "A": "Mitochondrial matrix",
+        "B": "Cytoplasm (Cytosol)",
+        "C": "Rough endoplasmic reticulum",
+        "D": "Nucleolus",
+        "E": "Lysosomal lumen"
+      },
+      "correct_option": "B",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The key activated pentose sugar donor required for both de novo and salvage pathways of purine nucleotide synthesis is:",
+      "options": {
+        "A": "Ribose-1-phosphate",
+        "B": "5-Phosphoribosyl-1-pyrophosphate (PRPP)",
+        "C": "Deoxyribose-5-phosphate",
+        "D": "UDP-glucose",
+        "E": "Glucose-1,6-bisphosphate"
+      },
+      "correct_option": "B",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the committed, rate-limiting regulatory enzyme in the de novo purine biosynthesis pathway?",
+      "options": {
+        "A": "Glutamine-PRPP Amidotransferase",
+        "B": "PRPP Synthetase",
+        "C": "Adenylosuccinate Synthetase",
+        "D": "Xanthine Oxidase",
+        "E": "Inosine Monophosphate Dehydrogenase"
+      },
+      "correct_option": "A",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Glutamine-PRPP amidotransferase is subject to feedback allosteric inhibition by which set of end-product purine nucleotides?",
+      "options": {
+        "A": "UTP, CTP, and TTP",
+        "B": "AMP, GMP, and IMP",
+        "C": "cAMP and cGMP only",
+        "D": "Orotic acid and PRPP",
+        "E": "Uric acid and alloxanthine"
+      },
+      "correct_option": "B",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the initial, parent purine mononucleotide synthesized at the end of the 10-step de novo pathway from which AMP and GMP are derived?",
+      "options": {
+        "A": "Adenosine Monophosphate (AMP)",
+        "B": "Inosine Monophosphate (IMP)",
+        "C": "Guanosine Monophosphate (GMP)",
+        "D": "Xanthosine Monophosphate (XMP)",
+        "E": "Uridine Monophosphate (UMP)"
+      },
+      "correct_option": "B",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In the branch point conversion of IMP to AMP, what amino acid and high-energy nucleotide are required by adenylosuccinate synthetase?",
+      "options": {
+        "A": "Glycine and ATP",
+        "B": "Aspartate and GTP",
+        "C": "Glutamine and UTP",
+        "D": "Alanine and CTP",
+        "E": "Arginine and PEP"
+      },
+      "correct_option": "B",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The anticancer chemotherapeutic antimetabolite 6-Mercaptopurine (6-MP) suppresses malignant purine synthesis primarily by:",
+      "options": {
+        "A": "Conversion to 6-MP ribonucleotide, inhibiting PRPP amidotransferase and IMP conversion",
+        "B": "Direct covalent destruction of circulating uric acid crystals",
+        "C": "Blocking xanthine oxidase conversion of hypoxanthine",
+        "D": "Increasing renal tubular secretion of folic acid",
+        "E": "Inhibiting ribonucleotide reductase reduction of pyrimidines"
+      },
+      "correct_option": "A",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Methotrexate and aminopterin are potent antifolates that block de novo purine synthesis in tumor cells by competitively inhibiting:",
+      "options": {
+        "A": "Dihydrofolate Reductase (DHFR), preventing N10-formyl-THF regeneration",
+        "B": "PRPP Synthetase",
+        "C": "HGPRT salvage enzyme",
+        "D": "Carbamoyl phosphate synthetase I|",
+        "E": "Intestinal mucosal nucleotidases"
+      },
+      "correct_option": "A",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Hypoxanthine-Guanine Phosphoribosyltransferase (HGPRT) catalyzes the salvage of free purine bases by transferring PRPP to form:",
+      "options": {
+        "A": "Hypoxanthine to IMP, and Guanine to GMP",
+        "B": "Adenine to AMP, and Xanthine to XMP",
+        "C": "Uracil to UMP, and Cytosine to CMP [DI Uric acid to Allantoin",
+        "E": "Inosine to Hypoxanthine"
+      },
+      "correct_option": "A",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Lesch-Nyhan Syndrome is an inborn error of metabolism transmitted as which genetic inheritance pattern?",
+      "options": {
+        "A": "Autosomal dominant with variable penetrance",
+        "B": "Autosomal recessive on chromosome 3",
+        "C": "X-Linked Recessive deficiency of HGPRT",
+        "D": "Mitochondrial maternal transmission [El Y-linked holandric inheritance"
+      },
+      "correct_option": "C",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In Lesch-Nyhan syndrome, severe hyperuricemia and purine overproduction result biochemically from which mechanism?",
+      "options": {
+        "A": "Massive dietary ingestion of purine-rich red meats",
+        "B": "Complete paralysis of renal organic anion transporters",
+        "C": "Intracellular PRP accumulation and lack of IMP/GMP feedback, accelerating de novo synthesis",
+        "D": "Excessive conversion of uric acid into insoluble xanthine",
+        "E": "Spontaneous transformation of pyrimidines into purines"
+      },
+      "correct_option": "C",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which pathognomonic behavioral and clinical feature uniquely distinguishes Lesch-Nyhan syndrome from simple gout?",
+      "options": {
+        "A": "Compulsive self-mutilation (lip and finger biting), choreoathetosis, and mental retardation",
+        "B": "Severe bilateral sensorineural deafness with nephritis",
+        "C": "Extensive pulmonary hemorrhage with linear anti-GBM antibodies",
+        "D": "Hepatomegaly with severe episodic hypoglycemia",
+        "E": "Isolated recurrent calcium oxalate nephrolithiasis"
+      },
+      "correct_option": "A",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What early urinary finding is characteristically noted in diapers of male infants afflicted with Lesch-Nyhan syndrome?",
+      "options": {
+        "A": "Jet-black urine that darkens on standing (alkaptonuria)",
+        "B": "Milky-white chylous urine filled with filarial worms",
+        "C": "Sweet maple-syrup odor with leucine crystals",
+        "D": "'Orange Sand' crystals (monosodium urate precipitates) on diapers",
+        "E": "Brilliant green fluorescent urine"
+      },
+      "correct_option": "D",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Adenine Phosphoribosyltransferase (APRT) deficiency leads to accumulation of adenine, resulting in the formation of which stones?",
+      "options": {
+        "A": "Radio-opaque calcium phosphate stones",
+        "B": "Magnesium ammonium phosphate staghorn calculi",
+        "C": "Cystine hexagonal calculi",
+        "D": "Silicon dioxide calculi",
+        "E": "2,8-Dihydroxyadenine radiolucent stones (frequently misdiagnosed as uric"
+      },
+      "correct_option": "E",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Severe Combined Immunodeficiency (SCID) resulting from inherited Adenosine Deaminase (ADA) deficiency is caused biochemically by:",
+      "options": {
+        "A": "Depletion of cellular ATP due to excessive mitochondrial uncoupling",
+        "B": "Direct antibody lysis of B-cell surface immunoglobulins",
+        "C": "Complete absence of bone marrow erythroid progenitor cells",
+        "D": "Massive precipitation of uric acid within thymic lymphatics",
+        "E": "Accumulation of toxic dATP, which allosterically inhibits Ribonucleotide Reductase and DNA synthesis in lymphocytes"
+      },
+      "correct_option": "E",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In human purine catabolism, what enzyme converts Hypoxanthine to Xanthine, and subsequently Xanthine to Uric Acid?",
+      "options": {
+        "A": "Uricase (urate oxidase)",
+        "B": "Guanase",
+        "C": "Adenylate deaminase",
+        "D": "Xanthine Oxidase (XO)",
+        "E": "Dihydroorotate dehydrogenase"
+      },
+      "correct_option": "D",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the biochemical cofactor composition of Xanthine Oxidase, and what reactive byproduct does it generate during urate synthesis?",
+      "options": {
+        "A": "Heme-iron metalloprotein; generates nitric oxide",
+        "B": "Pyridoxal phosphate-dependent enzyme; generates ammonia",
+        "C": "Biotin-containing carboxylase; generates ATP [DJ Cobalt-containing cobalamin enzyme; generates methane",
+        "E": "Metalloflavoprotein containing FAD, Molybdenum (Mo), and Iron (Fe); generates Hydrogen Peroxide (H202)"
+      },
+      "correct_option": "E",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Why is Uric Acid the definitive, end-stage excretory product of purine nucleotide degradation in humans and higher primates?",
+      "options": {
+        "A": "Humans completely lack the hepatic and renal enzyme Uricase (Urate",
+        "B": "Uric acid is converted into urea by intestinal urease exclusively",
+        "C": "The human kidney is impermeable to all purine metabolites except uric",
+        "D": "Humans lack xanthine oxidase to convert uric acid further",
+        "E": "Primate DNA requires circulating uric acid for replication"
+      },
+      "correct_option": "A",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In non-primate mammals (e.g., dogs and rodents), uric acid is further metabolized by the enzyme Uricase into which highly soluble product?",
+      "options": {
+        "A": "Allantoin",
+        "B": "Orotic acid",
+        "C": "Xanthosine",
+        "D": "Allantoic acid",
+        "E": "Beta-alanine"
+      },
+      "correct_option": "A",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the normal physiological upper limit of serum uric acid, and what is its physicochemical solubility threshold in blood plasma (at 37°C, pH 7.4)?",
+      "options": {
+        "A": "Normal up to 12.0 mg/dL; solubility limit is 15.0 mg/dL",
+        "B": "Normal up to 2.0 mg/dL; solubility limit is 3.5 mg/dL",
+        "C": "Normal up to 20.0 mg/dL; solubility limit is 25.0 mg/dL",
+        "D": "Normal up to 7.0 mg/dL in males (6.0 in females); solubility threshold is approximately 6.8 mg/dL",
+        "E": "Uric acid is infinitely soluble and never precipitates in blood"
+      },
+      "correct_option": "D",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which of the following inborn errors of carbohydrate metabolism causes severe secondary hyperuricemia and early gout (Von Gierke Disease)?",
+      "options": {
+        "A": "Galactose-1-phosphate uridyltransferase deficiency",
+        "B": "Muscle glycogen phosphorylase deficiency (McArdle)",
+        "C": "Glucose-6-Phosphatase deficiency (Type I GSD)",
+        "D": "Lysosomal acid maltase deficiency (Pompe)",
+        "E": "Fructose-1,6-bisphosphatase deficiency"
+      },
+      "correct_option": "C",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What dual biochemical mechanism causes profound hyperuricemia in Von Gierke disease (Glucose-6-Phosphatase deficiency)?",
+      "options": {
+        "A": "Direct destruction of renal glomeruli by stored glycogen granules",
+        "B": "Total absence of hepatic xanthine oxidase activity",
+        "C": "Massive intestinal hyperabsorption of dietary nucleic acids",
+        "D": "G6P diversion into HMP shunt producing excess PRPP; plus lactic acid competitively blocks tubular urate secretion",
+        "E": "Down-regulation of all proximal SGLT2 transporters"
+      },
+      "correct_option": "D",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Why do Loop and Thiazide diuretics characteristically provoke Hyperuricemia and trigger acute gouty arthritis attacks?",
+      "options": {
+        "A": "They directly stimulate hepatic xanthine oxidase synthesis",
+        "B": "They hydrolyze circulating uric acid into insoluble xanthine",
+        "C": "They bind and destroy the salvage enzyme HGPRT",
+        "D": "They alkalinize the proximal tubular lumen",
+        "E": "ECF volume depletion enhances proximal urate reabsorption, plus they compete with urate for tubular secretion via OAT"
+      },
+      "correct_option": "E",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why does heavy alcohol (ethanol) consumption acutely precipitate severe hyperuricemia and acute gout flares?",
+      "options": {
+        "A": "Alcohol is converted directly into monosodium urate by gastric alcohol dehydrogenase",
+        "B": "Alcohol binds tightly to joint cartilage, converting it into sodium urate",
+        "C": "Ethanol oxidation generates lactic acid (inhibiting renal urate excretion) and accelerates hepatic ATP breakdown to AMP",
+        "D": "Ethanol stimulates pituitary ACTH hypersecretion",
+        "E": "Alcohol destroys circulating neutrophils completely"
+      },
+      "correct_option": "C",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What primary cellular event triggers acute joint inflammation during an acute gouty arthritis flare?",
+      "options": {
+        "A": "Immune-complex activation of classical complement on cartilage",
+        "B": "Histamine release from perivascular basophils triggered by IgE",
+        "C": "Direct bacterial toxin cleavage of synovial collagen",
+        "D": "MSU crystal uptake activating NLRP3 Inflammasome and",
+        "E": "Cytotoxic T-lymphocyte perforin release against synoviocytes"
+      },
+      "correct_option": "D",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the single most common anatomical joint initially involved in acute gouty arthritis (~50% of first presentations, termed 'Podagra')?",
+      "options": {
+        "A": "First Metatarsophalangeal (1st MTP) joint of the great toe",
+        "B": "Temporomandibular joint",
+        "C": "Radiocarpal wrist joint",
+        "D": "Glenohumeral shoulder joint",
+        "E": "Distal interphalangeal (DIP) joint with Heberden nodes"
+      },
+      "correct_option": "A",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In chronic tophaceous gout, what is the pathognomonic histopathological composition of a 'Tophus'?",
+      "options": {
+        "A": "Central caseating necrosis surrounded by epithelioid Langhans giant cells",
+        "B": "Sheets of malignant squamous cells forming concentric keratin pearls",
+        "C": "Aggregates of monosodium urate crystals surrounded by a foreign-body granulomatous reaction of histiocytes and multinucleated giant cells",
+        "D": "Fibrinoid necrosis of arterioles surrounded by palisading histiocytes",
+        "E": "Eosinophilic amyloid fibrils showing apple-green birefringence"
+      },
+      "correct_option": "B",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Colchicine is an effective anti-inflammatory agent used to terminate acute gout flares. What is its cellular mechanism of action?",
+      "options": {
+        "A": "Non-selective inhibition of cyclooxygenase-1 and 2 enzymes",
+        "B": "Direct chemical dissolution of intra-articular urate crystals",
+        "C": "Competitive antagonism of interleukin-1beta receptors",
+        "D": "Binding to unpolymerized tubulin, inhibiting microtubule assembly and blocking neutrophil chemotaxis, adhesion, and phagocytosis",
+        "E": "Irreversible suicide inhibition of xanthine oxidase"
+      },
+      "correct_option": "D",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the fundamental Cardinal Rule regarding Urate-Lowering Therapy (e.g., Allopurinol) during an acute gouty attack?",
+      "options": {
+        "A": "Immediately start high-dose allopurinol (800 mg/day) on day one of the flare",
+        "B": "Discontinue all NSAIDs and analgesics immediately",
+        "C": "Switch allopurinol to oral probenecid every 4 hours",
+        "D": "Administer high-dose intravenous aspirin immediately",
+        "E": "NEVER start, stop, or change the dose of Urate-Lowering Therapy during an acute flare (rapid urate shifts worsen and prolong inflammation)"
+      },
+      "correct_option": "E",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What is the biochemical mechanism of Allopurinol in the chronic long-term management of gout?",
+      "options": {
+        "A": "Directly inhibiting apical URAT1 in proximal convoluted tubules",
+        "B": "Hydrolyzing uric acid into soluble allantoin and carbon dioxide",
+        "C": "Hypoxanthine analog converted by XO to Alloxanthine, causing suicide inhibition of Xanthine Oxidase",
+        "D": "Acting as a potent allosteric activator of PRPP amidotransferase",
+        "E": "Blocking intestinal absorption of purines by chelating nucleotides"
+      },
+      "correct_option": "C",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What critical, life-threatening pharmacogenetic drug interaction occurs when Allopurinol is co-administered with Azathioprine or 6-Mercaptopurine?",
+      "options": {
+        "A": "Severe acute hyperkalemic cardiac arrest within 10 minutes",
+        "B": "Complete irreversible destruction of the thyroid gland",
+        "C": "Rapid formation of bilateral obstructive cystine staghorn calculi",
+        "D": "Allopurinol inhibits Xanthine Oxidase (which metabolizes 6-MP), leading to toxic accumulation of 6-MP and fatal bone marrow pancytopenia",
+        "E": "Acute hypertensive encephalopathy due to catecholamine crisis"
+      },
+      "correct_option": "D",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A leukemic male develops oliguria post-chemo. Labs: uric acid 18.5 mg/dL, phosphate 9.8, K+ 6.4 (Tumor Lysis Syndrome). The mechanism of AKi is:",
+      "options": {
+        "A": "Immune complex-mediated diffuse crescentic glomerulonephritis",
+        "B": "Direct malignant infiltration of parenchyma by blast cells",
+        "C": "Severe cortical infarction caused by renal vein thrombosis",
+        "D": "Pre-renal hypovolemia secondary to massive polyuria",
+        "E": "Intratubular precipitation of uric acid crystals in collecting ducts causing"
+      },
+      "correct_option": "E",
+      "explanation": "**(Liver & Kidneys)**: • Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption).\n\n**→ Uric Acid.**: (females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202",
+      "masterclass_id": 28,
+      "masterclass_title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    }
+  ]
+}

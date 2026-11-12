@@ -1,0 +1,997 @@
+{
+  "items" : [
+    {
+      "x" : 0.09465020768175576,
+      "y" : 0.976747416136889,
+      "text" : "Twisted Medicine",
+      "w" : 0.1152263377447548,
+      "h" : 0.0087273899714152,
+      "conf" : 1
+    },
+    {
+      "x" : 0.3179012291838137,
+      "y" : 0.9759722223088898,
+      "text" : "• Renal System Module • Lecture 25 MCQ Masterclass",
+      "w" : 0.3230452627505896,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.3353909563786004,
+      "y" : 0.9651162791666666,
+      "text" : "Twisted Medicine Medical Series • Urolithiasis, Calcium, Struvite, Uric Acid Stones & Hydronephrosis • Standard Practice Bank",
+      "w" : 0.5925925872610799,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.9290123453024981,
+      "y" : 0.9760174416901004,
+      "text" : "Page 3 of 4",
+      "w" : 0.0679437289447905,
+      "h" : 0.010316894319322367,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22222221769547337,
+      "y" : 0.9411337208393895,
+      "text" : "Q29. 2025 Exam What are the three natural anatomical",
+      "w" : 0.36213991177157034,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2572016474794238,
+      "y" : 0.9272642118037083,
+      "text" : "constrictions along the ureter where calculi most frequently lodge?",
+      "w" : 0.43209877254078227,
+      "h" : 0.01175064563751227,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1759259292952674,
+      "y" : 0.9106782947630574,
+      "text" : "[A] Renal papilla, minor calyx, and major calyx",
+      "w" : 0.2695473245104904,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "x" : 0.17901235034293533,
+      "y" : 0.8975290698885658,
+      "text" : "[B] Renal cortex, medullary ray, and Bellini duct",
+      "w" : 0.27983537110142737,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22942387301954725,
+      "y" : 0.8859625323172833,
+      "text" : "[C] Prostatic urethra, membranous urethra, and fossa navicularis",
+      "w" : 0.3765432009906889,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18312757556584353,
+      "y" : 0.8728197674963663,
+      "text" : "[D] Intersphincteric groove, trigone, and urachus",
+      "w" : 0.2839506137296089,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23868313256172832,
+      "y" : 0.8597383721838663,
+      "text" : "[E] Ureteropelvic Junction (UPJ), Pelvic Brim (over iliac vessels), and",
+      "w" : 0.3991769514743637,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1296296317901234,
+      "y" : 0.8481782945450342,
+      "text" : "Ureterovesical Junction (UVJ)",
+      "w" : 0.17695472525350703,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2572016406893005,
+      "y" : 0.8139631782927471,
+      "text" : "Q30. 2024 Exam Which of the three ureteral constriction sites has",
+      "w" : 0.4320987725407822,
+      "h" : 0.0087403098742167,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2613168797668036,
+      "y" : 0.8001388888260281,
+      "text" : "the narrowest lumen (~3 mm) and is the most common site of stone",
+      "w" : 0.44032920981353185,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.07818930115226336,
+      "y" : 0.7870639535610465,
+      "text" : "impaction?",
+      "w" : 0.074074073407635,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.13271604626200284,
+      "y" : 0.7703552972447082,
+      "text" : "[A] Ureteropelvic junction (UPJ)",
+      "w" : 0.18724279583625072,
+      "h" : 0.00873385005527072,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18415638222736616,
+      "y" : 0.7579295865870099,
+      "text" : "[B] Pelvic brim crossing common iliac bifurcation",
+      "w" : 0.2901234416841711,
+      "h" : 0.01030361758338072,
+      "conf" : 1
+    },
+    {
+      "x" : 0.15740741036522626,
+      "y" : 0.7448611111773114,
+      "text" : "[C] Mid-abdominal spindle of the ureter",
+      "w" : 0.23662550344407185,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19238682820987663,
+      "y" : 0.7318055554705597,
+      "text" : "[D] Ureterovesical Junction (UVJ \/ Intramural ureter)",
+      "w" : 0.3065843642132837,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.17695472784636507,
+      "y" : 0.7187499999757753,
+      "text" : "[E] Upper ureteral third adjacent to psoas major",
+      "w" : 0.27983537110142737,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24074073408779179,
+      "y" : 0.6860885015946991,
+      "text" : "Q31. [2023 Exam] What is the pathophysiological definition of",
+      "w" : 0.3991769514743638,
+      "h" : 0.011711886194017307,
+      "conf" : 1
+    },
+    {
+      "x" : 0.0977366269290123,
+      "y" : 0.6722383721838663,
+      "text" : "Hydronephrosis?",
+      "w" : 0.11316871643066406,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23456790606995873,
+      "y" : 0.656250000090843,
+      "text" : "[A] Aseptic Dilation of the renal pelvis and calyces associated with",
+      "w" : 0.38683127157343256,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26131686692386846,
+      "y" : 0.6445833334889177,
+      "text" : "progressive atrophy of renal parenchyma due to urinary outflow obstruction",
+      "w" : 0.44032920981353185,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23868313422496545,
+      "y" : 0.6315277776278315,
+      "text" : "[B] Acute bacterial infection of renal pyramids with microabscesses",
+      "w" : 0.39917695147436366,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21604938713991756,
+      "y" : 0.6184722220543164,
+      "text" : "[C] Ectopic cystic transformation of the ureteric bud in utero",
+      "w" : 0.35390945050701406,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2037037077674896,
+      "y" : 0.60680555559774,
+      "text" : "[D] Primary hyperplasia of pelvic transitional urothelium",
+      "w" : 0.325102872068777,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23353909951131677,
+      "y" : 0.593750000090843,
+      "text" : "[E] Retrograde reflux of pus without any pelvicalyceal enlargement",
+      "w" : 0.38888888089162,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7211934086762692,
+      "y" : 0.9404069766957364,
+      "text" : "Q36. [2023 Exam] What serious suppurative complication occurs",
+      "w" : 0.4176954353380503,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7201646020576133,
+      "y" : 0.9272642115614602,
+      "text" : "when an acutely or chronically obstructed hydronephrotic kidney",
+      "w" : 0.4197530686480443,
+      "h" : 0.011750645637512158,
+      "conf" : 1
+    },
+    {
+      "x" : 0.689300405624143,
+      "y" : 0.9134722223088898,
+      "text" : "becomes secondarily infected with pyogenic bacteria?",
+      "w" : 0.35390945050701406,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7139917644547327,
+      "y" : 0.8975290697129361,
+      "text" : "[A] Pyonephrosis (pelvicalyceal system filled with thick pus, extensive",
+      "w" : 0.40740741273892,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5884773643518519,
+      "y" : 0.8859625321719344,
+      "text" : "parenchymal destruction)",
+      "w" : 0.15226336545164487,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6008230422496571,
+      "y" : 0.8728197674176357,
+      "text" : "[B] Chronic glomerulonephritis",
+      "w" : 0.18106995588578512,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5905349820301782,
+      "y" : 0.8597383721656977,
+      "text" : "[C] Renal angiomyolipoma",
+      "w" : 0.1563785960839229,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5915637870027435,
+      "y" : 0.8481782945768785,
+      "text" : "[D] Retroperitoneal fibrosis",
+      "w" : 0.15843620540211034,
+      "h" : 0.010310077137417273,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5617283962962962,
+      "y" : 0.8350290698219477,
+      "text" : "[E] Malakoplakia",
+      "w" : 0.09876542721154558,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7088477300754461,
+      "y" : 0.8131944442239135,
+      "text" : "Q37. [2022 Exam] What dermatomal distribution explains the",
+      "w" : 0.39300409952799475,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7273662479080936,
+      "y" : 0.8001388886806793,
+      "text" : "radiating agonizing spasmodic pain of acute Renal Colic caused by",
+      "w" : 0.434156357867163,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6234567932784634,
+      "y" : 0.7863727394275104,
+      "text" : "an obstructing ureteral calculus?",
+      "w" : 0.22222221422495336,
+      "h" : 0.011698966026306157,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6954732572016459,
+      "y" : 0.7703036175139415,
+      "text" : "[A] C3-C5 phrenic nerve dermatomes radiating to the shoulder",
+      "w" : 0.37037034904432,
+      "h" : 0.011718345748053638,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6995884710562416,
+      "y" : 0.7579295864598297,
+      "text" : "[B] T10-L2 dermatomes radiating from flank to groin or scrotum",
+      "w" : 0.37860081030887627,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6872428041838133,
+      "y" : 0.7448611111591428,
+      "text" : "[C] S2-S4 pudendal dermatomes restricted to perianal area",
+      "w" : 0.3497942318706393,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6810699644718792,
+      "y" : 0.7318055556159087,
+      "text" : "[D] T4-T6 intercostal dermatomes encircling the sternum",
+      "w" : 0.33744855196970824,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7139917716735253,
+      "y" : 0.7187499998304263,
+      "text" : "[E] L4-S1 sciatic nerve dermatomes radiating down the posterior calf",
+      "w" : 0.4074074127389201,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7211934197736625,
+      "y" : 0.6860885011714692,
+      "text" : "Q38. [2021 Exam] What is the primary hemodynamic mechanism",
+      "w" : 0.41358021670167544,
+      "h" : 0.011711886194017307,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7098765498628256,
+      "y" : 0.6722383722141474,
+      "text" : "responsible for the severe pain of acute ureteral obstruction?",
+      "w" : 0.3991769514743637,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6594650175240057,
+      "y" : 0.6562499998304263,
+      "text" : "[A] Complete cessation of renal arterial blood flow",
+      "w" : 0.29423868431235256,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7222222292866938,
+      "y" : 0.6431944445294403,
+      "text" : "[B] Acute rise in intraluminal pressure triggering ureteral smooth muscle",
+      "w" : 0.4238682872844193,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6646090489026065,
+      "y" : 0.631527777866953,
+      "text" : "spasm, capsular stretch, and local PGE2 synthesis",
+      "w" : 0.3045267309032895,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6676954771347735,
+      "y" : 0.6198611111409742,
+      "text" : "[C] Direct bacterial endotoxin release into renal veins",
+      "w" : 0.3106995828496584,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7088477302812074,
+      "y" : 0.6061111109106256,
+      "text" : "[D] Spontaneous rupture of the renal pelvis into the peritoneal cavity",
+      "w" : 0.3971193181643695,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6707818889917696,
+      "y" : 0.5937499999454943,
+      "text" : "[E] Compression of the celiac plexus by perinephric fat",
+      "w" : 0.3209876534324022,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2633744800411523,
+      "y" : 0.5588662790152616,
+      "text" : "Q32. [2022 Exam] Which of the following etiologies characteristically",
+      "w" : 0.4444444284499066,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22942386360596723,
+      "y" : 0.5457848836300871,
+      "text" : "causes UNILATERAL rather than bilateral hydronephrosis?",
+      "w" : 0.3765432009906889,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22530864804526723,
+      "y" : 0.5298546511307335,
+      "text" : "[A] Impacted calculus at the right Ureteropelvic Junction (UPJ)",
+      "w" : 0.3641975210897577,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23251029284979413,
+      "y" : 0.5167151163699129,
+      "text" : "[B] Benign Prostatic Hyperplasia (BPH) obstructing bladder outlet",
+      "w" : 0.3827160289452511,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2623456734310701,
+      "y" : 0.5036337208757267,
+      "text" : "[C] Advanced Cervical Carcinoma invading bladder floor and bilateral ureters",
+      "w" : 0.44650206175990076,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.16975309077503417,
+      "y" : 0.4912790698643411,
+      "text" : "[D] Posterior Urethral Valves in male infants",
+      "w" : 0.26131686324593406,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1707818962962962,
+      "y" : 0.47747093032340115,
+      "text" : "[E] Neurogenic bladder with urinary retention",
+      "w" : 0.26337447256412144,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22736625048868325,
+      "y" : 0.43236111103196256,
+      "text" : "Q33. [2021 Exam] Which congenital vascular anomaly is a",
+      "w" : 0.37242798235431407,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24176955234053488,
+      "y" : 0.4186111113193206,
+      "text" : "well-known extrinsic cause of unilateral ureteropelvic junction",
+      "w" : 0.4012345607925511,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "x" : 0.14814814547325109,
+      "y" : 0.40485465126846265,
+      "text" : "obstruction and hydronephrosis?",
+      "w" : 0.21399175296039702,
+      "h" : 0.01029069794548887,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1491769574331275,
+      "y" : 0.38953488379360457,
+      "text" : "[A] Persistent left superior vena cava",
+      "w" : 0.2160493862703911,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1707818962962962,
+      "y" : 0.37646317843809585,
+      "text" : "[B] Nutcracker compression of left renal vein",
+      "w" : 0.26337447256412144,
+      "h" : 0.0087403098742167,
+      "conf" : 1
+    },
+    {
+      "x" : 0.12654321279149508,
+      "y" : 0.36333333327929573,
+      "text" : "[C Patent ductus arteriosus",
+      "w" : 0.1748971159353196,
+      "h" : 0.008888889153798374,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26234568638545924,
+      "y" : 0.35027777784272807,
+      "text" : "[D] Aberrant (Accessory) Lower-Pole Renal Artery crossing and compressing",
+      "w" : 0.4465020617599007,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "x" : 0.06481481395615846,
+      "y" : 0.3401162789788759,
+      "text" : "the UPJ",
+      "w" : 0.05156016799638856,
+      "h" : 0.009080679151746929,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1121399201303154,
+      "y" : 0.32703488376937984,
+      "text" : "[E] Celiac trunk stenosis",
+      "w" : 0.14609052550117924,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26131686872428,
+      "y" : 0.3052648582227918,
+      "text" : "Q34. [2020 Exam] What is the typical gross pathological appearance",
+      "w" : 0.4362139911771571,
+      "h" : 0.011692505942450637,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22427983081275726,
+      "y" : 0.2914244185501453,
+      "text" : "of a kidney subjected to severe, long-standing, complete",
+      "w" : 0.3662551304079451,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.09670782078189294,
+      "y" : 0.27834302337693795,
+      "text" : "hydronephrosis?",
+      "w" : 0.11111110711247667,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24176955401234546,
+      "y" : 0.2623611112708709,
+      "text" : "[A] Massive cystic expansion of pelvis and calyces into a thin-walled,",
+      "w" : 0.40123456079255104,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20473251437757192,
+      "y" : 0.2506944443510938,
+      "text" : "fluid-filled multilocular sac with papery thin renal cortex",
+      "w" : 0.3271604813869644,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24897118641975335,
+      "y" : 0.2376388886806794,
+      "text" : "[B] Bilaterally shrunken, finely granular kidneys weighing 40 grams each",
+      "w" : 0.41975306864804446,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2119341620713304,
+      "y" : 0.22458333333124375,
+      "text" : "[C] Flea-bitten kidney with diffuse petechial hemorrhages",
+      "w" : 0.34156377060608295,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23251028161865595,
+      "y" : 0.21152777764266073,
+      "text" : "[D] Golden-yellow variegated cortical tumor with venous thrombus",
+      "w" : 0.3868312715734326,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19238683638545934,
+      "y" : 0.19846253238390155,
+      "text" : "[E] Solid pale-tan kidney filled with amyloid deposits",
+      "w" : 0.306584340221477,
+      "h" : 0.0102971574995252,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2633744911522633,
+      "y" : 0.1780523256722384,
+      "text" : "Q35. [2024 Exam] What is the microscopic sequence of parenchymal",
+      "w" : 0.44444442844990667,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22530864434156372,
+      "y" : 0.16419573640612223,
+      "text" : "damage in progressive hydronephrosis due to retrograde",
+      "w" : 0.3683127397261326,
+      "h" : 0.011724805831909157,
+      "conf" : 1
+    },
+    {
+      "x" : 0.0925925924382716,
+      "y" : 0.15043604638444774,
+      "text" : "back-pressure?",
+      "w" : 0.10288065784382369,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24691357510288078,
+      "y" : 0.1344476743640987,
+      "text" : "[A] Medullary tubular dilation, flattening of tubular epithelium, ischemic",
+      "w" : 0.4115226313752948,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20473251574074053,
+      "y" : 0.12281976751453488,
+      "text" : "interstitial fibrosis, and gradual glomerular hyalinization",
+      "w" : 0.3271604813869644,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24485596982167346,
+      "y" : 0.1097383719234496,
+      "text" : "[B] Glomerular crescents form first, followed by podocyte detachment",
+      "w" : 0.40740741273892006,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22942387458847718,
+      "y" : 0.09738372102713178,
+      "text" : "[C] Amyloid deposition along the tubular basement membranes",
+      "w" : 0.3765432009906889,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24588476676954757,
+      "y" : 0.08502906969476753,
+      "text" : "[D] Acute neutrophilic infiltration with widespread liquefactive necrosis",
+      "w" : 0.4135802167016755,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2283950655144032,
+      "y" : 0.07194767449127892,
+      "text" : "[E] Extensive squamous cell metaplasia of all nephron segments",
+      "w" : 0.37860081030887627,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7355967022376546,
+      "y" : 0.5588662790152616,
+      "text" : "Q39. [2025 Exam] Why does relief of long-standing bilateral complete",
+      "w" : 0.4465020617599008,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7273662581275719,
+      "y" : 0.5450193796326808,
+      "text" : "urinary tract obstruction characteristically trigger Post-Obstructive",
+      "w" : 0.4341563578671628,
+      "h" : 0.011705425580342599,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5452674904852117,
+      "y" : 0.5334302326213228,
+      "text" : "Diuresis?",
+      "w" : 0.06193378136592842,
+      "h" : 0.00947802437676315,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6584362090534981,
+      "y" : 0.5167151162063954,
+      "text" : "[A] Complete loss of cardiac baroreceptor reflexes",
+      "w" : 0.29629629363054,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7253086456018517,
+      "y" : 0.5036337208030524,
+      "text" : "[B] Excretion of accumulated retained urea and solutes acting as osmotic",
+      "w" : 0.4300411392307881,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7304526821673523,
+      "y" : 0.4920704135401704,
+      "text" : "agents, combined with temporary loss of medullary concentrating gradient",
+      "w" : 0.436213991177157,
+      "h" : 0.01030361758338072,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6985596770576129,
+      "y" : 0.4789244186773256,
+      "text" : "[C] Acute hypersecretion of aldosterone from the adrenal cortex",
+      "w" : 0.37654320099068883,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6954732572016459,
+      "y" : 0.46584302332848837,
+      "text" : "[D] Sudden bilateral rupture of collecting ducts into renal veins",
+      "w" : 0.37037034904432,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7283950671296295,
+      "y" : 0.45276162799781977,
+      "text" : "[E] Severe systemic hypokalemia stimulating antidiuretic hormone release",
+      "w" : 0.4320987725407822,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7088477431069957,
+      "y" : 0.4316666668867797,
+      "text" : "Q40. [Faculty Exam] Which imaging modality is currently the",
+      "w" : 0.3888888808916199,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7037037084876543,
+      "y" : 0.4186111113193206,
+      "text" : "gold-standard diagnostic investigation for evaluating acute",
+      "w" : 0.38271602894525103,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6625514353223596,
+      "y" : 0.40485465125029413,
+      "text" : "suspected urolithiasis in non-pregnant adults?",
+      "w" : 0.30041151226691487,
+      "h" : 0.010290697945488758,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7263374414266122,
+      "y" : 0.3887532298575252,
+      "text" : "[A] Non-Contrast Helical Computed Tomography (NCCT) of abdomen and",
+      "w" : 0.42798350592079404,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5308641971879287,
+      "y" : 0.37718023238856596,
+      "text" : "pelvis",
+      "w" : 0.03703703670381753,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6399176997942386,
+      "y" : 0.3647642117552588,
+      "text" : "[B] Plain abdominal radiograph (KUB) alone",
+      "w" : 0.2592592539277466,
+      "h" : 0.011750645637512158,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6666666615912209,
+      "y" : 0.35169573640612223,
+      "text" : "[C] Intravenous Urography (IVU) with barium swallow",
+      "w" : 0.3127571921678459,
+      "h" : 0.011724805831909157,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6275720203703703,
+      "y" : 0.34011627916666665,
+      "text" : "[D] Radionuclide renal scan with MAG3",
+      "w" : 0.2345678941258844,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6893004058984913,
+      "y" : 0.3269799739966854,
+      "text" : "[E] Magnetic Resonance Angiography (MRA) of renal vessels",
+      "w" : 0.3580246691433888,
+      "h" : 0.011737725999620197,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7242798424554181,
+      "y" : 0.3052648580774431,
+      "text" : "Q41. [Core Exam] A 45-year-old male has severe left loin-to-groin",
+      "w" : 0.4238682872844193,
+      "h" : 0.011692505942450637,
+      "conf" : 1
+    },
+    {
+      "x" : 0.721193422599451,
+      "y" : 0.2914244186773256,
+      "text" : "colic. CT shows a 4-mm stone at left UVJ. Urine shows envelope",
+      "w" : 0.4176954353380503,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6347736584705077,
+      "y" : 0.27754844946538254,
+      "text" : "crystals. Diagnosis and management:",
+      "w" : 0.24485596470862814,
+      "h" : 0.01176356527540412,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7160493776234569,
+      "y" : 0.2623611111921405,
+      "text" : "[A] Calcium Oxalate stone; medical expulsive therapy (alpha-blocker &",
+      "w" : 0.40740741273892,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5442386841906721,
+      "y" : 0.25000000009689916,
+      "text" : "hydration)",
+      "w" : 0.06378600882284302,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6532921845936213,
+      "y" : 0.2376388888078595,
+      "text" : "[B] Struvite stone; immediate open nephrectomy",
+      "w" : 0.2818930044114215,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7047325038065846,
+      "y" : 0.2245833331858949,
+      "text" : "[C] Uric acid stone; emergency systemic alkalinization and dialysis",
+      "w" : 0.3888888808916199,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6851851895061728,
+      "y" : 0.21152777775772846,
+      "text" : "[D] Cystine stone; penicillamine therapy and bilateral stents",
+      "w" : 0.3456790132342644,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6419755308627428,
+      "y" : 0.19914622659327808,
+      "text" : "[E] Xanthine stone; surgical ureterolithotomy",
+      "w" : 0.2635466377690153,
+      "h" : 0.011786270141601607,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7242798341563788,
+      "y" : 0.17726421146456106,
+      "text" : "Q42. [Clinical Exam] A 48-year-old female with recurrent UTIs has",
+      "w" : 0.42386828728441917,
+      "h" : 0.01175064563751227,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7335391020919066,
+      "y" : 0.16419573626077333,
+      "text" : "right flank pain. Urine pH is 8.2 with coffin-lid crystals. KUB shows a",
+      "w" : 0.4465020617599008,
+      "h" : 0.011724805831909269,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7170781824759949,
+      "y" : 0.15041666676565557,
+      "text" : "branched staghorn calculus. Culture grows Proteus. Diagnosis:",
+      "w" : 0.4094649980653007,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7222222291495195,
+      "y" : 0.13444767449127903,
+      "text" : "[A] Calcium oxalate calculus secondary to primary hyperparathyroidism",
+      "w" : 0.41563785001166964,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6810699644718792,
+      "y" : 0.12136627919089155,
+      "text" : "[B] Pure radiolucent uric acid calculus secondary to gout",
+      "w" : 0.33744855196970824,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6718106942043898,
+      "y" : 0.10973837202034892,
+      "text" : "[C] Renal Cell Carcinoma with dystrophic calcification",
+      "w" : 0.32304526275058965,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6944444505829902,
+      "y" : 0.09665697681686047,
+      "text" : "[D] Congenital polycystic kidney disease with cyst hemorrhage",
+      "w" : 0.36831273972613254,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7335390890689302,
+      "y" : 0.08357558134084303,
+      "text" : "[E] Infected Struvite Staghorn Calculus (Magnesium Ammonium Phosphate)",
+      "w" : 0.4465020617599006,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2962963017146774,
+      "y" : 0.015261628270348715,
+      "text" : "Twisted Medicine • Renal Pathology Master Class - Strictly Grounded in Faculty & Board Exam PotPapers",
+      "w" : 0.5185185078554934,
+      "h" : 0.021802325778537357,
+      "conf" : 1
+    },
+    {
+      "x" : 0.8765432127572015,
+      "y" : 0.02108204141942399,
+      "text" : "Confidential Student Revision Bank",
+      "w" : 0.17283949462122883,
+      "h" : 0.007280361652374334,
+      "conf" : 1
+    }
+  ],
+  "page" : 97
+}

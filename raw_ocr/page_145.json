@@ -1,0 +1,973 @@
+{
+  "items" : [
+    {
+      "text" : "Twisted Medicine • Renal System Module • Lecture 37 MCQ Masterclass",
+      "conf" : 1,
+      "y" : 0.965048449442721,
+      "x" : 0.28007518063909803,
+      "w" : 0.44360900045212526,
+      "h" : 0.011763565805223197
+    },
+    {
+      "text" : "Page 3 of 4",
+      "conf" : 1,
+      "y" : 0.9643895347131906,
+      "x" : 0.9078947364668899,
+      "w" : 0.06771225864127928,
+      "h" : 0.0103467559814453
+    },
+    {
+      "text" : "Twisted Medicine Medical Series • Chronic Kidney Disease (CKD), Dialysis Modalities & CKD-MBD • Standard Practice Bank",
+      "conf" : 1,
+      "y" : 0.9462209303052326,
+      "x" : 0.3768797071663532,
+      "w" : 0.6334586126353567,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "Q29. [2025 Exam] What physical transport mechanism is primarily",
+      "conf" : 1,
+      "y" : 0.9345930233284884,
+      "x" : 0.2725563963345863,
+      "w" : 0.4285714034979331,
+      "h" : 0.011627906163533597
+    },
+    {
+      "text" : "Q36. [2023 Exam] In Peritoneal Dialysis (PD), what physiological",
+      "conf" : 1,
+      "y" : 0.9345930232073644,
+      "x" : 0.7067669100877195,
+      "w" : 0.43233079176682704,
+      "h" : 0.011627906163533597
+    },
+    {
+      "text" : "responsible for small solute clearance (Urea, Creatinine) during",
+      "conf" : 1,
+      "y" : 0.9200193795131201,
+      "x" : 0.2622180382518799,
+      "w" : 0.4116541343486026,
+      "h" : 0.011705426110161676
+    },
+    {
+      "text" : "structure acts as the semipermeable dialysis membrane?",
+      "conf" : 1,
+      "y" : 0.9207848836482558,
+      "x" : 0.6926691692293233,
+      "w" : 0.37030073175492006,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "standard Intermittent Hemodialysis?",
+      "conf" : 1,
+      "y" : 0.9076453488510979,
+      "x" : 0.17669172636278202,
+      "w" : 0.23684209718025473,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "[A] The patient's native peritoneal membrane (mesothelium, interstitium, and",
+      "conf" : 1,
+      "y" : 0.9062499999273256,
+      "x" : 0.7171052561090228,
+      "w" : 0.4229322991552841,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[A] Active carrier-mediated ATP-dependent transport",
+      "conf" : 1,
+      "y" : 0.891715116224564,
+      "x" : 0.203007515131579,
+      "w" : 0.293233074788821,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "peritoneal capillary endothelium)",
+      "conf" : 1,
+      "y" : 0.8931944445294402,
+      "x" : 0.5986842135651629,
+      "w" : 0.18233082467578965,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[B] Pinocytosis across hollow fiber synthetic membranes",
+      "conf" : 1,
+      "y" : 0.8786337207606589,
+      "x" : 0.2133458612468673,
+      "w" : 0.3139097541463538,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[B] Synthetic cellulose acetate membrane inserted into the pelvic pouch",
+      "conf" : 1,
+      "y" : 0.8801388888408572,
+      "x" : 0.7039473618107771,
+      "w" : 0.3966165373944104,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Diffusion across a semipermeable membrane driven by solute",
+      "conf" : 1,
+      "y" : 0.8655523256540698,
+      "x" : 0.23778195851503758,
+      "w" : 0.36278195521713247,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[C] The mucosal wall of the transverse colon",
+      "conf" : 1,
+      "y" : 0.867777777715335,
+      "x" : 0.6315789515037593,
+      "w" : 0.24812028392624463,
+      "h" : 0.008888888888888946
+    },
+    {
+      "text" : "concentration gradient between blood and dialysate",
+      "conf" : 1,
+      "y" : 0.8531976745155039,
+      "x" : 0.20206767396616526,
+      "w" : 0.28759397044617185,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[D] The anterior rectus sheath fascia",
+      "conf" : 1,
+      "y" : 0.8546447027431794,
+      "x" : 0.6080827093280075,
+      "w" : 0.20488720913742364,
+      "h" : 0.00873385005527072
+    },
+    {
+      "text" : "[D] Convective drag without any concentration gradient",
+      "conf" : 1,
+      "y" : 0.8408430231831396,
+      "x" : 0.20958646105889742,
+      "w" : 0.3063909776085662,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[E] The greater omentum exclusively",
+      "conf" : 1,
+      "y" : 0.8408430232013082,
+      "x" : 0.6080827042058271,
+      "w" : 0.20488720913742364,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[E] Direct phagocytosis by artificial membrane pores",
+      "conf" : 1,
+      "y" : 0.8270348837936047,
+      "x" : 0.20206767281484955,
+      "w" : 0.2913533806543741,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "Q30. [2024 Exam] In Hemodialysis physics, how is Ultrafiltration",
+      "conf" : 1,
+      "y" : 0.8103197674176357,
+      "x" : 0.26503758709273206,
+      "w" : 0.413533806543741,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "(removal of excess circulating water) achieved?",
+      "conf" : 1,
+      "y" : 0.7965116277616279,
+      "x" : 0.21334586567199243,
+      "w" : 0.31015036587746003,
+      "h" : 0.011627906163533597
+    },
+    {
+      "text" : "[A] Heating blood to 42°C to evaporate water as steam",
+      "conf" : 1,
+      "y" : 0.7812500000242247,
+      "x" : 0.20958647127192967,
+      "w" : 0.30639097760856626,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[B] Adding 50% glucose to blood entering the dialyzer",
+      "conf" : 1,
+      "y" : 0.7681944445476089,
+      "x" : 0.20582707140507508,
+      "w" : 0.2988721791314702,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Gravity drainage using a 2-meter vertical drip column",
+      "conf" : 1,
+      "y" : 0.7551388889862061,
+      "x" : 0.21334586780075182,
+      "w" : 0.3139097760856623,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[D] Centrifugal separation of red blood cells from plasma",
+      "conf" : 1,
+      "y" : 0.7420704133948215,
+      "x" : 0.2133458594298247,
+      "w" : 0.3139097541463538,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[E] Hydrostatic transmembrane pressure gradient generated by negative",
+      "conf" : 1,
+      "y" : 0.7289244186773256,
+      "x" : 0.2565789513721804,
+      "w" : 0.40037592566330427,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "pressure on the dialysate side pulling water from blood",
+      "conf" : 1,
+      "y" : 0.7158430231649708,
+      "x" : 0.20958646238251888,
+      "w" : 0.30263156740036395,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "Q31. [2023 Exam] Why is countercurrent flow (blood and dialysate",
+      "conf" : 1,
+      "y" : 0.6853197673691862,
+      "x" : 0.2716165342418549,
+      "w" : 0.4266917313027947,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "flowing in opposite directions) universally utilized in hemodialysis",
+      "conf" : 1,
+      "y" : 0.6722383720385174,
+      "x" : 0.2716165359727445,
+      "w" : 0.4304511195716886,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "dialyzers?",
+      "conf" : 1,
+      "y" : 0.658430232751938,
+      "x" : 0.0921052640350877,
+      "w" : 0.0676691698393832,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "[A] It maintains a maximal concentration gradient along the entire length of the",
+      "conf" : 1,
+      "y" : 0.6417151163517443,
+      "x" : 0.2734962478383456,
+      "w" : 0.4342105078405823,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "hollow fibers, maximizing diffusion efficiency",
+      "conf" : 1,
+      "y" : 0.6301388889862061,
+      "x" : 0.18139098154761893,
+      "w" : 0.24624058979179772,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[B] It prevents clotting of blood inside the plastic lines",
+      "conf" : 1,
+      "y" : 0.6170704134129901,
+      "x" : 0.2039473647321429,
+      "w" : 0.2951127689232679,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[C] It lowers the temperature of blood returned to the patient",
+      "conf" : 1,
+      "y" : 0.6039244185501453,
+      "x" : 0.22368420634398506,
+      "w" : 0.3345864554431951,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[D] It completely eliminates the need for systemic heparinization",
+      "conf" : 1,
+      "y" : 0.5908430233284883,
+      "x" : 0.23402256231202984,
+      "w" : 0.3552631567400364,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[E] It allows dialysate to mix directly with red blood cells",
+      "conf" : 1,
+      "y" : 0.5784883721656977,
+      "x" : 0.2105263196428571,
+      "w" : 0.30827067174301315,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "Q32. [2022 Exam] Which permanent vascular access is universally",
+      "conf" : 1,
+      "y" : 0.5610885015704744,
+      "x" : 0.2725563856203009,
+      "w" : 0.42857140349793316,
+      "h" : 0.011711886194017085
+    },
+    {
+      "text" : "recommended as the GOLD STANDARD for chronic HD?",
+      "conf" : 1,
+      "y" : 0.5479651163517442,
+      "x" : 0.24154135796522547,
+      "w" : 0.36654134348602624,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[A] Subclavian dual-lumen non-tunneled catheter; immediate readiness",
+      "conf" : 1,
+      "y" : 0.5319444443692622,
+      "x" : 0.2546992530780074,
+      "w" : 0.3966165373944105,
+      "h" : 0.008888888888888835
+    },
+    {
+      "text" : "[B] Synthetic PTFE prosthetic loop graft; easiest surgical puncture",
+      "conf" : 1,
+      "y" : 0.5181944445294403,
+      "x" : 0.2396616602443607,
+      "w" : 0.36654134348602624,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Femoral cuffed tunneled catheter; lowest infection rate",
+      "conf" : 1,
+      "y" : 0.5058333332682592,
+      "x" : 0.21710526637218036,
+      "w" : 0.3214285745627583,
+      "h" : 0.008888888888888835
+    },
+    {
+      "text" : "[D] Native AV Fistula (radiocephalic): superior long-term patency, lowest",
+      "conf" : 1,
+      "y" : 0.4920704135583389,
+      "x" : 0.25751880202067656,
+      "w" : 0.40225564173705963,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "thrombosis & infection rates",
+      "conf" : 1,
+      "y" : 0.48111111116264105,
+      "x" : 0.13627819808897235,
+      "w" : 0.15601503000595346,
+      "h" : 0.008888889153798374
+    },
+    {
+      "text" : "[E] External Scribner shunt between tibial artery and saphenous vein",
+      "conf" : 1,
+      "y" : 0.4673546511307335,
+      "x" : 0.24718045748746847,
+      "w" : 0.3815789404402184,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "Q33. [2021 Exam] How much advance time is required between",
+      "conf" : 1,
+      "y" : 0.4498611111921404,
+      "x" : 0.26127819041353395,
+      "w" : 0.4060150300059534,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "creating a native radiocephalic AVF and first cannulation?",
+      "conf" : 1,
+      "y" : 0.43608850157047435,
+      "x" : 0.24624059680451138,
+      "w" : 0.3759398360975692,
+      "h" : 0.011711886194017196
+    },
+    {
+      "text" : "[A] Exactly 24 hours post-operatively",
+      "conf" : 1,
+      "y" : 0.4207848837754361,
+      "x" : 0.15977443862781954,
+      "w" : 0.20300751500297676,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[B] 2 to 3 days once skin sutures are removed",
+      "conf" : 1,
+      "y" : 0.4076453488147609,
+      "x" : 0.18421052359022563,
+      "w" : 0.25563908240334066,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "[C] 6 to 12 weeks (Rule of 6s: flow >600 mL\/min, diameter >6 mm, depth <6",
+      "conf" : 1,
+      "y" : 0.39458333350708646,
+      "x" : 0.26597743941729335,
+      "w" : 0.4191729108863902,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "mm) for venous arterialization",
+      "conf" : 1,
+      "y" : 0.3822222222733343,
+      "x" : 0.14097744567669168,
+      "w" : 0.16541353358715066,
+      "h" : 0.008888888623979407
+    },
+    {
+      "text" : "[D] Minimum of 2 years post-operatively",
+      "conf" : 1,
+      "y" : 0.3684722220361478,
+      "x" : 0.16823308643483698,
+      "w" : 0.22368419436050954,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[E] Native fistulas are cannulated immediately on the operating table",
+      "conf" : 1,
+      "y" : 0.35611111091062564,
+      "x" : 0.24530074758771944,
+      "w" : 0.3778195521713245,
+      "h" : 0.011666666666666714
+    },
+    {
+      "text" : "Q34. [2020 Exam] What physical exam finding confirms proper",
+      "conf" : 1,
+      "y" : 0.3386272607299509,
+      "x" : 0.26033834081297,
+      "w" : 0.404135313932198,
+      "h" : 0.011698966026306157
+    },
+    {
+      "text" : "patency and function of a mature, well-functioning Arteriovenous",
+      "conf" : 1,
+      "y" : 0.3255587856433015,
+      "x" : 0.2687969966917293,
+      "w" : 0.4210526269601456,
+      "h" : 0.011673126750522234
+    },
+    {
+      "text" : "(AV) Fistula?",
+      "conf" : 1,
+      "y" : 0.31180555563073753,
+      "x" : 0.10056390830200507,
+      "w" : 0.08834586016657026,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[A] Cold, pale, pulseless hand with absent capillary refill",
+      "conf" : 1,
+      "y" : 0.29578488369670547,
+      "x" : 0.2114661602443611,
+      "w" : 0.31015036587746003,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] Hard, non-pulsatile cord with zero sound on stethoscope",
+      "conf" : 1,
+      "y" : 0.28264534877236747,
+      "x" : 0.222744366134085,
+      "w" : 0.3327067613087482,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "[C] High-pitched systolic click with zero diastolic sound",
+      "conf" : 1,
+      "y" : 0.2703036175260538,
+      "x" : 0.21146616929041348,
+      "w" : 0.31015036587746003,
+      "h" : 0.011718345748053638
+    },
+    {
+      "text" : "[D] Intense purplish discoloration with surrounding crepitus",
+      "conf" : 1,
+      "y" : 0.2565277775975505,
+      "x" : 0.21992481611842096,
+      "w" : 0.3270676569660991,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[E] Continuous palpable thrill and a continuous low-pitch blowing bruit on",
+      "conf" : 1,
+      "y" : 0.2434722223237188,
+      "x" : 0.2575188021929823,
+      "w" : 0.40225564173705974,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "auscultation",
+      "conf" : 1,
+      "y" : 0.23183139542151165,
+      "x" : 0.09210526434837088,
+      "w" : 0.07142856907793121,
+      "h" : 0.007267441749572834
+    },
+    {
+      "text" : "Q35. [2024 Exam] What is Dialysis Disequilibrium Syndrome (DDS),",
+      "conf" : 1,
+      "y" : 0.21432170534595418,
+      "x" : 0.27631579487781943,
+      "w" : 0.4323308356454439,
+      "h" : 0.01031007766723624
+    },
+    {
+      "text" : "and how is it prevented during the initial HD session?",
+      "conf" : 1,
+      "y" : 0.2005587854656013,
+      "x" : 0.2368421112155386,
+      "w" : 0.3571428508744833,
+      "h" : 0.011673126220703156
+    },
+    {
+      "text" : "[A] Cerebral edema from rapid urea drop; prevented by short initial sessions",
+      "conf" : 1,
+      "y" : 0.18531976736918598,
+      "x" : 0.2669172862155391,
+      "w" : 0.42105262696014556,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[B] Acute hypocalcemic tetany; prevented by IV calcium gluconate",
+      "conf" : 1,
+      "y" : 0.15995155055884225,
+      "x" : 0.23966165871710512,
+      "w" : 0.36654134348602624,
+      "h" : 0.01176356527540423
+    },
+    {
+      "text" : "[C] Hyperkalemic arrest; prevented by potassium-rich dialysate",
+      "conf" : 1,
+      "y" : 0.1468023256540697,
+      "x" : 0.23120301188909761,
+      "w" : 0.3496240523973872,
+      "h" : 0.011627906163533597
+    },
+    {
+      "text" : "[D] Massive air embolism; prevented by inverted positioning",
+      "conf" : 1,
+      "y" : 0.13292958647799824,
+      "x" : 0.2218045071428572,
+      "w" : 0.3308270671743013,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[E] Anaphylaxis to membrane; prevented by adrenaline",
+      "conf" : 1,
+      "y" : 0.12063953495639546,
+      "x" : 0.20864662039473675,
+      "w" : 0.30827067174301315,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "Q37. [2022 Exam] In Peritoneal Dialysis, how is osmotic",
+      "conf" : 1,
+      "y" : 0.8103197675145348,
+      "x" : 0.6870300787781956,
+      "w" : 0.35902254500893027,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "ultrafiltration (fluid removal) primarily achieved across the",
+      "conf" : 1,
+      "y" : 0.7965116279796511,
+      "x" : 0.6964285761513157,
+      "w" : 0.37781955217132457,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "peritoneal membrane?",
+      "conf" : 1,
+      "y" : 0.7826453487981555,
+      "x" : 0.5827067694235588,
+      "w" : 0.15037593663295856,
+      "h" : 0.01029069794548887
+    },
+    {
+      "text" : "[A] Applying negative suction to the external Tenchkoff catheter",
+      "conf" : 1,
+      "y" : 0.7674806202607302,
+      "x" : 0.6823308305639098,
+      "w" : 0.34962405239738714,
+      "h" : 0.011705426639980754
+    },
+    {
+      "text" : "[B] High-dose oral loop diuretics added directly to dialysate bags",
+      "conf" : 1,
+      "y" : 0.7536337208757267,
+      "x" : 0.6842105218515038,
+      "w" : 0.3571428508744833,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[C] Heating peritoneal dialysate to 45°C",
+      "conf" : 1,
+      "y" : 0.7420704135583389,
+      "x" : 0.6174812057565788,
+      "w" : 0.2199248060916157,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[D] Infusing pure distilled water into the abdominal cavity",
+      "conf" : 1,
+      "y" : 0.7281976742248062,
+      "x" : 0.6635338396616539,
+      "w" : 0.3120300600119069,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "[E] Using hypertonic Dextrose (glucose concentrations 1.5%, 2.5%, or 4.25%)",
+      "conf" : 1,
+      "y" : 0.7150484495622818,
+      "x" : 0.7218045184210524,
+      "w" : 0.4285714034979331,
+      "h" : 0.01176356527540423
+    },
+    {
+      "text" : "or Icodextrin in the dialysate solution",
+      "conf" : 1,
+      "y" : 0.7034883721656977,
+      "x" : 0.6109022582236842,
+      "w" : 0.20676690327187042,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "Q38. [2021 Exam] What is the single most common and serious",
+      "conf" : 1,
+      "y" : 0.6860885015235881,
+      "x" : 0.7124060117481203,
+      "w" : 0.4097744182748472,
+      "h" : 0.01171188566419823
+    },
+    {
+      "text" : "clinical complication of chronic Peritoneal Dialysis?",
+      "conf" : 1,
+      "y" : 0.6722383722141474,
+      "x" : 0.6766917349624058,
+      "w" : 0.33834584371208887,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[A] Malignant transformation of peritoneal mesothelium",
+      "conf" : 1,
+      "y" : 0.6562500000726744,
+      "x" : 0.6578947419172931,
+      "w" : 0.3045112615348108,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[B] Complete intestinal gangrene due to mesenteric arterial thrombosis",
+      "conf" : 1,
+      "y" : 0.6431944445294403,
+      "x" : 0.7011278234586464,
+      "w" : 0.39097743305176136,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Spontaneous rupture of the spleen",
+      "conf" : 1,
+      "y" : 0.6301388890346556,
+      "x" : 0.6174812066729322,
+      "w" : 0.2199248060916157,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[D] Peritoneal Dialysis Peritonitis (cloudy effluent, abdominal pain, effluent",
+      "conf" : 1,
+      "y" : 0.6170704135583389,
+      "x" : 0.7114661705122179,
+      "w" : 0.4078947460797089,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "WBC > 100\/uL with > 50% PMNs)",
+      "conf" : 1,
+      "y" : 0.6054166669064536,
+      "x" : 0.601503757518797,
+      "w" : 0.1879699180487846,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[E] Massive pulmonary air embolism during exchanges",
+      "conf" : 1,
+      "y" : 0.5916279072095965,
+      "x" : 0.6578947406484961,
+      "w" : 0.3045112615348108,
+      "h" : 0.011744185553656639
+    },
+    {
+      "text" : "Q39. [2025 Exam] Which RRT modality provides the best long-term",
+      "conf" : 1,
+      "y" : 0.5610885011714692,
+      "x" : 0.7227443652067669,
+      "w" : 0.4304511195716886,
+      "h" : 0.011711886194017307
+    },
+    {
+      "text" : "survival and quality of life for eligible ESRD patients?",
+      "conf" : 1,
+      "y" : 0.5472383720203489,
+      "x" : 0.6804511243609023,
+      "w" : 0.3458646641284935,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[A] In-center thrice-weekly Intermittent Hemodialysis",
+      "conf" : 1,
+      "y" : 0.531250000121124,
+      "x" : 0.6522556439223055,
+      "w" : 0.28947366458061874,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[B] Continuous Ambulatory Peritoneal Dialysis (CAPD)",
+      "conf" : 1,
+      "y" : 0.5188888889471523,
+      "x" : 0.6578947387844611,
+      "w" : 0.300751873265917,
+      "h" : 0.011666666666666603
+    },
+    {
+      "text" : "[C] Long-term Continuous Veno-Venous Hemofiltration (CVVH)",
+      "conf" : 1,
+      "y" : 0.505833333403918,
+      "x" : 0.6823308298872179,
+      "w" : 0.34962405239738714,
+      "h" : 0.011666666666666714
+    },
+    {
+      "text" : "[D] High-dose oral charcoal hemoperfusion",
+      "conf" : 1,
+      "y" : 0.49347222201797913,
+      "x" : 0.6268797022321428,
+      "w" : 0.23872179131470161,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[E] Successful Kidney Transplantation (especially Preemptive Living-Donor",
+      "conf" : 1,
+      "y" : 0.4796963827767561,
+      "x" : 0.7133458619360903,
+      "w" : 0.4154135226174964,
+      "h" : 0.011718345748053638
+    },
+    {
+      "text" : "Transplant)",
+      "conf" : 1,
+      "y" : 0.46729651150225715,
+      "x" : 0.5394736844002097,
+      "w" : 0.06404451086399454,
+      "h" : 0.010691801706949944
+    },
+    {
+      "text" : "Q40. [Faculty Exam] What is 'Preemptive Kidney Transplantation',",
+      "conf" : 1,
+      "y" : 0.4498611111921404,
+      "x" : 0.7199248067199249,
+      "w" : 0.42481201522903933,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "and what clinical advantage does it confer?",
+      "conf" : 1,
+      "y" : 0.4360885015235882,
+      "x" : 0.6484962438909774,
+      "w" : 0.2819548880428312,
+      "h" : 0.011711885664198118
+    },
+    {
+      "text" : "[A] Transplant performed BEFORE maintenance dialysis; superior graft and",
+      "conf" : 1,
+      "y" : 0.4207848838117732,
+      "x" : 0.7161654187499998,
+      "w" : 0.4172932386912518,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] Transplanting a porcine xenograft before performing tissue typing",
+      "conf" : 1,
+      "y" : 0.3945833331044476,
+      "x" : 0.6973684257988721,
+      "w" : 0.3796992243664631,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Removing both native kidneys 5 years prior to finding a donor",
+      "conf" : 1,
+      "y" : 0.3822351417772082,
+      "x" : 0.6870300760338346,
+      "w" : 0.35902254500893016,
+      "h" : 0.011692505942450637
+    },
+    {
+      "text" : "[D] Transplanting two kidneys into the same iliac fossa simultaneously",
+      "conf" : 1,
+      "y" : 0.3684722224327303,
+      "x" : 0.7001879667136592,
+      "w" : 0.3853383287091122,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[E] Preemptive transplantation carries a 90% higher mortality rate than dialysis",
+      "conf" : 1,
+      "y" : 0.35611111091062564,
+      "x" : 0.7236842035087722,
+      "w" : 0.43233079176682687,
+      "h" : 0.011666666666666714
+    },
+    {
+      "text" : "Q41. [Core Exam] A diabetic male with Stage G5 CKD presents with",
+      "conf" : 1,
+      "y" : 0.33862726111840696,
+      "x" : 0.7246240644924811,
+      "w" : 0.43421050784058224,
+      "h" : 0.011698966556125234
+    },
+    {
+      "text" : "uremic pericarditis and asterixis. What vascular access is",
+      "conf" : 1,
+      "y" : 0.3255587853687019,
+      "x" : 0.6936090288220548,
+      "w" : 0.3759398360975692,
+      "h" : 0.011673126220703156
+    },
+    {
+      "text" : "indicated TODAY?",
+      "conf" : 1,
+      "y" : 0.3125000000068131,
+      "x" : 0.567669172838346,
+      "w" : 0.12030075369422844,
+      "h" : 0.008888888888888946
+    },
+    {
+      "text" : "[A] Surgical creation of a native radiocephalic fistula today",
+      "conf" : 1,
+      "y" : 0.29578488359375,
+      "x" : 0.6672932302631579,
+      "w" : 0.31954885848900294,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[B] Synthetic PTFE graft with immediate cannulation in 1 hour",
+      "conf" : 1,
+      "y" : 0.2826453487678744,
+      "x" : 0.676691733599624,
+      "w" : 0.3421052539202911,
+      "h" : 0.01029069794548887
+    },
+    {
+      "text" : "[C] Percutaneous peritoneal dialysis catheter for immediate 4-liter dwell",
+      "conf" : 1,
+      "y" : 0.270303617769161,
+      "x" : 0.7039473723496239,
+      "w" : 0.3928571491255167,
+      "h" : 0.011718346277872715
+    },
+    {
+      "text" : "[D] Immediate placement of a temporary double-lumen Right Internal Jugular",
+      "conf" : 1,
+      "y" : 0.2565277775975505,
+      "x" : 0.7199248173402255,
+      "w" : 0.42481201522903944,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Hemodialysis Catheter",
+      "conf" : 1,
+      "y" : 0.24486111115914277,
+      "x" : 0.5723684232142856,
+      "w" : 0.12969924630577156,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[E] Subclavian vein puncture without ultrasound guidance",
+      "conf" : 1,
+      "y" : 0.23180555563407718,
+      "x" : 0.6663533874295111,
+      "w" : 0.31766916435455606,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "Q42. [Clinical Vignette] A female on hemodialysis for 5 years has",
+      "conf" : 1,
+      "y" : 0.21432170540045997,
+      "x" : 0.7171052701441101,
+      "w" : 0.4191729108863902,
+      "h" : 0.01031007766723635
+    },
+    {
+      "text" : "bone pain. Labs: Ca 8.4, PO4 6.8, intact PTH 920 pg\/mL. X-rays:",
+      "conf" : 1,
+      "y" : 0.20055878564330148,
+      "x" : 0.7124060191353383,
+      "w" : 0.4097744182748472,
+      "h" : 0.011673126750522234
+    },
+    {
+      "text" : "subperiosteal resorption. Diagnosis:",
+      "conf" : 1,
+      "y" : 0.18680555529471704,
+      "x" : 0.6278195528822054,
+      "w" : 0.2406014854491485,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[A] Adynamic Bone Disease due to over-suppressed parathyroid",
+      "conf" : 1,
+      "y" : 0.17078488355135657,
+      "x" : 0.6851503799185462,
+      "w" : 0.3552631567400364,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[B] Osteomalacia secondary to pure dietary calcium excess",
+      "conf" : 1,
+      "y" : 0.15837209300842686,
+      "x" : 0.6719924834351503,
+      "w" : 0.32894735110054574,
+      "h" : 0.01174418555365675
+    },
+    {
+      "text" : "[C] Dialysis-Related Amyloidosis of the shoulder joints",
+      "conf" : 1,
+      "y" : 0.1453036175139415,
+      "x" : 0.6588345915100249,
+      "w" : 0.3026315674003639,
+      "h" : 0.011718345748053638
+    },
+    {
+      "text" : "[D] Metastatic breast cancer to the skeleton",
+      "conf" : 1,
+      "y" : 0.1322222222733343,
+      "x" : 0.6278195518796992,
+      "w" : 0.24060150738845698,
+      "h" : 0.008888888623979407
+    },
+    {
+      "text" : "[E] Secondary Hyperparathyroidism with Osteitis Fibrosa Cystica",
+      "conf" : 1,
+      "y" : 0.11916666659608194,
+      "x" : 0.685150372650376,
+      "w" : 0.35902254500893027,
+      "h" : 0.011666666666666603
+    },
+    {
+      "text" : "Twisted Medicine • Clinical Nephrology Master Class • Strictly Grounded in Faculty Past Papers",
+      "conf" : 1,
+      "y" : 0.024027777721391252,
+      "x" : 0.29981203616071417,
+      "w" : 0.4868420752409463,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "143",
+      "conf" : 1,
+      "y" : 0.01235465132025182,
+      "x" : 0.5197368422149122,
+      "w" : 0.0394736837775137,
+      "h" : 0.018895348442925286
+    },
+    {
+      "text" : "Confidential - Dedicated for Medical Student Revision",
+      "conf" : 1,
+      "y" : 0.02472222213226538,
+      "x" : 0.801691732824248,
+      "w" : 0.2800751719690757,
+      "h" : 0.008888888623979296
+    }
+  ],
+  "page" : 145
+}

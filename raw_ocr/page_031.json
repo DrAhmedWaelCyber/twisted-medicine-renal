@@ -1,0 +1,973 @@
+{
+  "items" : [
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "y" : 0.9781976745155039,
+      "text" : "Twisted Medicine",
+      "x" : 0.11008230709876536,
+      "w" : 0.15432098676573558
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.975972222405789,
+      "text" : "• Renal System Module • Lecture 8 MCQ Masterclass",
+      "x" : 0.36419753648833997,
+      "w" : 0.33744855196970813
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.9651162791424419,
+      "text" : "Twisted Medicine Medical Series • Loop of Henle, Thin & Thick Limbs, Countercurrent Multiplier • Standard Practice Bank",
+      "x" : 0.3569958928755142,
+      "w" : 0.64814811082756
+    },
+    {
+      "h" : 0.010310367478264748,
+      "conf" : 1,
+      "y" : 0.976017442054967,
+      "text" : "Page 1 of 4",
+      "x" : 0.9341563774345636,
+      "w" : 0.06999821333015488
+    },
+    {
+      "h" : 0.013184754583570713,
+      "conf" : 1,
+      "y" : 0.9411854006755342,
+      "text" : "8. LOOP OF HENLE - HISTOLOGY LECTURE",
+      "x" : 0.4999999967078189,
+      "w" : 0.3662551304079451
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.9222383721656977,
+      "text" : "Twisted Medicine Histology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "x" : 0.5010288124074073,
+      "w" : 0.5823045166783363
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.8990277777395599,
+      "text" : "Q01. [2025 Exam] The Loop of Henle is a U-shaped hairpin nephron",
+      "x" : 0.254115233641975,
+      "w" : 0.4382715765035377
+    },
+    {
+      "h" : 0.01175064563751227,
+      "conf" : 1,
+      "y" : 0.8852357884143149,
+      "text" : "segment consisting of which histological sequence of tubular",
+      "x" : 0.2335390996141974,
+      "w" : 0.3971193421561763
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.8728197676114341,
+      "text" : "subdivisions?",
+      "x" : 0.08024691481481476,
+      "w" : 0.09053497794289259
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.855416666474745,
+      "text" : "[A] Thick descending limb (pars recta), thin descending limb, thin ascending",
+      "x" : 0.25411523186728385,
+      "w" : 0.44238684312352594
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.8437499999757752,
+      "text" : "limb, and thick ascending limb",
+      "x" : 0.12242798055555565,
+      "w" : 0.1790123345716944
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.8320833331226162,
+      "text" : "[B] Intercalated segment, principal tubule, and Bellini duct",
+      "x" : 0.20164609615912188,
+      "w" : 0.33744855196970813
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "y" : 0.8204295864053238,
+      "text" : "[C] Thin descending limb, convoluted ascending limb, and arched tubule",
+      "x" : 0.2427983515946503,
+      "w" : 0.41975306864804446
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.8088662789425871,
+      "text" : "[D] Distal convoluted tubule, macula densa, and connecting duct",
+      "x" : 0.22119341952160484,
+      "w" : 0.37242798235431407
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.7972383721656977,
+      "text" : "[E] Proximal convoluted tubule, collecting tubule, and papillary duct",
+      "x" : 0.22839506563786,
+      "w" : 0.3909464902098073
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "y" : 0.7768217053713902,
+      "text" : "Q02. [2024 Exam] The Thick Descending Limb of Henle's Loop",
+      "x" : 0.23456790522633744,
+      "w" : 0.3991769514743637
+    },
+    {
+      "h" : 0.010284237861633239,
+      "conf" : 1,
+      "y" : 0.7637532297909069,
+      "text" : "represents the straight continuation of the proximal convoluted",
+      "x" : 0.23765431586934171,
+      "w" : 0.40946499806530073
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.7493055555762318,
+      "text" : "tubule, also termed:",
+      "x" : 0.09979423824588482,
+      "w" : 0.12962962696387334
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.7340116278585271,
+      "text" : "[A] Pars convoluta of distal tubule",
+      "x" : 0.13271604605624157,
+      "w" : 0.19958847573718186
+    },
+    {
+      "h" : 0.01176356527540423,
+      "conf" : 1,
+      "y" : 0.7224515506799664,
+      "text" : "[B] Pars recta of proximal tubule",
+      "x" : 0.1286008229423868,
+      "w" : 0.19135801447262554
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.710029069858285,
+      "text" : "IC] Connecting tubule",
+      "x" : 0.09773662713477362,
+      "w" : 0.1296296269638733
+    },
+    {
+      "h" : 0.011686045858595118,
+      "conf" : 1,
+      "y" : 0.6991569770180734,
+      "text" : "[D] Papillary duct of Bellini",
+      "x" : 0.11111111001371748,
+      "w" : 0.15637859608392296
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.6881944443510938,
+      "text" : "[E] Interlobular collecting duct",
+      "x" : 0.12139917916666661,
+      "w" : 0.17695472525350703
+    },
+    {
+      "h" : 0.013133074442545523,
+      "conf" : 1,
+      "y" : 0.6548223515061845,
+      "text" : "Q03. [2023 Exam] Histologically, the epithelial lining of the Thick",
+      "x" : 0.24279835810699582,
+      "w" : 0.4197530686480444
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.641715116224564,
+      "text" : "Descending Limb (pars recta) of Henle's loop consists of:",
+      "x" : 0.22016460442386843,
+      "w" : 0.37037037303612663
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.6256944443692624,
+      "text" : "[A] Pseudostratified ciliated columnar epithelium",
+      "x" : 0.17901235054869669,
+      "w" : 0.29218105100235847
+    },
+    {
+      "h" : 0.01175064563751227,
+      "conf" : 1,
+      "y" : 0.6147642118037083,
+      "text" : "[B] Stratified columnar epithelium with goblet cells",
+      "x" : 0.18209876710390946,
+      "w" : 0.29835390294872743
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.6024709303234013,
+      "text" : "[C] Simple cuboidal epithelium with a prominent apical brush border and",
+      "x" : 0.24382716576646074,
+      "w" : 0.4218107019580385
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.5915697673449611,
+      "text" : "abundant mitochondria",
+      "x" : 0.10493826920438964,
+      "w" : 0.14403291618299185
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.5792151163699129,
+      "text" : "[D] Simple squamous epithelium with fenestrations",
+      "x" : 0.18415638238168713,
+      "w" : 0.30246912158510214
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.5676388888408572,
+      "text" : "[E] Low cuboidal epithelium completely devoid of microvilli",
+      "x" : 0.2047325068518519,
+      "w" : 0.34362140391607704
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "y" : 0.8997222221572718,
+      "text" : "Q08. [2022 Exam] Regarding permeability characteristics, the",
+      "x" : 0.7170781863854596,
+      "w" : 0.3971193181643695
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "y" : 0.8859625323063821,
+      "text" : "epithelial cells of the Thin Descending Limb of Henle are functionally:",
+      "x" : 0.7438271649588477,
+      "w" : 0.4465020617599008
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.8684722223237188,
+      "text" : "[A] Highly permeable to proteins and glucose",
+      "x" : 0.6512345709533607,
+      "w" : 0.2654320818823088
+    },
+    {
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "y" : 0.8575193797553681,
+      "text" : "[B] Completely impermeable to both water and all solutes",
+      "x" : 0.6851851799039783,
+      "w" : 0.33744855196970824
+    },
+    {
+      "h" : 0.01174418555365675,
+      "conf" : 1,
+      "y" : 0.8458720928146284,
+      "text" : "[C] Freely permeable to water, but virtually impermeable to NaCl and urea",
+      "x" : 0.7304526677640607,
+      "w" : 0.42798350592079415
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.8343023256782947,
+      "text" : "[D Active secretors of potassium into the tubular lumen",
+      "x" : 0.6820987709533606,
+      "w" : 0.3312757000233393
+    },
+    {
+      "h" : 0.011750645637512158,
+      "conf" : 1,
+      "y" : 0.8227357882931909,
+      "text" : "[E] Highly permeable to NaCl and urea, but completely impermeable to water",
+      "x" : 0.7397119267146779,
+      "w" : 0.4465020617599008
+    },
+    {
+      "h" : 0.011763565805223197,
+      "conf" : 1,
+      "y" : 0.777548449442721,
+      "text" : "Q09. [2023 Exam] Ultrastructurally, the simple squamous epithelial",
+      "x" : 0.7355967042181072,
+      "w" : 0.4300411392307881
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "y" : 0.7637532299544243,
+      "text" : "cells of the thin descending limb are characterized by:",
+      "x" : 0.6944444503086418,
+      "w" : 0.3518518411888266
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.7478197675145348,
+      "text" : "[A] Multiple layers of smooth muscle and elastic fibers",
+      "x" : 0.6790123510288064,
+      "w" : 0.3209876534324022
+    },
+    {
+      "h" : 0.01028423786163346,
+      "conf" : 1,
+      "y" : 0.7362467701909245,
+      "text" : "[B] Abundant secretory granules containing renin and dopamine",
+      "x" : 0.7047325165637859,
+      "w" : 0.37654320099068894
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.7245833332646253,
+      "text" : "[C] Giant multinucleated cells anchored to peritubular capillaries",
+      "x" : 0.7067901281635801,
+      "w" : 0.37654320099068883
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.7129166668625548,
+      "text" : "[D] A thin cytoplasm with few short blunt microvilli, sparse organelles, and",
+      "x" : 0.7335391018861452,
+      "w" : 0.4341563578671629
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "y" : 0.7005555556401333,
+      "text" : "tight junctions",
+      "x" : 0.5627572031207133,
+      "w" : 0.08847736262675354
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.6896802326126454,
+      "text" : "[E] Intensely acidophilic cytoplasm packed with lysosomes",
+      "x" : 0.6903292224022632,
+      "w" : 0.34362137992427033
+    },
+    {
+      "h" : 0.013133074442545523,
+      "conf" : 1,
+      "y" : 0.654822351494072,
+      "text" : "Q10. [2021 Exam] In short-looped (cortical) nephrons, Henle's loop",
+      "x" : 0.7335390982338821,
+      "w" : 0.43004113923078824
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.6417151164001937,
+      "text" : "differs anatomically from juxtamedullary nephrons because it:",
+      "x" : 0.7222222289437583,
+      "w" : 0.4032921461189318
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.6256944443692624,
+      "text" : "[A] Consists exclusively of thin descending and thin ascending limbs",
+      "x" : 0.7191358091563784,
+      "w" : 0.40123456079255104
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "y" : 0.614037467809897,
+      "text" : "[B] Empties directly into the renal pelvis without collecting ducts",
+      "x" : 0.7057613231824414,
+      "w" : 0.37860081030887627
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.6024709303052327,
+      "text" : "[C] Extends all the way to the tip of the renal papilla",
+      "x" : 0.6707818981481479,
+      "w" : 0.30864197353147116
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.5908430233284883,
+      "text" : "[D] Possesses two hairpin turns within the renal cortex",
+      "x" : 0.6779835444787377,
+      "w" : 0.32304526275058965
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.5792151163335755,
+      "text" : "[E] Lacks a thin ascending limb completely or has an extremely short thin",
+      "x" : 0.7304526802469133,
+      "w" : 0.42798350592079404
+    },
+    {
+      "h" : 0.008982984754774326,
+      "conf" : 1,
+      "y" : 0.5668604650722013,
+      "text" : "segment",
+      "x" : 0.5462962953699326,
+      "w" : 0.05563680780758651
+    },
+    {
+      "h" : 0.011744186083475716,
+      "conf" : 1,
+      "y" : 0.5333720931861271,
+      "text" : "Q11. [2025 Exam] In long-looped (juxtamedullary) nephrons, the",
+      "x" : 0.726337452674897,
+      "w" : 0.4115226313752949
+    },
+    {
+      "h" : 0.011718345748053638,
+      "conf" : 1,
+      "y" : 0.5203036172232439,
+      "text" : "hairpin turn of the loop of Henle is located within the:",
+      "x" : 0.6913580238683128,
+      "w" : 0.34567898924245777
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.5036337208757267,
+      "text" : "[A] Inner medulla, reaching deep toward the apex of the renal pyramid",
+      "x" : 0.7211934105709878,
+      "w" : 0.4053497794289259
+    },
+    {
+      "h" : 0.011692505942450637,
+      "conf" : 1,
+      "y" : 0.4927648581016678,
+      "text" : "[B] Minor calyx lumen bathed in final urine",
+      "x" : 0.6440329249485597,
+      "w" : 0.25102879266319034
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "y" : 0.48111111086217595,
+      "text" : "[C] Outer cortex immediately beneath the fibrous capsule",
+      "x" : 0.6851851843106997,
+      "w" : 0.33333333333333337
+    },
+    {
+      "h" : 0.011679586304558565,
+      "conf" : 1,
+      "y" : 0.46945090416398355,
+      "text" : "[D] Tunica adventitia of the arcuate artery",
+      "x" : 0.6409465061385459,
+      "w" : 0.24485596470862814
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.4570833334101872,
+      "text" : "[E] Cortical labyrinth between the convoluted tubules",
+      "x" : 0.6728395040466393,
+      "w" : 0.30864197353147105
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.534156976798692,
+      "text" : "Q04. [2022 Exam] How does the brush border of the Thick",
+      "x" : 0.22222222690329213,
+      "w" : 0.37448559167250156
+    },
+    {
+      "h" : 0.011718345748053749,
+      "conf" : 1,
+      "y" : 0.5203036175260538,
+      "text" : "Descending Limb compare ultrastructurally with that of the Proximal",
+      "x" : 0.25514403842592576,
+      "w" : 0.44032920981353185
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "y" : 0.5079295866596842,
+      "text" : "Convoluted Tubule?",
+      "x" : 0.10493827289094648,
+      "w" : 0.13991769754661704
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.4905523256722384,
+      "text" : "[A] It is composed of motile cilia rather than microvilli",
+      "x" : 0.19032922204218097,
+      "w" : 0.3148148014860333
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.4789244185501453,
+      "text" : "[B] It is completely absent in the thick descending limb",
+      "x" : 0.1923868272890947,
+      "w" : 0.31893004411421483
+    },
+    {
+      "h" : 0.008888889153798374,
+      "conf" : 1,
+      "y" : 0.4680555556678565,
+      "text" : "[C] It contains three times more microvilli than the PCT",
+      "x" : 0.19444444982853207,
+      "w" : 0.32304526275058965
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.45569444440226,
+      "text" : "[D] It is shorter with fewer microvilli and lower endocytic complexity than",
+      "x" : 0.2448559617798355,
+      "w" : 0.4238682872844192
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 0.5,
+      "y" : 0.4447674419573644,
+      "text" : "PCT",
+      "x" : 0.04938271652949244,
+      "w" : 0.0288065844361887
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.43236111117731135,
+      "text" : "[E] It possesses thick keratin plaques on the apical surface",
+      "x" : 0.20781893441358015,
+      "w" : 0.3497942318706393
+    },
+    {
+      "h" : 0.011698966026306157,
+      "conf" : 1,
+      "y" : 0.41137273930638635,
+      "text" : "Q05. [2021 Exam] The transition from the thick descending limb to",
+      "x" : 0.248971198765432,
+      "w" : 0.42798350592079404
+    },
+    {
+      "h" : 0.011724805831909157,
+      "conf" : 1,
+      "y" : 0.39830426383612577,
+      "text" : "the Thin Descending Limb of Henle is marked histologically by an",
+      "x" : 0.24588478069272948,
+      "w" : 0.4218107019580385
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.38444767449127903,
+      "text" : "abrupt shift from:",
+      "x" : 0.09362140113168718,
+      "w" : 0.1172839470629422
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.3698611111591428,
+      "text" : "[A] Urothelium to non-keratinized stratified squamous",
+      "x" : 0.191358029972565,
+      "w" : 0.31687241080422074
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.3582848837754361,
+      "text" : "[B] Simple squamous epithelium to transitional epithelium",
+      "x" : 0.20267490136316862,
+      "w" : 0.33950616128789557
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.34593023265503864,
+      "text" : "[C] Simple columnar to pseudostratified epithelium",
+      "x" : 0.18312757702331944,
+      "w" : 0.3004115122669148
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.3343023255450581,
+      "text" : "[D] Stratified squamous to simple cuboidal epithelium",
+      "x" : 0.19135802073045274,
+      "w" : 0.3168724108042207
+    },
+    {
+      "h" : 0.011686045858595118,
+      "conf" : 1,
+      "y" : 0.32415697686061223,
+      "text" : "[E] Simple cuboidal epithelium to simple squamous epithelium",
+      "x" : 0.21502058068415625,
+      "w" : 0.3641975210897577
+    },
+    {
+      "h" : 0.011698966026306157,
+      "conf" : 1,
+      "y" : 0.4113727390399135,
+      "text" : "Q12. [2020 Exam] What is the primary physiological consequence of",
+      "x" : 0.7397119348765433,
+      "w" : 0.43827157650353776
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.39752906969476737,
+      "text" : "water reabsorption along the water-permeable Thin Descending",
+      "x" : 0.724279828532236,
+      "w" : 0.41152263137529477
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.38517441853197676,
+      "text" : "Limb?",
+      "x" : 0.5411522628086419,
+      "w" : 0.04526748897144639
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "y" : 0.36916666683833,
+      "text" : "[A] Progressive dilution of tubular fluid toward 100 mOsm\/kg",
+      "x" : 0.6975308701646089,
+      "w" : 0.35802466914338904
+    },
+    {
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "y" : 0.3575193795131201,
+      "text" : "[B] Progressive concentration of tubular fluid, reaching hyperosmolality",
+      "x" : 0.724279828463649,
+      "w" : 0.41563785001166953
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "y" : 0.3451453487981554,
+      "text" : "(~1200 mOsm\/kg) at the hairpin bend",
+      "x" : 0.6316872465706447,
+      "w" : 0.22633743286132812
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "y" : 0.3343023257751939,
+      "text" : "[C] Neutralization of tubular pH to strictly 7.40",
+      "x" : 0.6532921803497942,
+      "w" : 0.26954732451049035
+    },
+    {
+      "h" : 0.011750645637512158,
+      "conf" : 1,
+      "y" : 0.3227357882931909,
+      "text" : "[D] Immediate precipitation of uric acid crystals in the lumen",
+      "x" : 0.6934156319615914,
+      "w" : 0.35390945050701406
+    },
+    {
+      "h" : 0.011711886194017196,
+      "conf" : 1,
+      "y" : 0.31108850144935024,
+      "text" : "[E] Total cessation of tubular fluid movement through the loop",
+      "x" : 0.70061728803155,
+      "w" : 0.3641975210897579
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.28997093030523247,
+      "text" : "Q13. [2024 Exam] Which histological type of thin Henle's epithelium",
+      "x" : 0.7386831319341565,
+      "w" : 0.4362139911771571
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "y" : 0.2768217053251634,
+      "text" : "(Types I-IV classification) lines the short loops of cortical nephrons?",
+      "x" : 0.7427983540006788,
+      "w" : 0.4444444284499067
+    },
+    {
+      "h" : 0.01175064563751227,
+      "conf" : 1,
+      "y" : 0.2602357881478421,
+      "text" : "[A] Type IV transitional urothelium with umbrella cells",
+      "x" : 0.6759259218449932,
+      "w" : 0.31481480148603325
+    },
+    {
+      "h" : 0.011711886194017196,
+      "conf" : 1,
+      "y" : 0.24858850144935024,
+      "text" : "[B] Type III tall pseudostratified columnar epithelium",
+      "x" : 0.6718106958504803,
+      "w" : 0.30658434022147696
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "y" : 0.23624677020909318,
+      "text" : "[C] Type I epithelium (very thin, simple non-interdigitating squamous cells)",
+      "x" : 0.7345679066358024,
+      "w" : 0.4320987725407823
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.22597222226044023,
+      "text" : "[D] Type V stratified squamous keratinized epithelium",
+      "x" : 0.6748971141289439,
+      "w" : 0.3127571921678459
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "y" : 0.2143217053822914,
+      "text" : "[E] Type II complex interdigitating cuboidal epithelium",
+      "x" : 0.6759259298611111,
+      "w" : 0.31481480148603336
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.28997093030523247,
+      "text" : "Q06. [2020 Exam] In cross-sections of the renal medulla, how can the",
+      "x" : 0.2582304571399176,
+      "w" : 0.4465020617599007
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "y" : 0.2768217053713902,
+      "text" : "Thin Descending Limb of Henle be distinguished from blood capillary",
+      "x" : 0.2572016505349793,
+      "w" : 0.4444444284499066
+    },
+    {
+      "h" : 0.010533151626586967,
+      "conf" : 1,
+      "y" : 0.26380813936351866,
+      "text" : "Vasa Recta?",
+      "x" : 0.07613168765283115,
+      "w" : 0.08239187084653843
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "y" : 0.24709302340116285,
+      "text" : "[A] Thin limbs have simple squamous cells with bulging nuclei and NO",
+      "x" : 0.2376543245113167,
+      "w" : 0.4094649980653007
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "y" : 0.23546511623062027,
+      "text" : "intraluminal RBCs",
+      "x" : 0.08847736440329224,
+      "w" : 0.11111110711247665
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.22458333326462532,
+      "text" : "[B] Vasa recta have completely closed lumens filled with crystal casts",
+      "x" : 0.23662551949588467,
+      "w" : 0.40740741273892006
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.21291666686255467,
+      "text" : "[C] Vasa recta have a stratified epithelial lining with cilia",
+      "x" : 0.19753086968449912,
+      "w" : 0.32921809070515184
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "y" : 0.20125322997259293,
+      "text" : "[D] Thin limbs are lined by simple cuboidal epithelium with dense microvilli",
+      "x" : 0.251028812037037,
+      "w" : 0.4362139911771571
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.18968023264898254,
+      "text" : "[E] Thin limbs contain smooth muscle layers in their tunica media",
+      "x" : 0.22942387322530855,
+      "w" : 0.3930040995279948
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "y" : 0.1686111113193206,
+      "text" : "Q07. [2024 Exam] The Thin Descending Limb of Henle possesses",
+      "x" : 0.24485597232510273,
+      "w" : 0.4197530686480444
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "y" : 0.15485465113073338,
+      "text" : "extraordinarily high water permeability primarily due to abundant",
+      "x" : 0.2448559740740739,
+      "w" : 0.41975306864804446
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.14171511620639549,
+      "text" : "apical and basolateral expression of:",
+      "x" : 0.1543209836076819,
+      "w" : 0.24279835539044076
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "y" : 0.1256944443692623,
+      "text" : "[A] Urea transporters UT-A1 and UT-A3",
+      "x" : 0.1471193438477366,
+      "w" : 0.22839506617132224
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "y" : 0.11403746780989688,
+      "text" : "[B] Aquaporin-1 (AQP1) water channels constitutively expressed",
+      "x" : 0.22016461279835384,
+      "w" : 0.37448559167250145
+    },
+    {
+      "h" : 0.011724805831909157,
+      "conf" : 1,
+      "y" : 0.10169573601852527,
+      "text" : "[C] Aquaporin-2 regulated by vasopressin (ADH)",
+      "x" : 0.17386831189986285,
+      "w" : 0.28189300441142146
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.0908430232013081,
+      "text" : "[D] Aquaporin-4 confined to peritubular capillaries",
+      "x" : 0.17901234202674904,
+      "w" : 0.29218105100235847
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.07921511638081397,
+      "text" : "[E] Epithelial sodium channels (ENaC)",
+      "x" : 0.14403292074074076,
+      "w" : 0.22222221422495333
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "y" : 0.16861111091062564,
+      "text" : "Q14. [Faculty Exam] The basement membrane supporting the simple",
+      "x" : 0.7407407374485597,
+      "w" : 0.44032920981353185
+    },
+    {
+      "h" : 0.011679585774739598,
+      "conf" : 1,
+      "y" : 0.15554909581335497,
+      "text" : "squamous cells of Henle's thin limb is histologically continuous with",
+      "x" : 0.7386831240740742,
+      "w" : 0.44032920981353185
+    },
+    {
+      "h" : 0.00874676995807222,
+      "conf" : 1,
+      "y" : 0.1424289405267592,
+      "text" : "the basement membrane of the:",
+      "x" : 0.6286008267146777,
+      "w" : 0.22016460490676593
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "y" : 0.12569444435109378,
+      "text" : "[A] Parietal layer of Bowman's capsule and renal papilla",
+      "x" : 0.6810699629115226,
+      "w" : 0.32510287206877697
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "y" : 0.11403746768271666,
+      "text" : "[B] Interlobular fibrous connective tissue stroma only",
+      "x" : 0.6728395022633746,
+      "w" : 0.3127571921678459
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.10247093030523247,
+      "text" : "[C] Glomerular capillary endothelium via the vascular pole",
+      "x" : 0.6872428040466391,
+      "w" : 0.341563770606083
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "y" : 0.0908430232013081,
+      "text" : "[D] Pars recta of proximal tubule proximally and thick ascending limb distally",
+      "x" : 0.7407407351337449,
+      "w" : 0.4485596470862815
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "y" : 0.07921511633357553,
+      "text" : "[E] Perinephric Gerota's fascia",
+      "x" : 0.606995887037037,
+      "w" : 0.18106995588578512
+    },
+    {
+      "h" : 0.017519379191928475,
+      "conf" : 1,
+      "y" : 0.014573643611020815,
+      "text" : "Twisted Medicine • Renal Histology Master Class • Strictly Grounded in Faculty & Board 5Ygn Past Papers",
+      "x" : 0.3179012416923867,
+      "w" : 0.5699588127855986
+    },
+    {
+      "h" : 0.007344961166381836,
+      "conf" : 1,
+      "y" : 0.01966085278616625,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321,
+      "w" : 0.19135801447262546
+    }
+  ],
+  "page" : 31
+}

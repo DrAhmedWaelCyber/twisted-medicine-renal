@@ -1,0 +1,864 @@
+{
+  "id": 15,
+  "title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+  "department": "Physiology",
+  "department_desc": "Hemodynamics, autoregulation, GFR, tubular transport, countercurrent multiplier, acid-base and RFTs",
+  "booklet_pages": "Pages 57 - 60",
+  "pdf_pages": [
+    59,
+    60,
+    61,
+    62
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 15 - HIGH-YIELD COLLECTING DUCT & URINE REGULATION MATRIX",
+  "summary_table": [
+    {
+      "domain": "Principal Cells",
+      "content": "Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia."
+    },
+    {
+      "domain": "(Na+ & K+ Handling)",
+      "content": "induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &"
+    },
+    {
+      "domain": "Intercalated Cells",
+      "content": "H+/K+-ATPase pump H+ into lumen; basolateral AE1 H+-ATPase, acidifying urine to min pH ~4.5. secretion -> urine pH > 5.5,"
+    },
+    {
+      "domain": "(Acid-Base Balance)",
+      "content": "nephrocalcinosis."
+    },
+    {
+      "domain": "returns HC03-to blood.",
+      "content": "Systemic Alkalosis: stimulates Type B Pendrin, excreting excess HCO3- into urine. Type 4 RTA: hypoaldosteronism -> Type B (Beta): reversed polarity; apical Pendrin (Cl-/HCO3-) secretes HC03-; basolateral H+-ATPase hyperkalemia, impaired NH4+ production & distal acidification."
+    },
+    {
+      "domain": "retains H+.",
+      "content": "Without ADH: collecting ducts are water-impermeable -> ADH (Vasopressin): binds basolateral V2 Central DI: deficient ADH synthesis →>"
+    },
+    {
+      "domain": "Water Permeability",
+      "content": "GPCR -> Gs -> cAMP -> PKA phosphorylates responds to dDAVP. excretion of dilute urine (50 mOsm/kg, up to 20 L/d)."
+    },
+    {
+      "domain": "& Aquaporins",
+      "content": "AQP2. With ADH: Aquaporin-2 (AQP2) vesicles fuse with apical Nephrogenic DI: V2/AQP2 defect (Lithium) Osmoreceptors: fire when plasma membrane; basolateral exit via constitutive AQP3 & →> no dDAVP response."
+    },
+    {
+      "domain": "AQP4.",
+      "content": "osmolality >280-285 mOsm/kg. SIADH: euvolemic hyponatremia (<280) Baroreceptors: stimulate ADH during with concentrated urine (>100). Vaptans: V2 antagonists. hypovolemia. Osmotic Diuresis: unreabsorbed solutes ADH: stimulates both water (AQP2) and Urea Handling: Cortical CD is urea-impermeable. Inner"
+    },
+    {
+      "domain": "Medullary Urea",
+      "content": "(Mannitol, glucose > Tm) oppose water urea (UT-A1/3) uptake in IMCD. Medullary CD (IMCD) expresses ADH-stimulated UT-A1"
+    },
+    {
+      "domain": "& Natriuretic Peptides",
+      "content": "uptake, washing out medullary gradient. Urodilatin: paracrine peptide from DCT/CD & UT-A3. Urea reabsorption into medullary interstitium Protein Malnutrition: low urea impairs supplies ~40-50% of papillary hyperosmolality. cells. High Protein Diet: raises medullary urea concentrating capacity. ANP & Urodilatin: inhibit medullary CD ENaC &"
+    },
+    {
+      "domain": "ADH-mediated water uptake.",
+      "content": "Obligatory Volume: ~ 0.5 L/d to excrete 600 and maximizes urine concentrating ability. mOsm."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The final adjustment of the volume, osmolality, and Q08. [2022 Exam] The primary apical channel responsible for basal electrolyte composition of tubular fluid to form definitive urine occurs primarily within which nephron segments?",
+      "options": {
+        "A": "Proximal convoluted tubule and descending thin limb of Henle",
+        "B": "Late Distal Convoluted Tubule (DCT) and Cortical/Medullary Collecting Ducts",
+        "C": "Glomerular capillary loops and Bowman's urinary space",
+        "D": "Thin ascending limb of Henle exclusively",
+        "E": "Renal fibrous capsule and perirenal fat pad"
+      },
+      "correct_option": "B",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In the late distal convoluted tubule and cortical collecting duct, the two morphologically and functionally distinct epithelial cell types are:",
+      "options": {
+        "A": "Principal (Light) cells and Intercalated (Dark) cells",
+        "B": "Juxtaglomerular granular cells and lacis cells",
+        "C": "Podocytes and vascular endothelial cells",
+        "D": "Macula densa plaque cells and mesangial cells",
+        "E": "Transitional umbrella cells and basal cells"
+      },
+      "correct_option": "A",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Principal cells comprise approximately 65% to 70% Q10. [2021 Exam] Intercalated cells comprise approximately 30% to of collecting duct epithelial cells. Their primary physiological functions are:",
+      "options": {
+        "A": "Passive filtration of plasma albumin into the lumen",
+        "B": "Reabsorption of sodium and water, and regulated secretion of potassium",
+        "C": "Exclusive synthesis of calcitriol and erythropoietin",
+        "D": "Complete reabsorption of filtered glucose via SGLT2",
+        "E": "Secretion of renin into the afferent arteriole"
+      },
+      "correct_option": "B",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Sodium entry across the apical membrane of Principal cells in the cortical collecting duct is mediated by which specialized transport channel?",
+      "options": {
+        "A": "Electroneutral Na+/H+ antiporter (NHE3)",
+        "B": "Apical NKCC2 electroneutral cotransporter",
+        "C": "SGLT1 high-affinity sodium-glucose symporter",
+        "D": "Epithelial Sodium Channel (ENaC), an amiloride-sensitive sodium-selective channel",
+        "E": "Voltage-gated fast cardiac sodium channel"
+      },
+      "correct_option": "D",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Electrogenic reabsorption of sodium through ENaC Q12. 2020 Exam Type B (Beta) Intercalated cells, activated during without an accompanying anion creates which electrical condition across the collecting duct epithelium?",
+      "options": {
+        "A": "Highly positive transepithelial potential of +50 mV",
+        "B": "Total collapse of basolateral sodium-potassium ATPase",
+        "C": "Isoelectric potential of exactly 0 mV across all cells",
+        "D": "Immediate electrical depolarization blocking all ion flow",
+        "E": "Lumen-negative transepithelial potential (-10 to -50 mV), driving K+ and H+ secretion"
+      },
+      "correct_option": "E",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Aldosterone, a mineralocorticoid secreted by the adrenal zona glomerulosa, exerts its primary renal actions on Principal cells by binding to:",
+      "options": {
+        "A": "Cell-surface G-protein coupled V2 receptors",
+        "B": "Extracellular calcium-sensing receptors on the apical membrane",
+        "C": "Cytoplasmic Mineralocorticoid Receptors (MR), translocating to the",
+        "D": "Tyrosine kinase receptors on the peritubular capillary endothelium",
+        "E": "Apical Tamm-Horsfall glycoprotein filaments"
+      },
+      "correct_option": "C",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which of the following cellular events is directly induced by Aldosterone in Principal cells to enhance sodium reabsorption and potassium secretion?",
+      "options": {
+        "A": "Immediate endocytosis and degradation of all ENaC subunits",
+        "B": "Suppression of mitochondrial ATP synthesis",
+        "C": "Inhibition of basolateral Na+/K+ ATPase pump gene transcription",
+        "D": "Phosphorylation and closure of apical ROMK channels",
+        "E": "Induction of SGK1, increasing apical ENaC open probability and membrane abundance"
+      },
+      "correct_option": "E",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 8 covering high-yield concepts in Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Under high tubular flow rates, which potassium channel is mechanically activated by fluid shear stress to mediate flow-dependent potassium secretion?",
+      "options": {
+        "A": "Bulk isotonic reabsorption of extracellular volume",
+        "B": "Filtration fraction across the glomerular barrier",
+        "C": "Reabsorption of 100% of filtered glucose",
+        "D": "Acid-base homeostasis and fine control of systemic bicarbonate and proton balance",
+        "E": "Secretion of erythropoietin into medullary vasa recta"
+      },
+      "correct_option": "A",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 10 covering high-yield concepts in Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Type A (Alpha) Intercalated cells are specialized for acid secretion. Their apical and basolateral membrane transport machinery includes:",
+      "options": {
+        "A": "Vacuolar proton-pumping H+-ATPase",
+        "B": "Pendrin, an apical electroneutral CI-/HCO3- exchanger",
+        "C": "Sodium-hydrogen antiporter NHE3",
+        "D": "Basolateral Anion Exchanger 1 (AE1)",
+        "E": "Apical ROMK potassium channel"
+      },
+      "correct_option": "C",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 12 covering high-yield concepts in Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "How does systemic acid-base status directly influence potassium secretion by Principal cells in the cortical collecting duct?",
+      "options": {
+        "A": "Acidosis stimulates K+ secretion via ENaC",
+        "B": "Alkalosis blocks basolateral Na+/K+ ATPase",
+        "C": "Acid-base balance has zero effect on potassium",
+        "D": "Alkalosis promotes K+ secretion via cell uptake and ROMK",
+        "E": "Acidosis accelerates distal potassium loss"
+      },
+      "correct_option": "D",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Potassium-sparing diuretics Amiloride and Triamterene reduce potassium excretion while producing mild natriuresis primarily by:",
+      "options": {
+        "A": "Inhibiting the mitochondrial electron transport chain in the loop of Henle",
+        "B": "Directly blocking apical ENaC channels, eliminating the lumen-negative potential",
+        "C": "Antagonizing vasopressin V2 receptors in medullary collecting ducts",
+        "D": "Activating renal carbonic anhydrase in proximal tubules",
+        "E": "Stimulating aldosterone secretion from the adrenal cortex"
+      },
+      "correct_option": "B",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Antidiuretic Hormone binds specifically to V2 receptors on the basolateral membrane of Principal cells, initiating which signaling cascade?",
+      "options": {
+        "A": "Endocytic internalization and lysosomal destruction of AQP2",
+        "B": "Blockade of basolateral water exit into peritubular capillaries",
+        "C": "Direct opening of paracellular tight junction claudin pores",
+        "D": "Translocation of AQP2 into the mitochondrial outer membrane",
+        "E": "Exocytic insertion of intracellular AQP2-bearing vesicles into the apical membrane"
+      },
+      "correct_option": "C",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Phosphorylation of Aquaporin-2 (AQP2) by Protein Q24. [2025 Exam] What is the Obligatory Urine Volume, and why must a healthy adult excrete at least ~0.5 Liters of urine per day?",
+      "options": {
+        "A": "To keep renal oxygen consumption elevated",
+        "B": "To prevent capillary intravascular clotting",
+        "C": "To provide constant bladder wall lubrication",
+        "D": "To wash away sloughed urothelial cells",
+        "E": "Excreting ~600 mOsm solutes at max 1200 mOsm/kg"
+      },
+      "correct_option": "E",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Water absorbed across the apical membrane via Aquaporin-2 exits the basolateral membrane of Principal cells into the interstitium via which channels?",
+      "options": {
+        "A": "Electrogenic sodium-water symporters",
+        "B": "Voltage-gated Aquaporin-1 channels exclusively",
+        "C": "Simple lipid bilayer diffusion without membrane channel proteins",
+        "D": "Apical Aquaporin-2 operating in a reverse direction",
+        "E": "Constitutive Aquaporin-3 (AQP3) and Aquaporin-4 (AQP4) water channels [E] 100% (urine output drops to absolute zero)"
+      },
+      "correct_option": "E",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In states of maximal ADH stimulation (severe dehydration), what is the maximum osmolality of definitive urine that Convoluted Tubule from the Thick Ascending Limb always have an the human kidney can produce?",
+      "options": {
+        "A": "5000 mOsm/kg (equal to oceanic seawater osmolality)",
+        "B": "Exactly 300 mOsm/kg (strictly iso-osmotic with normal plasma)",
+        "C": "50 to 70 mOsm/kg (maximally dilute hypotonic urine)",
+        "D": "Approximately 1200 to 1400 m0sm/kg (equilibrating with deep medullary",
+        "E": "100 m0sm/kg (equal to early distal tubule fluid)"
+      },
+      "correct_option": "D",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In the complete absence of ADH (water diuresis or Q27. [Core Exam] Which of the following factors is a major central DI), what is the minimum osmolality and maximum volume of urine that can be excreted per day?",
+      "options": {
+        "A": "~300 mOsm/kg with fixed volume of exactly 1.5 Liters per day",
+        "B": "~50 mOsm/kg with urine volumes reaching 15 to 20 Liters per day",
+        "C": "~1200 mOsm/kg with volume restricted to 0.5 Liters per day",
+        "D": "~600 mOsm/kg with complete cessation of all urine output",
+        "E": "Zero mOsm/kg with excretion of pure distilled water without solutes"
+      },
+      "correct_option": "B",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The Medullary Collecting Duct differs fundamentally from the Cortical Collecting Duct in its handling of Urea because the medullary segment:",
+      "options": {
+        "A": "Actively secretes urea into the lumen via ATP-driven primary pumps",
+        "B": "Is completely impermeable to urea under all physiological conditions",
+        "C": "Expresses ADH-sensitive urea transporters (UT-A1 and UT-A3), allowing",
+        "D": "Synthesizes urea de novo from ammonium and bicarbonate ions",
+        "E": "Destroys urea using epithelial urease enzymes"
+      },
+      "correct_option": "C",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which tubular fluid parameter remains essentially unchanged along the Cortical Collecting Duct when ADH levels are zero?",
+      "options": {
+        "A": "Potassium concentration drops to absolute zero",
+        "B": "Sodium concentration rises to ten times plasma levels",
+        "C": "Inulin concentration increases by one hundred-fold",
+        "D": "Tubular fluid osmolality remains low (~100 mOsm/kg) because water cannot exit",
+        "E": "Fluid volume decreases by 90% before entering medullary ducts"
+      },
+      "correct_option": "D",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 24 covering high-yield concepts in Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "During prolonged water deprivation (antidiuresis), what percentage of total filtered water is reabsorbed by the end of the collecting duct system?",
+      "options": {
+        "A": "Less than 20% (the kidney cannot conserve water during dehydration)",
+        "B": "Exactly 50% (half of filtered load is always excreted)",
+        "C": "75% (fixed reabsorption percentage regardless of hydration)",
+        "D": "Over 99% of filtered water (excreting less than 1% as concentrated urine)"
+      },
+      "correct_option": "D",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Why does tubular fluid entering the early Distal osmolality of ~100 m0sm/kg?",
+      "options": {
+        "A": "Hypo-osmolality of systemic plasma (<270 mOsm/kg)",
+        "B": "Increased plasma osmolality (>280-285 mOsm/kg) sensed by hypothalamic osmoreceptors",
+        "C": "Massive arterial hypertension stimulating carotid baroreceptors",
+        "D": "Hypervolemia and acute central blood volume expansion",
+        "E": "Total absence of angiotensin Il in the systemic circulation"
+      },
+      "correct_option": "C",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 27 covering high-yield concepts in Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "In addition to hyperosmolality, which hemodynamic change powerfully stimulates ADH secretion even in the presence of normal or low plasma osmolality?",
+      "options": {
+        "A": "Complete transection of the lumbar spinal cord",
+        "B": "Severe hypervolemia with systemic venous engorgement",
+        "C": "Unilateral renal artery dilation",
+        "D": "Bilateral adrenalectomy with high mineralocorticoid levels",
+        "E": "Severe hypovolemia or hypotension (>8-10% decrease in blood volume/pressure)"
+      },
+      "correct_option": "E",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Urodilatin is a natriuretic peptide structurally related to ANP. It is unique because it is:",
+      "options": {
+        "A": "A potent mineralocorticoid agonist stimulating ENaC expression",
+        "B": "Produced exclusively by the cardiac left ventricle during heart failure",
+        "C": "An artificial synthetic peptide not found in human physiology",
+        "D": "Synthesized locally by distal tubule/collecting duct cells and acts as a paracrine natriuretic agent",
+        "E": "Excreted by the liver into bile without reaching the kidney"
+      },
+      "correct_option": "D",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Final acidification of urine down to the minimum physiological pH (~4.5) is carried out in the medullary collecting duct chronic Lithium therapy is mediated at the cellular level in collecting by:",
+      "options": {
+        "A": "Vacuolar H+-ATPase in Type A Intercalated cells pumping H+ against steep 1000-fold gradients",
+        "B": "Passive non-ionic diffusion of hydrochloric acid across tight junctions",
+        "C": "SGLT2 cotransporters pumping protons into the lumen",
+        "D": "Direct secretion of sulfuric acid by principal cells",
+        "E": "Glomerular ultrafiltration of free gastric acid"
+      },
+      "correct_option": "A",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Because the maximum free proton concentration at urine pH 4.5 is only ~0.03 mEq/L, high amounts of daily acid (~70 mEq/day) are excreted bound to:",
+      "options": {
+        "A": "Urinary buffers: Titratable Acid (primarily HP04^2-) and Ammonium (NH4+)",
+        "B": "Filtered glucose and amino acid molecules",
+        "C": "Intraluminal free albumin and immunoglobulins",
+        "D": "Calcium oxalate and uric acid crystals exclusively",
+        "E": "Tamm-Horsfall glycoprotein mucin strands"
+      },
+      "correct_option": "A",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In Type 1 (Distal) Renal Tubular Acidosis (dRTA), the fundamental molecular defect is located in the collecting duct and involves:",
+      "options": {
+        "A": "Complete absence of the thick ascending limb NKCC2 cotransporter",
+        "B": "Generalized failure of the proximal convoluted tubule (Fanconi syndrome)",
+        "C": "Inactivating mutation of the sodium-chloride cotransporter (NCC) in DCT",
+        "D": "Inability of Type A Intercalated cells to secrete H+, failing to acidify urine below pH 5.5",
+        "E": "Hypersecretion of aldosterone by an adrenal adenoma"
+      },
+      "correct_option": "D",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Type 4 Renal Tubular Acidosis (Hyperkalemic RTA) Q41. [Core Exam] What is the physiological role of the 'Aldosterone is characterized by impaired distal acidification and hyperkalemia. It is caused by:",
+      "options": {
+        "A": "Aldosterone deficiency or resistance, reducing ENaC activity and proton/potassium secretion",
+        "B": "Massive over-activation of the basolateral Na+/K+ ATPase pump",
+        "C": "Overexpression of Aquaporin-2 in medullary collecting ducts",
+        "D": "Ingestion of large doses of carbonic anhydrase inhibitors",
+        "E": "Excessive parathyroid hormone secretion"
+      },
+      "correct_option": "A",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Liddle Syndrome is an autosomal dominant disorder caused by gain-of-function mutations in ENaC subunits (deleting the PY motif), resulting in:",
+      "options": {
+        "A": "Constitutive ENaC opening: severe HTN, hypokalemia & low renin",
+        "B": "Salt wasting, hypotension, and hyperkalemia",
+        "C": "Massive glucosuria and aminoaciduria",
+        "D": "Polyuria due to nephrogenic diabetes insipidus",
+        "E": "Isolated hypocalciuria and hypomagnesemia"
+      },
+      "correct_option": "A",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Syndrome of Inappropriate Antidiuretic Hormone (SIADH) results in which classic clinical and laboratory pattern of final urine and serum?",
+      "options": {
+        "A": "Hypernatremia, hyperosmolality, and dilute urine",
+        "B": "Euvolemic hyponatremia (<280 mOsm) with concentrated urine (>100 mOsm)",
+        "C": "Hypokalemic metabolic alkalosis with hypercalcemia",
+        "D": "Hypovolemic shock with marked hemoconcentration",
+        "E": "Massive glucosuria and osmotic diuresis"
+      },
+      "correct_option": "B",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Nephrogenic Diabetes Insipidus (NDI) caused by ducts by:",
+      "options": {
+        "A": "Direct antibody-mediated destruction of hypothalamic supraoptic nuclei",
+        "B": "Lithium accumulation via ENaC inhibiting GSK-3beta and down-regulating Aquaporin-2 expression",
+        "C": "Complete mechanical obstruction of the ureteropelvic junction",
+        "D": "Hyper-activation of basolateral V2 vasopressin receptors",
+        "E": "Precipitation of lithium phosphate crystals in Bowman's space"
+      },
+      "correct_option": "B",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Vaptans (e.g., Tolvaptan) are pharmacologic agents that block V2 vasopressin receptors. Their primary therapeutic effect on final urine is:",
+      "options": {
+        "A": "Massive kaliuresis with severe hypokalemic metabolic alkalosis",
+        "B": "Pure aquaresis (electrolyte-free water excretion), increasing serum sodium in euvolemic hyponatremia",
+        "C": "Complete inhibition of all glomerular ultrafiltration",
+        "D": "Intense sodium retention with worsening pulmonary edema",
+        "E": "Precipitation of uric acid crystals causing acute renal colic"
+      },
+      "correct_option": "B",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Mineralocorticoid Receptor Antagonists Spironolactone and Eplerenone prevent final sodium reabsorption and potassium secretion by:",
+      "options": {
+        "A": "ECF expansion triggers ANP & natriuresis, limiting edema",
+        "B": "Total adrenal cortical metabolic exhaustion",
+        "D": "Spontaneous infarction of adrenal tumor",
+        "E": "Disappearance of sodium from extracellular fluid",
+        "C": "Down-regulation of cardiac beta-1 receptors"
+      },
+      "correct_option": "A",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 41 covering high-yield concepts in Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 52-year-old male with small cell lung cancer has serum Na+ 118 mEq/L, Posm 248 mOsm/kg, and Uosm 580 mOsm/kg. He is euvolemic. The mechanism of concentrated urine is:",
+      "options": {
+        "A": "Severe dehydration from gastrointestinal losses",
+        "B": "Central diabetes insipidus from tumor compression",
+        "C": "Primary polydipsia with water intoxication",
+        "D": "Addisonian crisis due to adrenal destruction",
+        "E": "Ectopic ADH driving constitutive AQP2 insertion (SIADH)"
+      },
+      "correct_option": "E",
+      "explanation": "**Principal Cells**: Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia.\n\n**(Na+ & K+ Handling)**: induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &",
+      "masterclass_id": 15,
+      "masterclass_title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology"
+    }
+  ]
+}

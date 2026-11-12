@@ -1,0 +1,897 @@
+{
+  "id": 42,
+  "title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+  "department": "Clinical Nephrology & Urology",
+  "department_desc": "Clinical approach, AKI, dialysis, nephrotic/nephritic syndrome, renovascular hypertension, cystics and oncology",
+  "booklet_pages": "Pages 165 - 168",
+  "pdf_pages": [
+    167,
+    168,
+    169,
+    170
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 43 - HIGH-YIELD NEPHROLITHIASIS & UROLOGICAL EMERGENCIES MATRIX",
+  "summary_table": [
+    {
+      "domain": "Randall's plaques (apatite in Henle loops).",
+      "content": "Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric"
+    },
+    {
+      "domain": "Envelopes (dihydrate) vs dumbbells",
+      "content": "hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:"
+    },
+    {
+      "domain": "(monohydrate). Radiopaque on KUB & CT.",
+      "content": "Severe colicky flank pain. Tamsulosin for 5-10 mm."
+    },
+    {
+      "domain": "Persistent acidic urine (pH <5.5). Pleomorphic",
+      "content": "Oral Urinary Alkalinization with Potassium Citrate (target pH Strong association with gout, metabolic"
+    },
+    {
+      "domain": "Uric Acid Calculi (8-10%)",
+      "content": "syndrome, myeloproliferative disorders, chronic 6.5-7.0) dissolves stones! Allopurinol if hyperuricosuria"
+    },
+    {
+      "domain": "Acidic Chemolysis",
+      "content": "diarrhea. Low urine pH."
+    },
+    {
+      "domain": "visible on non-contrast CT.",
+      "content": "present. Complete surgical removal is MANDATORY (Percutaneous Recurrent UTIs, alkaline urine, Proteus cultures."
+    },
+    {
+      "domain": "Struvite Calculi (10-15%)",
+      "content": "Nephrolithotomy - PCNL) + acetohydroxamic acid (urease"
+    },
+    {
+      "domain": "urea -> NH3 -> alkaline pH >7.2. Coffin-lid",
+      "content": "Trapped bacteria inside foreign body matrix"
+    },
+    {
+      "domain": "Infection Staghorn Stones",
+      "content": "inhibitor) + antibiotics. preclude medical cure."
+    },
+    {
+      "domain": "Ureteral stone + bacterial pyelonephritis ('pus",
+      "content": "EMERGENCY DECOMPRESSION: Retrograde DJ Stent or"
+    },
+    {
+      "domain": "Infected Obstructed Kidney",
+      "content": "Sepsis triad: fever, rigors, flank pain, hypotension, Percutaneous Nephrostomy (PCN) + IV under pressure'). Hydronephrosis with perinephric"
+    },
+    {
+      "domain": "Urological Emergency #1",
+      "content": "confusion. Rapid progression to fatal septic shock. Meropenem/Cefepime. Never lithotripsy during sepsis!"
+    },
+    {
+      "domain": "fat stranding on NCCT.",
+      "content": "EMERGENCY SURGERY (<6h window): Scrotal exploration, Sudden severe pain, high-riding horizontal testis, Twisting of spermatic cord around vascular axis."
+    },
+    {
+      "domain": "Testicular Torsion",
+      "content": "detorsion, and Bilateral Orchiopexy (prevent future 'Bell-clapper deformity' (high tunica vaginalis) is absent cremasteric reflex, negative Prehn's sign."
+    },
+    {
+      "domain": "Urological Emergency #2",
+      "content": "contralateral torsion)."
+    },
+    {
+      "domain": "BILATERAL.",
+      "content": "Doppler US: zero flow. Fournier: perineal pain, crepitus, dirty-dishwater Fournier: immediate radical surgical debridement +"
+    },
+    {
+      "domain": "Fournier & Penile Trauma",
+      "content": "broad-spectrum IV antibiotics. Fracture: emergent surgical"
+    },
+    {
+      "domain": "Fracture: rupture of tunica albuginea during",
+      "content": "fluid. Fracture: audible 'pop', detumescence,"
+    },
+    {
+      "domain": "Gangrene & Fracture",
+      "content": "'eggplant deformity'. exploration and tunical repair."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the most common mineral composition of kidney stones worldwide (~75-80% of nephrolithiasis)?",
+      "options": {
+        "A": "Calcium Oxalate (alone or admixed with Calcium Phosphate)",
+        "B": "Pure Uric Acid formed in persistently acidic urine",
+        "C": "Struvite (triple phosphate / magnesium ammonium phosphate)",
+        "D": "Pure Cystine from proximal tubular transport defects",
+        "E": "Xanthine stones caused by hereditary xanthinuria"
+      },
+      "correct_option": "A",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What suburothelial lesion ('Randall\\'s Plaque') serves as the initial nidus for calcium oxalate stones?",
+      "options": {
+        "A": "Subepithelial cholesterol crystal clefts in arcuate arteries",
+        "B": "Calcium Phosphate (Carbonate Apatite) in Henlel's loop basement membrane",
+        "C": "Dense amyloid fibrils deposited in podocyte slit diaphragms",
+        "D": "Caseating granulomas eroding through calyceal fornices",
+        "E": "Intraepithelial uric acid crystal plugs in proximal tubules"
+      },
+      "correct_option": "A",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which urinary molecule is the most potent inhibitor of calcium stones by chelating ionic calcium into a soluble complex?",
+      "options": {
+        "A": "Ascorbic acid (Vitamin C)",
+        "B": "Uric acid",
+        "C": "Citrate (hypocitraturia is a major treatable metabolic risk factor)",
+        "D": "Inorganic phosphate",
+        "E": "Tamm-Horsfall mucoprotein aggregate"
+      },
+      "correct_option": "C",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In Crohn|'s disease or ileal resection, what mechanism causes Enteric Hyperoxaluria and calcium stones?",
+      "options": {
+        "A": "Excessive gastrointestinal secretion of calcium carbonate",
+        "B": "Direct bacterial synthesis of oxalate in the jejunum",
+        "C": "Complete suppression of proximal tubular citrate reabsorption",
+        "D": "Free fatty acids saponify Calcium, leaving free Oxalate hyper-absorbed in colon",
+        "E": "Congenital deficiency of alanine-glyoxylate aminotransferase"
+      },
+      "correct_option": "C",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why do pure Uric Acid calculi fail to visualize on plain KUB radiography but are seen on non-contrast CT?",
+      "options": {
+        "A": "Uric acid calculi absorb X-rays 100 times more than bone",
+        "B": "Uric acid stones dissolve immediately upon X-ray exposure",
+        "C": "Uric acid calculi are located exclusively inside bile ducts",
+        "D": "Uric acid calculi are surrounded by thick radiopaque jackets",
+        "E": "Composed of light elements (C, H, N, O), making them Radiolucent on plain X-rays"
+      },
+      "correct_option": "E",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What prerequisite triggers Uric Acid stone precipitation, and what is the cornerstone of medical chemolysis?",
+      "options": {
+        "A": "Persistent Acidic Urine (pH <5.5); treated with oral Potassium Citrate (target pH 6.5-7.0)",
+        "B": "Persistent alkaline urine (pH >7.5); treated with ammonium chloride",
+        "C": "Massive hypercalcemia; treated with IV calcium gluconate",
+        "D": "Severe hypouricosuria; treated with high-purine organ meat diets",
+        "E": "Persistent hypermagnesuria; treated with oral phosphate"
+      },
+      "correct_option": "A",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Struvite (triple phosphate) calculi characteristically form in which microbiological and biochemical environment?",
+      "options": {
+        "A": "Infection with sterile viruses in an intensely acidic urine (pH <4.5)",
+        "B": "Urease-producing bacteria (e.g., Proteus mirabilis) in ALKALINE urine (pH >7.2)",
+        "C": "Pure anaerobic Bacteroides infection in neutral urine with normal flora",
+        "D": "High-dose penicillin excretion in primary hyperaldosteronism",
+        "E": "Isolated systemic cytomegalovirus reactivation in allografts"
+      },
+      "correct_option": "B",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Why cannot Struvite Staghorn Calculi ('coraliform stones') be cured by antimicrobial therapy alone?",
+      "options": {
+        "A": "Bacteria produce neutral gas that inactivates all known antibiotics",
+        "B": "Bacteria inside stone matrix act as a permanent nidus for recurrent sepsis unless surgically excised",
+        "C": "Antibiotics cause rapid transformation of struvite into lead",
+        "D": "Struvite stones dissolve completely within 2 hours of antibiotics",
+        "E": "Struvite calculi are located strictly inside the appendix"
+      },
+      "correct_option": "C",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "In inherited Cystinuria, what pathognomonic crystal morphology is identified in acidic urine sediment?",
+      "options": {
+        "A": "Bipyramidal envelope crystals with strong positive birefringence",
+        "B": "Dumbbell-shaped crystals displaying bright rainbow birefringence",
+        "C": "Coffin-lid prismatic crystals formed in alkaline urine",
+        "D": "Flat, clear, Hexagonal ('benzene ring') crystals in acidic urine",
+        "E": "Needle-shaped crystals with intense negative birefringence"
+      },
+      "correct_option": "D",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What target urinary pH is required to dissolve Cystine stones, and what second-line chelating drug is used?",
+      "options": {
+        "A": "Urinary pH <5.0; treated with oral ascorbic acid",
+        "B": "Urinary pH 6.0; treated with allopurinol monotherapy",
+        "C": "Urinary pH >9.0; treated with IV hydrochloric acid",
+        "D": "Urinary pH 4.0; treated with high-dose loop diuretics",
+        "E": "Urinary pH >7.5 (via Potassium Citrate); Thiol drugs (Tiopronin / D-Penicillamine)"
+      },
+      "correct_option": "E",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which imaging modality is the GOLD STANDARD initial diagnostic test for suspected acute ureteral",
+      "options": {
+        "A": "Low-Dose Non-Contrast Helical Abdominal/Pelvic CT (NCCT)",
+        "B": "Intravenous Urography (IVU) with high-osmolar iodinated contrast",
+        "C": "Plain abdominal radiography (KUB) combined with barium swallow",
+        "D": "Radionuclide renal cortical scan (DMSA) under anesthesia",
+        "E": "Magnetic Resonance Angiography (MRA) with gadolinium"
+      },
+      "correct_option": "A",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Which renal calculi represent the notable EXCEPTION that fails to visualize even on Non-Contrast CT?",
+      "options": {
+        "A": "Calcium oxalate monohydrate calculi",
+        "B": "Indinavir (and protease inhibitor) radiolucent calculi",
+        "C": "Large struvite staghorn calculi",
+        "D": "Cystine calculi with mild radiopacity",
+        "E": "Calcium hydrogen phosphate (brushite) calculi"
+      },
+      "correct_option": "A",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What acoustic and Doppler findings identify a renal calculus on diagnostic ultrasound examination?",
+      "options": {
+        "A": "Anechoic cystic space with distal acoustic enhancement",
+        "B": "Homogeneous hypochoic mass with central vascular flow signals",
+        "C": "Hyperechoic focus with Posterior Acoustic Shadowing and 'Twinkling Artifact'",
+        "D": "Fluid-fluid level with swirling echogenic debris in pelvis",
+        "E": "Total disappearance of kidney parenchyma during respiration"
+      },
+      "correct_option": "C",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What dietary advice regarding Calcium is universally recommended to prevent recurrent Calcium Oxalate stones?",
+      "options": {
+        "A": "Severe dietary calcium restriction (<400 mg/d) to eliminate urinary calcium",
+        "B": "Complete elimination of all dietary water and fluid hydration",
+        "C": "Consuming 5 grams of elemental calcium pills at bedtime without food",
+        "D": "Normal-to-high dietary calcium (1,000-1,200 mg/d); restriction increases oxalate absorption & recurrence!",
+        "E": "Exclusive consumption of high-oxalate spinach and rhubarb smoothies"
+      },
+      "correct_option": "D",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which anatomical location along the ureter is the narrowest constriction and most common site of stone impaction?",
+      "options": {
+        "A": "The Ureterovesical Junction (UVJ) traversing the bladder wall",
+        "B": "The Ureteropelvic Junction (UPJ) at the renal pelvis exit",
+        "C": "The crossing of the ureter over iliac vessels at the pelvic brim",
+        "D": "The mid-ureter adjacent to third lumbar transverse process",
+        "E": "The infundibulum connecting upper calyx to the renal pelvis"
+      },
+      "correct_option": "A",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the rationale of Medical Expulsive Therapy (MET) using Tamsulosin for distal ureteral stones (5-10 mm)?",
+      "options": {
+        "A": "Loop diuretics to create high-pressure hydronephrosis",
+        "B": "Alpha-1 blocker relaxes distal ureteral smooth muscle, accelerating stone passage",
+        "C": "Muscarinic agonists to stimulate violent detrusor contractions",
+        "D": "Potassium-sparing diuretics to acidify the collecting duct",
+        "E": "Broad-spectrum oral penicillins to dissolve ureteral adventitia"
+      },
+      "correct_option": "A",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What are the evidence-based likelihoods of spontaneous passage for ureteral calculi based on diameter?",
+      "options": {
+        "A": "Calculi <5 mm have ~80-90% passage rate; stones >10 mm have <10% passage (require intervention)",
+        "B": "Calculi of all sizes have an identical 50% spontaneous passage rate",
+        "C": "Calculi >15 mm pass spontaneously in >95% of adult male patients",
+        "D": "Calculi <3 mm require immediate open radical nephrectomy",
+        "E": "Calculi never pass spontaneously regardless of anatomical size"
+      },
+      "correct_option": "C",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which of the following conditions represents an ABSOLUTE CONTRAINDICATION to Shock Wave Lithotripsy (ESWL)?",
+      "options": {
+        "A": "Solitary functioning kidney with non-obstructing stone",
+        "B": "Patient age over 65 years with normal blood pressure",
+        "C": "Renal stone located in middle minor calyx measuring 8 mm",
+        "D": "Pregnancy, uncorrected coagulopathy/bleeding diathesis, and active UTI",
+        "E": "Presence of a functioning double-J ureteral stent"
+      },
+      "correct_option": "D",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the procedure of choice for treating large, complex Staghorn Calculi (>20 mm) in the renal pelvis?",
+      "options": {
+        "A": "Conservative outpatient observation with oral allopurinol",
+        "B": "Repeated sessions of shock wave lithotripsy (ESWL) without drainage",
+        "C": "Oral potassium citrate chemolysis for all stone compositions",
+        "D": "Bilateral laparoscopic ureteral reimplantation",
+        "E": "Percutaneous Nephrolithotomy (PCNL) with nephroscopic lithotripsy"
+      },
+      "correct_option": "E",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What laser technology is the gold standard for intracorporeal stone pulverization during flexible Ureteroscopy (RIRS)?",
+      "options": {
+        "A": "Holmium:YAG (or Thulium Fiber) Laser, dusting stones of all compositions",
+        "B": "Carbon dioxide (CO2) continuous wave laser",
+        "C": "Argon beam coagulator with high-frequency monopolar cautery",
+        "D": "Helium-neon low-energy biological stimulation laser",
+        "E": "Pulsed dye laser limited strictly to calcium carbonate stones"
+      },
+      "correct_option": "E",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the mechanism of Thiazides (Chlorthalidone/Indapamide) in preventing recurrent Calcium stones?",
+      "options": {
+        "A": "They directly chelate calcium in collecting duct forming precipitate",
+        "B": "Inhibiting distal NaCl induces volume contraction, enhancing Proximal Calcium reabsorption",
+        "C": "They acidify the urine to pH <4.0 to dissolve calcium crystals",
+        "D": "They stimulate intestinal calcium absorption to saturate bone matrix",
+        "E": "They inhibit the production of osteocytic FGF-23"
+      },
+      "correct_option": "C",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the primary daily urine volume goal recommended by guidelines to prevent recurrent nephrolithiasis?",
+      "options": {
+        "A": "Urine volume maintained strictly below 500 mL/day to avoid polyuria",
+        "B": "Urine volume exceeding 10 Liters per day using loop diuretics",
+        "C": "Urine output limited strictly to nighttime hours",
+        "D": "Urine volume >= 2.0 to 2.5 Liters/day (fluid intake ~ 2.5-3.0 L/d) to dilute supersaturation",
+        "E": "Zero urine volume by consuming only hypertonic saline solutions"
+      },
+      "correct_option": "C",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Why does excessive dietary Sodium intake (>2,000 mg/day) significantly increase calcium stone recurrence?",
+      "options": {
+        "A": "High sodium intake directly converts uric acid into sodium urate",
+        "B": "Sodium expands ECF, blunting proximal tubular parallel Calcium reabsorption and increasing Hypercalciuria",
+        "C": "Sodium ions stimulate parathyroid adenoma formation in 48 hours",
+        "D": "Sodium precipitates directly with citrate forming insoluble rocks",
+        "E": "Sodium blocks Tamm-Horsfall mucoprotein synthesis in thick ascending limb"
+      },
+      "correct_option": "E",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is 'Post-Obstructive Diuresis' (POD), and what physiological phenomenon defines it after relieving bilateral obstruction?",
+      "options": {
+        "A": "Complete persistent anuria lasting for >2 weeks post-decompression",
+        "B": "High urine output (>200 mL/h for > 2h) driven by retained urea osmotic diuresis & medullary washout",
+        "C": "Massive proteinuria exceeding 20 grams per day without hematuria",
+        "D": "Rapid development of severe metabolic alkalosis with hyperkalemia",
+        "E": "Spontaneous development of bilateral staghorn struvite calculi"
+      },
+      "correct_option": "A",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What is the critical management rule during the physiological phase of Post-Obstructive Diuresis?",
+      "options": {
+        "A": "Replace 100% of urine output volume-for-volume with normal saline indefinitely",
+        "B": "Administer high-dose intravenous loop diuretics to clear remaining debris",
+        "C": "Replace ~50-75% of urine losses with 0.45% saline to avoid perpetuating iatrogenic diuresis",
+        "D": "Strict absolute fluid restriction to 0 mL per day to stop urine production",
+        "E": "Immediate bilateral nephrectomy to control fluid losses"
+      },
+      "correct_option": "B",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which of the following medications is a documented cause of secondary stones via direct urinary crystallization?",
+      "options": {
+        "A": "Acetaminophen in normal therapeutic doses",
+        "B": "Topical hydrocortisone cream applied to skin",
+        "C": "Oral calcium gluconate taken with heavy meals",
+        "D": "Triamterene, Sulfadiazine, Indinavir, and high-dose IV Acyclovir",
+        "E": "Subcutaneous regular insulin"
+      },
+      "correct_option": "C",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why is immediate stone lithotripsy (e.g., Ureteroscopy laser) CONTRAINDICATED in an infected obstructed kidney with sepsis?",
+      "options": {
+        "A": "Laser energy permanently converts bacteria into toxic viral particles",
+        "B": "Endoscopy causes instantaneous calcification of contralateral normal kidney",
+        "C": "Infected stones are completely immune to laser light and ultrasound waves",
+        "D": "Ureteral stents cannot be inserted if the stone has been fragmented",
+        "E": "High-pressure irrigation forces bacteria/endotoxins into renal veins, triggering fatal Uroseptic Shock"
+      },
+      "correct_option": "E",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "In Acute Urinary Retention (AUR) with a tense, tender bladder to umbilicus, what is the initial management of choice?",
+      "options": {
+        "A": "Immediate gentle decompression via Foley Catheter (or Suprapubic Catheter if contraindicated)",
+        "B": "High-dose intravenous loop diuretics to force immediate micturition",
+        "C": "Performing an emergency transurethral prostate resection (TURP) within 1 hour",
+        "D": "Administering oral oxybutynin to relax the urinary bladder dome",
+        "E": "Ordering an outpatient renal MRI and advising warm water baths"
+      },
+      "correct_option": "A",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "A 16-year-old male presents with sudden left testicular pain (2h), horizontal high-riding testis, and ABSENT remasteric reflex. Management?",
+      "options": {
+        "A": "Acute epididymo-orchitis; discharge on oral ciprofloxacin",
+        "B": "Testicular Torsion; immediate Surgical Exploration, Detorsion, and Bilateral Orchiopexy (<6 hours)",
+        "C": "Varicocele; schedule elective outpatient ligation of spermatic veins",
+        "D": "Torsion of appendix testis; prescribe oral ibuprofen & scrotal elevation",
+        "E": "Testicular seminoma; perform emergency radical inguinal orchiectomy"
+      },
+      "correct_option": "B",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What physical examination finding ('Prehn|'s Sign') differentiates Acute Epididymitis from Testicular Torsion?",
+      "options": {
+        "A": "Torsion pain is completely relieved by deep palpation of femoral artery",
+        "B": "Epididymitis causes an immediate loss of contralateral cremasteric reflex",
+        "C": "Scrotal elevation RELIEVES pain in Epididymitis (+ Prehn), but does NOT relieve pain in Torsion (- Prehn)",
+        "D": "Both conditions display identical complete pain resolution upon elevation",
+        "E": "Elevation of hemiscrotum triggers immediate ipsilateral pupillary dilation"
+      },
+      "correct_option": "C",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Why is Bilateral Orchiopexy mandatory during emergency surgical exploration for unilateral Testicular Torsion?",
+      "options": {
+        "A": "Torsion is an infectious bacterial process spreading via scrotal lymphatics",
+        "B": "Fixing the contralateral normal testis stimulates massive testosterone synthesis",
+        "C": "The contralateral testis invariably undergoes spontaneous necrosis in 24 hours",
+        "D": "The anatomical predisposing anomaly ('Bell-Clapper Deformity') is almost universally BILATERAL",
+        "E": "Bilateral fixation prevents future development of benign prostatic hyperplasia"
+      },
+      "correct_option": "D",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Fournier|'s Gangrene is a life-threatening urological emergency defined as which pathological entity?",
+      "options": {
+        "A": "Benign viral papilloma involving the glans penis and coronal sulcus",
+        "B": "Autoimmune sclerosing fibrosis of the retroperitoneal compartment",
+        "C": "Localized allergic contact dermatitis responding to topical hydrocortisone",
+        "D": "Pure fungal infection of the urinary bladder urothelium in athletes",
+        "E": "Rapidly progressive, polymicrobial Necrotizing Fasciitis of perineum and external genitalia"
+      },
+      "correct_option": "E",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "How is Ischemic (Low-Flow) Priapism differentiated from Non-Ischemic Priapism upon corporal blood aspiration?",
+      "options": {
+        "A": "Ischemic: bright red arterial blood, normal pH >7.40; Non-ischemic: dark venous blood",
+        "B": "Ischemic: rigid, painful, Dark Hypoxic/Acidotic blood (pH <7.25); Non-ischemic: painless, Bright Red blood",
+        "C": "Ischemic priapism occurs exclusively in neonates following circumcision",
+        "D": "Non-ischemic priapism leads to complete cavernous tissue necrosis in 4 hours",
+        "E": "Both types have identical neutral cavernous blood gas values and painless courses"
+      },
+      "correct_option": "B",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the immediate pharmacological intervention for persistent Ischemic Priapism after corporal aspiration?",
+      "options": {
+        "A": "Intracorporal injection of high-dose sodium nitroprusside vasodilator",
+        "B": "Intramuscular injection of broad-spectrum cephalosporins",
+        "C": "Intracorporal Alpha-1 Agonist (Phenylephrine titrated every 3-5 min) to contract cavernous muscle",
+        "D": "Intravenous bolus of unfractionated heparin and tissue plasminogen activator",
+        "E": "Intracorporal injection of high-potency topical hydrocortisone"
+      },
+      "correct_option": "C",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "A 28-year-old male reports an audible 'pop' during intercourse, followed by severe pain, detumescence, and 'Eggplant Deformity'. Diagnosis?",
+      "options": {
+        "A": "Superficial penile contusion; managed conservatively with ice packs and NSAIDs",
+        "B": "Peyroniel's disease acute exacerbation; treated with oral vitamin E therapy",
+        "C": "Gonococcal acute anterior urethritis; treated with intramuscular ceftriaxone",
+        "D": "Penile Fracture (Rupture of Tunica Albuginea); requires Emergent Surgical Suture Repair",
+        "E": "High-flow priapism; treated with emergency selective embolization"
+      },
+      "correct_option": "D",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In blunt trauma, how is Intraperitoneal Bladder Rupture differentiated from Extraperitoneal Rupture on cystography?",
+      "options": {
+        "A": "Intraperitoneal: contrast confined to Retzius space; Extraperitoneal: outlines liver capsule",
+        "B": "Intraperitoneal rupture occurs exclusively in patients with empty bladders",
+        "C": "Extraperitoneal rupture requires emergency open peritoneal lavage and splenectomy",
+        "D": "Both types display identical diffuse clouding confined strictly to the scrotum",
+        "E": "Intraperitoneal: contrast outlines bowel loops (Emergent Laparotomy); Extraperitoneal: pelvic 'flame' extravasation (Catheter)"
+      },
+      "correct_option": "E",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 56-year-old diabetic female has right flank pain, fever (39.5°C), BP 80/48, and a 7-mm obstructing UPJ stone with hydronephrosis. Management?",
+      "options": {
+        "A": "IV Resuscitation, Broad-Spectrum Antibiotics (Meropenem), and Urgent Decompression (PCN or DJ Stent)",
+        "B": "Schedule outpatient shock wave lithotripsy (ESWL) for next week",
+        "C": "Immediate open right radical nephrectomy under general anesthesia",
+        "D": "Perform immediate rigid ureteroscopy and laser stone fragmentation",
+        "E": "Administer high-dose oral tamsulosin and discharge with oral hydration"
+      },
+      "correct_option": "A",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 15-year-old male has acute right testicular pain (2h), horizontal high-riding testis, and absent cremasteric reflex. Management?",
+      "options": {
+        "A": "Obtain an elective outpatient scrotal MRI and prescribe oral amoxicillin",
+        "B": "Immediate Emergency Scrotal Exploration with Detorsion & Bilateral Orchiopexy (<6 hours)",
+        "C": "Perform manual detorsion and discharge home without surgery if pain",
+        "D": "Initiate high-dose intravenous corticosteroids for acute mumps orchitis",
+        "E": "Apply scrotal ice packs and observe in the pediatric ward for 24 hours"
+      },
+      "correct_option": "B",
+      "explanation": "**Randall's plaques (apatite in Henle loops).**: Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric\n\n**Envelopes (dihydrate) vs dumbbells**: hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:",
+      "masterclass_id": 42,
+      "masterclass_title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    }
+  ]
+}

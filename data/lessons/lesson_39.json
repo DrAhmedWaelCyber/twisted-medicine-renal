@@ -1,0 +1,877 @@
+{
+  "id": 39,
+  "title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+  "department": "Clinical Nephrology & Urology",
+  "department_desc": "Clinical approach, AKI, dialysis, nephrotic/nephritic syndrome, renovascular hypertension, cystics and oncology",
+  "booklet_pages": "Pages 153 - 156",
+  "pdf_pages": [
+    155,
+    156,
+    157,
+    158
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 40 - HIGH-YIELD RENAL VASCULAR DISEASES MATRIX",
+  "summary_table": [
+    {
+      "domain": "Young/middle-aged females",
+      "content": "Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia."
+    },
+    {
+      "domain": "Fibromuscular",
+      "content": "Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting"
+    },
+    {
+      "domain": "Dysplasia",
+      "content": "'String-of-Beads'. (curative)."
+    },
+    {
+      "domain": "Renal Vein Thrombosis Membranous Nephropathy (#1",
+      "content": "Acute thrombus occluding main renal vein. Acute: Flank pain, gross hematuria, tender enlarged Doppler US: reversed arterial diastolic flow."
+    },
+    {
+      "domain": "(RVT)",
+      "content": "kidney."
+    },
+    {
+      "domain": "cause).",
+      "content": "Left RVT causes non-collapsing Varicocele. Rx:"
+    },
+    {
+      "domain": "dehydration in infants.",
+      "content": "Anticoagulation. Vascular: Fibrinoid Necrosis & 'Onion-Skin' |"
+    },
+    {
+      "domain": "Malignant",
+      "content": "Papilledema, encephalopathy, AKI, microangiopathic hemolytic anemia."
+    },
+    {
+      "domain": "(>180/120 mmHg) with acute",
+      "content": "hyperplastic arteriolosclerosis. Gross:"
+    },
+    {
+      "domain": "Nephrosclerosis",
+      "content": "'Flea-Bitten'."
+    },
+    {
+      "domain": "target organ damage.",
+      "content": "Rx: IV Nicardipine/Labetalol (reduce MAP 20-25% in 1st hour)."
+    },
+    {
+      "domain": "Atheroembolism:",
+      "content": "Atheroemboli: Biconvex 'Cholesterol Clefts' + Atheroemboli: Livedo reticularis, blue toes, worsening Cr."
+    },
+    {
+      "domain": "Disease & Nutcracker",
+      "content": "eosinophilia."
+    },
+    {
+      "domain": "Post-angiography in older men.",
+      "content": "Rx: Supportive. Nutcracker: Compression with pelvic Nutcracker: Left flank pain, hematuria, pelvic congestion."
+    },
+    {
+      "domain": "entrapment (Aorta/SMA).",
+      "content": "collateral varices."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the single most common cause of Renovascular Hypertension, accounting for ~80% to 90% of cases in older adults (>50 years)?",
+      "options": {
+        "A": "Atherosclerotic Renal Artery Stenosis (ARAS)",
+        "B": "Fibromuscular Dysplasia (FMD)",
+        "C": "Renal vein thrombosis",
+        "D": "Polyarteritis nodosa",
+        "E": "Takayasu arteritis"
+      },
+      "correct_option": "A",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Anatomically, where does Atherosclerotic Renal Artery Stenosis predominantly localize along the course of the main renal artery?",
+      "options": {
+        "A": "Distal third and intrarenal segmental branches exclusively",
+        "B": "Proximal 1-2 cm (ostial or para-ostial segment) at the aortic junction",
+        "C": "Mid-portion of the main renal artery sparing the ostium",
+        "D": "Arcuate arteries at the corticomedullary junction",
+        "E": "Interlobular arterioles in the renal cortex"
+      },
+      "correct_option": "B",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which demographic group and renal artery anatomical segment are characteristically affected by Fibromuscular Dysplasia (FMD)?",
+      "options": {
+        "A": "Elderly males (>70 years); proximal ostial renal artery",
+        "B": "Infants under 1 year; renal capsular arterioles exclusively",
+        "C": "Young-to-middle-aged females (15-50 years); middle and distal main renal artery",
+        "D": "Diabetic males with heavy smoking; hilar bifurcation",
+        "E": "Postmenopausal females; renal cortical petechiae"
+      },
+      "correct_option": "C",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What pathognomonic angiographic feature characterizes the medial fibroplasia subtype of Fibromuscular Dysplasia on renal angiography?",
+      "options": {
+        "A": "'Pruned-tree' total absence of intrarenal arborization",
+        "B": "'Corkscrew' collateral vessels bypassing the femoral vein",
+        "C": "'Lead-pipe' rigid calcified conduit",
+        "D": "'String-of-Beads' appearance (alternating stenosis and aneurysmal ectasia)",
+        "E": "'Wire-loop' capillary wall thickening"
+      },
+      "correct_option": "D",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which histological subtype of Fibromuscular Dysplasia is the most common (~80-85%) in clinical practice?",
+      "options": {
+        "A": "Intimal fibroplasia with concentric lumen narrowing",
+        "B": "Perimedial fibroplasia with outer adventitial cuffs",
+        "C": "Giant cell arteritis with Langhans multinucleated cells",
+        "D": "Periarteritis nodosa with transmural fibrinoid necrosis",
+        "E": "Medial Fibroplasia with loss of internal elastic lamina and fibrous ridges"
+      },
+      "correct_option": "E",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In the experimental Goldblatt 'Two-Kidney, One-Clip' model of unilateral renal artery stenosis, what maintains the hypertension?",
+      "options": {
+        "A": "Massive total body sodium overload and volume expansion",
+        "B": "High Renin and Angiotensin Il secreted by the clipped ischemic kidney",
+        "C": "Complete destruction of both adrenal medullae",
+        "D": "Excessive excretion of atrial natriuretic peptide (ANP)",
+        "E": "Autonomous hypersecretion of parathyroid hormone"
+      },
+      "correct_option": "B",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In unilateral renal artery stenosis, how does the contralateral (unstenosed) non-clipped kidney respond physiologically?",
+      "options": {
+        "A": "Suppresses renin secretion and undergoes pressure natriuresis",
+        "B": "Hypersecretes renin and develops ischemic cortical atrophy",
+        "C": "Develops complete hydronephrosis with ureteral dilation",
+        "D": "Stops glomerular filtration completely while concentrating potassium",
+        "E": "Develops massive compensatory erythropoietin synthesis"
+      },
+      "correct_option": "A",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In the Goldblatt 'One-Kidney, One-Clip' model (or bilateral RAS), what primary mechanism sustains chronic hypertension?",
+      "options": {
+        "A": "Persistent hyperreninemic vasoconstriction without volume expansion",
+        "B": "Massive urinary potassium wasting with normal blood volume",
+        "C": "Sodium and Volume Retention (plasma expansion) with low/normal renin",
+        "D": "Direct central nervous system sympathetic ablation",
+        "E": "Ectopic calcitonin production by tubular cells"
+      },
+      "correct_option": "C",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Why does significant unilateral renal artery stenosis characteristically lead to Secondary Hyperaldosteronism with Hypokalemic Alkalosis?",
+      "options": {
+        "A": "Persistent metabolic lactic acidosis triggering renal ammonia loss",
+        "B": "Direct bacterial synthesis of aldosterone in the renal pelvis",
+        "C": "Loss of distal tubule potassium secretory channels",
+        "D": "Angiotensin II stimulates aldosterone secretion from adrenal zona glomerulosa",
+        "E": "Excessive gastrointestinal absorption of elemental potassium"
+      },
+      "correct_option": "D",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What clinical physical examination finding strongly suggests Renovascular Hypertension in a severe hypertensive patient?",
+      "options": {
+        "A": "Pulsatile expansile swelling of the thyroid gland",
+        "B": "A loud holosystolic murmur maximal at the cardiac apex",
+        "C": "Continuous machinery murmur at the left second intercostal space",
+        "D": "Prominent pericardial friction rub along the left sternal border",
+        "E": "A systolic-diastolic epigastric / flank vascular bruit with lateral radiation"
+      },
+      "correct_option": "E",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Why do ACE inhibitors and ARBs cause an acute decline in GFR in patients with Bilateral Renal Artery Stenosis (or solitary kidney RAS)?",
+      "options": {
+        "A": "They dilate the efferent arteriole, abolishing Ang II-mediated glomerular pressure",
+        "B": "They cause severe spasm of the afferent arteriole",
+        "C": "They precipitate inside collecting ducts forming obstructive casts",
+        "D": "They directly lyse glomerular podocytes via complement activation",
+        "E": "They stimulate massive thromboxane A2 release from platelets"
+      },
+      "correct_option": "A",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In clinical practice, what rise in serum creatinine upon starting an ACE inhibitor or ARB strongly alerts the clinician to occult bilateral RAS?",
+      "options": {
+        "A": "A transient rise of exactly 0.05 mg/dL resolving spontaneously",
+        "B": "A rise in serum creatinine > 30% from baseline within 1 to 2 weeks",
+        "C": "A decrease in serum creatinine by 50% with polyuria",
+        "D": "A rise in serum creatinine strictly after 5 years of therapy",
+        "E": "Zero change in creatinine with isolated glucosuria"
+      },
+      "correct_option": "B",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What is 'Pickering Syndrome' (Flash Pulmonary Edema) in the context of renovascular disease?",
+      "options": {
+        "A": "Acute pulmonary embolism originating from the renal vein",
+        "B": "Massive bacterial pneumonia secondary to Klebsiella urosepsis",
+        "C": "Recurrent abrupt pulmonary edema in bilateral RAS despite normal LV systolic function",
+        "D": "Fatal allergic bronchospasm triggered by intravenous contrast",
+        "E": "High-altitude pulmonary edema occurring in mountaineers"
+      },
+      "correct_option": "C",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which of the following clinical scenarios should trigger clinical suspicion for Renovascular Hypertension EXCEPT:",
+      "options": {
+        "A": "Severe HTN onset before age 30 (females) or after age 55",
+        "B": "Refractory HTN resistant to >=3 drugs including a diuretic",
+        "C": "Unexplained atrophic kidney or >1.5 cm size asymmetry on US",
+        "D": "Mild stage 1 hypertension in an overweight 40-year-old",
+        "E": "Acute renal failure precipitated by an ACE inhibitor or ARB"
+      },
+      "correct_option": "E",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "On Renal Duplex Ultrasound, which parameter indicates hemodynamically significant (>60%) renal artery stenosis?",
+      "options": {
+        "A": "Peak Systolic Velocity (PSV) > 180-200 cm/s & Renal-Aortic Ratio",
+        "B": "End-diastolic velocity of exactly zero in the main aorta",
+        "C": "Resistive Index (RI) < 0.20 in intrarenal segmental arteries",
+        "D": "Complete absence of blood flow in the inferior vena cava",
+        "E": "Bilateral renal resistive index of 1.0 with zero systolic wave"
+      },
+      "correct_option": "A",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What is the physiological principle of Captopril Renal Scintigraphy in screening for renovascular hypertension?",
+      "options": {
+        "A": "Captopril permanently destroys tubular uptake of inulin",
+        "B": "Captopril enhances tracer uptake by 500% in the stenotic kidney",
+        "C": "Captopril induces marked fall in GFR and tracer excretion in stenotic",
+        "D": "Captopril causes immediate precipitation of technetium in ureter",
+        "E": "Captopril prevents tracer filtration by the contralateral kidney"
+      },
+      "correct_option": "C",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In selective Renal Vein Renin Sampling (RVRS), what ratio of renal vein renin between ischemic and contralateral kidney confirms lateralization?",
+      "options": {
+        "A": "Zero detectable renin in both renal veins",
+        "B": "Renal vein renin ratio of exactly 1.0 (equal concentrations)",
+        "C": "Renal vein renin ratio < 0.5 with high peripheral aldosterone",
+        "D": "Renal vein renin ratio (ischemic to non-ischemic) >= 1.5",
+        "E": "Renal vein renin ratio > 20.0 with profound hyperkalemia"
+      },
+      "correct_option": "D",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the primary intervention of choice for significant renal artery stenosis caused by Fibromuscular Dysplasia (FMD)?",
+      "options": {
+        "A": "Immediate open surgical nephrectomy of the affected kidney",
+        "B": "Lifelong systemic anticoagulation with warfarin alone",
+        "C": "High-dose intravenous methylprednisolone pulse therapy",
+        "D": "Endovascular placement of balloon-expandable metallic stents",
+        "E": "Balloon Angioplasty (PTRA) without routine stenting (curative in young)"
+      },
+      "correct_option": "E",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Based on major randomized controlled trials (ASTRAL and CORAL), what is the primary management strategy for Atherosclerotic RAS?",
+      "options": {
+        "A": "Routine renal artery stenting for all patients regardless of symptoms",
+        "B": "Medical Therapy (antihypertensives, statin, aspirin); stenting if refractory",
+        "C": "Emergency bilateral surgical renal revascularization within 48h",
+        "D": "Lifelong peritoneal dialysis with fluid restriction",
+        "E": "Bilateral surgical renal sympathetic denervation alone"
+      },
+      "correct_option": "B",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which glomerular disorder is most frequently complicated by Renal Vein Thrombosis (RVT) due to profound hypercoagulability?",
+      "options": {
+        "A": "Membranous Nephropathy (up to 30-40% incidence)",
+        "B": "Minimal Change Disease in children",
+        "C": "Post-streptococcal acute glomerulonephritis",
+        "D": "Benign thin basement membrane disease",
+        "E": "Alport syndrome with sensorineural deafness"
+      },
+      "correct_option": "A",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What is the non-invasive imaging modality of choice for confirming acute or chronic Renal Vein Thrombosis?",
+      "options": {
+        "A": "Radionuclide bone scan using Tc-99m MDP",
+        "B": "Plain abdominal radiograph (KUB)",
+        "C": "Retrograde pyelography under fluoroscopy",
+        "D": "Renal Doppler Ultrasound (demonstrating reversed diastolic flow and absent venous signal)",
+        "E": "Diagnostic peritoneal lavage"
+      },
+      "correct_option": "D",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Why does thrombosis of the LEFT renal vein characteristically produce a new-onset, non-collapsing Varicocele in male patients?",
+      "options": {
+        "A": "The left testicular vein drains directly into the internal iliac vein",
+        "B": "Left testicular artery originates from the splenic artery",
+        "C": "Right testicular vein lacks valves while left has multiple valves",
+        "D": "Left renal vein passes posterior to the abdominal aorta",
+        "E": "Left testicular vein drains at a right angle into the left renal vein"
+      },
+      "correct_option": "E",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What is the definitive medical management for acute Renal Vein Thrombosis to prevent pulmonary embolism and preserve renal function?",
+      "options": {
+        "A": "Therapeutic Anticoagulation (initial Heparin / LMWH followed by Warfarin or DOAC for >=3-6 months)",
+        "B": "High-dose aspirin 81 mg once monthly",
+        "C": "Immediate emergency bilateral nephrectomy",
+        "D": "Induction of systemic hypotension using sodium nitroprusside",
+        "E": "Prophylactic hemodialysis without anticoagulation"
+      },
+      "correct_option": "A",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the classic diagnostic clinical threshold defining a Hypertensive Emergency (Malignant Hypertension)?",
+      "options": {
+        "A": "Blood pressure of 145/95 mmHg without any target organ damage",
+        "B": "Severe BP (>180/120 mmHg) WITH acute target organ damage (papilledema, AKI)",
+        "C": "Isolated elevation of systolic BP to 160 mmHg in an athlete",
+        "D": "Any blood pressure elevation accompanied by acute urticaria",
+        "E": "Blood pressure dropping below 90/60 mmHg following exercise"
+      },
+      "correct_option": "E",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Histopathologically, what two vascular lesions are pathognomonic of Malignant Nephrosclerosis in renal biopsy?",
+      "options": {
+        "A": "Subepithelial amyloid fibrils with apple-green birefringence",
+        "B": "Hyaline arteriolosclerosis and nodular glomerulosclerosis",
+        "C": "Fibrinoid Necrosis and 'Onion-Skin' hyperplastic arteriolosclerosis",
+        "D": "Complete necrosis of parietal podocytes with crescents",
+        "E": "Dense calcification of internal elastic lamina (Mönckeberg)"
+      },
+      "correct_option": "E",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What characteristic gross pathological appearance is observed on the subcapsular cortical surface in Malignant Nephrosclerosis?",
+      "options": {
+        "A": "'Polycystic' transformation with innumerable berry cysts",
+        "B": "'Big White' Kidney with massive cortical lipid accumulation",
+        "C": "'Staghorn' dendritic calculus casting the calyces",
+        "D": "'Flea-Bitten' Kidney (multiple petechial hemorrhages due to arteriolar rupture)",
+        "E": "'Mahogany brown' cortex with central stellate scar"
+      },
+      "correct_option": "E",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which clinical scenario characteristically triggers Atheroembolic Renal Disease (Cholesterol Crystal Embolization)?",
+      "options": {
+        "A": "Prolonged immobilization in a fiberglass leg cast",
+        "B": "Invasive endovascular procedures (e.g., cardiac catheterization/aortography) in older patients with atherosclerosis",
+        "C": "Vigorous competitive marathon running in cold weather",
+        "D": "Primary hyperaldosteronism following adrenal surgery",
+        "E": "Acute streptococcal pharyngitis in a child"
+      },
+      "correct_option": "B",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "What pathognomonic finding on renal biopsy or peripheral blood smear confirms Atheroembolic Renal Disease?",
+      "options": {
+        "A": "Biconvex, needle-shaped 'Cholesterol Clefts' (ghosts) occluding arcuate arterioles, accompanied by peripheral eosinophilia",
+        "B": "Round, uniform biconcave RBCs with high serum ferritin",
+        "C": "Abundant Tamm-Horsfall cast matrix packed with eosinophils",
+        "D": "Positive direct Coombs test with Heinz bodies",
+        "E": "Extensive intramembranous ribbon deposits of C3"
+      },
+      "correct_option": "A",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is Scleroderma Renal Crisis (SRC), and what life-saving antihypertensive class MUST be immediately administered?",
+      "options": {
+        "A": "Massive painless proteinuria; treated with intravenous cyclophosphamide",
+        "B": "Severe hypotension and hyperkalemia; treated with IV vasopressin",
+        "C": "Abrupt severe HTN, hyperreninemia, oliguric AKI; treated with prompt ACEi",
+        "D": "Acute renal cortical infarction; treated with immediate tPA",
+        "E": "Renal allograft rejection; treated with anti-thymocyte globulin"
+      },
+      "correct_option": "C",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In systemic Polyarteritis Nodosa (PAN), what vascular lesions affect medium renal arteries, and what virus is associated?",
+      "options": {
+        "A": "Granulomatous arteritis of the aorta; associated with CMV",
+        "B": "Pure endothelial swelling without aneurysms; associated with HAV",
+        "C": "Superficial mucosal ulceration; associated with Norovirus",
+        "D": "Necrotizing vasculitis with microaneurysms; linked to Hepatitis B (HBV)",
+        "E": "Linear IgG anti-GBM deposition; associated with EBV"
+      },
+      "correct_option": "D",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the typical clinical presentation and source of Acute Renal Infarction in an adult?",
+      "options": {
+        "A": "Nocturnal enuresis and thirst; caused by central diabetes insipidus",
+        "B": "Painless polyuria with normal serum enzymes; from chronic UTI",
+        "C": "Gradual painless weight loss with palpable flank mass",
+        "D": "Bilateral pedal edema with hypercalcemia; from hyperparathyroidism",
+        "E": "Acute flank pain, hematuria, elevated LDH; embolism from Atrial"
+      },
+      "correct_option": "E",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What pathognomonic sign on Contrast-Enhanced CT imaging definitively confirms acute wedge-shaped Renal Infarction?",
+      "options": {
+        "A": "Wedge-shaped hypodense perfusion defect with a preserved subcapsular enhancing rim ('Cortical Rim Sign')",
+        "B": "Diffuse hyperdense enhancement of all medullary pyramids",
+        "C": "Large fluid-filled multilocular mass replacing the renal pelvis",
+        "D": "Innumerable punctate microcalcifications throughout the",
+        "E": "Complete bilateral air crescent filling the calyces"
+      },
+      "correct_option": "A",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the 'Page Kidney' phenomenon in clinical nephrology?",
+      "options": {
+        "A": "Idiopathic hypertrophy of the contralateral solitary kidney",
+        "B": "Congenital failure of one kidney to ascend into the lumbar fossa",
+        "C": "Hypertension resulting from external subcapsular compression (e.g., subcapsular hematoma) causing diffuse renal hypoperfusion and renin hypersecretion",
+        "D": "Infiltration of the renal interstitium by leukemic blast cells",
+        "E": "Calcification of the renal papillae secondary to distal RTA"
+      },
+      "correct_option": "C",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which pharmacological regimen forms the core medical therapy for stable Atherosclerotic Renovascular Disease?",
+      "options": {
+        "A": "Warfarin anticoagulation targeting INR 3.5 to 4.5",
+        "B": "High-dose loop diuretics and fluid restriction without statin",
+        "C": "Lifelong systemic corticosteroid pulse therapy",
+        "D": "Antihypertensive agents (including ACEi/ARB in unilateral RAS), high-intensity Statin, and low-dose Aspirin",
+        "E": "Broad-spectrum oral fluoroquinolones for 6 months"
+      },
+      "correct_option": "D",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In Atherosclerotic RAS, which clinical presentation represents a clear, guideline-supported indication for Renal Angioplasty and Stenting?",
+      "options": {
+        "A": "Mild asymptomatic 30% renal artery narrowing on screening CT",
+        "B": "Transient microscopic hematuria following vigorous exercise",
+        "C": "Normotensive patient with stable unilateral ostial plaque",
+        "D": "Small shrunken kidney (<7 cm) with long-standing fibrosis",
+        "E": "Recurrent Flash Pulmonary Edema, refractory HTN, or rapid GFR decline"
+      },
+      "correct_option": "E",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "What is the recommended target blood pressure in medically treated Renovascular Hypertension?",
+      "options": {
+        "A": "Strictly between 160 and 180 mmHg systolic to maintain perfusion",
+        "B": "< 130/80 mmHg (or < 120 mmHg systolic per KDIGO when tolerated)",
+        "C": "< 90/50 mmHg with continuous intravenous saline",
+        "D": "Diastolic blood pressure above 100 mmg in all age groups",
+        "E": "Blood pressure should never be lowered medically in RVH"
+      },
+      "correct_option": "B",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A 28-year-old female presents with severe HTN (175/105), right epigastric bruit, and hypokalemia (K+ 3.1). Duplex shows high right renal velocity. MRA shows 'string-of-beads' sign. Diagnosis and first-line definitive therapy:",
+      "options": {
+        "A": "Fibromuscular Dysplasia (FMD); balloon angioplasty (PTRA) without stenting",
+        "B": "Atherosclerotic Renal Stenosis; metallic stent placement",
+        "C": "Primary Hyperaldosteronism; laparoscopic right adrenalectomy",
+        "D": "Essential Hypertension; oral hydrochlorothiazide monotherapy",
+        "E": "Pheochromocytoma; surgical excision preceded by alpha-blockade"
+      },
+      "correct_option": "E",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 68-year-old male with severe peripheral vascular disease presents with recurrent Flash Pulmonary Edema. BP is 210/115. Creatinine rose from 1.3 to 2.8 after starting lisinopril. US shows kidney asymmetry (8.2 vs 11.5 cm). Diagnosis and management:",
+      "options": {
+        "A": "Bilateral ureteral obstruction; bilateral nephrostomy tube placement",
+        "B": "Acute Myocardial Infarction; emergent coronary bypass grafting",
+        "C": "Scleroderma Renal Crisis; high-dose captopril and hemodialysis",
+        "D": "Acute Glomerulonephritis; high-dose intravenous cyclophosphamide",
+        "E": "Pickering Syndrome (Bilateral ARAS); emergent renal stenting & stop ACEi"
+      },
+      "correct_option": "E",
+      "explanation": "**Young/middle-aged females**: Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia.\n\n**Fibromuscular**: Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting",
+      "masterclass_id": 39,
+      "masterclass_title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology"
+    }
+  ]
+}

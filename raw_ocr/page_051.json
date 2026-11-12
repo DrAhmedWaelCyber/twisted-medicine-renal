@@ -1,0 +1,997 @@
+{
+  "page" : 51,
+  "items" : [
+    {
+      "text" : "Twisted Medicine • Renal System Module • Lecture 13 MCQ Masterclass",
+      "x" : 0.2829021543249144,
+      "w" : 0.5002175097195608,
+      "y" : 0.976628545134222,
+      "h" : 0.014894558588663731,
+      "conf" : 1
+    },
+    {
+      "text" : "Twisted Medicine Medical Series • Countercurrent Multiplier, Exchanger, Urea Recycling & Water Balance • Standard Practice Bank",
+      "x" : 0.3816872515174895,
+      "w" : 0.6975308304312845,
+      "y" : 0.9651162791424419,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "Page 1 of 4",
+      "x" : 0.9341563783423423,
+      "w" : 0.07005990826108921,
+      "y" : 0.9760174417345855,
+      "h" : 0.010527050230238144,
+      "conf" : 1
+    },
+    {
+      "text" : "13. THE COUNTERCURRENT MULTIPLYING & EXCHANGING SYSTEMS - PHYSIOLOGY LECTURE",
+      "x" : 0.49897118627572024,
+      "w" : 0.7716049098368709,
+      "y" : 0.9440406975436046,
+      "h" : 0.013081394831339521,
+      "conf" : 1
+    },
+    {
+      "text" : "Twisted Medicine Physiology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "x" : 0.5010288053840879,
+      "w" : 0.5781892980419614,
+      "y" : 0.9244412144859491,
+      "h" : 0.011673126220703156,
+      "conf" : 1
+    },
+    {
+      "text" : "Q01. [2025 Exam] The primary anatomical structures acting as the",
+      "x" : 0.24588476833847753,
+      "w" : 0.42592592059441337,
+      "y" : 0.9033430232013082,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "Countercurrent Multipliers responsible for establishing the medullary",
+      "x" : 0.2561728459876541,
+      "w" : 0.44650206175990076,
+      "y" : 0.8909883722868217,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "text" : "osmotic gradient are:",
+      "x" : 0.10288065668724286,
+      "w" : 0.13991769754661704,
+      "y" : 0.8771802324672966,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] The long hairpin Loops of Henle of juxtamedullary nephrons",
+      "x" : 0.21707819036351161,
+      "w" : 0.36831273972613254,
+      "y" : 0.8626388889229274,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] The convoluted peritubular capillary network of cortical nephrons",
+      "x" : 0.2325102930555554,
+      "w" : 0.39917695147436366,
+      "y" : 0.8495833332646254,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] The cortical connecting tubules and macula densa plaques",
+      "x" : 0.21502058068415625,
+      "w" : 0.3641975210897577,
+      "y" : 0.8365277777213912,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] The arcuate and interlobular veins in the renal cortex",
+      "x" : 0.19650206306584345,
+      "w" : 0.3271604813869644,
+      "y" : 0.8241666666011436,
+      "h" : 0.008888888623979296,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] The fibrous capsule and perirenal fat of Gerota",
+      "x" : 0.17695472885802482,
+      "w" : 0.2921810510023585,
+      "y" : 0.8103197673873546,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "Q02. [2024 Exam] What is the normal longitudinal corticomedullary",
+      "x" : 0.247942382330247,
+      "w" : 0.4300411392307881,
+      "y" : 0.7819509042608828,
+      "h" : 0.011679586304558676,
+      "conf" : 1
+    },
+    {
+      "text" : "osmotic gradient from the renal cortex to the tip of the renal papilla in",
+      "x" : 0.2572016505761316,
+      "w" : 0.44855964708628143,
+      "y" : 0.7681944445294403,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "a healthy dehydrated adult?",
+      "x" : 0.12242798174897121,
+      "w" : 0.1790123465675978,
+      "y" : 0.7551388888408572,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] 100 mOsm\/kg at the cortex to 300 mOsm\/kg at the papilla",
+      "x" : 0.21296296656378594,
+      "w" : 0.36008230245338296,
+      "y" : 0.7405523256540698,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] 300 mOsm\/kg at the corticomedullary junction up to ~1200-1400",
+      "x" : 0.2345678978737998,
+      "w" : 0.40329219410254524,
+      "y" : 0.7274709301719962,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "mOsm\/kg at the papillary tip",
+      "x" : 0.11625514194958853,
+      "w" : 0.16666666666666666,
+      "y" : 0.7151162789970931,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Iso-osmotic 300 mOsm\/kg uniformly throughout cortex and medulla",
+      "x" : 0.24176955428669392,
+      "w" : 0.41769543533805037,
+      "y" : 0.7027616279796511,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] 1200 mOsm\/kg at the cortex falling to 100 mOsm\/kg at the papilla",
+      "x" : 0.23662551949588467,
+      "w" : 0.40740741273892006,
+      "y" : 0.6896802326126454,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] 600 mOsm\/kg at the cortex rising to 5000 mOsm\/kg at the papilla",
+      "x" : 0.23353909866255135,
+      "w" : 0.40123456079255104,
+      "y" : 0.676537467809897,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "text" : "Q03. [2023 Exam] The 'Single Effect' (horizontal gradient) generated",
+      "x" : 0.2520576076903293,
+      "w" : 0.4382715765035377,
+      "y" : 0.659951550678403,
+      "h" : 0.011763565805223308,
+      "conf" : 1
+    },
+    {
+      "text" : "at each level along the Thick Ascending Limb of Henle achieves a",
+      "x" : 0.24382716354595327,
+      "w" : 0.42181070195803855,
+      "y" : 0.6468023257751938,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "text" : "maximum osmotic difference of:",
+      "x" : 0.13888888528806598,
+      "w" : 0.2160493862703911,
+      "y" : 0.6337209301356588,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] ~20 mOsm\/kg",
+      "x" : 0.08641975493827155,
+      "w" : 0.11111110711247665,
+      "y" : 0.6184722220361478,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] ~1200 mOsm\/kg",
+      "x" : 0.09259259413580243,
+      "w" : 0.12345678701340779,
+      "y" : 0.605416666474745,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] ~200 m0sm\/kg (between tubular fluid and medullary interstitium)",
+      "x" : 0.23353909870370365,
+      "w" : 0.40534977942892597,
+      "y" : 0.5923546511307334,
+      "h" : 0.01029069741566968,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Zero (complete osmotic equilibrium across TAL)",
+      "x" : 0.18415638371056225,
+      "w" : 0.306584340221477,
+      "y" : 0.5792151163517443,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] ~600 mOsm\/kg",
+      "x" : 0.08747176689679304,
+      "w" : 0.11774992792861266,
+      "y" : 0.5669206858025104,
+      "h" : 0.011989237467447844,
+      "conf" : 1
+    },
+    {
+      "text" : "Q04. [2022 Exam] The Single Effect of the countercurrent multiplier is",
+      "x" : 0.2572016404835393,
+      "w" : 0.4485596470862815,
+      "y" : 0.5384722222786088,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "driven primarily by which active transport mechanism in the Thick",
+      "x" : 0.24588476940329226,
+      "w" : 0.42592592059441337,
+      "y" : 0.5240277776232807,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "Ascending Limb?",
+      "x" : 0.09053498086419748,
+      "w" : 0.11522633774475483,
+      "y" : 0.5116569769332866,
+      "h" : 0.011686045858595118,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Primary active water pumping into the interstitium",
+      "x" : 0.188271610185185,
+      "w" : 0.3148148014860333,
+      "y" : 0.49636627914244186,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Direct ATP-driven pinocytosis of Tamm-Horsfall protein",
+      "x" : 0.20370370946502042,
+      "w" : 0.34567898924245777,
+      "y" : 0.48401162795542635,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Facilitated diffusion of glucose via basolateral SGLT2",
+      "x" : 0.1975308640603567,
+      "w" : 0.33333333333333337,
+      "y" : 0.47087209266927954,
+      "h" : 0.011744185553656639,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Secondary active reabsorption of Na+, K+, and 2Cl- via apical NKCC2",
+      "x" : 0.2417695525977365,
+      "w" : 0.42181070195803855,
+      "y" : 0.4585755814498547,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "cotransporters",
+      "x" : 0.08230452839506167,
+      "w" : 0.09876542721154555,
+      "y" : 0.4462209303294574,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Passive paracellular urea reabsorption down electrical gradients",
+      "x" : 0.2294238749314126,
+      "w" : 0.3971193181643696,
+      "y" : 0.43386627914244186,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "Q05. [2021 Exam] Regarding water permeability, the Thin Descending",
+      "x" : 0.25617283569958865,
+      "w" : 0.4465020617599008,
+      "y" : 0.4171963827767561,
+      "h" : 0.011718345748053638,
+      "conf" : 1
+    },
+    {
+      "text" : "Limb of Henle (tDLH) is functionally characterized as:",
+      "x" : 0.21296296896433453,
+      "w" : 0.36008230245338296,
+      "y" : 0.40334302337693795,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Impermeable to all solutes and water under all physiological states",
+      "x" : 0.23765432788065816,
+      "w" : 0.41358021670167555,
+      "y" : 0.38875322995442424,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Completely impermeable to water, but actively pumping sodium ions",
+      "x" : 0.2417695543552809,
+      "w" : 0.4218107019580385,
+      "y" : 0.37569444436926247,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Permeable only to lipid-soluble steroid hormones",
+      "x" : 0.18621399565329205,
+      "w" : 0.3106995828496585,
+      "y" : 0.3626388888441968,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] An active secretor of potassium in exchange for hydrogen",
+      "x" : 0.2119341624142659,
+      "w" : 0.36213991177157034,
+      "y" : 0.34958333328279395,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Highly permeable to water (via constitutive Aquaporin-1) and virtually",
+      "x" : 0.24176954310699592,
+      "w" : 0.4218107019580385,
+      "y" : 0.3365277776232807,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "impermeable to NaCl and urea",
+      "x" : 0.12139917469135805,
+      "w" : 0.18106995588578517,
+      "y" : 0.32555555547055975,
+      "h" : 0.008888888888888835,
+      "conf" : 1
+    },
+    {
+      "text" : "Q06. [2020 Exam] As fluid traverses the Thin Descending Limb toward",
+      "x" : 0.25925926680384065,
+      "w" : 0.4526748657226563,
+      "y" : 0.2950193796584689,
+      "h" : 0.011705426110161676,
+      "conf" : 1
+    },
+    {
+      "text" : "the hairpin bend in the presence of medullary hypertonicity, tubular",
+      "x" : 0.25000000542695455,
+      "w" : 0.4341563578671629,
+      "y" : 0.28054909599347766,
+      "h" : 0.011679586304558676,
+      "conf" : 1
+    },
+    {
+      "text" : "fluid osmolality:",
+      "x" : 0.08641975123456797,
+      "w" : 0.11111110711247667,
+      "y" : 0.2681944444325409,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Increases progressively up to ~1200 mOsm\/kg due to passive osmotic",
+      "x" : 0.24897120068587084,
+      "w" : 0.4362139911771571,
+      "y" : 0.252180232630814,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "water abstraction",
+      "x" : 0.08539094468449938,
+      "w" : 0.10905349779428927,
+      "y" : 0.24127906971899227,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Remains constant at 300 mOsm\/kg due to solute secretion",
+      "x" : 0.21399177105624137,
+      "w" : 0.36625513040794516,
+      "y" : 0.22819767422480608,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Decreases progressively down to 50 mOsm\/kg",
+      "x" : 0.17901234197530877,
+      "w" : 0.29629629363054,
+      "y" : 0.2158430232013081,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Drops to zero as all electrolytes are completely reabsorbed",
+      "x" : 0.21399176502057626,
+      "w" : 0.3621399117715704,
+      "y" : 0.20276162785247104,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Oscillates between 100 and 200 mOsm\/kg",
+      "x" : 0.16563786450617268,
+      "w" : 0.27366254314686517,
+      "y" : 0.1896802323885658,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "Q07. [2024 Exam] Unlike the descending limb, the entire Ascending",
+      "x" : 0.24897118909465027,
+      "w" : 0.4320987725407822,
+      "y" : 0.173020025874064,
+      "h" : 0.011737726529439274,
+      "conf" : 1
+    },
+    {
+      "text" : "Limb of Henle (both thin and thick segments) is strictly characterized",
+      "x" : 0.2561728402263374,
+      "w" : 0.4465020617599007,
+      "y" : 0.15995155055727905,
+      "h" : 0.011763565805223308,
+      "conf" : 1
+    },
+    {
+      "text" : "by:",
+      "x" : 0.04423868335390946,
+      "w" : 0.022633744485723147,
+      "y" : 0.14680232563953488,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Massive water reabsorption mediated by Aquaporin-2",
+      "x" : 0.20061728819444435,
+      "w" : 0.33950616128789557,
+      "y" : 0.1315277775975507,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Total impermeability to water, regardless of ADH concentration",
+      "x" : 0.2263374550754456,
+      "w" : 0.39094649020980743,
+      "y" : 0.11847222203614771,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Direct communication with the perirenal space of Gerota",
+      "x" : 0.20781892561728404,
+      "w" : 0.35390945050701406,
+      "y" : 0.1054166668955524,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] High hydraulic conductivity through fenestrated tight junctions",
+      "x" : 0.22325102239369018,
+      "w" : 0.38477363826343847,
+      "y" : 0.09304909583601645,
+      "h" : 0.011679586304558565,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Complete dependence on aldosterone for baseline ion transport",
+      "x" : 0.22736625043724287,
+      "w" : 0.3930040995279948,
+      "y" : 0.08069444458394603,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "Q08. [2022 Exam] Because the Thick Ascending Limb actively",
+      "x" : 0.7170781942644031,
+      "w" : 0.39711934215617617,
+      "y" : 0.9033430233103198,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "reabsorbs NaCl without allowing water to follow, the fluid exiting the",
+      "x" : 0.7366255167695472,
+      "w" : 0.44032920981353185,
+      "y" : 0.8894799739224476,
+      "h" : 0.01173772546980123,
+      "conf" : 1
+    },
+    {
+      "text" : "TAL into the early DCT is:",
+      "x" : 0.6008230462962962,
+      "w" : 0.16460904535257592,
+      "y" : 0.8764114984279623,
+      "h" : 0.011711885664198118,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Hypertonic (~1200 mOsm\/kg)",
+      "x" : 0.6152263398148148,
+      "w" : 0.19341563578671628,
+      "y" : 0.8612467699910699,
+      "h" : 0.010284237861633239,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Iso-osmotic (~300 mOsm\/kg)",
+      "x" : 0.6141975284722223,
+      "w" : 0.19135801447262557,
+      "y" : 0.8495833331556137,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Hypo-osmotic (~100 mOsm\/kg), earning TAL the title 'Diluting Segment'",
+      "x" : 0.7376543166049385,
+      "w" : 0.43827157650353776,
+      "y" : 0.836527777594211,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Devoid of all sodium, potassium, and chloride ions",
+      "x" : 0.6728395033607684,
+      "w" : 0.3127571921678459,
+      "y" : 0.8241569770180734,
+      "h" : 0.011686045858595118,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Completely saturated with precipitated calcium phosphate",
+      "x" : 0.69650205311214,
+      "w" : 0.3600823024533829,
+      "y" : 0.8103197673873546,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "Q09. [2023 Exam] What role does the apical ROMK potassium channel",
+      "x" : 0.7427983583950617,
+      "w" : 0.4485596470862815,
+      "y" : 0.7819509044676528,
+      "h" : 0.011679586834377753,
+      "conf" : 1
+    },
+    {
+      "text" : "play in the Thick Ascending Limb during countercurrent",
+      "x" : 0.6985596767832646,
+      "w" : 0.360082302453383,
+      "y" : 0.7681944445294402,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "multiplication?",
+      "x" : 0.5658436211242579,
+      "w" : 0.09879948957911078,
+      "y" : 0.7543604649228846,
+      "h" : 0.011773144404093383,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] It reabsorbs potassium against chemical gradients into the interstitium",
+      "x" : 0.7335391000257201,
+      "w" : 0.430041139230788,
+      "y" : 0.7405523256359012,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] It secretes potassium into the peritubular capillaries to lower serum K+",
+      "x" : 0.7335390874828536,
+      "w" : 0.4300411392307881,
+      "y" : 0.7274709302083333,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] It binds Tamm-Horsfall protein to trigger macula densa apoptosis",
+      "x" : 0.7191358091563784,
+      "w" : 0.40123456079255104,
+      "y" : 0.71432170540046,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] It recycles K+ back into the lumen, sustaining NKCC2 function and",
+      "x" : 0.7191357957133062,
+      "w" : 0.4053497794289259,
+      "y" : 0.701253229857525,
+      "h" : 0.010284237861633239,
+      "conf" : 1
+    },
+    {
+      "text" : "creating a lumen-positive potential (+8 mV)",
+      "x" : 0.6440329193004115,
+      "w" : 0.25102879266319034,
+      "y" : 0.6896802324854652,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] It acts as an osmotic water pore during severe dehydration",
+      "x" : 0.697530870233196,
+      "w" : 0.36213991177157046,
+      "y" : 0.676537467809897,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "text" : "Q10. [2021 Exam] The transepithelial lumen-positive electrical",
+      "x" : 0.7201646140946502,
+      "w" : 0.40329219410254513,
+      "y" : 0.6599515505951795,
+      "h" : 0.01176356527540423,
+      "conf" : 1
+    },
+    {
+      "text" : "potential (+8 to +10 mV) generated in the Thick Ascending Limb is",
+      "x" : 0.7314814857407408,
+      "w" : 0.42592592059441337,
+      "y" : 0.6460755814680232,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "clinically vital because it:",
+      "x" : 0.6008230480109739,
+      "w" : 0.16460904535257592,
+      "y" : 0.6329295866051785,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Drives active secretion of hydrogen ions into the peritubular blood",
+      "x" : 0.7181069908436215,
+      "w" : 0.40329219410254513,
+      "y" : 0.6184722224387866,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Causes immediate contraction of the internal urethral sphincter",
+      "x" : 0.7129629695130313,
+      "w" : 0.393004099527995,
+      "y" : 0.6054166664929136,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Directly stimulates posterior pituitary secretion of vasopressin",
+      "x" : 0.7088477430384086,
+      "w" : 0.38477363826343836,
+      "y" : 0.5923546511307335,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Blocks all sodium reabsorption across proximal convoluted tubules",
+      "x" : 0.7232510219135805,
+      "w" : 0.41358021670167555,
+      "y" : 0.5799289405138651,
+      "h" : 0.008746769693162681,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Drives paracellular passive reabsorption of divalent cations (Ca2+ and",
+      "x" : 0.7304526802469133,
+      "w" : 0.42798350592079404,
+      "y" : 0.5676388890043746,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "Mg2+)",
+      "x" : 0.5380658432304526,
+      "w" : 0.03909464902098081,
+      "y" : 0.5552325580813954,
+      "h" : 0.00872092988755968,
+      "conf" : 0.5
+    },
+    {
+      "text" : "Q11. 2025 Exam] Why is the countercurrent mechanism termed a",
+      "x" : 0.7294238660836763,
+      "w" : 0.4218107019580385,
+      "y" : 0.5377777778427282,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "text" : "'Multiplier' rather than a simple single-stage exchanger?",
+      "x" : 0.7037037098765428,
+      "w" : 0.37037034904432,
+      "y" : 0.5247222221088221,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Repeated cycles of fluid flow and local 200 mOsm\/kg gradients multiply",
+      "x" : 0.736625507064472,
+      "w" : 0.44032920981353174,
+      "y" : 0.5094476743943799,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "along the vertical length to create a 1200 mOsm\/kg gradient",
+      "x" : 0.6995884834019201,
+      "w" : 0.36213991177157034,
+      "y" : 0.4978197675629845,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] It multiplies red blood cell production tenfold in the outer cortex",
+      "x" : 0.7119341558299039,
+      "w" : 0.39094649020980743,
+      "y" : 0.4847383719234496,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] It synthesizes new water molecules from metabolic glucose oxidation",
+      "x" : 0.7304526820301782,
+      "w" : 0.42798350592079404,
+      "y" : 0.4716569768168605,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] It doubles the glomerular filtration rate with every cardiac cycle",
+      "x" : 0.7109053562757199,
+      "w" : 0.38888888089162,
+      "y" : 0.46002906984011627,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] It increases renal blood flow to 80% of total cardiac output",
+      "x" : 0.697530870233196,
+      "w" : 0.36213991177157046,
+      "y" : 0.44694767449127903,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "Q12. [2020 Exam] Which nephron population is structurally essential",
+      "x" : 0.736625507064472,
+      "w" : 0.44032920981353174,
+      "y" : 0.4164244185804263,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "for generating the deep medullary hypertonic osmotic gradient?",
+      "x" : 0.7222222170781893,
+      "w" : 0.41152263137529477,
+      "y" : 0.40254844947749485,
+      "h" : 0.01176356527540412,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Cortical nephrons with short loops of Henle turning in the outer medulla",
+      "x" : 0.7366255199074072,
+      "w" : 0.44032920981353174,
+      "y" : 0.3887532299362557,
+      "h" : 0.010284237861633239,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Juxtamedullary nephrons with long loops of Henle descending to the",
+      "x" : 0.727366262174211,
+      "w" : 0.4218107019580384,
+      "y" : 0.37569444436926247,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "papillary tip (~15% of nephrons)",
+      "x" : 0.6152263407407407,
+      "w" : 0.19753085442309115,
+      "y" : 0.3633430230561642,
+      "h" : 0.011686046388414195,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Avascular aglomerular nephrons located in the renal capsule",
+      "x" : 0.7037037083847735,
+      "w" : 0.3744855916725015,
+      "y" : 0.35097222242395765,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Superficial cortical nephrons lacking Henle loops entirely",
+      "x" : 0.6923868347942387,
+      "w" : 0.35185184118882673,
+      "y" : 0.3379166668334852,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Intermediate nephrons draining directly into arcuate veins",
+      "x" : 0.6944444488940329,
+      "w" : 0.3559670598252015,
+      "y" : 0.32486111133748913,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "Q13. [Faculty Exam] In the Thin Ascending Limb (tALH), NaCl",
+      "x" : 0.7098765365569275,
+      "w" : 0.3991769514743637,
+      "y" : 0.2950193795131201,
+      "h" : 0.011705426110161676,
+      "conf" : 1
+    },
+    {
+      "text" : "reabsorption occurs primarily via:",
+      "x" : 0.630658440089163,
+      "w" : 0.2325102848076971,
+      "y" : 0.281250000121124,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Primary active transport driven by apical Na+\/K+ ATPase",
+      "x" : 0.6913580187928672,
+      "w" : 0.35390945050701406,
+      "y" : 0.2667151162063954,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Pinocytosis coupled to filtered serum albumin uptake",
+      "x" : 0.6831275776406034,
+      "w" : 0.33744855196970813,
+      "y" : 0.2536337210029069,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Passive diffusion down its concentration gradient through",
+      "x" : 0.6944444384430729,
+      "w" : 0.360082302453383,
+      "y" : 0.2405523255571706,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "NaCl-permeable membranes",
+      "x" : 0.6059670811042523,
+      "w" : 0.17489711593531965,
+      "y" : 0.22892441872577518,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Secondary active symport with bicarbonate ions",
+      "x" : 0.667695477031893,
+      "w" : 0.3024691215851022,
+      "y" : 0.21584302334665711,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Osmotic solvent drag across wide intercellular gaps",
+      "x" : 0.6779835436556925,
+      "w" : 0.32304526275058965,
+      "y" : 0.2034883718992248,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "text" : "Q14. [Core Concept How does administration of a Loop Diuretic (e.g.,",
+      "x" : 0.7427983595164608,
+      "w" : 0.4485596470862814,
+      "y" : 0.1730200259322036,
+      "h" : 0.011737725469801119,
+      "conf" : 1
+    },
+    {
+      "text" : "Furosemide) affect the countercurrent multiplier system?",
+      "x" : 0.7037037084362138,
+      "w" : 0.37037034904432,
+      "y" : 0.15995155055727905,
+      "h" : 0.011763565805223308,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] It selectively constricts the afferent arteriole to zero blood flow",
+      "x" : 0.7098765398491085,
+      "w" : 0.38683127157343256,
+      "y" : 0.14458333341018714,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] It triples medullary interstitial hypertonicity up to 3000 mOsm\/kg",
+      "x" : 0.7150205827503426,
+      "w" : 0.3971193181643695,
+      "y" : 0.1315277775793819,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] It stimulates Aquaporin-2 insertion into the descending limb of Henle",
+      "x" : 0.7273662604166666,
+      "w" : 0.4218107019580385,
+      "y" : 0.11916666686255489,
+      "h" : 0.011666666666666603,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] It abolishes the Single Effect by inhibiting NKCC2, completely dissipating",
+      "x" : 0.7366255217421123,
+      "w" : 0.4444444284499067,
+      "y" : 0.10611111105284776,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "text" : "the medullary hypertonic gradient",
+      "x" : 0.6152263360768175,
+      "w" : 0.2016460730594659,
+      "y" : 0.09445090430933245,
+      "h" : 0.011679586304558676,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] It transforms the thin descending limb into a thick muscular artery",
+      "x" : 0.7181069908436215,
+      "w" : 0.40329219410254513,
+      "y" : 0.08208333352525493,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Boar 4 9am Past Papers",
+      "x" : 0.3209876615226336,
+      "w" : 0.5761316647319674,
+      "y" : 0.014573643611020815,
+      "h" : 0.017519379191928475,
+      "conf" : 1
+    },
+    {
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321,
+      "w" : 0.19135801447262546,
+      "y" : 0.01966085278616625,
+      "h" : 0.007344961166381836,
+      "conf" : 1
+    }
+  ]
+}

@@ -1,0 +1,917 @@
+{
+  "items" : [
+    {
+      "conf" : 1,
+      "y" : 0.9752777778556223,
+      "w" : 0.46240598567521113,
+      "x" : 0.2631578870300754,
+      "h" : 0.008888888623979407,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 42 MCQ Masterclass"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9745833331556137,
+      "w" : 0.07706766793575337,
+      "x" : 0.9295112772321428,
+      "h" : 0.010277777777777719,
+      "text" : "Page 3 of 4"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9426388888408572,
+      "w" : 0.40789470220109186,
+      "x" : 0.24906014357769446,
+      "h" : 0.01027777777777783,
+      "text" : "Q29. [2025 Exam] Which pharmacological regimen temporarily shifts"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9309722224024495,
+      "w" : 0.3721804478286754,
+      "x" : 0.23120300286654144,
+      "h" : 0.010277777777777719,
+      "text" : "extracellular potassium into cells within 15-30 minutes in acute"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9207848838226744,
+      "w" : 0.08834586016657024,
+      "x" : 0.08928571494360901,
+      "h" : 0.010174418555365605,
+      "text" : "hyperkalemia?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9091569768168605,
+      "w" : 0.35150374653183414,
+      "x" : 0.22086466751253117,
+      "h" : 0.010174418555365605,
+      "text" : "[A] Oral Spironolactone 100 mg combined with Triamterene"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8990277777395599,
+      "w" : 0.3270676569660991,
+      "x" : 0.20864661981203006,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Intravenous Potassium Chloride bolus with Captopril"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8873611113193207,
+      "w" : 0.293233074788821,
+      "x" : 0.19172932819548852,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Subcutaneous Heparin combined with Digoxin"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8764114984279623,
+      "w" : 0.4060150300059534,
+      "x" : 0.24812029598997506,
+      "h" : 0.011711885664198118,
+      "text" : "[D] IV Regular Insulin (10 Units) + 50 mL 50% Dextrose (D50W), plus"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8662790698255813,
+      "w" : 0.22368421629981802,
+      "x" : 0.15695488945488717,
+      "h" : 0.00872092988755968,
+      "text" : "nebulized Salbutamol (Beta-2 agonist)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8554166665898129,
+      "w" : 0.3063909776085662,
+      "x" : 0.19642857196115285,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Oral Sodium Polystyrene Sulfonate in mineral oil"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8365277776123796,
+      "w" : 0.413533806543741,
+      "x" : 0.2518796940789475,
+      "h" : 0.010277777777777719,
+      "text" : "Q30. [2020 Exam] Which therapeutic interventions actually ELIMINATE"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8262532300513236,
+      "w" : 0.4304511195716885,
+      "x" : 0.2603383527882203,
+      "h" : 0.010284237861633239,
+      "text" : "potassium from the body (net negative balance) in severe hyperkalemia?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8146802326126454,
+      "w" : 0.35902254500893016,
+      "x" : 0.22462406463815782,
+      "h" : 0.010174418555365716,
+      "text" : "[A] IV Calcium gluconate and IV Regular Insulin with dextrose"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8045704134917206,
+      "w" : 0.36654134348602624,
+      "x" : 0.2283834647556389,
+      "h" : 0.01030361758338072,
+      "text" : "[B] Nebulized salbutamol and intravenous sodium bicarbonate"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7936111111981966,
+      "w" : 0.21804511195716889,
+      "x" : 0.1522556354636593,
+      "h" : 0.008888888888888946,
+      "text" : "[C] Beta-blockers and ACE inhibitors"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7826453487315372,
+      "w" : 0.2800751719690758,
+      "x" : 0.1851503794407894,
+      "h" : 0.01029069794548887,
+      "text" : "[D] Fluid restriction and strict absolute bed rest"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7710755813711241,
+      "w" : 0.4342105078405823,
+      "x" : 0.26033833862781974,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Cation Binders (Lokelma, Patiromer), Loop Diuretics (Furosemide), and"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9411337210029069,
+      "w" : 0.38157894044021845,
+      "x" : 0.6945488785401002,
+      "h" : 0.010174418555365716,
+      "text" : "Q36. [2020 Exam] According to KDIGO guidelines, at what serum"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9316666666929811,
+      "w" : 0.44172932825698696,
+      "x" : 0.7246240527882208,
+      "h" : 0.008888888888888946,
+      "text" : "Bicarbonate level should oral Sodium Bicarbonate be started in CKD to slow"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9091569768168605,
+      "w" : 0.4060150300059535,
+      "x" : 0.7067669240601502,
+      "h" : 0.010174418555365605,
+      "text" : "[A] When serum Bicarbonate falls below 22 mEq\/L (targeting a serum"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.899027777594211,
+      "w" : 0.17293232109459244,
+      "x" : 0.5902255610275691,
+      "h" : 0.010277777777777719,
+      "text" : "bicarbonate of 24-26 mEg\/L)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8873611113193207,
+      "w" : 0.3345864554431951,
+      "x" : 0.6710526371553882,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Only when serum Bicarbonate drops below 10 mEq\/L"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8771802325823643,
+      "w" : 0.2838345821772782,
+      "x" : 0.6437969972117792,
+      "h" : 0.010174418555365605,
+      "text" : "[C] When serum Bicarbonate exceeds 32 mEq\/L"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8655523254118217,
+      "w" : 0.34962405239738725,
+      "x" : 0.6785714338972428,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Sodium bicarbonate is contraindicated in all CKD stages"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8546447028037414,
+      "w" : 0.2612781867459898,
+      "x" : 0.634398500595238,
+      "h" : 0.00873385005527072,
+      "text" : "[E] Only when urine anion gap exceeds +50"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8365277777213912,
+      "w" : 0.42293229915528396,
+      "x" : 0.7152255691964284,
+      "h" : 0.01027777777777783,
+      "text" : "Q37. [2024 Exam] What classic triad of laboratory abnormalities defines"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.826253229827244,
+      "w" : 0.40413531393219815,
+      "x" : 0.7058270626174814,
+      "h" : 0.01028423786163335,
+      "text" : "Modern Milk-Alkali (Calcium-Alkali) Syndrome from calcium antacids?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.814680232630814,
+      "w" : 0.3345864554431951,
+      "x" : 0.6710526371553882,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Hypocalcemia, severe hyperphosphatemia & HAGMA"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8038436693904611,
+      "w" : 0.41165413434860254,
+      "x" : 0.7095864713110902,
+      "h" : 0.011757105191548711,
+      "text" : "[B] Hypercalcemia, Metabolic Alkalosis, and Acute Kidney Injury (renal"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7826453488692665,
+      "w" : 0.3646616493515795,
+      "x" : 0.6842105202380955,
+      "h" : 0.010290697415669792,
+      "text" : "[C] Hyperkalemia, hyponatremia & normal anion gap acidosis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.771802325629845,
+      "w" : 0.36842105955978166,
+      "x" : 0.6860902317042605,
+      "h" : 0.011627906163533486,
+      "text" : "[D] Severe hypoglycemia, hypokalemia & respiratory alkalosis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.760962532190103,
+      "w" : 0.37218044782867543,
+      "x" : 0.6879699186090227,
+      "h" : 0.010297157499525311,
+      "text" : "[E] Hypocalcemia, hypomagnesemia & persistent hypokalemia"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7420704135220018,
+      "w" : 0.4304511195716885,
+      "x" : 0.26033835124530064,
+      "h" : 0.01030361758338083,
+      "text" : "Q31. [2024 Exam] What classic ECG changes and life-threatening cardiac"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7420704135583389,
+      "w" : 0.4266917313027947,
+      "x" : 0.7189849677396616,
+      "h" : 0.01030361758338083,
+      "text" : "Q38. [2022 Exam] In chronic Respiratory Acidosis (sustained PaC02 > 45"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7318055556643582,
+      "w" : 0.37593983609756926,
+      "x" : 0.23308271303258127,
+      "h" : 0.01027777777777783,
+      "text" : "arrhythmia are produced by severe Hypokalemia (<2.5 mEq\/L)?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7318055554221101,
+      "w" : 0.3984962095895489,
+      "x" : 0.7011278129072682,
+      "h" : 0.010277777777777719,
+      "text" : "mmHg), how does the normal kidney compensate over 3 to 5 days?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7201453488874352,
+      "w" : 0.8552631348007278,
+      "x" : 0.4708646509633462,
+      "h" : 0.01029069741566968,
+      "text" : "[A] ST depression, flattened T waves, prominent U waves, prolonged QT\/QU, [A] Serum HCO3- decreases by 2.0 mEq\/L for each 10 rise in PaCO2"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7085755812681687,
+      "w" : 0.21240600761451972,
+      "x" : 0.15131578700657902,
+      "h" : 0.010174418555365716,
+      "text" : "predisposing to Torsades de Pointes"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7093023256782947,
+      "w" : 0.34962405239738736,
+      "x" : 0.6766917351503758,
+      "h" : 0.00872092988755968,
+      "text" : "[B] Renal tubules excrete all filtered bicarbonate into urine"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6984625323354519,
+      "w" : 0.3345864554431951,
+      "x" : 0.21240601838345863,
+      "h" : 0.010297157499525311,
+      "text" : "[B] Tall peaked T waves and sine wave ventricular flutter"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6984625323354519,
+      "w" : 0.44360900045212526,
+      "x" : 0.7255639142105261,
+      "h" : 0.010297157499525311,
+      "text" : "[C] Serum HCO3- increases by ~3.5 to 4.0 mEq\/L for every 10 mmHg rise in"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6881944442239135,
+      "w" : 0.30827067174301315,
+      "x" : 0.19924811721804517,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Delta waves and short PR interval (WPW pattern)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6765374676645481,
+      "w" : 0.266917291088639,
+      "x" : 0.17669172487468682,
+      "h" : 0.010297157499525311,
+      "text" : "[D] Electrical alternans and pericardial knock"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6765374676766605,
+      "w" : 0.336466149577642,
+      "x" : 0.6719924783991229,
+      "h" : 0.010297157499525422,
+      "text" : "[D] Kidneys synthesize massive volatile hydrochloric acid"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6664244187742248,
+      "w" : 0.32330826869720525,
+      "x" : 0.20300751459899763,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Bifascicular block with persistent sinus bradycardia"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6656976742248062,
+      "w" : 0.345864642189185,
+      "x" : 0.6748120278822056,
+      "h" : 0.011627906163533486,
+      "text" : "[E] Compensatory renal mechanisms do not exist for lungs"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6475290697129361,
+      "w" : 0.43233083564544394,
+      "x" : 0.2612781900845866,
+      "h" : 0.010174418555365716,
+      "text" : "Q32. [2022 Exam] Why must concomitant Hypomagnesemia be corrected"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6483042638240135,
+      "w" : 0.4060150300059534,
+      "x" : 0.706766922368421,
+      "h" : 0.011724805831909157,
+      "text" : "Q39. [2021 Exam] Which clinical and laboratory findings differentiate"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6373611113374893,
+      "w" : 0.23120299283760556,
+      "x" : 0.16071428860432324,
+      "h" : 0.010277777777777719,
+      "text" : "when treating refractory Hypokalemia?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.636656976895386,
+      "w" : 0.4078947022010919,
+      "x" : 0.7077067625000001,
+      "h" : 0.011686046388414195,
+      "text" : "Ethylene Glycol ingestion from Methanol poisoning in severe HAGMA?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.625694444387431,
+      "w" : 0.35902254500893016,
+      "x" : 0.22462406463815782,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Magnesium directly converts potassium to sodium in liver"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6264114985506496,
+      "w" : 0.4530074930636683,
+      "x" : 0.7283834533521305,
+      "h" : 0.011711886194017085,
+      "text" : "[A] Methanol causes pancreatitis; ethylene glycol causes optic demyelination"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6147642118521579,
+      "w" : 0.4492481047947744,
+      "x" : 0.2678571484022554,
+      "h" : 0.011750645637512158,
+      "text" : "[B] Magnesium inhibits ROMK channels; low Mg2+ disinhibits ROMK, causing"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.614037467809897,
+      "w" : 0.37218044782867543,
+      "x" : 0.6879699310150373,
+      "h" : 0.010297157499525311,
+      "text" : "[B] Ethylene glycol causes hypokalemia with normal anion gap"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6039244186288759,
+      "w" : 0.21240600761451967,
+      "x" : 0.15131579301378434,
+      "h" : 0.010174418555365605,
+      "text" : "continuous renal potassium wasting"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.604651163103013,
+      "w" : 0.34214116856830745,
+      "x" : 0.6748120343513224,
+      "h" : 0.009606379932827425,
+      "text" : "[C] Methanol produces bright red urine under Wood's lamp"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5930555556436317,
+      "w" : 0.35902254500893016,
+      "x" : 0.22462406463815782,
+      "h" : 0.008888889153798374,
+      "text" : "[C] Magnesium is required for GI absorption of carbohydrates"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5923546510338342,
+      "w" : 0.4172932386912518,
+      "x" : 0.7105263088345867,
+      "h" : 0.01029069741566968,
+      "text" : "[D] Ethylene glycol causes AKI with envelope Calcium Oxalate crystals;"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5820833331226162,
+      "w" : 0.38345865651397376,
+      "x" : 0.23684210909774428,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Hypomagnesemia causes irreversible necrosis of all nephrons"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5820833331044476,
+      "w" : 0.3552631567400363,
+      "x" : 0.6813909818843984,
+      "h" : 0.01027777777777783,
+      "text" : "Methanol causes visual blurring\/blindness & optic hyperemia"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5704295863629305,
+      "w" : 0.33834584371208887,
+      "x" : 0.2124060156015038,
+      "h" : 0.01030361758338083,
+      "text" : "[E] Magnesium blocks all voltage-gated calcium channels"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5711563306474395,
+      "w" : 0.37781955217132457,
+      "x" : 0.6907894696428573,
+      "h" : 0.011757105721367678,
+      "text" : "[E] Both toxic alcohols produce identical urinary oxalate crystals"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5530523256359012,
+      "w" : 0.43796989610947606,
+      "x" : 0.26409774983552614,
+      "h" : 0.010174418555365716,
+      "text" : "Q33. [2021 Exam] Which clinical and genetic features distinguish Gitelman"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5530523256722384,
+      "w" : 0.4191729108863902,
+      "x" : 0.7133458699013158,
+      "h" : 0.010174418555365605,
+      "text" : "Q40. [2023 Exam] What is the pharmacological mechanism of action of"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5429166665898129,
+      "w" : 0.2067669032718705,
+      "x" : 0.14849624379699233,
+      "h" : 0.010277777777777719,
+      "text" : "Syndrome from Bartter Syndrome?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5429166665898129,
+      "w" : 0.34022555978584423,
+      "x" : 0.6738721858709271,
+      "h" : 0.010277777777777719,
+      "text" : "Fomepizole (4-methylpyrazole) in toxic alcohol poisoning?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5312500000726744,
+      "w" : 0.343984948054738,
+      "x" : 0.21710526889097723,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Gitelman is severe infantile disease with hypercalciuria"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.531250000090843,
+      "w" : 0.37406012002381384,
+      "x" : 0.6889097791118419,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Direct chemical chelator precipitating toxic alcohols in stool"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5203552972188427,
+      "w" : 0.36654134348602624,
+      "x" : 0.22838346231203,
+      "h" : 0.008733849790361292,
+      "text" : "[B] Bartter syndrome causes severe hypertension and acidosis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5195833334101871,
+      "w" : 0.3458646421891849,
+      "x" : 0.6748120346491225,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Allosteric activator of hepatic aldehyde dehydrogenase"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.509447674249031,
+      "w" : 0.39473682132065513,
+      "x" : 0.24060150494987467,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Gitelman is NCCT (DCT) mutation; presents in adults\/teens with"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5094476744731105,
+      "w" : 0.304511261534811,
+      "x" : 0.6541353421522556,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Antagonist of GABA receptors in cerebral cortex"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.49853682168302804,
+      "w" : 0.2913533806543741,
+      "x" : 0.19078947854010012,
+      "h" : 0.0087403098742167,
+      "text" : "Hypokalemia, Metabolic Alkalosis & Hypocalciuria"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.49781976727228683,
+      "w" : 0.3327067613087482,
+      "x" : 0.6682330869360901,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Enzyme that converts methanol directly into glucose"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4876388888744778,
+      "w" : 0.37030073175492006,
+      "x" : 0.23026316406641587,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Gitelman is caused by activating mutation of ENaC channel"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.48763888882602824,
+      "w" : 0.4492481047947745,
+      "x" : 0.7265037668859646,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Competitive Alcohol Dehydrogenase (ADH) Inhibitor, blocking conversion"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4767474161853386,
+      "w" : 0.35902254500893016,
+      "x" : 0.2227443668859647,
+      "h" : 0.0087273899714152,
+      "text" : "[E] Both syndromes are caused by excessive adrenal cortisol"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.47674741603029985,
+      "w" : 0.23684209718025473,
+      "x" : 0.6221804487593986,
+      "h" : 0.0087273899714152,
+      "text" : "into toxic metabolites (formate, oxalate)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.458575581340843,
+      "w" : 0.44924810479477445,
+      "x" : 0.2697368364896618,
+      "h" : 0.010174418555365605,
+      "text" : "Q34. [2023 Exam] What is the genetic and pathophysiological basis of Liddle"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.458575581340843,
+      "w" : 0.4097744182748472,
+      "x" : 0.708646611419173,
+      "h" : 0.010174418555365605,
+      "text" : "Q41. [Clinical Vignette] A 22-year-old female with T1DM presents with"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4476744185465116,
+      "w" : 0.38345865651397376,
+      "x" : 0.23684210142857148,
+      "h" : 0.00872092988755968,
+      "text" : "Syndrome, an inherited cause of hypertension with hypokalemia?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4484625324323512,
+      "w" : 0.4398496121832315,
+      "x" : 0.7236842153508771,
+      "h" : 0.010297157499525311,
+      "text" : "vomiting and Kussmaul breathing. Labs: Na+ 132, K+ 5.8, CI- 92, HCO3- 8,"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4368055556791872,
+      "w" : 0.3439849480547381,
+      "x" : 0.21522555817669198,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Inactivating mutation in the mineralocorticoid receptor"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4368055557579178,
+      "w" : 0.3984962095895489,
+      "x" : 0.7030075237781954,
+      "h" : 0.01027777777777783,
+      "text" : "Glucose 480 mg\/dL, pH 7.15, PaCO2 24 mmHg. Acid-base diagnosis:"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.42653746764188655,
+      "w" : 0.34398494805473806,
+      "x" : 0.21710526237468675,
+      "h" : 0.010297158029344389,
+      "text" : "[B] Excessive secretion of renin by juxtaglomerular tumors"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4258430231046139,
+      "w" : 0.437969896109476,
+      "x" : 0.722744361622807,
+      "h" : 0.011686046388414195,
+      "text" : "[A] High Anion Gap Metabolic Acidosis (AG = 32) with expected respiratory"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4149709300629845,
+      "w" : 0.32330826869720525,
+      "x" : 0.20488722274436072,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Loss-of-function mutation of 11-beta-HSD2 enzyme"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4149709301598836,
+      "w" : 0.44172932825698685,
+      "x" : 0.7246240557330828,
+      "h" : 0.010174418555365605,
+      "text" : "compensation (Winter's PaCO2 18-22, mild concurrent respiratory acidosis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.40406976751453483,
+      "w" : 0.4248120152290394,
+      "x" : 0.25751880230263147,
+      "h" : 0.00872092988755968,
+      "text" : "[D] Gain-of-function ENaC mutation preventing degradation; constitutive"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4040697673934109,
+      "w" : 0.4360902239143378,
+      "x" : 0.719924804761905,
+      "h" : 0.00872092988755957,
+      "text" : "[B] Normal Anion Gap Metabolic Acidosis with primary respiratory acidosis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3938888888260281,
+      "w" : 0.3176691643545561,
+      "x" : 0.20394737239191724,
+      "h" : 0.008888888888888946,
+      "text" : "Na+ reabsorption with LOW Renin & LOW Aldosterone"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.39319444454760893,
+      "w" : 0.37030073175492006,
+      "x" : 0.6889097790648495,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Pure metabolic alkalosis with complete renal compensation"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3822222222733343,
+      "w" : 0.319548858489003,
+      "x" : 0.2030075227913533,
+      "h" : 0.008888888623979407,
+      "text" : "[E] Complete absence of renal alpha-intercalated cells"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3829295864598296,
+      "w" : 0.3627819332778238,
+      "x" : 0.6832706706453635,
+      "h" : 0.01030361758338072,
+      "text" : "[D] Mixed respiratory alkalosis and normal anion gap acidosis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.37136627914244197,
+      "w" : 0.28571427631172497,
+      "x" : 0.6447368468671679,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Isolated Type 1 Distal Renal Tubular Acidosis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3531976745155038,
+      "w" : 0.38721804478286753,
+      "x" : 0.2387218109649121,
+      "h" : 0.011627906163533486,
+      "text" : "Q35. [2025 Exam] What is the definitive medical management for"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.35392441865915697,
+      "w" : 0.41353380654374094,
+      "x" : 0.7105263209586465,
+      "h" : 0.010174418555365716,
+      "text" : "Q42. [Clinical Case] A 44-year-old female with Sjögren's syndrome has"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3423546510762276,
+      "w" : 0.9097744182748473,
+      "x" : 0.5000000113721802,
+      "h" : 0.01029069741566968,
+      "text" : "Saline-Responsive Metabolic Alkalosis caused by vomiting or gastric suction? weakness. Labs: Na+ 140, K+ 2.2, CI- 116, HCO3- 14, pH 7.26. Urine Na+ 45,"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3306944442871922,
+      "w" : 0.2631578808804368,
+      "x" : 0.17481203439849613,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Intravenous Spironolactone 400 mg daily"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3313888888018034,
+      "w" : 0.4398496121832315,
+      "x" : 0.7236842178571428,
+      "h" : 0.008888888888888946,
+      "text" : "K+ 30, CI- 25 (UAG = +50), urine pH 6.8. KUB: medullary nephrocalcinosis."
+    },
+    {
+      "conf" : 1,
+      "y" : 0.32042958647799824,
+      "w" : 0.379699224366463,
+      "x" : 0.23308270202067677,
+      "h" : 0.01030361758338083,
+      "text" : "[B] Emergency hemodialysis against pure hydrochloric acid bath"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3204941861090916,
+      "w" : 0.0621915991404004,
+      "x" : 0.5347744371251639,
+      "h" : 0.010778936809963668,
+      "text" : "Diagnosis:"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3095930230620156,
+      "w" : 0.3176691643545561,
+      "x" : 0.2020676652568924,
+      "h" : 0.011627906163533486,
+      "text" : "[C] High-dose acetazolamide and ammonium chloride"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.30886627890019375,
+      "w" : 0.31578947022010917,
+      "x" : 0.661654138784461,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Severe acute secretory diarrhea with hypovolemia"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.29874676997446464,
+      "w" : 0.3214285526234499,
+      "x" : 0.20394737377819533,
+      "h" : 0.010284237331814272,
+      "text" : "[D] Free water restriction and high-dose loop diuretics"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2994412146312981,
+      "w" : 0.44360900045212526,
+      "x" : 0.7236842031328323,
+      "h" : 0.011673126220703156,
+      "text" : "[B] Classic Type 1 (Distal) RTA (NAGMA, Positive UAG, persistent urine pH >"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2884722223876204,
+      "w" : 0.42857140349793316,
+      "x" : 0.25751880234962393,
+      "h" : 0.01027777777777783,
+      "text" : "[E] IV Isotonic Normal Saline (0.9% NaCI) and Potassium Chloride (KCI) to"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2877777778556222,
+      "w" : 0.22180450022606257,
+      "x" : 0.6127819511904762,
+      "h" : 0.008888888623979296,
+      "text" : "5.5, hypokalemia & nephrocalcinosis)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.27761627911821707,
+      "w" : 0.22556391043426494,
+      "x" : 0.15601504135338334,
+      "h" : 0.00872092988755968,
+      "text" : "restore volume and replenish chloride"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.27682170540045997,
+      "w" : 0.2819548880428311,
+      "x" : 0.644736844924812,
+      "h" : 0.01031007766723635,
+      "text" : "[C] Type 4 Hyperkalemic Renal Tubular Acidosis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.255138888743958,
+      "w" : 0.31766916435455606,
+      "x" : 0.660714288377193,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Diabetic ketoacidosis with secondary hypokalemia"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.013808139752906956,
+      "w" : 0.6090225230696217,
+      "x" : 0.3364661755639094,
+      "h" : 0.015988371107313437,
+      "text" : "Twisted Medicine Medical Series • Acid-Base & Electrolyte Disorders in Nephrology 163lard Practice Bank"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.017428940513865177,
+      "w" : 0.3101503658774599,
+      "x" : 0.8129699196428573,
+      "h" : 0.008746769693162793,
+      "text" : "Confidential - Dedicated for Medical Student Revision"
+    }
+  ],
+  "page" : 165
+}

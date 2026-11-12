@@ -1,0 +1,860 @@
+{
+  "id": 29,
+  "title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+  "department": "Clinical Biochemistry",
+  "department_desc": "Purine metabolism, uric acid, clinical enzymology, biomarkers, inborn errors and stone chemistry",
+  "booklet_pages": "Pages 113 - 116",
+  "pdf_pages": [
+    115,
+    116,
+    117,
+    118
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 30 — HIGH-YIELD RENAL ENZYMOLOGY & BIOMARKERS MATRIX",
+  "summary_table": [
+    {
+      "domain": "NAG (130 kDa): PCT lysosomes.",
+      "content": "High molecular weight prevents glomerular"
+    },
+    {
+      "domain": "Urinary Enzymes",
+      "content": "Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic"
+    },
+    {
+      "domain": "microvilli.",
+      "content": "microvascular injury. tubular cell lysis / microvillar shedding."
+    },
+    {
+      "domain": "Cystatin C",
+      "content": "Endogenous cysteine protease inhibitor. Freely Superior to Serum Creatinine in elderly, malnourished Synthesized by all nucisated cells at a cortant cirrhotics, and amputees (independent of muscle mass, filtered GBM, 100% reabsorbed &"
+    },
+    {
+      "domain": "(Endogenous GFR Marker)",
+      "content": "catabolized by PCT cells (zero excretion). age, sex, and diet)."
+    },
+    {
+      "domain": "production rate.",
+      "content": "risk stratification for"
+    },
+    {
+      "domain": "TIMP-2 × IGFBP7",
+      "content": "Excreted in urine by renal tubular epithelial cells Induce G1 cell-cycle arrest in stressed tubular FDA-cleared impending moderate-to-severe AKI within 12 hours in ICU patients"
+    },
+    {
+      "domain": "(NephroCheck Panel)",
+      "content": "cells, preventing replication of damaged DNA and (score >0.3 high risk; >2.0 critical). conserving energy."
+    },
+    {
+      "domain": "Microalbuminuria & Tubular Albumin: 66 kDa glomerular.",
+      "content": "Microalbuminuria (30-300 mg/d): earliest marker of A1M is stable in acidic urine (unlike B2M which diabetic nephropathy & cardiovascular risk. A1M: hallmark"
+    },
+    {
+      "domain": "Proteins",
+      "content": "denatures at pH <6.0). A1M (33 kDa) & B2M (11.8 kDa): PCT Uromodulin forms cast"
+    },
+    {
+      "domain": "reabsorbed.",
+      "content": "of tubular proteinuria. matrices & protects against UTIs."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In clinical enzymology, functional serum distinct from (plasma-specific enzymes enzymes) non-functional enzymes because they:",
+      "options": {
+        "A": "Lack catalytic activity under normal physiological conditions",
+        "B": "Perform physiological functions in blood and have higher activity in plasma than tissues (e.g., clotting factors)",
+        "C": "Appear in circulation only after cellular necrosis",
+        "D": "Are synthesized exclusively by renal podocytes",
+        "E": "Are excreted unchanged in large amounts in normal urine"
+      },
+      "correct_option": "B",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which of the following definitions correctly describes 'Isoenzymes' (isozymes) in clinical biochemistry?",
+      "options": {
+        "A": "Physically distinct enzyme variants catalyzing the same chemical reaction but differing in amino acid sequence and kinetics",
+        "B": "Identical proteins synthesized by different organ systems",
+        "C": "Non-protein cofactors essential for enzyme activation",
+        "D": "Enzymes that catalyze completely opposite metabolic reactions",
+        "E": "Inactive proenzymes that require proteolytic cleavage for activation"
+      },
+      "correct_option": "A",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Lactate Dehydrogenase (LDH) exists as five tetrameric isoenzymes. Which LDH isoenzyme is predominant in healthy renal tubular and cardiac tissue?",
+      "options": {
+        "A": "LDH-4 (HM3) predominant in placenta",
+        "B": "LDH-1 (H4) and LDH-2 (H3M1) predominant in myocardium and kidney",
+        "C": "Anodal LDH-X found exclusively in spermatozoa",
+        "D": "LDH-3 (H2M2) predominant in pulmonary tissue",
+        "E": "LDH-5 (M4) predominant in skeletal muscle and liver"
+      },
+      "correct_option": "B",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In acute renal cortical infarction, which serum enzyme pattern is characteristically observed within 24 to 48 hours?",
+      "options": {
+        "A": "Isolated marked elevation of serum Lipase without amylase",
+        "B": "Severe isolated depression of serum Alkaline Phosphatase",
+        "C": "Selective ten-fold elevation of Acid Phosphatase",
+        "D": "Marked persistent elevation of total serum LDH (with LDH-1 exceeding LDH-2, 'flipped LDH')",
+        "E": "Complete disappearance of circulating Alanine Aminotransferase"
+      },
+      "correct_option": "D",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why are intact intracellular enzymes (ALT, AST, LDH) present in normal urine only in trace amounts?",
+      "options": {
+        "A": "Podocytes carry positive charges repelling enzymes",
+        "B": "Tubules rapidly hydrolyze enzymes into nitrogen gas",
+        "C": "Enzymes are destroyed by Tamm-Horsfall mucoprotein",
+        "D": "Urothelium synthesizes competitive enzyme inhibitors",
+        "E": "High molecular weight prevents filtration, and tubular turnover sheds"
+      },
+      "correct_option": "E",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "N-Acetyl-beta-D-glucosaminidase (NAG) is a high-yield urinary biomarker. In which subcellular organelle of the nephron is NAG localized?",
+      "options": {
+        "A": "Inner mitochondrial matrix of collecting duct principal cells",
+        "B": "Endoplasmic reticulum of podocyte pedicels",
+        "C": "Lysosomes of Proximal Convoluted Tubule (PCT) epithelial cells",
+        "D": "Nuclear chromatin of glomerular endothelial cells",
+        "E": "Brush border microvillar membrane of loop of Henle"
+      },
+      "correct_option": "C",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Because urinary NAG has a high molecular weight (~130-140 kDa), its elevated presence in urine signifies:",
+      "options": {
+        "A": "Severe glomerular charge selectivity loss with intact tubules",
+        "B": "Failure of medullary countercurrent multiplication",
+        "C": "Massive overproduction of lysosomal enzymes by hepatic Kupffer cells",
+        "D": "Complete absence of systemic antidiuretic hormone release",
+        "E": "Direct proximal tubular cell injury and lysosomal rupture (cannot be filtered from serum)"
+      },
+      "correct_option": "E",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Gamma-Glutamyl Transferase (GGT) and Alanine Aminopeptidase (AAP) are clinically utilized as sensitive urinary markers for damage to which tubular structure?",
+      "options": {
+        "A": "Cytoplasmic dense granules of juxtaglomerular cells",
+        "B": "Tight junctions of the thick ascending limb",
+        "C": "Apical Brush Border Microvilli of the Proximal Convoluted Tubule",
+        "D": "Glomerular slit diaphragms between adjacent podocyte pedicels",
+        "E": "Basolateral membrane Na+/K+ ATPase transport complexes"
+      },
+      "correct_option": "C",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which of the following nephrotoxic clinical settings characteristically shows a sharp rise in urinary brush border enzymes (GGT, NAG) prior to serum creatinine elevation?",
+      "options": {
+        "A": "Early Aminoglycoside (Gentamicin) or Cisplatin-induced tubular toxicity",
+        "B": "Benign essential hypertension without proteinuria",
+        "C": "Uncomplicated acute cystitis in young females",
+        "D": "Primary psychogenic water intoxication",
+        "E": "Renal agenesis with compensatory hypertrophy"
+      },
+      "correct_option": "A",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Alkaline Phosphatase (ALP) in renal tissue is concentrated primarily along the proximal tubule brush border. Its physiological function in tubular fluid involves:",
+      "options": {
+        "A": "Direct active primary extrusion of potassium into tubular urine",
+        "B": "Catalyzing the conversion of ammonia into urea",
+        "C": "Decarboxylation of glutamine in acidosis",
+        "D": "Hydrolysis of organic phosphate esters to facilitate transcellular phosphate handling",
+        "E": "Synthesis of Tamm-Horsfall glycoprotein casts"
+      },
+      "correct_option": "D",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Serum Amylase (~45 kDa) is filtered by glomeruli. What is the clinical significance of Amylase:Creatinine Clearance Ratio (ACCR)?",
+      "options": {
+        "A": "ACCR is universally zero in all human disease states",
+        "B": "ACCR differentiates calcium from uric acid stones",
+        "C": "ACCR rises (>5%) in Acute Pancreatitis due to impaired tubular reabsorption",
+        "D": "ACCR measures the rate of renal gluconeogenesis",
+        "E": "ACCR is elevated exclusively in pure prerenal azotemia"
+      },
+      "correct_option": "C",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In Rhabdomyolysis-induced acute tubular injury, which serum muscle enzyme elevates dramatically (often >10,000-50,000 U/L) serving as the hallmark biomarker?",
+      "options": {
+        "A": "Acid phosphatase (ACP)",
+        "B": "Creatine Kinase (CK / CPK, specifically the CK-MM isoenzyme)",
+        "C": "Serum lipase",
+        "D": "Cholinesterase (pseudocholinesterase)",
+        "E": "Alanine aminotransferase (ALT)"
+      },
+      "correct_option": "B",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Renin, an enzymatic hormone synthesized by juxtaglomerular cells, is classified biochemically as which type of enzyme?",
+      "options": {
+        "A": "Thiol decarboxylase dependent on vitamin B12",
+        "B": "Glycosyl transferase requiring UP-glucose",
+        "C": "Serine esterase requiring pyridoxal phosphate",
+        "D": "Aspartyl (acid) Protease that cleaves the Leu10-Val11 bond of Angiotensinogen",
+        "E": "Metallo-endopeptidase identical to neutral endopeptidase"
+      },
+      "correct_option": "D",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Angiotensin Converting Enzyme (ACE), located on vascular and renal brush border membranes, is biochemically characterized as a:",
+      "options": {
+        "A": "Selenium-requiring antioxidant peroxidase",
+        "B": "Calcium-dependent lysosomal endoribonuclease",
+        "C": "Zinc-containing Metallo-dipeptidyl carboxypeptidase (converts Ang | to Ang Il and degrades Bradykinin)",
+        "D": "Magnesium-activated cytoplasmic phosphorylase",
+        "E": "Copper-binding amine oxidase"
+      },
+      "correct_option": "E",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Biochemically, NGAL belongs to the lipocalin superfamily of proteins. Its physiological cytoprotective role in renal tubular cells involves:",
+      "options": {
+        "A": "Stimulating aldosterone release from adrenal cortex",
+        "B": "Dissolving calcium oxalate crystals in the medullary interstitium",
+        "C": "Binding bacterial iron-siderophores, thereby sequestering iron to limit bacterial growth and oxidative injury",
+        "D": "Accelerating urea excretion through apical aquaporins",
+        "E": "Direct enzymatic phosphorylation of glucose molecules"
+      },
+      "correct_option": "C",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Kidney Injury Molecule-1 (KIM-1) is a type-1 transmembrane glycoprotein. Under what physiological conditions is KIM-1 expressed in healthy kidneys?",
+      "options": {
+        "A": "Constantly secreted in high concentrations in normal neonatal urine",
+        "B": "Synthesized constitutively by vascular endothelial cells",
+        "C": "Abundantly expressed in 100% of normal collecting duct cells",
+        "D": "Expressed exclusively by podocyte pedicels during active diuresis",
+        "E": "Virtually undetectable in healthy kidneys, but massively up-regulated on apical membranes of dedifferentiating proximal tubule cells after injury"
+      },
+      "correct_option": "E",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the specialized cellular function of KIM-1 expressed on regenerating proximal tubular epithelial cells during recovery from ATN?",
+      "options": {
+        "A": "It degrades Tamm-Horsfall mucoprotein into glucose",
+        "B": "It synthesizes calcitriol directly from cholesterol precursors",
+        "C": "It functions as a sodium-dependent amino acid symporter",
+        "D": "It pumps bicarbonate ions into peritubular capillaries",
+        "E": "It acts as a phosphatidylserine receptor, converting tubular epithelial cells into phagocytes that clear apoptotic luminal debris"
+      },
+      "correct_option": "E",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The urinary biomarker panel NephroCheck utilizes which two urinary cell-cycle arrest biomarkers to predict impending moderate-to-severe AKI?",
+      "options": {
+        "A": "Troponin I and Brain Natriuretic Peptide (BNP)",
+        "B": "Alanine aminotransferase and Alkaline phosphatase",
+        "C": "Albumin and beta-2 microglobulin",
+        "D": "Tissue Inhibitor of Metalloproteinases-2 (TIMP-2) and Insulin-like Growth Factor-Binding Protein 7 (IGFBP7)",
+        "E": "Myoglobin and hemoglobin"
+      },
+      "correct_option": "D",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "How do urinary TIMP-2 and IGFBP7 signal impending tubular stress before structural necrosis occurs?",
+      "options": {
+        "A": "They deplete ATP by uncoupling oxidative phosphorylation",
+        "B": "They induce transient G1 cell-cycle arrest, preventing replication of",
+        "C": "They trigger immediate apoptosis of 100% of podocytes",
+        "D": "They stimulate massive transcription of aldosterone receptors",
+        "E": "They dissolve all extracellular basement membranes"
+      },
+      "correct_option": "B",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Liver-type Fatty Acid-Binding Protein (L-FABP) is an emerging biomarker excreted in urine during renal tubular hypoxia. Where is L-FABP expressed in the kidney?",
+      "options": {
+        "A": "Medullary collecting duct intercalated cells",
+        "B": "Visceral epithelial podocytes",
+        "C": "Cytoplasm of Proximal Convoluted Tubule cells (binds cytotoxic fatty acid",
+        "D": "Glomerular mesangial matrix core",
+        "E": "Thick ascending limb Tamm-Horsfall producing cells"
+      },
+      "correct_option": "C",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Creatinine is produced in skeletal muscle at a steady daily rate (~1-2% of total creatine pool per day) via which non-enzymatic reaction?",
+      "options": {
+        "A": "Hydrolysis of ATP by membrane-bound myosin ATPase",
+        "B": "Mitochondrial decarboxylation of branched-chain amino acids",
+        "C": "Proteolytic cleavage of myosin light chains by calpain",
+        "D": "Spontaneous, non-enzymatic, irreversible cyclization and dehydration of Phosphocreatine and Creatine",
+        "E": "Transamination of alpha-ketoglutarate by alanine aminotransferase"
+      },
+      "correct_option": "D",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In clinical laboratories, the traditional classical colorimetric method for measuring serum and urine Creatinine is based on which reaction?",
+      "options": {
+        "A": "Ehrlich aldehyde reaction generating a cherry-red chromophore",
+        "B": "Cyanmethemoglobin reaction with potassium ferricyanide",
+        "C": "Biuret reaction with copper sulfate in alkaline solution",
+        "D": "Sulfosalicylic acid turbidimetric precipitation",
+        "E": "Jaffe Reaction (reaction with alkaline picrate forming a yellow-orange creatinine-picrate complex)"
+      },
+      "correct_option": "E",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Which substances act as non-creatinine chromogens causing FALSELY HIGH serum creatinine in the Jaffe reaction?",
+      "options": {
+        "A": "Conjugated and unconjugated bilirubin (negative interference)",
+        "B": "Dilute urine with low specific gravity",
+        "C": "Pure free fatty acids and cholesterol esters",
+        "D": "Acetoacetate, Acetone, high-dose Cephalosporins (Cefazolin), and Pyruvate",
+        "E": "Serum sodium, potassium, and chloride ions"
+      },
+      "correct_option": "D",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Cystatin C is an endogenous biomarker of GFR that provides advantages over Serum Creatinine. major Biochemically, Cystatin C is classified as a:",
+      "options": {
+        "A": "Mitochondrial respiratory enzyme involved in ATP synthesis",
+        "B": "High molecular weight globulin bound to albumin",
+        "C": "Low molecular weight (13.3 kDa) non-glycosylated basic protein acting as an endogenous Cysteine Protease Inhibitor",
+        "D": "Vitamin D-binding carrier apolipoprotein",
+        "E": "Brush border membrane-bound sodium symporter"
+      },
+      "correct_option": "C",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Why does Serum Cystatin C estimate GFR with significantly higher diagnostic sensitivity than Serum Creatinine in elderly or malnourished patients?",
+      "options": {
+        "A": "Cystatin C is actively secreted by distal collecting ducts in response to ADH",
+        "B": "It is produced at a constant rate by all nucleated cells and is INDEPENDENT of muscle mass, age, sex, and protein diet",
+        "C": "It does not undergo any glomerular filtration",
+        "D": "It is filtered exclusively when GFR drops below 10 mL/min",
+        "E": "Its synthesis is stimulated ten-fold by circulating insulin"
+      },
+      "correct_option": "E",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "What is the renal handling of Cystatin C following its free filtration across the glomerular capillary basement membrane?",
+      "options": {
+        "A": "It is actively secreted by proximal tubule OCT transporters into urine",
+        "B": "It is completely excreted into definitive urine without any tubular interaction",
+        "C": "It precipitates inside collecting ducts to form hyaline casts",
+        "D": "It is recycled back into the renal vein via countercurrent exchange",
+        "E": "It is completely reabsorbed and megalin-metabolized (catabolized) by proximal tubule cells, so normal urine contains zero Cystatin C"
+      },
+      "correct_option": "E",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In the clinical laboratory, Blood Urea Nitrogen (BUN) is mathematically converted to Serum Urea concentration by multiplying BUN by which factor?",
+      "options": {
+        "A": "1.60 (correction factor for hyperglycemia)",
+        "B": "Exactly 10.0 (dilution factor in standard automated analyzers)",
+        "C": "Exactly 0.50 (urea contains 50% nitrogen by weight)",
+        "D": "Approximately 2.14 (molecular weight of Urea = 60 Da / total Nitrogen weight = 28 Da)",
+        "E": "0.088 (conversion factor for creatinine clearance)"
+      },
+      "correct_option": "D",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which of the following clinical scenarios characteristically produces an elevated BUN:Creatinine ratio (>20:1) with a NORMAL serum creatinine?",
+      "options": {
+        "A": "Upper Gastrointestinal Bleeding (protein load) or high-dose Corticosteroid therapy (hypercatabolism)",
+        "B": "Extreme protein starvation and advanced cirrhosis",
+        "C": "Bilateral total nephrectomy on peritoneal dialysis",
+        "D": "Severe intrinsic acute tubular necrosis with tubular back-leak",
+        "E": "Inherited deficiency of ornithine transcarbamylase"
+      },
+      "correct_option": "A",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Beta-2 Microglobulin (B2M, 11.8 kDa) is the light chain of MHC Class | molecules. What does an increased concentration of B2M in URINE indicate?",
+      "options": {
+        "A": "Proximal Tubular Dysfunction (failure of PCT receptor-mediated endocytosis to reabsorb filtered B2M)",
+        "B": "Pure psychological stress in healthy athletes",
+        "C": "Primary medullary collecting duct diabetes insipidus",
+        "D": "Bilateral acute renal infarction with rupture of capsule",
+        "E": "Severe disruption of glomerular size selectivity barrier (nephrotic syndrome)"
+      },
+      "correct_option": "A",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why must urinary Beta-2 Microglobulin samples be collected and maintained at a neutral-to-alkaline pH (pH > 6.0) for accurate laboratory analysis?",
+      "options": {
+        "A": "Alkaline urine inhibits all bacterial growth completely",
+        "B": "B2M precipitates as solid stones in alkaline urine",
+        "C": "Reagents in clinical analyzers function exclusively at pH 1.0 [DJ B2M is rapidly degraded and denatured in acidic urine (pH < 5.5 to 6.0) in",
+        "E": "Acidic pH irreversibly converts B2M into albumin"
+      },
+      "correct_option": "D",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Alpha-1 Microglobulin (A1M / Protein HC) is preferred over Beta-2 Microglobulin in many clinical laboratories as a marker of tubular proteinuria because:",
+      "options": {
+        "A": "A1M remains completely stable in acidic urine across a wide physiological",
+        "B": "A1M can only be measured using expensive electron microscopy",
+        "C": "A1M is twenty times larger than albumin and never filtered",
+        "D": "A1M levels are unaffected by total bilateral renal loss",
+        "E": "A1M is synthesized exclusively during acute viral hepatitis"
+      },
+      "correct_option": "A",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Microalbuminuria, defined as urinary albumin excretion of 30 to 300 mg/24 hours (or spot urine albumin-to-creatinine ratio 30-300 mg/g), is clinically critical as:",
+      "options": {
+        "A": "The earliest reversible biochemical marker of Diabetic Nephropathy and generalized endothelial dysfunction",
+        "B": "An artifact produced by dietary ingestion of red meat",
+        "C": "Definitive proof of late end-stage fibrotic renal disease",
+        "D": "A pathognomonic marker of post-streptococcal glomerulonephritis",
+        "E": "A non-specific indicator of lower urinary tract infection only"
+      },
+      "correct_option": "A",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In chronic kidney disease (CKD), elevated circulating levels of Fibroblast Growth Factor-23 (FGF-23) serve as a sensitive early biomarker for:",
+      "options": {
+        "A": "Acute drug-induced allergic interstitial nephritis",
+        "B": "Disordered phosphate homeostasis, appearing elevated long before overt",
+        "C": "Rapidly progressive anti-GBM pulmonary hemorrhage",
+        "D": "Severe acute ischemic necrosis of collecting duct cells",
+        "E": "Loss of medullary countercurrent multiplication"
+      },
+      "correct_option": "B",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Interleukin-18 (IL-18) is a proinflammatory cytokine excreted in urine. Its diagnostic utility in acute renal failure lies in:",
+      "options": {
+        "A": "Measuring systemic extracellular fluid volume expansion",
+        "B": "Serving as a specific biomarker of Acute Tubular Necrosis (cleaved by Caspase-1 in injured proximal tubule cells)",
+        "C": "Differentiating prerenal azotemia from hepatorenal syndrome",
+        "D": "Identifying primary psychogenic water intoxication",
+        "E": "Confirming complete absence of renal stones"
+      },
+      "correct_option": "B",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which of the following biological characteristics correctly describes an \"Ideal Biomarker' for Glomerular Filtration Rate (GFR)?",
+      "options": {
+        "A": "Highly bound to plasma albumin (>95%) with rapid hepatic biliary clearance",
+        "B": "Freely filtered across glomerular barrier, constant production rate, neither reabsorbed nor secreted by tubules, and non-toxic",
+        "C": "High molecular weight exceeding 150 kDa to prevent urinary excretion",
+        "D": "Synthesis stimulated dramatically during acute bacterial infections",
+        "E": "Extensive tubular reabsorption, secretion, and renal tissue metabolism"
+      },
+      "correct_option": "B",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In patients receiving Trimethoprim or Cimetidine, an acute rise in serum creatinine (~0.3-0.5 mg/dL) occurs without any true reduction in GFR because these drugs:",
+      "options": {
+        "A": "Competitively inhibit proximal tubular Organic Cation Transporters (OCT2/MATE1) responsible for creatinine secretion",
+        "B": "Accelerate hepatic methylation of guanidinoacetate to creatinine",
+        "C": "Cross-react with picrate reagents in enzymatic automated analyzers",
+        "D": "Stimulate massive skeletal muscle catabolism and creatine release",
+        "E": "Induce immediate extensive ischemic necrosis of glomerular podocytes"
+      },
+      "correct_option": "A",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A septic ICU patient has Cr 1.1 mg/dL, but urine NGAL is 480 ng/mL (normal <50). What is the clinical interpretation?",
+      "options": {
+        "A": "Subclinical / Early AKI is present with active tubular damage before creatinine rises",
+        "B": "The patient has chronic stable end-stage renal disease",
+        "C": "The patient requires immediate bilateral nephrectomy",
+        "D": "High NGAL is an artifact of intravenous fluid therapy",
+        "E": "Kidneys are uninjured because serum creatinine is normal"
+      },
+      "correct_option": "E",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A diabetic male has spot urine ACR of 180 mg/g on two samples over 3 months. Cr is 0.9 mg/dL. What is the diagnosis?",
+      "options": {
+        "A": "Nephrotic syndrome requiring systemic corticosteroids",
+        "B": "Acute interstitial nephritis secondary to oral drugs",
+        "C": "Distal renal tubular acidosis with nephrocalcinosis",
+        "D": "Normal excretion of albumin with zero future renal risk",
+        "E": "Microalbuminuria (Stage A2) indicating early diabetic glomerular hyperpermeability; start ACE/ARB"
+      },
+      "correct_option": "E",
+      "explanation": "**NAG (130 kDa): PCT lysosomes.**: High molecular weight prevents glomerular\n\n**Urinary Enzymes**: Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic",
+      "masterclass_id": 29,
+      "masterclass_title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry"
+    }
+  ]
+}

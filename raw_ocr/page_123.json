@@ -1,0 +1,949 @@
+{
+  "items" : [
+    {
+      "text" : "Twisted Medicine • Renal System Module • Lecture 32 MCQ Masterclass",
+      "x" : 0.27057613089849114,
+      "y" : 0.9766957360185253,
+      "w" : 0.4506172803962756,
+      "h" : 0.011724805831909157,
+      "conf" : 1
+    },
+    {
+      "text" : "Twisted Medicine Medica\/ Series • Renal Clearance, Inulin, Creatinine, Cystatin C, eGFR Formulas & Proteinuria • Standard Practice Bank",
+      "x" : 0.39917696646090495,
+      "y" : 0.9622222221443777,
+      "w" : 0.7037036823776534,
+      "h" : 0.008888888623979407,
+      "conf" : 1
+    },
+    {
+      "text" : "Page 1 of 4",
+      "x" : 0.9218106984224965,
+      "y" : 0.9759722222604401,
+      "w" : 0.06995884277535691,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "32. LABORATORY ASSESSMENT OF RENAL CLEARANCE & BIOCHEMICAL MARKERS - BIOCHEMISTRY TUTORIAL",
+      "x" : 0.501028820130315,
+      "y" : 0.9368055557760864,
+      "w" : 0.8127571921678458,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "Twisted Medicine Biochemistry Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "x" : 0.5000000069444444,
+      "y" : 0.9251388888078595,
+      "w" : 0.55555552356648,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "Q01. [2025 Exam] What is the physiological and biochemical",
+      "x" : 0.25000000668724254,
+      "y" : 0.903343023376938,
+      "w" : 0.4012345607925511,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "definition of 'Renal Clearance' of a substance (C_x)?",
+      "x" : 0.2232510346707817,
+      "y" : 0.8917151163517443,
+      "w" : 0.3518518411888266,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Total millimoles of a substance filtered across glomeruli per day",
+      "x" : 0.23868313235596694,
+      "y" : 0.8771802326126453,
+      "w" : 0.38271602894525103,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Volume of blood plasma completely cleared of a substance by kidneys per",
+      "x" : 0.2685185118998631,
+      "y" : 0.8647642118521579,
+      "w" : 0.4423867951399125,
+      "h" : 0.011750645637512158,
+      "conf" : 1
+    },
+    {
+      "text" : "unit time (mL\/min)",
+      "x" : 0.09979423926611794,
+      "y" : 0.8539244187742248,
+      "w" : 0.1049382671620111,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Percentage of tubular fluid reabsorbed by proximal convoluted tubules",
+      "x" : 0.25720164084362146,
+      "y" : 0.8408430232013082,
+      "w" : 0.4197530686480444,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Net rate of urinary excretion expressed strictly as grams per liter",
+      "x" : 0.24074074718792846,
+      "y" : 0.8292151163517443,
+      "w" : 0.38683127157343256,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Total hydrostatic pressure gradient within peritubular capillaries",
+      "x" : 0.2376543146433473,
+      "y" : 0.8161337208575581,
+      "w" : 0.3806584196270637,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "Q02. [2024 Exam] What is the standard mathematical formula used",
+      "x" : 0.270576137217078,
+      "y" : 0.7899709303234012,
+      "w" : 0.44238684312352594,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "to calculate renal clearance (C_x) from laboratory measurements?",
+      "x" : 0.2685185240483538,
+      "y" : 0.7768217054186286,
+      "w" : 0.442386843123526,
+      "h" : 0.01031007766723624,
+      "conf" : 1
+    },
+    {
+      "text" : "[A]C_x= (U_x* V) \/ P_x (where U_x is urine conc, V is urine flow rate in",
+      "x" : 0.2561728446759258,
+      "y" : 0.7637532299362557,
+      "w" : 0.41358021670167555,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "text" : "mL\/min, P_x is plasma conc)",
+      "x" : 0.13168724485596703,
+      "y" : 0.7521802326126454,
+      "w" : 0.16460904535257592,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[B]C_x = (P_x* V) \/ U_x",
+      "x" : 0.12037036859567904,
+      "y" : 0.7390374676827167,
+      "w" : 0.14197530686480442,
+      "h" : 0.010297157499525311,
+      "conf" : 0.5
+    },
+    {
+      "text" : "[C]C_x= (U_x *P_x) \/ V",
+      "x" : 0.12037036895061731,
+      "y" : 0.7274709301598836,
+      "w" : 0.14197530686480445,
+      "h" : 0.010174418555365716,
+      "conf" : 0.5
+    },
+    {
+      "text" : "[D]C_x= (U_x + P_x) * V",
+      "x" : 0.12242798501371738,
+      "y" : 0.7143217054231215,
+      "w" : 0.14609052550117924,
+      "h" : 0.010310077137417384,
+      "conf" : 0.5
+    },
+    {
+      "text" : "[E] C_x = V\/ (U_x* P_x)",
+      "x" : 0.11934156558641973,
+      "y" : 0.7027616279614826,
+      "w" : 0.14403291618299185,
+      "h" : 0.010174418555365605,
+      "conf" : 0.5
+    },
+    {
+      "text" : "Q03. [2023 Exam] Why is Inulin (an exogenous fructose",
+      "x" : 0.23353910078875154,
+      "y" : 0.6751388888260282,
+      "w" : 0.36831273972613265,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "polysaccharide) universally regarded as the gold standard marker",
+      "x" : 0.2674897064300413,
+      "y" : 0.6627777779638522,
+      "w" : 0.44032920981353185,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "text" : "for GFR measurement?",
+      "x" : 0.12654320829218113,
+      "y" : 0.6511111110283287,
+      "w" : 0.15843620540211037,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] It is extensively synthesized by proximal tubular epithelial cells",
+      "x" : 0.23456789499314154,
+      "y" : 0.6366666667691538,
+      "w" : 0.3744855916725015,
+      "h" : 0.008888889153798374,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Freely filtered at glomerulus, neither reabsorbed, secreted, synthesized,",
+      "x" : 0.26440329934842227,
+      "y" : 0.6243055557276369,
+      "w" : 0.4300411392307881,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "nor metabolized by renal tubules",
+      "x" : 0.14197531179698206,
+      "y" : 0.6126388888260282,
+      "w" : 0.18930040515443813,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] It binds irreversibly to serum albumin and podocyte pedicels",
+      "x" : 0.2294238647119342,
+      "y" : 0.6002777778459324,
+      "w" : 0.36008230245338296,
+      "h" : 0.008888888623979296,
+      "conf" : 1
+    },
+    {
+      "text" : "D] It undergoes active primary secretion by medullary collecting ducts",
+      "x" : 0.2500000066186554,
+      "y" : 0.5879166668625548,
+      "w" : 0.3971193181643696,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] It is cleared exclusively by hepatic biliary excretion",
+      "x" : 0.20164609434156372,
+      "y" : 0.5755555556159087,
+      "w" : 0.30452673090328963,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "text" : "Q04. [2022 Exam] If a substance has a renal clearance GREATER",
+      "x" : 0.2644032964814814,
+      "y" : 0.5618055557760864,
+      "w" : 0.4300411392307881,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "than the clearance of inulin (C_x > C_inulin), what does this",
+      "x" : 0.24691358689986265,
+      "y" : 0.5487467701909245,
+      "w" : 0.3991769514743637,
+      "h" : 0.01028423786163346,
+      "conf" : 1
+    },
+    {
+      "text" : "indicate regarding tubular handling?",
+      "x" : 0.16975309022633733,
+      "y" : 0.5363727394275104,
+      "w" : 0.24485596470862814,
+      "h" : 0.011698966026306157,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Net tubular reabsorption of the substance occurred",
+      "x" : 0.20370370061728402,
+      "y" : 0.5218023255232558,
+      "w" : 0.30864197353147116,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] The substance was completely synthesized de novo in the bladder",
+      "x" : 0.24691358523662538,
+      "y" : 0.5101744186773256,
+      "w" : 0.39917695147436366,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] The substance cannot be filtered across the glomerular barrier",
+      "x" : 0.23662552064471862,
+      "y" : 0.49781976751453483,
+      "w" : 0.3744855916725015,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Net tubular secretion of the substance occurred along the nephron",
+      "x" : 0.24794238021262024,
+      "y" : 0.48546511623062016,
+      "w" : 0.3971193181643696,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Glomerular filtration rate has declined to zero",
+      "x" : 0.1862139952417695,
+      "y" : 0.47238372100290704,
+      "w" : 0.27777776178324,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "Q05. [2021 Exam] If a freely filtered substance has a renal",
+      "x" : 0.2407407369135803,
+      "y" : 0.4476744185465116,
+      "w" : 0.3827160529370578,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "clearance of ZERO (C_x = 0 mL\/min) under normal physiological",
+      "x" : 0.2633744918381343,
+      "y" : 0.4345930230620155,
+      "w" : 0.42798350592079404,
+      "h" : 0.011627906163533375,
+      "conf" : 1
+    },
+    {
+      "text" : "conditions, what substance is it?",
+      "x" : 0.1594650193758574,
+      "y" : 0.4222383719234496,
+      "w" : 0.22016460490676593,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Urea",
+      "x" : 0.07407407489711931,
+      "y" : 0.4084302326065891,
+      "w" : 0.04938271360577278,
+      "h" : 0.00872092988755957,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Sodium chloride",
+      "x" : 0.10493827304526746,
+      "y" : 0.3968023256540697,
+      "w" : 0.11522633774475481,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Glucose (completely reabsorbed by proximal SGLT2\/SGLT1 up to",
+      "x" : 0.24588478028120692,
+      "y" : 0.38444767449127903,
+      "w" : 0.39711931816436963,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "transport maximum)",
+      "x" : 0.10596707672325104,
+      "y" : 0.3720930231831395,
+      "w" : 0.1172839470629422,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Potassium",
+      "x" : 0.08847736522633748,
+      "y" : 0.36046511620639543,
+      "w" : 0.08230452267628796,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "Q06. [2020 Exam] Why does Endogenous Creatinine Clearance",
+      "x" : 0.25823045685185175,
+      "y" : 0.33357558146802324,
+      "w" : 0.4176954833216637,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "(C_Cr) systematically OVERESTIMATE true GFR by approximately",
+      "x" : 0.2674897064300413,
+      "y" : 0.32042958647799824,
+      "w" : 0.44032920981353185,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "text" : "10% to 20% in healthy adults?",
+      "x" : 0.1502057627572016,
+      "y" : 0.3080878550787164,
+      "w" : 0.2016460730594659,
+      "h" : 0.0117312653859456,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Creatinine is actively reabsorbed by loop of Henle cells",
+      "x" : 0.2160493868827159,
+      "y" : 0.294305555634077,
+      "w" : 0.3333333333333333,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] A small fraction of creatinine (~10-20%) is actively secreted by proximal",
+      "x" : 0.2613168652949248,
+      "y" : 0.2826453488692665,
+      "w" : 0.4279835059207941,
+      "h" : 0.010290697415669792,
+      "conf" : 1
+    },
+    {
+      "text" : "tubular cells via OCT2\/MATE transporters",
+      "x" : 0.1707818971193414,
+      "y" : 0.27107558146802324,
+      "w" : 0.24691357402681552,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Creatinine evaporates spontaneously from collection bottles",
+      "x" : 0.23353909004629642,
+      "y" : 0.25792958647799824,
+      "w" : 0.36831273972613254,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Creatinine binds tightly to circulating red blood cell membranes",
+      "x" : 0.2376543146433473,
+      "y" : 0.24636627899709312,
+      "w" : 0.3806584196270637,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Creatinine is destroyed by bladder uroplakin proteins",
+      "x" : 0.20884774066358014,
+      "y" : 0.2332848838117732,
+      "w" : 0.32304526275058965,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "Q07. [2024 Exam] How does advanced Chronic Kidney Disease",
+      "x" : 0.2602880728737995,
+      "y" : 0.21875000007267442,
+      "w" : 0.4218107019580385,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "(CKD) with severe GFR reduction affect the degree of GFR",
+      "x" : 0.24176955121399166,
+      "y" : 0.20708333312261606,
+      "w" : 0.38888888089161994,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "overestimation by Creatinine Clearance?",
+      "x" : 0.18621399118655696,
+      "y" : 0.19402777786695297,
+      "w" : 0.27366254314686517,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Overestimation disappears completely, matching inulin clearance",
+      "x" : 0.24382716535493817,
+      "y" : 0.18097222201797925,
+      "w" : 0.38888888089162,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Creatinine clearance becomes negative",
+      "x" : 0.1759259302126199,
+      "y" : 0.16791666654136328,
+      "w" : 0.2572016446095593,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Creatinine secretion drops to zero while reabsorption peaks",
+      "x" : 0.2283950662551439,
+      "y" : 0.1562500000545059,
+      "w" : 0.36213991177157034,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Overestimation increases (up to 50-100%) as secretion forms a larger",
+      "x" : 0.2582304597050752,
+      "y" : 0.14319444452944025,
+      "w" : 0.4218107019580385,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "share of excretion",
+      "x" : 0.1018518536694101,
+      "y" : 0.1322222222491094,
+      "w" : 0.10905349779428924,
+      "h" : 0.008888888623979296,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Creatinine clearance becomes equal to PAH clearance",
+      "x" : 0.21296295737311405,
+      "y" : 0.11986111101379393,
+      "w" : 0.33539094265152075,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "Q08. [2022 Exam] In standard clinical laboratory practice, what is",
+      "x" : 0.7253086347393691,
+      "y" : 0.9033430231831395,
+      "w" : 0.4341563578671629,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "the single most frequent source of error in measuring 24-hour",
+      "x" : 0.715020581584362,
+      "y" : 0.8909883722868217,
+      "w" : 0.41358021670167544,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "text" : "Creatinine Clearance?",
+      "x" : 0.5843621417695473,
+      "y" : 0.8793604650564988,
+      "w" : 0.14814814681527,
+      "h" : 0.00872093015246922,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Hemolysis of the serum sample",
+      "x" : 0.6080246933539095,
+      "y" : 0.8648255814534884,
+      "w" : 0.19958847573718186,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Incomplete or inaccurate 24-hour urine collection (under- or",
+      "x" : 0.6862139888631689,
+      "y" : 0.8517474161118825,
+      "w" : 0.360082302453383,
+      "h" : 0.008727390236324739,
+      "conf" : 1
+    },
+    {
+      "text" : "over-collection)",
+      "x" : 0.5524691358367626,
+      "y" : 0.8415697675872094,
+      "w" : 0.08847736262675354,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Exposure of urine to room air oxygen",
+      "x" : 0.6244855928326476,
+      "y" : 0.8284883720445737,
+      "w" : 0.23251028480769698,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Normal variations in ambient atmospheric humidity",
+      "x" : 0.6615226376286008,
+      "y" : 0.8161337209847384,
+      "w" : 0.3106995828496585,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Bacterial fermentation of urea into inert gas",
+      "x" : 0.6419753125514401,
+      "y" : 0.8030523254118216,
+      "w" : 0.26748969120049626,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "Q09. [2023 Exam] To verify the completeness of a 24-hour urine",
+      "x" : 0.7211934209104935,
+      "y" : 0.7899709302870639,
+      "w" : 0.4218107019580385,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "collection, expected 24-hour creatinine excretion is approximately:",
+      "x" : 0.7325102936728394,
+      "y" : 0.7768217053822914,
+      "w" : 0.4485596470862814,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] 1-2 mg\/kg\/day in both sexes",
+      "x" : 0.6008230475823044,
+      "y" : 0.7630555556159087,
+      "w" : 0.18518518651806326,
+      "h" : 0.008888888888888835,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Exactly 100 mg\/kg\/day regardless of muscle mass",
+      "x" : 0.6604938233024693,
+      "y" : 0.7506944442420822,
+      "w" : 0.30864197353147105,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Less than 5 mg total in 24 hours",
+      "x" : 0.6111111145404663,
+      "y" : 0.7376388888260282,
+      "w" : 0.20576131568764744,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] 20-25 mg\/kg\/day in adult males and 15-20 mg\/kg\/day in adult females",
+      "x" : 0.7181069905864199,
+      "y" : 0.7143217052369426,
+      "w" : 0.42386828728441917,
+      "h" : 0.01031007766723635,
+      "conf" : 1
+    },
+    {
+      "text" : "Q10. [2021 Exam] Why does Urea Clearance (C_Urea)",
+      "x" : 0.6872428018930039,
+      "y" : 0.6751388888260281,
+      "w" : 0.35390945050701395,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "systematically UNDERESTIMATE true GFR by approximately 40%",
+      "x" : 0.726337443106996,
+      "y" : 0.6634722222422715,
+      "w" : 0.436213991177157,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "to 50%?",
+      "x" : 0.5370370379966505,
+      "y" : 0.6511627907975244,
+      "w" : 0.0576663407139808,
+      "h" : 0.00889794773525665,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Urea is too large to pass through endothelial fenestrae",
+      "x" : 0.6728395102880658,
+      "y" : 0.6366666666253684,
+      "w" : 0.32921809070515184,
+      "h" : 0.008888888623979407,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Urea undergoes significant passive tubular reabsorption (~40-50%) along",
+      "x" : 0.7273662478395064,
+      "y" : 0.6235368215861288,
+      "w" : 0.43827157650353776,
+      "h" : 0.008740309874216812,
+      "conf" : 1
+    },
+    {
+      "text" : "proximal tubules and collecting ducts",
+      "x" : 0.6141975335133745,
+      "y" : 0.6126388888441968,
+      "w" : 0.21193414364220964,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Urea is actively secreted by principal cells of collecting ducts",
+      "x" : 0.6893004069444446,
+      "y" : 0.6002777778313975,
+      "w" : 0.3662551304079452,
+      "h" : 0.008888888623979407,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Urea is converted entirely into ammonium before reaching calyces",
+      "x" : 0.7067901184927985,
+      "y" : 0.5879166667353746,
+      "w" : 0.39711934215617617,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Urea binds irreversibly to urinary Tamm-Horsfall glycoprotein",
+      "x" : 0.6913580292695474,
+      "y" : 0.5755555556159087,
+      "w" : 0.3662551304079452,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "text" : "Q11. [2025 Exam] In historical clinical practice, how was combined",
+      "x" : 0.7314814859053498,
+      "y" : 0.5618055557760864,
+      "w" : 0.44238684312352594,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "(C_Cr + C_Urea) \/ 2 utilized in patients with advanced renal failure?",
+      "x" : 0.730452670452675,
+      "y" : 0.5487467700455757,
+      "w" : 0.4444444284499067,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] To estimate renal blood flow accurately without catheterization",
+      "x" : 0.6954732447873802,
+      "y" : 0.5348837208817829,
+      "w" : 0.3744855916725015,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] To calculate the exact filtration fraction of albumin",
+      "x" : 0.6594650167952676,
+      "y" : 0.5232525838388862,
+      "w" : 0.3024691215851023,
+      "h" : 0.00872738997141509,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] To measure urinary concentrating capacity in diabetes insipidus",
+      "x" : 0.6985596643689989,
+      "y" : 0.5101744185562016,
+      "w" : 0.38477363826343847,
+      "h" : 0.00872092988755957,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] To determine renal tubular maximum for glucose",
+      "x" : 0.6574074123799725,
+      "y" : 0.49781976751453483,
+      "w" : 0.2983539029487273,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] The overestimation of C_Cr (due to secretion) and underestimation of",
+      "x" : 0.7160493775205763,
+      "y" : 0.4854651162063953,
+      "w" : 0.41563785001166964,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "C_Urea (due to reabsorption) cancel out, approximating true GFR",
+      "x" : 0.6965020622685183,
+      "y" : 0.47458333330096264,
+      "w" : 0.37242798235431407,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "Q12. [2020 Exam] Para-aminohippuric Acid (PAH) clearance at low",
+      "x" : 0.728395054389575,
+      "y" : 0.4469476743459302,
+      "w" : 0.44032920981353174,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "plasma concentrations is clinically utilized to measure:",
+      "x" : 0.6934156424382715,
+      "y" : 0.43386627916061044,
+      "w" : 0.3662551304079451,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] Glomerular Filtration Rate (GFR)",
+      "x" : 0.6121399150977366,
+      "y" : 0.4215116278343023,
+      "w" : 0.20781892500583488,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] Effective Renal Plasma Flow (ERPF) because ~90% of PAH is cleared in a",
+      "x" : 0.7314814889917693,
+      "y" : 0.4091569768168605,
+      "w" : 0.45061728039627547,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "text" : "single capillary transit (filtered + secreted)",
+      "x" : 0.62860081978738,
+      "y" : 0.39680232538759697,
+      "w" : 0.2407407220804466,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] Fractional excretion of potassium",
+      "x" : 0.6131687278463648,
+      "y" : 0.38517441865310076,
+      "w" : 0.21399175296039696,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] Maximal medullary concentrating gradient",
+      "x" : 0.6388888932441701,
+      "y" : 0.372819767514535,
+      "w" : 0.26131686324593406,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] Obligatory daily urine output",
+      "x" : 0.5987654351851851,
+      "y" : 0.35973837216569765,
+      "w" : 0.18518517452216,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "Q13. [Faculty Exam] If Renal Plasma Flow (RPF) is 600 mL\/min and",
+      "x" : 0.7335391020919066,
+      "y" : 0.33357558151647276,
+      "w" : 0.4465020617599008,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "text" : "Hematocrit (Hct) is 0.40 (40%), what is the Total Renal Blood Flow",
+      "x" : 0.7232510214334708,
+      "y" : 0.32042958650827913,
+      "w" : 0.4423867951399125,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] 1,000 mL\/min [RBF = RPF \/ (1 - Hct) = 600 \/ 0.60 = 1,000 mL\/min]",
+      "x" : 0.7057613118827161,
+      "y" : 0.26958333348891783,
+      "w" : 0.3991769514743637,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "Q14. [Core Exam] How is the Filtration Fraction (FF) calculated,",
+      "x" : 0.7191357954389578,
+      "y" : 0.2187499999757751,
+      "w" : 0.4218107019580386,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "and what is its normal resting value in healthy humans?",
+      "x" : 0.6954732557098764,
+      "y" : 0.20708333314078486,
+      "w" : 0.3744855916725015,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[A] FF = RPF \/ GFR; normal -5.0",
+      "x" : 0.6039094618312757,
+      "y" : 0.19333333329412478,
+      "w" : 0.19135801447262557,
+      "h" : 0.008888888623979407,
+      "conf" : 1
+    },
+    {
+      "text" : "[B] FF = RBF \/ C_Cr; normal ~ 1.0",
+      "x" : 0.6059670814471878,
+      "y" : 0.1809722220361477,
+      "w" : 0.19547324510490371,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "[C] FF = (U_Na *P_Cr) \/ 100; normal -0.01",
+      "x" : 0.6316872386145407,
+      "y" : 0.16930555542211018,
+      "w" : 0.25102879266319034,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[D] FF = GFR \/ RPF; normal -0.20 (20%, meaning 20% of plasma entering",
+      "x" : 0.7191357971450618,
+      "y" : 0.1562499999091569,
+      "w" : 0.42592592059441337,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "text" : "glomeruli is filtered)",
+      "x" : 0.5648148136574075,
+      "y" : 0.14458333345258062,
+      "w" : 0.11316871643066406,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "text" : "[E] FF = GFR * Hematocrit; normal -50%",
+      "x" : 0.6255144003086421,
+      "y" : 0.13292958644166109,
+      "w" : 0.2386831127622593,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "text" : "Twisted Medicine",
+      "x" : 0.09670782064471872,
+      "y" : 0.019660852804334605,
+      "w" : 0.10288065784382372,
+      "h" : 0.007344961166381836,
+      "conf" : 1
+    },
+    {
+      "text" : "• Clinical Biochemistry & Renal Clearance Master Class • Faculty & Bo2 am Preparation",
+      "x" : 0.3837448483196161,
+      "y" : 0.014573643526234081,
+      "w" : 0.4588477176690251,
+      "h" : 0.017519379191928475,
+      "conf" : 1
+    },
+    {
+      "text" : "Confidential - Dedicated for Medical Student Revision",
+      "x" : 0.8220164642746914,
+      "y" : 0.01966085278616625,
+      "w" : 0.26954732451049035,
+      "h" : 0.007344961166381836,
+      "conf" : 1
+    }
+  ],
+  "page" : 123
+}

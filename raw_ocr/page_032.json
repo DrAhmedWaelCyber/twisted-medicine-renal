@@ -1,0 +1,949 @@
+{
+  "items" : [
+    {
+      "h" : 0.013178294499715193,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 8 MCQ Masterclass",
+      "x" : 0.28292181903292146,
+      "y" : 0.9774224804225952,
+      "w" : 0.5,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "Twisted Medicine Medical Series • Loop of Henle, Thin & Thick Limbs, Countercurrent Multiplier • Standard Practice Bank",
+      "x" : 0.3569958928755142,
+      "y" : 0.9651162791424419,
+      "w" : 0.64814811082756,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011023411220974388,
+      "text" : "Page 2 of 4",
+      "x" : 0.9341563781934927,
+      "y" : 0.9760174416859136,
+      "w" : 0.07019636765965875,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "text" : "Q15. [2025 Exam] The Thin Ascending Limb (tAL) of Henle is found",
+      "x" : 0.251028803909465,
+      "y" : 0.9433333333554684,
+      "w" : 0.4320987725407822,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01030361758338083,
+      "text" : "exclusively in which population of nephrons?",
+      "x" : 0.18106995519547336,
+      "y" : 0.9295704133766529,
+      "w" : 0.2921810510023585,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "text" : "[A] Embryonic pronephric tubules undergoing involution",
+      "x" : 0.19753086826131677,
+      "y" : 0.9127777775793819,
+      "w" : 0.325102872068777,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888888888835,
+      "text" : "[B] Superficial cortical nephrons with subcapsular glomeruli",
+      "x" : 0.2078189256687244,
+      "y" : 0.9011111110501311,
+      "w" : 0.34979423187063924,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[C] Mid-cortical nephrons confined to the outer cortex",
+      "x" : 0.19032921862139915,
+      "y" : 0.8902616280765503,
+      "w" : 0.3148148014860333,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[D] Avascular aglomerular nephrons of the renal capsule",
+      "x" : 0.19855967266803834,
+      "y" : 0.8786337210998062,
+      "w" : 0.3312757000233392,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[E] Juxtamedullary nephrons with long loops descending into the inner",
+      "x" : 0.23868312434842262,
+      "y" : 0.8655523254118217,
+      "w" : 0.4115226313752948,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "medulla",
+      "x" : 0.05967078251028805,
+      "y" : 0.8546511628633721,
+      "w" : 0.04938271360577278,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "Q22. [2023 Exam] The Renal Outer Medullary Potassium channel",
+      "x" : 0.7273662499228396,
+      "y" : 0.9426388888590258,
+      "w" : 0.41769548332166373,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01030361758338083,
+      "text" : "(ROMK) located on the apical membrane of TAL cells functions to:",
+      "x" : 0.7325102923456789,
+      "y" : 0.9295704135401703,
+      "w" : 0.42798355390440745,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[A] Degrade Tamm-Horsfall glycoprotein within the urinary stream",
+      "x" : 0.7119341612139917,
+      "y" : 0.9134722223876204,
+      "w" : 0.38683127157343256,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011698966026306157,
+      "text" : "[B] Recycle K+ to lumen, maintaining NKCC2 and generating lumen-positive",
+      "x" : 0.736625514266118,
+      "y" : 0.9011272605724896,
+      "w" : 0.44032920981353185,
+      "conf" : 1
+    },
+    {
+      "h" : 0.009198135799831864,
+      "text" : "potential",
+      "x" : 0.5473251038424223,
+      "y" : 0.8895348838098593,
+      "w" : 0.057754138730606974,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[C] Secrete sodium into the lumen in exchange for calcium",
+      "x" : 0.6893004157921809,
+      "y" : 0.8786337209847384,
+      "w" : 0.3415637706060829,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "[D] Block chloride exit across the basolateral membrane",
+      "x" : 0.6831275665294927,
+      "y" : 0.8662790697189923,
+      "w" : 0.32921809070515184,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00873385005527072,
+      "text" : "[E] Reabsorb water from the tubular fluid into the interstitium",
+      "x" : 0.6965020635459531,
+      "y" : 0.8546447027552918,
+      "w" : 0.3559670598252015,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01162790722317164,
+      "text" : "Q16. [2024 Exam] In direct contrast to the thin descending limb, the",
+      "x" : 0.25205761751028805,
+      "y" : 0.8154069768023255,
+      "w" : 0.434156357867163,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011750645637512158,
+      "text" : "epithelial cells of the Thin Ascending Limb are functionally:",
+      "x" : 0.22736625579561043,
+      "y" : 0.8022642118521579,
+      "w" : 0.3847736382634385,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01031007766723635,
+      "text" : "[A] Impermeable to water, but permeable to passive NaCI reabsorption",
+      "x" : 0.2386831207133061,
+      "y" : 0.7856782946479897,
+      "w" : 0.41152263137529477,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "text" : "[B] Highly permeable to large serum proteins such as albumin",
+      "x" : 0.21707819543895726,
+      "y" : 0.774722222011923,
+      "w" : 0.3683127397261326,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011673126220703156,
+      "text" : "[C] Active transporters of bicarbonate via proton pumps",
+      "x" : 0.19753086968449912,
+      "y" : 0.7630587853687021,
+      "w" : 0.32921809070515184,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011711886194017196,
+      "text" : "[D] Secretors of concentrated glucose into the medullary interstitium",
+      "x" : 0.23353910133744837,
+      "y" : 0.7514114984053009,
+      "w" : 0.4012345607925511,
+      "conf" : 1
+    },
+    {
+      "h" : 0.0102971574995252,
+      "text" : "[E] Highly permeable to water and impermeable to NaCl",
+      "x" : 0.19547325644718774,
+      "y" : 0.7390374678583466,
+      "w" : 0.325102872068777,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011627906163533597,
+      "text" : "Q23. [2021 Exam] The transepithelial electrical potential difference",
+      "x" : 0.7366255198045266,
+      "y" : 0.8154069768168605,
+      "w" : 0.4320987725407822,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "text" : "across the Thick Ascending Limb is characteristically:",
+      "x" : 0.6934156320301785,
+      "y" : 0.8015374676645481,
+      "w" : 0.3497942318706393,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01031007766723635,
+      "text" : "[A] Zero (completely isoelectric across all segments)",
+      "x" : 0.6728395023148149,
+      "y" : 0.7856782946177086,
+      "w" : 0.30864197353147116,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666603,
+      "text" : "[B] Highly variable fluctuating between -100 mV and +100 mV",
+      "x" : 0.6985596719907408,
+      "y" : 0.7747222221088221,
+      "w" : 0.3600823024533829,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011673126220703045,
+      "text" : "[C] Lumen-positive (+8 to +10 mV), driving paracellular Ca2+ and Mg2+",
+      "x" : 0.7253086368055556,
+      "y" : 0.763058785247578,
+      "w" : 0.41358021670167555,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01081071429782443,
+      "text" : "reabsorption",
+      "x" : 0.5576131692015893,
+      "y" : 0.7507267440125729,
+      "w" : 0.07835019909360874,
+      "conf" : 0.5
+    },
+    {
+      "h" : 0.010297157499525311,
+      "text" : "[D] Generated solely by passive chloride secretion",
+      "x" : 0.6646090564197531,
+      "y" : 0.739037467809897,
+      "w" : 0.2921810749941651,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011627906163533597,
+      "text" : "[E] Strongly lumen-negative (-70 mV)",
+      "x" : 0.6265432134773661,
+      "y" : 0.7281976744670543,
+      "w" : 0.21604938627039105,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011711886194017085,
+      "text" : "Q17. [2023 Exam] The transition from the thin ascending limb to the",
+      "x" : 0.25411522266803854,
+      "y" : 0.6889114985506496,
+      "w" : 0.4382715765035377,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "Thick Ascending Limb (TAL) occurs anatomically at the junction",
+      "x" : 0.24176954215534985,
+      "y" : 0.675138888698848,
+      "w" : 0.4135802167016755,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008902372784084789,
+      "text" : "between:",
+      "x" : 0.06584362201679818,
+      "y" : 0.6627906977307425,
+      "w" : 0.061779256136912215,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[A] The renal cortex and the fibrous renal capsule",
+      "x" : 0.17901235048010958,
+      "y" : 0.6460755814680232,
+      "w" : 0.28806583236598365,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[B] The inner medulla and the outer medulla",
+      "x" : 0.1625514435699588,
+      "y" : 0.6344476744731105,
+      "w" : 0.2592592539277467,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[C] The renal pyramid and the minor calyx",
+      "x" : 0.1553497966872428,
+      "y" : 0.6228197674854652,
+      "w" : 0.24485596470862817,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011737725999620197,
+      "text" : "[D] The medullary ray and the cortical labyrinth",
+      "x" : 0.1697530859739369,
+      "y" : 0.6105200260033148,
+      "w" : 0.27366254314686517,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[E] The vascular pole and the urinary pole",
+      "x" : 0.1563786049382715,
+      "y" : 0.5995833332343444,
+      "w" : 0.24691357402681557,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011711886194017085,
+      "text" : "Q24. [2025 Exam] Paracellular reabsorption of Calcium (Ca2+) and",
+      "x" : 0.73353909111797,
+      "y" : 0.6889114985506496,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "Magnesium (Mg2+) across the TAL epithelium requires which",
+      "x" : 0.7181069892318246,
+      "y" : 0.675138888729129,
+      "w" : 0.3991769514743637,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "specialized tight junction proteins?",
+      "x" : 0.6327160465277779,
+      "y" : 0.6620833331192766,
+      "w" : 0.22839506617132221,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[A] Connexin-43 and desmoplakin",
+      "x" : 0.6172839530864197,
+      "y" : 0.6460755814498547,
+      "w" : 0.19753085442309115,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[B] Nephrin and podocin",
+      "x" : 0.5905349769547328,
+      "y" : 0.6344476743459302,
+      "w" : 0.14814814681527,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[C] Occludin and E-cadherin",
+      "x" : 0.6008230480109739,
+      "y" : 0.6228197675145348,
+      "w" : 0.16460904535257592,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01028423786163335,
+      "text" : "[D] Claudin-16 (paracellin-1) and Claudin-19",
+      "x" : 0.6460905381687242,
+      "y" : 0.6112467702090931,
+      "w" : 0.25514403529137186,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[E] Integrin alpha-3 beta-1 and dystroglycan",
+      "x" : 0.6460905381687242,
+      "y" : 0.5995833332646254,
+      "w" : 0.25514403529137186,
+      "conf" : 1
+    },
+    {
+      "h" : 0.013100774553087113,
+      "text" : "Q18. [2022 Exam] Histologically, the epithelial lining of the Thick",
+      "x" : 0.2438271571673527,
+      "y" : 0.5617829458928505,
+      "w" : 0.41769543533805037,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011737725469801119,
+      "text" : "Ascending Limb (TAL \/ pars recta of distal tubule) consists of:",
+      "x" : 0.23559671283436198,
+      "y" : 0.548020026004878,
+      "w" : 0.40123456079255104,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01029069794548887,
+      "text" : "[A] Simple columnar epithelium with dense tall microvilli",
+      "x" : 0.19855967409465017,
+      "y" : 0.5326453487497058,
+      "w" : 0.33127572401514593,
+      "conf" : 1
+    },
+    {
+      "h" : 0.0131072351667616,
+      "text" : "[B] Stratified squamous non-keratinized epithelium",
+      "x" : 0.18209876845679007,
+      "y" : 0.5196091729282192,
+      "w" : 0.3024691215851022,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011757106251186755,
+      "text" : "[C] Simple cuboidal epithelium with prominent basolateral striations and NO",
+      "x" : 0.2541152307613168,
+      "y" : 0.5086563308057599,
+      "w" : 0.44238684312352594,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "brush border",
+      "x" : 0.07613168868312753,
+      "y" : 0.4970930233527132,
+      "w" : 0.08641974731061443,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01028423786163335,
+      "text" : "[D] Simple squamous non-striated epithelium",
+      "x" : 0.16460904903978069,
+      "y" : 0.48624677004557576,
+      "w" : 0.26748969120049626,
+      "conf" : 1
+    },
+    {
+      "h" : 0.008888888888888946,
+      "text" : "[E] Pseudostratified ciliated columnar epithelium",
+      "x" : 0.1759259295010287,
+      "y" : 0.47388888898620607,
+      "w" : 0.2860082230477963,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666603,
+      "text" : "Q25. [2022 Exam] Tamm-Horsfall Glycoprotein (Uromodulin) is the",
+      "x" : 0.7345678976680385,
+      "y" : 0.5625000001937983,
+      "w" : 0.4279835059207939,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011737725999620086,
+      "text" : "most abundant protein in normal human urine and is exclusively",
+      "x" : 0.7253086470936213,
+      "y" : 0.5480200260517643,
+      "w" : 0.41358021670167555,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "synthesized by:",
+      "x" : 0.5709876525720166,
+      "y" : 0.5341569766715117,
+      "w" : 0.10493826716201105,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[A] Mesangial cells within the glomerular stalk",
+      "x" : 0.6553497976594649,
+      "y" : 0.5181944445476089,
+      "w" : 0.2736625431468652,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011692505942450526,
+      "text" : "[B] Visceral podocytes of the renal corpuscle",
+      "x" : 0.6522633789437584,
+      "y" : 0.5072351420194561,
+      "w" : 0.26748969120049626,
+      "conf" : 1
+    },
+    {
+      "h" : 0.013120154804653672,
+      "text" : "[C] Endothelial cells of peritubular capillaries",
+      "x" : 0.6491769573868313,
+      "y" : 0.4948934107836918,
+      "w" : 0.26543208188230893,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011627906163533486,
+      "text" : "[D] Principal cells of medullary collecting ducts",
+      "x" : 0.6574074108796295,
+      "y" : 0.4840116279796511,
+      "w" : 0.27777776178324,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01176356527540423,
+      "text" : "[E] Epithelial cells of the thick ascending limb and early distal convoluted",
+      "x" : 0.7304526725308642,
+      "y" : 0.47245155063151667,
+      "w" : 0.4238682872844193,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "tubule",
+      "x" : 0.5390946508916323,
+      "y" : 0.460755814001938,
+      "w" : 0.04115226133814398,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "Q26. [2020 Exam] Under conditions of low tubular flow and",
+      "x" : 0.7098765469958848,
+      "y" : 0.4353197675145349,
+      "w" : 0.37860081030887627,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "concentrated acidic urine, Tamm-Horsfall glycoprotein precipitates",
+      "x" : 0.7376543136831277,
+      "y" : 0.4207848836482559,
+      "w" : 0.43827157650353776,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011141006681654186,
+      "text" : "to form:",
+      "x" : 0.54629629599368,
+      "y" : 0.407703488547002,
+      "w" : 0.05589448580951806,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011627906163533486,
+      "text" : "[A] The organic matrix of Hyaline Casts and pathological urinary casts",
+      "x" : 0.722222217489712,
+      "y" : 0.3909883719476745,
+      "w" : 0.40740741273892,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[B] Fibrin thrombi within the afferent arteriole",
+      "x" : 0.6502057657750342,
+      "y" : 0.38013888898620607,
+      "w" : 0.26748969120049626,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011692505942450637,
+      "text" : "[C] Calcium oxalate monohydrate calculi",
+      "x" : 0.6378600782578877,
+      "y" : 0.3677648579805438,
+      "w" : 0.2427983553904407,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "text" : "[D] Amyloid fibrils in the glomerular mesangium",
+      "x" : 0.6574074077846366,
+      "y" : 0.3561111110528479,
+      "w" : 0.2818930044114215,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010290697415669792,
+      "text" : "[E] Dense immune complex spikes in the GBM",
+      "x" : 0.6532921788237311,
+      "y" : 0.3451453488813788,
+      "w" : 0.26954732451049035,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01162790722317164,
+      "text" : "Q19. [2021 Exam] Ultrastructurally, the prominent 'basal striations'",
+      "x" : 0.24999999569958853,
+      "y" : 0.4345930231976744,
+      "w" : 0.4300411392307881,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "observed in TAL cuboidal epithelial cells are formed by:",
+      "x" : 0.22016461529492432,
+      "y" : 0.4207848838420543,
+      "w" : 0.3744855916725015,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01029069794548887,
+      "text" : "[A] Dense arrays of rough endoplasmic reticulum cisternae synthesizing",
+      "x" : 0.24279834866255165,
+      "y" : 0.40485465126846265,
+      "w" : 0.4197530686480445,
+      "conf" : 1
+    },
+    {
+      "h" : 0.007267441749572723,
+      "text" : "renin",
+      "x" : 0.05144032983539093,
+      "y" : 0.39316860472383725,
+      "w" : 0.0370370367038175,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "text" : "[B] Longitudinal stacks of Golgi complexes producing mucin",
+      "x" : 0.21090535572702315,
+      "y" : 0.38083333330701885,
+      "w" : 0.3559670598252015,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011731265915764677,
+      "text" : "[C] Parallel bundles of keratin intermediate filaments in the apical cytoplasm",
+      "x" : 0.25617284694787357,
+      "y" : 0.37058785505605496,
+      "w" : 0.44650206175990076,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[D] Deep basolateral plasma membrane infoldings enclosing vertically",
+      "x" : 0.23765431586934171,
+      "y" : 0.35828488366642447,
+      "w" : 0.40946499806530073,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "oriented, elongated mitochondria",
+      "x" : 0.13477366509773656,
+      "y" : 0.3466569768350291,
+      "w" : 0.20370370636946,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[E] Linear arrays of endocytic vacuoles containing reabsorbed albumin",
+      "x" : 0.23868313271604924,
+      "y" : 0.33502906982194774,
+      "w" : 0.4115226313752949,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "Q20. [2020 Exam] The abundant elongated mitochondria packed",
+      "x" : 0.24176954318930047,
+      "y" : 0.30736111101379393,
+      "w" : 0.4135802167016755,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "within the basolateral infoldings of the TAL provide ATP primarily for:",
+      "x" : 0.25823044709362153,
+      "y" : 0.29430555545239107,
+      "w" : 0.44650206175990076,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01031007766723635,
+      "text" : "[A] Passive diffusion of water through aquaporin channels",
+      "x" : 0.204732516015089,
+      "y" : 0.27682170540045997,
+      "w" : 0.34362137992427033,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011627906163533597,
+      "text" : "[B] Lysosomal degradation of filtered immunoglobulins",
+      "x" : 0.19753086968449912,
+      "y" : 0.26598837218992255,
+      "w" : 0.32921809070515184,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011731265915764677,
+      "text" : "[C] Apical H+\/K+ ATPase pumps causing severe urine acidification",
+      "x" : 0.22839506661522624,
+      "y" : 0.25441214506506904,
+      "w" : 0.3909464902098074,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[D] Apical secretion of Tamm-Horsfall glycoprotein into blood",
+      "x" : 0.21399177558299018,
+      "y" : 0.2434722220361477,
+      "w" : 0.36213991177157034,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[E] Basolateral Na+\/K+ ATPase pumps driving active sodium reabsorption",
+      "x" : 0.24897119773662543,
+      "y" : 0.2318055556159086,
+      "w" : 0.43209877254078227,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "text" : "Q27. [2024 Exam] Why is the Thick Ascending Limb of Henle referred",
+      "x" : 0.7427983594650205,
+      "y" : 0.306666666898892,
+      "w" : 0.4444444284499066,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011666666666666714,
+      "text" : "to physiologically as the 'Diluting Segment' of the nephron?",
+      "x" : 0.7109053514060355,
+      "y" : 0.2936111110528479,
+      "w" : 0.38477363826343847,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01031007766723635,
+      "text" : "[A] It converts urea into pure water via enzymatic hydrolysis",
+      "x" : 0.6944444488425925,
+      "y" : 0.27682170541862866,
+      "w" : 0.35185184118882673,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011627906163533486,
+      "text" : "[B] Active NaCI reabsorption without water permeability dilutes fluid (~100",
+      "x" : 0.7366255130315501,
+      "y" : 0.26598837228682165,
+      "w" : 0.436213991177157,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "mOsm\/kg)",
+      "x" : 0.5514403283950617,
+      "y" : 0.25363372087572694,
+      "w" : 0.06584361814103035,
+      "conf" : 0.5
+    },
+    {
+      "h" : 0.011692505942450637,
+      "text" : "[C] It synthesizes hypotonic saline within the epithelial cytoplasm",
+      "x" : 0.7088477413837448,
+      "y" : 0.2427648581016678,
+      "w" : 0.3806584196270638,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[D] Secretes massive volumes of water from vasa recta into lumen",
+      "x" : 0.7129629627314815,
+      "y" : 0.2318055556704144,
+      "w" : 0.38888888089162,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010290697415669792,
+      "text" : "[E] It reabsorbs water in huge quantities without transporting ions",
+      "x" : 0.7088477302126203,
+      "y" : 0.22014534886926662,
+      "w" : 0.38477363826343836,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011692506472269715,
+      "text" : "Q21. [2024 Exam] On the apical (luminal) membrane of TAL cuboidal",
+      "x" : 0.2561728381001373,
+      "y" : 0.1802648581001045,
+      "w" : 0.4423867951399125,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "epithelial cells, active transport of solutes is mediated by the",
+      "x" : 0.23148148803154983,
+      "y" : 0.1664244186773256,
+      "w" : 0.39300409952799475,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "electroneutral:",
+      "x" : 0.08436214115226336,
+      "y" : 0.15406976751453483,
+      "w" : 0.09876542721154555,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[A] Na+-K+-2Cl- cotransporter isoform 2 (NKCC2)",
+      "x" : 0.17695472890946512,
+      "y" : 0.1373611111921405,
+      "w" : 0.2880658323659837,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[B] H+-ATPase proton pump",
+      "x" : 0.11728395342935517,
+      "y" : 0.1256944443692623,
+      "w" : 0.16872427598485404,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "text" : "[C] Epithelial sodium channel (ENaC)",
+      "x" : 0.14197531227709176,
+      "y" : 0.11403746780989704,
+      "w" : 0.2181069955885785,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "[D] Na+\/glucose cotransporter-2 (SGLT2)",
+      "x" : 0.15432099170096011,
+      "y" : 0.10247093030523247,
+      "w" : 0.24279835539044076,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[E] Na+\/CI- cotransporter (NCCT \/ thiazide-sensitive)",
+      "x" : 0.18724280349794223,
+      "y" : 0.09084302332848843,
+      "w" : 0.30864197353147116,
+      "conf" : 1
+    },
+    {
+      "h" : 0.011692505942450637,
+      "text" : "Q28. [Faculty Exam] In light microscopy, how can cross-sections of",
+      "x" : 0.7366255213305897,
+      "y" : 0.18026485822279192,
+      "w" : 0.4320987725407823,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365605,
+      "text" : "the Thick Ascending Limb be reliably distinguished from Proximal",
+      "x" : 0.7325102951989024,
+      "y" : 0.16642441872577518,
+      "w" : 0.42798350592079415,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "Convoluted Tubules?",
+      "x" : 0.5925925911522634,
+      "y" : 0.15406976738372102,
+      "w" : 0.14403291618299174,
+      "conf" : 1
+    },
+    {
+      "h" : 0.01027777777777783,
+      "text" : "[A] TAL epithelial cells are simple squamous with bulging nuclei",
+      "x" : 0.7047325149434156,
+      "y" : 0.1373611113374893,
+      "w" : 0.37242798235431407,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010277777777777719,
+      "text" : "[B] TAL cells display intense apical PAS-positivity matching the PCT",
+      "x" : 0.7150205711676956,
+      "y" : 0.12569444424208215,
+      "w" : 0.3971193421561763,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010297157499525311,
+      "text" : "[C] Wider, clearer lumens and sharp margins due to ABSENCE of brush",
+      "x" : 0.7232510236368315,
+      "y" : 0.11403746768271666,
+      "w" : 0.41358021670167555,
+      "conf" : 1
+    },
+    {
+      "h" : 0.00872092988755968,
+      "text" : "border",
+      "x" : 0.5390946509602195,
+      "y" : 0.1031976744670543,
+      "w" : 0.04526748897144628,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[D] Smaller, irregular lumens occluded by cellular debris",
+      "x" : 0.6810699643347049,
+      "y" : 0.09084302332848843,
+      "w" : 0.32921809070515173,
+      "conf" : 1
+    },
+    {
+      "h" : 0.010174418555365716,
+      "text" : "[E] TAL tubules are surrounded by thick smooth muscle sphincters",
+      "x" : 0.711934161265432,
+      "y" : 0.07921511633357553,
+      "w" : 0.39094649020980743,
+      "conf" : 1
+    },
+    {
+      "h" : 0.017519379191928475,
+      "text" : "Twisted Medicine • Renal Histology Master Class • Strictly Grounded in Faculty & Board 5 On Past Papers",
+      "x" : 0.3179012416923867,
+      "y" : 0.014573643611020815,
+      "w" : 0.5699588127855986,
+      "conf" : 1
+    },
+    {
+      "h" : 0.007344961166381836,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567900205762,
+      "y" : 0.019660852735567502,
+      "w" : 0.19135802646852884,
+      "conf" : 1
+    }
+  ],
+  "page" : 32
+}

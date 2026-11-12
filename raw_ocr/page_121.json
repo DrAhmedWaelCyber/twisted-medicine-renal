@@ -1,0 +1,885 @@
+{
+  "items" : [
+    {
+      "text" : "Twisted Medicine • Renal System Module • Lecture 31 MCQ Masterclass",
+      "conf" : 1,
+      "y" : 0.9745833335703651,
+      "x" : 0.26973684107142865,
+      "w" : 0.42293229915528396,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "Twisted Medicine Medical Series • Urine Chemistry, Bence-Jones, PKU, Alkaptonuria, MSUD, Cystinuria & Renal Calculi • Standard Practice Bank",
+      "conf" : 1,
+      "y" : 0.9643217052551112,
+      "x" : 0.4069548755325818,
+      "w" : 0.7011277769899129,
+      "h" : 0.01031007766723624
+    },
+    {
+      "text" : "Page 3 of 4",
+      "conf" : 1,
+      "y" : 0.9745833331858949,
+      "x" : 0.9088345853696742,
+      "w" : 0.06578947022010917,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "Q29. [2025 Exam] In Tyrosinemia Type 1 (hepatorenal",
+      "conf" : 1,
+      "y" : 0.9368055556791872,
+      "x" : 0.23214285134711798,
+      "w" : 0.34774435826294026,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "tyrosinemia), fumarylacetoacetate hydrolase deficiency leads to",
+      "conf" : 1,
+      "y" : 0.9237467701909245,
+      "x" : 0.26503759812030064,
+      "w" : 0.413533806543741,
+      "h" : 0.01028423786163335
+    },
+    {
+      "text" : "accumulation of which pathognomonic toxic biomarker?",
+      "conf" : 1,
+      "y" : 0.9099515504377182,
+      "x" : 0.24060149761904787,
+      "w" : 0.36842105955978166,
+      "h" : 0.01176356527540412
+    },
+    {
+      "text" : "[A] Homogentisic acid",
+      "conf" : 1,
+      "y" : 0.894583333525255,
+      "x" : 0.1184210510808271,
+      "w" : 0.12406014196312229,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[B] Phenylpyruvate",
+      "conf" : 0.5,
+      "y" : 0.8815277779638522,
+      "x" : 0.10996240416666672,
+      "w" : 0.11090225011303131,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Isovaleryl-glycine",
+      "conf" : 1,
+      "y" : 0.8698611112560419,
+      "x" : 0.1146616555137844,
+      "w" : 0.12030074272457425,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[D] Methylmalonic acid",
+      "conf" : 1,
+      "y" : 0.8575710595103596,
+      "x" : 0.12030075352443605,
+      "w" : 0.13157894044021837,
+      "h" : 0.008746769693162793
+    },
+    {
+      "text" : "[E] Succinylacetone (causes porphyria-like crises & Fanconi syndrome)",
+      "conf" : 1,
+      "y" : 0.8451453488510979,
+      "x" : 0.25375939351503773,
+      "w" : 0.39849620958954896,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "Q30. [2024 Exam] A distinctive odor of 'sweaty feet' in an acutely",
+      "conf" : 1,
+      "y" : 0.8080878549591557,
+      "x" : 0.26691728627819566,
+      "w" : 0.41729323869125173,
+      "h" : 0.011731265915764677
+    },
+    {
+      "text" : "ill, encephalopathic infant with metabolic ketoacidosis is",
+      "conf" : 1,
+      "y" : 0.7943055555190094,
+      "x" : 0.2415413472117796,
+      "w" : 0.37030073175492,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "characteristic of:",
+      "conf" : 1,
+      "y" : 0.7812500000726744,
+      "x" : 0.11560150567042601,
+      "w" : 0.11466164935157935,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[B] Maple syrup urine disease",
+      "conf" : 1,
+      "y" : 0.7536337208575581,
+      "x" : 0.13909774154135346,
+      "w" : 0.16917292185604443,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[C] Alkaptonuria",
+      "conf" : 0.5,
+      "y" : 0.7405523254118218,
+      "x" : 0.10244360924185464,
+      "w" : 0.09586465315883919,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[DJ Isovaleric Acidemia (isovaleryl-CoA dehydrogenase deficiency)",
+      "conf" : 1,
+      "y" : 0.728197674491279,
+      "x" : 0.240601508411654,
+      "w" : 0.3721804478286754,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "Q36. [2023 Exam] The Murexide Test is the definitive qualitative",
+      "conf" : 1,
+      "y" : 0.9368055556489062,
+      "x" : 0.7124060099154136,
+      "w" : 0.4097744182748473,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "chemical reaction for which urinary stone component?",
+      "conf" : 1,
+      "y" : 0.9237467700455757,
+      "x" : 0.6842105203634086,
+      "w" : 0.3571428508744833,
+      "h" : 0.01028423786163335
+    },
+    {
+      "text" : "[A] Uric Acid \/ Urates (HNO3 evaporation + NH3 gives purple murexide)",
+      "conf" : 1,
+      "y" : 0.9076453487497058,
+      "x" : 0.7048872219924811,
+      "w" : 0.39473682132065513,
+      "h" : 0.010290697945488758
+    },
+    {
+      "text" : "[B] Calcium oxalate",
+      "conf" : 1,
+      "y" : 0.8960755815649224,
+      "x" : 0.5620300735588972,
+      "w" : 0.10902255597858446,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[DJ Magnesium ammonium phosphate",
+      "conf" : 1,
+      "y" : 0.8698611109168948,
+      "x" : 0.612781952819549,
+      "w" : 0.21428570174896655,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "Q37. [2022 Exam] In chemical stone testing, how is the presence",
+      "conf" : 1,
+      "y" : 0.8080878550802797,
+      "x" : 0.7161654187499998,
+      "w" : 0.4172932386912518,
+      "h" : 0.011731265915764788
+    },
+    {
+      "text" : "of Ammonium (NH4+) in a struvite calculus definitively detected?",
+      "conf" : 1,
+      "y" : 0.7950193796811303,
+      "x" : 0.7180451163063908,
+      "w" : 0.42105262696014545,
+      "h" : 0.011705425580342599
+    },
+    {
+      "text" : "[A] Boiling with dilute HCl to form white fumes",
+      "conf" : 1,
+      "y" : 0.7791279073307205,
+      "x" : 0.6353383456140349,
+      "w" : 0.25563908240334066,
+      "h" : 0.011744185553656639
+    },
+    {
+      "text" : "[B] Heating with NaOH evolves ammonia gas turning red litmus blue",
+      "conf" : 1,
+      "y" : 0.7667151162063954,
+      "x" : 0.6945488658834588,
+      "w" : 0.37781955217132457,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[C] Adding cold ethanol to precipitate yellow crystals",
+      "conf" : 1,
+      "y" : 0.7544121448243843,
+      "x" : 0.6513157943295738,
+      "w" : 0.2913533806543741,
+      "h" : 0.0117312653859456
+    },
+    {
+      "text" : "[D] Adding acetic acid to generate a rotten egg odor",
+      "conf" : 1,
+      "y" : 0.7420704135583389,
+      "x" : 0.650375943468045,
+      "w" : 0.2894736865199271,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[E] Adding copper sulfate to produce a buret purple ring",
+      "conf" : 1,
+      "y" : 0.7289244186773256,
+      "x" : 0.660714290946115,
+      "w" : 0.3139097541463538,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "Q31. [2023 Exam] Hartnup Disease is an inborn error of neutral",
+      "conf" : 1,
+      "y" : 0.6795704132979223,
+      "x" : 0.2622180438909776,
+      "w" : 0.40789470220109186,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "amino acid transport (B0AT1). The inability to absorb Tryptophan",
+      "conf" : 1,
+      "y" : 0.6656976742732559,
+      "x" : 0.26879699638157883,
+      "w" : 0.42105262696014556,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "results in deficiency of:",
+      "conf" : 1,
+      "y" : 0.6525484493942715,
+      "x" : 0.1343984979088345,
+      "w" : 0.15601503000595343,
+      "h" : 0.011763565805223308
+    },
+    {
+      "text" : "[A] Niacin (B3) deficiency, causing Pellagra (3-Ds)",
+      "conf" : 1,
+      "y" : 0.636656976895386,
+      "x" : 0.19548872481203,
+      "w" : 0.27819547783462883,
+      "h" : 0.011686046388414195
+    },
+    {
+      "text" : "[B] Thyroxine (T4) synthesis, causing congenital cretinism",
+      "conf" : 1,
+      "y" : 0.6243055557942551,
+      "x" : 0.2171052671757518,
+      "w" : 0.3214285526234499,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Melanin synthesis, causing oculocutaneous albinism",
+      "conf" : 1,
+      "y" : 0.611941214873546,
+      "x" : 0.21334586845238085,
+      "w" : 0.3139097541463538,
+      "h" : 0.011673126220703045
+    },
+    {
+      "text" : "[D] Hemoglobin heme synthesis, causing microcytic anemia",
+      "conf" : 1,
+      "y" : 0.5995833331556137,
+      "x" : 0.2227443567434212,
+      "w" : 0.3327067613087482,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[E] Epinephrine synthesis, causing profound orthostatic hypotension",
+      "conf" : 1,
+      "y" : 0.5872222221686025,
+      "x" : 0.24530075660244358,
+      "w" : 0.3778195521713246,
+      "h" : 0.008888888623979407
+    },
+    {
+      "text" : "Q32. [2022 Exam] In qualitative chemical calculus analysis, adding",
+      "conf" : 1,
+      "y" : 0.5508430232241747,
+      "x" : 0.27349624415726814,
+      "w" : 0.4266917313027948,
+      "h" : 0.011686046918233162
+    },
+    {
+      "text" : "dilute Hydrochloric Acid (HCI) directly produces active",
+      "conf" : 1,
+      "y" : 0.5370833331556137,
+      "x" : 0.23496240159774445,
+      "w" : 0.353383440666281,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "effervescence (gas bubbles). This confirms:",
+      "conf" : 1,
+      "y" : 0.5233042638966878,
+      "x" : 0.20206767276785706,
+      "w" : 0.2875939704461718,
+      "h" : 0.011724805831909269
+    },
+    {
+      "text" : "[A] Carbonate (CO3^2- liberating CO2 gas)",
+      "conf" : 1,
+      "y" : 0.5079295864779982,
+      "x" : 0.17669172631578955,
+      "w" : 0.240601507388457,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[B] Uric acid",
+      "conf" : 1,
+      "y" : 0.4956395349560553,
+      "x" : 0.09116541300051154,
+      "w" : 0.0733526903120928,
+      "h" : 0.011796121067470855
+    },
+    {
+      "text" : "[C] Calcium oxalate",
+      "conf" : 1,
+      "y" : 0.48328488359375,
+      "x" : 0.11278195394736845,
+      "w" : 0.11278195521713245,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[D] Cystine",
+      "conf" : 1,
+      "y" : 0.47093023260658917,
+      "x" : 0.08928571538220548,
+      "w" : 0.06578947022010917,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[E] Magnesium ammonium phosphate",
+      "conf" : 1,
+      "y" : 0.45857558146802324,
+      "x" : 0.1625939870864661,
+      "w" : 0.21240600761451964,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "Q33. [2021 Exam] What is the classical chemical test used to",
+      "conf" : 1,
+      "y" : 0.42223837218386634,
+      "x" : 0.25657895227913524,
+      "w" : 0.3928571491255167,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "confirm Calcium in an acid-dissolved renal calculus powder?",
+      "conf" : 1,
+      "y" : 0.4083720926692796,
+      "x" : 0.2556391026942354,
+      "w" : 0.39473682132065513,
+      "h" : 0.01174418555365675
+    },
+    {
+      "text" : "[A] Adding ferric chloride to produce a violet color",
+      "conf" : 1,
+      "y" : 0.39319444452944025,
+      "x" : 0.19454887678571414,
+      "w" : 0.276315783700182,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[B] Adding silver nitrate to produce a black precipitate",
+      "conf" : 1,
+      "y" : 0.380138888743958,
+      "x" : 0.20582706469298256,
+      "w" : 0.29887217913147013,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[C] Adding sodium nitroprusside to produce a red color",
+      "conf" : 1,
+      "y" : 0.3676274079020408,
+      "x" : 0.20959353402514844,
+      "w" : 0.30652884422318705,
+      "h" : 0.01202932145860458
+    },
+    {
+      "text" : "[D] Adding Ammonium Oxalate to form a white precipitate of Calcium Oxalate",
+      "conf" : 1,
+      "y" : 0.35541666651108217,
+      "x" : 0.270676697086466,
+      "w" : 0.4285714034979331,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[E] Adding Nessler's reagent to produce a brown precipitate",
+      "conf" : 1,
+      "y" : 0.3437500000726744,
+      "x" : 0.22274436644736825,
+      "w" : 0.3327067613087482,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Q34. [2020 Exam] In chemical stone analysis, the presence of",
+      "conf" : 1,
+      "y" : 0.2936111111739719,
+      "x" : 0.2565789424107144,
+      "w" : 0.3966165373944105,
+      "h" : 0.011666666666666714
+    },
+    {
+      "text" : "Oxalate in a stone solution is confirmed when adding dilute",
+      "conf" : 1,
+      "y" : 0.2798546511307334,
+      "x" : 0.2518797030827067,
+      "w" : 0.38345865651397376,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "Potassium Permanganate (KMnO4) results in:",
+      "conf" : 1,
+      "y" : 0.26598837228682165,
+      "x" : 0.2095864612468673,
+      "w" : 0.30263156740036395,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "[A] Decolorizes purple KMnO4 (oxalate reduces permanganate)",
+      "conf" : 1,
+      "y" : 0.25069444424208215,
+      "x" : 0.23402255199718053,
+      "w" : 0.3515037465318341,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[B] Formation of an intense blue ring at the interface",
+      "conf" : 1,
+      "y" : 0.23763888882602813,
+      "x" : 0.20300752368421035,
+      "w" : 0.293233074788821,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Precipitation of bright yellow ammonium phosphomolybdate",
+      "conf" : 1,
+      "y" : 0.22597222240578907,
+      "x" : 0.23120301340852112,
+      "w" : 0.353383440666281,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[D] Generation of bright red murexide pigment",
+      "conf" : 1,
+      "y" : 0.21291666688072358,
+      "x" : 0.18421052955827064,
+      "w" : 0.25939849261154296,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[E] Complete gelatinization of the acidic solution",
+      "conf" : 1,
+      "y" : 0.20055878551405099,
+      "x" : 0.18984962499999997,
+      "w" : 0.2706766793575328,
+      "h" : 0.011673126220703156
+    },
+    {
+      "text" : "Q35. [2024 Exam] What is the definitive chemical test for",
+      "conf" : 1,
+      "y" : 0.16497093028706394,
+      "x" : 0.24248120756578934,
+      "w" : 0.36466164935157935,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "Phosphate in dissolved urinary calculi?",
+      "conf" : 1,
+      "y" : 0.15112726111840696,
+      "x" : 0.18796992736842105,
+      "w" : 0.2556390824033407,
+      "h" : 0.011698966556125234
+    },
+    {
+      "text" : "[A] Reaction with ammonium molybdate in nitric acid yielding a bright",
+      "conf" : 1,
+      "y" : 0.13444767439437982,
+      "x" : 0.2481202943609025,
+      "w" : 0.38345861263535674,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "canary-yellow precipitate on warming",
+      "conf" : 1,
+      "y" : 0.12281976736918598,
+      "x" : 0.16165413182957405,
+      "w" : 0.2105263134800728,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[B] Reaction with barium chloride yielding a green color",
+      "conf" : 1,
+      "y" : 0.11124677004557576,
+      "x" : 0.2095864609962408,
+      "w" : 0.31015036587746003,
+      "h" : 0.01028423786163335
+    },
+    {
+      "text" : "[C] Reaction with ninhydrin yielding a purple color",
+      "conf" : 1,
+      "y" : 0.09817829476305734,
+      "x" : 0.19736842462406007,
+      "w" : 0.2857142763117249,
+      "h" : 0.01031007766723635
+    },
+    {
+      "text" : "[D] Reaction with picric acid in alkali yielding an orange color",
+      "conf" : 1,
+      "y" : 0.08502906985828496,
+      "x" : 0.2246240644031954,
+      "w" : 0.34022555978584434,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[E] Immediate effervescence with sodium bicarbonate",
+      "conf" : 1,
+      "y" : 0.07346253233545186,
+      "x" : 0.20488722305764395,
+      "w" : 0.30075187326591707,
+      "h" : 0.0102971574995252
+    },
+    {
+      "text" : "Q38. [2021 Exam] Why do Uric Acid calculi fail to visualize on plain",
+      "conf" : 1,
+      "y" : 0.6802648581743422,
+      "x" : 0.7227443643092104,
+      "w" : 0.4304511195716886,
+      "h" : 0.011692505942450637
+    },
+    {
+      "text" : "abdominal radiography (KUB) but are readily detected on",
+      "conf" : 1,
+      "y" : 0.665697674491279,
+      "x" : 0.6926691775610901,
+      "w" : 0.37030073175492006,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "non-contrast helical CT?",
+      "conf" : 1,
+      "y" : 0.65334302313469,
+      "x" : 0.5874060123120302,
+      "w" : 0.16353382848304943,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[A] Uric acid crystals absorb X-rays 100 times more than cortical bone",
+      "conf" : 1,
+      "y" : 0.637361111301152,
+      "x" : 0.7001879747415412,
+      "w" : 0.385338328709112,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[B] Composed of light elements (C,H,N,O); radiolucent on X-rays",
+      "conf" : 1,
+      "y" : 0.624305555294717,
+      "x" : 0.688909780482456,
+      "w" : 0.3627819332778238,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[C] Uric acid dissolves instantly upon exposure to radiographic photons",
+      "conf" : 1,
+      "y" : 0.611941214873546,
+      "x" : 0.70206766287594,
+      "w" : 0.3928571491255166,
+      "h" : 0.011673126220703045
+    },
+    {
+      "text" : "[D] Plain X-rays only detect stones located inside the bladder",
+      "conf" : 1,
+      "y" : 0.6002777775793819,
+      "x" : 0.6757518839050751,
+      "w" : 0.336466149577642,
+      "h" : 0.011666666666666714
+    },
+    {
+      "text" : "[E] Uric acid calculi are surrounded by an impermeable lead capsule",
+      "conf" : 1,
+      "y" : 0.5879166668625547,
+      "x" : 0.6954887255639097,
+      "w" : 0.3759398360975692,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Q39. [2025 Exam] An alkaline urine (pH 7.8) stone from a chronic",
+      "conf" : 1,
+      "y" : 0.5515374676645481,
+      "x" : 0.7161654093609022,
+      "w" : 0.4172932386912518,
+      "h" : 0.010297157499525311
+    },
+    {
+      "text" : "UTI patient tests positive for Ammonium, Magnesium, and",
+      "conf" : 1,
+      "y" : 0.5363727390399136,
+      "x" : 0.6954887253759396,
+      "w" : 0.3759398360975692,
+      "h" : 0.011698966026306157
+    },
+    {
+      "text" : "Phosphate. What is the calculus?",
+      "conf" : 1,
+      "y" : 0.5240277777577285,
+      "x" : 0.6165413561090225,
+      "w" : 0.2180451119571688,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[A] Pure uric acid calculus",
+      "conf" : 1,
+      "y" : 0.5079295866536281,
+      "x" : 0.5817669197681703,
+      "w" : 0.14849623152885738,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[B] Struvite (Triple Phosphate \/ Mg-Ammonium-Phosphate) stone",
+      "conf" : 1,
+      "y" : 0.4955878550787164,
+      "x" : 0.6870300755325814,
+      "w" : 0.36278193327782393,
+      "h" : 0.0117312653859456
+    },
+    {
+      "text" : "[C] Calcium oxalate monohydrate calculus",
+      "conf" : 1,
+      "y" : 0.4832848837936046,
+      "x" : 0.6240601543233082,
+      "w" : 0.23684209718025484,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[D] Pure cystine calculus",
+      "conf" : 1,
+      "y" : 0.4701453487678745,
+      "x" : 0.5770676709116541,
+      "w" : 0.13909773891731447,
+      "h" : 0.01029069794548887
+    },
+    {
+      "text" : "[E] Xanthine calculus",
+      "conf" : 1,
+      "y" : 0.4585755813045058,
+      "x" : 0.5657894721804511,
+      "w" : 0.12030075369422855,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "Q40. [Faculty Exam] Watson-Schwartz Test is clinically utilized to",
+      "conf" : 1,
+      "y" : 0.42151162771317835,
+      "x" : 0.7189849671365913,
+      "w" : 0.4229322991552841,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "differentiate which two porphyrin precursors in suspected",
+      "conf" : 1,
+      "y" : 0.40764534889833637,
+      "x" : 0.6954887180451128,
+      "w" : 0.3759398360975692,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "porphyria vs. hemolytic jaundice?",
+      "conf" : 1,
+      "y" : 0.39458333357397984,
+      "x" : 0.6174812030705314,
+      "w" : 0.2199248060916157,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[A] Urobilinogen (chloroform-soluble) vs Porphobilinogen (insoluble)",
+      "conf" : 1,
+      "y" : 0.3786337210029069,
+      "x" : 0.6945488759210525,
+      "w" : 0.3740601639024308,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] Bilirubin from biliverdin",
+      "conf" : 1,
+      "y" : 0.36707041352200176,
+      "x" : 0.581766919149436,
+      "w" : 0.14849623152885738,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[C] Bence-Jones protein from albumin",
+      "conf" : 1,
+      "y" : 0.3554166665474194,
+      "x" : 0.6137218061325187,
+      "w" : 0.21240600761451967,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[D] Homogentisic acid from phenylpyruvate",
+      "conf" : 1,
+      "y" : 0.342354651148902,
+      "x" : 0.6259398526315789,
+      "w" : 0.24060150738845698,
+      "h" : 0.01029069741566968
+    },
+    {
+      "text" : "[E] Cystine from methionine",
+      "conf" : 1,
+      "y" : 0.32998062036731934,
+      "x" : 0.5836466141917295,
+      "w" : 0.15601503000595351,
+      "h" : 0.011705425580342599
+    },
+    {
+      "text" : "Q41. [Core Exam] A 4-day-old infant presents with lethargy,",
+      "conf" : 1,
+      "y" : 0.2928908269264319,
+      "x" : 0.700187976284461,
+      "w" : 0.3853383287091122,
+      "h" : 0.01310723516676171
+    },
+    {
+      "text" : "vomiting, and sweet burnt-sugar diaper odor with marked",
+      "conf" : 1,
+      "y" : 0.2798546511307334,
+      "x" : 0.6936090262781953,
+      "w" : 0.37218044782867543,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "ketoacidosis. Diagnosis and urgent dietary management:",
+      "conf" : 1,
+      "y" : 0.26598837216569765,
+      "x" : 0.6926691775610901,
+      "w" : 0.37030073175492006,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "[A] MSUD; restrict branched-chain amino acids (Leu, lle, Val)",
+      "conf" : 1,
+      "y" : 0.2506944443692623,
+      "x" : 0.6776315846177943,
+      "w" : 0.34022555978584423,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[B] Classic Phenylketonuria; high-protein phenylalanine diet",
+      "conf" : 1,
+      "y" : 0.23763888884419682,
+      "x" : 0.6738721846099622,
+      "w" : 0.3327067613087482,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Alkaptonuria; high-dose vitamin C and homogentisate infusion",
+      "conf" : 1,
+      "y" : 0.22597222238762038,
+      "x" : 0.6889097789708646,
+      "w" : 0.3627819552171325,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[D] Cystinuria; strict fluid restriction and acidifying agents",
+      "conf" : 1,
+      "y" : 0.21291666671720605,
+      "x" : 0.6682330794924812,
+      "w" : 0.3214285745627583,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[E] Classic Galactosemia; lactose-rich breast milk supplementation",
+      "conf" : 1,
+      "y" : 0.2012532298090754,
+      "x" : 0.6898496178571432,
+      "w" : 0.37218044782867543,
+      "h" : 0.01028423786163335
+    },
+    {
+      "text" : "Q42. [Clinical Vignette] An elderly male with osteolytic lesions has",
+      "conf" : 1,
+      "y" : 0.16419573617598654,
+      "x" : 0.7218045059210528,
+      "w" : 0.4285714034979331,
+      "h" : 0.011724805831909157
+    },
+    {
+      "text" : "4+ proteinuria (6 g\/d) with trace dipstick, 4+ SSA turbidity, and",
+      "conf" : 1,
+      "y" : 0.15112726111840696,
+      "x" : 0.7086466205639097,
+      "w" : 0.40225564173705963,
+      "h" : 0.011698966556125234
+    },
+    {
+      "text" : "Bence-Jones protein on electrophoresis. Diagnosis:",
+      "conf" : 1,
+      "y" : 0.13736111130115203,
+      "x" : 0.677631583200188,
+      "w" : 0.34022555978584423,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[A] Minimal Change Nephrotic Syndrome",
+      "conf" : 1,
+      "y" : 0.12136627916061055,
+      "x" : 0.6221804539943607,
+      "w" : 0.2293232987031586,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] Post-streptococcal glomerulonephritis",
+      "conf" : 1,
+      "y" : 0.10901162800387598,
+      "x" : 0.6212406053571427,
+      "w" : 0.2312029928376057,
+      "h" : 0.011627906163533597
+    },
+    {
+      "text" : "[C] Diabetic glomerulosclerosis",
+      "conf" : 1,
+      "y" : 0.09665697668968026,
+      "x" : 0.5958646593984962,
+      "w" : 0.18045111957168858,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[D] Acute pyelonephritis with sterile pyuria",
+      "conf" : 1,
+      "y" : 0.08502906969476753,
+      "x" : 0.6231202968358396,
+      "w" : 0.23496240304580784,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[E] Multiple Myeloma with Bence-Jones cast nephropathy",
+      "conf" : 1,
+      "y" : 0.07194767424903098,
+      "x" : 0.6654135312656643,
+      "w" : 0.31954885848900294,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "Twisted Medicine • Clinical Biochemistry & Urine Chemistry Master Class • Faculty & Board Exa Taration",
+      "conf" : 1,
+      "y" : 0.013808139801356478,
+      "x" : 0.3148496284774435,
+      "w" : 0.5131578808804368,
+      "h" : 0.015988371107313326
+    },
+    {
+      "text" : "Confidential - Dedicated for Medical Student Revision",
+      "conf" : 1,
+      "y" : 0.017428940478309618,
+      "x" : 0.8214285754385962,
+      "w" : 0.2406014854491486,
+      "h" : 0.00874676995807222
+    }
+  ],
+  "page" : 121
+}

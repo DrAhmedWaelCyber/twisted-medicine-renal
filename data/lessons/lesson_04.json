@@ -1,0 +1,849 @@
+{
+  "id": 4,
+  "title": "Development of the Kidney - Embryology Lecture",
+  "department": "Anatomy & Embryology",
+  "department_desc": "Anatomy and embryonic development of the kidneys, ureters, bladder and urethra",
+  "booklet_pages": "Pages 13 - 16",
+  "pdf_pages": [
+    15,
+    16,
+    17,
+    18
+  ],
+  "question_count": 42,
+  "matrix_title": "Twisted Medicine High-Yield Pearls: Development of the Kidney - Embryology Lecture",
+  "summary_table": [
+    {
+      "domain": "Developmental Domain",
+      "content": "High-Yield Embryological Milestones, Derivatives & Board Pearls"
+    },
+    {
+      "domain": "3 Successive Renal Systems",
+      "content": "• Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),"
+    },
+    {
+      "domain": "Dual Origin of Metanephros",
+      "content": "Collecting Ducts & Tubules (1-3 million). • Metanephric Blastema (Excretory Nephrons): Sacral intermediate mesoderm -> Bowman's Capsule, PCT, Loop of Henle, DCT. • Critical Junction: DCT (blastema) connects to Collecting Tubule (bud). Failure of union -> congenital Polycystic Kidney Disease. • WT1: Expressed by blastema; regulates GDNF synthesis."
+    },
+    {
+      "domain": "Reciprocal Molecular Induction",
+      "content": "• RET Receptor Tyrosine Kinase: Expressed at ureteric bud tips; binds GDNF to stimulate bud branching. • FGF2 & WNT4: Secreted by bud tips; prevents blastema apoptosis & induces Mesenchymal-to-Epithelial Transition (MET) to form S-shaped"
+    },
+    {
+      "domain": "renal tubules.",
+      "content": "• Ascent: Sacral S1 to Lumbar T12-L3 (weeks 6-9), driven by spinal elongation and reduction of fetal body curvature."
+    },
+    {
+      "domain": "Ascent, Rotation & Vessels",
+      "content": "• Medial Rotation: 90° medial rotation brings hilum from ventral to anteromedial direction. • Sequential Revascularization: Lower transient aortic branches degenerate as new cranial branches form. Persistence of lower branches →> Accessory Renal Arteries (~25%), which can cross UPJ causing hydronephrosis. • Incidence & Fusion: 1 in 500; 95% fusion of lower poles across midline anterior to aorta (week 7 in pelvis)."
+    },
+    {
+      "domain": "Horseshoe Kidney (Ren Arcuatus)",
+      "content": "• Arrest of Ascent: Central isthmus gets trapped beneath the root of the Inferior Mesenteric Artery (IMA) at L3 • Associations & Risks: Turner Syndrome (45,XO), Trisomies (13, 18, 21); predisposing to UPJ obstruction, stones, and recurrent UTIs. • Unilateral Agenesis: 1 in 1000; failure of ureteric bud sprouting; solitary kidney undergoes compensatory hypertrophy with normal lifespan."
+    },
+    {
+      "domain": "Renal Agenesis & Potter",
+      "content": "• Bilateral Agenesis: 1 in 4000; complete absence of fetal urine -> Severe Oligohydramnios."
+    },
+    {
+      "domain": "Sequence",
+      "content": "• Potter Sequence Triad: (1) Pulmonary Hypoplasia (primary cause of neonatal death), (2) Potter Facies (flat nose, micrognathia, low-set ears), (3) Limb deformities (clubbed feet). Incompatible with life."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "All permanent anatomical structures of the human kidney and urinary excretory system embryologically develop from:",
+      "options": {
+        "A": "Paraxial (somitic) mesoderm",
+        "B": "Neural crest ectoderm",
+        "C": "Splanchnic lateral plate mesoderm",
+        "D": "Somatic lateral plate mesoderm",
+        "E": "Intermediate Mesoderm (nephrogenic cord)"
+      },
+      "correct_option": "E",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2021 Exam The Pronephros develops early in the 4th week within the cervical region and is characterized embryologically by being:",
+      "options": {
+        "A": "The origin of adult renal calyces",
+        "B": "The definitive source of adult proximal convoluted tubules",
+        "C": "An outgrowth of the hindgut endoderm DJ Completely non-functional in humans and undergoing full regression by end of week 4",
+        "E": "The primary functional kidney during the entire first trimester"
+      },
+      "correct_option": "D",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "The Mesonephros serves as an interim temporary embryonic kidney between weeks 6 and 10, functioning by:",
+      "options": {
+        "A": "Producing small quantities of dilute primitive urine before regressing in week 10",
+        "B": "Generating all adult renal glomeruli and podocytes",
+        "C": "Remaining active in females as the primary genital conduit",
+        "D": "Secreting large amounts of renin to regulate fetal circulation",
+        "E": "Producing concentrated adult-type hypertonic urine"
+      },
+      "correct_option": "A",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In the male embryo, while mesonephric excretory tubules regress, the persistent Mesonephric (Wolffian) Duct forms the:",
+      "options": {
+        "A": "Uterine tubes, uterus, and upper vagina",
+        "B": "Epididymis, Ductus Deferens, Ejaculatory Duct, and Seminal Vesicles",
+        "C": "Testicular seminiferous tubules and Leydig cells",
+        "D": "Spongy penile urethra and glans",
+        "E": "Prostatic gland stroma and capsule"
+      },
+      "correct_option": "B",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2022 Exam The definitive, permanent human kidney is the Metanephros, which first appears during embryonic development in:",
+      "options": {
+        "A": "Week 16 within the iliac fossa",
+        "B": "Week 3 in the thoracic region",
+        "C": "Week 5 in the sacral pelvis (opposite S1-S2 segments)",
+        "D": "Week 12 inside the umbilical cord",
+        "E": "Week 8 in the upper lumbar abdominal wall"
+      },
+      "correct_option": "C",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The Metanephros (permanent kidney) begins active glomerular filtration and urine production contributing to amniotic fluid at:",
+      "options": {
+        "A": "Week 8 of intrauterine life",
+        "B": "Birth after delivery [C. Week 20 of intrauterine life",
+        "D": "Week 12 of intrauterine life",
+        "E": "Week 6 of intrauterine life"
+      },
+      "correct_option": "D",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The Ureteric Bud (Metanephric Diverticulum) originates as an epithelial outgrowth sprouting from which structure?",
+      "options": {
+        "A": "Allantois diverticulum",
+        "B": "Cloacal membrane anterior margin",
+        "C": "Paramesonephric (Müllerian) duct cranial tip",
+        "D": "Pronephric duct cervical remnant",
+        "E": "Posteromedial wall of the caudal Mesonephric (Wolffian) Duct"
+      },
+      "correct_option": "E",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Which of the following embryonic statements regarding the Ureteric Bud is INCORRECT?",
+      "options": {
+        "A": "It is an Endodermal derivative",
+        "B": "It is present in both male and female embryos",
+        "C": "It arises directly from the mesonephric duct",
+        "D": "It develops into the ureter and collecting tubules",
+        "E": "It penetrates metanephric blastemal tissue"
+      },
+      "correct_option": "A",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "The branching arborization of the embryonic Ureteric Bud gives rise to which set of adult anatomical structures?",
+      "options": {
+        "A": "Bowman's capsules, PCTs, and Loops of Henle",
+        "B": "Urinary bladder trigone and prostatic urethra",
+        "C": "Efferent arterioles, vasa recta, and peritubular capillaries",
+        "D": "Adrenal cortex and medulla",
+        "E": "Ureter, Renal Pelvis, Major Calyces, Minor Calyces, and Collecting Tubules"
+      },
+      "correct_option": "E",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The collecting tubules and large papillary collecting ducts of Bellini of the kidney are derived from the:",
+      "options": {
+        "A": "Metanephric blastema",
+        "B": "Allantois",
+        "C": "Cloaca",
+        "D": "Ureteric bud",
+        "E": "Paramesonephric duct"
+      },
+      "correct_option": "D",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The Metanephric Blastema (Metanephrogenic mass) is embryologically derived from:",
+      "options": {
+        "A": "Splanchnic mesoderm surrounding the hindgut",
+        "B": "Ectodermal neural crest cells",
+        "C": "Unsegmented caudal Intermediate Mesoderm in the sacral region",
+        "D": "Somatopleuric mesoderm of the lower limb bud",
+        "E": "Yolk sac endodermal cells"
+      },
+      "correct_option": "C",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which of the following nephron components is derived embryologically from the Metanephric Blastema?",
+      "options": {
+        "A": "Major and minor calyces",
+        "B": "Bowman's Capsule, PCT, Loop of Henle, and Distal Convoluted Tubule (DCT)",
+        "C": "Ducts of Bellini opening at area cribrosa",
+        "D": "Cortical and medullary collecting ducts",
+        "E": "Ureter and renal pelvis"
+      },
+      "correct_option": "B",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The critical developmental junction between the excretory system (nephron) and collecting system occurs where:",
+      "options": {
+        "A": "The minor calyx joins the major calyx",
+        "B": "The renal pelvis transitions into the abdominal ureter",
+        "C": "The Bowman's capsule joins the proximal convoluted tubule",
+        "D": "The Loop of Henle transitions into the thick ascending limb",
+        "E": "The Distal Convoluted Tubule (blastema) connects to the Collecting Tubule"
+      },
+      "correct_option": "E",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Classical embryological theory explains congenital Polycystic Kidney Disease (PKD) primarily as a failure of:",
+      "options": {
+        "A": "Ureteric bud sprouting from the Wolffian duct",
+        "B": "Union or canalization between distal convoluted tubules and collecting ducts",
+        "C": "Regression of the pronephric duct",
+        "D": "Normal medial rotation of the renal hilum",
+        "E": "Degeneration of embryonic mesonephric arteries"
+      },
+      "correct_option": "B",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Development of the Kidney - Embryology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2022 Exam The RET Receptor Tyrosine Kinase essential for ureteric bud branching morphogenesis is expressed by the:",
+      "options": {
+        "A": "Interstitial fibroblasts of the medulla",
+        "B": "Endothelial cells of the renal artery",
+        "C": "Splanchnic mesoderm of the hindgut",
+        "D": "Podocyte foot processes in the glomerulus",
+        "E": "Epithelial tips of the Ureteric Bud to bind blastema-derived GDNF"
+      },
+      "correct_option": "E",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Signals secreted by the branching ureteric bud tips (FGF2 and WNT4) act on surrounding blastema cells to drive:",
+      "options": {
+        "A": "Mesenchymal-to-Epithelial Transition (MET) forming S-shaped renal tubules",
+        "B": "Differentiation of blastema into striated skeletal muscle",
+        "C": "Immediate calcification of renal papillae",
+        "D": "Rapid apoptotic cell death of the blastema cap",
+        "E": "Obliteration of the lumen of collecting tubules"
+      },
+      "correct_option": "A",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2023 Exam At week 5 of embryonic development, the early Metanephros is anatomically located in the:",
+      "options": {
+        "A": "Umbilical colomic stalk",
+        "B": "Sacral pelvic region opposite S1-S2 segments",
+        "C": "Thoracic cavity posterior to the pericardium [DJ Cervical neck region adjacent to the pharynx",
+        "E": "Epigastrium beneath the developing liver"
+      },
+      "correct_option": "B",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Between weeks 6 and 9, the ascent of the kidneys from the sacral pelvis to the lumbar region is primarily driven by:",
+      "options": {
+        "A": "Active muscular contraction of the ureteric smooth muscle",
+        "B": "Downward displacement caused by developing adrenal glands",
+        "C": "Diminution of fetal body curvature and longitudinal growth of lumbar/sacral spine",
+        "D": "Direct pulling action of the degenerating pronephros",
+        "E": "Rise in intra-amniotic hydrostatic pressure"
+      },
+      "correct_option": "D",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "During fetal ascent from pelvis to abdomen, the embryonic kidney undergoes which physiological rotation?",
+      "options": {
+        "A": "45 degrees Posterior tilt, placing pelvis against quadratus lumborum",
+        "B": "90 degrees Lateral rotation, directing hilum laterally",
+        "C": "No rotation occurs; hilum is medial from origin",
+        "D": "90 degrees Medial rotation, directing hilum anteromedially toward aorta",
+        "E": "180 degrees Inversion, flipping superior and inferior poles"
+      },
+      "correct_option": "D",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Failure of the embryonic kidney to undergo its normal 90-degree medial rotation during ascent results in:",
+      "options": {
+        "A": "Complete absence of the renal pelvis",
+        "B": "Total agenesis of the ureter",
+        "C": "The kidney remaining permanently inside the thorax",
+        "D": "Renal hilum facing directly anteriorly (ventrally)",
+        "E": "Renal hilum facing directly posteriorly against psoas"
+      },
+      "correct_option": "D",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Development of the Kidney - Embryology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Accessory (Supernumerary) Renal Arteries occur in approximately 25% of individuals and are caused by:",
+      "options": {
+        "A": "Aneurysmal dilatation of lumbar segmental arteries",
+        "B": "Premature branching of the common iliac artery",
+        "C": "Duplication of the abdominal aorta",
+        "D": "Persistence of transient lower embryonic aortic branches that fail to degenerate",
+        "E": "Incomplete medial rotation of the renal hilum"
+      },
+      "correct_option": "D",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "An accessory lower-pole renal artery crossing anterior to the ureter is clinically dangerous because it can cause:",
+      "options": {
+        "A": "Renal vein thrombosis and left varicocele",
+        "B": "Retrograde ejaculation into the bladder",
+        "C": "Renal cell carcinoma",
+        "D": "Extrinsic compression of Ureteropelvic Junction (UPJ) leading to Hydronephrosis",
+        "E": "Complete anuria from urethral stricture"
+      },
+      "correct_option": "D",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "A congenital condition where a normal kidney fails to ascend and remains permanently in the pelvis near sacral promontory is: Al Pelvic / Ectopic Kidney",
+      "options": {
+        "B": "Crossed renal ectopia with fusion",
+        "C": "Polycystic kidney disease",
+        "D": "Ren mobils / Nephroptosis",
+        "E": "Horseshoe kidney (Ren arcuatus)"
+      },
+      "correct_option": "A",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "An ectopic pelvic kidney typically derives its arterial blood supply directly from the:",
+      "options": {
+        "A": "Superior Mesenteric Artery",
+        "B": "Celiac trunk",
+        "C": "Inferior Phrenic Artery",
+        "D": "Splenic Artery",
+        "E": "Common Iliac or Internal Iliac Artery"
+      },
+      "correct_option": "E",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Supernumerary (extra) kidney is an extremely rare congenital anomaly that results embryologically from:",
+      "options": {
+        "A": "Failure of the metanephros to rotate medially",
+        "B": "Complete early bifurcation / division of the ureteric bud penetrating separate blastemas",
+        "C": "Persistence of pronephric tubules into adulthood",
+        "D": "Fusion of lower poles across the midline",
+        "E": "Entrapment beneath the inferior mesenteric artery"
+      },
+      "correct_option": "B",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Crossed Renal Ectopia with Fusion refers to an anatomical developmental malformation in which:",
+      "options": {
+        "A": "Kidney ascends into posterior mediastinum through diaphragm",
+        "B": "One kidney crosses midline to opposite side and fuses with normal kidney",
+        "C": "Both kidneys fuse at upper and lower poles forming a ring",
+        "D": "Kidneys remain fused in sacral pelvis without ascending",
+        "E": "The ureter opens abnormally into rectum or seminal vesicle"
+      },
+      "correct_option": "B",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Development of the Kidney - Embryology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2024 Exam In approximately 90% to 95% of cases of Horseshoe Kidney, the fusion occurs between which anatomical parts?",
+      "options": {
+        "A": "Lateral borders encircling the inferior vena cava",
+        "B": "Inferior (lower) poles across midline anterior to abdominal aorta",
+        "C": "Medial borders within the lesser pelvis",
+        "D": "Superior (upper) poles across midline posterior to aorta",
+        "E": "Right kidney upper pole and left kidney lower pole"
+      },
+      "correct_option": "B",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In Horseshoe Kidney, normal cranial ascent is arrested because the central parenchymal isthmus gets trapped under the:",
+      "options": {
+        "A": "Root of the Inferior Mesenteric Artery (IMA) at vertebral level L3",
+        "B": "Median sacral artery at S1",
+        "C": "Root of the Superior Mesenteric Artery (SMA) at L1",
+        "D": "Root of the Celiac Trunk at T12",
+        "E": "Bifurcation of the abdominal aorta at L4"
+      },
+      "correct_option": "A",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2023 Exam Because of entrapment beneath the root of the IMA, a Horseshoe Kidney is characteristically located at:",
+      "options": {
+        "A": "Right iliac fossa anterior to cecum",
+        "B": "Normal T12-L3 renal fossa",
+        "C": "Lower lumbar spine level (L3-L5) anterior to the great vessels",
+        "D": "Deep true pelvis beneath the bladder",
+        "E": "Thoracic T9-T11 vertebral level"
+      },
+      "correct_option": "C",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Horseshoe Kidney is strongly associated with which of the following genetic chromosomal syndromes?",
+      "options": {
+        "A": "Huntington disease",
+        "B": "Klinefelter syndrome (47,XXY)",
+        "C": "Turner Syndrome (45,X0) and Trisomies 13, 18, 21",
+        "D": "Fragile X syndrome",
+        "E": "Marfan syndrome"
+      },
+      "correct_option": "C",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Patients with Horseshoe Kidney are clinically predisposed to which set of secondary urological complications?",
+      "options": {
+        "A": "UPJ obstruction (hydronephrosis), Nephrolithiasis (kidney stones), and recurrent UTIs",
+        "B": "Complete testicular atrophy and impotence",
+        "C": "Renal agenesis and anuria",
+        "D": "Patent urachal fistula leaking urine",
+        "E": "Immediate neonatal pulmonary hypoplasia"
+      },
+      "correct_option": "A",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Unilateral Renal Agenesis (incidence ~1 in 1,000 live births) is caused embryologically by:",
+      "options": {
+        "A": "Premature regression of the pronephric duct",
+        "B": "Complete early failure of ureteric bud sprouting or failure of bud-blastema interaction",
+        "C": "Fusion of metanephric blastemas in the pelvis",
+        "D": "Mutation in the alpha-1 antitrypsin gene",
+        "E": "Entrapment beneath the inferior mesenteric artery"
+      },
+      "correct_option": "B",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Development of the Kidney - Embryology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2024 Exam Bilateral Renal Agenesis leads to complete absence of fetal urine output, resulting in which severe maternal condition?",
+      "options": {
+        "A": "Choriocarcinoma of the placenta",
+        "B": "Gestational diabetes mellitus",
+        "C": "Polyhydramnios (amniotic fluid volume >2000 mL)",
+        "D": "Placenta previa totalis",
+        "E": "Severe Oligohydramnios (amniotic fluid volume <400 mL)"
+      },
+      "correct_option": "E",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "In Potter Sequence (resulting from bilateral renal agenesis or severe oligohydramnios), the PRIMARY cause of death is:",
+      "options": {
+        "A": "Severe Pulmonary Hypoplasia due to lack of amniotic fluid inhalation & chest compression",
+        "B": "Intracranial berry aneurysm rupture",
+        "C": "Acute heart failure",
+        "D": "Renal cell carcinoma",
+        "E": "Sepsis from intestinal atresia"
+      },
+      "correct_option": "A",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2020 Exam The pathognomonic 'Potter Facies' observed in neonates with severe oligohydramnios is characterized by:",
+      "options": {
+        "A": "Exophthalmos and periorbital edema",
+        "B": "Cleft lip and palate with hypertelorism",
+        "C": "Flattened nose, recessed chin (micrognathia), prominent epicanthic folds, and low-set ears",
+        "D": "Facial hemangioma along trigeminal nerve",
+        "E": "Macrocephaly and bulging fontanelles"
+      },
+      "correct_option": "C",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Autosomal Recessive Polycystic Kidney Disease (ARPKD / Infantile type) is caused by PKHD1 gene mutation and features:",
+      "options": {
+        "A": "Malignant transformation to nephroblastoma",
+        "B": "Bilateral cylindrical dilatation of Collecting Ducts and Congenital Hepatic Fibrosis",
+        "C": "Adult onset in the 5th decade with berry aneurysms",
+        "D": "Unilateral involvement sparing the left kidney",
+        "E": "Cysts localized strictly to the renal cortex with normal liver"
+      },
+      "correct_option": "B",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Autosomal Dominant Polycystic Kidney Disease (ADPKD / Adult type) involves PKD1 or PKD2 mutations and is associated with:",
+      "options": {
+        "A": "Death within hours of birth from lung hypoplasia",
+        "B": "Exclusive presentation in female infants",
+        "C": "Bilateral huge kidneys with cysts in all nephron segments, hypertension,",
+        "D": "Severe oligohydramnios and Potter sequence",
+        "E": "Congenital absence of collecting tubules"
+      },
+      "correct_option": "C",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "[Clinical Vignette A 22-year-old female presents with recurrent flank pain and ultrasound reveals fused kidneys across midline at L3. The diagnosis is:",
+      "options": {
+        "A": "Horseshoe Kidney (Ren Arcuatus) arrested by the Inferior Mesenteric Artery",
+        "B": "Unilateral renal agenesis",
+        "C": "Renal cell carcinoma",
+        "D": "Pelvic ectopic kidney",
+        "E": "Multicystic dysplastic kidney"
+      },
+      "correct_option": "A",
+      "explanation": "**Developmental Domain**: High-Yield Embryological Milestones, Derivatives & Board Pearls\n\n**3 Successive Renal Systems**: • Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),",
+      "masterclass_id": 4,
+      "masterclass_title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    }
+  ]
+}

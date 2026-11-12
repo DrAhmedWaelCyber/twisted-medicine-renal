@@ -1,0 +1,877 @@
+{
+  "items" : [
+    {
+      "h" : 0.014876550038655623,
+      "conf" : 1,
+      "x" : 0.2931999070689255,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 20 MCQ Masterclass",
+      "y" : 0.9766343177170292,
+      "w" : 0.5208005605253784
+    },
+    {
+      "h" : 0.01094527774386933,
+      "conf" : 1,
+      "x" : 0.9341563781856003,
+      "text" : "Page 2 of 4",
+      "y" : 0.9760174416954539,
+      "w" : 0.0701753388410844
+    },
+    {
+      "h" : 0.01031007766723624,
+      "conf" : 1,
+      "x" : 0.36213992866940975,
+      "text" : "Twisted Medicine Medical Series • Diuretics Pharmacology, Mechanisms & Clinical Therapeutics • Standard Practice Bank",
+      "y" : 0.96432170540046,
+      "w" : 0.6584361814103036
+    },
+    {
+      "h" : 0.011692505942450637,
+      "conf" : 1,
+      "x" : 0.4907407405692731,
+      "text" : "Q15. [2025 Exam] Loop diuretics (e.g., Furosemide, Bumetanide, Q22. [2023 Exam] What is the primary clinical disadvantage and",
+      "y" : 0.9447351417772081,
+      "w" : 0.8868312235898194
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.253086412825789,
+      "text" : "Torsemide) inhibit which specific apical membrane transport",
+      "y" : 0.9323611110622436,
+      "w" : 0.41563785001166953
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7181069884773665,
+      "text" : "major toxic limitation associated with Ethacrynic Acid compared",
+      "y" : 0.9323611110137939,
+      "w" : 0.44444442844990667
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.07613168672839507,
+      "text" : "protein?",
+      "y" : 0.919331395221657,
+      "w" : 0.057613168872377406
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.5555555574759944,
+      "text" : "to Furosemide?",
+      "y" : 0.9207848838420543,
+      "w" : 0.11522633774475483
+    },
+    {
+      "h" : 0.01029069741566968,
+      "conf" : 1,
+      "x" : 0.23559671257716033,
+      "text" : "[A] Na+\/H+ antiporter-3 (NHE3) in the proximal convoluted tubule",
+      "y" : 0.9048546511125648,
+      "w" : 0.3806584196270636
+    },
+    {
+      "h" : 0.01029069741566968,
+      "conf" : 1,
+      "x" : 0.6820987715706445,
+      "text" : "[A] Complete lack of efficacy in patients with GFR > 50 mL\/min",
+      "y" : 0.9048546511307334,
+      "w" : 0.3683127397261327
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.24897119850823035,
+      "text" : "[B] Thiazide-sensitive Na+\/CI- cotransporter (NCC) in the distal tubule",
+      "y" : 0.8917151163699129,
+      "w" : 0.40740741273892006
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7109053426268863,
+      "text" : "[B] Greater incidence of Ototoxicity (cochlear\/vestibular hair cell damage)",
+      "y" : 0.8917151162063954,
+      "w" : 0.4300411392307881
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2386831324074073,
+      "text" : "[C] Epithelial sodium channel (ENaC) in the cortical collecting duct",
+      "y" : 0.8786337210210755,
+      "w" : 0.3868312715734326
+    },
+    {
+      "h" : 0.0117312653859456,
+      "conf" : 1,
+      "x" : 0.6625514458847734,
+      "text" : "[C] Severe visual hallucinations and retinal detachment",
+      "y" : 0.8794121448728339,
+      "w" : 0.33333333333333337
+    },
+    {
+      "h" : 0.01030361758338072,
+      "conf" : 1,
+      "x" : 0.19753086275720166,
+      "text" : "[D] Vacuolar H+-ATPase in type A intercalated cells",
+      "y" : 0.8670704136370695,
+      "w" : 0.3045267309032896
+    },
+    {
+      "h" : 0.01030361758338072,
+      "conf" : 1,
+      "x" : 0.6748971244855966,
+      "text" : "[D] Fatal pulmonary fibrosis within 48 hours of administration",
+      "y" : 0.8670704136370695,
+      "w" : 0.3580246691433888
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.43930042137345654,
+      "text" : "[E] Electroneutral Na+\/K+\/2Cl- cotransporter (NKCC2) in the TAL of Henle [E] Irreversible bone marrow aplasia and agranulocytosis",
+      "y" : 0.8524709303234012,
+      "w" : 0.7880658323659837
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.49588478861453994,
+      "text" : "Q16. [2024 Exam] At which specific molecular binding domain on Q23. [2021 Exam] Co-administration of Furosemide with which of",
+      "y" : 0.8190277776278316,
+      "w" : 0.8971192941725629
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.49176956220850426,
+      "text" : "the NKCC2 cotransporter do Loop Diuretics compete to inhibit ion the following antimicrobials synergistically increases the risk of",
+      "y" : 0.8059722220845974,
+      "w" : 0.8930041235198014
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.5853909494855967,
+      "text" : "irreversible Ototoxicity?",
+      "y" : 0.7929166665413632,
+      "w" : 0.1790123345716944
+    },
+    {
+      "h" : 0.010310077137417273,
+      "conf" : 1,
+      "x" : 0.16255144314128933,
+      "text" : "[A] One of the two chloride-binding sites",
+      "y" : 0.7768217054231215,
+      "w" : 0.2345678941258844
+    },
+    {
+      "h" : 0.00872092988755957,
+      "conf" : 1,
+      "x" : 0.18209876999314112,
+      "text" : "[B] The potassium-binding coordination pocket",
+      "y" : 0.7645348838178294,
+      "w" : 0.27366254314686517
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.20370370200617285,
+      "text" : "[C] The extracellular sodium-binding regulatory pocket",
+      "y" : 0.7521802326853197,
+      "w" : 0.31687241080422074
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "x" : 0.1913580283436213,
+      "text" : "[D] The intracellular ATP-binding catalytic domain",
+      "y" : 0.7390374677917283,
+      "w" : 0.29218105100235847
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.20473251560356637,
+      "text" : "[E] The Tamm-Horsfall glycoprotein anchoring domain",
+      "y" : 0.725972222405789,
+      "w" : 0.3189300201224081
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.5915637883487654,
+      "text" : "[A] Oral Amoxicillin-clavulanate",
+      "y" : 0.7776162791424419,
+      "w" : 0.1872427958362507
+    },
+    {
+      "h" : 0.00872092988755957,
+      "conf" : 1,
+      "x" : 0.5987654286694103,
+      "text" : "[B] Macrolides (e.g., Azithromycin)",
+      "y" : 0.7645348836724806,
+      "w" : 0.20576131568764738
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6862139965277776,
+      "text" : "[C] Intravenous Aminoglycosides (e.g., Gentamicin, Tobramycin)",
+      "y" : 0.7521802326126454,
+      "w" : 0.38065841962706365
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 0.5,
+      "x" : 0.6193415668209876,
+      "text" : "[D] Fluoroquinolones (e.g., Ciprofloxacin)",
+      "y" : 0.7390374677917283,
+      "w" : 0.2427983553904408
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6111111133744855,
+      "text" : "[E] Synthetic penicillins (e.g., Nafcillin)",
+      "y" : 0.725972222405789,
+      "w" : 0.22633743286132818
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2633744927983537,
+      "text" : "Q17. [2023 Exam] How does intravenous Furosemide produce",
+      "y" : 0.6926388889377564,
+      "w" : 0.4320987725407822
+    },
+    {
+      "h" : 0.011731265915764677,
+      "conf" : 1,
+      "x" : 0.7160493871056239,
+      "text" : "Q24. [2025 Exam] What mechanism explains the Hyperuricemia",
+      "y" : 0.6919121447985962,
+      "w" : 0.4320987725407822
+    },
+    {
+      "h" : 0.0117571051915486,
+      "conf" : 1,
+      "x" : 0.24897119869684484,
+      "text" : "rapid clinical relief in acute pulmonary edema within 5 to 15",
+      "y" : 0.6788436694752478,
+      "w" : 0.40740741273892006
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7057613117283952,
+      "text" : "and potential precipitation of acute gouty arthritis frequently",
+      "y" : 0.6780523255268895,
+      "w" : 0.41152263137529477
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "x" : 0.14197531152263365,
+      "text" : "minutes, BEFORE diuresis?",
+      "y" : 0.6656976746124031,
+      "w" : 0.1934156357867163
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.6368312803497941,
+      "text" : "caused by Loop and Thiazide diuretics?",
+      "y" : 0.6656976745155039,
+      "w" : 0.27777776178324004
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.48559669307270287,
+      "text" : "[A] It stimulates myocardial beta-1 receptors to increase cardiac contractility [A] De novo hepatic synthesis of uric acid crystals stimulated by the drugs",
+      "y" : 0.6504166667656556,
+      "w" : 0.8847735902798252
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.48148149020576125,
+      "text" : "[B] Induces renal synthesis of PGE2, increasing systemic venous capacitance [B] Direct chemical conversion of urea into uric acid within renal papillae",
+      "y" : 0.6373611113193206,
+      "w" : 0.8724279823543141
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.24074074725651554,
+      "text" : "[C] It directly dissolves surfactant in alveolar capillary membranes",
+      "y" : 0.624305555294717,
+      "w" : 0.3909464902098074
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6779835435956789,
+      "text" : "[C] Complete lysis of circulating purine nucleosides in plasma",
+      "y" : 0.6243055557942551,
+      "w" : 0.36008230245338296
+    },
+    {
+      "h" : 0.011673126220703045,
+      "conf" : 1,
+      "x" : 0.25000000511831266,
+      "text" : "[D] It binds and neutralizes circulating endothelin-1 in pulmonary veins",
+      "y" : 0.611941214752422,
+      "w" : 0.40946499806530073
+    },
+    {
+      "h" : 0.011673126220703045,
+      "conf" : 1,
+      "x" : 0.6965020565500686,
+      "text" : "[D] Competition for proximal OAT secretion plus volume-contraction",
+      "y" : 0.611941214873546,
+      "w" : 0.3971193181643695
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.2479423843964336,
+      "text" : "[E] It paralyzes bronchial smooth muscle to reduce airway resistance",
+      "y" : 0.5995833333796933,
+      "w" : 0.40534977942892597
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.5360082314557613,
+      "text" : "reabsorption",
+      "y" : 0.600290697747093,
+      "w" : 0.08024691335810052
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6502057664609051,
+      "text" : "[E] Inhibition of intestinal xanthine oxidase enzymes",
+      "y" : 0.5879166668625548,
+      "w" : 0.3086419735314711
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.4907407555212615,
+      "text" : "Q18. [2022 Exam] Which class of drugs blunts the hemodynamic Q25. [Faculty Exam] Which loop diuretic possesses the longest",
+      "y" : 0.564680232630814,
+      "w" : 0.8868312235898193
+    },
+    {
+      "h" : 0.011686045858595118,
+      "conf" : 1,
+      "x" : 0.2644032991426609,
+      "text" : "venodilatory and natriuretic actions of Furosemide by blocking",
+      "y" : 0.5508430229819266,
+      "w" : 0.43827157650353776
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "x" : 0.7139917621399179,
+      "text" : "elimination half-life (-3.5 hours) and superior oral bioavailability",
+      "y" : 0.551537467664548,
+      "w" : 0.44444442844990667
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.13786008532235927,
+      "text" : "prostaglandin synthesis?",
+      "y" : 0.5384722224542386,
+      "w" : 0.18106995588578517
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.544238684739369,
+      "text" : "(~80-100%)?",
+      "y" : 0.5385174419815892,
+      "w" : 0.09670781789335814
+    },
+    {
+      "h" : 0.0087273899714152,
+      "conf" : 1,
+      "x" : 0.14814814609053503,
+      "text" : "[A] Beta-blockers (e.g., Metoprolol)",
+      "y" : 0.523252583853421,
+      "w" : 0.2057613156876474
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.7026749012139917,
+      "text" : "[A] Furosemide (bioavailability -50% with wide inter-patient variability)",
+      "y" : 0.52402777771049,
+      "w" : 0.4094649980653007
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.1851851886831275,
+      "text" : "[B] Calcium channel blockers (e.g., Amlodipine)",
+      "y" : 0.5101744186773256,
+      "w" : 0.2798353950932341
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.5555555574759944,
+      "text" : "[B] Ethacrynic acid",
+      "y" : 0.5101744187015504,
+      "w" : 0.11522633774475483
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "x" : 0.25308642379972557,
+      "text" : "[C] Nonsteroidal Anti-inflammatory Drugs (NSAIDs, e.g., Indomethacin)",
+      "y" : 0.4970930230620155,
+      "w" : 0.4156378500116697
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 0.5,
+      "x" : 0.5524691370027434,
+      "text" : "[C] Acetazolamide",
+      "y" : 0.49781976761143404,
+      "w" : 0.11316871643066401
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.14609053834019192,
+      "text" : "[D] ACE inhibitors (e.g., Lisinopril)",
+      "y" : 0.4847383721656977,
+      "w" : 0.2016460730594659
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.5514403310699588,
+      "text" : "[DI Chlorothiazide",
+      "y" : 0.48546511632751943,
+      "w" : 0.11111110711247668
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.19958847215363526,
+      "text" : "[E] HMG-CoA reductase inhibitors (e.g., Atorvastatin)",
+      "y" : 0.47165697667151163,
+      "w" : 0.31275719216784587
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.5411522631687242,
+      "text" : "[E] Torsemide",
+      "y" : 0.47165697657461236,
+      "w" : 0.08641974731061447
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.5020576245370368,
+      "text" : "Q19. [2021 Exam] Why do Loop Diuretics cause significant urinary Q26. [2022 Exam] Why do Loop Diuretics remain highly effective in",
+      "y" : 0.4375000000726744,
+      "w" : 0.9094649980653007
+    },
+    {
+      "h" : 0.011673126220703045,
+      "conf" : 1,
+      "x" : 0.23662551529492454,
+      "text" : "wasting of Calcium and Magnesium (Hypercalciuria and",
+      "y" : 0.424441214873546,
+      "w" : 0.37860081030887627
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "x" : 0.7098765378600825,
+      "text" : "patients with advanced renal failure (GFR < 30 mL\/min), unlike",
+      "y" : 0.42374677002740707,
+      "w" : 0.4279835059207941
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.12037037280521254,
+      "text" : "Hypermagnesuria)?",
+      "y" : 0.41061046523740313,
+      "w" : 0.14609052550117926
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "x" : 0.5679012369684499,
+      "text" : "Thiazide diuretics?",
+      "y" : 0.41138888901043086,
+      "w" : 0.1440329161829919
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2695473325788749,
+      "text" : "[A] They activate intracellular lysosomes that digest paracellular claudins",
+      "y" : 0.39607558151647276,
+      "w" : 0.4485596470862815
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7263374543209875,
+      "text" : "[A] The TAL has massive reabsorptive capacity (25% Na+ load) responsive to",
+      "y" : 0.39607558148619193,
+      "w" : 0.46090535097901925
+    },
+    {
+      "h" : 0.011757105721367678,
+      "conf" : 1,
+      "x" : 0.22942386962448555,
+      "text" : "[B] They competitively inhibit basolateral Ca2+\/Mg2+ ATPases",
+      "y" : 0.38365633059898985,
+      "w" : 0.36831273972613254
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.5174897125857338,
+      "text" : "loops",
+      "y" : 0.3829941861676357,
+      "w" : 0.0390946490209807
+    },
+    {
+      "h" : 0.011731265915764677,
+      "conf" : 1,
+      "x" : 0.25205761718106984,
+      "text" : "[C] They trigger massive precipitation of calcium oxalate in the medulla",
+      "y" : 0.3705878552014037,
+      "w" : 0.4135802167016755
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7026748902263378,
+      "text" : "[B] They are filtered exclusively through the peritubular capillary walls",
+      "y" : 0.37136627899709296,
+      "w" : 0.41358021670167555
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2489711893415639,
+      "text" : "[D] Abolishing NKCC2 dissipates the lumen-positive potential (+8 mV)",
+      "y" : 0.35680555547055975,
+      "w" : 0.40740741273892006
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.6748971238168724,
+      "text" : "[C] They stimulate direct regeneration of sclerosed nephrons",
+      "y" : 0.35901162797965125,
+      "w" : 0.3580246931351956
+    },
+    {
+      "h" : 0.011679585774739598,
+      "conf" : 1,
+      "x" : 0.24588477013031565,
+      "text" : "[E] They directly block parathyroid hormone receptors on tubular cells",
+      "y" : 0.34445090418664503,
+      "w" : 0.40946499806530073
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.711934149176955,
+      "text" : "[D] They act without entering the tubular lumen or binding any transporter",
+      "y" : 0.3466569766715116,
+      "w" : 0.43209877254078227
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6615226391975305,
+      "text" : "[E] They increase systemic blood pressure by 50 mmHg",
+      "y" : 0.33208333341018714,
+      "w" : 0.3312757000233392
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.24691358423868312,
+      "text" : "Q20. [2020 Exam] Because Loop Diuretics promote urinary",
+      "y" : 0.3103197675145349,
+      "w" : 0.3991769514743637
+    },
+    {
+      "h" : 0.011711885664198118,
+      "conf" : 1,
+      "x" : 0.7181070013374484,
+      "text" : "Q27. [Core Exam] What acid-base and electrolyte disturbance is",
+      "y" : 0.31108850145091377,
+      "w" : 0.436213991177157
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2654321061042521,
+      "text" : "calcium excretion, they are clinically indicated in the emergency",
+      "y" : 0.29723837216569765,
+      "w" : 0.4403292098135318
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.702674889814815,
+      "text" : "characteristically induced by chronic high-dose Loop Diuretic",
+      "y" : 0.2972383720687986,
+      "w" : 0.43827157650353776
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.135802472153635,
+      "text" : "hospital management of:",
+      "y" : 0.28415697686531,
+      "w" : 0.18106995588578517
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.533950618484225,
+      "text" : "therapy?",
+      "y" : 0.28415697686531,
+      "w" : 0.07201645809149593
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.21090535393518509,
+      "text" : "[A] Chronic hypocalcemic tetany following thyroidectomy",
+      "y" : 0.2695833331044476,
+      "w" : 0.3312757000233392
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.7170781947788064,
+      "text" : "[A] Normal anion gap hyperchloremic metabolic acidosis with hyperkalemia",
+      "y" : 0.2688888888260281,
+      "w" : 0.43827157650353765
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.2489711968106995,
+      "text" : "[B] Osteomalacia secondary to chronic nutritional vitamin D deficiency",
+      "y" : 0.2565277775672695,
+      "w" : 0.40740741273892
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.7191358079989711,
+      "text" : "[B] Hypokalemic, Hypochloremic Metabolic Alkalosis with hypomagnesemia",
+      "y" : 0.255833333282794,
+      "w" : 0.4423868431235259
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.20679012884087772,
+      "text" : "[C] Idiopathic hypercalciuria with recurrent renal stones",
+      "y" : 0.2434722220361477,
+      "w" : 0.32304526275058965
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.696502061584362,
+      "text" : "[C] High anion gap lactic acidosis with profound hyperphosphatemia",
+      "y" : 0.24347222203614782,
+      "w" : 0.3971193421561763
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.1738683170438956,
+      "text" : "[DJ Osteopetrosis with dense, brittle bones",
+      "y" : 0.23041666654136328,
+      "w" : 0.25720164460955924
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6748971228806584,
+      "text" : "[D] Respiratory acidosis with severe systemic hypernatremia",
+      "y" : 0.23041666649291354,
+      "w" : 0.353909450507014
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "x" : 0.24691358456790105,
+      "text" : "[E] Severe symptomatic Hypercalcemia (coupled with vigorous saline",
+      "y" : 0.21735465115339492,
+      "w" : 0.40329214611893177
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "x" : 0.62037037281893,
+      "text" : "[E] Pure hyperkalemic metabolic alkalosis",
+      "y" : 0.21735465113073338,
+      "w" : 0.24485596470862814
+    },
+    {
+      "h" : 0.008797254032558821,
+      "conf" : 1,
+      "x" : 0.07613168786022541,
+      "text" : "hydration)",
+      "y" : 0.2063953488945855,
+      "w" : 0.061749914157315615
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.5020576283264742,
+      "text" : "Q21. [2024 Exam] Which of the following loop diuretics does NOT Q28. [Core Exam] How does Furosemide reach its site of action on",
+      "y" : 0.18386627914244197,
+      "w" : 0.9094649980653007
+    },
+    {
+      "h" : 0.011705426110161676,
+      "conf" : 1,
+      "x" : 0.4732510430727018,
+      "text" : "contain a sulfonamide moiety and can be safely given to patients the luminal surface of the Thick Ascending Limb of Henle?",
+      "y" : 0.1700193797069185,
+      "w" : 0.855967011841588
+    },
+    {
+      "h" : 0.011679586304558565,
+      "conf" : 1,
+      "x" : 0.10905349634773667,
+      "text" : "with sulfa allergy?",
+      "y" : 0.15695090404285944,
+      "w" : 0.12757201764568593
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "x" : 0.7139917641460907,
+      "text" : "[A] It is extensively filtered at the glomerulus as an unbound free molecule",
+      "y" : 0.15485465126846265,
+      "w" : 0.4320987725407823
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.10185185326646087,
+      "text" : "[A] Ethacrynic Acid",
+      "y" : 0.1417151163699129,
+      "w" : 0.11316871643066406
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6851851914266116,
+      "text" : "[B] It diffuses directly through the renal capsule into the medulla",
+      "y" : 0.1417151164001939,
+      "w" : 0.37448559167250145
+    },
+    {
+      "h" : 0.00872093015246922,
+      "conf" : 1,
+      "x" : 0.09156378716563782,
+      "text" : "[B] Furosemide",
+      "y" : 0.12936046505649884,
+      "w" : 0.09259259325903166
+    },
+    {
+      "h" : 0.00872093015246922,
+      "conf" : 1,
+      "x" : 0.7242798410493826,
+      "text" : "[C] Actively secreted into proximal tubule lumen by organic anion transporters",
+      "y" : 0.12936046505649884,
+      "w" : 0.4526748657226563
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 0.5,
+      "x" : 0.09362140078875164,
+      "text" : "[C] Bumetanide",
+      "y" : 0.11627906981589153,
+      "w" : 0.09670781789335814
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.5185185181069958,
+      "text" : "(OAT)",
+      "y" : 0.11845930249515507,
+      "w" : 0.04115226133814398
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.08847736738683126,
+      "text" : "[D] Torsemide",
+      "y" : 0.10319767449127915,
+      "w" : 0.0905349779428926
+    },
+    {
+      "h" : 0.008888889153798374,
+      "conf" : 1,
+      "x" : 0.6954732576131686,
+      "text" : "[D] It is carried inside red blood cells and released in the vasa recta",
+      "y" : 0.10611111116264105,
+      "w" : 0.39506170884618225
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.09876543024691364,
+      "text" : "[E] Acetazolamide",
+      "y" : 0.09084302318313953,
+      "w" : 0.11111110711247668
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "x" : 0.6728395096707818,
+      "text" : "[E] It enters TAL cells through basolateral pinocytic vesicles",
+      "y" : 0.09235465113073338,
+      "w" : 0.3497942318706392
+    },
+    {
+      "h" : 0.017519379191928475,
+      "conf" : 1,
+      "x" : 0.3343621474537035,
+      "text" : "Twisted Medicine • Renal Pharmacology Master Class • Strictly Grounded in Faculty & Bajd Exam Past Papers",
+      "y" : 0.014573643611020815,
+      "w" : 0.6028806578438237
+    },
+    {
+      "h" : 0.008888888623979296,
+      "conf" : 1,
+      "x" : 0.8724279809327847,
+      "text" : "Confidential Student Revision Bank",
+      "y" : 0.018888889005369114,
+      "w" : 0.19341563578671628
+    }
+  ],
+  "page" : 76
+}

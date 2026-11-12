@@ -1,0 +1,1021 @@
+{
+  "items" : [
+    {
+      "y" : 0.96432170540046,
+      "w" : 0.42481201522903933,
+      "conf" : 1,
+      "x" : 0.27067669880952355,
+      "h" : 0.01031007766723624,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 33 MCQ Masterclass"
+    },
+    {
+      "y" : 0.9512532299725929,
+      "w" : 0.682330791766827,
+      "conf" : 1,
+      "x" : 0.40131579800281936,
+      "h" : 0.01028423786163335,
+      "text" : "Twisted Medicine Medical Series • Urinary Antispasmodics, BPH Pharmacotherapy, Alkalinizers & Nephrotoxicity • Standard Practice Bank"
+    },
+    {
+      "y" : 0.9643895350242855,
+      "w" : 0.06410680204565622,
+      "conf" : 1,
+      "x" : 0.9097744358527386,
+      "h" : 0.010940208964877685,
+      "text" : "Page 2 of 4"
+    },
+    {
+      "y" : 0.9237467700637443,
+      "w" : 0.34586464218918495,
+      "conf" : 1,
+      "x" : 0.2312030031954888,
+      "h" : 0.010284237861633239,
+      "text" : "Q15. [2025 Exam] Which adrenergic receptor subtype"
+    },
+    {
+      "y" : 0.9113727394275104,
+      "w" : 0.4154135226174965,
+      "conf" : 1,
+      "x" : 0.2659774477130325,
+      "h" : 0.011698966026306157,
+      "text" : "predominates in human prostatic smooth muscle, bladder neck,"
+    },
+    {
+      "y" : 0.8975290696947675,
+      "w" : 0.40789470220109186,
+      "conf" : 1,
+      "x" : 0.26033833906641635,
+      "h" : 0.010174418555365716,
+      "text" : "and prostatic urethra, mediating dynamic outflow resistance in"
+    },
+    {
+      "y" : 0.8851744186773256,
+      "w" : 0.03947368377751365,
+      "conf" : 0.5,
+      "x" : 0.07800751929041352,
+      "h" : 0.00872092988755968,
+      "text" : "BPH?"
+    },
+    {
+      "y" : 0.8698611111773114,
+      "w" : 0.12406014196312232,
+      "conf" : 1,
+      "x" : 0.11842105418233079,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Alpha-1B receptor"
+    },
+    {
+      "y" : 0.8582848836482557,
+      "w" : 0.17293232109459247,
+      "conf" : 1,
+      "x" : 0.14097744072681717,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Beta-2 adrenergic receptor"
+    },
+    {
+      "y" : 0.8466569768168604,
+      "w" : 0.15601503000595346,
+      "conf" : 1,
+      "x" : 0.13251879959273172,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Alpha-2C adrenoceptor"
+    },
+    {
+      "y" : 0.8335755813226744,
+      "w" : 0.1748120261986936,
+      "conf" : 1,
+      "x" : 0.14191729031954897,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Beta-1 adrenergic receptor"
+    },
+    {
+      "y" : 0.8234625323354519,
+      "w" : 0.15413533587150657,
+      "conf" : 1,
+      "x" : 0.13345864918546357,
+      "h" : 0.010297157499525311,
+      "text" : "[E] Alpha-1A Adrenoceptor"
+    },
+    {
+      "y" : 0.8080878549591557,
+      "w" : 0.37406012002381384,
+      "conf" : 1,
+      "x" : 0.24530074564536364,
+      "h" : 0.011731265915764677,
+      "text" : "Q16. [2024 Exam] Why are uroselective alpha-1A blockers"
+    },
+    {
+      "y" : 0.7950193796326808,
+      "w" : 0.40413531393219804,
+      "conf" : 1,
+      "x" : 0.26033834194862165,
+      "h" : 0.011705425580342599,
+      "text" : "(Tamsulosin, Silodosin) preferred over Doxazosin\/Terazosin in"
+    },
+    {
+      "y" : 0.7826453487678744,
+      "w" : 0.09774435826294033,
+      "conf" : 1,
+      "x" : 0.10714285836466164,
+      "h" : 0.010290697945488758,
+      "text" : "elderly BPH?"
+    },
+    {
+      "y" : 0.7681750648658323,
+      "w" : 0.3947368213206551,
+      "conf" : 1,
+      "x" : 0.2518796985714286,
+      "h" : 0.01309431499905056,
+      "text" : "[A] Rapid urinary relief with minimal vascular hypotension and syncope"
+    },
+    {
+      "y" : 0.7572351420194562,
+      "w" : 0.3270676569660991,
+      "conf" : 1,
+      "x" : 0.21992481748120285,
+      "h" : 0.011692505942450637,
+      "text" : "[B] Permanently shrink the static epithelial prostate volume"
+    },
+    {
+      "y" : 0.7448611112560419,
+      "w" : 0.29699246305771476,
+      "conf" : 1,
+      "x" : 0.20488722005012525,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Lower serum dihydrotestosterone levels by >80%"
+    },
+    {
+      "y" : 0.7318055556159087,
+      "w" : 0.26127818674598985,
+      "conf" : 1,
+      "x" : 0.1851503802944861,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Completely cure prostatic adenocarcinoma"
+    },
+    {
+      "y" : 0.7201453487497058,
+      "w" : 0.13533833967876638,
+      "conf" : 1,
+      "x" : 0.12406015263157885,
+      "h" : 0.01029069794548887,
+      "text" : "[E] Zero renal excretion"
+    },
+    {
+      "y" : 0.6947351417772081,
+      "w" : 0.41165413434860265,
+      "conf" : 1,
+      "x" : 0.2659774377506267,
+      "h" : 0.011692505942450637,
+      "text" : "Q17. [2023 Exam] What is the characteristic adverse sexual side"
+    },
+    {
+      "y" : 0.6809722220543164,
+      "w" : 0.38533832870911217,
+      "conf" : 1,
+      "x" : 0.25093985444078937,
+      "h" : 0.010277777777777719,
+      "text" : "effect associated with the highly selective alpha-1A blocker"
+    },
+    {
+      "y" : 0.668611111172331,
+      "w" : 0.17857142543724167,
+      "conf" : 1,
+      "x" : 0.14755639276315788,
+      "h" : 0.008888889153798374,
+      "text" : "Silodosin and Tamsulosin?"
+    },
+    {
+      "y" : 0.6533430233284885,
+      "w" : 0.24436089565735086,
+      "conf" : 1,
+      "x" : 0.17857143101503753,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Severe painful priapism lasting >4 hours"
+    },
+    {
+      "y" : 0.6417151162063954,
+      "w" : 0.40225564173705963,
+      "conf" : 1,
+      "x" : 0.25751879296992486,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Retrograde Ejaculation (anejaculation due to bladder neck relaxation)"
+    },
+    {
+      "y" : 0.6301388889680374,
+      "w" : 0.3571428508744833,
+      "conf" : 1,
+      "x" : 0.2349624104793232,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Markedly elevated serum prolactin with bilateral galactorrhea"
+    },
+    {
+      "y" : 0.6177648581001046,
+      "w" : 0.22180450022606263,
+      "conf" : 1,
+      "x" : 0.16729323339598998,
+      "h" : 0.011692506472269715,
+      "text" : "[D] Testicular atrophy with azoospermia"
+    },
+    {
+      "y" : 0.6054166667804847,
+      "w" : 0.2575187984770961,
+      "conf" : 1,
+      "x" : 0.1851503722744362,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Permanent irreversible erectile dysfunction"
+    },
+    {
+      "y" : 0.5799806202446319,
+      "w" : 0.39473682132065513,
+      "conf" : 1,
+      "x" : 0.2556390992481202,
+      "h" : 0.011705426110161676,
+      "text" : "Q18. [2022 Exam] What ophthalmological complication must"
+    },
+    {
+      "y" : 0.5661337210210755,
+      "w" : 0.4172932386912518,
+      "conf" : 1,
+      "x" : 0.266917298449248,
+      "h" : 0.010174418555365716,
+      "text" : "cataract surgeons be warned about in male patients currently or"
+    },
+    {
+      "y" : 0.5530523254905524,
+      "w" : 0.23684209718025473,
+      "conf" : 1,
+      "x" : 0.17669172636278202,
+      "h" : 0.010174418555365716,
+      "text" : "previously treated with Tamsulosin?"
+    },
+    {
+      "y" : 0.5399709304021318,
+      "w" : 0.22368419436050951,
+      "conf" : 1,
+      "x" : 0.16823308323934835,
+      "h" : 0.010174418555365605,
+      "text" : "[A] Acute central retinal artery occlusion"
+    },
+    {
+      "y" : 0.5268217054186286,
+      "w" : 0.1917293282569869,
+      "conf" : 1,
+      "x" : 0.15225564149436083,
+      "h" : 0.01031007766723635,
+      "text" : "[B] Bilateral open-angle glaucoma"
+    },
+    {
+      "y" : 0.5152616279796511,
+      "w" : 0.4323307917668269,
+      "conf" : 1,
+      "x" : 0.2725563981829571,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Intraoperative Floppy Iris Syndrome (IFIS, due to alpha-1A blockade of iris"
+    },
+    {
+      "y" : 0.5036337207606589,
+      "w" : 0.08458646092802222,
+      "conf" : 1,
+      "x" : 0.10056391099624055,
+      "h" : 0.010174418555365605,
+      "text" : "dilator muscle)"
+    },
+    {
+      "y" : 0.4920704133948215,
+      "w" : 0.20676690327187047,
+      "conf" : 1,
+      "x" : 0.15977443264411037,
+      "h" : 0.01030361758338083,
+      "text" : "[D] Corneal ulceration with hypopyon"
+    },
+    {
+      "y" : 0.4789244187257752,
+      "w" : 0.1823308246757897,
+      "conf" : 1,
+      "x" : 0.14755639401629064,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Senile macular degeneration"
+    },
+    {
+      "y" : 0.46504844980781146,
+      "w" : 0.40601503000595346,
+      "conf" : 1,
+      "x" : 0.26315789879699236,
+      "h" : 0.011763565805223308,
+      "text" : "Q19. [2021 Exam] Non-selective alpha-1 blockers like Prazosin,"
+    },
+    {
+      "y" : 0.45276162799781977,
+      "w" : 0.4304511195716885,
+      "conf" : 1,
+      "x" : 0.27537594523026304,
+      "h" : 0.010174418555365716,
+      "text" : "Doxazosin, and Terazosin carry a prominent black-box warning for"
+    },
+    {
+      "y" : 0.43968023267926354,
+      "w" : 0.2011278208685298,
+      "conf" : 1,
+      "x" : 0.15883458981829562,
+      "h" : 0.010174418555365716,
+      "text" : "which initial adverse reaction?"
+    },
+    {
+      "y" : 0.4251388888078595,
+      "w" : 0.26503759695419216,
+      "conf" : 1,
+      "x" : 0.19078947699718035,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Severe bronchospasm and laryngeal edema"
+    },
+    {
+      "y" : 0.4141957361154247,
+      "w" : 0.15413533587150655,
+      "conf" : 1,
+      "x" : 0.13345864404761912,
+      "h" : 0.011724805831909269,
+      "text" : "[B] Malignant hyperthermia"
+    },
+    {
+      "y" : 0.4018217053822914,
+      "w" : 0.2030075150029767,
+      "conf" : 1,
+      "x" : 0.1578947393796992,
+      "h" : 0.01031007766723635,
+      "text" : "[C] Acute fulminant hepatic necrosis"
+    },
+    {
+      "y" : 0.38875322997259293,
+      "w" : 0.42669173130279475,
+      "conf" : 1,
+      "x" : 0.2697368474389097,
+      "h" : 0.01028423786163335,
+      "text" : "[D] First-Dose Syncope and severe Orthostatic Hypotension (administered at"
+    },
+    {
+      "y" : 0.3779069767926357,
+      "w" : 0.14285713815586246,
+      "conf" : 1,
+      "x" : 0.12781955125313277,
+      "h" : 0.00872092988755957,
+      "text" : "bedtime to minimize risk)"
+    },
+    {
+      "y" : 0.3648255813226744,
+      "w" : 0.18984961218323146,
+      "conf" : 1,
+      "x" : 0.15131578710056395,
+      "h" : 0.00872092988755968,
+      "text" : "[E] Acute angle-closure glaucoma"
+    },
+    {
+      "y" : 0.35169573635767265,
+      "w" : 0.3834586565139737,
+      "conf" : 1,
+      "x" : 0.25187969863721804,
+      "h" : 0.011724805831909157,
+      "text" : "Q20. [2020 Exam] Finasteride and Dutasteride belong to the"
+    },
+    {
+      "y" : 0.33791666688072347,
+      "w" : 0.42481201522903933,
+      "conf" : 1,
+      "x" : 0.27067669703947356,
+      "h" : 0.010277777777777719,
+      "text" : "5-Alpha Reductase Inhibitor (5-ARI) class. What is their molecular"
+    },
+    {
+      "y" : 0.32555555544633485,
+      "w" : 0.19548871652588068,
+      "conf" : 1,
+      "x" : 0.15413533508771943,
+      "h" : 0.008888888888888946,
+      "text" : "mechanism of action in BPH?"
+    },
+    {
+      "y" : 0.310319767514535,
+      "w" : 0.3270676569660991,
+      "conf" : 1,
+      "x" : 0.21992481748120285,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Competitive antagonism of androgen nuclear receptors"
+    },
+    {
+      "y" : 0.2987467700637443,
+      "w" : 0.3214285526234498,
+      "conf" : 1,
+      "x" : 0.21710525914003767,
+      "h" : 0.010284237861633239,
+      "text" : "[B] Direct enzymatic lysis of prostatic smooth muscle cells"
+    },
+    {
+      "y" : 0.287083333570365,
+      "w" : 0.3421052539202912,
+      "conf" : 1,
+      "x" : 0.22556390476190494,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Selective stimulation of aromatase conversion to estradiol"
+    },
+    {
+      "y" : 0.27541666688072347,
+      "w" : 0.22556391043426488,
+      "conf" : 1,
+      "x" : 0.16729323590225553,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Blockade of testicular LH receptors"
+    },
+    {
+      "y" : 0.2623611111194661,
+      "w" : 0.4078947460797089,
+      "conf" : 1,
+      "x" : 0.2603383484727444,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Inhibition of the 5-alpha reductase enzyme, blocking the conversion of"
+    },
+    {
+      "y" : 0.25069444425298343,
+      "w" : 0.23872179131470164,
+      "conf" : 1,
+      "x" : 0.17763157656015038,
+      "h" : 0.010277777777777719,
+      "text" : "Testosterone to Dihydrotestosterone (DHT)"
+    },
+    {
+      "y" : 0.23694121475242202,
+      "w" : 0.41917291088639014,
+      "conf" : 1,
+      "x" : 0.2697368473449247,
+      "h" : 0.011673126220703045,
+      "text" : "Q21. [2024 Exam] How does Dutasteride differ pharmacologically"
+    },
+    {
+      "y" : 0.22387273937906077,
+      "w" : 0.23120299283760562,
+      "conf" : 1,
+      "x" : 0.17387218430451118,
+      "h" : 0.011698966026306157,
+      "text" : "from Finasteride in BPH therapy?"
+    },
+    {
+      "y" : 0.21002906985828496,
+      "w" : 0.42669173130279475,
+      "conf" : 1,
+      "x" : 0.27161654668703,
+      "h" : 0.010174418555365605,
+      "text" : "[A] Dual inhibitor of Type 1 & 2 5-alpha reductase (Finasteride inhibits Type 2"
+    },
+    {
+      "y" : 0.19767441865873098,
+      "w" : 0.03023639297759592,
+      "conf" : 1,
+      "x" : 0.07330827117698088,
+      "h" : 0.009058133231269028,
+      "text" : "only)"
+    },
+    {
+      "y" : 0.18531976738735467,
+      "w" : 0.3458646421891849,
+      "conf" : 1,
+      "x" : 0.22932330394736847,
+      "h" : 0.010174418555365605,
+      "text" : "[B] Inhibits Type 1 only while Finasteride inhibits both isoforms"
+    },
+    {
+      "y" : 0.17374677020909318,
+      "w" : 0.2537593882688938,
+      "conf" : 1,
+      "x" : 0.18327067986372175,
+      "h" : 0.01028423786163335,
+      "text" : "[C] Irreversible alpha-1 adrenergic antagonist"
+    },
+    {
+      "y" : 0.16277777767549956,
+      "w" : 0.2518796941344469,
+      "conf" : 1,
+      "x" : 0.1823308302161653,
+      "h" : 0.008888889153798485,
+      "text" : "[D] Elimination half-life of 2 hours vs 5 weeks"
+    },
+    {
+      "y" : 0.15041666671720605,
+      "w" : 0.22180450022606266,
+      "conf" : 1,
+      "x" : 0.16541353013784474,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Inactive in prostatic glandular tissue"
+    },
+    {
+      "y" : 0.9237467702090931,
+      "w" : 0.3872180447828676,
+      "conf" : 1,
+      "x" : 0.7011278243890977,
+      "h" : 0.010284237861633239,
+      "text" : "Q22. [2023 Exam] What is the expected onset of therapeutic"
+    },
+    {
+      "y" : 0.91067829459954,
+      "w" : 0.4304511195716886,
+      "conf" : 1,
+      "x" : 0.72086465447995,
+      "h" : 0.01031007766723624,
+      "text" : "efficacy for 5-Alpha Reductase Inhibitors (Finasteride\/Dutasteride)"
+    },
+    {
+      "y" : 0.8975775195547434,
+      "w" : 0.3778195521713247,
+      "conf" : 1,
+      "x" : 0.6945488730889724,
+      "h" : 0.013178293969896115,
+      "text" : "in shrinking prostate volume and improving urinary flow?"
+    },
+    {
+      "y" : 0.8836563308057599,
+      "w" : 0.3026315674003641,
+      "conf" : 1,
+      "x" : 0.6588345894924812,
+      "h" : 0.011757106251186755,
+      "text" : "[A] Within 15 to 30 minutes following the first oral dose"
+    },
+    {
+      "y" : 0.8720930234496124,
+      "w" : 0.4097744182748473,
+      "conf" : 1,
+      "x" : 0.7105263165413533,
+      "h" : 0.011627906163533597,
+      "text" : "[B] Slow onset requiring 6 to 12 months of continuous therapy for maximal"
+    },
+    {
+      "y" : 0.8597383721475291,
+      "w" : 0.15413533587150652,
+      "conf" : 1,
+      "x" : 0.582706768843985,
+      "h" : 0.010174418555365716,
+      "text" : "tissue reduction (~20-25%)"
+    },
+    {
+      "y" : 0.8481782947267202,
+      "w" : 0.22556391043426494,
+      "conf" : 1,
+      "x" : 0.6184210554511278,
+      "h" : 0.01031007766723624,
+      "text" : "[C] Exactly 24 hours after administration"
+    },
+    {
+      "y" : 0.8358042639814747,
+      "w" : 0.31766916435455606,
+      "conf" : 1,
+      "x" : 0.6644736848057644,
+      "h" : 0.011724805831909157,
+      "text" : "[D] Therapeutic onset occurs only after surgical resection"
+    },
+    {
+      "y" : 0.8234625322082716,
+      "w" : 0.36278195521713263,
+      "conf" : 1,
+      "x" : 0.6870300706531955,
+      "h" : 0.010297157499525311,
+      "text" : "[E] Immediate dynamic relaxation of bladder neck smooth muscle"
+    },
+    {
+      "y" : 0.8080878549591557,
+      "w" : 0.4191729108863902,
+      "conf" : 1,
+      "x" : 0.7171052561716794,
+      "h" : 0.011731265915764677,
+      "text" : "Q23. [2021 Exam] When screening for prostate cancer, how does"
+    },
+    {
+      "y" : 0.7950193796326808,
+      "w" : 0.379699224366463,
+      "conf" : 1,
+      "x" : 0.6973684242481202,
+      "h" : 0.011705425580342599,
+      "text" : "chronic 5-Alpha Reductase Inhibitor therapy impact serum"
+    },
+    {
+      "y" : 0.7819509042350946,
+      "w" : 0.257518798477096,
+      "conf" : 1,
+      "x" : 0.6362781960291353,
+      "h" : 0.011679585774739598,
+      "text" : "Prostate-Specific Antigen (PSA) levels?"
+    },
+    {
+      "y" : 0.7681944445476089,
+      "w" : 0.19736841066032762,
+      "conf" : 1,
+      "x" : 0.6062030099859022,
+      "h" : 0.01027777777777783,
+      "text" : "[A] It elevates serum PSA by 300%"
+    },
+    {
+      "y" : 0.7565277779638522,
+      "w" : 0.2838345821772781,
+      "conf" : 1,
+      "x" : 0.6475563862468674,
+      "h" : 0.010277777777777719,
+      "text" : "[B] It has zero effect on serum PSA concentrations"
+    },
+    {
+      "y" : 0.7441666666929811,
+      "w" : 0.4285714034979332,
+      "conf" : 1,
+      "x" : 0.7199248048872184,
+      "h" : 0.011666666666666714,
+      "text" : "[C] It lowers serum PSA by approximately 50%; measured PSA values MUST"
+    },
+    {
+      "y" : 0.7318055556340772,
+      "w" : 0.24812028392624463,
+      "conf" : 1,
+      "x" : 0.6315789504699247,
+      "h" : 0.010277777777777719,
+      "text" : "be multiplied by 2 to assess true cancer risk"
+    },
+    {
+      "y" : 0.7201453487678744,
+      "w" : 0.30639097760856626,
+      "conf" : 1,
+      "x" : 0.6588345902960525,
+      "h" : 0.010290697945488758,
+      "text" : "[D] It converts PSA into human chorionic gonadotropin"
+    },
+    {
+      "y" : 0.7085755813045058,
+      "w" : 0.36278195521713263,
+      "conf" : 1,
+      "x" : 0.6870300706531955,
+      "h" : 0.010174418555365605,
+      "text" : "[E] It permanently suppresses PSA to undetectable levels forever"
+    },
+    {
+      "y" : 0.6947351420194561,
+      "w" : 0.4285714034979331,
+      "conf" : 1,
+      "x" : 0.7218045184210524,
+      "h" : 0.011692505942450526,
+      "text" : "Q24. [2025 Exam] Which adverse effect profile is characteristically"
+    },
+    {
+      "y" : 0.6816666664538598,
+      "w" : 0.40225564173705974,
+      "conf" : 1,
+      "x" : 0.706766915914787,
+      "h" : 0.011666666666666714,
+      "text" : "associated with 5-Alpha Reductase Inhibitors due to systemic"
+    },
+    {
+      "y" : 0.6671963826540688,
+      "w" : 0.15037593663295856,
+      "conf" : 1,
+      "x" : 0.5808270667293234,
+      "h" : 0.011718346277872715,
+      "text" : "androgen deprivation?"
+    },
+    {
+      "y" : 0.653343023201308,
+      "w" : 0.300751873265917,
+      "conf" : 1,
+      "x" : 0.6560150338345867,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Severe hypertension, hirsutism, and erythrocytosis"
+    },
+    {
+      "y" : 0.6417151163699129,
+      "w" : 0.257518798477096,
+      "conf" : 1,
+      "x" : 0.6362781987077066,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Massive nephrolithiasis and hypercalcemia"
+    },
+    {
+      "y" : 0.6301388889862061,
+      "w" : 0.22744360456871182,
+      "conf" : 1,
+      "x" : 0.6212406052944861,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Hypokalemia and metabolic alkalosis"
+    },
+    {
+      "y" : 0.6184722224024495,
+      "w" : 0.3853383287091121,
+      "conf" : 1,
+      "x" : 0.7001879651080829,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Decreased libido, erectile dysfunction, ejaculatory impairment, and"
+    },
+    {
+      "y" : 0.6053779070494186,
+      "w" : 0.08270676679357536,
+      "conf" : 1,
+      "x" : 0.5488721818295739,
+      "h" : 0.010174418555365827,
+      "text" : "Gynecomastia"
+    },
+    {
+      "y" : 0.593750000090843,
+      "w" : 0.31766916435455606,
+      "conf" : 1,
+      "x" : 0.6663533874295111,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Severe orthostatic hypotension and reflex tachycardia"
+    },
+    {
+      "y" : 0.5799806203899808,
+      "w" : 0.4154135226174964,
+      "conf" : 1,
+      "x" : 0.7152255569862157,
+      "h" : 0.011705426110161676,
+      "text" : "Q25. [Faculty Exam] Why must pregnant women (or women who"
+    },
+    {
+      "y" : 0.5669121448728339,
+      "w" : 0.4191729108863902,
+      "conf" : 1,
+      "x" : 0.7171052635103382,
+      "h" : 0.0117312653859456,
+      "text" : "may become pregnant) strictly avoid handling crushed or broken"
+    },
+    {
+      "y" : 0.5537790696947675,
+      "w" : 0.22556391043426494,
+      "conf" : 1,
+      "x" : 0.6203007490601504,
+      "h" : 0.00872092988755968,
+      "text" : "Finasteride or Dutasteride tablets?"
+    },
+    {
+      "y" : 0.5392474161611138,
+      "w" : 0.24436089565735086,
+      "conf" : 1,
+      "x" : 0.6296992511748118,
+      "h" : 0.00872738997141509,
+      "text" : "[A] High risk of maternal anaphylactic shock"
+    },
+    {
+      "y" : 0.5276162791182171,
+      "w" : 0.21052631348007278,
+      "conf" : 1,
+      "x" : 0.6109022591478694,
+      "h" : 0.00872092988755968,
+      "text" : "[B] Risk of cutaneous chemical burns"
+    },
+    {
+      "y" : 0.5159883721656977,
+      "w" : 0.30639097760856626,
+      "conf" : 1,
+      "x" : 0.6607142895441729,
+      "h" : 0.00872092988755968,
+      "text" : "[C] Severe risk of maternal acute renal cortical necrosis"
+    },
+    {
+      "y" : 0.5036337210029069,
+      "w" : 0.31766916435455617,
+      "conf" : 1,
+      "x" : 0.6663533866353383,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Induction of immediate premature uterine contractions"
+    },
+    {
+      "y" : 0.49134366961903336,
+      "w" : 0.40413531393219815,
+      "conf" : 1,
+      "x" : 0.7077067719689849,
+      "h" : 0.011757105721367789,
+      "text" : "[E] Transdermal absorption can cause Teratogenic genital malformations"
+    },
+    {
+      "y" : 0.4796963826540688,
+      "w" : 0.24248120152290398,
+      "conf" : 1,
+      "x" : 0.6287593975877193,
+      "h" : 0.011718346277872715,
+      "text" : "(feminization\/hypospadias) in male fetuses"
+    },
+    {
+      "y" : 0.4658430231831395,
+      "w" : 0.42481201522903944,
+      "conf" : 1,
+      "x" : 0.719924804949875,
+      "h" : 0.010174418555365605,
+      "text" : "Q26. [Core Exam] Which Phosphodiesterase-5 (PDE-5) inhibitor is"
+    },
+    {
+      "y" : 0.45276162799781977,
+      "w" : 0.43421050784058235,
+      "conf" : 1,
+      "x" : 0.7246240655780074,
+      "h" : 0.010174418555365716,
+      "text" : "FDA-approved for daily administration in men suffering from BOTH"
+    },
+    {
+      "y" : 0.43891149850220007,
+      "w" : 0.3627819332778238,
+      "conf" : 1,
+      "x" : 0.688909780482456,
+      "h" : 0.011711886194017196,
+      "text" : "Benign Prostatic Hyperplasia and Erectile Dysfunction?"
+    },
+    {
+      "y" : 0.4251388888260283,
+      "w" : 0.4266917313027948,
+      "conf" : 1,
+      "x" : 0.7208646687656639,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Tadalafil (once-daily 5 mg dosing; increases cGMP causing pelvic smooth"
+    },
+    {
+      "y" : 0.4011111110283288,
+      "w" : 0.07142856907793127,
+      "conf" : 1,
+      "x" : 0.5432330819924813,
+      "h" : 0.008888888888888835,
+      "text" : "[B] Sildenafil"
+    },
+    {
+      "y" : 0.3895348838178294,
+      "w" : 0.07894736755502729,
+      "conf" : 1,
+      "x" : 0.5469924825187971,
+      "h" : 0.00872092988755968,
+      "text" : "[C] Vardenafil"
+    },
+    {
+      "y" : 0.3779069768168605,
+      "w" : 0.06578947022010928,
+      "conf" : 1,
+      "x" : 0.540413534656955,
+      "h" : 0.00872092988755968,
+      "text" : "[D] Avanafil"
+    },
+    {
+      "y" : 0.3655523254905524,
+      "w" : 0.08082706717430133,
+      "conf" : 1,
+      "x" : 0.5460526305686091,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Alprostadil"
+    },
+    {
+      "y" : 0.35169573616387423,
+      "w" : 0.3928571491255167,
+      "conf" : 1,
+      "x" : 0.7039473618734338,
+      "h" : 0.011724805831909157,
+      "text" : "Q27. [Core Exam] Pharmacological rationale for combination"
+    },
+    {
+      "y" : 0.3386272607178386,
+      "w" : 0.379699224366463,
+      "conf" : 1,
+      "x" : 0.6954887154761907,
+      "h" : 0.011698966026306157,
+      "text" : "therapy (Tamsulosin + Dutasteride \/ CombAT trial) in BPH:"
+    },
+    {
+      "y" : 0.32346253235811345,
+      "w" : 0.2819548880428312,
+      "conf" : 1,
+      "x" : 0.6466165444235588,
+      "h" : 0.010297158029344389,
+      "text" : "[A] Alpha-blocker eliminates 5-ARI teratogenic risk"
+    },
+    {
+      "y" : 0.3118055556489062,
+      "w" : 0.41353380654374106,
+      "conf" : 1,
+      "x" : 0.7124060098684212,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Alpha-blocker gives rapid dynamic symptom relief; 5-ARI gives delayed"
+    },
+    {
+      "y" : 0.3001388888260281,
+      "w" : 0.1372180447828676,
+      "conf" : 1,
+      "x" : 0.5761278209210525,
+      "h" : 0.01027777777777783,
+      "text" : "static prostate shrinkage"
+    },
+    {
+      "y" : 0.28847222227860875,
+      "w" : 0.29887217913147013,
+      "conf" : 1,
+      "x" : 0.6550751842340226,
+      "h" : 0.010277777777777719,
+      "text" : "[C] 5-ARI prevents intraoperative floppy iris syndrome"
+    },
+    {
+      "y" : 0.2768217053520104,
+      "w" : 0.293233074788821,
+      "conf" : 1,
+      "x" : 0.6522556439849622,
+      "h" : 0.01031007766723635,
+      "text" : "[D] Alpha-blocker stimulates testosterone production"
+    },
+    {
+      "y" : 0.2637532298272441,
+      "w" : 0.2424812015229041,
+      "conf" : 1,
+      "x" : 0.6268796962171054,
+      "h" : 0.01028423786163335,
+      "text" : "[E] Synergistically sterilizes the urinary tract"
+    },
+    {
+      "y" : 0.23694121477664692,
+      "w" : 0.40225564173705974,
+      "conf" : 1,
+      "x" : 0.7086466232456139,
+      "h" : 0.011673126220703156,
+      "text" : "Q28. [Core Exam] Saw Palmetto (Serenoa repens) is a popular"
+    },
+    {
+      "y" : 0.22387273902694182,
+      "w" : 0.4285714034979332,
+      "conf" : 1,
+      "x" : 0.7218045155639097,
+      "h" : 0.011698966556125123,
+      "text" : "herbal phytotherapy utilized by patients for BPH symptoms. Large"
+    },
+    {
+      "y" : 0.21152777783645915,
+      "w" : 0.36278193327782393,
+      "conf" : 1,
+      "x" : 0.6889097703320805,
+      "h" : 0.01027777777777783,
+      "text" : "double-blind randomized trials have demonstrated that:"
+    },
+    {
+      "y" : 0.19694767449127903,
+      "w" : 0.3759398360975692,
+      "conf" : 1,
+      "x" : 0.6936090288220548,
+      "h" : 0.010174418555365605,
+      "text" : "[A] It is 10 times more effective than surgical transurethral resection"
+    },
+    {
+      "y" : 0.18386627919089155,
+      "w" : 0.293233074788821,
+      "conf" : 1,
+      "x" : 0.6522556439849622,
+      "h" : 0.010174418555365716,
+      "text" : "[B] It irreversibly destroys all prostatic epithelial cells"
+    },
+    {
+      "y" : 0.17302002614866346,
+      "w" : 0.4191729108863903,
+      "conf" : 1,
+      "x" : 0.715225556923559,
+      "h" : 0.011737725999620197,
+      "text" : "[C] It produces no significant improvement in urinary symptoms or peak flow"
+    },
+    {
+      "y" : 0.16067829472672024,
+      "w" : 0.11842104859012736,
+      "conf" : 1,
+      "x" : 0.5667293247885338,
+      "h" : 0.01031007766723624,
+      "text" : "compared to placebo"
+    },
+    {
+      "y" : 0.14902777759421093,
+      "w" : 0.3270676569660991,
+      "conf" : 1,
+      "x" : 0.6691729268796994,
+      "h" : 0.01027777777777783,
+      "text" : "[D] It completely cures advanced prostate adenocarcinoma"
+    },
+    {
+      "y" : 0.13736111117397187,
+      "w" : 0.300751873265917,
+      "conf" : 1,
+      "x" : 0.6541353333333335,
+      "h" : 0.01027777777777783,
+      "text" : "[E] It permanently abolishes all renal tubular transport"
+    },
+    {
+      "y" : 0.024027777739559775,
+      "w" : 0.45300749306366817,
+      "conf" : 1,
+      "x" : 0.28289474439223034,
+      "h" : 0.01027777777777783,
+      "text" : "Twisted Medicine • Renal Pharmacology Master Class • Faculty & Board Exam Preparation"
+    },
+    {
+      "y" : 0.0123546509738372,
+      "w" : 0.041353383396787624,
+      "conf" : 1,
+      "x" : 0.5187969925939849,
+      "h" : 0.018895348442925397,
+      "text" : "126"
+    },
+    {
+      "y" : 0.024722222108822245,
+      "w" : 0.2725563734919796,
+      "conf" : 1,
+      "x" : 0.8054511276002507,
+      "h" : 0.008888888888888946,
+      "text" : "Confidential - Dedicated for Medical Student Revision"
+    }
+  ],
+  "page" : 128
+}

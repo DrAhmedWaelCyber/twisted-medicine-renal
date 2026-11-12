@@ -1,0 +1,989 @@
+{
+  "items" : [
+    {
+      "h" : 0.013178293969896115,
+      "y" : 0.9774224804452566,
+      "w" : 0.5061728039627555,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 22 MCQ Masterclass",
+      "x" : 0.2860082296982169
+    },
+    {
+      "h" : 0.011023411220974388,
+      "y" : 0.9760174417736266,
+      "w" : 0.07019636765965875,
+      "conf" : 1,
+      "text" : "Page 2 of 4",
+      "x" : 0.9341563774367854
+    },
+    {
+      "h" : 0.01031007766723635,
+      "y" : 0.9643217052732798,
+      "w" : 0.7345678941258844,
+      "conf" : 1,
+      "text" : "Twisted Medicine Medical Series • CKD, ESRD, Contracted Kidney, ACKD, Uremic Toxins & Multiorgan Pathology • Standard Practice Bank",
+      "x" : 0.40020575213477383
+    },
+    {
+      "h" : 0.010284237861633239,
+      "y" : 0.9512532299362557,
+      "w" : 0.3971193421561763,
+      "conf" : 1,
+      "text" : "Q15. [2025 Exam] Patients with ESRD maintained on long-term",
+      "x" : 0.2335390996141974
+    },
+    {
+      "h" : 0.010284237861633239,
+      "y" : 0.9512532299362557,
+      "w" : 0.3888888808916199,
+      "conf" : 1,
+      "text" : "Q22. [2023 Exam] The cardiovascular complication known as",
+      "x" : 0.7088477414866254
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.9375000000726744,
+      "w" : 0.42798350592079404,
+      "conf" : 1,
+      "text" : "hemodialysis (e.g., >3-5 years) are at high risk of developing which",
+      "x" : 0.248971198765432
+    },
+    {
+      "h" : 0.011666666666666603,
+      "y" : 0.9375000000484497,
+      "w" : 0.45473249903265034,
+      "conf" : 1,
+      "text" : "'Calciphylaxis' (Calcific Uremic Arteriolopathy) in ESRD is pathologically",
+      "x" : 0.7397119417352536
+    },
+    {
+      "h" : 0.011673126220703045,
+      "y" : 0.924441214873546,
+      "w" : 0.1893004051544381,
+      "conf" : 1,
+      "text" : "morphological complication?",
+      "x" : 0.12962963244170084
+    },
+    {
+      "h" : 0.008888888888888835,
+      "y" : 0.9244444445052153,
+      "w" : 0.07407407340763505,
+      "conf" : 1,
+      "text" : "defined by:",
+      "x" : 0.5493827172839506
+    },
+    {
+      "h" : 0.01031007766723635,
+      "y" : 0.9106782946177086,
+      "w" : 0.42798350592079404,
+      "conf" : 1,
+      "text" : "[A] Complete spontaneous regeneration of normal cortical nephron mass",
+      "x" : 0.2469135748971195
+    },
+    {
+      "h" : 0.01031007766723635,
+      "y" : 0.9106782947630574,
+      "w" : 0.40123456079255104,
+      "conf" : 1,
+      "text" : "[A] Extensive calcification of coronary sinus valves without ischemia",
+      "x" : 0.7129629679783949
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.8975290695978682,
+      "w" : 0.43209877254078216,
+      "conf" : 1,
+      "text" : "[B] Acquired Cystic Kidney Disease (ACKD) with an increased risk of Renal",
+      "x" : 0.24897118923182449
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.897529069743217,
+      "w" : 0.4176954353380503,
+      "conf" : 1,
+      "text" : "[B] Benign deposition of calcium oxalate crystals in the renal hilum only",
+      "x" : 0.7211934086762692
+    },
+    {
+      "h" : 0.007499999999999951,
+      "y" : 0.8873611110544111,
+      "w" : 0.09670781789335814,
+      "conf" : 1,
+      "text" : "Cell Carcinoma",
+      "x" : 0.08333333494513026
+    },
+    {
+      "h" : 0.010297157499525311,
+      "y" : 0.8859625323536204,
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "text" : "[C] Systemic medial calcification of small-to-medium arteries with intimal",
+      "x" : 0.7273662605195472
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.8743055557942551,
+      "w" : 0.33744855196970813,
+      "conf" : 1,
+      "text" : "[C] Acute post-infectious proliferative glomerulonephritis",
+      "x" : 0.20164609475308629
+    },
+    {
+      "h" : 0.011666666666666603,
+      "y" : 0.8750000001937985,
+      "w" : 0.30658434022147707,
+      "conf" : 1,
+      "text" : "hyperplasia, thrombosis, and ischemic skin necrosis",
+      "x" : 0.6676954734910836
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.8626388886625107,
+      "w" : 0.42798350592079404,
+      "conf" : 1,
+      "text" : "[D] Massive hypertrophy of the renal hilum into a cavernous hemangioma",
+      "x" : 0.2469135748971195
+    },
+    {
+      "h" : 0.011673126220703045,
+      "y" : 0.861941214873546,
+      "w" : 0.4465020617599007,
+      "conf" : 1,
+      "text" : "[D] Complete destruction of peripheral nerves by calcium phosphate plaques",
+      "x" : 0.7355967055898491
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.849583333282794,
+      "w" : 0.4012345607925511,
+      "conf" : 1,
+      "text" : "[E] Total obliteration of both ureters with complete urothelial fibrosis",
+      "x" : 0.23353910133744837
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.8495833333009626,
+      "w" : 0.3497942318706392,
+      "conf" : 1,
+      "text" : "[E] Replacement of the aortic arch by hyaline cartilage rings",
+      "x" : 0.6872428027263373
+    },
+    {
+      "h" : 0.011686045858595118,
+      "y" : 0.8241569768727246,
+      "w" : 0.44032920981353185,
+      "conf" : 1,
+      "text" : "Q16. [2024 Exam] What is the single most common cause of death in",
+      "x" : 0.25514404026063076
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.8103197673207365,
+      "w" : 0.4341563578671629,
+      "conf" : 1,
+      "text" : "patients with Chronic Kidney Disease and End-Stage Renal Disease?",
+      "x" : 0.24999999276406057
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7972383720687986,
+      "w" : 0.33333333333333337,
+      "conf" : 1,
+      "text" : "[A] Spontaneous intracranial rupture of berry aneurysms",
+      "x" : 0.19958847181069977
+    },
+    {
+      "h" : 0.011763565805223197,
+      "y" : 0.784951550557279,
+      "w" : 0.3641975210897578,
+      "conf" : 1,
+      "text" : "[B] Gastrointestinal hemorrhage from acute uremic stomatitis",
+      "x" : 0.2150205760973937
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7725290698401163,
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "text" : "[C] Cardiovascular Disease (e.g., myocardial infarction, arrhythmias, heart",
+      "x" : 0.24794239399862805
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7609011626635174,
+      "w" : 0.0452674889714463,
+      "conf" : 1,
+      "text" : "failure)",
+      "x" : 0.055555556069958836
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7478197675145348,
+      "w" : 0.20576131568764738,
+      "conf" : 1,
+      "text" : "[DJ Refractory hypercalcemic crisis",
+      "x" : 0.13580247119341557
+    },
+    {
+      "h" : 0.01028423786163346,
+      "y" : 0.7362467701909245,
+      "w" : 0.17695472525350703,
+      "conf" : 1,
+      "text" : "[E] Acute bacterial meningitis",
+      "x" : 0.12139917990397794
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.696947674491279,
+      "w" : 0.43827157650353776,
+      "conf" : 1,
+      "text" : "Q17. [2023 Exam] Uremic Pericarditis is a severe fibrinous pericardial",
+      "x" : 0.2541152307201645
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.6838662790939922,
+      "w" : 0.42592592059441325,
+      "conf" : 1,
+      "text" : "inflammation in advanced renal failure whose gross appearance is",
+      "x" : 0.24588478076131665
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.670784883775436,
+      "w" : 0.07201645809149591,
+      "conf" : 1,
+      "text" : "classic for:",
+      "x" : 0.07098765522119338
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.6562499999757753,
+      "w" : 0.31069958284965854,
+      "conf" : 1,
+      "text" : "[A] Pure serous transudate without any fibrin strands",
+      "x" : 0.18827159975994534
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.6438888890893744,
+      "w" : 0.3209876534324022,
+      "conf" : 1,
+      "text" : "[B] Complete congenital absence of the pericardial sac",
+      "x" : 0.19341563614540472
+    },
+    {
+      "h" : 0.008888888623979407,
+      "y" : 0.6322222222975591,
+      "w" : 0.3641975210897578,
+      "conf" : 1,
+      "text" : "[C] Massive caseous necrotic destruction with acid-fast bacilli",
+      "x" : 0.2150205822016459
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.6198611111591428,
+      "w" : 0.3827160289452511,
+      "conf" : 1,
+      "text" : "[D] Extensive cartilaginous metaplasia of the parietal pericardium",
+      "x" : 0.2242798417695471
+    },
+    {
+      "h" : 0.011705426110161676,
+      "y" : 0.6075193796100192,
+      "w" : 0.42592592059441325,
+      "conf" : 1,
+      "text" : "[E] 'Bread-and-butter' fibrinous pericarditis (shaggy, dense, irregular fibrin",
+      "x" : 0.24588478076131665
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.5959302325096899,
+      "w" : 0.19135801447262554,
+      "conf" : 1,
+      "text" : "deposits on epicardial surfaces)",
+      "x" : 0.1286008198559672
+    },
+    {
+      "h" : 0.011692505942450526,
+      "y" : 0.5697351420436811,
+      "w" : 0.44238684312352594,
+      "conf" : 1,
+      "text" : "Q18. [2022 Exam] What is the primary pathophysiological mechanism",
+      "x" : 0.2561728450360081
+    },
+    {
+      "h" : 0.011666666666666714,
+      "y" : 0.5566666664538598,
+      "w" : 0.44650206175990076,
+      "conf" : 1,
+      "text" : "of the normocytic normochromic anemia universally seen in advanced",
+      "x" : 0.2582304455075448
+    },
+    {
+      "h" : 0.008788296911451443,
+      "y" : 0.5436046512363073,
+      "w" : 0.03706871488559171,
+      "conf" : 0.5,
+      "text" : "CKD?",
+      "x" : 0.05349794284952765
+    },
+    {
+      "h" : 0.010290697415669792,
+      "y" : 0.5298546511125648,
+      "w" : 0.39917695147436366,
+      "conf" : 1,
+      "text" : "[A] Massive ongoing occult hematuria through eroded minor calyces",
+      "x" : 0.2345679062242797
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.5167151163517443,
+      "w" : 0.4444444284499066,
+      "conf" : 1,
+      "text" : "[B] Rapid destruction of bone marrow pluripotent stem cells by urea crystals",
+      "x" : 0.2572016534979421
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.5051388890831053,
+      "w" : 0.34567898924245777,
+      "conf" : 1,
+      "text" : "[C] Primary genetic mutation in the beta-globin chain gene",
+      "x" : 0.2057613113854597
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.49207041329792234,
+      "w" : 0.35596705982520144,
+      "conf" : 1,
+      "text" : "[D] Complete nutritional deficiency of Vitamin B12 and folate",
+      "x" : 0.21090535058299034
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.4804166668773838,
+      "w" : 0.40329219410254524,
+      "conf" : 1,
+      "text" : "[E] Deficiency of Erythropoietin (EPO) synthesis due to destruction of",
+      "x" : 0.23456789720164617
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.46875000005450584,
+      "w" : 0.20987653432402223,
+      "conf" : 1,
+      "text" : "peritubular capillary interstitial cells",
+      "x" : 0.1399176980967078
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.44263888896803744,
+      "w" : 0.44238684312352594,
+      "conf" : 1,
+      "text" : "Q19. [2021 Exam] In patients with severe uremia, the Uremic Bleeding",
+      "x" : 0.2561728450360081
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.42957041352200176,
+      "w" : 0.42798350592079404,
+      "conf" : 1,
+      "text" : "Diathesis (abnormal clinical bleeding tendency) is characterized by:",
+      "x" : 0.248971198765432
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.4149709302083334,
+      "w" : 0.3518518411888267,
+      "conf" : 1,
+      "text" : "[A] Severe thrombocytopenia with platelet count <10,000\/uL",
+      "x" : 0.20884773076131705
+    },
+    {
+      "h" : 0.01176356527540423,
+      "y" : 0.40254844936848333,
+      "w" : 0.3580246931351955,
+      "conf" : 1,
+      "text" : "[B] Massive hyperfibrinogenemia with hypercoagulability only",
+      "x" : 0.21193415905349783
+    },
+    {
+      "h" : 0.011627906163533486,
+      "y" : 0.39098837216569765,
+      "w" : 0.38271602894525103,
+      "conf" : 1,
+      "text" : "[C] Total congenital absence of clotting factor VIII (Hemophilia A)",
+      "x" : 0.22427984017489697
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.3786337210513567,
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "text" : "[D] Platelet dysfunction (impaired aggregation and adhesion) with normal",
+      "x" : 0.24794239399862805
+    },
+    {
+      "h" : 0.01030361758338072,
+      "y" : 0.3670704135401704,
+      "w" : 0.2530864019813777,
+      "conf" : 1,
+      "text" : "platelet count and prolonged bleeding time",
+      "x" : 0.16152263796296282
+    },
+    {
+      "h" : 0.011718345748053638,
+      "y" : 0.35469638258295766,
+      "w" : 0.44032920981353185,
+      "conf" : 1,
+      "text" : "[E] Complete destruction of the vascular endothelial glycocalyx by bile salts",
+      "x" : 0.2530864124142664
+    },
+    {
+      "h" : 0.010297157499525311,
+      "y" : 0.8234625322385527,
+      "w" : 0.4197530686480445,
+      "conf" : 1,
+      "text" : "Q23. [2021 Exam] Left Ventricular Hypertrophy (LVH) is present in",
+      "x" : 0.7222222152263378
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.8103197673873546,
+      "w" : 0.41769548332166373,
+      "conf" : 1,
+      "text" : ">75% of patients reaching ESRD. The primary driving mechanisms",
+      "x" : 0.7232510235853911
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.7972383722625969,
+      "w" : 0.053497938240099296,
+      "conf" : 1,
+      "text" : "include:",
+      "x" : 0.5390946505486969
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7841569769137597,
+      "w" : 0.3559670598252014,
+      "conf" : 1,
+      "text" : "[A] Selective hypertrophy of the right atrial pectinate muscles",
+      "x" : 0.6923868304869685
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7710755814861918,
+      "w" : 0.44238684312352594,
+      "conf" : 1,
+      "text" : "[B] Exclusive excessive production of cardiac troponin I by proximal tubules",
+      "x" : 0.7355967133487653
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.759447674491279,
+      "w" : 0.38683127157343256,
+      "conf" : 1,
+      "text" : "[C] Complete destruction of myocardial capillaries by uremic frost",
+      "x" : 0.70781893648834
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7463662791424419,
+      "w" : 0.45267486572265625,
+      "conf" : 1,
+      "text" : "[DJ Chronic volume overload, arterial hypertension, and chronic severe anemia",
+      "x" : 0.7407407482853221
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.7347383722141472,
+      "w" : 0.15843620540211034,
+      "conf" : 1,
+      "text" : "(high-cardiac output state)",
+      "x" : 0.5936214018175581
+    },
+    {
+      "h" : 0.01031007766723624,
+      "y" : 0.7231782947448888,
+      "w" : 0.2921810510023586,
+      "conf" : 1,
+      "text" : "[E] Total absence of systemic vascular resistance",
+      "x" : 0.6584362188614539
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.696947674491279,
+      "w" : 0.42798355390440745,
+      "conf" : 1,
+      "text" : "Q24. [2025 Exam] Uremic Encephalopathy, a severe central nervous",
+      "x" : 0.7283950660082305
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.6838662789789245,
+      "w" : 0.4485596470862814,
+      "conf" : 1,
+      "text" : "system complication of advanced uremia, typically manifests clinically",
+      "x" : 0.7366255087962964
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.6707848836482557,
+      "w" : 0.03703703670381753,
+      "conf" : 1,
+      "text" : "with:",
+      "x" : 0.528806583744856
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.6562500000726744,
+      "w" : 0.3415637706060828,
+      "conf" : 1,
+      "text" : "[A] Focal visual field blindness without any systemic signs",
+      "x" : 0.6831275777091905
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.6431944445476089,
+      "w" : 0.2674897151923029,
+      "conf" : 1,
+      "text" : "[B] Isolated unilateral hypoglossal nerve palsy",
+      "x" : 0.6481481514917695
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.6315277775975506,
+      "w" : 0.32304526275058953,
+      "conf" : 1,
+      "text" : "[C] Pure ascending spastic paralysis starting in the feet",
+      "x" : 0.6759259299639917
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.6198611111409742,
+      "w" : 0.29835390294872743,
+      "conf" : 1,
+      "text" : "[D] Permanent complete auditory nerve transection",
+      "x" : 0.6635802506430041
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.6068055556643582,
+      "w" : 0.4218107019580385,
+      "conf" : 1,
+      "text" : "[E] Progressive cognitive decline, fluctuating confusion, drowsiness, and",
+      "x" : 0.7232510358367625
+    },
+    {
+      "h" : 0.01029069794548887,
+      "y" : 0.5951453487497058,
+      "w" : 0.16049382671620116,
+      "conf" : 1,
+      "text" : "Asterixis (flapping tremor)",
+      "x" : 0.5946502073662552
+    },
+    {
+      "h" : 0.011692505942450526,
+      "y" : 0.5697351420436811,
+      "w" : 0.45267486572265625,
+      "conf" : 1,
+      "text" : "Q25. [Faculty Exam] The peripheral neuropathy of Chronic Renal Failure",
+      "x" : 0.7407407463991769
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.5559722220845974,
+      "w" : 0.19753085442309115,
+      "conf" : 1,
+      "text" : "characteristically presents as:",
+      "x" : 0.611111114403292
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.542916666474745,
+      "w" : 0.34362137992427044,
+      "conf" : 1,
+      "text" : "[A] Complete loss of taste sensation on the anterior tongue",
+      "x" : 0.6862139960648148
+    },
+    {
+      "h" : 0.011679585774739487,
+      "y" : 0.530549095813355,
+      "w" : 0.38683127157343267,
+      "conf" : 1,
+      "text" : "[B] Pure proximal motor mononeuritis multiplex sparing sensation",
+      "x" : 0.7057613174211246
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.51819444440226,
+      "w" : 0.2736625431468651,
+      "conf" : 1,
+      "text" : "[C] Isolated unilateral facial nerve (Bell's) palsy",
+      "x" : 0.6491769513117286
+    },
+    {
+      "h" : 0.011666666666666603,
+      "y" : 0.5058333333554683,
+      "w" : 0.4362139911771571,
+      "conf" : 1,
+      "text" : "[D] Symmetrical, distal sensory-motor polyneuropathy ('glove-and-stocking'",
+      "x" : 0.732510293312757
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.49347222205431635,
+      "w" : 0.24485596470862814,
+      "conf" : 1,
+      "text" : "distribution) and Restless Legs Syndrome",
+      "x" : 0.6368312787808642
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.4818055556159086,
+      "w" : 0.2716049338286778,
+      "conf" : 1,
+      "text" : "[E] Acute non-demyelinating Horner syndrome",
+      "x" : 0.6481481526748969
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.4426388888893068,
+      "w" : 0.4444444284499066,
+      "conf" : 1,
+      "text" : "Q26. [2022 Exam] Uremic Stomatitis and Gastrointestinal Ulcerations",
+      "x" : 0.7345678938271609
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.4295704135583389,
+      "w" : 0.3312757000233393,
+      "conf" : 1,
+      "text" : "in advanced renal failure develop primarily because:",
+      "x" : 0.6779835432355966
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.4149709302083334,
+      "w" : 0.36213991177157034,
+      "conf" : 1,
+      "text" : "[A] Ingestion of toxic quantities of dietary sodium bicarbonate",
+      "x" : 0.6934156318244171
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.40334302331031974,
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "text" : "[B] Autoantibodies specifically attack gastric parietal cell H+\/K+ ATPases",
+      "x" : 0.7273662605195472
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.3902616279978199,
+      "w" : 0.4218107019580385,
+      "conf" : 1,
+      "text" : "[C] Bacterial urease in the gut and saliva hydrolyzes high urea levels into",
+      "x" : 0.723251034079218
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.37863372100290704,
+      "w" : 0.2242798235431408,
+      "conf" : 1,
+      "text" : "corrosive, mucosal-irritating Ammonia",
+      "x" : 0.6265432136145404
+    },
+    {
+      "h" : 0.01030361758338083,
+      "y" : 0.3670704134129902,
+      "w" : 0.34773662255245186,
+      "conf" : 1,
+      "text" : "[D] Complete cessation of gastrointestinal mucus secretion",
+      "x" : 0.6862139874228398
+    },
+    {
+      "h" : 0.011718345748053638,
+      "y" : 0.3546963827767561,
+      "w" : 0.45267486572265625,
+      "conf" : 1,
+      "text" : "[E] Direct invasion of the stomach wall by cytomegalovirus in all CKD patients",
+      "x" : 0.7386831203017835
+    },
+    {
+      "h" : 0.011627906163533597,
+      "y" : 0.3154069768168605,
+      "w" : 0.4485596470862814,
+      "conf" : 1,
+      "text" : "Q20. [2020 Exam] Which therapeutic agent is clinically administered to",
+      "x" : 0.259259264866255
+    },
+    {
+      "h" : 0.01175064563751227,
+      "y" : 0.30226421158568506,
+      "w" : 0.4197530686480445,
+      "conf" : 1,
+      "text" : "rapidly reverse uremic platelet dysfunction before urgent surgery?",
+      "x" : 0.24279834866255165
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.2884722223876204,
+      "w" : 0.2098765343240222,
+      "conf" : 1,
+      "text" : "[A] High-dose oral Warfarin therapy",
+      "x" : 0.13786008492798346
+    },
+    {
+      "h" : 0.01031007766723635,
+      "y" : 0.27682170525511124,
+      "w" : 0.4320987725407822,
+      "conf" : 1,
+      "text" : "[B] Intravenous Desmopressin (dDAVP) (stimulates endothelial release of",
+      "x" : 0.24691357304526773
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.26526162783430235,
+      "w" : 0.12139917769522039,
+      "conf" : 1,
+      "text" : "vWF and Factor VIII)",
+      "x" : 0.09362139715363518
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.25218023238856596,
+      "w" : 0.24485596470862817,
+      "conf" : 1,
+      "text" : "[C] Subcutaneous unfractionated Heparin",
+      "x" : 0.15534979742798344
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.2405523256540697,
+      "w" : 0.33539094265152075,
+      "conf" : 1,
+      "text" : "[D] Intravenous recombinant Erythropoietin over 48 hours",
+      "x" : 0.2006172873045267
+    },
+    {
+      "h" : 0.011627906163533597,
+      "y" : 0.22819767461240303,
+      "w" : 0.23045267548950962,
+      "conf" : 1,
+      "text" : "[E] Oral Acetazolamide to acidify blood",
+      "x" : 0.14814814458161876
+    },
+    {
+      "h" : 0.011627906163533597,
+      "y" : 0.3154069766957365,
+      "w" : 0.45267486572265625,
+      "conf" : 1,
+      "text" : "Q27. [Core Exam] The classic dermatological finding known as 'Uremic",
+      "x" : 0.7366255068587108
+    },
+    {
+      "h" : 0.00872092988755968,
+      "y" : 0.3023255814534883,
+      "w" : 0.09670781789335814,
+      "conf" : 1,
+      "text" : "Frost refers to:",
+      "x" : 0.5627572026131689
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.28847222240578907,
+      "w" : 0.4053497794289258,
+      "conf" : 1,
+      "text" : "[A] Extensive subcutaneous deposition of calcium carbonate crystals",
+      "x" : 0.7150205828875169
+    },
+    {
+      "h" : 0.01031007766723635,
+      "y" : 0.27682170525511124,
+      "w" : 0.434156357867163,
+      "conf" : 1,
+      "text" : "[B] Evaporation of high-urea sweat leaving a fine white crystalline powdery",
+      "x" : 0.7273662479080936
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.26526162783430235,
+      "w" : 0.1172839470629422,
+      "conf" : 1,
+      "text" : "coating on the skin",
+      "x" : 0.5709876523662554
+    },
+    {
+      "h" : 0.010174418555365605,
+      "y" : 0.2521802325399709,
+      "w" : 0.3806584196270636,
+      "conf" : 1,
+      "text" : "[C] Cold-induced necrotizing raynaud phenomenon of both hands",
+      "x" : 0.7026748923611112
+    },
+    {
+      "h" : 0.010174418555365716,
+      "y" : 0.2405523255268895,
+      "w" : 0.36213991177157034,
+      "conf" : 1,
+      "text" : "[D] Widespread epidermal bullae filled with pure serous lymph",
+      "x" : 0.6934156333333334
+    },
+    {
+      "h" : 0.011627906163533597,
+      "y" : 0.22819767461240303,
+      "w" : 0.36831273972613254,
+      "conf" : 1,
+      "text" : "[E] Congenital hypopigmentation of the extensor skin surfaces",
+      "x" : 0.6944444386488342
+    },
+    {
+      "h" : 0.011711886194017196,
+      "y" : 0.18891149855064976,
+      "w" : 0.39094649020980743,
+      "conf" : 1,
+      "text" : "Q21. [2024 Exam] Dialysis-Related Amyloidosis in patients on",
+      "x" : 0.23045267194787392
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.17513888870974925,
+      "w" : 0.44032920981353185,
+      "conf" : 1,
+      "text" : "long-term hemodialysis (>10 years) is caused by tissue deposition of",
+      "x" : 0.2530864153497943
+    },
+    {
+      "h" : 0.012383926179673987,
+      "y" : 0.16133720948564662,
+      "w" : 0.09688422964803828,
+      "conf" : 1,
+      "text" : "which protein?",
+      "x" : 0.08127572150501455
+    },
+    {
+      "h" : 0.0087273899714152,
+      "y" : 0.1482525838752235,
+      "w" : 0.20370370636946,
+      "conf" : 1,
+      "text" : "[A] Serum Amyloid A (SAA) protein",
+      "x" : 0.13477366000514407
+    },
+    {
+      "h" : 0.0102971574995252,
+      "y" : 0.13596253233545186,
+      "w" : 0.2139917769522037,
+      "conf" : 1,
+      "text" : "[B] Immunoglobulin Light Chain (AL)",
+      "x" : 0.1399176976131687
+    },
+    {
+      "h" : 0.011711885664198118,
+      "y" : 0.12358850142668892,
+      "w" : 0.18312756520397258,
+      "conf" : 0.5,
+      "text" : "[C] Beta-2 Microglobulin (B2m)",
+      "x" : 0.12448559975994501
+    },
+    {
+      "h" : 0.01028423786163335,
+      "y" : 0.1112467701909246,
+      "w" : 0.1358024669143389,
+      "conf" : 0.5,
+      "text" : "[D] Transthyretin (TTR)",
+      "x" : 0.10082304753086414
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.09958333337969333,
+      "w" : 0.1172839470629422,
+      "conf" : 1,
+      "text" : "[E] Calcitonin fibrils",
+      "x" : 0.09156378700274345
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.1881944443692623,
+      "w" : 0.43827157650353776,
+      "conf" : 1,
+      "text" : "Q28. [Core Exam] Intractable pruritus (severe skin itching) in patients",
+      "x" : 0.7335391019547324
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.1751388886806794,
+      "w" : 0.2716049338286778,
+      "conf" : 1,
+      "text" : "with advanced CKD and ESRD is driven by:",
+      "x" : 0.6481481436213994
+    },
+    {
+      "h" : 0.01031007766723624,
+      "y" : 0.1606782945026407,
+      "w" : 0.43827157650353765,
+      "conf" : 1,
+      "text" : "[A] Selective cutaneous colonization by Schistosoma haematobium worms",
+      "x" : 0.7314814817901233
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.14902777773955977,
+      "w" : 0.4238682872844193,
+      "conf" : 1,
+      "text" : "[B] Complete absence of cutaneous mast cells and histaminergic nerves",
+      "x" : 0.7242798424554181
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.1373611111921405,
+      "w" : 0.40740741273892,
+      "conf" : 1,
+      "text" : "[C] Excessive dietary protein consumption exceeding 5 grams\/kg\/day",
+      "x" : 0.7160493776234569
+    },
+    {
+      "h" : 0.010277777777777719,
+      "y" : 0.12430555529471704,
+      "w" : 0.37242798235431407,
+      "conf" : 1,
+      "text" : "[D] Overproduction of dermal melanin by proximal tubular cells",
+      "x" : 0.6985596769890259
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.11263888869884797,
+      "w" : 0.4444444284499066,
+      "conf" : 1,
+      "text" : "[E] Secondary hyperparathyroidism, hyperphosphatemia, calcium-phosphate",
+      "x" : 0.7345678956790125
+    },
+    {
+      "h" : 0.01027777777777783,
+      "y" : 0.10097222240578907,
+      "w" : 0.16666666666666663,
+      "conf" : 1,
+      "text" : "skin deposition, and xerosis",
+      "x" : 0.5956790151234566
+    },
+    {
+      "h" : 0.017519379191928475,
+      "y" : 0.014573643611020815,
+      "w" : 0.5720164460955927,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal Pathology Master Class • Strictly Grounded in Faculty & Board 672m Past Papers",
+      "x" : 0.318930048302469
+    },
+    {
+      "h" : 0.007344961166381836,
+      "y" : 0.01966085278616625,
+      "w" : 0.19135801447262546,
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321
+    }
+  ],
+  "page" : 84
+}

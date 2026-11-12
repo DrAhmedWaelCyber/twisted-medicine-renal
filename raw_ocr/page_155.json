@@ -1,0 +1,1045 @@
+{
+  "page" : 155,
+  "items" : [
+    {
+      "y" : 0.9818055555190094,
+      "w" : 0.5,
+      "conf" : 1,
+      "x" : 0.2849794155349797,
+      "h" : 0.01027777777777783,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 40 MCQ Masterclass"
+    },
+    {
+      "y" : 0.9665697673691861,
+      "w" : 0.716049386270391,
+      "conf" : 1,
+      "x" : 0.3971193326131689,
+      "h" : 0.00872092988755968,
+      "text" : "Twisted Medicine Medical Series • Renovascular Hypertension, FMD, Atherosclerotic RAS, RVT & Malignant Nephrosclerosis"
+    },
+    {
+      "y" : 0.9818055557128078,
+      "w" : 0.07407407340763494,
+      "conf" : 1,
+      "x" : 0.9238683137174213,
+      "h" : 0.01027777777777783,
+      "text" : "Page 1 of 4"
+    },
+    {
+      "y" : 0.9469476743459302,
+      "w" : 0.6934156117949095,
+      "conf" : 1,
+      "x" : 0.498971181858711,
+      "h" : 0.010174418555365716,
+      "text" : "40. RENOVASCULAR HYPERTENSION & RENAL VASCULAR DISEASES - CLINICAL LECTURE"
+    },
+    {
+      "y" : 0.9331395349677261,
+      "w" : 0.5411522343473614,
+      "conf" : 1,
+      "x" : 0.4989711843964337,
+      "h" : 0.00872093015246922,
+      "text" : "Twisted Medicine Clinical Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)"
+    },
+    {
+      "y" : 0.8880587853687021,
+      "w" : 0.4382715765035377,
+      "conf" : 1,
+      "x" : 0.26234568631687216,
+      "h" : 0.011673126220703156,
+      "text" : "Q01. [2025 Exam] What is the single most common cause"
+    },
+    {
+      "y" : 0.8750000001937985,
+      "w" : 0.4156378500116697,
+      "conf" : 1,
+      "x" : 0.251028806447188,
+      "h" : 0.011666666666666603,
+      "text" : "of Renovascular Hypertension, accounting for ~80% to"
+    },
+    {
+      "y" : 0.8619412144859491,
+      "w" : 0.31687241080422074,
+      "conf" : 1,
+      "x" : 0.2016460941015088,
+      "h" : 0.011673126220703156,
+      "text" : "90% of cases in older adults (>50 years)?"
+    },
+    {
+      "y" : 0.8481782947267202,
+      "w" : 0.30041151226691476,
+      "conf" : 1,
+      "x" : 0.19135802844650196,
+      "h" : 0.01031007766723624,
+      "text" : "[A] Atherosclerotic Renal Artery Stenosis (ARAS)"
+    },
+    {
+      "y" : 0.835752583876005,
+      "w" : 0.2181069955885785,
+      "conf" : 1,
+      "x" : 0.1502057649519889,
+      "h" : 0.008727390236324739,
+      "text" : "[B] Fibromuscular Dysplasia (FMD)"
+    },
+    {
+      "y" : 0.8241666665890311,
+      "w" : 0.16460904535257592,
+      "conf" : 1,
+      "x" : 0.12139917901234562,
+      "h" : 0.008888888623979296,
+      "text" : "[C] Renal vein thrombosis"
+    },
+    {
+      "y" : 0.8103197672722868,
+      "w" : 0.14814814681527,
+      "conf" : 1,
+      "x" : 0.11522633662551443,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Polyarteritis nodosa"
+    },
+    {
+      "y" : 0.7987467701909245,
+      "w" : 0.13786007623252627,
+      "conf" : 1,
+      "x" : 0.11008230682441693,
+      "h" : 0.01028423786163335,
+      "text" : "[E] Takayasu arteritis"
+    },
+    {
+      "y" : 0.7805490956906675,
+      "w" : 0.33744855196970813,
+      "conf" : 1,
+      "x" : 0.21193415884773653,
+      "h" : 0.011679586304558565,
+      "text" : "Q02. [2024 Exam] Anatomically, where does"
+    },
+    {
+      "y" : 0.7688888888018034,
+      "w" : 0.40123456079255115,
+      "conf" : 1,
+      "x" : 0.24382716718106973,
+      "h" : 0.011666666666666714,
+      "text" : "Atherosclerotic Renal Artery Stenosis predominantly"
+    },
+    {
+      "y" : 0.7558333332973288,
+      "w" : 0.3847736622552452,
+      "conf" : 1,
+      "x" : 0.23353909849794235,
+      "h" : 0.011666666666666603,
+      "text" : "localize along the course of the main renal artery?"
+    },
+    {
+      "y" : 0.7427648582227919,
+      "w" : 0.38477363826343847,
+      "conf" : 1,
+      "x" : 0.23353909653635113,
+      "h" : 0.011692505942450637,
+      "text" : "[A] Distal third and intrarenal segmental branches exclusively"
+    },
+    {
+      "y" : 0.7296963823907225,
+      "w" : 0.3950617328379889,
+      "conf" : 1,
+      "x" : 0.23868313086419746,
+      "h" : 0.011718346277872826,
+      "text" : "[B] Proximal 1-2 cm (ostial or para-ostial segment) at the aortic"
+    },
+    {
+      "y" : 0.7180232557170543,
+      "w" : 0.06172839350670389,
+      "conf" : 1,
+      "x" : 0.06995884670781895,
+      "h" : 0.00872092988755968,
+      "text" : "junction"
+    },
+    {
+      "y" : 0.7056944445294403,
+      "w" : 0.3641975210897577,
+      "conf" : 1,
+      "x" : 0.2232510324485596,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Mid-portion of the main renal artery sparing the ostium"
+    },
+    {
+      "y" : 0.6940277775309324,
+      "w" : 0.3312757000233393,
+      "conf" : 1,
+      "x" : 0.2047325158093277,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Arcuate arteries at the corticomedullary junction"
+    },
+    {
+      "y" : 0.6816666664538598,
+      "w" : 0.2860082230477963,
+      "conf" : 1,
+      "x" : 0.18415637911522628,
+      "h" : 0.011666666666666714,
+      "text" : "[E] Interlobular arterioles in the renal cortex"
+    },
+    {
+      "y" : 0.6641957364061222,
+      "w" : 0.4176954353380503,
+      "conf" : 1,
+      "x" : 0.25205761162551443,
+      "h" : 0.011724805831909157,
+      "text" : "Q03. [2023 Exam] Which demographic group and renal"
+    },
+    {
+      "y" : 0.6504166669110044,
+      "w" : 0.4423867951399125,
+      "conf" : 1,
+      "x" : 0.2623456863854593,
+      "h" : 0.01027777777777783,
+      "text" : "artery anatomical segment are characteristically affected"
+    },
+    {
+      "y" : 0.638753230002874,
+      "w" : 0.27777776178324,
+      "conf" : 1,
+      "x" : 0.18004115689300396,
+      "h" : 0.01028423786163335,
+      "text" : "by Fibromuscular Dysplasia (FMD)?"
+    },
+    {
+      "y" : 0.6243055557579179,
+      "w" : 0.3600823024533829,
+      "conf" : 1,
+      "x" : 0.22119342013888874,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Elderly males (>70 years); proximal ostial renal artery"
+    },
+    {
+      "y" : 0.6119412144729777,
+      "w" : 0.3786008103088763,
+      "conf" : 1,
+      "x" : 0.2304526786831275,
+      "h" : 0.011673126750522234,
+      "text" : "[B] Infants under 1 year; renal capsular arterioles exclusively"
+    },
+    {
+      "y" : 0.6002777775793819,
+      "w" : 0.41769548332166373,
+      "conf" : 1,
+      "x" : 0.2500000052211933,
+      "h" : 0.011666666666666714,
+      "text" : "[C] Young-to-middle-aged females (15-50 years); middle and distal"
+    },
+    {
+      "y" : 0.587916666717206,
+      "w" : 0.11111110711247667,
+      "conf" : 1,
+      "x" : 0.09670781707818937,
+      "h" : 0.010277777777777719,
+      "text" : "main renal artery"
+    },
+    {
+      "y" : 0.575558785126454,
+      "w" : 0.34979423187063924,
+      "conf" : 1,
+      "x" : 0.21604938491083672,
+      "h" : 0.011673126220703045,
+      "text" : "[D] Diabetic males with heavy smoking; hilar bifurcation"
+    },
+    {
+      "y" : 0.5631944446568333,
+      "w" : 0.3395061612878955,
+      "conf" : 1,
+      "x" : 0.21090534715363518,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Postmenopausal females; renal cortical petechiae"
+    },
+    {
+      "y" : 0.5465116279433139,
+      "w" : 0.40740741273891995,
+      "conf" : 1,
+      "x" : 0.24691358533950608,
+      "h" : 0.011627906163533597,
+      "text" : "Q04. [2022 Exam] What pathognomonic angiographic"
+    },
+    {
+      "y" : 0.53415697686531,
+      "w" : 0.4238682872844192,
+      "conf" : 1,
+      "x" : 0.25308642681755805,
+      "h" : 0.010174418555365716,
+      "text" : "feature characterizes the medial fibroplasia subtype of"
+    },
+    {
+      "y" : 0.5210755815164729,
+      "w" : 0.3641975210897577,
+      "conf" : 1,
+      "x" : 0.22530864804526723,
+      "h" : 0.010174418555365716,
+      "text" : "Fibromuscular Dysplasia on renal angiography?"
+    },
+    {
+      "y" : 0.5072351420194561,
+      "w" : 0.3559670598252015,
+      "conf" : 1,
+      "x" : 0.2191358084019203,
+      "h" : 0.011692505942450526,
+      "text" : "[A] 'Pruned-tree' total absence of intrarenal arborization"
+    },
+    {
+      "y" : 0.49416666645385976,
+      "w" : 0.3827160289452511,
+      "conf" : 1,
+      "x" : 0.2325102882030178,
+      "h" : 0.011666666666666714,
+      "text" : "[B] 'Corkscrew' collateral vessels bypassing the femoral vein"
+    },
+    {
+      "y" : 0.4818055556159086,
+      "w" : 0.2345678941258844,
+      "conf" : 1,
+      "x" : 0.1584362179012344,
+      "h" : 0.010277777777777719,
+      "text" : "[C] 'Lead-pipe' rigid calcified conduit"
+    },
+    {
+      "y" : 0.46944444439348715,
+      "w" : 0.43827157650353776,
+      "conf" : 1,
+      "x" : 0.2602880731481479,
+      "h" : 0.008888888888888835,
+      "text" : "[D] 'String-of-Beads' appearance (alternating stenosis and aneurysmal"
+    },
+    {
+      "y" : 0.45857558141351745,
+      "w" : 0.05349794423805093,
+      "conf" : 0.5,
+      "x" : 0.06790123449588477,
+      "h" : 0.007267441749572723,
+      "text" : "ectasia)"
+    },
+    {
+      "y" : 0.44542958657610876,
+      "w" : 0.24074074607225332,
+      "conf" : 1,
+      "x" : 0.16152263615226334,
+      "h" : 0.01030361758338083,
+      "text" : "[E] 'Wire-loop' capillary wall thickening"
+    },
+    {
+      "y" : 0.42884366910374927,
+      "w" : 0.36625513040794516,
+      "conf" : 1,
+      "x" : 0.22633745222222215,
+      "h" : 0.011757105721367678,
+      "text" : "Q05. [2021 Exam] Which histological subtype of"
+    },
+    {
+      "y" : 0.4156976742732559,
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "x" : 0.25823045059156385,
+      "h" : 0.011627906163533597,
+      "text" : "Fibromuscular Dysplasia is the most common (~80-85%)"
+    },
+    {
+      "y" : 0.4033430233466571,
+      "w" : 0.1502057561334574,
+      "conf" : 1,
+      "x" : 0.11625514591049378,
+      "h" : 0.010174418555365716,
+      "text" : "in clinical practice?"
+    },
+    {
+      "y" : 0.3887532299362557,
+      "w" : 0.34156377060608295,
+      "conf" : 1,
+      "x" : 0.21193416064814805,
+      "h" : 0.010284237861633239,
+      "text" : "[A] Intimal fibroplasia with concentric lumen narrowing"
+    },
+    {
+      "y" : 0.377180232630814,
+      "w" : 0.33333333333333337,
+      "conf" : 1,
+      "x" : 0.20576132242798334,
+      "h" : 0.010174418555365605,
+      "text" : "[B] Perimedial fibroplasia with outer adventitial cuffs"
+    },
+    {
+      "y" : 0.36403746780989704,
+      "w" : 0.36008230245338296,
+      "conf" : 1,
+      "x" : 0.21913580847050734,
+      "h" : 0.010297157499525311,
+      "text" : "[C] Giant cell arteritis with Langhans multinucleated cells"
+    },
+    {
+      "y" : 0.35247093028706405,
+      "w" : 0.3580246931351955,
+      "conf" : 1,
+      "x" : 0.22016461352880645,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Periarteritis nodosa with transmural fibrinoid necrosis"
+    },
+    {
+      "y" : 0.3401162791424418,
+      "w" : 0.4238682872844192,
+      "conf" : 1,
+      "x" : 0.2510288118827159,
+      "h" : 0.00872092988755968,
+      "text" : "[E] Medial Fibroplasia with loss of internal elastic lamina and fibrous"
+    },
+    {
+      "y" : 0.32703488361191857,
+      "w" : 0.04115226133814399,
+      "conf" : 1,
+      "x" : 0.06172839521604938,
+      "h" : 0.00872092988755968,
+      "text" : "ridges"
+    },
+    {
+      "y" : 0.31108850120053905,
+      "w" : 0.36625513040794516,
+      "conf" : 1,
+      "x" : 0.22633745222222215,
+      "h" : 0.011711886194017196,
+      "text" : "Q06. [2020 Exam] In the experimental Goldblatt"
+    },
+    {
+      "y" : 0.2980200259322036,
+      "w" : 0.41769543533805037,
+      "conf" : 1,
+      "x" : 0.249999993038409,
+      "h" : 0.011737725469801119,
+      "text" : "'Two-Kidney, One-Clip' model of unilateral renal artery"
+    },
+    {
+      "y" : 0.2863727391610375,
+      "w" : 0.33539094265152075,
+      "conf" : 1,
+      "x" : 0.20884773243312768,
+      "h" : 0.011698966026306157,
+      "text" : "stenosis, what maintains the hypertension?"
+    },
+    {
+      "y" : 0.2718023256298451,
+      "w" : 0.3909464902098073,
+      "conf" : 1,
+      "x" : 0.23662552091906694,
+      "h" : 0.00872092988755968,
+      "text" : "[A] Massive total body sodium overload and volume expansion"
+    },
+    {
+      "y" : 0.2594476744731105,
+      "w" : 0.4135802167016755,
+      "conf" : 1,
+      "x" : 0.24794239200102866,
+      "h" : 0.010174418555365716,
+      "text" : "[B] High Renin and Angiotensin Il secreted by the clipped ischemic"
+    },
+    {
+      "y" : 0.24709302335271321,
+      "w" : 0.043209873655307214,
+      "conf" : 1,
+      "x" : 0.06481481553497939,
+      "h" : 0.00872092988755968,
+      "text" : "kidney"
+    },
+    {
+      "y" : 0.235465116375969,
+      "w" : 0.32098765343240226,
+      "conf" : 1,
+      "x" : 0.2016460958847735,
+      "h" : 0.00872092988755968,
+      "text" : "[C] Complete destruction of both adrenal medullae"
+    },
+    {
+      "y" : 0.22317829472672024,
+      "w" : 0.3559670598252015,
+      "conf" : 1,
+      "x" : 0.21913580691872422,
+      "h" : 0.01031007766723624,
+      "text" : "[D] Excessive excretion of atrial natriuretic peptide (ANP)"
+    },
+    {
+      "y" : 0.21152777772139125,
+      "w" : 0.3497942318706393,
+      "conf" : 1,
+      "x" : 0.2160493870884773,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Autonomous hypersecretion of parathyroid hormone"
+    },
+    {
+      "y" : 0.19263888900437476,
+      "w" : 0.4362139911771571,
+      "conf" : 1,
+      "x" : 0.2613168778806583,
+      "h" : 0.01027777777777783,
+      "text" : "Q07. [2024 Exam] In unilateral renal artery stenosis, how"
+    },
+    {
+      "y" : 0.18166666681895016,
+      "w" : 0.4238682872844192,
+      "conf" : 1,
+      "x" : 0.2551440371604938,
+      "h" : 0.011666666666666714,
+      "text" : "does the contralateral (unstenosed) non-clipped kidney"
+    },
+    {
+      "y" : 0.16861111091062564,
+      "w" : 0.19958847573718183,
+      "conf" : 1,
+      "x" : 0.14094650222908092,
+      "h" : 0.011666666666666714,
+      "text" : "respond physiologically?"
+    },
+    {
+      "y" : 0.1533430230862402,
+      "w" : 0.41358021670167555,
+      "conf" : 1,
+      "x" : 0.24794238967764054,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Suppresses renin secretion and undergoes pressure natriuresis"
+    },
+    {
+      "y" : 0.14171511632267436,
+      "w" : 0.3930040995279948,
+      "conf" : 1,
+      "x" : 0.23765432491769545,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Hypersecretes renin and develops ischemic cortical atrophy"
+    },
+    {
+      "y" : 0.1294121450408443,
+      "w" : 0.3765432009906889,
+      "conf" : 1,
+      "x" : 0.22736626141975286,
+      "h" : 0.011731265915764677,
+      "text" : "[C] Develops complete hydronephrosis with ureteral dilation"
+    },
+    {
+      "y" : 0.11707041351110054,
+      "w" : 0.3827160529370578,
+      "conf" : 1,
+      "x" : 0.23251029189300407,
+      "h" : 0.01030361758338072,
+      "text" : "[D] Stops glomerular filtration completely while concentrating"
+    },
+    {
+      "y" : 0.1046511628875968,
+      "w" : 0.06995884277535684,
+      "conf" : 1,
+      "x" : 0.0761316884087791,
+      "h" : 0.00872092988755968,
+      "text" : "potassium"
+    },
+    {
+      "y" : 0.09235465113073338,
+      "w" : 0.3806584196270637,
+      "conf" : 1,
+      "x" : 0.23148148782578853,
+      "h" : 0.010290697415669792,
+      "text" : "[E] Develops massive compensatory erythropoietin synthesis"
+    },
+    {
+      "y" : 0.9106459949931596,
+      "w" : 0.44238684312352583,
+      "conf" : 1,
+      "x" : 0.7355967022890947,
+      "h" : 0.013152454694112192,
+      "text" : "Q08. [2022 Exam] In the Goldblatt 'One-Kidney, One-Clip'"
+    },
+    {
+      "y" : 0.8968023256782947,
+      "w" : 0.39300409952799487,
+      "conf" : 1,
+      "x" : 0.7067901300068586,
+      "h" : 0.011627906163533486,
+      "text" : "model (or bilateral RAS), what primary mechanism"
+    },
+    {
+      "y" : 0.8852357881478421,
+      "w" : 0.24485596470862814,
+      "conf" : 1,
+      "x" : 0.6347736637517147,
+      "h" : 0.011750645637512158,
+      "text" : "sustains chronic hypertension?"
+    },
+    {
+      "y" : 0.8706395349806202,
+      "w" : 0.39300409952799487,
+      "conf" : 1,
+      "x" : 0.7109053563443071,
+      "h" : 0.00872092988755968,
+      "text" : "[A] Persistent hyperreninemic vasoconstriction without volume"
+    },
+    {
+      "y" : 0.8590116278585271,
+      "w" : 0.06995884277535691,
+      "conf" : 1,
+      "x" : 0.5493827148834021,
+      "h" : 0.00872092988755968,
+      "text" : "expansion"
+    },
+    {
+      "y" : 0.8474515506315168,
+      "w" : 0.4053497794289259,
+      "conf" : 1,
+      "x" : 0.7170781906635801,
+      "h" : 0.01176356527540412,
+      "text" : "[B] Massive urinary potassium wasting with normal blood volume"
+    },
+    {
+      "y" : 0.835029069858285,
+      "w" : 0.44238684312352594,
+      "conf" : 1,
+      "x" : 0.7355967133487653,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Sodium and Volume Retention (plasma expansion) with low\/normal"
+    },
+    {
+      "y" : 0.824127907122093,
+      "w" : 0.037037036703817416,
+      "conf" : 1,
+      "x" : 0.5329218107681755,
+      "h" : 0.00872092988755968,
+      "text" : "renin"
+    },
+    {
+      "y" : 0.8103617571195183,
+      "w" : 0.34773662255245186,
+      "conf" : 1,
+      "x" : 0.6862139882921812,
+      "h" : 0.013165374332004043,
+      "text" : "[D] Direct central nervous system sympathetic ablation"
+    },
+    {
+      "y" : 0.7987467701727559,
+      "w" : 0.3127571921678459,
+      "conf" : 1,
+      "x" : 0.6707818969135801,
+      "h" : 0.010284237861633239,
+      "text" : "[E] Ectopic calcitonin production by tubular cells"
+    },
+    {
+      "y" : 0.7819509043093325,
+      "w" : 0.4218107019580385,
+      "conf" : 1,
+      "x" : 0.727366250788752,
+      "h" : 0.011679586304558565,
+      "text" : "Q09. [2023 Exam] Why does significant unilateral renal"
+    },
+    {
+      "y" : 0.7688888886564547,
+      "w" : 0.3950617088461822,
+      "conf" : 1,
+      "x" : 0.7119341497942389,
+      "h" : 0.011666666666666603,
+      "text" : "artery stenosis characteristically lead to Secondary"
+    },
+    {
+      "y" : 0.755813953633721,
+      "w" : 0.37860081030887627,
+      "conf" : 1,
+      "x" : 0.7037037035390946,
+      "h" : 0.014534883499145557,
+      "text" : "Hyperaldosteronism with Hypokalemic Alkalosis?"
+    },
+    {
+      "y" : 0.7420704135220018,
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "x" : 0.7294238736882716,
+      "h" : 0.01030361758338083,
+      "text" : "[A] Persistent metabolic lactic acidosis triggering renal ammonia loss"
+    },
+    {
+      "y" : 0.730416666474745,
+      "w" : 0.39094649020980743,
+      "conf" : 1,
+      "x" : 0.7098765480967076,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Direct bacterial synthesis of aldosterone in the renal pelvis"
+    },
+    {
+      "y" : 0.7166279072822709,
+      "w" : 0.34362137992427033,
+      "conf" : 1,
+      "x" : 0.6862139974965704,
+      "h" : 0.01174418555365686,
+      "text" : "[C] Loss of distal tubule potassium secretory channels"
+    },
+    {
+      "y" : 0.7042538760480364,
+      "w" : 0.4320987725407822,
+      "conf" : 1,
+      "x" : 0.7283950653292182,
+      "h" : 0.013158914248148523,
+      "text" : "[D] Angiotensin II stimulates aldosterone secretion from adrenal zona"
+    },
+    {
+      "y" : 0.6940406975496752,
+      "w" : 0.08235776049535981,
+      "conf" : 1,
+      "x" : 0.5555555541844637,
+      "h" : 0.010391560660468313,
+      "text" : "glomerulosa"
+    },
+    {
+      "y" : 0.6809722220179791,
+      "w" : 0.403292194102545,
+      "conf" : 1,
+      "x" : 0.7160493877572016,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Excessive gastrointestinal absorption of elemental potassium"
+    },
+    {
+      "y" : 0.663472222405789,
+      "w" : 0.40329219410254524,
+      "conf" : 1,
+      "x" : 0.7181069999176954,
+      "h" : 0.010277777777777719,
+      "text" : "Q10. [2021 Exam] What clinical physical examination"
+    },
+    {
+      "y" : 0.6504166667717118,
+      "w" : 0.44238684312352583,
+      "conf" : 1,
+      "x" : 0.7355967022890947,
+      "h" : 0.01027777777777783,
+      "text" : "finding strongly suggests Renovascular Hypertension in a"
+    },
+    {
+      "y" : 0.638753229972593,
+      "w" : 0.2242798235431407,
+      "conf" : 1,
+      "x" : 0.6286008258487653,
+      "h" : 0.010284237861633239,
+      "text" : "severe hypertensive patient?"
+    },
+    {
+      "y" : 0.6243055557942551,
+      "w" : 0.3189300441142149,
+      "conf" : 1,
+      "x" : 0.6738683167438271,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Pulsatile expansile swelling of the thyroid gland"
+    },
+    {
+      "y" : 0.6126388889229274,
+      "w" : 0.37242798235431396,
+      "conf" : 1,
+      "x" : 0.7006172819272977,
+      "h" : 0.01027777777777783,
+      "text" : "[B] A loud holosystolic murmur maximal at the cardiac apex"
+    },
+    {
+      "y" : 0.599583333282794,
+      "w" : 0.43827157650353776,
+      "conf" : 1,
+      "x" : 0.7335391019547324,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Continuous machinery murmur at the left second intercostal space"
+    },
+    {
+      "y" : 0.5879166669170606,
+      "w" : 0.40740741273892,
+      "conf" : 1,
+      "x" : 0.7181069945987655,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Prominent pericardial friction rub along the left sternal border"
+    },
+    {
+      "y" : 0.5748611108864007,
+      "w" : 0.4074074127389199,
+      "conf" : 1,
+      "x" : 0.7181069962277091,
+      "h" : 0.01027777777777783,
+      "text" : "[E] A systolic-diastolic epigastric \/ flank vascular bruit with lateral"
+    },
+    {
+      "y" : 0.5639534882782404,
+      "w" : 0.05766802014045003,
+      "conf" : 1,
+      "x" : 0.5432098755823842,
+      "h" : 0.008903580771552178,
+      "text" : "radiation"
+    },
+    {
+      "y" : 0.545784883775436,
+      "w" : 0.434156357867163,
+      "conf" : 1,
+      "x" : 0.7335391000771604,
+      "h" : 0.010174418555365605,
+      "text" : "Q11. [2025 Exam] Why do ACE inhibitors and ARBs cause"
+    },
+    {
+      "y" : 0.5333720926692795,
+      "w" : 0.4218107019580386,
+      "conf" : 1,
+      "x" : 0.7273662551097394,
+      "h" : 0.011744185553656639,
+      "text" : "an acute decline in GFR in patients with Bilateral Renal"
+    },
+    {
+      "y" : 0.5210755814861918,
+      "w" : 0.3127571921678458,
+      "conf" : 1,
+      "x" : 0.6728395100823044,
+      "h" : 0.010174418555365605,
+      "text" : "Artery Stenosis (or solitary kidney RAS)?"
+    },
+    {
+      "y" : 0.5065277775975505,
+      "w" : 0.3991769514743637,
+      "conf" : 1,
+      "x" : 0.7139917745370368,
+      "h" : 0.010277777777777719,
+      "text" : "[A] They dilate the efferent arteriole, abolishing Ang II-mediated"
+    },
+    {
+      "y" : 0.49416666677869975,
+      "w" : 0.1255144083274985,
+      "conf" : 1,
+      "x" : 0.5792181070407303,
+      "h" : 0.008888888888888835,
+      "text" : "glomerular pressure"
+    },
+    {
+      "y" : 0.4832848837936046,
+      "w" : 0.33333333333333337,
+      "conf" : 1,
+      "x" : 0.681069964403292,
+      "h" : 0.010174418555365716,
+      "text" : "[B] They cause severe spasm of the afferent arteriole"
+    },
+    {
+      "y" : 0.4701453487497058,
+      "w" : 0.42592592059441337,
+      "conf" : 1,
+      "x" : 0.7273662594032921,
+      "h" : 0.01029069794548887,
+      "text" : "[C] They precipitate inside collecting ducts forming obstructive casts"
+    },
+    {
+      "y" : 0.45785529723337753,
+      "w" : 0.44238684312352594,
+      "conf" : 1,
+      "x" : 0.7355967133487653,
+      "h" : 0.008733849790361181,
+      "text" : "[D] They directly lyse glomerular podocytes via complement activation"
+    },
+    {
+      "y" : 0.4454295865870099,
+      "w" : 0.41563785001166964,
+      "conf" : 1,
+      "x" : 0.7222222274176955,
+      "h" : 0.01030361758338072,
+      "text" : "[E] They stimulate massive thromboxane A2 release from platelets"
+    },
+    {
+      "y" : 0.4171963827767561,
+      "w" : 0.4300411392307881,
+      "conf" : 1,
+      "x" : 0.7314814750685873,
+      "h" : 0.011718345748053638,
+      "text" : "Q12. [2020 Exam] In clinical practice, what rise in serum"
+    },
+    {
+      "y" : 0.40412790693015205,
+      "w" : 0.4362139911771571,
+      "conf" : 1,
+      "x" : 0.7345679055967078,
+      "h" : 0.011744186083475827,
+      "text" : "creatinine upon starting an ACE inhibitor or ARB strongly"
+    },
+    {
+      "y" : 0.39242894050253435,
+      "w" : 0.32510287206877697,
+      "conf" : 1,
+      "x" : 0.6790123497427982,
+      "h" : 0.00874676995807222,
+      "text" : "alerts the clinician to occult bilateral RAS?"
+    },
+    {
+      "y" : 0.3771802326126453,
+      "w" : 0.4094649980653008,
+      "conf" : 1,
+      "x" : 0.7191358075874486,
+      "h" : 0.010174418555365605,
+      "text" : "[A] A transient rise of exactly 0.05 mg\/dL resolving spontaneously"
+    },
+    {
+      "y" : 0.36482558146802324,
+      "w" : 0.44238684312352594,
+      "conf" : 1,
+      "x" : 0.7355967133487653,
+      "h" : 0.00872092988755968,
+      "text" : "[B] A rise in serum creatinine > 30% from baseline within 1 to 2 weeks"
+    },
+    {
+      "y" : 0.3531976744670543,
+      "w" : 0.35185184118882673,
+      "conf" : 1,
+      "x" : 0.6903292239711932,
+      "h" : 0.00872092988755968,
+      "text" : "[C] A decrease in serum creatinine by 50% with polyuria"
+    },
+    {
+      "y" : 0.34084302331031974,
+      "w" : 0.3806584196270636,
+      "conf" : 1,
+      "x" : 0.7047325150462962,
+      "h" : 0.010174418555365716,
+      "text" : "[D] A rise in serum creatinine strictly after 5 years of therapy"
+    },
+    {
+      "y" : 0.32776162802810077,
+      "w" : 0.3415637706060829,
+      "conf" : 1,
+      "x" : 0.6851851908779147,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Zero change in creatinine with isolated glucosuria"
+    },
+    {
+      "y" : 0.31108850145091377,
+      "w" : 0.4320987725407821,
+      "conf" : 1,
+      "x" : 0.732510293467078,
+      "h" : 0.011711885664198118,
+      "text" : "Q13. [Faculty Exam] What is 'Pickering Syndrome' (Flash"
+    },
+    {
+      "y" : 0.2980200260033146,
+      "w" : 0.37860081030887627,
+      "conf" : 1,
+      "x" : 0.7057613132373115,
+      "h" : 0.011737725999620197,
+      "text" : "Pulmonary Edema) in the context of renovascular"
+    },
+    {
+      "y" : 0.2863372092277124,
+      "w" : 0.06794080794232449,
+      "conf" : 1,
+      "x" : 0.5504115217853167,
+      "h" : 0.008876017464531816,
+      "text" : "disease?"
+    },
+    {
+      "y" : 0.2718023257751939,
+      "w" : 0.39300409952799487,
+      "conf" : 1,
+      "x" : 0.7109053549039779,
+      "h" : 0.011627906163533597,
+      "text" : "[A] Acute pulmonary embolism originating from the renal vein"
+    },
+    {
+      "y" : 0.2594476744428294,
+      "w" : 0.41563785001166964,
+      "conf" : 1,
+      "x" : 0.7222222291495195,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Massive bacterial pneumonia secondary to Klebsiella urosepsis"
+    },
+    {
+      "y" : 0.24636627901526165,
+      "w" : 0.44238684312352583,
+      "conf" : 1,
+      "x" : 0.7355967022890947,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Recurrent abrupt pulmonary edema in bilateral RAS despite normal"
+    },
+    {
+      "y" : 0.23552002602910282,
+      "w" : 0.12962962696387337,
+      "conf" : 1,
+      "x" : 0.5792181091563786,
+      "h" : 0.01173772546980123,
+      "text" : "LV systolic function"
+    },
+    {
+      "y" : 0.22317829474488876,
+      "w" : 0.41152263137529477,
+      "conf" : 1,
+      "x" : 0.7201646131687243,
+      "h" : 0.01031007766723635,
+      "text" : "[D] Fatal allergic bronchospasm triggered by intravenous contrast"
+    },
+    {
+      "y" : 0.21002906984011638,
+      "w" : 0.38683127157343267,
+      "conf" : 1,
+      "x" : 0.7078189339094652,
+      "h" : 0.010174418555365605,
+      "text" : "[E] High-altitude pulmonary edema occurring in mountaineers"
+    },
+    {
+      "y" : 0.18166666659608194,
+      "w" : 0.4423867951399125,
+      "conf" : 1,
+      "x" : 0.7376543238340192,
+      "h" : 0.011666666666666603,
+      "text" : "Q14. [Core Exam] Which of the following clinical scenarios"
+    },
+    {
+      "y" : 0.16930555547055975,
+      "w" : 0.37860081030887627,
+      "conf" : 1,
+      "x" : 0.7037036973936902,
+      "h" : 0.010277777777777719,
+      "text" : "should trigger clinical suspicion for Renovascular"
+    },
+    {
+      "y" : 0.1562499999454941,
+      "w" : 0.17283950661713232,
+      "conf" : 1,
+      "x" : 0.6028806562757203,
+      "h" : 0.010277777777777719,
+      "text" : "Hypertension EXCEPT:"
+    },
+    {
+      "y" : 0.14319444462633946,
+      "w" : 0.38683127157343267,
+      "conf" : 1,
+      "x" : 0.7078189340877914,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Severe HTN onset before age 30 (females) or after age 55"
+    },
+    {
+      "y" : 0.13013888896803744,
+      "w" : 0.39094649020980743,
+      "conf" : 1,
+      "x" : 0.7098765480967076,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Refractory HTN resistant to >=3 drugs including a diuretic"
+    },
+    {
+      "y" : 0.11847222203614771,
+      "w" : 0.4176954353380503,
+      "conf" : 1,
+      "x" : 0.721193422599451,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Unexplained atrophic kidney or >1.5 cm size asymmetry on US"
+    },
+    {
+      "y" : 0.10541666649291354,
+      "w" : 0.3662551304079452,
+      "conf" : 1,
+      "x" : 0.6975308678600822,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Mild stage 1 hypertension in an overweight 40-year-old"
+    },
+    {
+      "y" : 0.09305555560651291,
+      "w" : 0.38477363826343847,
+      "conf" : 1,
+      "x" : 0.7047325038751717,
+      "h" : 0.008888888888888946,
+      "text" : "[E] Acute renal failure precipitated by an ACE inhibitor or ARB"
+    },
+    {
+      "y" : 0.013846899196401974,
+      "w" : 0.9259258726108001,
+      "conf" : 1,
+      "x" : 0.5000000154320984,
+      "h" : 0.01897286732991532,
+      "text" : "Twisted Medicine • Clinical Nephrology & Renovascular Master Class • Faculty Bard Exam Preparatioronfidential — Dedicated for Medical Student Revision"
+    }
+  ]
+}

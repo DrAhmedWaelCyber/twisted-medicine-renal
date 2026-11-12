@@ -1,0 +1,989 @@
+{
+  "items" : [
+    {
+      "y" : 0.96432170540046,
+      "w" : 0.42481201522903933,
+      "conf" : 1,
+      "x" : 0.27067669880952355,
+      "h" : 0.01031007766723624,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 33 MCQ Masterclass"
+    },
+    {
+      "y" : 0.9512532299725929,
+      "w" : 0.682330791766827,
+      "conf" : 1,
+      "x" : 0.40131579800281936,
+      "h" : 0.01028423786163335,
+      "text" : "Twisted Medicine Medical Series • Urinary Antispasmodics, BPH Pharmacotherapy, Alkalinizers & Nephrotoxicity • Standard Practice Bank"
+    },
+    {
+      "y" : 0.9643895352298748,
+      "w" : 0.06410680204565633,
+      "conf" : 1,
+      "x" : 0.9097744368908248,
+      "h" : 0.010940208964877685,
+      "text" : "Page 3 of 4"
+    },
+    {
+      "y" : 0.9237467700637443,
+      "w" : 0.8759397922189521,
+      "conf" : 1,
+      "x" : 0.4962405905545114,
+      "h" : 0.010284237861633239,
+      "text" : "Q29. [2025 Exam] Which pharmacological agent is the first-line oral Q36. [2023 Exam] Phenazopyridine is widely prescribed as an oral"
+    },
+    {
+      "y" : 0.9106782945450342,
+      "w" : 0.37218044782867543,
+      "conf" : 1,
+      "x" : 0.24436089877819556,
+      "h" : 0.01031007766723635,
+      "text" : "urinary alkalinizer utilized for the medical dissolution and"
+    },
+    {
+      "y" : 0.9106782946964391,
+      "w" : 0.42293229915528396,
+      "conf" : 1,
+      "x" : 0.718984969454887,
+      "h" : 0.01031007766723635,
+      "text" : "urinary analgesic to relieve dysuria and urgency in acute cystitis."
+    },
+    {
+      "y" : 0.8975290697129361,
+      "w" : 0.33834586565139735,
+      "conf" : 1,
+      "x" : 0.22744360479323317,
+      "h" : 0.010174418555365716,
+      "text" : "chemoprophylaxis of Uric Acid and Cystine stones?"
+    },
+    {
+      "y" : 0.8982525839697002,
+      "w" : 0.2819548880428311,
+      "conf" : 1,
+      "x" : 0.6484962434210525,
+      "h" : 0.0087273899714152,
+      "text" : "Patients MUST be counseled that it causes:"
+    },
+    {
+      "y" : 0.8837209303052326,
+      "w" : 0.13345864554431947,
+      "conf" : 1,
+      "x" : 0.12312030242011274,
+      "h" : 0.00872092988755968,
+      "text" : "[A] Ammonium chloride"
+    },
+    {
+      "y" : 0.8829295864598297,
+      "w" : 0.4172932386912518,
+      "conf" : 1,
+      "x" : 0.7161654093609022,
+      "h" : 0.01030361758338083,
+      "text" : "[A] Harmless bright Orange-Red discoloration of urine, which stains clothing"
+    },
+    {
+      "y" : 0.8720930233042636,
+      "w" : 0.11090225011303123,
+      "conf" : 1,
+      "x" : 0.5610902274122807,
+      "h" : 0.00872092988755957,
+      "text" : "and contact lenses"
+    },
+    {
+      "y" : 0.8597383721475291,
+      "w" : 0.1879699180487846,
+      "conf" : 1,
+      "x" : 0.1484962429511278,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Sodium polystyrene sulfonate"
+    },
+    {
+      "y" : 0.8597383719234497,
+      "w" : 0.2500000000000001,
+      "conf" : 1,
+      "x" : 0.63063909589599,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Permanent irreversible bilateral blindness"
+    },
+    {
+      "y" : 0.8474515506799664,
+      "w" : 0.4285714034979331,
+      "conf" : 1,
+      "x" : 0.27067669141604006,
+      "h" : 0.01176356527540423,
+      "text" : "[D] Potassium Citrate (raises urine pH to 6.5-7.0, enhancing solubility without"
+    },
+    {
+      "y" : 0.8466569765746124,
+      "w" : 0.21240600761451967,
+      "conf" : 1,
+      "x" : 0.6137218047932331,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Profuse sweating and green saliva"
+    },
+    {
+      "y" : 0.835752583984235,
+      "w" : 0.15225563076740542,
+      "conf" : 1,
+      "x" : 0.13251879889567666,
+      "h" : 0.0087273899714152,
+      "text" : "sodium volume expansion)"
+    },
+    {
+      "y" : 0.8358042639814747,
+      "w" : 0.2650375750148837,
+      "conf" : 1,
+      "x" : 0.6400375946428571,
+      "h" : 0.011724805831909157,
+      "text" : "[D] Severe metallic taste with black hairy tongue"
+    },
+    {
+      "y" : 0.8234625323354519,
+      "w" : 0.11466164935157935,
+      "conf" : 1,
+      "x" : 0.11372180642230573,
+      "h" : 0.010297157499525311,
+      "text" : "[E] Calcium chloride"
+    },
+    {
+      "y" : 0.8234625323354519,
+      "w" : 0.14097744402141554,
+      "conf" : 1,
+      "x" : 0.5761278218984961,
+      "h" : 0.010297157499525311,
+      "text" : "[E] Sudden hearing loss"
+    },
+    {
+      "y" : 0.8095930233284884,
+      "w" : 0.3890977169780059,
+      "conf" : 1,
+      "x" : 0.25469925298402246,
+      "h" : 0.011627906163533597,
+      "text" : "Q30. [2024 Exam] Why is Sodium Bicarbonate generally less"
+    },
+    {
+      "y" : 0.8095930233284884,
+      "w" : 0.43233083564544394,
+      "conf" : 1,
+      "x" : 0.7236842159304511,
+      "h" : 0.011627906163533597,
+      "text" : "Q37. [2022 Exam] Aminoglycosides (Gentamicin, Amikacin) induce"
+    },
+    {
+      "y" : 0.7965116277979651,
+      "w" : 0.42481201522903933,
+      "conf" : 1,
+      "x" : 0.27067668641917303,
+      "h" : 0.011627906163533486,
+      "text" : "preferred than Potassium Citrate for chronic urinary alkalinization"
+    },
+    {
+      "y" : 0.7965116278585271,
+      "w" : 0.24060148544914872,
+      "conf" : 1,
+      "x" : 0.6259398456140353,
+      "h" : 0.011627906163533486,
+      "text" : "acute tubular necrosis primarily via:"
+    },
+    {
+      "y" : 0.7841569769137597,
+      "w" : 0.11842104859012738,
+      "conf" : 1,
+      "x" : 0.11560150548245607,
+      "h" : 0.010174418555365716,
+      "text" : "in stone formers?"
+    },
+    {
+      "y" : 0.7826453488692665,
+      "w" : 0.3045112615348109,
+      "conf" : 1,
+      "x" : 0.6578947317669175,
+      "h" : 0.010290697415669792,
+      "text" : "[A] Mechanical laceration of medullary collecting ducts"
+    },
+    {
+      "y" : 0.7695833332195154,
+      "w" : 0.32142855262344994,
+      "conf" : 1,
+      "x" : 0.21710525855263177,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Sodium bicarbonate causes severe metabolic acidosis"
+    },
+    {
+      "y" : 0.771075581340843,
+      "w" : 0.4285714034979332,
+      "conf" : 1,
+      "x" : 0.7199248066729325,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Lysosomal uptake and myeloid body formation in proximal tubules leading"
+    },
+    {
+      "y" : 0.75792958641138,
+      "w" : 0.2988721791314702,
+      "conf" : 1,
+      "x" : 0.2039473634398498,
+      "h" : 0.01030361758338083,
+      "text" : "[B] Sodium bicarbonate has zero effect on urinary pH"
+    },
+    {
+      "y" : 0.7587209303052326,
+      "w" : 0.06390977060083514,
+      "conf" : 1,
+      "x" : 0.5375939857612781,
+      "h" : 0.00872092988755968,
+      "text" : "to necrosis"
+    },
+    {
+      "y" : 0.7448611110137939,
+      "w" : 0.40225564173705974,
+      "conf" : 1,
+      "x" : 0.25563909104010046,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Sodium bicarbonate is an irreversible inhibitor of carbonic anhydrase"
+    },
+    {
+      "y" : 0.7463662791424419,
+      "w" : 0.3308270671743013,
+      "conf" : 1,
+      "x" : 0.6729323341353384,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Immune complex deposition along glomerular capillaries"
+    },
+    {
+      "y" : 0.7332848836482557,
+      "w" : 0.4172932386912518,
+      "conf" : 1,
+      "x" : 0.2631578877819551,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Sodium bicarbonate precipitates as radio-opaque crystals in the ureters"
+    },
+    {
+      "y" : 0.7354651163517443,
+      "w" : 0.2631578808804368,
+      "conf" : 1,
+      "x" : 0.6372180484022556,
+      "h" : 0.00872092988755968,
+      "text" : "[DI Selective thrombosis of the main renal vein"
+    },
+    {
+      "y" : 0.7216569766715117,
+      "w" : 0.41165413434860265,
+      "conf" : 1,
+      "x" : 0.2603383390037596,
+      "h" : 0.010174418555365716,
+      "text" : "[E] High sodium load expands EF volume, inducing hypercalciuria which"
+    },
+    {
+      "y" : 0.7224515506799664,
+      "w" : 0.29887217913147024,
+      "conf" : 1,
+      "x" : 0.653195484053885,
+      "h" : 0.01176356527540423,
+      "text" : "[E] Permanent blockade of distal potassium secretion"
+    },
+    {
+      "y" : 0.7085755814680232,
+      "w" : 0.31015036587746003,
+      "conf" : 1,
+      "x" : 0.21146617058270664,
+      "h" : 0.010174418555365605,
+      "text" : "increases the risk of secondary calcium stone formation"
+    },
+    {
+      "y" : 0.6954295865082794,
+      "w" : 0.42481201522903933,
+      "conf" : 1,
+      "x" : 0.27067668464912303,
+      "h" : 0.01030361758338072,
+      "text" : "Q31. [2023 Exam] Urinary alkalinization (urine pH > 7.5-8.0 with IV"
+    },
+    {
+      "y" : 0.6816666667414308,
+      "w" : 0.40789470220109186,
+      "conf" : 1,
+      "x" : 0.2622180383145366,
+      "h" : 0.011666666666666714,
+      "text" : "Sodium Bicarbonate) is a life-saving emergency intervention to"
+    },
+    {
+      "y" : 0.6693055554523911,
+      "w" : 0.3627819552171324,
+      "conf" : 1,
+      "x" : 0.23966164960056402,
+      "h" : 0.01027777777777783,
+      "text" : "enhance the renal elimination of which toxic weak acid?"
+    },
+    {
+      "y" : 0.6548546511489021,
+      "w" : 0.43045111957168847,
+      "conf" : 1,
+      "x" : 0.27161654673402236,
+      "h" : 0.010290697415669792,
+      "text" : "[A] Salicylates (Aspirin) and Methotrexate (ion-traps charged conjugate bases"
+    },
+    {
+      "y" : 0.64319444440226,
+      "w" : 0.23308270891136101,
+      "conf" : 1,
+      "x" : 0.1729323279135339,
+      "h" : 0.01027777777777783,
+      "text" : "in tubular lumen, preventing reabsorption)"
+    },
+    {
+      "y" : 0.6315277775793819,
+      "w" : 0.10714285087448328,
+      "conf" : 1,
+      "x" : 0.10996240780075181,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Amphetamines"
+    },
+    {
+      "y" : 0.619166666596082,
+      "w" : 0.13721804478286756,
+      "conf" : 1,
+      "x" : 0.12499999978070178,
+      "h" : 0.011666666666666714,
+      "text" : "[C] Phencyclidine (PCP)"
+    },
+    {
+      "y" : 0.6068313954197118,
+      "w" : 0.06957521308333989,
+      "conf" : 1,
+      "x" : 0.08928571544504849,
+      "h" : 0.010282384024726032,
+      "text" : "[D] Digoxin"
+    },
+    {
+      "y" : 0.5952034887333464,
+      "w" : 0.07716301068567183,
+      "conf" : 1,
+      "x" : 0.09492481299252681,
+      "h" : 0.010614398850334994,
+      "text" : "[E] Morphine"
+    },
+    {
+      "y" : 0.5806944445476089,
+      "w" : 0.40225564173705963,
+      "conf" : 1,
+      "x" : 0.2593985012687969,
+      "h" : 0.01027777777777783,
+      "text" : "Q32. [2022 Exam] Which agent acts as an oral urinary acidifier"
+    },
+    {
+      "y" : 0.5683333333554683,
+      "w" : 0.4210526269601455,
+      "conf" : 1,
+      "x" : 0.26879699750939834,
+      "h" : 0.011666666666666603,
+      "text" : "utilized diagnostically in the Acid Loading Test to confirm Type 1"
+    },
+    {
+      "y" : 0.5545704134129901,
+      "w" : 0.21240600761451964,
+      "conf" : 1,
+      "x" : 0.16259398230733085,
+      "h" : 0.01030361758338083,
+      "text" : "(Distal) Renal Tubular Acidosis?"
+    },
+    {
+      "y" : 0.5406976745155039,
+      "w" : 0.12030074272457428,
+      "conf" : 1,
+      "x" : 0.1165413553884711,
+      "h" : 0.00872092988755968,
+      "text" : "[A] Potassium citrate"
+    },
+    {
+      "y" : 0.5283430232739825,
+      "w" : 0.38721804478286753,
+      "conf" : 1,
+      "x" : 0.25000000484022544,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Ammonium Chloride (NH4Cl, metabolized in liver to urea and HCI,"
+    },
+    {
+      "y" : 0.5167151162063954,
+      "w" : 0.2443608956573508,
+      "conf" : 1,
+      "x" : 0.178571424498747,
+      "h" : 0.010174418555365716,
+      "text" : "challenging kidneys to lower urine pH < 5.3)"
+    },
+    {
+      "y" : 0.5058333333554683,
+      "w" : 0.1353383396787664,
+      "conf" : 1,
+      "x" : 0.12406014943609026,
+      "h" : 0.008888888888888835,
+      "text" : "[Cl Sodium bicarbonate"
+    },
+    {
+      "y" : 0.49207041358862,
+      "w" : 0.1466165373944105,
+      "conf" : 1,
+      "x" : 0.12969925056390968,
+      "h" : 0.01030361758338083,
+      "text" : "[P] Magnesium hydroxide"
+    },
+    {
+      "y" : 0.6954295865082794,
+      "w" : 0.379699224366463,
+      "conf" : 1,
+      "x" : 0.6954887154761907,
+      "h" : 0.01030361758338072,
+      "text" : "Q38. [2021 Exam] Calcineurin Inhibitors (Cyclosporine and"
+    },
+    {
+      "y" : 0.6816666667535431,
+      "w" : 0.41353380654374106,
+      "conf" : 1,
+      "x" : 0.7142857091165415,
+      "h" : 0.011666666666666714,
+      "text" : "Tacrolimus) produce acute and chronic nephrotoxicity primarily"
+    },
+    {
+      "y" : 0.6686111111868658,
+      "w" : 0.08646616054729617,
+      "conf" : 1,
+      "x" : 0.5507518807800751,
+      "h" : 0.008888889153798374,
+      "text" : "mediated by:"
+    },
+    {
+      "y" : 0.6548546511489021,
+      "w" : 0.4060150300059534,
+      "conf" : 1,
+      "x" : 0.7105263208646615,
+      "h" : 0.010290697415669792,
+      "text" : "[A] Direct stimulation of renal prostaglandins causing afferent vasodilation"
+    },
+    {
+      "y" : 0.6431944445294403,
+      "w" : 0.32894735110054585,
+      "conf" : 1,
+      "x" : 0.6701127874373431,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Massive immune complex deposition in mesangial cells"
+    },
+    {
+      "y" : 0.6315277775503123,
+      "w" : 0.4248120152290392,
+      "conf" : 1,
+      "x" : 0.7199248162781955,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Intense dose-dependent vasoconstriction of the Afferent Arteriole, leading"
+    },
+    {
+      "y" : 0.6191666667301,
+      "w" : 0.302631567400364,
+      "conf" : 1,
+      "x" : 0.65883459024906,
+      "h" : 0.008888888623979296,
+      "text" : "to renal ischemia and chronic striped interstitial fibrosis"
+    },
+    {
+      "y" : 0.6068055554705597,
+      "w" : 0.35902254500893027,
+      "conf" : 1,
+      "x" : 0.6851503699561405,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Precipitation of drug crystals in the medullary collecting ducts"
+    },
+    {
+      "y" : 0.5951453487497058,
+      "w" : 0.3214285745627583,
+      "conf" : 1,
+      "x" : 0.6682330859210525,
+      "h" : 0.01029069794548887,
+      "text" : "[E] Direct toxic destruction of the podocyte slit diaphragms"
+    },
+    {
+      "y" : 0.5813888889471523,
+      "w" : 0.42481201522903933,
+      "conf" : 1,
+      "x" : 0.7199248169799497,
+      "h" : 0.011666666666666603,
+      "text" : "Q39. [2025 Exam] Fundamental dosing rule for Loading Dose (LD)"
+    },
+    {
+      "y" : 0.5676388889862061,
+      "w" : 0.30827067174301315,
+      "conf" : 1,
+      "x" : 0.6616541404761902,
+      "h" : 0.010277777777777719,
+      "text" : "vs Maintenance Dose (MD) in renal impairment:"
+    },
+    {
+      "y" : 0.5538436691037492,
+      "w" : 0.343984948054738,
+      "conf" : 1,
+      "x" : 0.6795112816353384,
+      "h" : 0.011757105721367678,
+      "text" : "[A] LD must be reduced by 90% while MD remains unchanged"
+    },
+    {
+      "y" : 0.5421447027552918,
+      "w" : 0.3421052539202911,
+      "conf" : 1,
+      "x" : 0.6766917350250625,
+      "h" : 0.00873385005527072,
+      "text" : "[B] Both LD and MD must be doubled to overcome resistance"
+    },
+    {
+      "y" : 0.5298546511489021,
+      "w" : 0.25563908240334066,
+      "conf" : 1,
+      "x" : 0.6353383490601503,
+      "h" : 0.010290697415669792,
+      "text" : "[C] LD is eliminated; give small hourly boluses"
+    },
+    {
+      "y" : 0.5181944445112716,
+      "w" : 0.3872180447828676,
+      "conf" : 1,
+      "x" : 0.7011278243890977,
+      "h" : 0.010277777777777719,
+      "text" : "[D] LD depends on Vd (unchanged by renal function); MD depends on"
+    },
+    {
+      "y" : 0.505833333282794,
+      "w" : 0.15977442924450158,
+      "conf" : 1,
+      "x" : 0.5874060170347744,
+      "h" : 0.008888888888888946,
+      "text" : "clearance (must be reduced)"
+    },
+    {
+      "y" : 0.4941666667414308,
+      "w" : 0.29699246305771476,
+      "conf" : 1,
+      "x" : 0.6541353333959902,
+      "h" : 0.008888888888888835,
+      "text" : "[E] Replace all water-soluble drugs with heavy metals"
+    },
+    {
+      "y" : 0.48041666649291365,
+      "w" : 0.13157894044021837,
+      "conf" : 1,
+      "x" : 0.12218045332080191,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Calcium carbonate"
+    },
+    {
+      "y" : 0.467354651153395,
+      "w" : 0.34210525392029123,
+      "conf" : 1,
+      "x" : 0.2293233036340854,
+      "h" : 0.010290697945488758,
+      "text" : "Q33. [2021 Exam] Nitrofurantoin is first-line for acute"
+    },
+    {
+      "y" : 0.45348837189922486,
+      "w" : 0.3778195521713246,
+      "conf" : 1,
+      "x" : 0.2471804486528823,
+      "h" : 0.011627906163533597,
+      "text" : "uncomplicated cystitis. Key pharmacokinetic property and"
+    },
+    {
+      "y" : 0.4396802326441711,
+      "w" : 0.07527361389204035,
+      "conf" : 1,
+      "x" : 0.09774436184286217,
+      "h" : 0.010558951695760044,
+      "text" : "precaution:"
+    },
+    {
+      "y" : 0.42653746780989704,
+      "w" : 0.31578947022010917,
+      "conf" : 1,
+      "x" : 0.214285719548872,
+      "h" : 0.010297157499525311,
+      "text" : "[A] Effective for systemic urosepsis and renal abscesses"
+    },
+    {
+      "y" : 0.41497093028706405,
+      "w" : 0.30451126153481084,
+      "conf" : 1,
+      "x" : 0.20864662034774423,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Causes massive hypernatremia and hypercalcemia"
+    },
+    {
+      "y" : 0.40182170527327976,
+      "w" : 0.43233083564544394,
+      "conf" : 1,
+      "x" : 0.27255638557330847,
+      "h" : 0.01031007766723624,
+      "text" : "[C] Concentrates in urine with negligible serum levels; contraindicated if eGFR"
+    },
+    {
+      "y" : 0.39171511657230795,
+      "w" : 0.07336487759796514,
+      "conf" : 1,
+      "x" : 0.09492481325173206,
+      "h" : 0.010420562426249225,
+      "text" : "< 30 mL\/min"
+    },
+    {
+      "y" : 0.37863372102107556,
+      "w" : 0.276315783700182,
+      "conf" : 1,
+      "x" : 0.19454887563439843,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Excreted exclusively via biliary tract into feces"
+    },
+    {
+      "y" : 0.46662790720803315,
+      "w" : 0.42105262696014556,
+      "conf" : 1,
+      "x" : 0.7180451148496241,
+      "h" : 0.011744186083475716,
+      "text" : "Q40. [Faculty Exam] Antimicrobials strongly CONTRAINDICATED"
+    },
+    {
+      "y" : 0.4542151163226745,
+      "w" : 0.25563908240334066,
+      "conf" : 1,
+      "x" : 0.6353383484210526,
+      "h" : 0.010174418555365716,
+      "text" : "or neurotoxic in advanced renal failure:"
+    },
+    {
+      "y" : 0.439680232630814,
+      "w" : 0.4172932386912518,
+      "conf" : 1,
+      "x" : 0.7161654204887214,
+      "h" : 0.010174418555365605,
+      "text" : "[A] Nitrofurantoin (ineffective in urine; peripheral neuropathy) and high-dose"
+    },
+    {
+      "y" : 0.42732558130813947,
+      "w" : 0.1146616493515793,
+      "conf" : 1,
+      "x" : 0.5648496234022556,
+      "h" : 0.00872092988755968,
+      "text" : "Imipenem (seizures)"
+    },
+    {
+      "y" : 0.4156976744670543,
+      "w" : 0.08646616054729628,
+      "conf" : 0.5,
+      "x" : 0.5488721818922305,
+      "h" : 0.00872092988755968,
+      "text" : "[B] Ceftriaxone"
+    },
+    {
+      "y" : 0.40406976751453483,
+      "w" : 0.09210526488994542,
+      "conf" : 0.5,
+      "x" : 0.5535714297227443,
+      "h" : 0.00872092988755968,
+      "text" : "[C] Azithromycin"
+    },
+    {
+      "y" : 0.3917151163517441,
+      "w" : 0.09022555978584423,
+      "conf" : 1,
+      "x" : 0.5507518812030074,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Doxycycline"
+    },
+    {
+      "y" : 0.3800872097124943,
+      "w" : 0.0736217869005128,
+      "conf" : 1,
+      "x" : 0.542293234300103,
+      "h" : 0.011621578534444232,
+      "text" : "[E] Linezolid"
+    },
+    {
+      "y" : 0.36555232541182175,
+      "w" : 0.3082706717430131,
+      "conf" : 1,
+      "x" : 0.21052631791979945,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Safe in all trimesters without hemolysis risk in G6PD"
+    },
+    {
+      "y" : 0.3524709302083334,
+      "w" : 0.42105262696014556,
+      "conf" : 1,
+      "x" : 0.2687969854636594,
+      "h" : 0.010174418555365605,
+      "text" : "Q34. [2020 Exam] What severe pulmonary toxicity can occur with"
+    },
+    {
+      "y" : 0.3386272609116369,
+      "w" : 0.41917291088639014,
+      "conf" : 1,
+      "x" : 0.2678571498433581,
+      "h" : 0.011698966026306157,
+      "text" : "chronic long-term Nitrofurantoin prophylaxis in elderly patients?"
+    },
+    {
+      "y" : 0.3255555556401334,
+      "w" : 0.2274436045687118,
+      "conf" : 1,
+      "x" : 0.1701127857456139,
+      "h" : 0.008888888888888946,
+      "text" : "[A] Acute pulmonary alveolar proteinosis"
+    },
+    {
+      "y" : 0.313194444387431,
+      "w" : 0.13909773891731442,
+      "conf" : 1,
+      "x" : 0.1259398513627819,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Acute pneumothorax"
+    },
+    {
+      "y" : 0.3001388888441968,
+      "w" : 0.21804511195716886,
+      "conf" : 1,
+      "x" : 0.16541353656015031,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Massive lobar pulmonary gangrene"
+    },
+    {
+      "y" : 0.35247093030523247,
+      "w" : 0.3890977169780059,
+      "conf" : 1,
+      "x" : 0.7020676730639097,
+      "h" : 0.010174418555365605,
+      "text" : "Q41. [Core Exam] A 68-year-old male with severe BPH starts"
+    },
+    {
+      "y" : 0.33862726057248965,
+      "w" : 0.38345861263535674,
+      "conf" : 1,
+      "x" : 0.6992481266290724,
+      "h" : 0.011698966026306157,
+      "text" : "Tamsulosin and Finasteride. Key education point regarding"
+    },
+    {
+      "y" : 0.3263081394803779,
+      "w" : 0.07894736755502729,
+      "conf" : 1,
+      "x" : 0.5469924802161654,
+      "h" : 0.010174418555365716,
+      "text" : "Finasteride:"
+    },
+    {
+      "y" : 0.31180555579425495,
+      "w" : 0.2744360895657352,
+      "conf" : 1,
+      "x" : 0.6447368455357142,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Relieves all voiding symptoms within 24 hours"
+    },
+    {
+      "y" : 0.3001388888441968,
+      "w" : 0.43233083564544394,
+      "conf" : 1,
+      "x" : 0.7218045166823306,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Requires 6-12 months to shrink prostate; measured PSA must be doubled"
+    },
+    {
+      "y" : 0.28997093028706405,
+      "w" : 0.4154135226174964,
+      "conf" : 1,
+      "x" : 0.2640977495535713,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Chronic Interstitial Pulmonary Fibrosis and hypersensitivity pneumonitis"
+    },
+    {
+      "y" : 0.27682170540045997,
+      "w" : 0.3909774330517613,
+      "conf" : 1,
+      "x" : 0.25187970576441077,
+      "h" : 0.01031007766723635,
+      "text" : "[E] Pulmonary arterial hypertension secondary to pulmonary embolism"
+    },
+    {
+      "y" : 0.27611111103801883,
+      "w" : 0.3233082686972053,
+      "conf" : 1,
+      "x" : 0.6672932276942358,
+      "h" : 0.008888888888888835,
+      "text" : "[C] Causes intense harmless orange discoloration of urine"
+    },
+    {
+      "y" : 0.2637532298090754,
+      "w" : 0.3533834406662809,
+      "conf" : 1,
+      "x" : 0.6823308211779451,
+      "h" : 0.01028423786163335,
+      "text" : "[D] Increases blood pressure requiring antihypertensive therapy"
+    },
+    {
+      "y" : 0.2521802326489824,
+      "w" : 0.30827067174301315,
+      "conf" : 1,
+      "x" : 0.6616541391917292,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Tablets should be crushed by his pregnant daughter"
+    },
+    {
+      "y" : 0.23763888869884797,
+      "w" : 0.4191729108863902,
+      "conf" : 1,
+      "x" : 0.2678571376174813,
+      "h" : 0.01027777777777783,
+      "text" : "Q35. [2024 Exam] Methenamine mandelate or hippurate acts as a"
+    },
+    {
+      "y" : 0.23834302313938777,
+      "w" : 0.4229322991552841,
+      "conf" : 1,
+      "x" : 0.718984957119361,
+      "h" : 0.011686045858595118,
+      "text" : "Q42. [Clinical Exam] A 74-year-old female with dementia has urge"
+    },
+    {
+      "y" : 0.2245833331556138,
+      "w" : 0.404135313932198,
+      "conf" : 1,
+      "x" : 0.26033834081297,
+      "h" : 0.010277777777777719,
+      "text" : "urinary tract antiseptic that releases which active antibacterial"
+    },
+    {
+      "y" : 0.22527777770050594,
+      "w" : 0.4304511195716886,
+      "conf" : 1,
+      "x" : 0.7208646635651628,
+      "h" : 0.011666666666666714,
+      "text" : "incontinence. Which agent has the LOWEST cognitive impairment"
+    },
+    {
+      "y" : 0.2122222224206181,
+      "w" : 0.2406015073884571,
+      "conf" : 1,
+      "x" : 0.17857142556390987,
+      "h" : 0.011666666666666603,
+      "text" : "compound in acidic urine (pH < 5.5)?"
+    },
+    {
+      "y" : 0.1976744185562015,
+      "w" : 0.09210526488994542,
+      "conf" : 1,
+      "x" : 0.10244360748746872,
+      "h" : 0.00872092988755968,
+      "text" : "[A] Cyanide gas"
+    },
+    {
+      "y" : 0.18603682156190393,
+      "w" : 0.10902255597858442,
+      "conf" : 1,
+      "x" : 0.11090225427631581,
+      "h" : 0.0087403098742167,
+      "text" : "[B] Chlorine bleach"
+    },
+    {
+      "y" : 0.1737467701909246,
+      "w" : 0.10150375750148838,
+      "conf" : 1,
+      "x" : 0.10714285883458641,
+      "h" : 0.01028423786163335,
+      "text" : "[C] Ammonia gas"
+    },
+    {
+      "y" : 0.16208333328279395,
+      "w" : 0.09774435826294034,
+      "conf" : 1,
+      "x" : 0.10526315952380948,
+      "h" : 0.007499999999999951,
+      "text" : "ID Nitrous oxide"
+    },
+    {
+      "y" : 0.14972222229949406,
+      "w" : 0.39849620958954884,
+      "conf" : 1,
+      "x" : 0.255639104323308,
+      "h" : 0.011666666666666714,
+      "text" : "[E] Formaldehyde (denatures bacterial proteins; bacteria do not develop"
+    },
+    {
+      "y" : 0.1380813952761628,
+      "w" : 0.06390977060083516,
+      "conf" : 1,
+      "x" : 0.08834586386278198,
+      "h" : 0.00872092988755968,
+      "text" : "resistance)"
+    },
+    {
+      "y" : 0.19846253231728334,
+      "w" : 0.21240600761451967,
+      "conf" : 1,
+      "x" : 0.6137218071663533,
+      "h" : 0.010297157499525311,
+      "text" : "[A] Immediate-release oral Oxybutynin"
+    },
+    {
+      "y" : 0.18531976727228677,
+      "w" : 0.14849623152885738,
+      "conf" : 1,
+      "x" : 0.5817669160714287,
+      "h" : 0.010174418555365716,
+      "text" : "[B] High-dose Amitriptyline"
+    },
+    {
+      "y" : 0.1737467701909246,
+      "w" : 0.1992481047947745,
+      "conf" : 1,
+      "x" : 0.6052631612155387,
+      "h" : 0.01028423786163335,
+      "text" : "[C] Scopolamine transdermal patch"
+    },
+    {
+      "y" : 0.16208333311927642,
+      "w" : 0.15225563076740545,
+      "conf" : 1,
+      "x" : 0.5817669153900376,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Atropine sulfate tablets"
+    },
+    {
+      "y" : 0.15041666669903736,
+      "w" : 0.4060150300059535,
+      "conf" : 1,
+      "x" : 0.7086466114661656,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Trospium (quaternary ammonium, does not cross BBB) or Mirabegron"
+    },
+    {
+      "y" : 0.13805555547055975,
+      "w" : 0.09022555978584423,
+      "conf" : 1,
+      "x" : 0.5507518785714285,
+      "h" : 0.008888888888888835,
+      "text" : "(beta-3 agonist)"
+    },
+    {
+      "y" : 0.024027777739559775,
+      "w" : 0.45300749306366817,
+      "conf" : 1,
+      "x" : 0.28289474439223034,
+      "h" : 0.01027777777777783,
+      "text" : "Twisted Medicine • Renal Pharmacology Master Class • Faculty & Board Exam Preparation"
+    },
+    {
+      "y" : 0.0123546509738372,
+      "w" : 0.041353383396787624,
+      "conf" : 1,
+      "x" : 0.5187969925939849,
+      "h" : 0.018895348442925397,
+      "text" : "127"
+    },
+    {
+      "y" : 0.023947028395109204,
+      "w" : 0.2725563734919797,
+      "conf" : 1,
+      "x" : 0.8054511312265036,
+      "h" : 0.007338501347435855,
+      "text" : "Confidential - Dedicated for Medical Student Revision"
+    }
+  ],
+  "page" : 129
+}

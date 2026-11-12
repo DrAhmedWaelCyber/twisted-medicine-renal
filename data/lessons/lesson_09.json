@@ -1,0 +1,856 @@
+{
+  "id": 9,
+  "title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+  "department": "Histology",
+  "department_desc": "Microscopic architecture of renal cortex, filtration barrier, loop of Henle and vasculature",
+  "booklet_pages": "Pages 33 - 36",
+  "pdf_pages": [
+    35,
+    36,
+    37,
+    38
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 9 - HIGH-YIELD RENAL VASCULATURE & PATHOLOGY MATRIX",
+  "summary_table": [
+    {
+      "domain": "Glomerular Portal System",
+      "content": "Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in"
+    },
+    {
+      "domain": "between 2 resistance vessels.",
+      "content": "afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,"
+    },
+    {
+      "domain": "(Cortical Nephrons)",
+      "content": "sodium, and nutrients back into systemic venous circulation. meshwork around PCT & DCT in cortical labyrinth. Low hydrostatic pressure (~13 mmHg), high oncotic pressure (~32 mmHg)."
+    },
+    {
+      "domain": "Vasa Recta",
+      "content": "Vasa Recta Spuriae (>95%): arise from efferent arterioles of juxtamedullary Form hairpin medullary loops acting as Countercurrent Exchangers; preserve hypertonic medullary gradient without nephrons. Vasa Recta Verae: aglomerular, arise directly from"
+    },
+    {
+      "domain": "(Spuriae vs. Verae)",
+      "content": "arcuate/interlobular arteries (aging/atrophy). washout. Sluggish flow (<10% RBF). Ludwig's Arteriole: branches from interlobular arteriole to peritubular plexus Capsular collaterals (from lumbar, suprarenal, & colic arteries)"
+    },
+    {
+      "domain": "Non-Glomerular Supply",
+      "content": "maintain cortical viability and prevent total renal gangrene in bypassing glomerulus. Arteriae Perforantes: pierce capsule to anastomose"
+    },
+    {
+      "domain": "with perirenal fat plexus.",
+      "content": "progressive renal artery stenosis."
+    },
+    {
+      "domain": "Venous Architecture",
+      "content": "Unlike end-arteries, renal veins have rich anastomoses; ligation of Stellate veins (Verheyen) drain outer cortex -> Interlobular veins -> Arcuate Veins (form COMPLETE anastomosing arches) -> Interlobar veins -> Single an intrarenal vein branch is safe. Left renal vein compressed in"
+    },
+    {
+      "domain": "Vein)",
+      "content": "Nutcracker Syndrome."
+    },
+    {
+      "domain": "Renal Infarcts &",
+      "content": "Renal Infarction: occlusion of segmental, arcuate, or interlobular end-arteries Papillary Necrosis: ischemic coagulative necrosis of pyramids due to compromised vasa recta in Diabetes, Sickle Cell, Analgesic"
+    },
+    {
+      "domain": "Papillary Necrosis",
+      "content": "yields wedge-shaped pale infarcts (base at capsule, apex inward). abuse (NSAIDs), & Pyelonephritis."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which of the following describes the correct anatomical sequence of renal arterial branching from the main renal artery to the glomerulus?",
+      "options": {
+        "A": "Interlobar - Segmental -> Arcuate -> Afferent arteriole",
+        "B": "Segmental -> Arcuate -> Interlobar -> Glomerulus",
+        "C": "Arcuate -> Interlobar -> Segmental -> Afferent arteriole",
+        "D": "Segmental -> Lobar -> Interlobar -> Arcuate -> Interlobular -> Afferent",
+        "E": "Interlobular -> Arcuate -> Interlobar -> Peritubular -> Afferent"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The Segmental Arteries of the kidney are functionally classified as 'End-Arteries' because they:",
+      "options": {
+        "A": "Have no anatomically significant arterial anastomoses between adjacent segments",
+        "B": "Terminate directly into the renal sinus veins without capillary beds",
+        "C": "Possess continuous precapillary sphincters controlled by somatic nerves",
+        "D": "Supply both the renal cortex and adrenal gland through shared capillaries",
+        "E": "Lack a tunica media and internal elastic lamina"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Interlobar Arteries run in which histological compartment of the kidney as they ascend toward the corticomedullary junction?",
+      "options": {
+        "A": "Renal Columns of Bertin between adjacent medullary pyramids",
+        "B": "Within the subcapsular space of the fibrous capsule",
+        "C": "Medullary rays inside the renal pyramids",
+        "D": "The central core of the renal papilla",
+        "E": "Submucosa of the minor calyces"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "At the corticomedullary junction, Interlobar Arteries arch horizontally over the bases of the renal pyramids as the:",
+      "options": {
+        "A": "Interlobular arteries",
+        "B": "Cortical radiate arteries",
+        "C": "Vasa recta spuriae",
+        "D": "Stellate veins",
+        "E": "Arcuate Arteries"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Regarding Arcuate Arteries, which histological and anatomical feature is TRUE?",
+      "options": {
+        "A": "They form true complete anatomical anastomotic vascular rings across pyramids",
+        "B": "They give off afferent arterioles directly into the renal pelvis",
+        "C": "They are pure end-arteries that give off interlobular branches without anastomosing",
+        "D": "They are located within the inner stripe of the inner medulla",
+        "E": "They run vertically parallel to collecting ducts in medullary rays"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Interlobular (Cortical Radiate) Arteries branch at right angles from arcuate arteries and travel peripherally within the:",
+      "options": {
+        "A": "Medullary pyramids toward the area cribrosa",
+        "B": "Cortical Labyrinth between adjacent medullary rays toward the capsule",
+        "C": "Fibrous capsule without entering the cortex",
+        "D": "Core of the medullary rays alongside straight tubules",
+        "E": "Major calyx wall to supply transitional epithelium"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The Glomerular Microcirculation is uniquely structured as an 'Arterial Portal System' because:",
+      "options": {
+        "A": "Capillaries drain directly into hepatic portal veins",
+        "B": "Glomerular capillary tufts are positioned between two resistance arterioles (afferent & efferent)",
+        "C": "Glomerular capillaries arise from veins and terminate in lymphatic ducts",
+        "D": "Blood flows from peritubular venules backward into glomeruli",
+        "E": "It completely lacks any capillary endothelium"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Afferent Arteriole differs histologically from the Efferent Arteriole in that the Afferent Arteriole has a:",
+      "options": {
+        "A": "Significantly narrower lumen to accelerate blood outflow",
+        "B": "Complete absence of smooth muscle cells in its tunica media",
+        "C": "Larger luminal diameter and lower vascular resistance than the efferent",
+        "D": "Discontinuous sinusoidal endothelium with open gaps",
+        "E": "Higher concentration of elastic fibers than the thoracic aorta"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Juxtaglomerular (JG) cells are modified smooth muscle cells located primarily in the tunica media of the:",
+      "options": {
+        "A": "Terminal Efferent arteriole near peritubular capillaries",
+        "B": "Arcuate vein wall near the corticomedullary border",
+        "C": "Terminal Afferent Arteriole at the vascular pole of the renal corpuscle",
+        "D": "Interlobar artery within Bertin's column",
+        "E": "Descending vasa recta in the inner medulla"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The presence of two resistance arterioles in series (afferent and efferent) allows the kidney to maintain a high capillary pressure of ~50 mmHg, which:",
+      "options": {
+        "A": "Prevents any fluid from entering the proximal tubule",
+        "B": "Forces all red blood cells to lyse into bilirubin",
+        "C": "Drives rapid tubular reabsorption inside Bowman's space",
+        "D": "Promotes continuous net fluid filtration across the glomerular barrier",
+        "E": "Completely eliminates renal sympathetic autoregulation"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Efferent Arterioles of Cortical Nephrons divide immediately after exiting the glomerulus to form the:",
+      "options": {
+        "A": "Long hairpin loops of Vasa Recta plunging into papillae",
+        "B": "Extensive Peritubular Capillary Plexus surrounding cortical convoluted tubules",
+        "C": "Central canal of the spinal cord",
+        "D": "Interlobar veins directly without capillary networks",
+        "E": "Avascular line of Brodel"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Efferent Arterioles of Juxtamedullary Nephrons possess which unique anatomical destination and morphology?",
+      "options": {
+        "A": "They terminate directly into the renal pelvis",
+        "B": "They enter the renal capsule to form the capsular plexus",
+        "C": "They drain directly into the inferior vena cava",
+        "D": "They transform into striated skeletal muscle fibers",
+        "E": "They descend into the medulla, branching into bundles of hairpin capillary loops (Vasa Recta)"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The Peritubular Capillaries surrounding proximal and distal convoluted tubules are characteristically:",
+      "options": {
+        "A": "High-pressure (~60 mmHg) muscular resistance vessels causing filtration",
+        "B": "Low-pressure (~13 mmHg), fenestrated capillaries optimized for rapid tubular reabsorption",
+        "C": "Thick-walled muscular arteries with prominent internal elastic laminae",
+        "D": "Continuous non-fenestrated capillaries with occluding tight junctions",
+        "E": "Totally absent in the normal human renal cortex"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "The high Oncotic (colloid osmotic) pressure (~32 mmHg) in peritubular capillaries is a direct physiological consequence of:",
+      "options": {
+        "A": "Active tubular secretion of albumin into the peritubular lumen",
+        "B": "Massive fluid loss during glomerular ultrafiltration concentrating plasma proteins in efferent blood",
+        "C": "Complete destruction of red blood cells during glomerular transit",
+        "D": "Rapid intake of dietary water into medullary rays",
+        "E": "Hepatic synthesis of fibrinogen inside the juxtaglomerular apparatus"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Vasa Recta Vera (True Vasa Recta) are aglomerular arterioles that arise directly from:",
+      "options": {
+        "A": "The inferior mesenteric artery",
+        "B": "Arcuate or Interlobular Arteries directly, bypassing glomeruli (due to glomerular degeneration)",
+        "C": "The thoracic duct cisterna chyli",
+        "D": "Splenic arterial trabecular branches",
+        "E": "Subscapular circumflex arteries"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Descending Vasa Recta (arteriolar straight vessels) are histologically characterized in the outer medulla by:",
+      "options": {
+        "A": "Highly fenestrated wide sinusoidal capillaries lacking any pericytes",
+        "B": "Continuous non-fenestrated endothelium surrounded by contractile pericytes and smooth muscle",
+        "C": "Thick keratinized stratified squamous epithelium",
+        "D": "Absence of any basal lamina or extracellular matrix",
+        "E": "Elastic laminae thicker than the renal artery"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Ascending Vasa Recta (venous straight vessels) differ ultrastructurally from descending vasa recta by possessing:",
+      "options": {
+        "A": "Continuous non-fenestrated endothelium with multiple smooth muscle layers",
+        "B": "Striated skeletal muscle fibers in their tunica adventitia",
+        "C": "Luminal valves identical to lower extremity veins",
+        "D": "Extremely thin, highly Fenestrated Endothelium optimized for passive solute/water uptake",
+        "E": "Occluding tight junctions impermeable to all ions"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In the renal medullary countercurrent system, the Vasa Recta act specifically as 'Countercurrent Exchangers' because:",
+      "options": {
+        "A": "Hairpin loops and high permeability allow passive exchange, preserving the osmotic gradient without washout",
+        "B": "They actively pump sodium and chloride out of the medulla into the cortex",
+        "C": "They synthesize concentrated hypertonic urea directly from blood ammonia",
+        "D": "Blood flows through them at ultra-rapid velocities exceeding arterial jet speed LE They prevent any water from returning to the systemic circulation"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the primary hemodynamic consequence of slow, sluggish blood flow (less than 10% of total RBF) through the Vasa Recta?",
+      "options": {
+        "A": "Infarction of the outer cortical labyrinth",
+        "B": "Thrombosis of the arcuate veins in all individuals",
+        "C": "Minimizes solute washout, preserving medullary hyperosmolality [DJ Drops GFR to zero during normal hydration",
+        "E": "Converts medullary interstitial fluid into pure water"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The Non-Glomerular Arterial Blood Supply of the kidney includes which of the following specialized vascular pathways?",
+      "options": {
+        "A": "Ludwig's Arterioles, Arteria Perforantes (capsular branches), and Nutrient vessels to calyces/pelvis",
+        "B": "Coronary collateral arteries and internal mammary branches",
+        "C": "Splenic cords of Billroth and central follicular arteries",
+        "D": "Celiac trunk direct capillary anastomoses",
+        "E": "Ductus venosus bypass vessels"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "[2023 Exam) Perforating Radiate Arteries (Arteria Perforantes) originate from interlobular arteries, penetrate the renal capsule, and anastomose with:",
+      "options": {
+        "A": "The hepatic portal vein tributaries inside the liver parenchyma",
+        "B": "Duodenal submucosal plexus",
+        "C": "The pulmonary capillary bed via the diaphragm",
+        "D": "The coronary sinus of the heart",
+        "E": "Subcapsular/perirenal adipose arterial plexus (derived from lumbar, suprarenal, & colic arteries)"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In chronic, progressive Atherosclerotic Renal Artery Stenosis, the clinical significance of the capsular and subcapsular collateral arterial plexus is that it:",
+      "options": {
+        "A": "May maintain cortical viability and prevent total ischemic renal gangrene",
+        "B": "Directly causes rupture of the renal pelvis",
+        "C": "Completely reverses systemic renovascular hypertension",
+        "D": "Secretes aldosterone into the renal parenchyma",
+        "E": "Eliminates the need for glomerular filtration"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The wall of the renal pelvis, calyces, and the upper ureter receive their nutrient non-glomerular blood supply from branches of the:",
+      "options": {
+        "A": "Inferior epigastric artery",
+        "B": "Superior mesenteric artery branches exclusively",
+        "C": "Celiac axis terminal arterioles",
+        "D": "Main Renal Artery, its segmental branches, and accessory renal arteries",
+        "E": "Internal thoracic artery"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "The renal capsule itself receives dual arterial blood supply from which two anatomical sources?",
+      "options": {
+        "A": "Pulmonary and splenic arteries",
+        "B": "Hepatic artery proper and cystic artery",
+        "C": "Femoral artery and obturator artery [DJ Left gastric artery and inferior phrenic artery only",
+        "E": "Perforating branches of interlobular arteries (from within) and Perirenal capsular branches (from without)"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Histologically, how do the walls of Interlobular Arteries differ from Interlobular Veins running beside them in the cortical labyrinth?",
+      "options": {
+        "A": "Arteries have transitional epithelium, veins have mesothelium",
+        "B": "Veins have thicker media and higher smooth muscle than arteries",
+        "C": "Arteries have distinct internal elastic lamina & thicker circular media",
+        "D": "Arteries are sinusoidal tubes completely lacking smooth muscle",
+        "E": "Veins have thick muscular adventitia with cartilage rings"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Aglomerular arterioles that arise due to progressive obsolescence and atrophy of cortical glomeruli with aging are termed:",
+      "options": {
+        "A": "Arteriolae rectae spuriae",
+        "C": "Arteriolae Rectae Verae (Isaac-Ludwig arteriole bypasses)",
+        "D": "Central follicular arteries",
+        "E": "Cavernous sinusoids of the medulla"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Stellate veins receive blood from the superficial peritubular capillaries and drain directly downward into the:",
+      "options": {
+        "A": "Descending vasa recta capillaries",
+        "B": "Main Renal Artery directly",
+        "C": "Interlobular (Cortical Radiate) Veins [DJ Medullary rays central cisterns",
+        "E": "Inferior vena cava directly"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Unlike Arcuate Arteries which do NOT form complete arches, Arcuate Veins are functionally and anatomically distinct because they:",
+      "options": {
+        "A": "Completely lack any endothelial cell lining",
+        "B": "Run strictly inside the medullary rays",
+        "C": "Contain multiple bicuspid valves preventing retrograde flow",
+        "D": "Drain directly into the left testicular vein",
+        "E": "Form Complete Anastomotic Arches across pyramids with collateral flow"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Regarding the surgical and pathological significance of the intrarenal venous system:",
+      "options": {
+        "A": "Intrarenal vein ligation always causes segmental gangrene",
+        "B": "Rich anastomoses allow safe ligation of intrarenal vein branches",
+        "C": "Renal veins, like segmental arteries, are strictly end-vessels",
+        "D": "Intrarenal veins lack basement membranes and leak continuously",
+        "E": "Venous blood flows exclusively into the thoracic duct"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Ascending Vasa Recta return blood from the renal medulla and drain primarily into which venous conduits?",
+      "options": {
+        "A": "Stellate veins beneath the fibrous capsule",
+        "B": "Arcuate Veins and the deeper portions of Interlobular Veins at the corticomedullary junction",
+        "C": "Lumbar veins and azygos venous system directly",
+        "D": "Portal vein branches inside the liver",
+        "E": "Superior mesenteric vein"
+      },
+      "correct_option": "B",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "The total Renal Blood Flow (RBF) in a resting healthy adult is approximately 1200 mL/min, representing what percentage of cardiac output?",
+      "options": {
+        "A": "20% to 25% (receiving the highest blood flow per gram of tissue of any major organ)",
+        "B": "5% to 8%",
+        "C": "45% to 50%",
+        "D": "1% to 2%",
+        "E": "Exactly 10% in both males and females"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Within the renal parenchyma, how is blood flow distributed between the cortex and the medulla?",
+      "options": {
+        "A": "50% to the cortex and 50% to the medulla",
+        "B": "10% to the cortex and 90% to the medulla",
+        "C": "~90% to the Cortex (supporting high GFR) and ~10% to the Medulla (preserving osmotic gradient)",
+        "D": "Blood flows exclusively to the medulla during wakefulness",
+        "E": "100% of renal blood flow is confined to the renal capsule"
+      },
+      "correct_option": "C",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Renal Medullary / Papillary Necrosis is an ischemic coagulative necrosis of the renal pyramids triggered by compromised vasa recta flow in:",
+      "options": {
+        "A": "Hyperparathyroidism and osteoporosis",
+        "B": "Primary hyperaldosteronism and Cushing syndrome only",
+        "C": "Celiac disease and gluten enteropathy",
+        "D": "Diabetes Mellitus, Sickle Cell Disease/Trait, Analgesic Nephropathy (Phenacetin/NSAIDs), & Severe Pyelonephritis",
+        "E": "Amyotrophic lateral sclerosis"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Why are the renal medullary pyramids naturally susceptible to ischemic injury and hypoxia even under normal resting conditions?",
+      "options": {
+        "A": "Medullary cells lack mitochondria and cannot generate ATP",
+        "B": "Arcuate veins compress pyramids during systolic contraction",
+        "C": "Medullary collecting ducts actively destroy blood vessels",
+        "D": "Low RBF (~10%) and 02 countercurrent exchange yield low p02 (~15 mmHg)",
+        "E": "Urine in loops of Henle is toxic to capillary endothelium"
+      },
+      "correct_option": "D",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Contractile Pericytes surrounding the descending vasa recta in the outer medulla express receptors for vasoactive agents and regulate:",
+      "options": {
+        "A": "Glomerular ultrafiltration coefficient (Kf) in subcapsular nephrons",
+        "B": "Secretion of adrenaline into the renal pelvis",
+        "C": "Synthesis of renin by intercalated cells",
+        "D": "Transport of Tamm-Horsfall protein into arcuate veins",
+        "E": "Medullary blood flow and capillary resistance, influencing papillary solute washout and blood pressure"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In Renal Clear Cell Carcinoma, malignant invasion into which intrarenal vascular structure classically precedes tumor thrombus extension into the IVC?",
+      "options": {
+        "A": "Median umbilical vein",
+        "B": "Interlobular arteries and descending aorta",
+        "C": "Thoracic lymphatic duct",
+        "D": "Lumbar sympathetic trunk",
+        "E": "Interlobar and Main Renal Veins (hematogenous invasion due to rich vascularity)"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "In Nutcracker Syndrome (anterior variant), the Left Renal Vein is mechanically compressed between which two major vascular structures?",
+      "options": {
+        "A": "Celiac trunk and splenic artery",
+        "B": "Portal vein and hepatic artery proper",
+        "C": "Right renal artery and inferior vena cava",
+        "D": "Common iliac artery and internal iliac vein",
+        "E": "Abdominal Aorta posteriorly and Superior Mesenteric Artery (SMA) anteriorly"
+      },
+      "correct_option": "E",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "The clinically observed 'Goldblatt Kidney' phenomenon (renovascular hypertension) resulting from unilateral renal artery stenosis is initiated by:",
+      "options": {
+        "A": "Fall in perfusion pressure to the Afferent Arteriole triggering excessive Renin release by JG cells",
+        "B": "Direct bacterial infection of the juxtaglomerular cells",
+        "C": "Complete destruction of the macula densa by calcification",
+        "D": "Excessive secretion of atrial natriuretic peptide by peritubular capillaries",
+        "E": "Retrograde venous thrombosis of the right gonadal vein"
+      },
+      "correct_option": "A",
+      "explanation": "**Glomerular Portal System**: Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in\n\n**between 2 resistance vessels.**: afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,",
+      "masterclass_id": 9,
+      "masterclass_title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology"
+    }
+  ]
+}

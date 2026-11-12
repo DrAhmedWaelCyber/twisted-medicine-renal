@@ -1,0 +1,901 @@
+{
+  "items" : [
+    {
+      "x" : 0.263157894031955,
+      "y" : 0.9745833330829394,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 42 MCQ Masterclass",
+      "w" : 0.4624059856752112,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.9295112772328473,
+      "y" : 0.9745639534268734,
+      "text" : "Page 1 of 4",
+      "w" : 0.0771881366787327,
+      "h" : 0.010733593834771016,
+      "conf" : 1
+    },
+    {
+      "x" : 0.49812029573934846,
+      "y" : 0.9389437983900952,
+      "text" : "42. ACID-BASE DISORDERS & CLINICAL ELECTROLYTES - CLINICAL LECTURE",
+      "w" : 0.6654135226174964,
+      "h" : 0.014554263220893038,
+      "conf" : 1
+    },
+    {
+      "x" : 0.4999999920112783,
+      "y" : 0.9193055554887284,
+      "text" : "Twisted Medicine Clinical Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "w" : 0.639097716978006,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24624060294486214,
+      "y" : 0.8960755812257752,
+      "text" : "Q01. [2025 Exam] Which set of laboratory values defines the normal",
+      "w" : 0.4022556417370597,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2659774480263157,
+      "y" : 0.8859625323354519,
+      "text" : "physiological Arterial Blood Gas (ABG) reference range in a healthy adult at",
+      "w" : 0.44172932825698685,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "x" : 0.07424812025845864,
+      "y" : 0.8750000000218023,
+      "text" : "sea level?",
+      "w" : 0.05827067722784025,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22086466604793223,
+      "y" : 0.8640374677917284,
+      "text" : "[A] pH 7.35-7.45, PaCO2 35-45 mmHg, HCO3- 22-26 mEq\/L",
+      "w" : 0.3515037465318341,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21992481552631576,
+      "y" : 0.8531976744767442,
+      "text" : "[B] pH 7.10-7.25, PaCO2 50-60 mmHg, HCO3- 12-16 mEg\/L",
+      "w" : 0.34962405239738725,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21992480614035112,
+      "y" : 0.8430555556549624,
+      "text" : "[C] pH 7.50-7.65, PaCO2 20-25 mmHg, HCO3- 32-38 mEq\/L",
+      "w" : 0.353383440666281,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21710526659774435,
+      "y" : 0.8313888888114933,
+      "text" : "[D] pH 7.35-7.45, PaCO2 15-20 mmHg, HCO3- 8-10 mEq\/L",
+      "w" : 0.3439849480547381,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22086466604793223,
+      "y" : 0.8204295865870099,
+      "text" : "[E] pH 7.00-7.15, PaCO2 70-80 mmHg, HCO3- 40-50 mEq\/L",
+      "w" : 0.3515037465318341,
+      "h" : 0.01030361758338072,
+      "conf" : 1
+    },
+    {
+      "x" : 0.261278200892857,
+      "y" : 0.8045704135220018,
+      "text" : "Q02. [2024 Exam] What is the standard formula for calculating the Serum",
+      "w" : 0.43233083564544394,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23590226174812007,
+      "y" : 0.7950193797553681,
+      "text" : "Anion Gap, and what is its normal physiological reference range?",
+      "w" : 0.38157894044021834,
+      "h" : 0.011705426110161676,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21428570858396012,
+      "y" : 0.7833720928146284,
+      "text" : "[A] AG = (Na+ + K+) - (Cl-* HCO3-); normal 20-30 mEq\/L",
+      "w" : 0.3421052539202912,
+      "h" : 0.01174418555365675,
+      "conf" : 1
+    },
+    {
+      "x" : 0.25845864282581466,
+      "y" : 0.7725290699370155,
+      "text" : "[B] AG = Na+ - (Cl- + HC03-); normal 8-12 mEq\/L (unmeasured albumin)",
+      "w" : 0.4304511195716886,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18703007039473699,
+      "y" : 0.7616666667691538,
+      "text" : "[C] AG = Cl- - (Na+ + HCO3-); normal 0-4 mEq\/L",
+      "w" : 0.2875939704461718,
+      "h" : 0.008888889153798485,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2105263199248119,
+      "y" : 0.7500000000726745,
+      "text" : "[D] AG = (Na+ + Ca2+) \/ (Cl- + PO4); normal 1-2 mEq\/L",
+      "w" : 0.3308270671743013,
+      "h" : 0.008888888888888835,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2058270636043234,
+      "y" : 0.7405523254905524,
+      "text" : "[E] AG = HCO3- - (Na+ + K+); normal -10 to -15 mEq\/L",
+      "w" : 0.32518796283165213,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7236842050281957,
+      "y" : 0.896075581340843,
+      "text" : "Q08. [2022 Exam] What cellular defect and characteristic laboratory profile",
+      "w" : 0.4398496121832315,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6654135378759398,
+      "y" : 0.8859625323536204,
+      "text" : "define Classical Type 1 (Distal) Renal Tubular Acidosis?",
+      "w" : 0.3233082686972052,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6597744321428571,
+      "y" : 0.8749999999273257,
+      "text" : "[A] Defective PCT carbonic anhydrase; urine pH < 5.3",
+      "w" : 0.31578947022010917,
+      "h" : 0.008888888888888835,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6578947420426065,
+      "y" : 0.864037467809897,
+      "text" : "[B] Basolateral Na\/K-ATPase mutation; hypocalcemia",
+      "w" : 0.3120300600119069,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7227443538533838,
+      "y" : 0.853197674612403,
+      "text" : "[C] Impaired alpha-intercalated H+-ATPase; urine pH > 5.3, Hypokalemia &",
+      "w" : 0.44172932825698696,
+      "h" : 0.011627906163533486,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5545112772556391,
+      "y" : 0.8422965114583334,
+      "text" : "Nephrocalcinosis",
+      "w" : 0.10150375750148832,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6710526259398497,
+      "y" : 0.831388888837359,
+      "text" : "[D] Aldosterone receptor super-activation; hypernatremia",
+      "w" : 0.33834584371208887,
+      "h" : 0.008888889153798374,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6710526358082706,
+      "y" : 0.8204295865870099,
+      "text" : "[E] Isolated renal glucosuria with normal acid-base status",
+      "w" : 0.33834586565139735,
+      "h" : 0.01030361758338072,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7048872130169175,
+      "y" : 0.8045704134129901,
+      "text" : "Q09. [2023 Exam] Why do patients with untreated Type 1 Distal RTA",
+      "w" : 0.40225564173705963,
+      "h" : 0.01030361758338072,
+      "conf" : 1
+    },
+    {
+      "x" : 0.706766922368421,
+      "y" : 0.79430555559774,
+      "text" : "frequently develop bilateral Nephrocalcinosis and Calcium Phosphate",
+      "w" : 0.4060150300059534,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5272556396352794,
+      "y" : 0.7834302326921422,
+      "text" : "stones?",
+      "w" : 0.04728480982831884,
+      "h" : 0.00971396128336588,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6719924854558269,
+      "y" : 0.7718023256540698,
+      "text" : "[A] Massive hyperuricosuria forming pure uric acid stones",
+      "w" : 0.34022555978584434,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6503759447994986,
+      "y" : 0.7616666666011436,
+      "text" : "[B] Overexpression of Tamm-Horsfall mucoprotein",
+      "w" : 0.2969924630577149,
+      "h" : 0.008888888623979296,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6531954920112781,
+      "y" : 0.7506944444661616,
+      "text" : "[C] Excessive gastrointestinal absorption of oxalate",
+      "w" : 0.3026315674003639,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.729323312781955,
+      "y" : 0.739037467809897,
+      "text" : "[D] Bone buffering releases Ca\/PO4 into alkaline urine (pH > 5.5) with severe",
+      "w" : 0.45112782086853,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5460526302318296,
+      "y" : 0.7289244187742248,
+      "text" : "Hypocitraturia",
+      "w" : 0.08458646092802224,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6541353392857142,
+      "y" : 0.7187500001695737,
+      "text" : "[E] Complete congenital lack of renal PTH receptors",
+      "w" : 0.3045112615348109,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26597743808740615,
+      "y" : 0.7020348836482557,
+      "text" : "Q03. [2023 Exam] Because Serum Albumin accounts for major unmeasured",
+      "w" : 0.4417293282569869,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.24342105659774424,
+      "y" : 0.6911337210029069,
+      "text" : "anions, how must the Anion Gap be corrected in hypoalbuminemia?",
+      "w" : 0.39661653739441044,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2048872234335838,
+      "y" : 0.6795704135401703,
+      "text" : "[A] Subtract 5 mEq\/L for each 1.0 g\/dL drop in albumin",
+      "w" : 0.32330826869720525,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19454887722431063,
+      "y" : 0.669305555567459,
+      "text" : "[B] Multiply calculated anion gap by serum calcium",
+      "w" : 0.30263156740036395,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26221805241228047,
+      "y" : 0.6583720929115275,
+      "text" : "[C] Add 2.5 mEq\/L to AG for every 1.0 g\/dL drop in Albumin below 4.0 g\/dL",
+      "w" : 0.4379698961094761,
+      "h" : 0.011744185553656639,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20112782481202995,
+      "y" : 0.6475290698885658,
+      "text" : "[D] Divide calculated AG by total serum globulin level",
+      "w" : 0.3157894702201092,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20394736306390995,
+      "y" : 0.6373611111739718,
+      "text" : "[E] Hypoalbuminemia has zero effect on the anion gap",
+      "w" : 0.3214285526234498,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7274436034304513,
+      "y" : 0.701253229827244,
+      "text" : "Q10. [2021 Exam] What is the primary pathophysiology of Type 2 (Proximal)",
+      "w" : 0.44736838872101914,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6936090193922309,
+      "y" : 0.6911337208696706,
+      "text" : "RTA, and what clinical syndrome is it characteristically linked to?",
+      "w" : 0.3796992243664631,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6635338399749371,
+      "y" : 0.680277777715335,
+      "text" : "[A] Impaired apical proton secretion in collecting ducts",
+      "w" : 0.3233082686972052,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6766917336936089,
+      "y" : 0.66930555559774,
+      "text" : "[B] Failure of collecting duct principal cells to reabsorb Na+",
+      "w" : 0.34962405239738714,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.68421053087406,
+      "y" : 0.659156976798692,
+      "text" : "[C] Excessive adrenal aldosterone causing metabolic alkalosis",
+      "w" : 0.3646616493515793,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6625939889802631,
+      "y" : 0.6482525839478979,
+      "text" : "[D] Isolated tubular resistance to antidiuretic hormone",
+      "w" : 0.32142855262344994,
+      "h" : 0.00872738997141509,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7246240656719923,
+      "y" : 0.6373611113374893,
+      "text" : "[E] Defective PCT Bicarbonate reabsorption (lowered threshold); associated",
+      "w" : 0.44172932825698696,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5723684216400375,
+      "y" : 0.6256944446992267,
+      "text" : "with Fanconi Syndrome",
+      "w" : 0.1372180447828676,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.27067669924812,
+      "y" : 0.6097383721656977,
+      "text" : "Q04. [2022 Exam] In primary Metabolic Acidosis, which physiological formula",
+      "w" : 0.45112782086852976,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.253759405200501,
+      "y" : 0.5995833333796933,
+      "text" : "(Winter's formula) predicts expected respiratory PaCO2 compensation?",
+      "w" : 0.4172932386912518,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1729323340225563,
+      "y" : 0.5879166668807234,
+      "text" : "[A] Expected PaC02 = (2.0 * [HC03-]) + 20",
+      "w" : 0.25563908240334066,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.14473683872180465,
+      "y" : 0.5777616278343023,
+      "text" : "[B] Expected PaCO2 = [HCO3-1\/2",
+      "w" : 0.20300751500297676,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19360901898496247,
+      "y" : 0.5661337207606589,
+      "text" : "[C] Expected PaCO2 = (Serum Na+ - Serum CI-) \/ 2",
+      "w" : 0.30075187326591707,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18984962695488716,
+      "y" : 0.5559722220361477,
+      "text" : "[D] Expected PaCO2 = (1.5 * [HCO3-]) + 8 (+\/- 2)",
+      "w" : 0.28947368651992716,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.1795112747885339,
+      "y" : 0.5443055554887284,
+      "text" : "[E] Expected PaCO2 = 40 mmHg permanently",
+      "w" : 0.2725563734919797,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7030075196741854,
+      "y" : 0.6097383719234497,
+      "text" : "Q11. [2025 Exam] Which set of urinary and metabolic abnormalities",
+      "w" : 0.3984962095895489,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7236842061278197,
+      "y" : 0.598888888855392,
+      "text" : "constitutes generalized Proximal Tubular Dysfunction (Fanconi Syndrome)?",
+      "w" : 0.4398496121832316,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7265037556860903,
+      "y" : 0.5879166667293183,
+      "text" : "[A] Glucosuria (normal glucose), Aminoaciduria, Phosphaturia, Type 2 RTA &",
+      "w" : 0.4454887165258806,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.53383458576793,
+      "y" : 0.5784883722251748,
+      "text" : "Uricosuria",
+      "w" : 0.06057772166775255,
+      "h" : 0.010696065690782408,
+      "conf" : 0.5
+    },
+    {
+      "x" : 0.6729323265507519,
+      "y" : 0.5661337208757267,
+      "text" : "[B] Heavy nephrotic albuminuria (>10 g\/d) with lipid casts",
+      "w" : 0.3421052539202911,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6522556428571428,
+      "y" : 0.5559722220179792,
+      "text" : "[C] Isolated macroscopic hematuria with RBC casts",
+      "w" : 0.3007518732659171,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.669172937907268,
+      "y" : 0.5443055556159087,
+      "text" : "[D] Oliguria, hyperkalemia, hyperphosphatemia & anuria",
+      "w" : 0.3345864554431951,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6578947338972432,
+      "y" : 0.5349515506799664,
+      "text" : "[E] Pure water diuresis with negative urine anion gap",
+      "w" : 0.3120300600119069,
+      "h" : 0.01176356527540423,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26597743808740615,
+      "y" : 0.51819444440226,
+      "text" : "Q05. [2021 Exam] Which clinical entity represents a classic etiology of High",
+      "w" : 0.4417293282569869,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.16259398261278202,
+      "y" : 0.5072222222749752,
+      "text" : "Anion Gap Metabolic Acidosis (HAGMA)?",
+      "w" : 0.23496240304580787,
+      "h" : 0.008888888888888835,
+      "conf" : 1
+    },
+    {
+      "x" : 0.17763157953477443,
+      "y" : 0.4963662789425872,
+      "text" : "[A] Severe acute secretory diarrhea (cholera)",
+      "w" : 0.2687969852230859,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18890977922932314,
+      "y" : 0.4862467701424749,
+      "text" : "[B] Rapid massive infusion of 0.9% normal saline",
+      "w" : 0.28759397044617185,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "x" : 0.18796992843045102,
+      "y" : 0.47458333330096264,
+      "text" : "[C] Proximal Renal Tubular Acidosis (Type 2 RTA)",
+      "w" : 0.2894736865199272,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19642856632205533,
+      "y" : 0.46361111103801866,
+      "text" : "[D] Chronic ureterosigmoidostomy urinary diversion",
+      "w" : 0.30639097760856626,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "x" : 0.23778195877819538,
+      "y" : 0.4534883721511628,
+      "text" : "[E] Diabetic Ketoacidosis, Lactic Acidosis, Uremia & Toxic Alcohols",
+      "w" : 0.3890977169780059,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7001879650140979,
+      "y" : 0.51819444440226,
+      "text" : "Q12. [2020 Exam] What clinical and biochemical profile definitively",
+      "w" : 0.3928571491255166,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6823308234962409,
+      "y" : 0.506527777866953,
+      "text" : "characterizes Type 4 (Hyperkalemic) Renal Tubular Acidosis?",
+      "w" : 0.3571428508744833,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6625939809445489,
+      "y" : 0.49636627901526165,
+      "text" : "[A] Severe hypokalemia with persistent urine pH > 6.5",
+      "w" : 0.3214285526234498,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6879699186090227,
+      "y" : 0.48546511623062016,
+      "text" : "[B] Hyporeninemic Hypoaldosteronism (Diabetic Nephropathy):",
+      "w" : 0.37218044782867543,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6165413505639099,
+      "y" : 0.4745833331556138,
+      "text" : "Hyperkalemia, NAGMA, urine pH < 5.3",
+      "w" : 0.22556391043426494,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6729323342481204,
+      "y" : 0.4636111111446079,
+      "text" : "[C] Massive hypercalcemia and hypophosphatemic rickets",
+      "w" : 0.34210525392029123,
+      "h" : 0.008888888888888835,
+      "conf" : 1
+    },
+    {
+      "x" : 0.679511282636278,
+      "y" : 0.45276162799781977,
+      "text" : "[D] Congenital deficiency of medullary NKCC2 cotransporter",
+      "w" : 0.3552631567400364,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6842105202380955,
+      "y" : 0.44113372090600766,
+      "text" : "[E] Severe metabolic alkalosis with urinary potassium wasting",
+      "w" : 0.3646616493515795,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.27067669736842087,
+      "y" : 0.42653746779172835,
+      "text" : "Q06. [2020 Exam] What is the diagnostic utility of calculating the Delta-Delta",
+      "w" : 0.4511278208685298,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2086466110275691,
+      "y" : 0.41569767432170546,
+      "text" : "(Delta AG \/ Delta HCO3-) ratio in a patient with HAGMA?",
+      "w" : 0.33082706717430127,
+      "h" : 0.00872092988755968,
+      "conf" : 1
+    },
+    {
+      "x" : 0.26127819981203004,
+      "y" : 0.4055555556290968,
+      "text" : "[A] Ratio < 1 indicates concurrent NAGMA; Ratio > 2 indicates concurrent",
+      "w" : 0.43233083564544394,
+      "h" : 0.008888889153798485,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7001879748355262,
+      "y" : 0.42653746779172835,
+      "text" : "Q13. [2024 Exam] Which urinary parameter clinically differentiates",
+      "w" : 0.3928571491255167,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6823308233709275,
+      "y" : 0.4149709300629845,
+      "text" : "Saline-Responsive from Saline-Resistant Metabolic Alkalosis?",
+      "w" : 0.3571428508744833,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6437969889332708,
+      "y" : 0.40485465126846265,
+      "text" : "[A] Serum uric acid concentration (< 2.0 mg\/dL)",
+      "w" : 0.2838345821772781,
+      "h" : 0.01029069794548887,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6165413556390977,
+      "y" : 0.3938888888114933,
+      "text" : "[B] Arterial blood PaO2 under room air",
+      "w" : 0.22556391043426494,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "x" : 0.21710526659774435,
+      "y" : 0.3829295866051785,
+      "text" : "[B] Differentiates viral meningitis from bacterial meningitis",
+      "w" : 0.3439849480547381,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7265037519110278,
+      "y" : 0.38292958650827913,
+      "text" : "[C] Urine Chloride: < 20 mEq\/L (Saline-Responsive: vomiting\/diuretics); > 20",
+      "w" : 0.4492481047947744,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2086466110275691,
+      "y" : 0.37136627904554265,
+      "text" : "[C] Determines hourly rate of IV potassium replacement",
+      "w" : 0.33082706717430127,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6381578980968046,
+      "y" : 0.3713662791606104,
+      "text" : "mEq\/L (Saline-Resistant: hyperaldosteronism)",
+      "w" : 0.2687969852230859,
+      "h" : 0.010174418555365605,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2105263102130328,
+      "y" : 0.36124677004557576,
+      "text" : "[D] Confirms complete recovery of renal tubular function",
+      "w" : 0.33458645544319515,
+      "h" : 0.01028423786163335,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6296992523809523,
+      "y" : 0.35973837216569765,
+      "text" : "[D] 24-hour urinary protein electrophoresis",
+      "w" : 0.25563908240334055,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20958646062030095,
+      "y" : 0.3495833331858949,
+      "text" : "[E] Directly measures the degree of alveolar dead space",
+      "w" : 0.3327067613087482,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6062030109962404,
+      "y" : 0.34958333328279395,
+      "text" : "[E] Serum albumin to globulin ratio",
+      "w" : 0.2086466193456259,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.499060159891917,
+      "y" : 0.33502906989462217,
+      "text" : "Q07. [2024 Exam] What is the biochemical principle of Urine Anion Gap (UAG Q14. [2022 Exam] What is the pathophysiological mechanism of 'Contraction",
+      "w" : 0.9078947460797089,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19642856638471193,
+      "y" : 0.32415697699228535,
+      "text" : "= Na + K - CI) in differentiating GI vs renal NAGMA?",
+      "w" : 0.3026315674003639,
+      "h" : 0.011686046388414195,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6898496178571432,
+      "y" : 0.3241569770407348,
+      "text" : "Alkalosis' following aggressive Loop Diuretic therapy in edema?",
+      "w" : 0.37218044782867543,
+      "h" : 0.011686046388414195,
+      "conf" : 1
+    },
+    {
+      "x" : 0.22086466604793223,
+      "y" : 0.3125000000726744,
+      "text" : "[A] Negative UAG indicates defective renal proton excretion",
+      "w" : 0.3515037465318341,
+      "h" : 0.008888888888888946,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6701127874999997,
+      "y" : 0.3131944443208128,
+      "text" : "[A] Direct conversion of sodium into bicarbonate by liver",
+      "w" : 0.3327067613087482,
+      "h" : 0.01027777777777783,
+      "conf" : 1
+    },
+    {
+      "x" : 0.2528195530263157,
+      "y" : 0.3015374678098969,
+      "text" : "[B] Negative UAG (< -10) indicates high unmeasured NH4+ (Diarrhea;",
+      "w" : 0.41541352261749637,
+      "h" : 0.0102971574995252,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6710526259398497,
+      "y" : 0.30153746771299766,
+      "text" : "[B] Massive respiratory hypoventilation raising pH > 7.70",
+      "w" : 0.33834584371208887,
+      "h" : 0.010297157499525311,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19172932650375935,
+      "y" : 0.2914244187318314,
+      "text" : "Positive UAG indicates impaired renal NH4+ (RTA)",
+      "w" : 0.293233074788821,
+      "h" : 0.010174418555365716,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6710526260025063,
+      "y" : 0.29069767461240303,
+      "text" : "[C] Suppression of proximal sodium-hydrogen antiporters",
+      "w" : 0.33834584371208887,
+      "h" : 0.011627906163533597,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20394736306390995,
+      "y" : 0.2805555556549623,
+      "text" : "[C] Positive UAG indicates massive GI bicarbonate loss",
+      "w" : 0.3214285526234498,
+      "h" : 0.008888888888888835,
+      "conf" : 1
+    },
+    {
+      "x" : 0.7274436033834588,
+      "y" : 0.28054909581179155,
+      "text" : "[D] ECF volume loss lacking HCO3- concentrates bicarbonate, plus secondary",
+      "w" : 0.45112782086852976,
+      "h" : 0.011679586304558676,
+      "conf" : 1
+    },
+    {
+      "x" : 0.19830826550751895,
+      "y" : 0.26958333350708635,
+      "text" : "[D] UAG is universally zero in all metabolic disorders",
+      "w" : 0.31015036587746,
+      "h" : 0.010277777777777719,
+      "conf" : 1
+    },
+    {
+      "x" : 0.614661652819549,
+      "y" : 0.26888888908937436,
+      "text" : "aldosteronism distal H+\/K+ excretion",
+      "w" : 0.22180450022606257,
+      "h" : 0.011666666666666714,
+      "conf" : 1
+    },
+    {
+      "x" : 0.20676692133458632,
+      "y" : 0.2579295865870098,
+      "text" : "[E] Positive UAG indicates primary respiratory alkalosis",
+      "w" : 0.32330826869720525,
+      "h" : 0.01030361758338083,
+      "conf" : 1
+    },
+    {
+      "x" : 0.6475563861842106,
+      "y" : 0.2586563306474395,
+      "text" : "[E] Excessive intake of dietary acidic citrus juices",
+      "w" : 0.2913533806543741,
+      "h" : 0.011757105721367789,
+      "conf" : 1
+    },
+    {
+      "x" : 0.5000000117011276,
+      "y" : 0.013808139698401167,
+      "text" : "Twisted Medicine Medical Series • Acid-Base & Electrolyte Disorders in Nephrology T6Tard Practice Bank Confidential - Dedicated for Medical Student Revision",
+      "w" : 0.9360901800357208,
+      "h" : 0.01598837216695148,
+      "conf" : 1
+    }
+  ],
+  "page" : 163
+}

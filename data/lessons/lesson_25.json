@@ -1,0 +1,857 @@
+{
+  "id": 25,
+  "title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+  "department": "Microbiology",
+  "department_desc": "Urinary microbiome, bacterial, viral and fungal urinary tract infections",
+  "booklet_pages": "Pages 97 - 100",
+  "pdf_pages": [
+    99,
+    100,
+    101,
+    102
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 26 - HIGH-YIELD UTI MICROBIOLOGY & PATHOLOGY MATRIX",
+  "summary_table": [
+    {
+      "domain": "Staphylococcus saprophyticus",
+      "content": "Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S."
+    },
+    {
+      "domain": "(Honeymoon Cystitis)",
+      "content": "epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin."
+    },
+    {
+      "domain": "Proteus mirabilis",
+      "content": "Gram(-) bacilli, highly motile (swarming on Forms Struvite / Staghorn Calculi casting Abundant Urease splits urea -> NH3 + C02; pelvicalyceal system. Coffin-lid crystals. Rx: blood agar), non-lactose fermenter, elevates urine pH > 7.2-8.0, precipitating"
+    },
+    {
+      "domain": "(Stone-Promoting Uropathogen)",
+      "content": "Mg2+ & NH4+ phosphates."
+    },
+    {
+      "domain": "urease(++), H2S(+).",
+      "content": "Ciprofloxacin, Ceftriaxone, stone removal. Klebsiella: Non-motile, thick capsule, mucoid Complicated UTIs, catheter sepsis, Biofilm formation on indwelling Foley"
+    },
+    {
+      "domain": "Klebsiella pneumoniae &",
+      "content": "bacteremia in ICU/debilitated. Rx: catheters. High intrinsic and acquired"
+    },
+    {
+      "domain": "Pseudomonas",
+      "content": "Pseudomonas: Oxidase(+), non-fermenter, Ceftriaxone/Cefepime for Klebsiella; multidrug resistance (ESBLs, AmpC)."
+    },
+    {
+      "domain": "(Hospital / CAUTI",
+      "content": "Piperacillin-tazo/Carbapenem for blue-green pigments. Pseudomonas. M. tuberculosis: Acid-fast bacilli. Sterile Pyuria (pus cells with sterile routine Urogenital TB: anti-TB (RIPE). Chlamydia:"
+    },
+    {
+      "domain": "Special Uropathogens:",
+      "content": "Doxycycline / Azithromycin. Adenovirus: C. trachomatis: Obligate intracellular. culture). M. tb: hematogenous caseation."
+    },
+    {
+      "domain": "Renal TB, Chlamydia, Adenovirus,",
+      "content": "Adenovirus (11/21): Naked dsDNA. Adenovirus: hemorrhagic cystitis. Leptospira: hydration. Leptospira: Doxycycline /"
+    },
+    {
+      "domain": "Leptospira",
+      "content": "Weil's disease. Leptospira: Spirochete (dark-field). Penicillin G."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "In microbiological terms, what quantitative colony Q08. 2022 Exam] Which microorganism is the single most common count obtained from a clean-catch midstream urine void defines 'Significant Bacteriuria' in an asymptomatic individual?",
+      "options": {
+        "A": ">= 10^2 CFU/mL of any skin flora",
+        "B": ">= 10^5 CFU/mL of a single bacterial species",
+        "C": "Any detectable bacteria regardless of count",
+        "D": "Exactly 10^4 CFU/mL of polymicrobial organisms",
+        "E": ">= 10^7 CFU/mL accompanied by heavy hematuria"
+      },
+      "correct_option": "B",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Regarding the normal microbiology of the human urinary tract, which of the following anatomical statements is",
+      "options": {
+        "A": "Bladder urine and the upper tract are normally sterile; the anterior urethra contains normal resident commensals",
+        "B": "The ureteral lumens are lined by permanent protective biofilms",
+        "C": "The posterior urethra is heavily populated with anaerobic Bacteroides",
+        "D": "Normal voided urine frequently contains >10^5 CFU/mL of resident flora",
+        "E": "The renal pelvis is normally colonized by Gram-negative enteric bacilli"
+      },
+      "correct_option": "A",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Asymptomatic Bacteriuria is very common and generally does NOT require treatment EXCEPT in which high-risk",
+      "options": {
+        "A": "Well-controlled young diabetics without complications",
+        "B": "Pregnant women, prior to urologic procedures with bleeding, and early post-renal transplant",
+        "C": "Patients with stable chronic spinal cord injury",
+        "D": "Premenopausal non-pregnant sexually active females",
+        "E": "Healthy elderly men with mild nocturia"
+      },
+      "correct_option": "B",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Which constellation of clinical signs and symptoms is characteristic of Lower Urinary Tract Infection (Acute",
+      "options": {
+        "A": "High fever (>38.5 C), shaking rigors, and costovertebral angle tenderness",
+        "B": "Severe loin-to-groin spasmodic colicky pain with normal urine microscopy",
+        "C": "Bilateral pitting pedal edema and massive selective albuminuria",
+        "D": "Dysuria, urgency, urinary frequency, and suprapubic pain WITHOUT fever or flank pain",
+        "E": "Painless gross hematuria with palpable flank mass"
+      },
+      "correct_option": "D",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Which clinical feature or laboratory finding definitively distinguishes Acute Pyelonephritis (Upper UTI) from uncomplicated Acute Cystitis?",
+      "options": {
+        "A": "Spontaneous relief of symptoms upon bladder voiding",
+        "B": "Presence of urinary frequency and mild dysuria",
+        "C": "Positive urine dipstick test for leukocyte esterase [DJ Grossly turbid urine with ammonia odor",
+        "E": "Fever, chills, costovertebral angle (CVA) tenderness, and White Blood Cell (WBC) casts"
+      },
+      "correct_option": "E",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What is the primary anatomical route of infection in more than 95% of both community-acquired and hospital-acquired urinary tract infections?",
+      "options": {
+        "A": "Direct transmural lymphatic spread from the descending colon",
+        "B": "Retrograde transmission from infected prostate secretions",
+        "C": "Ascending infection of fecal flora from perineum through the urethra into",
+        "D": "Direct extension from acute pelvic inflammatory disease",
+        "E": "Direct hematogenous seeding from distant skin furuncles"
+      },
+      "correct_option": "C",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Why are adult females ~30 times more susceptible to uncomplicated UTIs than males of the same age?",
+      "options": {
+        "A": "Total absence of secretory lgA along female urothelium",
+        "B": "Frequent reflux of pelvic venous blood into bladder",
+        "C": "Production of acidic urine dissolving the barrier",
+        "D": "Incompetence of vesicoureteral valves in women",
+        "E": "Short urethra (~4 cm) near the anus, plus sexual intercourse"
+      },
+      "correct_option": "E",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 8 covering high-yield concepts in Urinary Tract Infections - Microbiology & Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Which virulence factor possessed by Uropathogenic E. coli (UPEC) mediates initial adherence to mannosylated uroplakin proteins on superficial bladder facet cells?",
+      "options": {
+        "A": "Type 1 (Mannose-Sensitive) Fimbriae (FimH adhesin)",
+        "B": "Pyelonephritis-associated P-fimbriae",
+        "C": "Vi capsular polysaccharide antigen [DJ Exotoxin A inhibiting protein elongation factor-2",
+        "E": "Lecithinase C dissolving basement membrane lipids"
+      },
+      "correct_option": "A",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "What specialized virulence factor enables specific uropathogenic E. coli strains to ascend the ureters and adhere to renal tubular epithelial cells, causing Acute Pyelonephritis?",
+      "options": {
+        "A": "Staphylococcal enterotoxin B",
+        "B": "Secretory component of human IgA",
+        "C": "M-protein resisting opsonization",
+        "D": "P-fimbriae (Pap pili) binding to Gal(alpha 1-4)Gal digalactoside receptors",
+        "E": "Pertussis-like toxin stimulating adenylate cyclase"
+      },
+      "correct_option": "D",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "What is the primary role of the capsular K-antigen in Uropathogenic E. coli strains causing pyelonephritis?",
+      "options": {
+        "A": "Cleaving host secretory antibodies in the lumen",
+        "B": "Binding specifically to beta-adrenergic receptors",
+        "C": "Resisting complement bactericidal activity and phagocytosis",
+        "D": "Synthesizing calcium oxalate crystals in tubules",
+        "E": "Hydrolyzing urea to create an alkaline environment"
+      },
+      "correct_option": "C",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Alpha-Hemolysin produced by virulent uropathogenic E. coli strains promotes parenchymal renal damage by:",
+      "options": {
+        "A": "Directly phosphorylating ENaC channels in principal cells",
+        "B": "Creating transmembrane pores that lyse host red blood cells and renal tubular epithelial cells",
+        "C": "Converting tubular bicarbonate into carbon dioxide gas",
+        "D": "Inhibiting mitochondrial ATP synthesis in podocytes",
+        "E": "Degrading Tamm-Horsfall mucoprotein in medullary collecting ducts"
+      },
+      "correct_option": "B",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "On selective and differential MacConkey Agar, colonies of Escherichia coli isolated from a urine specimen typically appear as:",
+      "options": {
+        "A": "Black colonies with central hydrogen sulfide precipitation",
+        "B": "Completely inhibited with zero visible bacterial growth",
+        "C": "Colorless, translucent colonies due to absence of lactose fermentation",
+        "D": "Flat, dry, rose-pink colonies due to rapid lactose fermentation with bile salt precipitation",
+        "E": "Mucoid, sticky, pale-green colonies with metallic sheen"
+      },
+      "correct_option": "D",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Biochemically, Escherichia coli is differentiated from other Gram-negative enteric bacilli by which classic IMViC reaction pattern?",
+      "options": {
+        "A": "Hydrogen sulfide producing, phenylalanine deaminase positive",
+        "B": "Indole (-), Methyl Red (-), Voges-Proskauer (+), Citrate (+) [-++]",
+        "C": "Indole (+), Methyl Red (+), Voges-Proskauer (-), Citrate (-) [++-]",
+        "D": "Oxidase positive, non-motile, and urease positive",
+        "E": "Catalase negative, coagulase positive, and non-motile"
+      },
+      "correct_option": "E",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Urinary Tract Infections - Microbiology & Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "B",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "How is Staphylococcus saprophyticus differentiated from Staphylococcus epidermidis in the laboratory?",
+      "options": {
+        "A": "S. saprophyticus is an obligate anaerobe",
+        "B": "S. saprophyticus is coagulase positive",
+        "C": "S. saprophyticus is Novobiocin-Resistant; S. epidermidis is Sensitive",
+        "D": "S. saprophyticus forms golden pigment",
+        "E": "S. saprophyticus is catalase negative"
+      },
+      "correct_option": "C",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Catheter-Associated Urinary Tract Infection (CAUTI) is an immense healthcare burden primarily because it represents:",
+      "options": {
+        "A": "An infection that spontaneously resolves without any interventions",
+        "B": "A condition completely restricted to pediatric neonatal units",
+        "C": "A rare disease affecting fewer than 0.01% of ICU patients",
+        "D": "An exclusively fungal infection caused by dermatophytes",
+        "E": "The single most common Hospital-Acquired (Nosocomial) infection worldwide"
+      },
+      "correct_option": "E",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "What is the critical pathophysiological mechanism that enhances bacterial survival, colonizes catheter surfaces, and resists antimicrobial eradication in CAUTI?",
+      "options": {
+        "A": "Production of high-voltage electrical currents by silicone catheters",
+        "B": "Continuous ultra-rapid flushing of urine through the catheter lumen",
+        "C": "Destruction of bacterial cell walls by urinary Tamm-Horsfall protein",
+        "D": "Complete suppression of bacterial pili expression within the bladder",
+        "E": "Bacterial Biofilm Formation on inner and outer catheter surfaces, protecting microbes from host defenses and antibiotics"
+      },
+      "correct_option": "E",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Proteus mirabilis is notorious in urinary tract pathology because it produces an abundance of which enzyme that profoundly alters urinary chemistry?",
+      "options": {
+        "A": "Beta-lactamase destroying penicillins",
+        "B": "Catalase, which converts hydrogen peroxide to water",
+        "C": "Amylase, which hydrolyzes dietary glycogen in urine",
+        "D": "Urease, which splits urea into ammonia and CO2, raising urine pH to >7.2-8.0",
+        "E": "Hyaluronidase, which breaks down urothelial ground substance"
+      },
+      "correct_option": "D",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "What major pathological and urological complication is directly promoted by persistent Protes urinary tract infection? [Al Selective renal tubular acidosis with profound hypocalciuria",
+      "options": {
+        "B": "Formation of Staghorn Calculi composed of Magnesium Ammonium Phosphate (Struvite)",
+        "C": "Formation of radiolucent uric acid stones in acidic urine",
+        "D": "Acute hemorrhagic pancreatitis with hypocalcemia",
+        "E": "Diffuse crescentic glomerulonephritis with pulmonary hemorrhage"
+      },
+      "correct_option": "B",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "What characteristic phenotypic culture hallmark is exhibited by Proteus mirabilis when inoculated onto standard Blood Agar plates?",
+      "options": {
+        "A": "Production of brilliant golden-yellow beta-hemolytic colonies",
+        "B": "Complete absence of growth unless incubated in 10% C02",
+        "C": "Dramatic 'Swarming' Motility, producing concentric cyclic waves of spreading growth across the entire agar surface",
+        "D": "Blue-green water-soluble pigmentation with grape-like odor",
+        "E": "Mucoid pink colonies that drip onto the petri dish lid"
+      },
+      "correct_option": "C",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Urinary Tract Infections - Microbiology & Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "An ICU patient with a Foley catheter develops sepsis. Urine culture yields an oxidase-positive Gram-negative rod producing green pigment. Diagnosis:",
+      "options": {
+        "A": "Klebsiella oxytoca",
+        "B": "Enterobacter cloacae",
+        "C": "Escherichia coli",
+        "D": "Pseudomonas aeruginosa",
+        "E": "Serratia marcescens"
+      },
+      "correct_option": "D",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Which microbiological profile identifies Enterococcus faecalis (Group D Streptococcus) causing nosocomial UTIs?",
+      "options": {
+        "A": "Gram-negative bacilli that produce urease and swarm",
+        "B": "Acid-fast bacilli forming cords on Lowenstein-Jensen",
+        "C": "Catalase positive Gram-positive cocci in clusters",
+        "D": "Branching filamentous Gram-positive rods",
+        "E": "Catalase-negative Gram(+) cocci in pairs, hydrolyzing Bile Esculin in 6.5% NaCl"
+      },
+      "correct_option": "E",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Hematogenous seeding of the kidney leading to multiple bilateral renal cortical microabscesses is most typically caused by which organism?",
+      "options": {
+        "A": "Chlamydia trachomatis from genital tract",
+        "B": "Proteus mirabilis from a bladder stone",
+        "C": "Streptococcus pneumoniae from lobar pneumonia",
+        "D": "Staphylococcus aureus secondary to bacteremia, IV drug abuse, or infective endocarditis",
+        "E": "Uropathogenic E. coli from the rectal vault"
+      },
+      "correct_option": "D",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which behavioral and hygiene measure is universally recommended to prevent recurrent ascending urinary tract infections in women?",
+      "options": {
+        "A": "Routine daily prophylactic use of over-the-counter ciprofloxacin",
+        "B": "Wiping from back to front following bowel movements",
+        "C": "Wiping strictly from front to back after defecation to avoid introducing rectal enterobacteria into the periurethral area",
+        "D": "Restricting daily oral fluid intake to less than 500 mL",
+        "E": "Regular use of spermicidal diaphragms and vaginal douching"
+      },
+      "correct_option": "E",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "In addition to Proteus species, which pair of uropathogens possesses Urease activity capable of hydrolyzing urea and generating ammonia?",
+      "options": {
+        "A": "Escherichia coli and Enterococcus faecalis",
+        "B": "Klebsiella pneumoniae and Staphylococcus saprophyticus (plus Ureaplasma urealyticum)",
+        "C": "Streptococcus pyogenes and Streptococcus pneumoniae",
+        "D": "Chlamydia trachomatis and Neisseria gonorrhoeae",
+        "E": "Adenovirus and Polyomavirus BK"
+      },
+      "correct_option": "B",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "On MacConkey agar, which two uropathogens fail to ferment lactose, producing pale, colorless, or translucent colonies?",
+      "options": {
+        "A": "Enterobacter cloacae and Citrobacter freundii",
+        "B": "Escherichia coli and Klebsiella pneumoniae",
+        "C": "Candida albicans and Candida glabrata",
+        "D": "Staphylococcus aureus and Enterococcus faecalis",
+        "E": "Proteus mirabilis and Pseudomonas aeruginosa"
+      },
+      "correct_option": "E",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Urinary Tract Infections - Microbiology & Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "E",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Urogenital Tuberculosis (Mycobacterium tuberculosis) classically presents with which clinical and diagnostic features?",
+      "options": {
+        "A": "Flea-bitten petechiae with malignant hypertension",
+        "B": "Rapidly progressive crescentic GN with positive ANCA",
+        "C": "Bilaterally enlarged kidneys with positive blood culture",
+        "D": "Sterile pyuria, microscopic hematuria, and acid-fast bacilli on ZN stain",
+        "E": "Bilateral staghorn calculi composed of cystine"
+      },
+      "correct_option": "D",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "A 22-year-old male presents with dysuria and urethral discharge. Urinalysis shows pyuria, but routine bacterial culture is sterile. Diagnosis:",
+      "options": {
+        "A": "Chlamydia trachomatis (causing non-gonococcal urethritis)",
+        "B": "Enterococcus faecalis |",
+        "C": "Proteus vulgaris",
+        "D": "Uropathogenic Escherichia coli",
+        "E": "Pseudomonas aeruginosa"
+      },
+      "correct_option": "A",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "Acute Hemorrhagic Cystitis presenting with sudden gross hematuria, dysuria, and suprapubic pain in young schoolboys or bone marrow transplant recipients is typically caused by:",
+      "options": {
+        "A": "Adenovirus (subgroups 11 and 21) or Polyomavirus BK B Parvovirus B19",
+        "C": "Epstein-Barr Virus",
+        "D": "Human Papillomavirus type 16",
+        "E": "Hepatitis B Virus"
+      },
+      "correct_option": "A",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In kidney transplant recipients, reactivation of Polyomavirus BK in the allograft produces which clinical and pathological entity?",
+      "options": {
+        "A": "Extensive amyloid AL fibril deposition in glomeruli",
+        "B": "Minimal change disease with steroid responsiveness",
+        "C": "Bilateral acute cortical necrosis within 24 hours",
+        "D": "Polyomavirus Nephropathy with viral inclusions (Decoy cells' in urine) and allograft tubulointerstitial damage",
+        "E": "Clear cell renal cell carcinoma of the donor kidney"
+      },
+      "correct_option": "D",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "Leptospirosis (caused by Leptospira interrogans) is a zoonosis transmitted by contact with water contaminated with rodent urine. Its severe form (Weil's Disease) is characterized by:",
+      "options": {
+        "A": "Biphasic illness with fever, severe jaundice, widespread hemorrhages, and Acute Kidney Injury (nitrogen retention)",
+        "B": "Pure urethritis with copious purulent discharge and zero systemic signs",
+        "C": "Nephrotic syndrome, generalized edema, and profound hypercalcemia",
+        "D": "Bilateral renal artery fibromuscular dysplasia with malignant hypertension",
+        "E": "Chronic staghorn calculus formation with hyperparathyroidism"
+      },
+      "correct_option": "A",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "Which patient group is at highest risk for Fungal Urinary Tract Infection (Candiduria / Renal Candidiasis caused by Candida albicans)?",
+      "options": {
+        "A": "Diabetic patients, immunocompromised hosts, and hospitalized patients with indwelling Foley catheters on broad-spectrum antibiotics",
+        "B": "Patients with Gilbert syndrome and mild indirect hyperbilirubinemia",
+        "C": "Healthy young athletes consuming high-protein diets",
+        "D": "Schoolchildren with uncomplicated enterobiasis",
+        "E": "Elderly patients with untreated uncomplicated hypertension"
+      },
+      "correct_option": "A",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Urinary Tract Infections - Microbiology & Pathology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In young girls, nighttime perianal itching, restlessness, nocturnal enuresis, and recurrent ascending bacterial cystitis are frequently caused by aberrant perineal migration of:",
+      "options": {
+        "A": "Ancylostoma duodenale|",
+        "B": "Enterobius vermicularis (pinworm / threadworm, diagnosed via perianal Scotch-tape test)",
+        "C": "Strongyloides stercoralis",
+        "D": "Ascaris lumbricoides",
+        "E": "Fasciola hepatica"
+      },
+      "correct_option": "B",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "Accidental or facultative Urogenital Myiasis (infestation of the urinary passages by fly larvae) is most frequently caused in Egypt by larvae of which dipterous fly?",
+      "options": {
+        "A": "Wohlfartia magnifica",
+        "B": "Fannia canicularis / Fannia scalaris (the latrine fly) [C Dermatobia hominis [D Ostrus ovis",
+        "E": "Glossina palpalis",
+        "C": "Option C",
+        "D": "Option D"
+      },
+      "correct_option": "B",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Why can the chemical urine dipstick Nitrite test yield a FALSE-NEGATIVE result in a confirmed symptomatic UTI?",
+      "options": {
+        "A": "E. coli produces excess nitrite that bleaches the pad",
+        "B": "Pathogen lacks nitrate reductase (e.g., Enterococcus/Staph) or short incubation (<4h)",
+        "C": "Protein in urine irreversibly activates the pad",
+        "D": "Proteus converts all nitrite into inert argon gas",
+        "E": "The patient consumed large amounts of dietary nitrates"
+      },
+      "correct_option": "B",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "In a symptomatic woman with acute dysuria, what minimum colony count of E. coli in clean-catch urine defines significant cystitis?",
+      "options": {
+        "A": ">= 10^3 CFU/mL (or >= 10^2 CFU/mL of coliforms)",
+        "B": "Any count of polymicrobial flora > 10^4 CFU/mL",
+        "C": "Exactly 10^5 CFU/mL in two consecutive specimens",
+        "D": ">= 10^6 CFU/mL with visible macrocysts",
+        "E": ">= 10^7 CFU/mL"
+      },
+      "correct_option": "A",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "A 26-year-old pregnant female (20 weeks) has fever (39 C), rigors, right CVA tenderness, and WBC casts. Diagnosis and SAFE antibiotic class:",
+      "options": {
+        "A": "Acute Pyelonephritis in Pregnancy; treated with IV Beta-lactams (e.g., Ceftriaxone)",
+        "B": "Renal Papillary Necrosis; treated with indomethacin",
+        "C": "Acute Interstitial Nephritis; treated with tetracycline",
+        "D": "Asymptomatic bacteriuria; requires observation only",
+        "E": "Acute Cystitis; treated with oral Ciprofloxacin"
+      },
+      "correct_option": "A",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A 72-year-old male with a Foley catheter develops fever and cloudy urine. Urine has pH 8.4, coffin-lid crystals, and motile urease(+) rods. Diagnosis and risk:",
+      "options": {
+        "A": "Escherichia coli; risk of minimal change disease",
+        "B": "Enterococcus faecalis; risk of cortical necrosis",
+        "C": "Staphylococcus saprophyticus; risk of honeymoon cystitis",
+        "D": "Pseudomonas aeruginosa; risk of crescentic GN",
+        "E": "Proteus mirabilis; risk of infected Struvite Staghorn Calculi"
+      },
+      "correct_option": "E",
+      "explanation": "**Staphylococcus saprophyticus**: Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S.\n\n**(Honeymoon Cystitis)**: epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin.",
+      "masterclass_id": 25,
+      "masterclass_title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology"
+    }
+  ]
+}

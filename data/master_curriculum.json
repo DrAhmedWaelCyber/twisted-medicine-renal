@@ -1,0 +1,801 @@
+{
+  "series": "Twisted Medicine",
+  "module": "Renal System Module",
+  "total_masterclasses": 43,
+  "total_questions": 1806,
+  "departments": [
+    [
+      1,
+      5,
+      "Anatomy & Embryology",
+      "Anatomy and embryonic development of the kidneys, ureters, bladder and urethra"
+    ],
+    [
+      6,
+      9,
+      "Histology",
+      "Microscopic architecture of renal cortex, filtration barrier, loop of Henle and vasculature"
+    ],
+    [
+      10,
+      18,
+      "Physiology",
+      "Hemodynamics, autoregulation, GFR, tubular transport, countercurrent multiplier, acid-base and RFTs"
+    ],
+    [
+      19,
+      19,
+      "Pharmacology",
+      "Diuretics, osmotic agents, carbonic anhydrase inhibitors and gout therapy"
+    ],
+    [
+      20,
+      24,
+      "Pathology",
+      "Glomerulonephritis, nephrotic syndrome, ATN, CKD, pyelonephritis and urological tumors"
+    ],
+    [
+      25,
+      26,
+      "Microbiology",
+      "Urinary microbiome, bacterial, viral and fungal urinary tract infections"
+    ],
+    [
+      27,
+      27,
+      "Parasitology",
+      "Schistosoma haematobium, Enterobius vermicularis, Hydatid disease and Trichomonas"
+    ],
+    [
+      28,
+      31,
+      "Clinical Biochemistry",
+      "Purine metabolism, uric acid, clinical enzymology, biomarkers, inborn errors and stone chemistry"
+    ],
+    [
+      32,
+      33,
+      "Pharmacology & Epidemiology",
+      "Urinary tract pharmacology, uroselective blockers, anticholinergics and renal epidemiology"
+    ],
+    [
+      34,
+      43,
+      "Clinical Nephrology & Urology",
+      "Clinical approach, AKI, dialysis, nephrotic/nephritic syndrome, renovascular hypertension, cystics and oncology"
+    ]
+  ],
+  "masterclasses": [
+    {
+      "id": 1,
+      "title": "Kidney - Anatomy Lecture",
+      "department": "Anatomy & Embryology",
+      "booklet_pages": "Pages 1 - 4",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Vertebral Level & Dimensions",
+          "content": "• Vertebral Extent: T12 to L3; Right Kidney is -1.5 cm lower due to right hepatic lobe. • Dimensions: 12 × 6 × 3 cm. Average weight: 150 g in males, 135 g in females. • Hilum: Vertical slit at medial border opposite L1 (Transpyloric plane)."
+        },
+        {
+          "domain": "Renal Hilum & Coverings",
+          "content": "• Hilum Order (Ant to Post): Vein -> Artery - Pelvis (V-A-P). • 4 Protective Layers: (1) Fibrous capsule (strips easily in health), (2) Perirenal fat, (3) Gerota's renal fascia (splits into anterior Toldt & posterior Zuckerkandl), (4) Pararenal fat. • Critical Point: Gerota's fascia remains open INFERIORLY -> allows extravasated pus/urine/blood to track into pelvis."
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Ureter, Urinary Bladder - Anatomy Lecture",
+      "department": "Anatomy & Embryology",
+      "booklet_pages": "Pages 5 - 8",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Ureter Dimensions & 3",
+          "content": "• 1. Ureteropelvic Junction (UPJ): Level of L1 vertebra where renal pelvis narrows into ureter. • 2. Pelvic Brim Crossing: Bifurcation of Common Iliac / External Iliac vessels over sacroiliac joint."
+        },
+        {
+          "domain": "Constrictions",
+          "content": "• 3. Ureterovesical Junction (UVJ): Intramural oblique tunnel (1.5-2 cm); narrowest site (3 mm) -> primary stone impaction &"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Anatomy of Urethra (Male & Female) - Anatomy Tutorial",
+      "department": "Anatomy & Embryology",
+      "booklet_pages": "Pages 9 - 12",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Prostatic Urethra & Crest",
+          "content": "- Narrowest Points: External urethral meatus is narrowest overall (rigid); membranous urethra is narrowest and least dilatable inside. • Widest Points: Prostatic urethra (most dilatable) and Fossa Navicularis in glans penis. • Posterior Wall Features: Urethral crest -> expands into Colliculus Seminalis (Verumontanum). • Prostatic Utricle: Blind cul-de-sac at center of verumontanum; homologue of female Uterus and Vagina. • Ejaculatory Ducts: Open on either side of the prostatic utricle. • Prostatic Sinuses: Grooves on sides of crest receiving 15-20 ducts of the prostatic gland. • BPH vs Cancer: BPH affects periurethral Transition Zone (early obstruction); Cancer affects Peripheral Zone (posterior, no early obstruction). • Membranous Urethra: Traverses Deep Perineal Pouch; surrounded by striated External Urethral Sphincter (Pudendal nerve S2-S4)."
+        },
+        {
+          "domain": "Membranous & Spongy",
+          "content": "• Cowper's (Bulbourethral) Glands: Lie in deep perineal pouch; ducts pierce perineal membrane to open into bulbous spongy urethra."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Development of the Kidney - Embryology Lecture",
+      "department": "Anatomy & Embryology",
+      "booklet_pages": "Pages 13 - 16",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Developmental Domain",
+          "content": "High-Yield Embryological Milestones, Derivatives & Board Pearls"
+        },
+        {
+          "domain": "3 Successive Renal Systems",
+          "content": "• Pronephros: Early week 4 (cervical); completely non-functional in humans; full regression by end week 4. • Mesonephros: Late week 4-10 (thoracolumbar); produces primitive dilute urine; Wolffian duct persists in males (epididymis, vas deferens, ejaculatory duct, seminal vesicles). • Metanephros: Week 5 onward (sacral S1-S2); permanent kidney; urine filtration starts at Week 12. • Ureteric Bud (Collecting System): Outgrowth of caudal Wolffian duct -> Ureter, Renal Pelvis, Major Calyces (2-3), Minor Calyces (8-18),"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology",
+      "booklet_pages": "Pages 17 - 20",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Urogenital Sinus Divisions & Derivatives",
+          "content": "Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization)."
+        },
+        {
+          "domain": "Bladder Trigone & Accessory Glands",
+          "content": "• Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "title": "General Structure of the Kidney - Histology Lecture",
+      "department": "Histology",
+      "booklet_pages": "Pages 21 - 24",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Renal Stroma & Interstitium",
+          "content": "• Capsule: Dense irregular collagenous CT with contractile myofibroblasts. • Cortical Interstitial Cells: Fibroblast-like cells produce Erythropoietin (EPO) in hypoxia. • Medullary Interstitial Cells: Lipid-laden interstitial cells synthesize PGE2 and Medullipin I (vasodepressor lipid). • Cortex (Granular): Renal corpuscles, PCTs, DCTs, and cortical labyrinths."
+        },
+        {
+          "domain": "Cortex vs. Medulla & Lobules",
+          "content": "• Medullary Rays (Ferrein): Parallel straight tubules (loops of Henle) & collecting ducts radiating from medullary base. • Renal Lobe: 1 pyramid + overlying cortex + 1/2 adjacent Bertin columns (~8-18 per kidney). • Renal Lobule: Central medullary ray + surrounding cortical labyrinths, delimited laterally by Interlobular Arteries. • Nephron Composition: Corpuscle, PCT, loop of Henle, DCT. (Collecting ducts are NOT part of nephron proper)."
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "title": "Glomerular Blood Capillaries & Renal Barrier - Histology Lecture",
+      "department": "Histology",
+      "booklet_pages": "Pages 25 - 28",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Glomerular Basement",
+          "content": "• Thickness: 300-350 nm (fused endothelial & podocyte basal laminae). • Goodpasture: Autoantibodies vs. a3(IV) NC1 domain -> rapidly • 3 Layers: Lamina rara interna, Lamina densa (Type IV collagen a3, a4,"
+        },
+        {
+          "domain": "Membrane (GBM)",
+          "content": "progressive GN & lung hemorrhage. • Alport Syndrome: COL4A5 mutation -> split/basket-weave GBM + a5 + laminin), Lamina rara externa (heparan sulfate proteoglycans). deafness + hematuria. • Visceral epithelial cells with primary processes & interdigitating • Minimal Change Disease: Effacement/flattening of pedicels due to"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "title": "Loop of Henle - Histology Lecture",
+      "department": "Histology",
+      "booklet_pages": "Pages 29 - 32",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "present but shorter with fewer microvilli than",
+          "content": "organic solutes, glucose, and amino acids; water"
+        },
+        {
+          "domain": "(Pars Recta of PCT)",
+          "content": "medulla; high metabolic demand renders it"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "title": "Glomerular & Non-Glomerular Renal Blood Supply - Histology Lecture",
+      "department": "Histology",
+      "booklet_pages": "Pages 33 - 36",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Glomerular Portal System",
+          "content": "Afferent arteriole enters vascular pole; branches into 5 lobules of fenestrated Arteriole-capillary-arteriole system generates high hydrostatic capillaries (Pgc ~50 mmHg); exits as narrower efferent arteriole. Positioned pressure necessary for continuous ultrafiltration; JG cells in"
+        },
+        {
+          "domain": "between 2 resistance vessels.",
+          "content": "afferent media release renin. Arise from efferent arterioles of cortical nephrons (~85%); form extensive Starling forces massively favor rapid tubular reabsorption of water,"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "title": "Renal Circulation & Autoregulation of RBF - Physiology Lecture",
+      "department": "Physiology",
+      "booklet_pages": "Pages 37 - 40",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Renal Blood Flow (RBF) &",
+          "content": "Total RBF = 1200-1250 mL/min (20-25% CO). Hematocrit ~45% -> RPF = ~650 High cortical flow generates high glomerular capillary pressure mL/min. Cortex receives ~90-93% (high flow for filtration); Medulla receives (Pgc ~50 mmHg); low medullary flow prevents countercurrent"
+        },
+        {
+          "domain": "Distribution",
+          "content": "solute washout. ~7-10% (sluggish flow in vasa recta). A-V 02 extraction is very low (~10-15%) because blood flow massively exceeds metabolic demand."
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "title": "Physiology of Glomerular Filtration Rate - Physiology Lecture",
+      "department": "Physiology",
+      "booklet_pages": "Pages 41 - 44",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Starling Forces & Net",
+          "content": "volume is reabsorbed along the nephron, yielding ~ 1-1.5 L/day final urine. mL/min requiring dialysis or transplant). Filtration equilibrium occurs when pi_gc rises to equal (Pgc - Pbs), Pgc ~50-55 mmHg (favors, constant along loop). Pbs ~15-18 mmHg (opposes). pi_gc ~28->36 mmHg (opposes, rises progressively as protein halting ultrafiltration before blood exits into the efferent arteriole (seen"
+        },
+        {
+          "domain": "Filtration Pressure (NFP)",
+          "content": "concentrates). pi_bs ~0 mmHg. NFP = (Pgc - Pbs) - (pi_gc - pi_bs) = ~10 at low plasma flow states)."
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "title": "Renal Tubular Reabsorption & Secretion - Physiology Lecture",
+      "department": "Physiology",
+      "booklet_pages": "Pages 45 - 48",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Q11 [2025 ]",
+          "content": "Q39 [2025 ] Q25 [Facul] [D LE Q40 [Facul] Q26 [2022 ]"
+        },
+        {
+          "domain": "Q12 [2020 ]",
+          "content": "1 [C [B [D"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "title": "The Countercurrent Multiplying & Exchanging Systems - Physiology Lecture",
+      "department": "Physiology",
+      "booklet_pages": "Pages 49 - 52",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "vertical length.",
+          "content": "recycling, water impermeable -> Single Effect (~200 mOsm/kg) multiplied along dissipate the gradient completely. Hairpin capillary loops descending and ascending in parallel with Henle loops."
+        },
+        {
+          "domain": "Countercurrent Exchanger",
+          "content": "Passively preserves the hypertonic gradient without washout. Highly permeable to water and solutes. Passive exchange: descending limb"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "title": "Renal Handling of Different Plasma Constituents - Physiology Lecture",
+      "department": "Physiology",
+      "booklet_pages": "Pages 53 - 56",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Major Nephron Sites & Transporters",
+          "content": "Clinical Disorders & Pharmacology Regulatory Hormones & Driving Factors Ang II: stimulates PCT NHE3 & Na+/K+ ATPase. FENa: <1% in Prerenal Azotemia vs > 2% in ATN. PCT (~67% via NHE3 & SGLT); TAL (~25% via"
+        },
+        {
+          "domain": "Sodium (Na+)",
+          "content": "NKCC2); DCT (~5% via NCC); CD (~3% via ENaC). Diuretics: Thiazides (NCC), Loop (NKCC2), Aldosterone: stimulates CD ENaC."
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "title": "Final Adjustment of Tubular Fluid to Become Urine - Physiology Lecture",
+      "department": "Physiology",
+      "booklet_pages": "Pages 57 - 60",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Principal Cells",
+          "content": "Liddle Syndrome: ENaC gain-of-function →> Late DCT & Cortical/Medullary CD (~70% of cells). Apical Aldosterone: binds cytoplasmic MR, HTN, hypokalemia."
+        },
+        {
+          "domain": "(Na+ & K+ Handling)",
+          "content": "induces SGK1, increases apical ENaC ENaC reabsorbs Na+; basolateral Na+/K+ ATPase Diuretics: Amiloride/Triamterene block abundance/open probability & basolateral extrudes Nat. Electrogenic uptake generates ENaC; Spironolactone/Eplerenone block lumen-negative potential (-10 to -50 mV), driving K+ exit pumps. MR. via apical ROMK (basal) & BK (high flow). Alkalosis & High Flow: stimulate K+ Aldosterone Escape: volume expansion secretion. Acidosis: inhibits K+ secretion. triggers ANP, preventing edema. Systemic Acidosis: up-regulates Type A Type 1 Distal RTA: failed Type A H+ Type A (Alpha): apical vacuolar H+-ATPase &"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "title": "Mechanism of Electrolyte Balance - Physiology Tutorial",
+      "department": "Physiology",
+      "booklet_pages": "Pages 61 - 64",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "cells.",
+          "content": "Diuretics, vomiting, Bartter. ormal: Ca 8.5-10.5 mg/dL (~50% ionized Ca2+); Pi PTH: Increases DCT Ca2+ reabsorption, degrades PCT Alkalosis: Albumin binds more Ca2+ acute Tetany"
+        },
+        {
+          "domain": "2.5-4.5 mg/dL. TAL reabsorbs Ca2+/Mg2+",
+          "content": "JaPi-lla (marked phosphaturia), stimulates (Chvostek & Trousseau signs). Thiazides: Enhance DCT"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "title": "Endocrinal Function of the Kidney - Physiology Tutorial",
+      "department": "Physiology",
+      "booklet_pages": "Pages 65 - 68",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "glomerulosa, hypothalamus.",
+          "content": "Target of ACE & ARBs. sympathetic tone. Inhibited by: Ang II & ANP."
+        },
+        {
+          "domain": "Source: Peritubular interstitial",
+          "content": "Stimulates RBC survival & proliferation. Deficiency"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "title": "Renal Function Tests & Urine Analysis - Physiology Tutorial",
+      "department": "Physiology",
+      "booklet_pages": "Pages 69 - 72",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Urinary Crystals &",
+          "content": "Fatty Casts / Maltese cross: Nephrotic. Struvite casts form staghorn calculi in Proteus Calcium Oxalate: envelope / dumbbell. Crystal precipitation depends on urinary pH and Struvite (Triple PO4): coffin-lid in alkaline urine. UTIs (urease+). Uric acid crystals in gout & tumor solute supersaturation. Evaluated in uncentrifuged Uric Acid: diamond / rhomboid, radiolucent."
+        },
+        {
+          "domain": "Lithiasis",
+          "content": "lysis. Hexagonal cystine crystals diagnostic of"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "title": "Pharmacology of Diuretics - Pharmacology Lecture",
+      "department": "Pharmacology",
+      "booklet_pages": "Pages 73 - 76",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Reversibly inhibits apical CA IV &",
+          "content": "Hepatic encephalopathy in cirrhosis"
+        },
+        {
+          "domain": "Carbonic Anhydrase",
+          "content": "Open-angle Glaucoma, Acute Urinary HCO3-, Na+, K+ wasting."
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "title": "Glomerulonephritis & Nephrotic Syndrome - Pathology Lecture",
+      "department": "Pathology",
+      "booklet_pages": "Pages 77 - 80",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Glomerulosclerosis",
+          "content": "IgM and C3 in sclerotic areas effacement; segmental hyalinosis in some glomeruli (collapsing variant), heroin,"
+        },
+        {
+          "domain": "HTN; hematuria",
+          "content": "denudation of GBM obesity; poor steroid response"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "title": "Chronic Kidney Disease & End-Stage Renal Failure - Pathology Lecture",
+      "department": "Pathology",
+      "booklet_pages": "Pages 81 - 84",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "proliferation).",
+          "content": "Malignant: Flea-bitten kidney (petechial hemorrhages); Fibrinoid Necrosis of medical emergency. arterioles with Hyperplastic Arteriolosclerosis (concentric 'onion-skin' intimal Triggered by recurrent ascending UTIs in patients with vesicourteral Gross: Asymmetrical contraction; coarse, irregular, deep U-shaped"
+        },
+        {
+          "domain": "Chronic Pyelonephritis",
+          "content": "reflux (VUR) or urinary tract obstruction. Causes progressive renal"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "title": "Tubulointerstitial Nephritis & Toxic Nephropathies - Pathology Lecture",
+      "department": "Pathology",
+      "booklet_pages": "Pages 85 - 88",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "mismatch.",
+          "content": "membrane (tubulorrhexis). (hyperkalemia) → Diuretic phase (hypokalemia). Extensive, continuous diffuse necrosis of"
+        },
+        {
+          "domain": "Aminoglycosides (Gentamicin),",
+          "content": "Often non-oliguric (aminoglycosides); rapid"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "title": "Tumors of the Kidney & Urinary Tract - Pathology Lecture",
+      "department": "Pathology",
+      "booklet_pages": "Pages 89 - 92",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Papillary RCC",
+          "content": "PAS (+). Cannonball lung mets. Papillae lined by cuboidal cells with Better prognosis than clear cell RCC; early MET oncogene activation; trisomy 7 & 17; familial fibrovascular cores containing interstitial foamy organ-confined detection; rarely invades or sporadic. Gross: frequently multifocal &"
+        },
+        {
+          "domain": "Distal Tubule (~10-15%)",
+          "content": "macrophages and calcified psammoma bilateral, dark hemorrhagic. major veins. bodies. Oncocytoma: benign, mahogany brown with"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "title": "Urinary Stones & Obstructive Uropathy - Pathology Lecture",
+      "department": "Pathology",
+      "booklet_pages": "Pages 93 - 96",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "(~10-15% of all stones)",
+          "content": "Magnesium Ammonium Phosphate + carbonate Recurrent UTIs with Urease-producing bacteria Radio-Opaque (moderately dense). Treatment: (Proteus mirabilis, Klebsiella, Pseudomonas, S. Complete surgical/percutaneous removal (PCNL) apatite. Micro: 'Coffin-Lid' prisms. Gross:"
+        },
+        {
+          "domain": "'Infection Calculus'",
+          "content": "Massive branching Staghorn (Dendritic) saprophyticus). Alkaline urine pH (27.2). + targeted antibiotics; urease eradication."
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "title": "Urinary Tract Infections - Microbiology & Pathology Lecture",
+      "department": "Microbiology",
+      "booklet_pages": "Pages 97 - 100",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Staphylococcus saprophyticus",
+          "content": "Hemolysin: cytotoxic tissue invasion. Second most common cause of Uroepithelial adherence via surface Gram(+) cocci in clusters, catalase(+), hemagglutinins and lactosamine-specific community-acquired cystitis in young, coagulase(-). Novobiocin-Resistant (vs S."
+        },
+        {
+          "domain": "(Honeymoon Cystitis)",
+          "content": "epidermidis which is sensitive). adhesins. Produces moderate urease. sexually active females. Rx: TMP-SMZ, Nitrofurantoin."
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "title": "Microbial Infections of Urinary Tract - Microbiology Lecture",
+      "department": "Microbiology",
+      "booklet_pages": "Pages 101 - 104",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Uropathogen /",
+          "content": "[B] [E] [C] Exam] Exam] Exam] Q26 [2022 Q40 [Faculty Q12 [2020 [E] [B] [C] Exam] Exam] Exam] Q27 [Core Q13 [Faculty Q41 [Core [B] [E] [D] Exam] Exam] Exam] Q42 [Clinical Q28 [Core Q14 [Core [E] [D] [B] Exam] Exam] Vignette] Clinical Syndrome & Empirical Major Virulence Factors & Mechanisms Key Microbiological & Cultural Hallmarks"
+        },
+        {
+          "domain": "Classification",
+          "content": "Antibiotics"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "title": "Parasitic Infections of Urinary Tract - Parasitology Lecture",
+      "department": "Parasitology",
+      "booklet_pages": "Pages 105 - 108",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "contact (STI). Babies during",
+          "content": "Rule: Treat BOTH sexual pruritus; 'Strawberry Cervix' (colpitis Transmission: Primarily Sexual axostyle. macularis). Motility: Rapid, jerky, wobbly. partners simultaneously!"
+        },
+        {
+          "domain": "birth.",
+          "content": "Males: Often asymptomatic carrier, or Lab: Wet mount, Diamond's Avoid alcohol (disulfiram-like medium. urethritis. reaction)."
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "title": "Biochemistry of Purine Metabolism & Uric Acid - Biochemistry Lecture",
+      "department": "Clinical Biochemistry",
+      "booklet_pages": "Pages 109 - 112",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "(Liver & Kidneys)",
+          "content": "• Xanthine Oxidase (XO): Hypoxanthine -> Xanthine • Non-primate mammals: Uricase -> soluble Allantoin. • Renal Handling: 4-step (filtration, reabsorption via • Normal serum urate: 2.5-7.0 mg/dL (males), 1.5-6.0 URAT1, secretion, post-secretory reabsorption)."
+        },
+        {
+          "domain": "→ Uric Acid.",
+          "content": "(females). Solubility limit: -6.8 mg/dL. • XO contains FAD, Mo, and Fe: generates H202"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "title": "Clinical Enzymology & Renal Biomarkers - Biochemistry Lecture",
+      "department": "Clinical Biochemistry",
+      "booklet_pages": "Pages 113 - 116",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "NAG (130 kDa): PCT lysosomes.",
+          "content": "High molecular weight prevents glomerular"
+        },
+        {
+          "domain": "Urinary Enzymes",
+          "content": "Sensitive early markers for drug-induced nephrotoxicity filtration. GGT (90 kDa) & AAP: PCT brush border Their presence in urine reflects direct (gentamicin, NSAIDs), allograft rejection, and diabetic"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "title": "Chemical Analysis of Urine, Inborn Errors & Calculi - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry",
+      "booklet_pages": "Pages 117 - 120",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Category / Condition",
+          "content": "ID [C [B Q11 [2025] Q25 [Facu] Q39 [2025] 1 [A [B Q40 [Facu] Q26 [2022] Q12 [2020] 1 ID [A [B Q27 [Core] Q13 [Facu] Q41 [Core] 1 1 [C [E] Q42 [Clin] Q14 [Core] Q28 [Core] [E] Biochemical Defect & Genetics Characteristic Urinary & Clinical Hallmarks Diagnostic Chemical Tests & Findings Monoclonal free light chains (kappa or lambda) Thermal: precipitates at 40-60°C, dissolves at 100°C. Bone pain, osteolytic lesions, anemia, renal failure (cast"
+        },
+        {
+          "domain": "Proteinuria & Bence-Jones",
+          "content": "filtered through glomeruli exceeding proximal SSA test: strongly positive (4+). nephropathy). Urine contains light-chain casts."
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "title": "Laboratory Assessment of Renal Clearance & Biochemical Markers - Biochemistry Tutorial",
+      "department": "Clinical Biochemistry",
+      "booklet_pages": "Pages 121 - 124",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "(Estimated Creatinine",
+          "content": "(NOT standardized to 1.73 m? BSA unless dosage adjustments. Unreliable in acute renal failure, edema, or Multiply by 0.85 in females due to -15%"
+        },
+        {
+          "domain": "Clearance)",
+          "content": "adjusted). amputees. CKD-EPI superior to MDRD: markedly reduces false-positive CKD"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "title": "Drugs Affecting Urinary Tract & Renal Pharmacology - Pharmacology Lecture",
+      "department": "Pharmacology & Epidemiology",
+      "booklet_pages": "Pages 125 - 128",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Beta-3 Adrenergic Agonist",
+          "content": "mouth or in cognitive decline. Caution: Monitor Blood"
+        },
+        {
+          "domain": "Mirabegron",
+          "content": "activating adenylyl cyclase & increasing CAMP to relax Pressure (risk of dose-dependent hypertension and"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "title": "Epidemiology & Prevention of Renal Diseases - Lecture",
+      "department": "Pharmacology & Epidemiology",
+      "booklet_pages": "Pages 129 - 132",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Early CKD (G1-G3)",
+          "content": "• Annual targeted screening (eGFR + spot ACR). years, and markedly lowers premature • SBP target <120 mmHg when tolerated. • RAS Blockade (ACE or ARB at max tolerated dose). • SGLT2i + Non-steroidal MRA (Finerenone). cardiovascular death. • NaHCO3 for chronic acidosis (HCO3- <22 mEq/L). • Protein restriction (0.6-0.8 g/kg/d in non-dialysis). KDOQI Vascular Access Guidelines. ESRD preparation and complication management. Reduces emergency catheter starts,"
+        },
+        {
+          "domain": "Tertiary Prevention",
+          "content": "• Native AV Fistula creation (3-6 mo before dialysis). hospitalizations, vascular sepsis, and • Fistula First initiative (AVF > AVG > CVC catheter)."
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "title": "Introduction to Clinical Nephrology & Approach to Renal Patient",
+      "department": "Clinical Nephrology & Urology",
+      "booklet_pages": "Pages 133 - 136",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Alterations in Urine Volume",
+          "content": "Anuria (<100 mL/d): vascular catastrophe or Emergency bladder catheterization if distended. Renal Distended palpable dull bladder = acute retention obstruction. Oliguria (<400 mL/d): AKI. Polyuria (>3 Jocturia (>2 voids/night) = loss of concentrating ability ultrasound to rule out hydronephrosis in all acute (isosthenuria) in early CKD. unexplained oliguria/anuria."
+        },
+        {
+          "domain": "L/d): solute vs water diuresis.",
+          "content": "CVA Tenderness (Murphy's punch) = acute Asterixis (flapping tremor) and uremic frost (BUN Kidney vs Spleen: Kidney is rounded, ballotable"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "title": "Acute Kidney Injury (AKI) & Renal Replacement Therapy - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology",
+      "booklet_pages": "Pages 137 - 140",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "U_Na > 40 mEq/L, U_osm < 350",
+          "content": "nephrotoxins. Loop diuretics only for volume overload."
+        },
+        {
+          "domain": "Intrinsic AKI: ATN",
+          "content": "tight junctions causing back-leak of filtrate; tubular cast"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "title": "Chronic Kidney Disease (CKD) & Dialysis Modalities - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology",
+      "booklet_pages": "Pages 141 - 144",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Hyperphosphatemia, hypocalcemia, high intact",
+          "content": "3. bleMadrasadustBinders: Sevelamer/Lanthanum"
+        },
+        {
+          "domain": "CKD-MBD & Bone",
+          "content": "Phosphate retention + Calcitriol deficiency ->"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "title": "Glomerular Diseases & Nephrotic Syndrome - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology",
+      "booklet_pages": "Pages 145 - 148",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Commonest primary nephrotic in Caucasian",
+          "content": "LM: Diffuse GBM thickening; Silver stain: 'Spike & Dome'. leavy nephrotic proteinuria, high DVT/RVT risk"
+        },
+        {
+          "domain": "Membranous Nephropathy",
+          "content": "Rule of thirds: 1/3 spontaneous remission, 1/3 persister"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "title": "Urinary Tract Infections & Pyelonephritis - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology",
+      "booklet_pages": "Pages 149 - 152",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Acute Pyelonephritis",
+          "content": "Infection ascending to renal pelvis and Fever (>38°C), chills, flank pain, CVA Outpatient: Ciprofloxacin 500 mg BID × 7d or tenderness, nausea/vomiting. Levofloxacin 750 mg daily x 5d."
+        },
+        {
+          "domain": "parenchyma.",
+          "content": "Hallmark: White Blood Cell (WBC) Casts in"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "title": "Renovascular Hypertension & Renal Vascular Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology",
+      "booklet_pages": "Pages 153 - 156",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Young/middle-aged females",
+          "content": "Medial fibroplasia (80-85%). Severe hypertension, epigastric bruit, hypokalemia."
+        },
+        {
+          "domain": "Fibromuscular",
+          "content": "Angiography: Pathognomonic Rx: Balloon Angioplasty (PTRA) WITHOUT stenting"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "title": "Inherited, Cystic & Tubulointerstitial Kidney Diseases - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology",
+      "booklet_pages": "Pages 157 - 160",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "PKD1 (chr 16, 85%,",
+          "content": "hematuria. Extrarenal: Hepatic cysts (#1, 70%), Berry"
+        },
+        {
+          "domain": "(Adult Polycystic",
+          "content": "fluid secretion + tubular hyperplasia. Massive Aneurysms (SAH), MVP. Rx: BP control (ACEi/ARB),"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "title": "Acid-Base Disorders & Clinical Electrolytes - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology",
+      "booklet_pages": "Pages 161 - 164",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "HAGMA",
+          "content": "MUDPILES / GOLD MARK: Methanol, Uremia, DKA,"
+        },
+        {
+          "domain": "Anion Gap = Na - (Cl + HCO3) > 12.",
+          "content": "Treat underlying cause (Insulin for DKA,"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "title": "Nephrolithiasis, Obstructive Uropathy & Urological Emergencies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology",
+      "booklet_pages": "Pages 165 - 168",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Randall's plaques (apatite in Henle loops).",
+          "content": "Fluid > 2.5 L/d, Thiazides (Chlorthalidone), Potassium Citrate, Hypercalciuria, hypocitraturia, enteric"
+        },
+        {
+          "domain": "Envelopes (dihydrate) vs dumbbells",
+          "content": "hyperoxaluria (Crohn's: fatty acid saponification). normal dietary calcium (1-1.2 g/d; never restrict!). MET:"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "title": "Benign Prostatic Hyperplasia & Urological Malignancies - Clinical Lecture",
+      "department": "Clinical Nephrology & Urology",
+      "booklet_pages": "Pages 169 - 172",
+      "question_count": 42,
+      "summary_preview": [
+        {
+          "domain": "Wilms Tumor",
+          "content": "Abdominal US + Contrast CT. Most common pediatric renal cancer Asymptomatic, smooth, firm, large Nephrectomy + Chemotherapy palpable abdominal flank mass found (Vincristine + Dactinomycin +/-"
+        },
+        {
+          "domain": "(2-5y).",
+          "content": "Differentiate from Neuroblastoma (Wilms does NOT cross midline; Doxorubicin). during bathing."
+        }
+      ]
+    }
+  ]
+}

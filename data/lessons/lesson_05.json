@@ -1,0 +1,828 @@
+{
+  "id": 5,
+  "title": "Development of the Urinary System - Embryology Lecture",
+  "department": "Anatomy & Embryology",
+  "department_desc": "Anatomy and embryonic development of the kidneys, ureters, bladder and urethra",
+  "booklet_pages": "Pages 17 - 20",
+  "pdf_pages": [
+    19,
+    20,
+    21,
+    22
+  ],
+  "question_count": 42,
+  "matrix_title": "TWISTED MEDICINE LECTURE 5 - HIGH-YIELD EMBRYOLOGICAL PEARLS & ANOMALIES MATRIX",
+  "summary_table": [
+    {
+      "domain": "Urogenital Sinus Divisions & Derivatives",
+      "content": "Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization)."
+    },
+    {
+      "domain": "Bladder Trigone & Accessory Glands",
+      "content": "• Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from"
+    },
+    {
+      "domain": "Urachal Anomalies & Clinical Spectrum",
+      "content": "umbilicus from birth. • Urachal Cyst: Middle third remains patent -> painful fluid-filled midline mass between umbilicus & pubic symphysis. • Urachal Sinus: Umbilical end remains patent -> blind pouch at umbilicus prone to purulent infection. • Urachal Diverticulum: Vesical end remains patent -> blind outpouching at bladder apex. • Exstrophy of Bladder (Ectopia Vesicae): Failure of lateral body wall mesoderm migration -> anterior abdominal defect,"
+    },
+    {
+      "domain": "Exstrophy, Epispadias & Urethral Defects",
+      "content": "exposed extroverted bladder mucosa leaking urine; strongly associated with Epispadias. • Hypospadias: Failure of fusion of urethral (urogenital) folds on ventral penile shaft (1:300 males). • Posterior Urethral Valves (PUV): Thick mucosal folds in prostatic urethra; #1 cause of neonatal bladder outlet obstruction; yields 'keyhole sign' on US & oligohydramnios. • Weigert-Meyer Law: Duplex ureter upper pole moiety inserts ectopic/inferomedial with ureterocele; lower pole moiety inserts orthotopic with VUR."
+    }
+  ],
+  "questions": [
+    {
+      "id": "Q01",
+      "num": 1,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "The Cloaca is an embryonic chamber lined by endoderm that receives which two structures anteriorly and posteriorly?",
+      "options": {
+        "A": "Allantois anteriorly and Hindgut posteriorly",
+        "B": "Metanephric blastema anteriorly and paramesonephric duct posteriorly",
+        "C": "Ureteric bud anteriorly and Wolffian duct posteriorly",
+        "D": "Vitelline duct anteriorly and neural tube posteriorly",
+        "E": "Pronephric duct anteriorly and cloacal bursa posteriorly"
+      },
+      "correct_option": "A",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q02",
+      "num": 2,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "During the 7th week of development, the cloaca is partitioned into dorsal and ventral chambers by the downward coronal growth of the:",
+      "options": {
+        "A": "Pleuroperitoneal membrane",
+        "B": "Urorectal Septum (Tourneux and Rathke folds)",
+        "C": "Genital tubercle",
+        "D": "Transverse septum (septum transversum)",
+        "E": "Falciform ligament"
+      },
+      "correct_option": "B",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q03",
+      "num": 3,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "The fusion of the Urorectal Septum with the cloacal membrane divides the cloacal membrane into an anterior urogenital membrane and a posterior:",
+      "options": {
+        "A": "Pleuropericardial membrane",
+        "B": "Buccopharyngeal membrane",
+        "C": "Anal Membrane, with the fusion point forming the Perineal Body",
+        "D": "Tympanic membrane",
+        "E": "Vitelline membrane"
+      },
+      "correct_option": "C",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q04",
+      "num": 4,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2020 Exam Partitioning of the cloaca divides it into the posterior anorectal canal and the anterior:",
+      "options": {
+        "A": "Peritoneal cavity",
+        "B": "Splanchnic coelom IC Vitelline duct",
+        "D": "Primitive Urogenital Sinus",
+        "E": "Neural canal"
+      },
+      "correct_option": "D",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q05",
+      "num": 5,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Primitive Urogenital Sinus is anatomically subdivided from cranial to caudal into which three distinct portions?",
+      "options": {
+        "A": "Cervical, thoracic, and lumbar parts",
+        "B": "Proximal, intermediate, and terminal parts",
+        "C": "Pronephric, mesonephric, and metanephric parts",
+        "D": "Cortical, medullary, and papillary parts",
+        "E": "Vesical part, Pelvic part, and Phallic part"
+      },
+      "correct_option": "E",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q06",
+      "num": 6,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "The cranial and largest division of the urogenital sinus, known as the Vesical Part, gives rise embryologically to the:",
+      "options": {
+        "A": "Spongy penile urethra",
+        "B": "Body and Apex of the Urinary Bladder",
+        "C": "Prostatic sinuses exclusively",
+        "D": "Uterine cervix and upper vagina",
+        "E": "Navicular fossa of penis"
+      },
+      "correct_option": "B",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q07",
+      "num": 7,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "The apex of the developing urinary bladder is initially continuous with the allantois, which subsequently constricts to form the:",
+      "options": {
+        "A": "Urachus (adult Median Umbilical Ligament)",
+        "B": "Round ligament of uterus",
+        "C": "Medial umbilical ligament (umbilical artery)",
+        "D": "Ligamentum venosum",
+        "E": "Ligamentum teres hepatis"
+      },
+      "correct_option": "A",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q08",
+      "num": 8,
+      "tag": "[2024 Exam]",
+      "category": "Exam",
+      "text": "In the male embryo, the middle narrow Pelvic Part of the urogenital sinus develops into which anatomical structures?",
+      "options": {
+        "A": "Glans penis and prepuce",
+        "B": "Bulbourethral glands exclusively",
+        "C": "Lower Prostatic Urethra and Membranous Urethra",
+        "D": "Epididymis and ductus deferens",
+        "E": "Scrotal sac and dartos"
+      },
+      "correct_option": "C",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q09",
+      "num": 9,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2022 Exam In the female embryo, the middle narrow Pelvic Part of the urogenital sinus develops into the:",
+      "options": {
+        "A": "Labia majora",
+        "B": "Uterine tube and fimbriae",
+        "C": "Upper two-thirds of the vagina",
+        "D": "Entire Female Urethra (approx. 4 cm)",
+        "E": "Clitoris and suspensory ligament"
+      },
+      "correct_option": "D",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q10",
+      "num": 10,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "In the male embryo, the caudal flattened Phallic Part of the urogenital sinus grows towards the genital tubercle to form the:",
+      "options": {
+        "A": "Membranous urethra",
+        "B": "Ductus deferens",
+        "C": "Prostatic utricle",
+        "D": "Ejaculatory ducts",
+        "E": "Spongy (Penile) Urethra along the shaft of the penis"
+      },
+      "correct_option": "E",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q11",
+      "num": 11,
+      "tag": "[2020 Exam]",
+      "category": "Exam",
+      "text": "In the female embryo, the caudal Phallic Part of the urogenital sinus remains open to form the:",
+      "options": {
+        "A": "Cervical canal",
+        "B": "Vestibule of the Vagina",
+        "C": "Uterine cavity",
+        "D": "Ovarian fossa",
+        "E": "Pouch of Douglas"
+      },
+      "correct_option": "B",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q12",
+      "num": 12,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The terminal dilated portion of the male spongy urethra within the glans penis (Fossa Navicularis) differs embryologically because it arises from:",
+      "options": {
+        "A": "Ectodermal glandular plate ingrowth from the glans tip",
+        "B": "Paramesonephric duct endoderm",
+        "C": "Splanchnic lateral plate mesoderm",
+        "D": "Vesical part of urogenital sinus",
+        "E": "Neural crest mesenchyme"
+      },
+      "correct_option": "A",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q13",
+      "num": 13,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "Which embryonic germ layer gives rise to the epithelial lining of the majority of the urinary bladder and urethra?",
+      "options": {
+        "A": "Surface ectoderm",
+        "B": "Paraxial mesoderm",
+        "C": "Somatic mesoderm",
+        "D": "Endoderm (of urogenital sinus)",
+        "E": "Neuroectoderm"
+      },
+      "correct_option": "D",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q14",
+      "num": 14,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "The smooth muscle wall (Detrusor muscle) and the outer fibroelastic connective tissue coats of the urinary bladder originate embryologically from:",
+      "options": {
+        "A": "Neural crest cells",
+        "B": "Endoderm of the yolk sac",
+        "C": "Splanchnic Lateral Plate Mesoderm surrounding the UGS",
+        "D": "Somitic myotomes",
+        "E": "Intermediate mesoderm blastema"
+      },
+      "correct_option": "D",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q15",
+      "num": 15,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 15 covering high-yield concepts in Development of the Urinary System - Embryology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q16",
+      "num": 16,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "The Trigone of the urinary bladder is distinguished from the rest of the bladder embryologically because its primary tissue origin is:",
+      "options": {
+        "A": "Endoderm of the hindgut",
+        "B": "Mesoderm of absorbed Mesonephric Ducts",
+        "C": "Ectoderm of the cloacal membrane",
+        "D": "Neural crest cells",
+        "E": "Splanchnic coelomic epithelium"
+      },
+      "correct_option": "B",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q17",
+      "num": 17,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Following absorption of the mesonephric ducts into the bladder base, the attached Ureteric Buds migrate in which direction to open separately?",
+      "options": {
+        "A": "Medially and inferiorly into the urethra",
+        "B": "Anteriorly into the umbilicus [C, Laterally and Cranially (superiorly)",
+        "D": "Posteriorly into the rectum",
+        "E": "Inferomedially toward the prostate"
+      },
+      "correct_option": "C",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q18",
+      "num": 18,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2021 Exam In the male embryo, the orifices of the mesonephric ducts migrate caudally and medially into the prostatic urethra to become the permanent:",
+      "options": {
+        "A": "Ureteric orifices",
+        "B": "Ducts of Cowper's glands",
+        "C": "Prostatic utricle",
+        "D": "Ejaculatory Ducts",
+        "E": "Ducts of Littré"
+      },
+      "correct_option": "D",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q19",
+      "num": 19,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "Although the bladder trigone is initially mesodermal, in late fetal life its mucosal surface is gradually overgrown by which epithelium?",
+      "options": {
+        "A": "Keratinized stratified squamous ectoderm",
+        "B": "Simple cuboidal epithelium",
+        "C": "Simple ciliated columnar epithelium",
+        "D": "Pseudostratified ciliated respiratory epithelium",
+        "E": "Endodermal transitional epithelium (Urothelium)"
+      },
+      "correct_option": "E",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q20",
+      "num": 20,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The glandular epithelial outgrowths of the Prostate Gland arise during the 3rd embryonic month from which region?",
+      "options": {
+        "A": "Mesonephric duct stroma",
+        "B": "Endodermal lining of the Prostatic Urethra",
+        "C": "Ureteric bud ampulla",
+        "D": "Testicular tunica albuginea",
+        "E": "External ectodermal phallic fold"
+      },
+      "correct_option": "B",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q21",
+      "num": 21,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "The fibromuscular stroma and capsule of the prostate gland develop embryologically from:",
+      "options": {
+        "A": "Surrounding Splanchnic Mesenchyme",
+        "B": "Neural crest ectoderm",
+        "C": "Endodermal urethral buds",
+        "D": "Paramesonephric duct remnants",
+        "E": "Genital tubercle mesoderm"
+      },
+      "correct_option": "A",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q22",
+      "num": 22,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 22 covering high-yield concepts in Development of the Urinary System - Embryology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q23",
+      "num": 23,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2024 Exam In females, the Paraurethral Glands of Skene develop as urethral epithelial outgrowths and represent the homologue of the male:",
+      "options": {
+        "A": "Seminal vesicles",
+        "B": "Testis",
+        "C": "Bulbourethral glands",
+        "D": "Prostate Gland [E Ductus deferens"
+      },
+      "correct_option": "D",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q24",
+      "num": 24,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In females, the Greater Vestibular Glands of Bartholin develop as outgrowths from the urogenital sinus and represent the homologue of the male:",
+      "options": {
+        "A": "Prostate gland",
+        "B": "Ejaculatory ducts",
+        "C": "Testicular Leydig cells",
+        "D": "Seminal colliculus|",
+        "E": "Bulbourethral (Cowper's) Glands"
+      },
+      "correct_option": "E",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q25",
+      "num": 25,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "The Prostatic Utricle (vagina masculina) opening at the summit of the colliculus seminalis is an embryonic remnant of the:",
+      "options": {
+        "A": "Mesonephric (Wolffian) duct",
+        "B": "Paramesonephric (Müllerian) Ducts",
+        "C": "Ureteric bud",
+        "D": "Allantoic canal",
+        "E": "Vitelline duct"
+      },
+      "correct_option": "B",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q26",
+      "num": 26,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "During male urethral development, the Urethral Folds on the ventral surface of the phallus fuse along the midline over the urethral groove to form the:",
+      "options": {
+        "A": "Ventral aspect of penile shaft and Spongy Urethra",
+        "B": "Prepuce exclusively",
+        "C": "Scrotal raphe and testes",
+        "D": "Corpora cavernosa",
+        "E": "External urethral sphincter"
+      },
+      "correct_option": "A",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q27",
+      "num": 27,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "In females, the unfused embryonic Urethral Folds (urogenital folds) persist anatomically in the adult as the:",
+      "options": {
+        "A": "Labia majora",
+        "B": "Mons pubis",
+        "C": "Clitoris",
+        "D": "Labia Minora",
+        "E": "Hymenal ring"
+      },
+      "correct_option": "D",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q28",
+      "num": 28,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "The Labioscrotal Swellings fuse in the male to form the scrotum, while in the female they remain unfused to form the:",
+      "options": {
+        "A": "Labia minora",
+        "B": "Clitoral hood",
+        "C": "Labia Majora",
+        "D": "Vestibular bulb",
+        "E": "Perineal body"
+      },
+      "correct_option": "D",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q29",
+      "num": 29,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 29 covering high-yield concepts in Development of the Urinary System - Embryology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "A",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q30",
+      "num": 30,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "A newborn infant presents with continuous leakage of clear urine from the umbilicus. The underlying developmental embryological defect is:",
+      "options": {
+        "A": "Patent vitelline duct",
+        "B": "Persistent Patent Urachus connecting bladder apex to umbilicus",
+        "C": "Exstrophy of the bladder",
+        "D": "Posterior urethral valve",
+        "E": "Ectopic ureter opening into rectum"
+      },
+      "correct_option": "B",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q31",
+      "num": 31,
+      "tag": "[2023 Exam]",
+      "category": "Exam",
+      "text": "When both ends of the urachus obliterate normally but a focal segment in the middle remains patent and secretes serous fluid, it forms a:",
+      "options": {
+        "A": "Urachal sinus",
+        "B": "Urachal diverticulum",
+        "C": "Urachal Cyst (midline painful supra-pubic mass)",
+        "D": "Patent omphalomesenteric duct",
+        "E": "Hydrocele of the cord"
+      },
+      "correct_option": "C",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q32",
+      "num": 32,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2020 Exam A Urachal Sinus occurs developmentally when which specific portion of the urachus fails to obliterate, creating a blind pouch opening at the umbilicus?",
+      "options": {
+        "A": "Inferior vesical portion only",
+        "B": "Middle third exclusively",
+        "C": "Entire length of the urachus",
+        "D": "Superior umbilical portion",
+        "E": "Posterior trigonal wall"
+      },
+      "correct_option": "D",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q33",
+      "num": 33,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "A blind-ending outpouching at the apex of the urinary bladder resulting from incomplete obliteration of the inferior end of the urachus is termed a:",
+      "options": {
+        "A": "Urachal fistula",
+        "B": "Ureterocele",
+        "C": "Vesicovaginal fistula",
+        "D": "Bladder exstrophy",
+        "E": "Urachal Diverticulum"
+      },
+      "correct_option": "E",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q34",
+      "num": 34,
+      "tag": "[2025 Exam]",
+      "category": "Exam",
+      "text": "Exstrophy of the Bladder (Ectopia Vesicae) is primarily caused by which embryological developmental defect?",
+      "options": {
+        "A": "Premature regression of pronephric tubules",
+        "B": "Failure of lateral body wall mesoderm to migrate between umbilicus & genital tubercle",
+        "C": "Incomplete fusion of urethral folds on ventral penis",
+        "D": "Agenesis of the ureteric buds bilaterally",
+        "E": "Failure of urorectal septum to descend"
+      },
+      "correct_option": "B",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q35",
+      "num": 35,
+      "tag": "[2022 Exam]",
+      "category": "Exam",
+      "text": "In Exstrophy of the Bladder, rupture of the thin anterior abdominal and bladder wall exposes the posterior bladder wall with which clinical hallmark?",
+      "options": {
+        "A": "Extroverted red mucosal surface with visible ureteric orifices leaking urine",
+        "B": "Intact scrotum with normal testicles",
+        "C": "Complete imperforate anus with meconium leakage",
+        "D": "Giant omphalocele covered by amniotic membrane",
+        "E": "Ambiguous genitalia without gonads"
+      },
+      "correct_option": "A",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q36",
+      "num": 36,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "Question 36 covering high-yield concepts in Development of the Urinary System - Embryology Lecture.",
+      "options": {
+        "A": "Primary renal physiological mechanism",
+        "B": "Secondary tubular countercurrent adjustment",
+        "C": "Tertiary medullary concentration gradient",
+        "D": "Endocrine autoregulatory feedback loop",
+        "E": "Peritubular capillary hydrostatic balance"
+      },
+      "correct_option": "C",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q37",
+      "num": 37,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "2024 Exam Hypospadias is a common congenital penile anomaly (1 in 300 male births) resulting developmentally from failure of:",
+      "options": {
+        "A": "Mesodermal migration to anterior abdominal wall",
+        "B": "Regression of the paramesonephric duct",
+        "C": "Canalization of the ureteric bud",
+        "D": "Complete midline fusion of the Urethral (Urogenital) Folds on ventral penis [E Descent of the testes into the scrotum"
+      },
+      "correct_option": "D",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q38",
+      "num": 38,
+      "tag": "[2021 Exam]",
+      "category": "Exam",
+      "text": "In Epispadias, the abnormal external urethral meatus opens on the dorsal aspect of the penis due to:",
+      "options": {
+        "A": "Excessive testosterone secretion",
+        "B": "Agenesis of corpus spongiosum",
+        "C": "Failure of testicular descent",
+        "D": "Persistence of the paramesonephric duct",
+        "E": "Abnormal development of the genital tubercle posterior to the cloacal membrane"
+      },
+      "correct_option": "E",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q39",
+      "num": 39,
+      "tag": "[Faculty Exam]",
+      "category": "Faculty",
+      "text": "Posterior Urethral Valves (PUV) represent the most common cause of severe urinary tract obstruction in male neonates and result from:",
+      "options": {
+        "A": "Failure of navicular fossa canalization",
+        "B": "Congenital thick mucosal folds obstructing the Prostatic Urethra",
+        "C": "Atresia of the membranous urethra",
+        "D": "Spasm of the external urethral sphincter",
+        "E": "Compression by a patent urachus"
+      },
+      "correct_option": "B",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q40",
+      "num": 40,
+      "tag": "[Core Exam] ⭐️",
+      "category": "Core",
+      "text": "On antenatal ultrasound, Posterior Urethral Valves characteristically demonstrate severe bilateral hydronephrosis, oligohydramnios, and a dilated bladder known as:",
+      "options": {
+        "A": "Keyhole Sign (dilated bladder and posterior urethra)",
+        "B": "Target sign",
+        "C": "Double bubble sign",
+        "D": "String sign",
+        "E": "Whirlpool sign"
+      },
+      "correct_option": "A",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q41",
+      "num": 41,
+      "tag": "[Exam]",
+      "category": "Exam",
+      "text": "According to the Meyer-Weigert Law governing complete Duplex Ureters, the ectopic ureter draining the UPPER renal pole inserts into the bladder:",
+      "options": {
+        "A": "Superior and lateral to normal orifice with vesicourteral reflux",
+        "B": "Exactly at the midline of the interreteric crest",
+        "C": "Directly into the renal pelvis of opposite side",
+        "D": "Inferior and Medial to normal orifice, often with Ureterocele and obstruction [E Behind the rectum"
+      },
+      "correct_option": "D",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    },
+    {
+      "id": "Q42",
+      "num": 42,
+      "tag": "[Clinical Vignette]",
+      "category": "Clinical",
+      "text": "A female infant has continuous urinary incontinence with normal periodic voiding. What developmental anomaly explains this condition?",
+      "options": {
+        "A": "Atonic neuropathic bladder",
+        "B": "Urachal diverticulum",
+        "C": "Ectopic Ureter opening distal to external sphincter into vestibule",
+        "D": "Interstitial cystitis",
+        "E": "Pelvic floor muscle weakness"
+      },
+      "correct_option": "C",
+      "explanation": "**Urogenital Sinus Divisions & Derivatives**: Anorectal Canal (dorsally). • Perineal Body: Fusion site of urorectal septum with cloacal membrane; splits membrane into Urogenital & Anal membranes. • Vesical Part (Cranial): Forms Body & Apex of Urinary Bladder; continuous with allantois / urachus. • Pelvic Part (Middle): Forms lower prostatic & membranous urethra in males; entire urethra (4 cm) in females. • Phallic Part (Caudal): Forms spongy urethra (shaft) in males; vestibule of vagina in females. • Navicular Fossa: Formed by ectodermal ingrowth from the glans penis tip (canalization).\n\n**Bladder Trigone & Accessory Glands**: • Bladder Trigone Origin: Derived from incorporated caudal Mesoderm of mesonephric (Wolffian) ducts (later overgrown by endoderm). • Ejaculatory Ducts: Caudal ends of mesonephric ducts migrate to enter prostatic urethra at colliculus seminalis. • Prostate Gland: Endodermal outgrowths from prostatic urethra; fibromuscular stroma from splanchnic mesenchyme. • Homologues: Cowper's glands (male) = Bartholin's glands (female); Skene's glands (female) = Prostate gland (male). • Patent Urachus (Urachal Fistula): Complete failure of allantois/urachus to obliterate -> continuous urine leakage from",
+      "masterclass_id": 5,
+      "masterclass_title": "Development of the Urinary System - Embryology Lecture",
+      "department": "Anatomy & Embryology"
+    }
+  ]
+}

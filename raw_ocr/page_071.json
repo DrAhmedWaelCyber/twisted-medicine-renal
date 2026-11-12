@@ -1,0 +1,1021 @@
+{
+  "items" : [
+    {
+      "y" : 0.9774224804528762,
+      "h" : 0.013178294499715193,
+      "text" : "Twisted Medicine",
+      "conf" : 1,
+      "x" : 0.1039094668467078,
+      "w" : 0.14609052550117926
+    },
+    {
+      "y" : 0.975972222405789,
+      "h" : 0.010277777777777719,
+      "text" : "• Renal System Module • Lecture 19 MCQ Masterclass",
+      "conf" : 1,
+      "x" : 0.3693415695130313,
+      "w" : 0.34362137992427033
+    },
+    {
+      "y" : 0.9651162791182171,
+      "h" : 0.00872092988755968,
+      "text" : "Twisted Medicine Medical Series • Routine Urinalysis, Sediment Casts, GFR Biomarkers & RFTs • Standard Practice Bank",
+      "conf" : 1,
+      "x" : 0.35596708895747564,
+      "w" : 0.6460905255011792
+    },
+    {
+      "y" : 0.9760174419496079,
+      "h" : 0.010310368008083826,
+      "text" : "Page 1 of 4",
+      "conf" : 1,
+      "x" : 0.9341563794756591,
+      "w" : 0.06999821333015488
+    },
+    {
+      "y" : 0.942606589179971,
+      "h" : 0.013120154804653561,
+      "text" : "19. RENAL FUNCTION TESTS & URINE ANALYSIS - PHYSIOLOGY TUTORIAL",
+      "conf" : 1,
+      "x" : 0.49897118883744856,
+      "w" : 0.6111110951165732
+    },
+    {
+      "y" : 0.9265374676645481,
+      "h" : 0.010297157499525311,
+      "text" : "Twisted Medicine Clinical Nephrology Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)",
+      "conf" : 1,
+      "x" : 0.4999999939917697,
+      "w" : 0.6008230245338296
+    },
+    {
+      "y" : 0.9018217053713902,
+      "h" : 0.01031007766723635,
+      "text" : "Q01. [2025 Exam] Which type of urine specimen is clinically",
+      "conf" : 1,
+      "x" : 0.2386831313991769,
+      "w" : 0.3827160529370578
+    },
+    {
+      "y" : 0.8887532299544243,
+      "h" : 0.01028423786163335,
+      "text" : "considered the best for routine urinalysis, screening for",
+      "conf" : 1,
+      "x" : 0.2253086479766802,
+      "w" : 0.360082302453383
+    },
+    {
+      "y" : 0.8756944443874309,
+      "h" : 0.01027777777777783,
+      "text" : "microalbuminuria, and evaluating microscopic formed elements?",
+      "conf" : 1,
+      "x" : 0.2572016513374484,
+      "w" : 0.4197530686480444
+    },
+    {
+      "y" : 0.8612467701424749,
+      "h" : 0.01028423786163335,
+      "text" : "[A] Random spot afternoon sample after heavy exercise",
+      "conf" : 1,
+      "x" : 0.2088477420781891,
+      "w" : 0.3271604813869644
+    },
+    {
+      "y" : 0.848178294715819,
+      "h" : 0.01031007766723635,
+      "text" : "[B] First-morning clean-catch void (most concentrated and acidic,",
+      "conf" : 1,
+      "x" : 0.2366255181893004,
+      "w" : 0.3786008103088763
+    },
+    {
+      "y" : 0.8357525840386321,
+      "h" : 0.008727390236324739,
+      "text" : "preserving cellular elements)",
+      "conf" : 1,
+      "x" : 0.13168724289996442,
+      "w" : 0.16872427598485407
+    },
+    {
+      "y" : 0.8234625321355973,
+      "h" : 0.010297157499525311,
+      "text" : "[C] 24-hour collection preserved with strong hydrochloric acid",
+      "conf" : 1,
+      "x" : 0.22427983729423873,
+      "w" : 0.35802469313519564
+    },
+    {
+      "y" : 0.8103197673873546,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Catheterized specimen obtained immediately after bladder irrigation",
+      "conf" : 1,
+      "x" : 0.2541152211162553,
+      "w" : 0.41769548332166373
+    },
+    {
+      "y" : 0.7972383721838663,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Midday postprandial specimen collected after 2 liters of water",
+      "conf" : 1,
+      "x" : 0.23559671257716033,
+      "w" : 0.3806584196270636
+    },
+    {
+      "y" : 0.7805490959208032,
+      "h" : 0.011679586304558676,
+      "text" : "Q02. [2024 Exam] The normal yellow-amber color of healthy",
+      "conf" : 1,
+      "x" : 0.24074074557613162,
+      "w" : 0.3868312715734326
+    },
+    {
+      "y" : 0.7667151162063954,
+      "h" : 0.010174418555365716,
+      "text" : "concentrated urine is primarily imparted by which endogenous",
+      "conf" : 1,
+      "x" : 0.24691357352537743,
+      "w" : 0.40329214611893177
+    },
+    {
+      "y" : 0.7536337208575581,
+      "h" : 0.010174418555365716,
+      "text" : "metabolic pigment?",
+      "conf" : 1,
+      "x" : 0.11111110891632381,
+      "w" : 0.13168723628206072
+    },
+    {
+      "y" : 0.7390374676827167,
+      "h" : 0.010297157499525311,
+      "text" : "[A] Urochrome (urobilin), an end-product of hemoglobin breakdown",
+      "conf" : 1,
+      "x" : 0.24176954246399193,
+      "w" : 0.38888888089162
+    },
+    {
+      "y" : 0.725972222405789,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Biliverdin derived from gallbladder bile",
+      "conf" : 1,
+      "x" : 0.16769547733196147,
+      "w" : 0.24485596470862817
+    },
+    {
+      "y" : 0.7129166668443863,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Porphobilinogen synthesized by renal tubular mitochondria",
+      "conf" : 1,
+      "x" : 0.2273662596965019,
+      "w" : 0.36419752108975767
+    },
+    {
+      "y" : 0.6998611113193206,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Melanin granules filtered through the glomerular basement membrane",
+      "conf" : 1,
+      "x" : 0.26131687962962935,
+      "w" : 0.4320987725407822
+    },
+    {
+      "y" : 0.6875000000726745,
+      "h" : 0.011666666666666603,
+      "text" : "[E] Unconjugated bilirubin bound to Tamm-Horsfall glycoprotein",
+      "conf" : 1,
+      "x" : 0.23148148613683117,
+      "w" : 0.3724279823543141
+    },
+    {
+      "y" : 0.6583720926692795,
+      "h" : 0.01174418555365675,
+      "text" : "Q03. [2023 Exam] A patient presents with dark reddish-brown",
+      "conf" : 1,
+      "x" : 0.24485596666666673,
+      "w" : 0.39506170884618225
+    },
+    {
+      "y" : 0.6453036172232438,
+      "h" : 0.011718345748053749,
+      "text" : "'cola-colored' or 'tea-colored' smoky urine. This characteristic",
+      "conf" : 1,
+      "x" : 0.24588477465706446,
+      "w" : 0.39711931816436963
+    },
+    {
+      "y" : 0.6322351418998954,
+      "h" : 0.011692506472269715,
+      "text" : "physical appearance is most typical of:",
+      "conf" : 1,
+      "x" : 0.1800411523662552,
+      "w" : 0.26543208188230893
+    },
+    {
+      "y" : 0.6170704134432712,
+      "h" : 0.01030361758338083,
+      "text" : "[A] Lower urinary tract bleeding from a bladder papilloma",
+      "conf" : 1,
+      "x" : 0.21193415082304543,
+      "w" : 0.3333333333333333
+    },
+    {
+      "y" : 0.6039244186773256,
+      "h" : 0.010174418555365605,
+      "text" : "[B] Acute Glomerulonephritis with glomerular hematuria and acid hematin",
+      "conf" : 1,
+      "x" : 0.26028807301097373,
+      "w" : 0.4300411392307881
+    },
+    {
+      "y" : 0.5930232558866279,
+      "h" : 0.00872092988755968,
+      "text" : "formation",
+      "conf" : 1,
+      "x" : 0.07613168801440326,
+      "w" : 0.06172839350670388
+    },
+    {
+      "y" : 0.5792151163699129,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Massive bacterial pyuria caused by Proteus mirabilis",
+      "conf" : 1,
+      "x" : 0.2098765473251028,
+      "w" : 0.32921809070515184
+    },
+    {
+      "y" : 0.5676388888408572,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Ingestion of large doses of vitamin C (ascorbic acid)",
+      "conf" : 1,
+      "x" : 0.20781892462277113,
+      "w" : 0.325102872068777
+    },
+    {
+      "y" : 0.5538436695948086,
+      "h" : 0.011757105721367789,
+      "text" : "[E] Chyluria resulting from lymphatic-urinary fistula in filariasis",
+      "conf" : 1,
+      "x" : 0.2283950678326473,
+      "w" : 0.3662551304079452
+    },
+    {
+      "y" : 0.5377777777005059,
+      "h" : 0.011666666666666714,
+      "text" : "Q04. [2022 Exam] What is the clinical definition and diagnostic",
+      "conf" : 1,
+      "x" : 0.24897119039780527,
+      "w" : 0.4032921461189317
+    },
+    {
+      "y" : 0.5233042635938778,
+      "h" : 0.011724805831909157,
+      "text" : "significance of Isosthenuria (fixed urine specific gravity of exactly",
+      "conf" : 1,
+      "x" : 0.2602880678669409,
+      "w" : 0.4259259205944133
+    },
+    {
+      "y" : 0.5101744184969466,
+      "h" : 0.008874502711825993,
+      "text" : "1.010)?",
+      "conf" : 1,
+      "x" : 0.07304526792760335,
+      "w" : 0.05149206725306481
+    },
+    {
+      "y" : 0.4948611111773113,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Urine specific gravity matches pure distilled water (1.000)",
+      "conf" : 1,
+      "x" : 0.22530864642489698,
+      "w" : 0.35596705982520144
+    },
+    {
+      "y" : 0.4825710595216904,
+      "h" : 0.00874676995807222,
+      "text" : "[B] Complete absence of all electrolytes in the definitive urine",
+      "conf" : 1,
+      "x" : 0.22427982942386854,
+      "w" : 0.3580246691433889
+    },
+    {
+      "y" : 0.4694444443709032,
+      "h" : 0.008888889153798485,
+      "text" : "[C] Severe dehydration with maximum urinary concentration >1200",
+      "conf" : 1,
+      "x" : 0.23971193026748977,
+      "w" : 0.38888888089161994
+    },
+    {
+      "y" : 0.4578488372819768,
+      "h" : 0.00872092988755968,
+      "text" : "mOsm\/kg",
+      "conf" : 0.5,
+      "x" : 0.07716049462448557,
+      "w" : 0.06378600882284297
+    },
+    {
+      "y" : 0.4447351420194562,
+      "h" : 0.011692505942450637,
+      "text" : "[D] Urine osmolality equals that of protein-free plasma (~300 mOsm\/kg),",
+      "conf" : 1,
+      "x" : 0.26131687962962935,
+      "w" : 0.4320987725407822
+    },
+    {
+      "y" : 0.43386627914244186,
+      "h" : 0.010174418555365716,
+      "text" : "indicating loss of tubular concentrating and diluting capacity",
+      "conf" : 1,
+      "x" : 0.22530864790809307,
+      "w" : 0.3559670598252015
+    },
+    {
+      "y" : 0.40182170528418076,
+      "h" : 0.01031007766723635,
+      "text" : "is fixed Isosthenuria (specific gravity 1.010) pathognomonic?",
+      "conf" : 1,
+      "x" : 0.24382715652263376,
+      "w" : 0.3971193421561762
+    },
+    {
+      "y" : 0.3866569770180735,
+      "h" : 0.011686045858595118,
+      "text" : "[A] Minimal change disease in young children",
+      "conf" : 1,
+      "x" : 0.17901234897119334,
+      "w" : 0.26748969120049626
+    },
+    {
+      "y" : 0.3743055556791872,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Acute post-streptococcal glomerulonephritis",
+      "conf" : 1,
+      "x" : 0.18621398707133077,
+      "w" : 0.2818930044114215
+    },
+    {
+      "y" : 0.361246770209093,
+      "h" : 0.010284237861633239,
+      "text" : "[C] Primary hyperaldosteronism (Conn syndrome)",
+      "conf" : 1,
+      "x" : 0.1913580283436213,
+      "w" : 0.29218105100235847
+    },
+    {
+      "y" : 0.3481782946177086,
+      "h" : 0.01031007766723635,
+      "text" : "[D] Early diabetic renal hyperfiltration stage",
+      "conf" : 1,
+      "x" : 0.17181069642489716,
+      "w" : 0.2530864019813777
+    },
+    {
+      "y" : 0.33575258387600493,
+      "h" : 0.008727390236324739,
+      "text" : "[E] End-Stage Renal Disease (ESRD) and the maintenance phase of Acute",
+      "conf" : 1,
+      "x" : 0.25823045984224935,
+      "w" : 0.4300411392307881
+    },
+    {
+      "y" : 0.3241569768953862,
+      "h" : 0.011686046388414195,
+      "text" : "Tubular Necrosis (ATN)",
+      "conf" : 1,
+      "x" : 0.11625514633058977,
+      "w" : 0.14197530686480445
+    },
+    {
+      "y" : 0.29361111130478573,
+      "h" : 0.011666666666666603,
+      "text" : "Q06. [2020 Exam] Urinary Specific Gravity measured by",
+      "conf" : 1,
+      "x" : 0.22530864553497937,
+      "w" : 0.3559670598252015
+    },
+    {
+      "y" : 0.2798546510822838,
+      "h" : 0.010290697415669792,
+      "text" : "refractometry or dipstick typically ranges from 1.003 to 1.030.",
+      "conf" : 1,
+      "x" : 0.2479423935871054,
+      "w" : 0.4053497794289259
+    },
+    {
+      "y" : 0.2667151163699128,
+      "h" : 0.010174418555365716,
+      "text" : "Hyposthenuria (<1.007) is characteristic of:",
+      "conf" : 1,
+      "x" : 0.18827160846193405,
+      "w" : 0.28189300441142146
+    },
+    {
+      "y" : 0.252180232630814,
+      "h" : 0.010174418555365605,
+      "text" : "[A] Severe volume depletion and prerenal azotemia",
+      "conf" : 1,
+      "x" : 0.19547325603566512,
+      "w" : 0.3004115122669148
+    },
+    {
+      "y" : 0.23976421160990996,
+      "h" : 0.011750645637512158,
+      "text" : "[B] Heavy proteinuria in nephrotic syndrome",
+      "conf" : 1,
+      "x" : 0.17489711502057628,
+      "w" : 0.2592592539277467
+    },
+    {
+      "y" : 0.22597222240578896,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Diabetes Insipidus (central or nephrogenic) and primary polydipsia",
+      "conf" : 1,
+      "x" : 0.24897119748971186,
+      "w" : 0.40740741273892
+    },
+    {
+      "y" : 0.21361111103801883,
+      "h" : 0.008888888888888835,
+      "text" : "[D] Radiographic iodinated contrast administration",
+      "conf" : 1,
+      "x" : 0.19341563292181088,
+      "w" : 0.29629629363054
+    },
+    {
+      "y" : 0.20125322993625572,
+      "h" : 0.010284237861633239,
+      "text" : "[E] Glucosuria in uncontrolled diabetes mellitus",
+      "conf" : 1,
+      "x" : 0.1841563820730452,
+      "w" : 0.27777776178324
+    },
+    {
+      "y" : 0.17151162796511626,
+      "h" : 0.01162790722317164,
+      "text" : "Q07. [2024 Exam] Routine urine dipsticks detect proteinuria using a",
+      "conf" : 1,
+      "x" : 0.2644032965226337,
+      "w" : 0.434156357867163
+    },
+    {
+      "y" : 0.15837209291152754,
+      "h" : 0.011744185553656639,
+      "text" : "colorimetric tetrabromphenol blue indicator. Which protein does the",
+      "conf" : 1,
+      "x" : 0.2664609126543207,
+      "w" : 0.4382715765035377
+    },
+    {
+      "y" : 0.14530361756239107,
+      "h" : 0.011718345748053638,
+      "text" : "standard dipstick detect with high sensitivity?",
+      "conf" : 1,
+      "x" : 0.19650206258573372,
+      "w" : 0.29835390294872743
+    },
+    {
+      "y" : 0.13013888886992692,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Bence-Jones free immunoglobulin light chains exclusively",
+      "conf" : 1,
+      "x" : 0.22427983181069963,
+      "w" : 0.3580246931351955
+    },
+    {
+      "y" : 0.11776485822279192,
+      "h" : 0.011692505942450637,
+      "text" : "[B] Tamm-Horsfall mucoprotein synthesized in the loop of Henle",
+      "conf" : 1,
+      "x" : 0.23353909180384097,
+      "w" : 0.3765432009906889
+    },
+    {
+      "y" : 0.10541666647474507,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Beta-2 microglobulin derived from proximal tubular breakdown",
+      "conf" : 1,
+      "x" : 0.237654325797325,
+      "w" : 0.38477366225524523
+    },
+    {
+      "y" : 0.09235465113073338,
+      "h" : 0.010290697415669792,
+      "text" : "[D] Hemoglobin alpha and beta chains in hemolytic crisis",
+      "conf" : 1,
+      "x" : 0.21399177517146756,
+      "w" : 0.33744855196970813
+    },
+    {
+      "y" : 0.07921511635174411,
+      "h" : 0.010174418555365716,
+      "text" : "[E] Albumin (it is relatively insensitive to globulins and Bence-Jones light",
+      "conf" : 1,
+      "x" : 0.25720165315500665,
+      "w" : 0.4238682872844193
+    },
+    {
+      "y" : 0.0668604650678295,
+      "h" : 0.00872092988755968,
+      "text" : "chains)",
+      "conf" : 1,
+      "x" : 0.0679012338134431,
+      "w" : 0.04526748897144629
+    },
+    {
+      "y" : 0.90182170540046,
+      "h" : 0.01031007766723624,
+      "text" : "Q08. [2022 Exam] A 65-year-old male with multiple myeloma",
+      "conf" : 1,
+      "x" : 0.7088477405144032,
+      "w" : 0.38888888089162
+    },
+    {
+      "y" : 0.8887532300255354,
+      "h" : 0.010284237331814161,
+      "text" : "presents with bone pain and renal failure. Urine dipstick is negative",
+      "conf" : 1,
+      "x" : 0.7294238610768178,
+      "w" : 0.434156357867163
+    },
+    {
+      "y" : 0.8749999998062015,
+      "h" : 0.011666666666666603,
+      "text" : "for protein, but 24-hr urine protein is 4.5 g. What test detects these",
+      "conf" : 1,
+      "x" : 0.728395063580247,
+      "w" : 0.4320987725407822
+    },
+    {
+      "y" : 0.8619186048467242,
+      "h" : 0.011739114125569716,
+      "text" : "light chains?",
+      "conf" : 1,
+      "x" : 0.5545267476342594,
+      "w" : 0.08439271555006878
+    },
+    {
+      "y" : 0.847383720872093,
+      "h" : 0.00872092988755968,
+      "text" : "[A] Glucose oxidase reagent strip test",
+      "conf" : 1,
+      "x" : 0.6224279813374487,
+      "w" : 0.22016460490676593
+    },
+    {
+      "y" : 0.8343023256540698,
+      "h" : 0.00872092988755968,
+      "text" : "[B] Griess nitrite diazotization reaction",
+      "conf" : 1,
+      "x" : 0.6244855995113168,
+      "w" : 0.2242798235431408
+    },
+    {
+      "y" : 0.8219476743640988,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Sulfosalicylic Acid (SSA) precipitation test (turbidimetric assay)",
+      "conf" : 1,
+      "x" : 0.7067901185956792,
+      "w" : 0.38888888089162
+    },
+    {
+      "y" : 0.8088662791242733,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Nitroprusside legal reaction",
+      "conf" : 1,
+      "x" : 0.6049382738683127,
+      "w" : 0.18106995588578523
+    },
+    {
+      "y" : 0.7957848836482558,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Leukocyte esterase indoxyl ester cleavage",
+      "conf" : 1,
+      "x" : 0.6450617239711937,
+      "w" : 0.2654320818823088
+    },
+    {
+      "y" : 0.7805490956906675,
+      "h" : 0.011679586304558565,
+      "text" : "Q09. [2023 Exam] Microalbuminuria is defined as urinary albumin",
+      "conf" : 1,
+      "x" : 0.7242798404663922,
+      "w" : 0.4197530686480444
+    },
+    {
+      "y" : 0.7667151162063954,
+      "h" : 0.010174418555365716,
+      "text" : "excretion between 30 and 300 mg\/day (or 30-300 mcg\/mg",
+      "conf" : 1,
+      "x" : 0.7026748907750346,
+      "w" : 0.3806584196270636
+    },
+    {
+      "y" : 0.7536337210029069,
+      "h" : 0.010174418555365716,
+      "text" : "creatinine). Its primary clinical significance is:",
+      "conf" : 1,
+      "x" : 0.6625514432921811,
+      "w" : 0.29629629363054
+    },
+    {
+      "y" : 0.7390374678280656,
+      "h" : 0.010297157499525311,
+      "text" : "[A] It is the earliest clinically detectable marker of Diabetic Nephropathy and",
+      "conf" : 1,
+      "x" : 0.7355967133487653,
+      "w" : 0.44238684312352594
+    },
+    {
+      "y" : 0.7274709301598836,
+      "h" : 0.010174418555365716,
+      "text" : "endothelial injury",
+      "conf" : 1,
+      "x" : 0.5637860065157753,
+      "w" : 0.10288065784382372
+    },
+    {
+      "y" : 0.7143217053035609,
+      "h" : 0.01031007766723635,
+      "text" : "[B] It indicates irreversible end-stage renal sclerotic destruction",
+      "conf" : 1,
+      "x" : 0.6965020514746231,
+      "w" : 0.36831273972613254
+    },
+    {
+      "y" : 0.701253229827244,
+      "h" : 0.01028423786163335,
+      "text" : "[C] It confirms the presence of acute ascending bacterial pyelonephritis",
+      "conf" : 1,
+      "x" : 0.7201646038580249,
+      "w" : 0.41563785001166964
+    },
+    {
+      "y" : 0.6881944443692624,
+      "h" : 0.01027777777777783,
+      "text" : "[D] It is a benign physiological variant requiring no pharmacological therapy",
+      "conf" : 1,
+      "x" : 0.7325102954046638,
+      "w" : 0.44032920981353196
+    },
+    {
+      "y" : 0.675843023104614,
+      "h" : 0.011686046388414195,
+      "text" : "[E] It proves the diagnosis of Wilson disease",
+      "conf" : 1,
+      "x" : 0.6419753045953362,
+      "w" : 0.2592592539277466
+    },
+    {
+      "y" : 0.6591569766715117,
+      "h" : 0.010174418555365716,
+      "text" : "Q10. [2021 Exam] To differentiate true Hematuria from",
+      "conf" : 1,
+      "x" : 0.6903292121742115,
+      "w" : 0.3559670598252014
+    },
+    {
+      "y" : 0.6453036176238123,
+      "h" : 0.011718346277872715,
+      "text" : "Hemoglobinuria or Myoglobinuria in reddish urine, the sample is",
+      "conf" : 1,
+      "x" : 0.7201646049382717,
+      "w" : 0.41152263137529477
+    },
+    {
+      "y" : 0.6322351421163555,
+      "h" : 0.011692505942450526,
+      "text" : "centrifuged. What result indicates true hematuria?",
+      "conf" : 1,
+      "x" : 0.6800411577846363,
+      "w" : 0.3312757000233393
+    },
+    {
+      "y" : 0.6170704135401703,
+      "h" : 0.01030361758338083,
+      "text" : "[A] Clear red supernatant with no pellet at the bottom",
+      "conf" : 1,
+      "x" : 0.6687242850480108,
+      "w" : 0.3127571921678459
+    },
+    {
+      "y" : 0.6039244186773256,
+      "h" : 0.010174418555365605,
+      "text" : "[B] Supernatant remains bright red and turns green after acidification",
+      "conf" : 1,
+      "x" : 0.7139917762688612,
+      "w" : 0.4032921461189318
+    },
+    {
+      "y" : 0.5908430233466571,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Formation of a thick floating chylous layer at the surface",
+      "conf" : 1,
+      "x" : 0.6862139961676954,
+      "w" : 0.3518518411888266
+    },
+    {
+      "y" : 0.579215116224564,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Intact RBC pellet at the bottom with a clear, straw-colored supernatant",
+      "conf" : 1,
+      "x" : 0.7263374431584363,
+      "w" : 0.4320987725407821
+    },
+    {
+      "y" : 0.5661337208757267,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Instant disappearance of all reddish color upon exposure to air",
+      "conf" : 1,
+      "x" : 0.703703698868313,
+      "w" : 0.38683127157343267
+    },
+    {
+      "y" : 0.5370833333009626,
+      "h" : 0.01027777777777783,
+      "text" : "Q11. [2025 Exam] Reddish-brown urine yields a red supernatant",
+      "conf" : 1,
+      "x" : 0.7191358076388887,
+      "w" : 0.41358021670167544
+    },
+    {
+      "y" : 0.5240277775457614,
+      "h" : 0.010277777777777719,
+      "text" : "post-centrifugation (heme+ on dipstick). Serum haptoglobin is",
+      "conf" : 1,
+      "x" : 0.713991762825789,
+      "w" : 0.4032921461189318
+    },
+    {
+      "y" : 0.5109625321719344,
+      "h" : 0.010297157499525311,
+      "text" : "normal, and CPK is 25,000 U\/L. The diagnosis is:",
+      "conf" : 1,
+      "x" : 0.6707818890432099,
+      "w" : 0.3168724108042207
+    },
+    {
+      "y" : 0.4948611111591429,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Intravascular hemolysis with hemoglobinuria",
+      "conf" : 1,
+      "x" : 0.6543209923868312,
+      "w" : 0.28395061372960895
+    },
+    {
+      "y" : 0.48180555537366054,
+      "h" : 0.01027777777777783,
+      "text" : "[B] Glomerulonephritis with dysmorphic RBC casts",
+      "conf" : 1,
+      "x" : 0.6604938280521262,
+      "w" : 0.29629629363054
+    },
+    {
+      "y" : 0.46945090430933234,
+      "h" : 0.011679586304558676,
+      "text" : "[C] Rhabdomyolysis with Myoglobinuria (low protein binding & rapid",
+      "conf" : 1,
+      "x" : 0.7088477429698214,
+      "w" : 0.3971193181643695
+    },
+    {
+      "y" : 0.45784883715146557,
+      "h" : 0.00928370475769047,
+      "text" : "clearance)",
+      "conf" : 1,
+      "x" : 0.5442386820654128,
+      "w" : 0.06393540580317658
+    },
+    {
+      "y" : 0.4454295866051785,
+      "h" : 0.01030361758338083,
+      "text" : "[D] Papillary transitional cell bladder carcinoma",
+      "conf" : 1,
+      "x" : 0.6502057659807954,
+      "w" : 0.2798353711014273
+    },
+    {
+      "y" : 0.43236111117731135,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Alkaptonuria with homogentisic aciduria",
+      "conf" : 1,
+      "x" : 0.6419753119341562,
+      "w" : 0.2633744725641215
+    },
+    {
+      "y" : 0.4156976745155038,
+      "h" : 0.011627906163533486,
+      "text" : "Q12. [2020 Exam] The urine dipstick Nitrite test is useful for",
+      "conf" : 1,
+      "x" : 0.7067901299382715,
+      "w" : 0.3888888808916201
+    },
+    {
+      "y" : 0.4025484494169329,
+      "h" : 0.01176356527540423,
+      "text" : "screening for Urinary Tract Infections (UTs) because it detects:",
+      "conf" : 1,
+      "x" : 0.7191357955761319,
+      "w" : 0.41358021670167544
+    },
+    {
+      "y" : 0.38736111088640074,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Any viral or fungal particle multiplying in the bladder",
+      "conf" : 1,
+      "x" : 0.6748971192729766,
+      "w" : 0.32510287206877697
+    },
+    {
+      "y" : 0.37430555575791785,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Gram-negative enterobacteria (e.g., E. coli, Proteus) that reduce dietary",
+      "conf" : 1,
+      "x" : 0.7283950671296295,
+      "w" : 0.4320987725407822
+    },
+    {
+      "y" : 0.36333333327929573,
+      "h" : 0.008888889153798374,
+      "text" : "nitrate to nitrite",
+      "conf" : 1,
+      "x" : 0.5606995901577503,
+      "w" : 0.10082303652973301
+    },
+    {
+      "y" : 0.34814599482964215,
+      "h" : 0.013152454694112192,
+      "text" : "[C] White blood cell degranulation enzymes in the urinary sediment",
+      "conf" : 1,
+      "x" : 0.7067901175925928,
+      "w" : 0.39300409952799464
+    },
+    {
+      "y" : 0.3365277780271309,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Breakdown products of urothelial transitional cell carcinoma",
+      "conf" : 1,
+      "x" : 0.6985596677983541,
+      "w" : 0.37242798235431407
+    },
+    {
+      "y" : 0.3248611111558032,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Uric acid crystal precipitation in acidic urine",
+      "conf" : 1,
+      "x" : 0.6481481447016462,
+      "w" : 0.27572015246505255
+    },
+    {
+      "y" : 0.2936111113556578,
+      "h" : 0.011666666666666603,
+      "text" : "Q13. [Faculty Exam] Which urinary pathogen is a common cause of",
+      "conf" : 1,
+      "x" : 0.7294238736882716,
+      "w" : 0.4300411392307881
+    },
+    {
+      "y" : 0.2798546510398905,
+      "h" : 0.010290697415669792,
+      "text" : "UTI but consistently yields a FALSE-NEGATIVE dipstick Nitrite test",
+      "conf" : 1,
+      "x" : 0.7273662497685187,
+      "w" : 0.4300411392307881
+    },
+    {
+      "y" : 0.2674289404896404,
+      "h" : 0.008746769693162681,
+      "text" : "because it lacks nitrate reductase?",
+      "conf" : 1,
+      "x" : 0.625514400462963,
+      "w" : 0.22633743286132812
+    },
+    {
+      "y" : 0.252180232630814,
+      "h" : 0.010174418555365605,
+      "text" : "[A] Escherichia coli",
+      "conf" : 1,
+      "x" : 0.5709876563443071,
+      "w" : 0.12139917769522035
+    },
+    {
+      "y" : 0.2390374678280655,
+      "h" : 0.010297157499525311,
+      "text" : "[B] Klebsiella pneumoniae",
+      "conf" : 1,
+      "x" : 0.5895061748199588,
+      "w" : 0.15843620540211034
+    },
+    {
+      "y" : 0.22674741616111377,
+      "h" : 0.0087273899714152,
+      "text" : "[C] Proteus mirabilis",
+      "conf" : 1,
+      "x" : 0.5761316888374486,
+      "w" : 0.12757201764568593
+    },
+    {
+      "y" : 0.21361111103801883,
+      "h" : 0.008888888888888835,
+      "text" : "[D] Enterococcus faecalis (or Staphylococcus saprophyticus)",
+      "conf" : 1,
+      "x" : 0.6893004055555557,
+      "w" : 0.3580246691433888
+    },
+    {
+      "y" : 0.20125323005132362,
+      "h" : 0.01028423786163335,
+      "text" : "[E] Enterobacter cloacae",
+      "conf" : 1,
+      "x" : 0.5843621377914954,
+      "w" : 0.14814814681527
+    },
+    {
+      "y" : 0.17151162785852725,
+      "h" : 0.011627906163533597,
+      "text" : "Q14. [Core Exam] Urine dipstick tests for Bilirubin and Urobilinogen",
+      "conf" : 1,
+      "x" : 0.7263374412894379,
+      "w" : 0.4362139911771571
+    },
+    {
+      "y" : 0.1576453488874351,
+      "h" : 0.010290697415669792,
+      "text" : "assist in jaundice differential. In complete Obstructive (Cholestatic)",
+      "conf" : 1,
+      "x" : 0.7304526694444446,
+      "w" : 0.4362139911771571
+    },
+    {
+      "y" : 0.1453036175139415,
+      "h" : 0.011718345748053638,
+      "text" : "Jaundice, the expected pattern is:",
+      "conf" : 1,
+      "x" : 0.6255144070644717,
+      "w" : 0.22633743286132812
+    },
+    {
+      "y" : 0.13013888903465576,
+      "h" : 0.01027777777777783,
+      "text" : "[A] Bilirubin negative, Urobilinogen markedly increased",
+      "conf" : 1,
+      "x" : 0.6707818983539093,
+      "w" : 0.3209876534324023
+    },
+    {
+      "y" : 0.11707041344327118,
+      "h" : 0.01030361758338083,
+      "text" : "[B] Bilirubin positive (unconjugated), Urobilinogen normal",
+      "conf" : 1,
+      "x" : 0.6779835335048012,
+      "w" : 0.3353909426515208
+    },
+    {
+      "y" : 0.10469638277675619,
+      "h" : 0.011718345748053638,
+      "text" : "[C] Bilirubin positive (conjugated), Urobilinogen ABSENT (conjugated bile",
+      "conf" : 1,
+      "x" : 0.7232510218449933,
+      "w" : 0.42592592059441325
+    },
+    {
+      "y" : 0.09305555563073753,
+      "h" : 0.008888888888888946,
+      "text" : "cannot reach intestine)",
+      "conf" : 1,
+      "x" : 0.5802469118827163,
+      "w" : 0.13580246691433884
+    },
+    {
+      "y" : 0.08069444451127161,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Both Bilirubin and Urobilinogen completely negative",
+      "conf" : 1,
+      "x" : 0.671810703626543,
+      "w" : 0.32304526275058953
+    },
+    {
+      "y" : 0.06763888885902586,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Both Bilirubin and Urobilinogen maximally elevated",
+      "conf" : 1,
+      "x" : 0.6687242758744856,
+      "w" : 0.3168724108042206
+    },
+    {
+      "y" : 0.013808139698401167,
+      "h" : 0.01598837216695148,
+      "text" : "Twisted Medicine • Renal Physiology & Laboratory Master Class • Strictly Grounded in Fely & Board Exam Past Papers",
+      "conf" : 1,
+      "x" : 0.3569958928755142,
+      "w" : 0.64814811082756
+    },
+    {
+      "y" : 0.01812338504586325,
+      "h" : 0.007357881069183336,
+      "text" : "Confidential Student Revision Bank",
+      "conf" : 1,
+      "x" : 0.8734567925154321,
+      "w" : 0.19135801447262546
+    }
+  ],
+  "page" : 71
+}

@@ -1,0 +1,1045 @@
+{
+  "items" : [
+    {
+      "conf" : 1,
+      "y" : 0.9766957360185253,
+      "w" : 0.4691357882517689,
+      "x" : 0.2818930030864198,
+      "h" : 0.011724805831909157,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 34 MCQ Masterclass"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9636111110501311,
+      "w" : 0.7119341196504029,
+      "x" : 0.40123455900205773,
+      "h" : 0.008888888888888835,
+      "text" : "Twisted Medicine Medical Series • CKD Epidemiology, Prevention Levels, Screening & Health Economics • Standard Practice Bank"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9766957364061222,
+      "w" : 0.07613168272582238,
+      "x" : 0.9187242807613167,
+      "h" : 0.011724805831909157,
+      "text" : "Page 3 of 4"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9280523256540698,
+      "w" : 0.38477366225524523,
+      "x" : 0.23971193800411514,
+      "h" : 0.010174418555365716,
+      "text" : "Q29. [2025 Exam] From a health policy perspective, which"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.915697674491279,
+      "w" : 0.41563785001166953,
+      "x" : 0.2551440381172838,
+      "h" : 0.011627906163533486,
+      "text" : "screening strategy for Chronic Kidney Disease is proven to be"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9040697674580104,
+      "w" : 0.09876543320949721,
+      "x" : 0.09670781890717878,
+      "h" : 0.008720930417378758,
+      "text" : "cost-effective?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8887532299544243,
+      "w" : 0.31893004411421483,
+      "x" : 0.20473251347736623,
+      "h" : 0.01028423786163335,
+      "text" : "[A] Universal mass screening of all asymptomatic adults"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8771802324854652,
+      "w" : 0.2839506137296089,
+      "x" : 0.18930040679012367,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Annual renal CT angiography for all adults >40"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8655523256722384,
+      "w" : 0.28600822304779633,
+      "x" : 0.1903292216820987,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Screening only patients hospitalized in the ICU"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8539244185804264,
+      "w" : 0.41769543533805037,
+      "x" : 0.25411523329903957,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Targeted screening of high-risk populations (diabetics, hypertensives,"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8415697672965117,
+      "w" : 0.08230452267628795,
+      "x" : 0.0864197542524005,
+      "h" : 0.00872092988755968,
+      "text" : "tamily history)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8306944445003704,
+      "w" : 0.27160493382867773,
+      "x" : 0.1810699615637859,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Screening only pregnant females at delivery"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8073611111046369,
+      "w" : 0.360082302453383,
+      "x" : 0.22736625964506163,
+      "h" : 0.01027777777777783,
+      "text" : "Q30. [2024 Exam] What constitutes the gold-standard,"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7943055556340772,
+      "w" : 0.3847736622552452,
+      "x" : 0.23971193896604925,
+      "h" : 0.01027777777777783,
+      "text" : "cost-effective laboratory duo for annual CKD screening in"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7812499999563953,
+      "w" : 0.23045267548950962,
+      "x" : 0.1625514380246914,
+      "h" : 0.010277777777777719,
+      "text" : "high-risk patients (e.g., diabetics)?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7674289405041752,
+      "w" : 0.33127572401514593,
+      "x" : 0.21090534648148154,
+      "h" : 0.008746769693162681,
+      "text" : "[A] Serum cystatin C combined with urine glucose dipstick"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.755833333282794,
+      "w" : 0.2942386843123526,
+      "x" : 0.19238683495370362,
+      "h" : 0.008888888888888946,
+      "text" : "[B] 24-hour urine collection for uric acid and sodium"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7448611111409742,
+      "w" : 0.3580246931351956,
+      "x" : 0.22427983986625508,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Routine plain abdominal X-ray (KUB) and serum potassium"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7325710594732409,
+      "w" : 0.32304526275058965,
+      "x" : 0.20679011807270253,
+      "h" : 0.00874676995807222,
+      "text" : "[D] Renal core needle biopsy under ultrasound guidance"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7216569769137597,
+      "w" : 0.3436213799242704,
+      "x" : 0.21707819077503426,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Serum Creatinine (to calculate eGFR) PLUS a spot urine"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7093023255232558,
+      "w" : 0.1954732451049037,
+      "x" : 0.14506172644032927,
+      "h" : 0.00872092988755968,
+      "text" : "Albumin-to-Creatinine Ratio (ACR)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6868055557579179,
+      "w" : 0.4012345607925511,
+      "x" : 0.2479423918467077,
+      "h" : 0.01027777777777783,
+      "text" : "Q31. [2023 Exam] Why is routine urine dipstick testing alone"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6737467702090931,
+      "w" : 0.4218107019580385,
+      "x" : 0.2561728447788064,
+      "h" : 0.01028423786163335,
+      "text" : "(without quantitative ACR) INADEQUATE for early screening of"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6606782947630574,
+      "w" : 0.16666666666666669,
+      "x" : 0.13065843829732504,
+      "h" : 0.01031007766723635,
+      "text" : "diabetic kidney disease?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6460755814861918,
+      "w" : 0.4176954833216637,
+      "x" : 0.2561728447273661,
+      "h" : 0.010174418555365605,
+      "text" : "[A] Dipstick protein reagent pads are insensitive to albuminuria below 300"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.634447674491279,
+      "w" : 0.28806583236598365,
+      "x" : 0.19135802949245523,
+      "h" : 0.010174418555365605,
+      "text" : "mg\/L (they miss early Microalbuminuria, Stage A2)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6235885015720377,
+      "w" : 0.3868312715734326,
+      "x" : 0.24074074087791497,
+      "h" : 0.011711885664198007,
+      "text" : "[B] Dipsticks give false-positive readings in 100% of healthy patients"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6112467699486765,
+      "w" : 0.2983539029487274,
+      "x" : 0.19650206080246901,
+      "h" : 0.01028423786163335,
+      "text" : "[C] Dipsticks detect only immunoglobulin light chains"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5995833333009626,
+      "w" : 0.36213991177157034,
+      "x" : 0.2283950662551439,
+      "h" : 0.01027777777777783,
+      "text" : "[D] Dipsticks are destroyed by normal urine urea concentrations"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5879166668625548,
+      "w" : 0.28189300441142146,
+      "x" : 0.1862139964677639,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Dipstick testing takes 48 hours to yield results"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5646802325145348,
+      "w" : 0.42592592059441337,
+      "x" : 0.2602880615843622,
+      "h" : 0.010174418555365716,
+      "text" : "Q32. [2022 Exam] Regarding the health economics of End-Stage"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5515374677917283,
+      "w" : 0.4218107019580386,
+      "x" : 0.2582304579475308,
+      "h" : 0.0102971574995252,
+      "text" : "Renal Disease (ESRD), what remarkable disparity characterizes"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5391957363576727,
+      "w" : 0.16666666666666666,
+      "x" : 0.1306584380401234,
+      "h" : 0.011724805831909157,
+      "text" : "RRT funding worldwide?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.525416666717206,
+      "w" : 0.34156377060608295,
+      "x" : 0.2160493770233198,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Dialysis costs less than $10 per patient per year globally"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5137532299544243,
+      "w" : 0.434156357867163,
+      "x" : 0.2644032965226337,
+      "h" : 0.01028423786163335,
+      "text" : "[B] ESRD consumes approximately 5% to 7% of national healthcare budgets"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.502180232388566,
+      "w" : 0.3683127397261325,
+      "x" : 0.23148148583676248,
+      "h" : 0.010174418555365716,
+      "text" : "while patients represent less than 0.1% to 0.2% of the population"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.49055232541182175,
+      "w" : 0.36831273972613254,
+      "x" : 0.2294238642318246,
+      "h" : 0.010174418555365716,
+      "text" : "[C] Kidney disease is the least expensive chronic medical illness"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4789244186773256,
+      "w" : 0.3950617088461822,
+      "x" : 0.24485597366255119,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Developing nations spend 90% of their GDP on peritoneal dialysis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4673546512321255,
+      "w" : 0.3641975210897577,
+      "x" : 0.22736625059156387,
+      "h" : 0.01029069794548887,
+      "text" : "[E] RRT funding is entirely covered by international lottery funds"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.44333333354614024,
+      "w" : 0.3641975210897577,
+      "x" : 0.2294238677983539,
+      "h" : 0.011666666666666714,
+      "text" : "Q33. [2021 Exam] Among the three modalities of Renal"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.43097222205431635,
+      "w" : 0.4094649980653008,
+      "x" : 0.25205761828703693,
+      "h" : 0.010277777777777719,
+      "text" : "Replacement Therapy (Hemodialysis, Peritoneal Dialysis, and"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.41791666651108217,
+      "w" : 0.41563785001166953,
+      "x" : 0.2551440381172838,
+      "h" : 0.01027777777777783,
+      "text" : "Kidney Transplantation), which modality provides the greatest"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.404854651279364,
+      "w" : 0.3847736622552452,
+      "x" : 0.23765431713991775,
+      "h" : 0.010290697945488758,
+      "text" : "long-term survival, quality of life, and cost-effectiveness?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3909883721656977,
+      "w" : 0.32510287206877697,
+      "x" : 0.20987654727366242,
+      "h" : 0.00872092988755968,
+      "text" : "[A] Nocturnal home hemodialysis with bioartificial kidneys"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.37936046502016146,
+      "w" : 0.3127571921678459,
+      "x" : 0.20370370761316864,
+      "h" : 0.00872093015246922,
+      "text" : "[B] In-center maintenance hemodialysis 3 times weekly"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.36707041329792234,
+      "w" : 0.325102872068777,
+      "x" : 0.20781892969821672,
+      "h" : 0.01030361758338083,
+      "text" : "[C] Continuous ambulatory peritoneal dialysis indefinitely"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3568055556159086,
+      "w" : 0.22016460490676593,
+      "x" : 0.15534979790809317,
+      "h" : 0.010277777777777719,
+      "text" : "[D] Successful Kidney Transplantation"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3451453488147609,
+      "w" : 0.29629629363053994,
+      "x" : 0.1934156388374485,
+      "h" : 0.010290697415669792,
+      "text" : "[E] Conservative medical management without RRT"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.32273578841431494,
+      "w" : 0.4238682872844192,
+      "x" : 0.2592592645576131,
+      "h" : 0.01175064563751227,
+      "text" : "Q34. [2020 Exam] In Egypt and many developing nations, which"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3095930233042635,
+      "w" : 0.4341563578671629,
+      "x" : 0.2644032994170093,
+      "h" : 0.011627906163533597,
+      "text" : "RRT modality accounts for the overwhelming majority (>85-90%)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.29723837221414734,
+      "w" : 0.2654320818823089,
+      "x" : 0.18004115668724266,
+      "h" : 0.010174418555365716,
+      "text" : "of patients on chronic dialytic support?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2826453488874351,
+      "w" : 0.3127571921678459,
+      "x" : 0.20164608662551448,
+      "h" : 0.010290697415669792,
+      "text" : "[A] Continuous Ambulatory Peritoneal Dialysis (CAPD)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2718023254844962,
+      "w" : 0.232510284807697,
+      "x" : 0.16152262986968463,
+      "h" : 0.011627906163533486,
+      "text" : "[B] Automated Peritoneal Dialysis (APD)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.26096253238995776,
+      "w" : 0.2304526754895096,
+      "x" : 0.1604938262345679,
+      "h" : 0.010297157499525311,
+      "text" : "[C] In-center Maintenance Hemodialysis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.24781976751453488,
+      "w" : 0.13991768555071368,
+      "x" : 0.11522633978052117,
+      "h" : 0.010174418555365716,
+      "text" : "[D] Home Hemodialysis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.23694444451490526,
+      "w" : 0.267489715192303,
+      "x" : 0.17901234835390945,
+      "h" : 0.008888888888888946,
+      "text" : "[E] Preemptive pediatric kidney transplantation"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.20125322982724408,
+      "w" : 0.44032920981353185,
+      "x" : 0.2674897064300413,
+      "h" : 0.01028423786163335,
+      "text" : "Q35. [2024 Exam] What is the primary public health barrier limiting"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.1881944443692623,
+      "w" : 0.41769543533805037,
+      "x" : 0.25411523329903957,
+      "h" : 0.010277777777777719,
+      "text" : "the wider adoption of Peritoneal Dialysis (PD) in low-to-middle"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.1765374678583465,
+      "w" : 0.13374484560024813,
+      "x" : 0.1121399199245541,
+      "h" : 0.010297157499525311,
+      "text" : "income countries?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.16208333328279395,
+      "w" : 0.3621399117715704,
+      "x" : 0.22633745459533589,
+      "h" : 0.010277777777777719,
+      "text" : "[A] National laws strictly forbid home-based medical treatments"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.1504166668443862,
+      "w" : 0.3703703730361267,
+      "x" : 0.23251029269547316,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Complete lack of peritoneal membranes in elderly populations"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.13875322993625572,
+      "w" : 0.3395061612878955,
+      "x" : 0.21502058037551433,
+      "h" : 0.010284237861633239,
+      "text" : "[C] PD is 100% ineffective at removing urea and potassium"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.12648198683524975,
+      "w" : 0.3478704488502359,
+      "x" : 0.21913607701705956,
+      "h" : 0.011855647828843963,
+      "text" : "[D] PD requires general anesthesia for every daily exchange"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.1155523257025195,
+      "w" : 0.4300411392307881,
+      "x" : 0.26028807301097373,
+      "h" : 0.010174418555365605,
+      "text" : "[E] High cost of imported dialysate bags, lack of local manufacturing, risk of"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.1039244186773256,
+      "w" : 0.306584340221477,
+      "x" : 0.1985596758916322,
+      "h" : 0.010174418555365605,
+      "text" : "peritonitis, and shortage of trained nephrology nurses"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.928052325599564,
+      "w" : 0.4197530686480444,
+      "x" : 0.7201646143004113,
+      "h" : 0.010174418555365605,
+      "text" : "Q36. [2023 Exam] What is 'Preemptive Kidney Transplantation',"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9149709303234012,
+      "w" : 0.3559670598252016,
+      "x" : 0.6862139962191357,
+      "h" : 0.010174418555365605,
+      "text" : "and what is its major epidemiological advantage over"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.9033430231831395,
+      "w" : 0.33127570002333917,
+      "x" : 0.6738683072359397,
+      "h" : 0.010174418555365605,
+      "text" : "transplantation performed after years of dialysis?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8887532299544243,
+      "w" : 0.3662551304079452,
+      "x" : 0.6913580307956102,
+      "h" : 0.01028423786163335,
+      "text" : "[A] Transplantation of artificial mechanical kidneys into cadavers"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8771802324854652,
+      "w" : 0.43827157650353776,
+      "x" : 0.7273662478395064,
+      "h" : 0.010174418555365716,
+      "text" : "[B] Transplantation performed BEFORE the initiation of maintenance dialysis;"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.865552325508721,
+      "w" : 0.2798353711014274,
+      "x" : 0.6481481434842251,
+      "h" : 0.010174418555365716,
+      "text" : "associated with superior graft and patient survival"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8539244185319768,
+      "w" : 0.3641975210897578,
+      "x" : 0.6903292120370372,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Transplanting animal kidneys into patients with Stage 1 CKD"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8423546511307335,
+      "w" : 0.38683127157343256,
+      "x" : 0.7016460969821671,
+      "h" : 0.010290697415669792,
+      "text" : "[D] Removing kidneys from healthy infants to prevent future disease"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8306944443659228,
+      "w" : 0.27777776178324,
+      "x" : 0.6471193380915639,
+      "h" : 0.01027777777777783,
+      "text" : "[E] Donating kidneys without cross-match testing"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.8073611111591428,
+      "w" : 0.4218107019580386,
+      "x" : 0.721193419855967,
+      "h" : 0.01027777777777783,
+      "text" : "Q37. [2022 Exam] The International Society of Nephrology (ISN)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7943055556643582,
+      "w" : 0.4465020617599008,
+      "x" : 0.7314814889231822,
+      "h" : 0.01027777777777783,
+      "text" : "launched the 'Oby25' Global Initiative, which aims to achieve which"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7819444444235232,
+      "w" : 0.1646090573484792,
+      "x" : 0.5925925926941709,
+      "h" : 0.008888889153798374,
+      "text" : "public health milestone?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7681944443840913,
+      "w" : 0.4341563578671629,
+      "x" : 0.7253086347393691,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Zero preventable deaths from Acute Kidney Injury (AKI) worldwide by the"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7558333332585692,
+      "w" : 0.26748969120049626,
+      "x" : 0.641975313100137,
+      "h" : 0.008888888888888835,
+      "text" : "year 2025, particularly in low-resource settings"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.744166666717206,
+      "w" : 0.33744855196970824,
+      "x" : 0.6790123414609055,
+      "h" : 0.008888888888888946,
+      "text" : "[B] Zero dialyzed patients in all European hospitals by 2025"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7318055553736605,
+      "w" : 0.34773662255245186,
+      "x" : 0.6841563752743485,
+      "h" : 0.01027777777777783,
+      "text" : "C] Reducing global salt intake to exactly zero grams by 2025"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7209302326550387,
+      "w" : 0.28395061372960884,
+      "x" : 0.6522633792181068,
+      "h" : 0.00872092988755968,
+      "text" : "[D] Banning all pharmaceutical antibiotics by 2025"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.7093023256540698,
+      "w" : 0.3127571921678459,
+      "x" : 0.6646090574074073,
+      "h" : 0.00872092988755968,
+      "text" : "[E] Eradicating diabetes mellitus globally within 5 years"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6868055557760865,
+      "w" : 0.4465020617599008,
+      "x" : 0.7335390991152262,
+      "h" : 0.01027777777777783,
+      "text" : "Q38. [2021 Exam] In community-acquired Acute Kidney Injury (AKI)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.673746770172756,
+      "w" : 0.43827157650353765,
+      "x" : 0.7273662606224278,
+      "h" : 0.01028423786163335,
+      "text" : "in developing countries, what preventable etiologies predominate"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6606782945813714,
+      "w" : 0.23456789412588452,
+      "x" : 0.6255144003600823,
+      "h" : 0.01031007766723624,
+      "text" : "compared to high-income nations?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6460755812257752,
+      "w" : 0.2983539029487273,
+      "x" : 0.6594650197873801,
+      "h" : 0.010174418555365716,
+      "text" : "[A] Extensive multi-organ radiocontrast examinations"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.634447674491279,
+      "w" : 0.28395061372960884,
+      "x" : 0.6522633792181068,
+      "h" : 0.010174418555365605,
+      "text" : "[B] Coronary artery bypass graft surgical ischemia"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6228197673146803,
+      "w" : 0.4320987725407822,
+      "x" : 0.7242798318415637,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Severe gastroenteritis with dehydration, malaria, snakebites, toxic herbal"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.6119444443840913,
+      "w" : 0.2530864019813778,
+      "x" : 0.6347736593878601,
+      "h" : 0.008888888888888946,
+      "text" : "remedies, and septic obstetric complications"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5995833333009626,
+      "w" : 0.34362137992427033,
+      "x" : 0.6820987697273662,
+      "h" : 0.01027777777777783,
+      "text" : "[D] High-dose chemotherapy for advanced multiple myeloma"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5879166668625548,
+      "w" : 0.23662550344407185,
+      "x" : 0.6265432138203016,
+      "h" : 0.010277777777777719,
+      "text" : "[E] Solid organ transplant rejection crises"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5646802326489826,
+      "w" : 0.43827157650353776,
+      "x" : 0.729423873791152,
+      "h" : 0.010174418555365605,
+      "text" : "Q39. [2025 Exam] What is the epidemiological distinction between"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5515374676766605,
+      "w" : 0.4115226313752949,
+      "x" : 0.7160493792866941,
+      "h" : 0.010297157499525422,
+      "text" : "Community-Acquired AKI (CA-AKI) and Hospital-Acquired AKI"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5392441859538422,
+      "w" : 0.07218913912023384,
+      "x" : 0.5421810692400509,
+      "h" : 0.012173746956719245,
+      "text" : "(HA-AKI)?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5261111111349179,
+      "w" : 0.3251028720687771,
+      "x" : 0.6707818984224965,
+      "h" : 0.008888888888888835,
+      "text" : "[A] CA-AKI requires permanent hemodialysis in all cases"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.5137532299544244,
+      "w" : 0.38683127157343256,
+      "x" : 0.7016460969821671,
+      "h" : 0.010284237861633239,
+      "text" : "[B] CA-AKI has 100% mortality rate while HA-AKI has zero mortality"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.502180232388566,
+      "w" : 0.28395061372960884,
+      "x" : 0.6502057633744855,
+      "h" : 0.010174418555365716,
+      "text" : "[C] HA-AKI is caused exclusively by snake venom"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.49055232550872097,
+      "w" : 0.4094649980653007,
+      "x" : 0.7129629561385461,
+      "h" : 0.010174418555365605,
+      "text" : "[D] CA-AKI is young, single-organ, hypovolemia-driven; HA-AKI is older,"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.47892441853197676,
+      "w" : 0.16872427598485407,
+      "x" : 0.5925925897805213,
+      "h" : 0.010174418555365605,
+      "text" : "multi-organ ICU sepsis\/toxins"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.4673546511307335,
+      "w" : 0.24691357402681557,
+      "x" : 0.6296296337448559,
+      "h" : 0.010290697415669792,
+      "text" : "[E] HA-AKI never involves tubular necrosis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.44402777757938194,
+      "w" : 0.40740741273892,
+      "x" : 0.7139917736213992,
+      "h" : 0.01027777777777783,
+      "text" : "Q40. [Faculty Exam] Which public health legal framework has"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.43097222201797913,
+      "w" : 0.4320987725407822,
+      "x" : 0.7263374539609053,
+      "h" : 0.01027777777777783,
+      "text" : "markedly increased deceased donor kidney transplantation rates"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.41791666651108217,
+      "w" : 0.06584361814103035,
+      "x" : 0.5411522641975308,
+      "h" : 0.01027777777777783,
+      "text" : "in Spain?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.40406976751453483,
+      "w" : 0.37037037303612663,
+      "x" : 0.693415642489712,
+      "h" : 0.00872092988755968,
+      "text" : "[A] Restricting kidney transplantation strictly to patients aged >80"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3931944443840914,
+      "w" : 0.3189300201224081,
+      "x" : 0.6676954679355284,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Mandatory living donor nephrectomy for all prisoners"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3815277776762812,
+      "w" : 0.3106995828496585,
+      "x" : 0.6635802424897121,
+      "h" : 0.01027777777777783,
+      "text" : "[C] Commercial sale of kidneys in open public markets"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3691666667414308,
+      "w" : 0.2818930044114215,
+      "x" : 0.6491769500342937,
+      "h" : 0.008888888888888835,
+      "text" : "[D] Banning deceased organ donation completely"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.35828488389050384,
+      "w" : 0.38271602894525103,
+      "x" : 0.6995884755829904,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Opt-Out (Presumed Consent) legislation with hospital transplant"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3459302326065891,
+      "w" : 0.07407407340763494,
+      "x" : 0.5452674909465021,
+      "h" : 0.00872092988755957,
+      "text" : "coordinators"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3227357881478421,
+      "w" : 0.4485596470862814,
+      "x" : 0.7325102860082304,
+      "h" : 0.01175064563751227,
+      "text" : "Q41. [Core Exam] A 54-year-old diabetic male has eGFR 88 mL\/min"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.3095930231831395,
+      "w" : 0.4218107019580385,
+      "x" : 0.7191357971965022,
+      "h" : 0.011627906163533597,
+      "text" : "and persistent microalbuminuria (ACR 160 mg\/g). What level of"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.29723837197189923,
+      "w" : 0.24691357402681546,
+      "x" : 0.6316872386831276,
+      "h" : 0.010174418555365716,
+      "text" : "prevention and therapy is indicated?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2826453488874351,
+      "w" : 0.44238684312352594,
+      "x" : 0.7294238627829219,
+      "h" : 0.010290697415669792,
+      "text" : "[A] Secondary Prevention; initiate SGLT2 inhibitor plus ACE inhibitor (or ARB)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.27107558146802324,
+      "w" : 0.12551439633159522,
+      "x" : 0.5709876564128943,
+      "h" : 0.010174418555365605,
+      "text" : "to retard progression"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2594476745397287,
+      "w" : 0.39300409952799475,
+      "x" : 0.7026749036694098,
+      "h" : 0.010174418555365605,
+      "text" : "[B] Tertiary Prevention; refer for immediate emergency hemodialysis"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2493055556307377,
+      "w" : 0.38683127157343267,
+      "x" : 0.6995884709190674,
+      "h" : 0.010277777777777719,
+      "text" : "[C] Primordial Prevention; no therapy needed since eGFR is normal"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.23694121472819712,
+      "w" : 0.33127570002333917,
+      "x" : 0.6718107051097393,
+      "h" : 0.011673126220703156,
+      "text" : "[D] Initiate high-dose steroids for minimal change disease"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.22527777784272807,
+      "w" : 0.3189300201224081,
+      "x" : 0.665637865329218,
+      "h" : 0.011666666666666714,
+      "text" : "[E] Discontinue all antidiabetic medications immediately"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.2012532298575252,
+      "w" : 0.43827157650353765,
+      "x" : 0.7211934083333335,
+      "h" : 0.01028423786163335,
+      "text" : "Q42. [Clinical Vignette] An asymptomatic 62-year-old female with"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.188194444387431,
+      "w" : 0.4341563578671629,
+      "x" : 0.7273662605709874,
+      "h" : 0.010277777777777719,
+      "text" : "Stage G4 CKD (eGFR 22 mL\/min) attends nephrology clinic. What"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.17584302305616434,
+      "w" : 0.248971183345003,
+      "x" : 0.6306584403635115,
+      "h" : 0.011686046388414195,
+      "text" : "tertiary prevention step is planned?"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.16208333311927642,
+      "w" : 0.405349779428926,
+      "x" : 0.7109053447273664,
+      "h" : 0.010277777777777719,
+      "text" : "[A] Place a temporary femoral hemodialysis catheter immediately today"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.1504166668443862,
+      "w" : 0.4197530686480443,
+      "x" : 0.718107001131687,
+      "h" : 0.010277777777777719,
+      "text" : "[B] Plan and surgically create a non-dominant forearm Arteriovenous (AV)"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.139534883624031,
+      "w" : 0.2016460730594658,
+      "x" : 0.6090534945816187,
+      "h" : 0.00872092988755968,
+      "text" : "Fistula for maturation before ESRD"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.12718023246729648,
+      "w" : 0.2860082230477963,
+      "x" : 0.6491769511574075,
+      "h" : 0.010174418555365605,
+      "text" : "[C] Start high-dose NSAID analgesia for joint pain"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.11555232550872097,
+      "w" : 0.32304526275058953,
+      "x" : 0.6676954678669411,
+      "h" : 0.010174418555365605,
+      "text" : "[D] Administer live attenuated viral vaccines immediately"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.10392441853197676,
+      "w" : 0.26748969120049626,
+      "x" : 0.6399176910150893,
+      "h" : 0.010174418555365605,
+      "text" : "[E] Discontinue all blood pressure medications"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.023252583984235076,
+      "w" : 0.9115226313752948,
+      "x" : 0.5010288179783947,
+      "h" : 0.0087273899714152,
+      "text" : "Twisted Medicine • Community Medicine & Renal Epidemiology Master Class • Faculty & Board Exam Preparation\/ential - Dedicated for Medical Student Revision"
+    },
+    {
+      "conf" : 1,
+      "y" : 0.011627907151162797,
+      "w" : 0.041152261338143925,
+      "x" : 0.5185185186831276,
+      "h" : 0.01744185977511936,
+      "text" : "131"
+    }
+  ],
+  "page" : 133
+}

@@ -1,0 +1,901 @@
+{
+  "page" : 44,
+  "items" : [
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 11 MCQ Masterclass",
+      "x" : 0.2849794230795611,
+      "y" : 0.9774224804452566,
+      "w" : 0.5041152186363748,
+      "h" : 0.013178293969896115
+    },
+    {
+      "conf" : 1,
+      "text" : "Page 2 of 4",
+      "x" : 0.9341563781850883,
+      "y" : 0.9760174419610077,
+      "w" : 0.07020438092309722,
+      "h" : 0.011053355005052334
+    },
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine Medical Series * Starling Forces, Net Filtration Pressure, GFR & Clearance* Standard Practice Bank",
+      "x" : 0.3467078293895744,
+      "y" : 0.96432170540046,
+      "w" : 0.6275720176456859,
+      "h" : 0.01031007766723624
+    },
+    {
+      "conf" : 1,
+      "text" : "Q15. [2025 Exam] Selective constriction of the Afferent Arteriole (e.g.,",
+      "x" : 0.2654321064471877,
+      "y" : 0.9477357883416405,
+      "w" : 0.4609053509790193,
+      "h" : 0.01175064563751227
+    },
+    {
+      "conf" : 1,
+      "text" : "Q22. [2023 Exam] Renal Clearance (Cx) of a substance X is defined as",
+      "x" : 0.727366262928669,
+      "y" : 0.9484625322870023,
+      "w" : 0.46707815494177474,
+      "h" : 0.0102971574995252
+    },
+    {
+      "conf" : 1,
+      "text" : "high renal sympathetic tone) produces which changes?",
+      "x" : 0.2139917725308641,
+      "y" : 0.9345930234011628,
+      "w" : 0.3580246931351956,
+      "h" : 0.011627906163533597
+    },
+    {
+      "conf" : 1,
+      "text" : "the volume of plasma completely cleared of X per unit time. Its",
+      "x" : 0.7119341495884776,
+      "y" : 0.9338662790455426,
+      "w" : 0.40740741273892,
+      "h" : 0.010174418555365605
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Increased Pgc, increased GFR, and increased RBF",
+      "x" : 0.1893004167352536,
+      "y" : 0.9193055556643582,
+      "w" : 0.3127571921678459,
+      "h" : 0.01027777777777783
+    },
+    {
+      "conf" : 1,
+      "text" : "formula is:",
+      "x" : 0.5462962970164609,
+      "y" : 0.9215116279651163,
+      "w" : 0.07201645809149593,
+      "h" : 0.00872092988755968
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Increased Pgc, decreased GFR, and unchanged RBF",
+      "x" : 0.19444444040637865,
+      "y" : 0.9076453488874352,
+      "w" : 0.3230452627505896,
+      "h" : 0.01029069741566968
+    },
+    {
+      "conf" : 0.5,
+      "text" : "[A] Cx = (Px * V) \/ Ux",
+      "x" : 0.5709876553840877,
+      "y" : 0.9062499998304263,
+      "w" : 0.12139917769522035,
+      "h" : 0.010277777777777719
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] No change in Pgc, but massive rise in urinary sodium",
+      "x" : 0.19753086831275707,
+      "y" : 0.8960755814498547,
+      "w" : 0.3292180907051518,
+      "h" : 0.010174418555365605
+    },
+    {
+      "conf" : 0.5,
+      "text" : "[B] Cx = (Ux * V) \/ Px",
+      "x" : 0.5709876558384773,
+      "y" : 0.8945833331044475,
+      "w" : 0.12139917769522035,
+      "h" : 0.010277777777777719
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Decreased Pc, increased GFR, and increased FF",
+      "x" : 0.18724280221193407,
+      "y" : 0.8844476745094476,
+      "w" : 0.30864197353147116,
+      "h" : 0.010174418555365716
+    },
+    {
+      "conf" : 0.5,
+      "text" : "[C] Cx = (Ux * Px) \/ V",
+      "x" : 0.5709876528034978,
+      "y" : 0.8829295864416611,
+      "w" : 0.12139917769522046,
+      "h" : 0.01030361758338083
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Decreased Pgc, Decreased GFR, and Decreased RPF (unchanged FF)",
+      "x" : 0.24176954314814825,
+      "y" : 0.872819767369186,
+      "w" : 0.41769548332166373,
+      "h" : 0.010174418555365716
+    },
+    {
+      "conf" : 0.5,
+      "text" : "[D] Cx = GFR \/ RPF",
+      "x" : 0.5648148129972566,
+      "y" : 0.8720930231589148,
+      "w" : 0.1090534977942893,
+      "h" : 0.00872092988755957
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Cx = (Ux + Px) * V",
+      "x" : 0.5709876564128943,
+      "y" : 0.8597383721656977,
+      "w" : 0.12551439633159522,
+      "h" : 0.010174418555365605
+    },
+    {
+      "conf" : 1,
+      "text" : "Q16. [2024 Exam] Moderate selective constriction of the Efferent",
+      "x" : 0.24485597232510273,
+      "y" : 0.8204295866233471,
+      "w" : 0.4197530686480444,
+      "h" : 0.01030361758338083
+    },
+    {
+      "conf" : 1,
+      "text" : "Arteriole (e.g., low-dose Angiotensin II) causes:",
+      "x" : 0.19444444763374483,
+      "y" : 0.8066666668770897,
+      "w" : 0.31893004411421483,
+      "h" : 0.011666666666666714
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Increased Pgc, Preserved or Increased GFR, Decreased RPF, and Increased",
+      "x" : 0.2613168648148151,
+      "y" : 0.7914244185804264,
+      "w" : 0.4567900843590311,
+      "h" : 0.010174418555365716
+    },
+    {
+      "conf" : 0.5,
+      "text" : "FF",
+      "x" : 0.0421810701989026,
+      "y" : 0.7805232556686046,
+      "w" : 0.01851851835190875,
+      "h" : 0.00872092988755968
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Decreased Pc and decreased GFR",
+      "x" : 0.1491769581275719,
+      "y" : 0.7688888889471522,
+      "w" : 0.23251028480769706,
+      "h" : 0.011666666666666714
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Identical percentage drop in both GFR and FF",
+      "x" : 0.18004114858539105,
+      "y" : 0.7565277779820209,
+      "w" : 0.29423868431235256,
+      "h" : 0.01027777777777783
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Immediate cessation of all glomerular ultrafiltration",
+      "x" : 0.1944444484825102,
+      "y" : 0.7448611111773114,
+      "w" : 0.32304526275058965,
+      "h" : 0.010277777777777719
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Dilatation of peritubular capillaries with low oncotic pressure",
+      "x" : 0.2201646137345678,
+      "y" : 0.733284883775436,
+      "w" : 0.3744855916725015,
+      "h" : 0.010174418555365605
+    },
+    {
+      "conf" : 1,
+      "text" : "Q23. [2021 Exam] Which of the following properties is an ESSENTIAL",
+      "x" : 0.7335390890689302,
+      "y" : 0.8204295864779982,
+      "w" : 0.4465020617599006,
+      "h" : 0.01030361758338083
+    },
+    {
+      "conf" : 1,
+      "text" : "criterion for a substance used to measure true GFR via renal",
+      "x" : 0.7047325141769546,
+      "y" : 0.8081395349418605,
+      "w" : 0.38888888089162,
+      "h" : 0.00872092988755968
+    },
+    {
+      "conf" : 1,
+      "text" : "clearance?",
+      "x" : 0.5524691372104054,
+      "y" : 0.7943313954583934,
+      "w" : 0.08452405869585922,
+      "h" : 0.010867311689588766
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Highly bound to plasma albumin (>90%)",
+      "x" : 0.6368312788837448,
+      "y" : 0.7783430233466571,
+      "w" : 0.25308640198137766,
+      "h" : 0.010174418555365716
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Extensively metabolized by proximal tubular epithelial cells",
+      "x" : 0.691358020164609,
+      "y" : 0.766715116224564,
+      "w" : 0.36213991177157034,
+      "h" : 0.010174418555365716
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Freely filtered at the glomerulus, neither reabsorbed nor secreted by",
+      "x" : 0.7170781934362138,
+      "y" : 0.7551388889862061,
+      "w" : 0.41358021670167544,
+      "h" : 0.010277777777777719
+    },
+    {
+      "conf" : 1,
+      "text" : "tubules",
+      "x" : 0.5339506178754061,
+      "y" : 0.7441860465488344,
+      "w" : 0.04735068255250552,
+      "h" : 0.008790456983778228
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Actively secreted by organic anion transporters in TAL",
+      "x" : 0.6779835424485596,
+      "y" : 0.7318055556159087,
+      "w" : 0.3353909426515207,
+      "h" : 0.010277777777777719
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Stored in large quantities in renal medullary interstitial cells",
+      "x" : 0.6913580307956102,
+      "y" : 0.7201453487497058,
+      "w" : 0.3662551304079452,
+      "h" : 0.01029069794548887
+    },
+    {
+      "conf" : 1,
+      "text" : "Q17. [2023 Exam] Extreme, severe constriction of the efferent arteriole",
+      "x" : 0.2633744913065842,
+      "y" : 0.693333333282794,
+      "w" : 0.4567901323426445,
+      "h" : 0.011666666666666714
+    },
+    {
+      "conf" : 1,
+      "text" : "Q24. [2025 Exam] The unbranched fructose polymer Inulin is",
+      "x" : 0.6965020507887519,
+      "y" : 0.69333333316167,
+      "w" : 0.4094649980653007,
+      "h" : 0.011666666666666714
+    },
+    {
+      "conf" : 1,
+      "text" : "paradoxically causes GFR to decrease because:",
+      "x" : 0.19341564320987636,
+      "y" : 0.6795704135401703,
+      "w" : 0.3209876534324022,
+      "h" : 0.01030361758338083
+    },
+    {
+      "conf" : 1,
+      "text" : "universally regarded as the 'Gold Standard' for measuring GFR",
+      "x" : 0.7098765499314127,
+      "y" : 0.6802648580774431,
+      "w" : 0.4032921461189318,
+      "h" : 0.011692505942450637
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] The afferent arteriole ruptures under retrograde pressure",
+      "x" : 0.21296296896433453,
+      "y" : 0.6649709303536822,
+      "w" : 0.36008230245338296,
+      "h" : 0.010174418555365605
+    },
+    {
+      "conf" : 1,
+      "text" : "because:",
+      "x" : 0.5421810707561728,
+      "y" : 0.6671511628633721,
+      "w" : 0.06378600882284302,
+      "h" : 0.00872092988755968
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Plasma flow is so drastically reduced that pi_gc rises steeply, halting NFP",
+      "x" : 0.25720164160493836,
+      "y" : 0.6533430231831396,
+      "w" : 0.4485596470862815,
+      "h" : 0.010174418555365716
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] It is synthesized endogenously by the loop of Henle",
+      "x" : 0.6697530882373113,
+      "y" : 0.6511272605724896,
+      "w" : 0.32304526275058965,
+      "h" : 0.011698966026306157
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Bowman's capsule basement membrane completely calcifies",
+      "x" : 0.223251024048354,
+      "y" : 0.641715116224564,
+      "w" : 0.38065841962706365,
+      "h" : 0.010174418555365605
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] It is completely absorbed in the distal convoluted tubule",
+      "x" : 0.6831275698216737,
+      "y" : 0.639479973873998,
+      "w" : 0.34567898924245777,
+      "h" : 0.01173772546980123
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Podocytes actively detach from the basement membrane",
+      "x" : 0.2119341608539094,
+      "y" : 0.6301388889680374,
+      "w" : 0.3580246931351956,
+      "h" : 0.01027777777777783
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Its clearance is exactly equal to total renal blood flow",
+      "x" : 0.6759259300668723,
+      "y" : 0.6286337209847384,
+      "w" : 0.33127570002333917,
+      "h" : 0.010174418555365605
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Renin release by JG cells drops to zero",
+      "x" : 0.1563785977366256,
+      "y" : 0.6184722224387866,
+      "w" : 0.24691357402681555,
+      "h" : 0.010277777777777719
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] It is freely filtered and completely inert (neither reabsorbed, secreted, nor",
+      "x" : 0.7335391020919066,
+      "y" : 0.6170704135401703,
+      "w" : 0.4465020617599008,
+      "h" : 0.01030361758338083
+    },
+    {
+      "conf" : 1,
+      "text" : "metabolized)",
+      "x" : 0.5504115239711933,
+      "y" : 0.6053779070494186,
+      "w" : 0.08024691335810064,
+      "h" : 0.010174418555365827
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] It provides an accurate measurement of renal tubular secretion",
+      "x" : 0.7026748906378604,
+      "y" : 0.5937499999273256,
+      "w" : 0.38888888089162,
+      "h" : 0.01027777777777783
+    },
+    {
+      "conf" : 1,
+      "text" : "Q18. 2022 Exam] Selective dilation of the Afferent Arteriole (e.g.,",
+      "x" : 0.2469135844855967,
+      "y" : 0.5654069767732559,
+      "w" : 0.4238682872844193,
+      "h" : 0.01162790722317164
+    },
+    {
+      "conf" : 1,
+      "text" : "mediated by renal prostaglandins or NO) leads to:",
+      "x" : 0.1995884828532234,
+      "y" : 0.5522642117552586,
+      "w" : 0.3292180907051518,
+      "h" : 0.01175064563751227
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Decreased Pgc and decreased GFR",
+      "x" : 0.1522633784636487,
+      "y" : 0.5384722224542386,
+      "w" : 0.23868311276225923,
+      "h" : 0.010277777777777719
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Decreased RBF and increased plasma oncotic pressure",
+      "x" : 0.20473251458333322,
+      "y" : 0.5268217053822914,
+      "w" : 0.34362137992427033,
+      "h" : 0.01031007766723635
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Increased Pc, Increased GFR, and Increased RPF",
+      "x" : 0.19032922204218097,
+      "y" : 0.5152616279978197,
+      "w" : 0.3148148014860333,
+      "h" : 0.010174418555365605
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] A sharp decline in the filtration fraction to 2%",
+      "x" : 0.17901235054869669,
+      "y" : 0.503633721002907,
+      "w" : 0.29218105100235847,
+      "h" : 0.010174418555365605
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Complete closure of all glomerular capillary loops",
+      "x" : 0.18827160882201638,
+      "y" : 0.49207041352200176,
+      "w" : 0.3106995828496585,
+      "h" : 0.01030361758338083
+    },
+    {
+      "conf" : 1,
+      "text" : "Q25. [Facul Exam] If a patient has a urine inulin concentration of 30",
+      "x" : 0.7263374431584363,
+      "y" : 0.5661337208757267,
+      "w" : 0.4320987725407821,
+      "h" : 0.010174418555365605
+    },
+    {
+      "conf" : 1,
+      "text" : "mg\/mL, urine flow rate of 1 mL\/min, and plasma inulin of 0.25 mg\/mL,",
+      "x" : 0.7366255200617282,
+      "y" : 0.5522642116583595,
+      "w" : 0.45267486572265625,
+      "h" : 0.01175064563751227
+    },
+    {
+      "conf" : 0.5,
+      "text" : "GFR is:",
+      "x" : 0.5349794230452676,
+      "y" : 0.5392474160399898,
+      "w" : 0.04938271360577273,
+      "h" : 0.0087273899714152
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] 60 mL\/min",
+      "x" : 0.5534979434670781,
+      "y" : 0.5247222221686025,
+      "w" : 0.0864197533085661,
+      "h" : 0.008888888623979407
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] 100 mL\/min",
+      "x" : 0.5565843632973251,
+      "y" : 0.5130555556159087,
+      "w" : 0.09259259325903169,
+      "h" : 0.008888888888888946
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] 250 mL\/min",
+      "x" : 0.5555555539780521,
+      "y" : 0.5014631783169718,
+      "w" : 0.09465020257721901,
+      "h" : 0.0087403098742167
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] 150 mL\/min",
+      "x" : 0.5565843630658436,
+      "y" : 0.4898255814534884,
+      "w" : 0.09259259325903169,
+      "h" : 0.00872092988755968
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] 120 mL\/min [C_In = (30 * 1) \/ 0.25]",
+      "x" : 0.6193415672153633,
+      "y" : 0.47892441877422476,
+      "w" : 0.22222221422495336,
+      "h" : 0.010174418555365605
+    },
+    {
+      "conf" : 1,
+      "text" : "Q19. [2021 Exam] Why do Non-Steroidal Anti-Inflammatory Drugs",
+      "x" : 0.2469135873113852,
+      "y" : 0.4389114984053008,
+      "w" : 0.4238682872844192,
+      "h" : 0.011711886194017196
+    },
+    {
+      "conf" : 1,
+      "text" : "(NSAIDs) precipitate acute renal failure in volume-depleted patients?",
+      "x" : 0.25617283206447217,
+      "y" : 0.42584302312727546,
+      "w" : 0.44650206175990076,
+      "h" : 0.011686045858595118
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] They directly lyse glomerular podocytes within minutes",
+      "x" : 0.20781893587105602,
+      "y" : 0.4113727392821614,
+      "w" : 0.34979423187063924,
+      "h" : 0.011698966026306157
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] They increase renal medullary blood flow 10-fold",
+      "x" : 0.19032922129629626,
+      "y" : 0.3989987081860083,
+      "w" : 0.31893004411421483,
+      "h" : 0.013113694720798041
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] They stimulate massive renin and aldosterone release",
+      "x" : 0.20473250599279844,
+      "y" : 0.3873611111921405,
+      "w" : 0.34362137992427033,
+      "h" : 0.010277777777777719
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] They inhibit COX, blocking protective afferent arteriolar prostaglandin",
+      "x" : 0.24485596241426627,
+      "y" : 0.37641149855064976,
+      "w" : 0.4238682872844192,
+      "h" : 0.011711886194017196
+    },
+    {
+      "conf" : 1,
+      "text" : "vasodilation",
+      "x" : 0.07201646220850474,
+      "y" : 0.3648255814437986,
+      "w" : 0.07818929804196148,
+      "h" : 0.00872092988755968
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] They bind and precipitate albumin inside Bowman's capsule",
+      "x" : 0.21810700051440318,
+      "y" : 0.35247093028706405,
+      "w" : 0.3703703730361267,
+      "h" : 0.010174418555365716
+    },
+    {
+      "conf" : 1,
+      "text" : "Q20. [2020 Exam] Why do ACE inhibitors and ARBs cause an acute",
+      "x" : 0.24897118984910846,
+      "y" : 0.3125000001937984,
+      "w" : 0.42798350592079404,
+      "h" : 0.011666666666666714
+    },
+    {
+      "conf" : 1,
+      "text" : "drop in GFR in patients with bilateral renal artery stenosis?",
+      "x" : 0.2242798401234567,
+      "y" : 0.298746770209093,
+      "w" : 0.37860081030887627,
+      "h" : 0.010284237861633239
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] They induce severe hypernatremic dehydration",
+      "x" : 0.18312757702331944,
+      "y" : 0.28337209295997706,
+      "w" : 0.3004115122669148,
+      "h" : 0.01174418555365675
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] They stimulate excessive thromboxane synthesis in afferent arterioles",
+      "x" : 0.24794239220679,
+      "y" : 0.2718023256540698,
+      "w" : 0.4300411392307881,
+      "h" : 0.011627906163533597
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] They trigger widespread tubular basement membrane rupture",
+      "x" : 0.22736626162551415,
+      "y" : 0.26023578843853973,
+      "w" : 0.38888888089162,
+      "h" : 0.011750645637512158
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] They cause retrograde reflux of urine from bladder to kidney",
+      "x" : 0.21913580131172847,
+      "y" : 0.2485885015235882,
+      "w" : 0.37242798235431407,
+      "h" : 0.011711885664198118
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] They block Ang Il-mediated efferent arteriolar constriction, crashing Pgc",
+      "x" : 0.25308642613168697,
+      "y" : 0.23694121448594901,
+      "w" : 0.4403292098135318,
+      "h" : 0.011673126220703156
+    },
+    {
+      "conf" : 1,
+      "text" : "Q26. [2022 Exam] If the clearance of a substance X (Cx) is found to be",
+      "x" : 0.7366255188888888,
+      "y" : 0.4396802326017442,
+      "w" : 0.4485596470862814,
+      "h" : 0.010174418555365716
+    },
+    {
+      "conf" : 1,
+      "text" : "GREATER than the clearance of inulin (Cinulin), then substance X must",
+      "x" : 0.7386831301097392,
+      "y" : 0.4258430229819266,
+      "w" : 0.456790084359031,
+      "h" : 0.011686045858595118
+    },
+    {
+      "conf" : 1,
+      "text" : "undergo:",
+      "x" : 0.5432098777080205,
+      "y" : 0.4120639536149891,
+      "w" : 0.07005339448556958,
+      "h" : 0.010503935284084664
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Net tubular secretion",
+      "x" : 0.5823045281893003,
+      "y" : 0.39825258396970026,
+      "w" : 0.14403291618299185,
+      "h" : 0.0087273899714152
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Net tubular reabsorption",
+      "x" : 0.5915637876337448,
+      "y" : 0.38596253233545186,
+      "w" : 0.16255143603438849,
+      "h" : 0.0102971574995252
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Neither reabsorption nor secretion",
+      "x" : 0.6213991797325102,
+      "y" : 0.37430555575791785,
+      "w" : 0.22222221422495336,
+      "h" : 0.010277777777777719
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Complete intrarenal metabolic degradation",
+      "x" : 0.6460905383744855,
+      "y" : 0.3626388888078595,
+      "w" : 0.2716049338286778,
+      "h" : 0.010277777777777719
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Storage in renal adipose tissue",
+      "x" : 0.6100823079218106,
+      "y" : 0.35097222240578907,
+      "w" : 0.20370370636946,
+      "h" : 0.01027777777777783
+    },
+    {
+      "conf" : 1,
+      "text" : "Q27. [Core Concept] If the clearance of a freely filtered substance Y",
+      "x" : 0.7283950585733883,
+      "y" : 0.3125000001937984,
+      "w" : 0.4362139911771571,
+      "h" : 0.011666666666666714
+    },
+    {
+      "conf" : 1,
+      "text" : "(Cy) is LESS than inulin clearance, then substance Y must undergo:",
+      "x" : 0.7263374528806583,
+      "y" : 0.2987467701909245,
+      "w" : 0.4320987725407822,
+      "h" : 0.01028423786163335
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Net tubular secretion into the lumen",
+      "x" : 0.6265432127829218,
+      "y" : 0.283430232630814,
+      "w" : 0.2325102848076971,
+      "h" : 0.00872092988755968
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Net tubular reabsorption back into the peritubular capillaries",
+      "x" : 0.6944444382373116,
+      "y" : 0.2718023255329457,
+      "w" : 0.37242798235431407,
+      "h" : 0.00872092988755968
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Complete binding to macula densa cells",
+      "x" : 0.637860085493827,
+      "y" : 0.2594476745094476,
+      "w" : 0.25514403529137186,
+      "h" : 0.010174418555365605
+    },
+    {
+      "conf" : 1,
+      "text" : "[DJ Conversion into inulin by renal brush border enzymes",
+      "x" : 0.67489712345679,
+      "y" : 0.24781976753270352,
+      "w" : 0.32921809070515184,
+      "h" : 0.010174418555365605
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Synthesis by juxtaglomerular cells",
+      "x" : 0.6183127546553497,
+      "y" : 0.2369412148250965,
+      "w" : 0.22016460490676593,
+      "h" : 0.011673126220703156
+    },
+    {
+      "conf" : 1,
+      "text" : "Q21. [2024 Exam] What is the hemodynamic effect of Atrial Natriuretic",
+      "x" : 0.26337449320987627,
+      "y" : 0.18531976751453488,
+      "w" : 0.45679008435903107,
+      "h" : 0.010174418555365716
+    },
+    {
+      "conf" : 1,
+      "text" : "Peptide (ANP) on glomerular arterioles?",
+      "x" : 0.16563786443758557,
+      "y" : 0.17223837221414734,
+      "w" : 0.26131686324593406,
+      "h" : 0.010174418555365716
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Dilates afferent arteriole and constricts efferent arteriole, increasing GFR",
+      "x" : 0.25514402736625524,
+      "y" : 0.1562499999454941,
+      "w" : 0.4444444284499066,
+      "h" : 0.010277777777777719
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Constricts both afferent and efferent arterioles equally",
+      "x" : 0.20370370939643326,
+      "y" : 0.14458333312261618,
+      "w" : 0.3415637706060829,
+      "h" : 0.01027777777777783
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Dilates efferent arteriole while closing afferent arteriole",
+      "x" : 0.2088477410236625,
+      "y" : 0.13292958662334714,
+      "w" : 0.3518518411888266,
+      "h" : 0.01030361758338072
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] Abolishes all renal blood flow to the renal cortex",
+      "x" : 0.18518518899176944,
+      "y" : 0.12209302332848837,
+      "w" : 0.3045267309032896,
+      "h" : 0.00872092988755968
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Decreases FR by 50% to conserve circulating blood volume",
+      "x" : 0.2191358087448557,
+      "y" : 0.10973837216569765,
+      "w" : 0.37654320099068883,
+      "h" : 0.010174418555365716
+    },
+    {
+      "conf" : 1,
+      "text" : "Q28. [Core Concept] Under normal physiological conditions in a",
+      "x" : 0.7078189247942388,
+      "y" : 0.18459302321947663,
+      "w" : 0.41975306864804446,
+      "h" : 0.011627906163533486
+    },
+    {
+      "conf" : 1,
+      "text" : "healthy individual, the Renal Clearance of Glucose is:",
+      "x" : 0.6810699622633745,
+      "y" : 0.17151162796511626,
+      "w" : 0.3415637706060829,
+      "h" : 0.01162790722317164
+    },
+    {
+      "conf" : 1,
+      "text" : "[A] Equal to GFR (125 mL\/min)",
+      "x" : 0.6008230482853223,
+      "y" : 0.1569444443934871,
+      "w" : 0.18106995588578523,
+      "h" : 0.008888888888888946
+    },
+    {
+      "conf" : 1,
+      "text" : "[B] Equal to PAH clearance (650 mL\/min)",
+      "x" : 0.6306584332047326,
+      "y" : 0.14458333352525493,
+      "w" : 0.24074074607225326,
+      "h" : 0.010277777777777719
+    },
+    {
+      "conf" : 1,
+      "text" : "[C] Zero (completely filtered and 100% reabsorbed in PCT below Tm)",
+      "x" : 0.7098765382201647,
+      "y" : 0.13292958647799824,
+      "w" : 0.3991769514743637,
+      "h" : 0.01030361758338083
+    },
+    {
+      "conf" : 1,
+      "text" : "[D] 50 mL\/min due to distal secretion",
+      "x" : 0.6193415610596709,
+      "y" : 0.12209302318313953,
+      "w" : 0.2181069955885785,
+      "h" : 0.00872092988755968
+    },
+    {
+      "conf" : 1,
+      "text" : "[E] Twice the clearance of creatinine",
+      "x" : 0.6162551404320988,
+      "y" : 0.11046511618217059,
+      "w" : 0.21604938627039116,
+      "h" : 0.00872092988755968
+    },
+    {
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Boaro,%am Past Papers",
+      "x" : 0.3209876615226336,
+      "y" : 0.014573643611020815,
+      "w" : 0.5761316647319674,
+      "h" : 0.017519379191928475
+    },
+    {
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "x" : 0.8734567925154321,
+      "y" : 0.01966085278616625,
+      "w" : 0.19135801447262546,
+      "h" : 0.007344961166381836
+    }
+  ]
+}

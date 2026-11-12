@@ -1,0 +1,973 @@
+{
+  "items" : [
+    {
+      "h" : 0.008888889153798374,
+      "conf" : 1,
+      "x" : 0.27067669880952355,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 36 MCQ Masterclass",
+      "y" : 0.9752777776876119,
+      "w" : 0.42481201522903933
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.3477443512531332,
+      "text" : "Twisted Medicine Medical Series • Acute Kidney Injury (AKI), KDIGO, Hyperkalemia & RRT • Standard Practice Bank",
+      "y" : 0.9593023255329457,
+      "w" : 0.5789473291612375
+    },
+    {
+      "h" : 0.010482469134860506,
+      "conf" : 1,
+      "x" : 0.9088345853698843,
+      "text" : "Page 3 of 4",
+      "y" : 0.9745639534590105,
+      "w" : 0.06586818297418395
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.2593985007048871,
+      "text" : "Q29. [2025 Exam] What absolute clinical indications for",
+      "y" : 0.9353197674963663,
+      "w" : 0.3571428508744833
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "x" : 0.27349623411654156,
+      "text" : "emergency RRT are summarized by the mnemonic 'AEIOU'?",
+      "y" : 0.9215116278100774,
+      "w" : 0.3890977169780059
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.24812030498120288,
+      "text" : "[A] Anemia, Edema, Infection, Osteodystrophy, and Urethritis",
+      "y" : 0.9062500000545058,
+      "w" : 0.33834586565139735
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.25375940432330807,
+      "text" : "[B] Azotemia, Embolism, Inflammation, Oliguria, and Ulceration",
+      "y" : 0.8917151163517443,
+      "w" : 0.34962405239738725
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2678571390789474,
+      "text" : "[C] Acidosis (pH<7.15), K>6.5, Ingestion (toxins), Overload (edema),",
+      "y" : 0.8786337208575581,
+      "w" : 0.3778195521713245
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.10526315870927316,
+      "text" : "Uremia",
+      "y" : 0.8662790698158915,
+      "w" : 0.04887217913147017
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.2763157935463657,
+      "text" : "[D] Albuminuria, Eosinophiluria, Isosthenuria, Obstruction, Urate stones",
+      "y" : 0.8524709300629845,
+      "w" : 0.3947368213206551
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "x" : 0.24812030498120288,
+      "text" : "[E] Alkalosis, Enuresis, Impotence, Orthostasis, and Urticaria",
+      "y" : 0.8386111111591428,
+      "w" : 0.33834586565139735
+    },
+    {
+      "h" : 0.011731266445583755,
+      "conf" : 1,
+      "x" : 0.27067669552631574,
+      "text" : "Q30. [2024 Exam] In Intermittent Hemodialysis (IHD), which",
+      "y" : 0.8080878553597242,
+      "w" : 0.379699224366463
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.26691729321196245,
+      "text" : "physical transport principle drives the clearance of small",
+      "y" : 0.7943055555375182,
+      "w" : 0.37218044782867543
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.1889097707706768,
+      "text" : "uremic solutes (urea, creatinine)?",
+      "y" : 0.7812499999273256,
+      "w" : 0.21992480609161574
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2725563861372182,
+      "text" : "[A] Active primary transport driven by ATP-dependent pump cassettes",
+      "y" : 0.7652616278524709,
+      "w" : 0.3872180447828676
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.26127819093045124,
+      "text" : "[B] Bulk fluid convection without any solute concentration gradient",
+      "y" : 0.7521802325036337,
+      "w" : 0.3646616493515793
+    },
+    {
+      "h" : 0.008888889153798485,
+      "conf" : 1,
+      "x" : 0.25469925251409764,
+      "text" : "[C] Diffusion across a semipermeable membrane down a solute",
+      "y" : 0.738333333255071,
+      "w" : 0.35150374653183414
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2227443656954885,
+      "text" : "concentration gradient between blood and dialysate",
+      "y" : 0.725972222405789,
+      "w" : 0.2875939704461718
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.239661659492481,
+      "text" : "[DJ Osmotic drag induced by hypertonic albumin solutions",
+      "y" : 0.7115277777880095,
+      "w" : 0.3214285526234499
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "x" : 0.2152255673167293,
+      "text" : "[E] Pinocytosis by dialyzer synthetic hollow fibers",
+      "y" : 0.6984625323536205,
+      "w" : 0.2725563734919797
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.28007518398496245,
+      "text" : "Q31. [2023 Exam] What is the defining physical mechanism of",
+      "y" : 0.6816666667317408,
+      "w" : 0.39849625346816586
+    },
+    {
+      "h" : 0.01309431499905056,
+      "conf" : 1,
+      "x" : 0.19548871968984965,
+      "text" : "Ultrafiltration during hemodialysis?",
+      "y" : 0.6693249354284991,
+      "w" : 0.22932329870315868
+    },
+    {
+      "h" : 0.008720930417378758,
+      "conf" : 1,
+      "x" : 0.26973684215792143,
+      "text" : "[A] Active enzymatic pumping of sodium ions against electrochemical",
+      "y" : 0.6526162790666749,
+      "w" : 0.3815789404402184
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.10338345783208022,
+      "text" : "gradient",
+      "y" : 0.6402616278343023,
+      "w" : 0.04887217913147017
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.28195489285714265,
+      "text" : "[B] Movement of solvent (water) across semipermeable membrane driven",
+      "y" : 0.6271802327277132,
+      "w" : 0.4060150300059534
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "x" : 0.24906014470551396,
+      "text" : "by a hydrostatic pressure gradient (transmembrane pressure)",
+      "y" : 0.6140374677129976,
+      "w" : 0.34022555978584423
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.2368421105263156,
+      "text" : "[C] Electrical migration of charged ions toward the anode",
+      "y" : 0.6002777776036068,
+      "w" : 0.31578947022010917
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.25281954884085217,
+      "text" : "[D] Simple thermal expansion of plasma volume inside dialyzer",
+      "y" : 0.5872222221572718,
+      "w" : 0.34774435826294037
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "x" : 0.2133458613016918,
+      "text" : "[E] Capillary action along hollow fiber outer walls",
+      "y" : 0.5734625322082717,
+      "w" : 0.2687969852230859
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.28007518398496245,
+      "text" : "Q32. [2022 Exam] Which anatomical site is preferred as FIRST",
+      "y" : 0.5559722224496877,
+      "w" : 0.39849625346816586
+    },
+    {
+      "h" : 0.011718346277872715,
+      "conf" : 1,
+      "x" : 0.2631578983834586,
+      "text" : "CHOICE for a temporary non-tunneled dialysis catheter?",
+      "y" : 0.5421963824052575,
+      "w" : 0.3646616493515793
+    },
+    {
+      "h" : 0.01031007766723624,
+      "conf" : 1,
+      "x" : 0.2763157855263159,
+      "text" : "[A] Right Internal Jugular Vein (straight path to RA; lowest stenosis risk)",
+      "y" : 0.5268217052551112,
+      "w" : 0.39473682132065513
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "x" : 0.24906014470551396,
+      "text" : "[B] Left Subclavian Vein (high risk of central venous stenosis)",
+      "y" : 0.5130555554947844,
+      "w" : 0.34022555978584423
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.22462405924185466,
+      "text" : "[C] Femoral Vein (high infection and thrombosis risk)",
+      "y" : 0.4993055555338384,
+      "w" : 0.2913533806543741
+    },
+    {
+      "h" : 0.010284237331814161,
+      "conf" : 1,
+      "x" : 0.18045112518797002,
+      "text" : "[D] External Jugular Vein exclusively",
+      "y" : 0.48624677002291417,
+      "w" : 0.20300751500297676
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.20206767225093974,
+      "text" : "[E] Cephalic Vein in the anatomical snuffbox",
+      "y" : 0.47238372100290704,
+      "w" : 0.2462405897917977
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6851503793796991,
+      "text" : "Q36. [2023 Exam] In CRRT modalities, what transport",
+      "y" : 0.9353197675145348,
+      "w" : 0.343984948054738
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.7077067603696744,
+      "text" : "mechanism defines Continuous Veno-Venous Hemofiltration",
+      "y" : 0.9215116278100776,
+      "w" : 0.3928571491255166
+    },
+    {
+      "h" : 0.01238491270277231,
+      "conf" : 0.30000001192092896,
+      "x" : 0.5394736847132455,
+      "text" : "(CVVH)?",
+      "y" : 0.9069767442523899,
+      "w" : 0.06038823186022879
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6860902290601504,
+      "text" : "[A] Convective solute removal driven by high ultrafiltration rates",
+      "y" : 0.8917151163517442,
+      "w" : 0.34962405239738725
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6879699307017542,
+      "text" : "[B] Diffusive solute transport using countercurrent dialysate flow",
+      "y" : 0.8786337210029069,
+      "w" : 0.353383440666281
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "x" : 0.6785714327537593,
+      "text" : "[C] Simple gravity drainage without any synthetic membrane",
+      "y" : 0.8640374678280656,
+      "w" : 0.3345864554431952
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6729323348684209,
+      "text" : "[D] Peritoneal absorption of uremic toxins via mesothelium",
+      "y" : 0.8509722224239575,
+      "w" : 0.3233082686972052
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6635338391604009,
+      "text" : "[E] Direct adsorption onto activated charcoal cartridges",
+      "y" : 0.8365277780271309,
+      "w" : 0.3045112615348108
+    },
+    {
+      "h" : 0.011731266445583755,
+      "conf" : 1,
+      "x" : 0.7077067630263159,
+      "text" : "Q37. [2022 Exam] Which regional anticoagulation strategy is",
+      "y" : 0.8080878552143753,
+      "w" : 0.3890977169780059
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.697368424736842,
+      "text" : "preferred in CRRT to minimize systemic bleeding risks in",
+      "y" : 0.7943055556159087,
+      "w" : 0.36842105955978166
+    },
+    {
+      "h" : 0.011679586304558565,
+      "conf" : 1,
+      "x" : 0.5864661656641603,
+      "text" : "critically ill patients?",
+      "y" : 0.7805490956906675,
+      "w" : 0.15037593663295856
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6766917334586464,
+      "text" : "[A] High-dose unfractionated heparin boluses every 2 hours",
+      "y" : 0.7652616279978197,
+      "w" : 0.3308270671743013
+    },
+    {
+      "h" : 0.01171188566419823,
+      "conf" : 1,
+      "x" : 0.6607142871005638,
+      "text" : "[B] Intravenous warfarin infusion targeted to INR > 5.0",
+      "y" : 0.7514114984764119,
+      "w" : 0.29887217913147013
+    },
+    {
+      "h" : 0.011686045858595118,
+      "conf" : 1,
+      "x" : 0.627819552255639,
+      "text" : "[C] Oral aspirin combined with clopidogrel",
+      "y" : 0.7383430229819266,
+      "w" : 0.23308270891136096
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6701127779840226,
+      "text" : "[D] Direct recombinant tissue plasminogen activator (tPA)",
+      "y" : 0.7245833331556137,
+      "w" : 0.31766916435455594
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.7077067734649121,
+      "text" : "[E] Regional Citrate Anticoagulation (infusing citrate pre-filter to chelate",
+      "y" : 0.7115277777395599,
+      "w" : 0.3928571491255167
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "x" : 0.6494360868186091,
+      "text" : "Ca2+, and calcium chloride post-filter into patient)",
+      "y" : 0.6984625322082717,
+      "w" : 0.2725563734919797
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.6757518756343985,
+      "text" : "Q38. [2021 Exam] In Peritoneal Dialysis (PD), what",
+      "y" : 0.6816666667535431,
+      "w" : 0.3251879628316522
+    },
+    {
+      "h" : 0.01309431499905056,
+      "conf" : 1,
+      "x" : 0.71616540877193,
+      "text" : "physiological membrane serves as the semipermeable barrier?",
+      "y" : 0.6693249354830049,
+      "w" : 0.4060150300059534
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.637218046491228,
+      "text" : "[A] The anterior abdominal wall rectus sheath",
+      "y" : 0.6533430234253876,
+      "w" : 0.2518796941344469
+    },
+    {
+      "h" : 0.010284237331814383,
+      "conf" : 1,
+      "x" : 0.6381578946428571,
+      "text" : "[B] The mucosal lining of the transverse colon",
+      "y" : 0.6387532299770858,
+      "w" : 0.25375938826889377
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7124060190601504,
+      "text" : "[C] Patient's Peritoneal Membrane (mesothelium, interstitium, capillaries)",
+      "y" : 0.6256944443692624,
+      "w" : 0.40225564173705963
+    },
+    {
+      "h" : 0.01028423786163335,
+      "conf" : 1,
+      "x" : 0.6879699291823308,
+      "text" : "[D] Synthetic cellulose acetate hollow fibers in a plastic cylinder",
+      "y" : 0.6112467702090931,
+      "w" : 0.34962405239738725
+    },
+    {
+      "h" : 0.01031007766723624,
+      "conf" : 1,
+      "x" : 0.6569548908599623,
+      "text" : "[E] The visceral pleura covering the lower lung lobes",
+      "y" : 0.5981782947630574,
+      "w" : 0.2913533806543741
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.27725563516917295,
+      "text" : "Q33. [2021 Exam] Why should the Subclavian Vein be strictly",
+      "y" : 0.42957041342389124,
+      "w" : 0.3928571491255167
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "x" : 0.2669172921052632,
+      "text" : "AVOIDED for temporary hemodialysis catheter placement",
+      "y" : 0.4156976742248061,
+      "w" : 0.3721804478286754
+    },
+    {
+      "h" : 0.010310077137417273,
+      "conf" : 1,
+      "x" : 0.14567669194078947,
+      "text" : "whenever possible?",
+      "y" : 0.40182170546551493,
+      "w" : 0.12969924630577145
+    },
+    {
+      "h" : 0.008888888623979296,
+      "conf" : 1,
+      "x" : 0.2810150426456766,
+      "text" : "[A] Subclavian catheterization always causes immediate aortic dissection",
+      "y" : 0.3866666666253683,
+      "w" : 0.4041353139321981
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.27161654617011266,
+      "text" : "[B] Blood flow in the subclavian vein is too sluggish to support dialysis",
+      "y" : 0.3728197674963662,
+      "w" : 0.3853383287091121
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.2838345906015037,
+      "text" : "[C] The subclavian vein contains valves that permanently entrap catheters",
+      "y" : 0.35973837222020344,
+      "w" : 0.40977441827484723
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "x" : 0.2810150382518797,
+      "text" : "[D] Dialysis catheters dissolve when exposed to subclavian venous blood",
+      "y" : 0.34514534877236747,
+      "w" : 0.4041353139321981
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.25469925256109016,
+      "text" : "[E] High incidence of Subclavian Vein Stenosis (up to 40-50%),",
+      "y" : 0.33208333359792935,
+      "w" : 0.3552631567400364
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.25375940432330807,
+      "text" : "permanently destroying the ipsilateral arm for future AV access",
+      "y" : 0.3204295866051785,
+      "w" : 0.34962405239738725
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.25657895088345856,
+      "text" : "Q34. [2020 Exam] What causes Dialysis Disequilibrium",
+      "y" : 0.3030523256540697,
+      "w" : 0.3515037465318341
+    },
+    {
+      "h" : 0.011724805831909157,
+      "conf" : 1,
+      "x" : 0.2565789420112784,
+      "text" : "Syndrome (DDS) during initial vigorous hemodialysis?",
+      "y" : 0.2891957360185254,
+      "w" : 0.35150374653183414
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.25187970501253115,
+      "text" : "[A] Rapid infusion of potassium causing acute flaccid paralysis",
+      "y" : 0.2740277777395598,
+      "w" : 0.345864642189185
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "x" : 0.2189849616854637,
+      "text" : "[B] Massive air embolism entering the left ventricle",
+      "y" : 0.2609625324323512,
+      "w" : 0.2800751719690757
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.2810150426456766,
+      "text" : "[C] Rapid urea clearance lowers blood osmolality, driving water into brain",
+      "y" : 0.24636627916061055,
+      "w" : 0.4041353139321981
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.25469925163533824,
+      "text" : "[D] Severe hypercalcemia causing systemic arterial calcification",
+      "y" : 0.23328488379360462,
+      "w" : 0.35150374653183414
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "x" : 0.23966165815319537,
+      "text" : "[E] Direct toxic reaction to ethylene oxide dialyzer sterilant",
+      "y" : 0.21944444436926247,
+      "w" : 0.3214285526234499
+    },
+    {
+      "h" : 0.011750646167331236,
+      "conf" : 1,
+      "x" : 0.2744360940977443,
+      "text" : "Q35. [2024 Exam] What is the primary operational difference",
+      "y" : 0.17726421198140846,
+      "w" : 0.3872180447828675
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.2791353343796993,
+      "text" : "between Continuous Renal Replacement Therapy (CRRT) and",
+      "y" : 0.16347222226044023,
+      "w" : 0.3966165373944105
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.18515037381578947,
+      "text" : "Intermittent Hemodialysis (IHD)?",
+      "y" : 0.15041666671720605,
+      "w" : 0.21240600761451967
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.25563910211466156,
+      "text" : "[A] CRRT uses high blood flow rates (500 mL\/min) over 2 hours",
+      "y" : 0.1344476744731105,
+      "w" : 0.34962405239738725
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.26785713813439865,
+      "text" : "[B] CRRT is performed exclusively through the peritoneal membrane",
+      "y" : 0.12136627897892444,
+      "w" : 0.3778195521713246
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.28383458655794414,
+      "text" : "[C] CRRT operates 24 hours\/day at slow, gentle clearance rates, making it",
+      "y" : 0.10680555554084586,
+      "w" : 0.4097744182748472
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "x" : 0.2622180484649122,
+      "text" : "ideal for hemodynamically unstable ICU patients with septic shock",
+      "y" : 0.09514534884660508,
+      "w" : 0.3665413434860263
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "x" : 0.2640977489896616,
+      "text" : "[D] CRRT cannot remove fluid or correct severe metabolic acidosis",
+      "y" : 0.0813888888260284,
+      "w" : 0.37030073175492006
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.2359022609335838,
+      "text" : "[E] CRRT requires no vascular access or anticoagulation",
+      "y" : 0.06763888893775644,
+      "w" : 0.3176691643545561
+    },
+    {
+      "h" : 0.011666666666666603,
+      "conf" : 1,
+      "x" : 0.696428568350564,
+      "text" : "Q39. [2025 Exam] What is the defining clinical diagnostic",
+      "y" : 0.5566666664054101,
+      "w" : 0.3665413434860263
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6870300786654133,
+      "text" : "criteria for Peritoneal Dialysis-Associated Peritonitis?",
+      "y" : 0.5429166664929136,
+      "w" : 0.34774435826294037
+    },
+    {
+      "h" : 0.01031007766723635,
+      "conf" : 1,
+      "x" : 0.6860902290601504,
+      "text" : "[A] Presence of visible frank blood in stool with severe jaundice",
+      "y" : 0.52682170540046,
+      "w" : 0.34962405239738725
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "x" : 0.6738721763862783,
+      "text" : "[B] Persistent clear effluent with negative bacterial cultures",
+      "y" : 0.5130555554705598,
+      "w" : 0.3251879628316521
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.6851503724624061,
+      "text" : "[C] Severe pain exclusively on the anterior thigh during walking",
+      "y" : 0.49930555563073764,
+      "w" : 0.34774435826294026
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "x" : 0.7077067718280075,
+      "text" : "[D] Isolated elevation of serum amylase with zero peritoneal leukocytes",
+      "y" : 0.48546511635174416,
+      "w" : 0.3928571491255167
+    },
+    {
+      "h" : 0.01176356527540423,
+      "conf" : 1,
+      "x" : 0.7077067723370927,
+      "text" : "[E] At least 2 of: cloudy peritoneal effluent with abdominal pain; effluent",
+      "y" : 0.47245155067996636,
+      "w" : 0.3928571491255167
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7030075124060153,
+      "text" : "WBC > 100\/uL with > 50% PMNs; positive effluent Gram stain\/culture",
+      "y" : 0.46002906974321706,
+      "w" : 0.38345861263535685
+    },
+    {
+      "h" : 0.01030361758338072,
+      "conf" : 1,
+      "x" : 0.6936090261654134,
+      "text" : "Q40. [Faculty Exam] Which toxic ingestion is classically",
+      "y" : 0.4295704135401704,
+      "w" : 0.36090223914337716
+    },
+    {
+      "h" : 0.01162790722317164,
+      "conf" : 1,
+      "x" : 0.7077067708082707,
+      "text" : "dialyzable by emergency hemodialysis due to low molecular",
+      "y" : 0.4156976745058139,
+      "w" : 0.389097716978006
+    },
+    {
+      "h" : 0.011763565805223197,
+      "conf" : 1,
+      "x" : 0.6513157929276314,
+      "text" : "weight, low protein binding, and small Vd?",
+      "y" : 0.4025484493215971,
+      "w" : 0.27631578370018195
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.703947372274436,
+      "text" : "[A] Digoxin and Tricyclic Antidepressants (high Vd and tissue binding)",
+      "y" : 0.3873611113193207,
+      "w" : 0.3853383287091122
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6484962440319548,
+      "text" : "[B] Benzodiazepines and Barbiturates exclusively",
+      "y" : 0.3728197674963662,
+      "w" : 0.27443608956573506
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7039473748433582,
+      "text" : "[C] Toxic alcohols (Methanol, Ethylene glycol), Lithium, and Salicylate",
+      "y" : 0.35973837216569765,
+      "w" : 0.3853383287091121
+    },
+    {
+      "h" : 0.013002635108100069,
+      "conf" : 1,
+      "x" : 0.5347744356904383,
+      "text" : "(Aspirin)",
+      "y" : 0.34738372103569115,
+      "w" : 0.05125124483636434
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6550751908458647,
+      "text" : "[D] Iron and Lead (require deferoxamine \/ chelation)",
+      "y" : 0.33357558146802324,
+      "w" : 0.28759397044617174
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "x" : 0.627819552756892,
+      "text" : "[E] Organophosphates and Snake venom",
+      "y" : 0.3204295866051785,
+      "w" : 0.23308270891136096
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7152255689614662,
+      "text" : "Q41. [Clinical Case] A 65-year-old in septic shock has oliguria,",
+      "y" : 0.3030523255995639,
+      "w" : 0.40413531393219804
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.7058270740914785,
+      "text" : "K+ 6.8 with peaked T waves, and pH 7.12. MAP is 62 mmHg.",
+      "y" : 0.2899709302083334,
+      "w" : 0.3853383287091121
+    },
+    {
+      "h" : 0.011698966026306157,
+      "conf" : 1,
+      "x" : 0.5949248138392856,
+      "text" : "Immediate management?",
+      "y" : 0.2761272609116369,
+      "w" : 0.1672932277215975
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "x" : 0.7152255598308271,
+      "text" : "[A] IV Calcium Gluconate immediately, insulin\/dextrose, and urgent CRRT",
+      "y" : 0.2609625321901031,
+      "w" : 0.4078947460797089
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6776315831062029,
+      "text" : "[B] Oral Kayexalate and discharge home to clinic next week",
+      "y" : 0.24636627916061055,
+      "w" : 0.3327067613087482
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.6644736872744361,
+      "text" : "[C] IV loop diuretics bolus of 500 mg without monitoring",
+      "y" : 0.23328488376453477,
+      "w" : 0.3063909776085664
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "x" : 0.6625939887453007,
+      "text" : "[D] Bilateral ureteral stenting under general anesthesia",
+      "y" : 0.21944444436926247,
+      "w" : 0.302631567400364
+    },
+    {
+      "h" : 0.008888888888888835,
+      "conf" : 1,
+      "x" : 0.6644736872744361,
+      "text" : "[E] Subcutaneous heparin and observation for 48 hours",
+      "y" : 0.20638888881149314,
+      "w" : 0.3063909776085664
+    },
+    {
+      "h" : 0.013139534526401153,
+      "conf" : 1,
+      "x" : 0.7095864726503758,
+      "text" : "Q42. [Clinical Case] A 52-year-old HD patient develops fever,",
+      "y" : 0.17656976714374828,
+      "w" : 0.3928571491255167
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.7152255679511278,
+      "text" : "chills, and rigors during dialysis. Catheter blood culture grows",
+      "y" : 0.16347222240578896,
+      "w" : 0.40413531393219815
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.5939849634085212,
+      "text" : "S. aureus. Management?",
+      "y" : 0.14972222229949406,
+      "w" : 0.16165413434860265
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "x" : 0.7067669124060151,
+      "text" : "[A] Catheter-Related Bloodstream Infection (CRBSI); IV Vancomycin &",
+      "y" : 0.1344476743640987,
+      "w" : 0.39097743305176125
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "x" : 0.6936090271616541,
+      "text" : "[B] Dialysis Disequilibrium Syndrome; administer hypertonic saline",
+      "y" : 0.1082848837754361,
+      "w" : 0.36842105955978166
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "x" : 0.6851503700814539,
+      "text" : "[C] Peritoneal dialysis peritonitis; instill intraperitoneal ampicillin",
+      "y" : 0.09514534886926662,
+      "w" : 0.351503746531834
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "x" : 0.6832706759085212,
+      "text" : "[D] Acute pulmonary embolism; start oral warfarin immediately",
+      "y" : 0.08138888894715224,
+      "w" : 0.343984948054738
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "x" : 0.6757518838580825,
+      "text" : "[E] Normal post-dialysis reaction; oral acetaminophen alone",
+      "y" : 0.06763888896803744,
+      "w" : 0.3327067613087483
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "x" : 0.3703007414160404,
+      "text" : "Twisted Medicine • Clinical Nephrology & ICU Master Class • Strictly Grounded in Faculty & Board Exam Past Papers",
+      "y" : 0.02402777764266073,
+      "w" : 0.6278195082927076
+    },
+    {
+      "h" : 0.018895348442925286,
+      "conf" : 1,
+      "x" : 0.518796992406015,
+      "text" : "139",
+      "y" : 0.012354651351744073,
+      "w" : 0.041353383396787735
+    },
+    {
+      "h" : 0.008888888888888946,
+      "conf" : 1,
+      "x" : 0.8543233053571428,
+      "text" : "Confidential Student Revision Bank",
+      "y" : 0.024722222108822245,
+      "w" : 0.17857142543724158
+    }
+  ],
+  "page" : 141
+}

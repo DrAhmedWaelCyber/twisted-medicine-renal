@@ -1,0 +1,1037 @@
+{
+  "items" : [
+    {
+      "h" : 0.01176356527540423,
+      "conf" : 1,
+      "w" : 0.44360900045212526,
+      "x" : 0.2800751867794487,
+      "y" : 0.9650484493200336,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 37 MCQ Masterclass"
+    },
+    {
+      "h" : 0.007267441749572834,
+      "conf" : 1,
+      "w" : 0.1635338284830495,
+      "x" : 0.14191729595864652,
+      "y" : 0.9469476744428295,
+      "text" : "Twisted Medicine Medical Series"
+    },
+    {
+      "h" : 0.004444444444444473,
+      "conf" : 1,
+      "w" : 0.07518796283165213,
+      "x" : 0.3026315827067666,
+      "y" : 0.9469444444493513,
+      "text" : "he Kidnew Dice"
+    },
+    {
+      "h" : 0.007267441749572723,
+      "conf" : 1,
+      "w" : 0.052631578370018195,
+      "x" : 0.42669172844611536,
+      "y" : 0.9469476743459302,
+      "text" : "Dialysis M"
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.2199248060916158,
+      "x" : 0.5817669136278196,
+      "y" : 0.9462209301841086,
+      "text" : "lities & CKD-MBD • Standard Practice Bank"
+    },
+    {
+      "h" : 0.01162790722317164,
+      "conf" : 1,
+      "w" : 0.5808270452349927,
+      "x" : 0.49906014456766923,
+      "y" : 0.9345930231976745,
+      "text" : "37. CHRONIC KIDNEY DISEASE (CKD) & DIALYSIS MODALITIES - CLINICAL LECTURE"
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.5244360895657351,
+      "x" : 0.5009398561795112,
+      "y" : 0.917916666474745,
+      "text" : "Twisted Medicine Clinical Master Class • 42 High-Yield Exam MCQs (7 Left \/ 7 Right per Page)"
+    },
+    {
+      "h" : 0.011471934318542432,
+      "conf" : 1,
+      "w" : 0.06797613915910317,
+      "x" : 0.9078947364717328,
+      "y" : 0.9643895349718834,
+      "text" : "Page 1 of 4"
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "w" : 0.4041353139321981,
+      "x" : 0.26033835091635327,
+      "y" : 0.8968023256540698,
+      "text" : "Q01. [2025 Exam] According to the KIGO guidelines, Chronic"
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "w" : 0.4304511195716885,
+      "x" : 0.27537594523026304,
+      "y" : 0.8829295866233471,
+      "text" : "Kidney Disease (CKD) is formally defined by which criteria present"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.1635338284830495,
+      "x" : 0.1381578926926692,
+      "y" : 0.8698611110319625,
+      "text" : "for more than 3 months?"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.3421052539202911,
+      "x" : 0.22744361329887208,
+      "y" : 0.853924418659157,
+      "text" : "[A] Transient microscopic hematuria resolving within 48 hours"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.422932299155284,
+      "x" : 0.2678571481437969,
+      "y" : 0.8408430233466571,
+      "text" : "[B] eGFR < 60 mL\/min\/1.73m2 or markers of kidney damage (e.g., persistent"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.2951127689232679,
+      "x" : 0.20582707258771912,
+      "y" : 0.8277616280281008,
+      "text" : "albuminuria ACR >= 30 mg\/g) present for > 3 months"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.40977441827484723,
+      "x" : 0.2612781995864661,
+      "y" : 0.8161337210029069,
+      "text" : "[C] Acute elevation of blood urea nitrogen responsive to intravenous fluids"
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "w" : 0.41729323869125173,
+      "x" : 0.26503760087719275,
+      "y" : 0.8015374675676489,
+      "text" : "[D] Bilateral renal artery fibromuscular dysplasia without parenchymal injury"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.27819547783462883,
+      "x" : 0.19548872458646607,
+      "y" : 0.7899709303052326,
+      "text" : "[E] Unilateral simple cortical cyst with normal GFR"
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "w" : 0.41917291088639014,
+      "x" : 0.2678571358709275,
+      "y" : 0.7718023255329457,
+      "text" : "Q02. [2024 Exam] Under the KDIGO GFR categories, which range"
+    },
+    {
+      "h" : 0.011757106251186866,
+      "conf" : 1,
+      "w" : 0.4342105078405824,
+      "x" : 0.2753759441917293,
+      "y" : 0.75865633077669,
+      "text" : "defines Stage G3b Chronic Kidney Disease (moderately to severely"
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.11466164935157934,
+      "x" : 0.11560150529448618,
+      "y" : 0.7448611109168947,
+      "text" : "decreased GFR)?"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.1917293063176784,
+      "x" : 0.15225563721804522,
+      "y" : 0.7304166665898129,
+      "text" : "[A] eGFR 30 to 44 mL\/min\/1.73m2"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.26127818674598985,
+      "x" : 0.18703007145989986,
+      "y" : 0.7158430230862403,
+      "text" : "[B] eGFR 45 to 59 mL\/min\/1.73m2 (Stage G3a)"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.25375938826889377,
+      "x" : 0.183270674506579,
+      "y" : 0.70421511640625,
+      "text" : "[C] eGFR 60 to 89 mL\/min\/1.73m2 (Stage G2)"
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "w" : 0.25375938826889377,
+      "x" : 0.1832706791040099,
+      "y" : 0.6904069769379846,
+      "text" : "[D] eGFR 15 to 29 mL\/min\/1.73m2 (Stage G4)"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.32330826869720525,
+      "x" : 0.21804511547619043,
+      "y" : 0.6780523256419573,
+      "text" : "[E] eGFR < 15 mL\/min\/1.73m2 (Stage G5 \/ Kidney Failure)"
+    },
+    {
+      "h" : 0.011627906163533597,
+      "conf" : 1,
+      "w" : 0.4285714034979332,
+      "x" : 0.721804513768797,
+      "y" : 0.8968023254360465,
+      "text" : "Q08. [2022 Exam] What is the recommended target blood pressure"
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "w" : 0.3778195521713247,
+      "x" : 0.6964285752067669,
+      "y" : 0.8829295866051785,
+      "text" : "according to KIGO 2021 guidelines for CKD patients with"
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "w" : 0.257518798477096,
+      "x" : 0.6362781980639098,
+      "y" : 0.8691666668770897,
+      "text" : "significant albuminuria when tolerated?"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.302631567400364,
+      "x" : 0.6569548834351504,
+      "y" : 0.8539244185501453,
+      "text" : "[A] Systolic BP < 140 mmHg and Diastolic < 90 mmHg"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.34774435826294026,
+      "x" : 0.6795112738486843,
+      "y" : 0.8408430232013082,
+      "text" : "[B] Systolic BP < 120 mmHg standardized office measurement"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.4060150300059535,
+      "x" : 0.7086466233082704,
+      "y" : 0.8277616279796511,
+      "text" : "[C] Systolic BP strictly between 150 and 160 mmg to maintain perfusion"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.2913533806543741,
+      "x" : 0.6531954916353382,
+      "y" : 0.814680232630814,
+      "text" : "[D] Diastolic BP < 50 mmHg regardless of symptoms"
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.28571427631172486,
+      "x" : 0.6484962453634083,
+      "y" : 0.801537467809897,
+      "text" : "[E] Blood pressure is irrelevant to CKD progression"
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "w" : 0.42293229915528396,
+      "x" : 0.718984967692669,
+      "y" : 0.7718023256540698,
+      "text" : "Q09. [2023 Exam] What dietary protein intake is recommended by"
+    },
+    {
+      "h" : 0.011757105721367789,
+      "conf" : 1,
+      "w" : 0.4360902239143377,
+      "x" : 0.7236842032581456,
+      "y" : 0.7586563304051914,
+      "text" : "clinical guidelines for adult patients with Stage G3-G5 non-dialysis"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.1766917203331405,
+      "x" : 0.5958646638627818,
+      "y" : 0.7448611111773114,
+      "text" : "CKD to slow renal decline?"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.3966165373944105,
+      "x" : 0.7058270716353383,
+      "y" : 0.7289244186773256,
+      "text" : "[A] High protein diet > 1.6 g\/kg body weight\/day) to prevent muscle loss"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.43421050784058224,
+      "x" : 0.7246240644924811,
+      "y" : 0.7158430233284885,
+      "text" : "[B] Moderate protein restriction (0.6 to 0.8 g\/kg body weight\/day) with adequate"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.40789470220109186,
+      "x" : 0.2622180519110273,
+      "y" : 0.647529069743217,
+      "text" : "Q03. [2023 Exam] According to KDIGO Albuminuria categories,"
+    },
+    {
+      "h" : 0.011757106251186755,
+      "conf" : 1,
+      "w" : 0.43233083564544394,
+      "x" : 0.2744360945488721,
+      "y" : 0.63365633077669,
+      "text" : "what spot urine albumin-to-creatinine ratio (ACR) defines Category"
+    },
+    {
+      "h" : 0.011731265915764788,
+      "conf" : 1,
+      "w" : 0.2913533806543741,
+      "x" : 0.20394737182800748,
+      "y" : 0.6205878551529542,
+      "text" : "A3 (Severely Increased \/ Macroalbuminuria)?"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.1071428508744833,
+      "x" : 0.11184210704887215,
+      "y" : 0.6039244186773256,
+      "text" : "[A] ACR < 10 mg\/g"
+    },
+    {
+      "h" : 0.01029069741566968,
+      "conf" : 1,
+      "w" : 0.25375938826889377,
+      "x" : 0.18327067880639092,
+      "y" : 0.5923546511186211,
+      "text" : "[B] ACR 10 to 29 mg\/g (Category A1, normal)"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.20676690327187047,
+      "x" : 0.15977443646616535,
+      "y" : 0.5777616277374031,
+      "text" : "[C] ACR > 300 mg\/g (> 30 mg\/mmol)"
+    },
+    {
+      "h" : 0.011627906163533375,
+      "conf" : 1,
+      "w" : 0.3421052539202911,
+      "x" : 0.22744360911654135,
+      "y" : 0.5654069765988372,
+      "text" : "[D] ACR 30 to 300 mg\/g (Category A2, moderately increased)"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.32518796283165213,
+      "x" : 0.21898496647086457,
+      "y" : 0.5530523256359012,
+      "text" : "[E] ACR detectable only on 24-hour catheterized collection"
+    },
+    {
+      "h" : 0.011724805831909157,
+      "conf" : 1,
+      "w" : 0.42481201522903933,
+      "x" : 0.27067668464912303,
+      "y" : 0.5233042637392267,
+      "text" : "Q04. [2022 Exam] What is the single most common primary cause"
+    },
+    {
+      "h" : 0.011757105721367789,
+      "conf" : 1,
+      "w" : 0.3928571491255167,
+      "x" : 0.2546992546679196,
+      "y" : 0.5086563305020906,
+      "text" : "of End-Stage Renal Disease (ESRD) worldwide and in Egypt,"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.26879698522308587,
+      "x" : 0.19266916957236846,
+      "y" : 0.49486111103196256,
+      "text" : "accounting for >40% of dialysis patients?"
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3421052539202911,
+      "x" : 0.22744361329887208,
+      "y" : 0.48041666651108217,
+      "text" : "[A] Autosomal Dominant Polycystic Kidney Disease (ADPKD)"
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "w" : 0.2744360895657351,
+      "x" : 0.19360902530075186,
+      "y" : 0.4673546511307334,
+      "text" : "[B] Chronic post-streptococcal glomerulonephritis"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.18609022391433772,
+      "x" : 0.14943609208646613,
+      "y" : 0.4542151163226745,
+      "text" : "[C] Analgesic abuse nephropathy"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.2894736865199272,
+      "x" : 0.20112782316729313,
+      "y" : 0.44113372098473835,
+      "text" : "[D] Diabetic Nephropathy (Diabetic Kidney Disease)"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.30639097760856626,
+      "x" : 0.20958646922932322,
+      "y" : 0.4280523256540698,
+      "text" : "[E] Renal amyloidosis secondary to rheumatoid arthritis"
+    },
+    {
+      "h" : 0.011724805831909269,
+      "conf" : 1,
+      "w" : 0.43421050784058235,
+      "x" : 0.2753759326127822,
+      "y" : 0.39830426373922667,
+      "text" : "Q05. [2021 Exam] The 'Brenner Hyperfiltration Hypothesis' explains"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.3646616493515793,
+      "x" : 0.24060150831766902,
+      "y" : 0.3844476745094476,
+      "text" : "that progressive loss of nephrons drives relentless CKD"
+    },
+    {
+      "h" : 0.011731265915764677,
+      "conf" : 1,
+      "w" : 0.20112782086852982,
+      "x" : 0.15883458624686717,
+      "y" : 0.3705878552014037,
+      "text" : "progression primarily through:"
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.38345865651397376,
+      "x" : 0.24999999520676702,
+      "y" : 0.3554166668955524,
+      "text" : "[A] Complete cessation of tubular active transport across all nephrons"
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "w" : 0.40789470220109186,
+      "x" : 0.26033835266290706,
+      "y" : 0.3423546511307335,
+      "text" : "[B] Autoimmune production of anti-GBM antibodies by surviving glomeruli"
+    },
+    {
+      "h" : 0.012073366377088779,
+      "conf" : 1,
+      "w" : 0.31215680339711765,
+      "x" : 0.2124046870520256,
+      "y" : 0.32978682792204334,
+      "text" : "[C] Direct bacterial invasion of the medullary interstitium"
+    },
+    {
+      "h" : 0.00872093015246922,
+      "conf" : 1,
+      "w" : 0.23872179131470167,
+      "x" : 0.17575188367794473,
+      "y" : 0.3168604650807236,
+      "text" : "[D] Massive calcification of the renal pelvis"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.42857140349793316,
+      "x" : 0.2706766863721806,
+      "y" : 0.3030523255268895,
+      "text" : "[E] Compensatory hyperfiltration and intraglomerular hypertension in remnant"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.42105262696014556,
+      "x" : 0.2669172862155391,
+      "y" : 0.29142441853197676,
+      "text" : "nephrons leading to shear stress, glomerulosclerosis, and nephron drop-out"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.3890977169780059,
+      "x" : 0.25469925298402246,
+      "y" : 0.27402777772139125,
+      "text" : "Q06. [2020 Exam] Which pharmacological class is proven as"
+    },
+    {
+      "h" : 0.011750645637512158,
+      "conf" : 1,
+      "w" : 0.40413531393219804,
+      "x" : 0.2603383526002504,
+      "y" : 0.26023578839009004,
+      "text" : "first-line evidence-based therapy to retard CKD progression in"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.2894736865199272,
+      "x" : 0.20300751517857152,
+      "y" : 0.24636627897892444,
+      "text" : "patients with hypertension and albuminuria?"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.25375938826889377,
+      "x" : 0.18327068092105248,
+      "y" : 0.23041666649291354,
+      "text" : "[A] Thiazide monotherapy in maximum doses"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.4116541343486026,
+      "x" : 0.2622180506578945,
+      "y" : 0.21875000016957363,
+      "text" : "[B] Renin-Angiotensin System (RAS) Inhibitors (ACE inhibitors or ARBs at"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.15225563076740542,
+      "x" : 0.1325187944548873,
+      "y" : 0.2056944443840914,
+      "text" : "maximally tolerated doses)"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.3139097760856623,
+      "x" : 0.21334586073778206,
+      "y" : 0.19263888885902586,
+      "text" : "[C] Direct arteriolar vasodilators (Minoxidil \/ Hydralazine)"
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "w" : 0.2218045002260626,
+      "x" : 0.16729322938596503,
+      "y" : 0.1795704133948215,
+      "text" : "[D] High-dose Loop diuretics twice daily"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.22180450022606266,
+      "x" : 0.1672932358552631,
+      "y" : 0.16642441869549418,
+      "text" : "[E] Central alpha-2 agonists (Clonidine)"
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "w" : 0.3740601200238138,
+      "x" : 0.24718044936560152,
+      "y" : 0.14972222210882224,
+      "text" : "Q07. [2024 Exam] How do SGLT2 Inhibitors (Dapagliflozin,"
+    },
+    {
+      "h" : 0.011750645637512158,
+      "conf" : 1,
+      "w" : 0.38721804478286753,
+      "x" : 0.2518796927944864,
+      "y" : 0.13523578829319088,
+      "text" : "Empagliflozin) confer nephroprotection in proteinuric CKD?"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.4360902239143377,
+      "x" : 0.27443608295739375,
+      "y" : 0.11986111106224356,
+      "text" : "[A] Restoring macula densa TGF, inducing afferent vasoconstriction & lowering"
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.13909773891731442,
+      "x" : 0.12593984843358397,
+      "y" : 0.10680555537366054,
+      "text" : "intraglomerular pressure"
+    },
+    {
+      "h" : 0.011679586304558676,
+      "conf" : 1,
+      "w" : 0.3345864554431951,
+      "x" : 0.22368421115288217,
+      "y" : 0.09445090430933245,
+      "text" : "[B] Direct enzymatic stimulation of medullary renin synthesis"
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "w" : 0.37406012002381384,
+      "x" : 0.2434210520989975,
+      "y" : 0.08138888894715224,
+      "text" : "[C] Permanent dilation of the efferent arteriole bypassing capillaries"
+    },
+    {
+      "h" : 0.008888888623979407,
+      "conf" : 1,
+      "w" : 0.2800751719690757,
+      "x" : 0.1945488675125315,
+      "y" : 0.0683333332456752,
+      "text" : "[D] Selective stimulation of renal gluconeogenesis"
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.28947366458061874,
+      "x" : 0.20112782437343343,
+      "y" : 0.05597222203614771,
+      "text" : "[E] Complete inhibition of renal phosphate excretion"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.293233074788821,
+      "x" : 0.6522556427631578,
+      "y" : 0.6911337210210755,
+      "text" : "[C] Absolute zero protein fasting for 3 days per week"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.23684209718025473,
+      "x" : 0.6259398535714285,
+      "y" : 0.6780523256540698,
+      "text" : "[D] Pure amino acid infusion twice weekly"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.2706766793575328,
+      "x" : 0.6428571455639098,
+      "y" : 0.6649709303052327,
+      "text" : "[E] Unrestricted ad libitum red meat consumption"
+    },
+    {
+      "h" : 0.011724805831909157,
+      "conf" : 1,
+      "w" : 0.3251879628316522,
+      "x" : 0.6701127778900375,
+      "y" : 0.6483042637150018,
+      "text" : "Q10. [2021 Exam] Why is oral Sodium Bicarbonate"
+    },
+    {
+      "h" : 0.011757105721367789,
+      "conf" : 1,
+      "w" : 0.39473682132065513,
+      "x" : 0.7048872229793233,
+      "y" : 0.6336563305263154,
+      "text" : "supplementation prescribed for CKD patients with persistent"
+    },
+    {
+      "h" : 0.011731265915764677,
+      "conf" : 1,
+      "w" : 0.2086466193456259,
+      "x" : 0.6118421087406014,
+      "y" : 0.6205878551045045,
+      "text" : "serum bicarbonate < 22 mEq\/L?"
+    },
+    {
+      "h" : 0.00873385005527072,
+      "conf" : 1,
+      "w" : 0.31578947022010917,
+      "x" : 0.6654135377819549,
+      "y" : 0.6046447027795165,
+      "text" : "[A] It acidifies the urine to prevent calcium oxalate stones"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.34774435826294037,
+      "x" : 0.6795112825422931,
+      "y" : 0.5908430233466571,
+      "text" : "[B] It directly stimulates bone marrow erythropoietin production"
+    },
+    {
+      "h" : 0.011627906163533486,
+      "conf" : 1,
+      "w" : 0.3984962095895489,
+      "x" : 0.7067669222744359,
+      "y" : 0.5784883721656977,
+      "text" : "[C] Correcting metabolic acidosis slows CKD progression, blunts muscle"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.2631578808804368,
+      "x" : 0.639097748746867,
+      "y" : 0.5661337210029069,
+      "text" : "proteolysis, and reduces bone demineralization"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.24624058979179775,
+      "x" : 0.6306390946663534,
+      "y" : 0.5530523255268895,
+      "text" : "[D] It permanently cures primary amyloidosis"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.336466149577642,
+      "x" : 0.6757518839050751,
+      "y" : 0.5399709303234013,
+      "text" : "[E] It replaces the physiological requirement for hemodialysis"
+    },
+    {
+      "h" : 0.011724806361728346,
+      "conf" : 1,
+      "w" : 0.4266917313027947,
+      "x" : 0.7208646573872182,
+      "y" : 0.5233042634646271,
+      "text" : "Q11. [2025 Exam] What cardiovascular complication is recognized"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.4285714034979332,
+      "x" : 0.7218045155639097,
+      "y" : 0.509447674491279,
+      "text" : "as the leading cause of death (>50% of mortality) across all stages"
+    },
+    {
+      "h" : 0.011731265915764788,
+      "conf" : 1,
+      "w" : 0.2199248060916157,
+      "x" : 0.6174812009633459,
+      "y" : 0.49558785515295417,
+      "text" : "of CKD prior to reaching dialysis?"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.18421052977989083,
+      "x" : 0.5996240632205514,
+      "y" : 0.48041666649291365,
+      "text" : "[A] Acute pulmonary tuberculosis"
+    },
+    {
+      "h" : 0.010290697415669792,
+      "conf" : 1,
+      "w" : 0.39849625346816575,
+      "x" : 0.7067669212781954,
+      "y" : 0.4673546511307334,
+      "text" : "[B] Cardiovascular Disease (atherosclerosis, myocardial infarction, heart"
+    },
+    {
+      "h" : 0.008746769693162681,
+      "conf" : 1,
+      "w" : 0.19172930631767837,
+      "x" : 0.6015037562030077,
+      "y" : 0.4549289405138651,
+      "text" : "failure, and sudden cardiac death"
+    },
+    {
+      "h" : 0.00872093015246922,
+      "conf" : 1,
+      "w" : 0.18421052977989083,
+      "x" : 0.5996240624530075,
+      "y" : 0.44186046505649873,
+      "text" : "[C] Acute necrotizing pancreatitis"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.22368419436050946,
+      "x" : 0.6193609050516916,
+      "y" : 0.4280523256722384,
+      "text" : "[D] Ruptured abdominal aortic aneurysm"
+    },
+    {
+      "h" : 0.00872092988755968,
+      "conf" : 1,
+      "w" : 0.15413533587150663,
+      "x" : 0.5845864680921053,
+      "y" : 0.41569767449127915,
+      "text" : "[E] Glioblastoma multiforme"
+    },
+    {
+      "h" : 0.011724805831909157,
+      "conf" : 1,
+      "w" : 0.4172932386912518,
+      "x" : 0.716165410338346,
+      "y" : 0.39830426359387777,
+      "text" : "Q12. [2020 Exam] FGF-23 (Fibroblast Growth Factor-23) secreted"
+    },
+    {
+      "h" : 0.01175064563751227,
+      "conf" : 1,
+      "w" : 0.39097743305176125,
+      "x" : 0.703007522180451,
+      "y" : 0.38523578853543894,
+      "text" : "by osteocytes acts as an early biomarker in CKD. What is its"
+    },
+    {
+      "h" : 0.011731266445583866,
+      "conf" : 1,
+      "w" : 0.19360902239143374,
+      "x" : 0.6043233063345865,
+      "y" : 0.3705878551853056,
+      "text" : "primary physiological action?"
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.40413531393219804,
+      "x" : 0.7095864627976189,
+      "y" : 0.35541666688949614,
+      "text" : "[A] Stimulates proximal tubule 1-alpha-hydroxylase to synthesize calcitriol"
+    },
+    {
+      "h" : 0.010290697945488758,
+      "conf" : 1,
+      "w" : 0.3928571491255166,
+      "x" : 0.7020676626253135,
+      "y" : 0.34235465125029413,
+      "text" : "[B] Promotes urinary phosphate wasting (down-regulates apical NaPi-ll"
+    },
+    {
+      "h" : 0.011705425580342599,
+      "conf" : 1,
+      "w" : 0.3327067613087482,
+      "x" : 0.6738721828634084,
+      "y" : 0.32998062036731934,
+      "text" : "cotransporters) and suppresses 1-alpha-hydroxylase activity"
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.41353380654374106,
+      "x" : 0.7142857194548872,
+      "y" : 0.31763888900437476,
+      "text" : "[C] Induces massive intestinal calcium absorption independent of vitamin D"
+    },
+    {
+      "h" : 0.011757105721367678,
+      "conf" : 1,
+      "w" : 0.40789474607970877,
+      "x" : 0.7114661694924811,
+      "y" : 0.30384366910374927,
+      "text" : "[D] Blocks parathyroid hormone transcription completely in early Stage G1"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.2593984926115429,
+      "x" : 0.6353383415413535,
+      "y" : 0.29142441853197676,
+      "text" : "[E] Direct vasoconstriction of coronary arteries"
+    },
+    {
+      "h" : 0.011724805831909157,
+      "conf" : 1,
+      "w" : 0.4360902239143377,
+      "x" : 0.7255639043233084,
+      "y" : 0.27330426375133904,
+      "text" : "Q13. [Faculty Exam] Why must live attenuated vaccines (e.g., MMR,"
+    },
+    {
+      "h" : 0.010297157499525311,
+      "conf" : 1,
+      "w" : 0.3966165373944105,
+      "x" : 0.705827061121554,
+      "y" : 0.2609625324323512,
+      "text" : "Varicella) be avoided or administered with extreme caution in"
+    },
+    {
+      "h" : 0.010174418555365716,
+      "conf" : 1,
+      "w" : 0.24248120152290387,
+      "x" : 0.6287593960714287,
+      "y" : 0.24636627899709312,
+      "text" : "advanced CKD and dialysis patients?"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.343984948054738,
+      "x" : 0.6795112816353384,
+      "y" : 0.23041666649291354,
+      "text" : "[A] Dialysis filters destroy all vaccine antigens within 5 minutes"
+    },
+    {
+      "h" : 0.01029069794548887,
+      "conf" : 1,
+      "w" : 0.40413531393219804,
+      "x" : 0.709586468076441,
+      "y" : 0.21735465115339492,
+      "text" : "[B] Advanced CKD produces severe secondary uremic immunodeficiency"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.36278193327782393,
+      "x" : 0.6870300691416041,
+      "y" : 0.2056944443840914,
+      "text" : "(impaired cell-mediated immunity), risking vaccine-strain infection"
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.28947366458061874,
+      "x" : 0.6503759350250629,
+      "y" : 0.19263888884085723,
+      "text" : "[C] Vaccines precipitate acute uric acid nephropathy"
+    },
+    {
+      "h" : 0.01030361758338083,
+      "conf" : 1,
+      "w" : 0.3890977169780059,
+      "x" : 0.702067674036654,
+      "y" : 0.17957041355833891,
+      "text" : "[D] Vaccine excipients cause irreversible ototoxicity in all CKD patients"
+    },
+    {
+      "h" : 0.010174418555365605,
+      "conf" : 1,
+      "w" : 0.394736821320655,
+      "x" : 0.7030075253759397,
+      "y" : 0.1664244186773256,
+      "text" : "[E] CKD patients have congenital absence of circulating B-lymphocytes"
+    },
+    {
+      "h" : 0.011666666666666714,
+      "conf" : 1,
+      "w" : 0.3872180447828675,
+      "x" : 0.7011278156766919,
+      "y" : 0.14972222243515287,
+      "text" : "Q14. [Core Exam] Which analgesic class must be STRICTLY"
+    },
+    {
+      "h" : 0.0102971574995252,
+      "conf" : 1,
+      "w" : 0.351503746531834,
+      "x" : 0.6832706731766918,
+      "y" : 0.13596253219010312,
+      "text" : "AVOIDED in CKD due to risk of accelerated GFR loss?"
+    },
+    {
+      "h" : 0.01027777777777783,
+      "conf" : 1,
+      "w" : 0.3026315674003641,
+      "x" : 0.6588345894924812,
+      "y" : 0.11986111115914277,
+      "text" : "[A] Paracetamol (Acetaminophen) in therapeutic doses"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.2725563954312882,
+      "x" : 0.6437969952067668,
+      "y" : 0.1068055556159086,
+      "text" : "[B] Topical lidocaine patches for neuropathic pain"
+    },
+    {
+      "h" : 0.011679586304558676,
+      "conf" : 1,
+      "w" : 0.33834586565139746,
+      "x" : 0.6766917292293233,
+      "y" : 0.09445090426088276,
+      "text" : "[C] Short-acting opioids (e.g., Fentanyl) with dose adjustment"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.31578947022010917,
+      "x" : 0.6654135364661653,
+      "y" : 0.08069444451732782,
+      "text" : "[D] NSAIDs (Ibuprofen, Naproxen, Diclofenac, Celecoxib)"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.18609022391433772,
+      "x" : 0.598684208200188,
+      "y" : 0.06763888885902586,
+      "text" : "[E] Pure synthetic glucocorticoids"
+    },
+    {
+      "h" : 0.010277777777777719,
+      "conf" : 1,
+      "w" : 0.4868420752409463,
+      "x" : 0.29981203616071417,
+      "y" : 0.024027777721391252,
+      "text" : "Twisted Medicine • Clinical Nephrology Master Class • Strictly Grounded in Faculty Past Papers"
+    },
+    {
+      "h" : 0.01744185977511936,
+      "conf" : 1,
+      "w" : 0.03947368377751359,
+      "x" : 0.5197368421992481,
+      "y" : 0.011627906802325616,
+      "text" : "141"
+    },
+    {
+      "h" : 0.008888888623979296,
+      "conf" : 1,
+      "w" : 0.2800751719690757,
+      "x" : 0.801691732824248,
+      "y" : 0.02472222213226538,
+      "text" : "Confidential - Dedicated for Medical Student Revision"
+    }
+  ],
+  "page" : 143
+}

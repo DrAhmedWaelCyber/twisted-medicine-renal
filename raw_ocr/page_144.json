@@ -1,0 +1,973 @@
+{
+  "items" : [
+    {
+      "text" : "Twisted Medicine • Renal System Module • Lecture 37 MCQ Masterclass",
+      "conf" : 1,
+      "y" : 0.9650484493200336,
+      "x" : 0.2800751867794487,
+      "w" : 0.44360900045212526,
+      "h" : 0.01176356527540423
+    },
+    {
+      "text" : "Page 2 of 4",
+      "conf" : 1,
+      "y" : 0.9643895347135112,
+      "x" : 0.9078947364666465,
+      "w" : 0.06769789387903824,
+      "h" : 0.010288970735337966
+    },
+    {
+      "text" : "Twisted Medicine Medical Series • Chronic Kidney Disease (CKD), Dialysis Modalities & CKD-MBD • Standard Practice Bank",
+      "conf" : 1,
+      "y" : 0.9462209303052326,
+      "x" : 0.3768797071663532,
+      "w" : 0.6334586126353567,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "Q15. [2025 Exam] What is the primary pathophysiological defect",
+      "conf" : 1,
+      "y" : 0.9345930231104651,
+      "x" : 0.26597744710996235,
+      "w" : 0.41541352261749637,
+      "h" : 0.011627906163533597
+    },
+    {
+      "text" : "Q22. [2023 Exam] What is 'Adynamic Bone Disease' in CKD-MBD,",
+      "conf" : 1,
+      "y" : 0.934593023255814,
+      "x" : 0.718984967692669,
+      "w" : 0.42293229915528396,
+      "h" : 0.011627906163533597
+    },
+    {
+      "text" : "causing the Normocytic Normochromic Anemia characteristic of",
+      "conf" : 1,
+      "y" : 0.9207848838420543,
+      "x" : 0.2678571498433581,
+      "w" : 0.41917291088639014,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "and what iatrogenic error precipitates it?",
+      "conf" : 1,
+      "y" : 0.9207848838117733,
+      "x" : 0.6400375972979322,
+      "w" : 0.26503759695419216,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "advanced CKD?",
+      "conf" : 1,
+      "y" : 0.9084302325749105,
+      "x" : 0.11090225565355699,
+      "w" : 0.10526315674003639,
+      "h" : 0.008720930417378647
+    },
+    {
+      "text" : "[A] High-turnover osteitis fibrosa cystica due to hyperparathyroidism",
+      "conf" : 1,
+      "y" : 0.9055555556436317,
+      "x" : 0.6945488768562029,
+      "w" : 0.3740601200238137,
+      "h" : 0.008888889153798374
+    },
+    {
+      "text" : "[A] Massive continuous microvascular hematuria in all patients",
+      "conf" : 1,
+      "y" : 0.8917151163517442,
+      "x" : 0.2302631613345864,
+      "w" : 0.343984948054738,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[B] Severe vitamin C deficiency causing defective bone collagen",
+      "conf" : 1,
+      "y" : 0.891715116224564,
+      "x" : 0.6832706722509401,
+      "w" : 0.3552631567400365,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] Severe deficiency of Erythropoietin (EPO) synthesis due to loss of",
+      "conf" : 1,
+      "y" : 0.8786337207606589,
+      "x" : 0.24906015623433564,
+      "w" : 0.3853383287091122,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[C] Low-turnover bone state from over-suppression by calcium binders and",
+      "conf" : 1,
+      "y" : 0.8794121447985962,
+      "x" : 0.7124060181077694,
+      "w" : 0.41353380654374106,
+      "h" : 0.011731265915764677
+    },
+    {
+      "text" : "peritubular interstitial fibroblasts in the renal cortex",
+      "conf" : 1,
+      "y" : 0.8662790698158915,
+      "x" : 0.19830827534461135,
+      "w" : 0.2800751719690758,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "active vitamin D analogs",
+      "conf" : 1,
+      "y" : 0.8670704133403158,
+      "x" : 0.5761278210761277,
+      "w" : 0.13721804478286748,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[C] Congenital hemoglobinopathy with abnormal beta-globin synthesis",
+      "conf" : 1,
+      "y" : 0.8539244187742248,
+      "x" : 0.2509398439536343,
+      "w" : 0.38909771697800594,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[D] Metastatic osteosarcoma invading all long bones",
+      "conf" : 1,
+      "y" : 0.853924418659157,
+      "x" : 0.6513157931156014,
+      "w" : 0.291353380654374,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[D] Massive dietary vitamin B12 malabsorption caused by gastric atrophy",
+      "conf" : 1,
+      "y" : 0.8408430231831396,
+      "x" : 0.25845863988095263,
+      "w" : 0.40413531393219804,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[E] Bacterial osteomyelitis complicating AV fistula surgery",
+      "conf" : 1,
+      "y" : 0.8408430232013082,
+      "x" : 0.6644736802396617,
+      "w" : 0.31766916435455594,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[E] Complete absence of bone marrow erythroid stem cells",
+      "conf" : 1,
+      "y" : 0.8277616280765503,
+      "x" : 0.2189849577380954,
+      "w" : 0.32518796283165213,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "Q16. [2024 Exam] Before initiating Erythropoiesis-Stimulating",
+      "conf" : 1,
+      "y" : 0.8095930233284884,
+      "x" : 0.25751880197368415,
+      "w" : 0.3984962095895489,
+      "h" : 0.011627906163533597
+    },
+    {
+      "text" : "Agents (ESAs: Epoetin alfa, Darbepoetin) in anemic CKD, what iron",
+      "conf" : 1,
+      "y" : 0.7965116278343023,
+      "x" : 0.2753759344219926,
+      "w" : 0.43421050784058235,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "parameter thresholds must be met?",
+      "conf" : 1,
+      "y" : 0.7826453487678744,
+      "x" : 0.17481203298872172,
+      "w" : 0.23308270891136096,
+      "h" : 0.010290697945488758
+    },
+    {
+      "text" : "[A] Serum Ferritin < 50 ng\/mL and TSAT < 10%",
+      "conf" : 1,
+      "y" : 0.7681944446263395,
+      "x" : 0.18984962694235583,
+      "w" : 0.26691729108863904,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[B] Serum Ferritin > 5000 ng\/mL and TSAT > 80%",
+      "conf" : 1,
+      "y" : 0.7536337210210755,
+      "x" : 0.1964285749295112,
+      "w" : 0.2800751719690758,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[C] Transferrin Saturation (TSAT) > 20% and Serum Ferritin > 100 ng\/mL",
+      "conf" : 1,
+      "y" : 0.7420704135220018,
+      "x" : 0.2584586516682329,
+      "w" : 0.404135313932198,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "(non-dialysis) or > 200 ng\/mL (dialysis) to avoid functional iron deficiency",
+      "conf" : 1,
+      "y" : 0.7289244185319768,
+      "x" : 0.25845863988095263,
+      "w" : 0.40413531393219804,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[D] Iron parameters are completely irrelevant to ESA responsiveness",
+      "conf" : 1,
+      "y" : 0.7158430233103197,
+      "x" : 0.24718045589755633,
+      "w" : 0.3815789404402184,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "Q23. [2021 Exam] What life-threatening dermatological",
+      "conf" : 1,
+      "y" : 0.8095930230620155,
+      "x" : 0.6842105287593985,
+      "w" : 0.353383440666281,
+      "h" : 0.011627906163533597
+    },
+    {
+      "text" : "complication occurs in dialysis patients characterized by medial",
+      "conf" : 1,
+      "y" : 0.7965116278585271,
+      "x" : 0.7124060079573937,
+      "w" : 0.4248120152290392,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "calcification of arterioles and painful ischemic skin necrosis?",
+      "conf" : 1,
+      "y" : 0.7826453487678744,
+      "x" : 0.7067669222744359,
+      "w" : 0.3984962095895489,
+      "h" : 0.010290697945488758
+    },
+    {
+      "text" : "[A] Psoriasis vulgaris",
+      "conf" : 1,
+      "y" : 0.7667151163699129,
+      "x" : 0.5667293247885338,
+      "w" : 0.11842104859012736,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] Lichen planus",
+      "conf" : 1,
+      "y" : 0.7536337207606589,
+      "x" : 0.5554511284147869,
+      "w" : 0.09962405239738714,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[C] Erythema multiforme minor",
+      "conf" : 1,
+      "y" : 0.7420704133948215,
+      "x" : 0.5921052602756893,
+      "w" : 0.17293232109459244,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[D] Atopic eczema",
+      "conf" : 1,
+      "y" : 0.7281976745155039,
+      "x" : 0.5582706784461152,
+      "w" : 0.10526315674003639,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[E] Calciphylaxis (Calcific Uremic Arteriolopathy)",
+      "conf" : 1,
+      "y" : 0.7158430231831396,
+      "x" : 0.6400375895050127,
+      "w" : 0.26879698522308604,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[E] Total iron binding capacity must be reduced to zero",
+      "conf" : 1,
+      "y" : 0.7027616279796511,
+      "x" : 0.20864662161654116,
+      "w" : 0.30451126153481084,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "Q17. [2023 Exam] In treating CKD anemia with ESAs, what is the",
+      "conf" : 1,
+      "y" : 0.6853197675145348,
+      "x" : 0.26597745053258115,
+      "w" : 0.41541352261749637,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "target Hemoglobin, and why avoid normalizing Hb (>13 g\/dL)?",
+      "conf" : 1,
+      "y" : 0.6715116277131783,
+      "x" : 0.2584586441416041,
+      "w" : 0.40413531393219804,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "[A] Target Hb 7-8 g\/dL; higher levels cause fatal acute hypocalcemia",
+      "conf" : 1,
+      "y" : 0.6562500000726744,
+      "x" : 0.247180454943609,
+      "w" : 0.38157894044021845,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[B] Target Hb 10.0-11.5 g\/dL; Hb >13 g\/dL increases stroke, thrombosis &",
+      "conf" : 1,
+      "y" : 0.6431944443840913,
+      "x" : 0.2622180409962407,
+      "w" : 0.41165413434860265,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "death (TREAT trial)",
+      "conf" : 1,
+      "y" : 0.6315277775503123,
+      "x" : 0.11278195597744359,
+      "w" : 0.10902255597858444,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[C] Target Hb > 16.0 g\/dL to maximize athletic stamina",
+      "conf" : 1,
+      "y" : 0.6184722220179792,
+      "x" : 0.20864662034774423,
+      "w" : 0.30451126153481084,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "Q24. [2025 Exam] What is the primary cause and laboratory",
+      "conf" : 1,
+      "y" : 0.6853197673873546,
+      "x" : 0.6992481155075188,
+      "w" : 0.3834586565139738,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "hallmark of Uremic Bleeding Diathesis in ESRD?",
+      "conf" : 1,
+      "y" : 0.6722383722141474,
+      "x" : 0.665413539097744,
+      "w" : 0.31578947022010906,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[A] Consumption coagulopathy with severe thrombocytopenia (<20k)",
+      "conf" : 1,
+      "y" : 0.6562500000726744,
+      "x" : 0.6964285752067669,
+      "w" : 0.3778195521713247,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[B] Congenital Factor VIll deficiency with prolonged aPTT",
+      "conf" : 1,
+      "y" : 0.6431944445476089,
+      "x" : 0.6654135378289473,
+      "w" : 0.31954885848900294,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Severe hypofibrinogenemia with positive D-dimer",
+      "conf" : 1,
+      "y" : 0.6301388890043746,
+      "x" : 0.6531954923637218,
+      "w" : 0.2913533806543741,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[D] Platelet dysfunction from uremic toxins: normal platelet count with",
+      "conf" : 1,
+      "y" : 0.6170704135583389,
+      "x" : 0.6983082754464285,
+      "w" : 0.38157894044021834,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[D] Target Hb 14-15 g\/dL with continuous daily transfusions",
+      "conf" : 1,
+      "y" : 0.605416666474745,
+      "x" : 0.22274436506109008,
+      "w" : 0.33270676130874816,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[E] Hemoglobin level has zero correlation with mortality in CKD",
+      "conf" : 1,
+      "y" : 0.5923546512321256,
+      "x" : 0.23026315354793245,
+      "w" : 0.3477443582629403,
+      "h" : 0.01029069794548887
+    },
+    {
+      "text" : "Q18. [2022 Exam] What novel oral drug class treats anemia of CKD",
+      "conf" : 1,
+      "y" : 0.5741569770407349,
+      "x" : 0.27349623342731855,
+      "w" : 0.4304511195716886,
+      "h" : 0.011686046388414084
+    },
+    {
+      "text" : "by stabilizing Hypoxia-Inducible Factor and stimulating",
+      "conf" : 1,
+      "y" : 0.5610885015720377,
+      "x" : 0.23684210639097739,
+      "w" : 0.3571428508744833,
+      "h" : 0.011711885664198007
+    },
+    {
+      "text" : "endogenous erythropoietin production?",
+      "conf" : 1,
+      "y" : 0.5472383721838663,
+      "x" : 0.1889097777020676,
+      "w" : 0.26127818674598985,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[A] SGLT2 inhibitors",
+      "conf" : 1,
+      "y" : 0.5319444443692622,
+      "x" : 0.11372180594454884,
+      "w" : 0.11466164935157935,
+      "h" : 0.008888888888888835
+    },
+    {
+      "text" : "[B] Mineralocorticoid receptor antagonists",
+      "conf" : 1,
+      "y" : 0.51819444440226,
+      "x" : 0.1729323279135339,
+      "w" : 0.23308270891136101,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[C] Calcineurin inhibitors",
+      "conf" : 1,
+      "y" : 0.5058333332456751,
+      "x" : 0.12593984730576452,
+      "w" : 0.13909773891731445,
+      "h" : 0.008888888623979296
+    },
+    {
+      "text" : "[D] HIF-Prolyl Hydroxylase Inhibitors (HIF-PHIs: Roxadustat, Vadadustat,",
+      "conf" : 1,
+      "y" : 0.4927648582227918,
+      "x" : 0.25939849692982453,
+      "w" : 0.40601503000595346,
+      "h" : 0.011692505942450637
+    },
+    {
+      "text" : "Daprodustat)",
+      "conf" : 0.5,
+      "y" : 0.48037790710032546,
+      "x" : 0.09492481115984666,
+      "w" : 0.0733777998506723,
+      "h" : 0.010477600097656303
+    },
+    {
+      "text" : "[E] Xanthine oxidase inhibitors",
+      "conf" : 1,
+      "y" : 0.46805555560651285,
+      "x" : 0.14191729038220557,
+      "w" : 0.17105262696014556,
+      "h" : 0.008888888888888835
+    },
+    {
+      "text" : "Q19. [2021 Exam] The pathogenesis of Secondary",
+      "conf" : 1,
+      "y" : 0.44986111117397176,
+      "x" : 0.21992480664160421,
+      "w" : 0.3233082686972053,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Hyperparathyroidism in CKD-MBD is triggered by:",
+      "conf" : 1,
+      "y" : 0.43608850157047435,
+      "x" : 0.22086465758928586,
+      "w" : 0.3251879628316522,
+      "h" : 0.011711886194017196
+    },
+    {
+      "text" : "[A] Massive urinary loss of PTH fragments in urine",
+      "conf" : 1,
+      "y" : 0.4207848838420543,
+      "x" : 0.1992481250626565,
+      "w" : 0.2857142763117249,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] Direct toxic destruction of parathyroid glands by filtered creatinine",
+      "conf" : 1,
+      "y" : 0.4076453488874351,
+      "x" : 0.2471804463580828,
+      "w" : 0.3815789404402184,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "[C] Congenital aplasia of the thyroid C cells",
+      "conf" : 1,
+      "y" : 0.39458333312261606,
+      "x" : 0.17669173172932326,
+      "w" : 0.24060150738845704,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[D] Severe systemic alkalosis causing calcium crystallization",
+      "conf" : 1,
+      "y" : 0.38152777798202087,
+      "x" : 0.22368420634398506,
+      "w" : 0.3345864554431951,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[E] Phosphate retention & Calcitriol deficiency (loss of 1-alpha-hydroxylase),",
+      "conf" : 1,
+      "y" : 0.3684722219816419,
+      "x" : 0.26691729849624046,
+      "w" : 0.42105262696014556,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "causing hypocalcemia",
+      "conf" : 1,
+      "y" : 0.35541666651108217,
+      "x" : 0.12030075343045107,
+      "w" : 0.12406014196312229,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Q20. [2020 Exam] Why are non-calcium phosphate binders",
+      "conf" : 1,
+      "y" : 0.3386272608389625,
+      "x" : 0.24906015509868407,
+      "w" : 0.37781955217132457,
+      "h" : 0.011698966026306157
+    },
+    {
+      "text" : "(Sevelamer, Lanthanum) preferred in Stage G4-G5 CKD?",
+      "conf" : 1,
+      "y" : 0.325558785247578,
+      "x" : 0.24154134875469938,
+      "w" : 0.37030073175492,
+      "h" : 0.011673126220703045
+    },
+    {
+      "text" : "[A] Do not cause positive calcium balance & vascular calcification",
+      "conf" : 1,
+      "y" : 0.30959302330426364,
+      "x" : 0.2387218105889722,
+      "w" : 0.36466164935157935,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "(calciphylaxis\/arteriosclerosis)",
+      "conf" : 1,
+      "y" : 0.29723837216569765,
+      "x" : 0.1409774464285713,
+      "w" : 0.16917292185604443,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] They are administered once yearly via intramuscular injection",
+      "conf" : 1,
+      "y" : 0.2841569767986919,
+      "x" : 0.23590226012687954,
+      "w" : 0.35902254500893016,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[C] They dissolve all existing calcium phosphate staghorn calculi",
+      "conf" : 1,
+      "y" : 0.27107558134084303,
+      "x" : 0.234962401550752,
+      "w" : 0.3571428508744833,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[D] They directly synthesize functional erythropoietin in the gut lumen",
+      "conf" : 1,
+      "y" : 0.25792958647799824,
+      "x" : 0.2471804463580828,
+      "w" : 0.3815789404402184,
+      "h" : 0.01030361758338083
+    },
+    {
+      "text" : "[E] They completely eliminate the requirement for dietary phosphate control",
+      "conf" : 1,
+      "y" : 0.24486111117731146,
+      "x" : 0.2650375992011277,
+      "w" : 0.41729323869125184,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Q21. [2024 Exam] What is the mechanism of action of Cinacalcet in",
+      "conf" : 1,
+      "y" : 0.22747093030523247,
+      "x" : 0.27537594415413524,
+      "w" : 0.4304511195716885,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "treating secondary hyperparathyroidism in dialysis?",
+      "conf" : 1,
+      "y" : 0.21432170541862866,
+      "x" : 0.228383462899436,
+      "w" : 0.3402255597858443,
+      "h" : 0.01031007766723635
+    },
+    {
+      "text" : "[A] Calcimimetic activating Ca-Sensing Receptors (CaSR), suppressing PTH",
+      "conf" : 1,
+      "y" : 0.19846253235362055,
+      "x" : 0.26973684739191717,
+      "w" : 0.422932299155284,
+      "h" : 0.0102971574995252
+    },
+    {
+      "text" : "[B] Irreversible covalent alkylation of parathyroid adenomas",
+      "conf" : 1,
+      "y" : 0.1737467701909246,
+      "x" : 0.22180451679197977,
+      "w" : 0.3308270671743013,
+      "h" : 0.01028423786163335
+    },
+    {
+      "text" : "[C] Direct competitive antagonism of nuclear vitamin D receptors",
+      "conf" : 1,
+      "y" : 0.15988372100290693,
+      "x" : 0.2349624104793232,
+      "w" : 0.3571428508744833,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "[D] Selective stimulation of intestinal phosphate absorption",
+      "conf" : 1,
+      "y" : 0.14752906984011638,
+      "x" : 0.21898496565789471,
+      "w" : 0.32518796283165213,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[E] Inhibition of osteoclastic acid phosphatase",
+      "conf" : 1,
+      "y" : 0.13444767458817825,
+      "x" : 0.1842105247493735,
+      "w" : 0.25563908240334066,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[E] Vitamin K deficiency with isolated PT prolongation",
+      "conf" : 1,
+      "y" : 0.5923546511125648,
+      "x" : 0.6550751916588347,
+      "w" : 0.2951127689232679,
+      "h" : 0.010290697415669792
+    },
+    {
+      "text" : "Q25. [Faculty Exam] Which rapid acute treatment is indicated to",
+      "conf" : 1,
+      "y" : 0.574156976895386,
+      "x" : 0.7133458605576442,
+      "w" : 0.41165413434860265,
+      "h" : 0.011686046388414195
+    },
+    {
+      "text" : "temporarily correct uremic platelet dysfunction before emergency",
+      "conf" : 1,
+      "y" : 0.5603197673873546,
+      "x" : 0.7199248066729325,
+      "w" : 0.4285714034979332,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "surgery in an ESRD patient?",
+      "conf" : 1,
+      "y" : 0.5472383721838663,
+      "x" : 0.6005639121005639,
+      "w" : 0.18609022391433772,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[A] Intravenous Desmopressin (dDAVP; 0.3 mcg\/kg) stimulating release of",
+      "conf" : 1,
+      "y" : 0.531249999939438,
+      "x" : 0.712406011622807,
+      "w" : 0.4097744182748472,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "subendothelial vWF and Factor VIII multimers",
+      "conf" : 1,
+      "y" : 0.5195833331044476,
+      "x" : 0.634398499412594,
+      "w" : 0.2537593882688939,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[B] Fresh Frozen Plasma transfusion (10 units)",
+      "conf" : 1,
+      "y" : 0.5065277775612134,
+      "x" : 0.637218048355263,
+      "w" : 0.259398492611543,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[C] Oral Warfarin loading dose of 10 mg",
+      "conf" : 1,
+      "y" : 0.493472222007078,
+      "x" : 0.6174812052067669,
+      "w" : 0.2199248060916157,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[D] Subcutaneous low molecular weight heparin",
+      "conf" : 1,
+      "y" : 0.480416666474745,
+      "x" : 0.6400375972979322,
+      "w" : 0.26503759695419216,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "[E] High-dose oral aspirin therapy",
+      "conf" : 1,
+      "y" : 0.46735465111256486,
+      "x" : 0.6005639121005639,
+      "w" : 0.18609022391433772,
+      "h" : 0.01029069741566968
+    },
+    {
+      "text" : "Q26. [Core Exam] What is the pathogenesis of Dialysis-Related",
+      "conf" : 1,
+      "y" : 0.4498611111921404,
+      "x" : 0.7105263107142858,
+      "w" : 0.4060150300059535,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "Amyloidosis (DRA) in long-term hemodialysis (>7-10 years)?",
+      "conf" : 1,
+      "y" : 0.43608850132009974,
+      "x" : 0.7048872140977445,
+      "w" : 0.394736821320655,
+      "h" : 0.011711886723836273
+    },
+    {
+      "text" : "[A] Deposition of AL light chains from plasma cell dyscrasia",
+      "conf" : 1,
+      "y" : 0.4207848837754361,
+      "x" : 0.6710526356672931,
+      "w" : 0.3270676569660991,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[B] Deposition of serum amyloid A (AA) during tuberculosis",
+      "conf" : 1,
+      "y" : 0.40764534874970587,
+      "x" : 0.6701127873746865,
+      "w" : 0.3251879628316521,
+      "h" : 0.010290697945488758
+    },
+    {
+      "text" : "[C] Deposition of Beta-2 Microglobulin (AB2m) fibrils in synovia\/bones due to",
+      "conf" : 1,
+      "y" : 0.3945833331226162,
+      "x" : 0.7180451197994985,
+      "w" : 0.42105262696014556,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "low-flux dialyzer clearance",
+      "conf" : 1,
+      "y" : 0.381527777579382,
+      "x" : 0.5808270701754386,
+      "w" : 0.15037593663295856,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "[D] Accumulation of mutated transthyretin in peripheral nerves",
+      "conf" : 1,
+      "y" : 0.36916666671556514,
+      "x" : 0.6785714319924812,
+      "w" : 0.34210525392029123,
+      "h" : 0.008888888623979407
+    },
+    {
+      "text" : "[E] Insoluble precipitation of ingested dietary gluten",
+      "conf" : 1,
+      "y" : 0.3554166669258335,
+      "x" : 0.6484962358395991,
+      "w" : 0.28571427631172486,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Q27. [Core Exam] What physical sign termed Asterixis ('flapping",
+      "conf" : 1,
+      "y" : 0.3386272610893372,
+      "x" : 0.7152255680639098,
+      "w" : 0.4154135226174964,
+      "h" : 0.011698966556125234
+    },
+    {
+      "text" : "tremor') indicates severe uremic encephalopathy?",
+      "conf" : 1,
+      "y" : 0.3255587852839152,
+      "x" : 0.6691729282424812,
+      "w" : 0.32706765696609896,
+      "h" : 0.011673126220703156
+    },
+    {
+      "text" : "[A] Continuous resting pill-rolling tremor of the fingers",
+      "conf" : 1,
+      "y" : 0.3088662791606104,
+      "x" : 0.6550751916588347,
+      "w" : 0.2951127689232679,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "[B] Inability to touch finger to nose with eyes closed",
+      "conf" : 1,
+      "y" : 0.29651162771317835,
+      "x" : 0.6484962402882206,
+      "w" : 0.28571427631172497,
+      "h" : 0.011627906163533486
+    },
+    {
+      "text" : "[C] Unilateral hemiparesis with hyperreflexia",
+      "conf" : 1,
+      "y" : 0.2841569769137597,
+      "x" : 0.6296992511904761,
+      "w" : 0.24812028392624463,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[D] Involuntary rapid lapses of sustained posture when arms are outstretched &",
+      "conf" : 1,
+      "y" : 0.2710755813226744,
+      "x" : 0.7236842032581456,
+      "w" : 0.4360902239143377,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "wrists dorsiflexed",
+      "conf" : 1,
+      "y" : 0.25872093024577175,
+      "x" : 0.5573308270306447,
+      "w" : 0.09962406336704155,
+      "h" : 0.008720930417378647
+    },
+    {
+      "text" : "[E] Complete flaccid quadriplegia",
+      "conf" : 1,
+      "y" : 0.24486111120759246,
+      "x" : 0.6005639129385962,
+      "w" : 0.1898496121832315,
+      "h" : 0.01027777777777783
+    },
+    {
+      "text" : "Q28. [Core Exam] Why are patients with advanced CKD",
+      "conf" : 1,
+      "y" : 0.22747093032340115,
+      "x" : 0.6860902300281955,
+      "w" : 0.3571428508744833,
+      "h" : 0.010174418555365605
+    },
+    {
+      "text" : "exceptionally prone to severe Hyperkalemia when prescribed ACE",
+      "conf" : 1,
+      "y" : 0.21362726057248965,
+      "x" : 0.7208646577380953,
+      "w" : 0.4266917313027948,
+      "h" : 0.011698966026306157
+    },
+    {
+      "text" : "inhibitors or Spironolactone?",
+      "conf" : 1,
+      "y" : 0.20055878551405099,
+      "x" : 0.6052631607769423,
+      "w" : 0.19548871652588073,
+      "h" : 0.011673126220703156
+    },
+    {
+      "text" : "[A] They induce massive skeletal muscle rhabdomyolysis",
+      "conf" : 1,
+      "y" : 0.1853197674963662,
+      "x" : 0.6654135377819549,
+      "w" : 0.31578947022010917,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[B] They completely shut down intestinal motility preventing fecal excretion",
+      "conf" : 1,
+      "y" : 0.17223837202034892,
+      "x" : 0.7114661585526318,
+      "w" : 0.41165413434860265,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "[C] Remnant nephrons already maximize cortical collecting duct K+ excretion;",
+      "conf" : 1,
+      "y" : 0.15915697667151157,
+      "x" : 0.7218045069924812,
+      "w" : 0.4285714034979331,
+      "h" : 0.010174418555365716
+    },
+    {
+      "text" : "blocking Aldosterone eliminates this vital reserve",
+      "conf" : 1,
+      "y" : 0.1468023256540697,
+      "x" : 0.6447368455357142,
+      "w" : 0.2744360895657352,
+      "h" : 0.011627906163533597
+    },
+    {
+      "text" : "[D] They cause rapid breakdown of red blood cells within the renal pelvis",
+      "conf" : 1,
+      "y" : 0.13365633052475206,
+      "x" : 0.7077067618107772,
+      "w" : 0.4003759256633044,
+      "h" : 0.011757105191548711
+    },
+    {
+      "text" : "[E] They increase dietary intake of citrus fruits",
+      "conf" : 1,
+      "y" : 0.12063953495639546,
+      "x" : 0.6334586498120299,
+      "w" : 0.25563908240334055,
+      "h" : 0.00872092988755968
+    },
+    {
+      "text" : "Twisted Medicine • Clinical Nephrology Master Class • Strictly Grounded in Faculty Past Papers",
+      "conf" : 1,
+      "y" : 0.024027777721391252,
+      "x" : 0.29981203616071417,
+      "w" : 0.4868420752409463,
+      "h" : 0.010277777777777719
+    },
+    {
+      "text" : "142",
+      "conf" : 1,
+      "y" : 0.011627907049418518,
+      "x" : 0.5197368423026315,
+      "w" : 0.03947368377751359,
+      "h" : 0.01744185977511936
+    },
+    {
+      "text" : "Confidential - Dedicated for Medical Student Revision",
+      "conf" : 1,
+      "y" : 0.02472222213226538,
+      "x" : 0.801691732824248,
+      "w" : 0.2800751719690757,
+      "h" : 0.008888888623979296
+    }
+  ],
+  "page" : 144
+}

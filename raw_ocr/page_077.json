@@ -1,0 +1,901 @@
+{
+  "items" : [
+    {
+      "conf" : 1,
+      "h" : 0.014884123272366101,
+      "x" : 0.2931998477107023,
+      "y" : 0.9766307876356934,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 20 MCQ Masterclass",
+      "w" : 0.5208013762468062
+    },
+    {
+      "conf" : 1,
+      "h" : 0.0106583208507961,
+      "x" : 0.9341563794765271,
+      "y" : 0.9760174422101584,
+      "text" : "Page 3 of 4",
+      "w" : 0.07009666370895673
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723635,
+      "x" : 0.3621399259259257,
+      "y" : 0.9643217053822914,
+      "text" : "Twisted Medicine Medical Series • Diuretics Pharmacology, Mechanisms & Clinical Therapeutics • Standard Practice Bank",
+      "w" : 0.6584361814103037
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01030361758338083,
+      "x" : 0.4804526857253083,
+      "y" : 0.9454295866233471,
+      "text" : "Q29. [2025 Exam] Thiazide diuretics (e.g., Hydrochlorothiazide, Q36. [2023 Exam] Spironolactone and Eplerenone exert their",
+      "w" : 0.8662550824243318
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011666666666666714,
+      "x" : 0.4742798352109054,
+      "y" : 0.9316666666445316,
+      "text" : "Chlorthalidone) exert their primary diuretic effect by inhibiting potassium-sparing diuretic effect by which precise cellular",
+      "w" : 0.8539094744988207
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.13271604767489714,
+      "y" : 0.9193055554996296,
+      "text" : "which transport system?",
+      "w" : 0.17078188530304148
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.5432098777777777,
+      "y" : 0.920784883890504,
+      "text" : "mechanism?",
+      "w" : 0.09053497794289256
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010290697415669792,
+      "x" : 0.2705761373199587,
+      "y" : 0.9048546511489021,
+      "text" : "[A] Apical Na+\/K+\/2CI- cotransporter (NKCC2) in the thick ascending limb",
+      "w" : 0.4506172803962756
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010290697945488758,
+      "x" : 0.713991762208505,
+      "y" : 0.9048546512502942,
+      "text" : "[A] Competitive antagonism of cytoplasmic Mineralocorticoid (Aldosterone)",
+      "w" : 0.4403292098135318
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.25000000682441675,
+      "y" : 0.8917151163517443,
+      "text" : "[B] Basolateral sodium-calcium exchanger (NCX1) in proximal tubules",
+      "w" : 0.4094649980653007
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.5318930031207134,
+      "y" : 0.8931686048207363,
+      "text" : "Receptors",
+      "w" : 0.06378600882284291
+    },
+    {
+      "conf" : 1,
+      "h" : 0.0117312653859456,
+      "x" : 0.46090536364883355,
+      "y" : 0.8794121448243843,
+      "text" : "[C] Amiloride-sensitive Epithelial Sodium Channels (ENaC) in collecting ducts [B] Direct mechanical plugging of the apical ENaC channel pore",
+      "w" : 0.8312757000233393
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011692505942450637,
+      "x" : 0.5010288173868308,
+      "y" : 0.8677648582227919,
+      "text" : "[D] Apical Na+\/CI- cotransporter (NCC) in the early Distal Convoluted Tubule [C] Degradation of basolateral Na+\/K+ ATPase pumps via lysosomal enzymes",
+      "w" : 0.9115226313752948
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.22119342003600814,
+      "y" : 0.8524709303234012,
+      "text" : "[E] Cytoplasmic carbonic anhydrase in renal medullary cells",
+      "w" : 0.3518518411888266
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.6810699649519887,
+      "y" : 0.8539244186773256,
+      "text" : "[D] Inhibition of 11-beta-hydroxysteroid dehydrogenase type 2",
+      "w" : 0.3662551304079452
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01029069741566968,
+      "x" : 0.6676954774948558,
+      "y" : 0.8423546511125648,
+      "text" : "[E] Direct stimulation of apical ROMK potassium channels",
+      "w" : 0.3395061612878955
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.26028806229423873,
+      "y" : 0.8190277779759646,
+      "text" : "Q30. [2024 Exam] Unlike Loop Diuretics, Thiazides DECREASE",
+      "w" : 0.42592592059441337
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.2201646032235941,
+      "y" : 0.8059722224206181,
+      "text" : "urinary calcium excretion (Hypocalciuria) because:",
+      "w" : 0.34979423187063924
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.24588478034979405,
+      "y" : 0.7906976745155039,
+      "text" : "[A] They directly chelate and destroy calcium ions inside tubular fluid",
+      "w" : 0.4012345607925511
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.208847731378601,
+      "y" : 0.7783430234253876,
+      "text" : "[B] They stimulate massive osteoclastic bone resorption",
+      "w" : 0.3271604813869644
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.20781892726337456,
+      "y" : 0.7652616277797966,
+      "text" : "[C] They cause direct calcification of Bowman's capsule",
+      "w" : 0.32510287206877697
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.21090535393518509,
+      "y" : 0.7521802326489826,
+      "text" : "[D] They block 1-alpha-hydroxylase synthesis of calcitriol",
+      "w" : 0.3312757000233392
+    },
+    {
+      "conf" : 1,
+      "h" : 0.0102971574995252,
+      "x" : 0.2592592663923179,
+      "y" : 0.7390374678583466,
+      "text" : "[E] Lower cell Na+ stimulates basolateral Na+\/Ca2+ exchange and apical",
+      "w" : 0.4279835059207939
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.06172839451303158,
+      "y" : 0.726744185998062,
+      "text" : "entry",
+      "w" : 0.03292180907051518
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6759259199931416,
+      "y" : 0.8190277780123018,
+      "text" : "Q37. [2022 Exam] Why is Eplerenone preferred over",
+      "w" : 0.35596705982520144
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6954732559156377,
+      "y" : 0.8059722220179791,
+      "text" : "Spironolactone in adult male patients requiring long-term",
+      "w" : 0.39094649020980743
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.612139913888889,
+      "y" : 0.7929166668773838,
+      "text" : "aldosterone receptor blockade?",
+      "w" : 0.2283950421795155
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723635,
+      "x" : 0.7139917641460907,
+      "y" : 0.7768217052732798,
+      "text" : "[A] It has 100 times higher diuretic potency and causes zero hyperkalemia",
+      "w" : 0.4320987725407823
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011737725469801119,
+      "x" : 0.7129629669067213,
+      "y" : 0.764479973873998,
+      "text" : "[B] High selectivity for MR with minimal affinity for androgen receptors (no",
+      "w" : 0.4300411392307882
+    },
+    {
+      "conf" : 0.5,
+      "h" : 0.00872092988755968,
+      "x" : 0.5432098774485596,
+      "y" : 0.7529069768023255,
+      "text" : "gynecomastia)",
+      "w" : 0.09053497794289256
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.7232510344907406,
+      "y" : 0.7405523256359012,
+      "text" : "[C] It can be administered once every month by subcutaneous depot injection",
+      "w" : 0.4547324990326503
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6512345730109738,
+      "y" : 0.7274709303052325,
+      "text" : "[D] It completely cures bilateral renal artery stenosis",
+      "w" : 0.306584340221477
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723635,
+      "x" : 0.6831275757201646,
+      "y" : 0.71432170540046,
+      "text" : "[E] It stimulates testosterone synthesis in testicular Leydig cells",
+      "w" : 0.3703703730361266
+    },
+    {
+      "conf" : 1,
+      "h" : 0.0117312653859456,
+      "x" : 0.4845679121656375,
+      "y" : 0.6919121448364968,
+      "text" : "Q31. [2023 Exam] Because Thiazides induce Hypocalciuria, they Q38. [2021 Exam] What is the primary mechanism of action of",
+      "w" : 0.874485615664308
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.2386831278463649,
+      "y" : 0.6780523254118218,
+      "text" : "are the first-line pharmacological treatment of choice for",
+      "w" : 0.38683127157343267
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6965020641632371,
+      "y" : 0.6780523257025193,
+      "text" : "Potassium-Sparing diuretics Amiloride and Triamterene?",
+      "w" : 0.39300409952799475
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.12037037224794235,
+      "y" : 0.6649709303234013,
+      "text" : "preventing recurrent:",
+      "w" : 0.1502057561334574
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.7088477436556925,
+      "y" : 0.663472222405789,
+      "text" : "[A] Direct competitive inhibition of the mineralocorticoid nuclear receptor",
+      "w" : 0.42181070195803855
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.24897118655692757,
+      "y" : 0.6504166667656556,
+      "text" : "[A] Idiopathic Hypercalciuria with Calcium Oxalate \/ Phosphate Stones",
+      "w" : 0.4115226313752948
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.707818934238683,
+      "y" : 0.650416666862555,
+      "text" : "[B] Inhibition of mitochondrial oxidative phosphorylation in principal cells",
+      "w" : 0.41975306864804435
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.13888889200960208,
+      "y" : 0.6373611113193206,
+      "text" : "[B] Uric acid radiolucent stones",
+      "w" : 0.18724279583625072
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008888888888888835,
+      "x" : 0.7129629575874487,
+      "y" : 0.6380555554705598,
+      "text" : "[C] Direct pharmacological blockade of apical Epithelial Sodium Channels",
+      "w" : 0.4300411392307883
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.23353909935699577,
+      "y" : 0.6243055557942551,
+      "text" : "[C] Struvite (magnesium ammonium phosphate) staghorn calculi",
+      "w" : 0.3765432009906889
+    },
+    {
+      "conf" : 0.5,
+      "h" : 0.00872092988755968,
+      "x" : 0.5226337456790123,
+      "y" : 0.6264534884205426,
+      "text" : "(ENaC)",
+      "w" : 0.04938271360577279
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011673126750522234,
+      "x" : 0.15226337662551437,
+      "y" : 0.6119412144729777,
+      "text" : "[D] Hexagonal cystine kidney stones",
+      "w" : 0.2139917769522037
+    },
+    {
+      "conf" : 1,
+      "h" : 0.0102971574995252,
+      "x" : 0.7129629613786008,
+      "y" : 0.6140374678389667,
+      "text" : "[D] Selective opening of basolateral chloride channels in intercalated cells",
+      "w" : 0.43004113923078807
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008888888888888946,
+      "x" : 0.12757201851851846,
+      "y" : 0.5988888889862061,
+      "text" : "[E] Xanthine urinary stones",
+      "w" : 0.16460904535257592
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008888889153798374,
+      "x" : 0.6954732559670781,
+      "y" : 0.6002777777118367,
+      "text" : "[E] Stimulation of renal prostaglandin synthesis in the inner medulla",
+      "w" : 0.39506170884618225
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.48045268355967063,
+      "y" : 0.5646802326308138,
+      "text" : "Q32. [2022 Exam] What paradoxical therapeutic effect do Thiazide Q39. [2025 Exam] Amiloride is the specific drug of choice for",
+      "w" : 0.8662550824243318
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011686046388414195,
+      "x" : 0.5010288179783947,
+      "y" : 0.55084302298349,
+      "text" : "diuretics exert in patients with Nephrogenic Diabetes Insipidus? treating which rare genetic hypertensive disorder characterized by",
+      "w" : 0.9115226313752948
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01031007766723624,
+      "x" : 0.2500000040946502,
+      "y" : 0.5356782947448888,
+      "text" : "[A] They stimulate massive water diuresis exceeding 30 Liters per day",
+      "w" : 0.4094649980653007
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.617283954663923,
+      "y" : 0.5384722224542386,
+      "text" : "constitutively hyperactive ENaC?",
+      "w" : 0.24279835539044076
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011724805831909157,
+      "x" : 0.3899176929012347,
+      "y" : 0.5233042635938778,
+      "text" : "[B] Produce mild volume depletion, increasing proximal reabsorption and [A] Bartter Syndrome (NKCC2 mutation)",
+      "w" : 0.6893003931585349
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008888888623979296,
+      "x" : 0.11316872654320981,
+      "y" : 0.5116666666495931,
+      "text" : "reducing urine volume",
+      "w" : 0.1358024669143389
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008720930417378758,
+      "x" : 0.61522633755053,
+      "y" : 0.5101744186007923,
+      "text" : "[B] Gitelman Syndrome (NCC mutation)",
+      "w" : 0.23456789412588447
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.26337449286694076,
+      "y" : 0.4993055557760865,
+      "text" : "[C] They completely restore normal V2 receptor sensitivity in principal cells",
+      "w" : 0.4362139911771571
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755957,
+      "x" : 0.6687242740054872,
+      "y" : 0.4970930232073643,
+      "text" : "[C] Fanconi Syndrome (generalized proximal tubule defect)",
+      "w" : 0.34979423187063924
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010284237861633239,
+      "x" : 0.2654321061042521,
+      "y" : 0.48624677019092455,
+      "text" : "[D] They convert nephrogenic DI into central DI by destroying hypothalamic",
+      "w" : 0.4403292098135318
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.06481481482624599,
+      "y" : 0.47529069772286814,
+      "text" : "nuclei",
+      "w" : 0.03909464902098074
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.7026748902263378,
+      "y" : 0.48473837202034886,
+      "text" : "[D] Liddle Syndrome (pseudo-hyperaldosteronism with low renin & low",
+      "w" : 0.41358021670167555
+    },
+    {
+      "conf" : 1,
+      "h" : 0.007267441749572723,
+      "x" : 0.5370370357338821,
+      "y" : 0.4731104650436047,
+      "text" : "aldosterone)",
+      "w" : 0.07818929804196145
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.22222222812071313,
+      "y" : 0.4615277777395598,
+      "text" : "[E] They synthesize artificial ADH within collecting duct cells",
+      "w" : 0.35390945050701406
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.6810699551851853,
+      "y" : 0.46002906969476753,
+      "text" : "[E] Conn Syndrome (aldosterone-producing adrenal adenoma)",
+      "w" : 0.3662551304079453
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011666666666666714,
+      "x" : 0.26234568617969795,
+      "y" : 0.43750000009689927,
+      "text" : "Q33. [2021 Exam] Which of the following Thiazide-like diuretics",
+      "w" : 0.4300411392307881
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011666666666666714,
+      "x" : 0.7016460853909467,
+      "y" : 0.43749999996366284,
+      "text" : "Q40. [Faculty Exam] What is the most lethal, life-threatening",
+      "w" : 0.41152263137529477
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011673126750522234,
+      "x" : 0.4907407318312759,
+      "y" : 0.4244412143566985,
+      "text" : "has an exceptionally long elimination half-life (~40-60 hours) and adverse effect associated with all Potassium-Sparing Diuretics?",
+      "w" : 0.8909464902098074
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010310077137417273,
+      "x" : 0.15432099128943744,
+      "y" : 0.4106782945284289,
+      "text" : "superior clinical trial evidence?",
+      "w" : 0.2181069955885785
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.6008230486968449,
+      "y" : 0.4091569768168605,
+      "text" : "[A] Acute angle-closure glaucoma",
+      "w" : 0.20576131568764738
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.10185185373799718,
+      "y" : 0.39680232567829454,
+      "text" : "[A] Chlorothiazide",
+      "w" : 0.11316871643066406
+    },
+    {
+      "conf" : 1,
+      "h" : 0.00872092988755968,
+      "x" : 0.5977366280092592,
+      "y" : 0.3968023256540697,
+      "text" : "[B] Massive pulmonary embolism",
+      "w" : 0.1995884757371818
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01030361758338083,
+      "x" : 0.11522633635116604,
+      "y" : 0.3829295863629304,
+      "text" : "[B] Hydrochlorothiazide",
+      "w" : 0.1399176855507137
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6841563832561727,
+      "y" : 0.3844476744731105,
+      "text" : "[C] Hypokalemic metabolic alkalosis with malignant arrhythmias",
+      "w" : 0.37242798235431396
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.09979423707133064,
+      "y" : 0.37136627923934107,
+      "text" : "[C] Chlorthalidone",
+      "w" : 0.10905349779428924
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.5967078213991769,
+      "y" : 0.36986111117731146,
+      "text" : "[D] Acute necrotizing pancreatitis",
+      "w" : 0.1975308544230911
+    },
+    {
+      "conf" : 0.5,
+      "h" : 0.008746769693162793,
+      "x" : 0.09979423977366253,
+      "y" : 0.35757105949582485,
+      "text" : "[D] Acetazolamide",
+      "w" : 0.10905349779428927
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.721193421270576,
+      "y" : 0.3582848837754361,
+      "text" : "[E] Severe symptomatic Hyperkalemia (especially with ACEi, ARBs, or CKD)",
+      "w" : 0.4506172803962756
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01029069741566968,
+      "x" : 0.08847736796982161,
+      "y" : 0.3451453489661657,
+      "text" : "[E] Triamterene",
+      "w" : 0.10288065784382372
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.2551440381172838,
+      "y" : 0.3103197675327035,
+      "text" : "Q34. [2020 Exam] Why is Metolazone uniquely valuable when",
+      "w" : 0.41563785001166953
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011711886723836273,
+      "x" : 0.725308637469136,
+      "y" : 0.31108850132009974,
+      "text" : "Q41. [Core Exam] A 55-year-old male with severe congestive heart",
+      "w" : 0.45061728039627563
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.48765430624142725,
+      "y" : 0.2972383720203489,
+      "text" : "combined with Loop Diuretics in patients with refractory, resistant failure on Digoxin is prescribed Furosemide without potassium",
+      "w" : 0.8847735902798252
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.13580246611796992,
+      "y" : 0.2841569766715116,
+      "text" : "congestive heart failure?",
+      "w" : 0.18106995588578517
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6358024644718794,
+      "y" : 0.2841569766715116,
+      "text" : "supplementation. He is at high risk for:",
+      "w" : 0.27983537110142737
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.24691358148148146,
+      "y" : 0.2695833331516859,
+      "text" : "[A] It directly dissolves atheromatous plaques in the main renal artery",
+      "w" : 0.40329219410254524
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011666666666666714,
+      "x" : 0.6779835345421812,
+      "y" : 0.2688888886806794,
+      "text" : "[A] Digitalis Toxicity and fatal cardiac arrhythmias triggered by",
+      "w" : 0.3641975210897577
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.2530864266803839,
+      "y" : 0.2565277775793819,
+      "text" : "[B] It completely prevents any potassium loss caused by loop diuretics",
+      "w" : 0.41563785001166964
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01030361758338072,
+      "x" : 0.5987654286694103,
+      "y" : 0.2579295864598296,
+      "text" : "Furosemide-induced Hypokalemia",
+      "w" : 0.20576131568764738
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011666666666666603,
+      "x" : 0.48868313865740703,
+      "y" : 0.2441666668625549,
+      "text" : "[C] It is administered as an aerosol and acts exclusively on pulmonary veins [B] Immediate conversion of digoxin into an inactive glucuronide conjugate",
+      "w" : 0.886831223589819
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011666666666666603,
+      "x" : 0.43209877832647414,
+      "y" : 0.2311111113435455,
+      "text" : "[D] Produces 'Sequential Nephron Blockade' and remains active even at GFR [C] Severe hypercalcemia with myocardial calcification",
+      "w" : 0.7736625431468651
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008888888888888835,
+      "x" : 0.08539094777091903,
+      "y" : 0.21944444434503757,
+      "text" : "< 30 mL\/min",
+      "w" : 0.07613168272582241
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.6512345627229084,
+      "y" : 0.21874999992732558,
+      "text" : "[D] Complete resistance to digoxin's inotropic effects",
+      "w" : 0.31069958284965854
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01027777777777783,
+      "x" : 0.22119341635802467,
+      "y" : 0.2056944442871922,
+      "text" : "[E] It replaces the need for dietary sodium restriction entirely",
+      "w" : 0.3518518411888266
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010277777777777719,
+      "x" : 0.6275720197016461,
+      "y" : 0.20569444454760893,
+      "text" : "[E] Acute gouty arthritis in the cervical spine",
+      "w" : 0.2592592539277466
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.2242798412894374,
+      "y" : 0.18386627914244197,
+      "text" : "Q35. [2024 Exam] Which metabolic adverse effect is",
+      "w" : 0.35390945050701406
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.24691357352537743,
+      "y" : 0.1707848836482559,
+      "text" : "characteristically associated with chronic Thiazide diuretic",
+      "w" : 0.40329214611893177
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011627906163533597,
+      "x" : 0.07818930116598077,
+      "y" : 0.156976744379845,
+      "text" : "therapy?",
+      "w" : 0.06584361814103037
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.19032922173353906,
+      "y" : 0.1417151163699129,
+      "text" : "[A] Hyperkalemia and severe metabolic acidosis",
+      "w" : 0.2901234416841711
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011731265915764677,
+      "x" : 0.19650205383230462,
+      "y" : 0.1294121449197203,
+      "text" : "[B] Profound hypocalcemia with symptomatic tetany",
+      "w" : 0.3024691215851022
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011757105721367678,
+      "x" : 0.18106996337448547,
+      "y" : 0.11634366959480857,
+      "text" : "[C] Severe hypoglycemia with hyperinsulinism",
+      "w" : 0.2716049338286778
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365605,
+      "x" : 0.1574074102109053,
+      "y" : 0.10392441869549418,
+      "text" : "[D] Decreased serum uric acid levels",
+      "w" : 0.22427982354314072
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.24691358528806578,
+      "y" : 0.09084302334665711,
+      "text" : "[E] Hyperglycemia (impaired insulin release due to hypokalemia) and",
+      "w" : 0.40329219410254524
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.09053498093278459,
+      "y" : 0.07921511630329453,
+      "text" : "Hyperlipidemia",
+      "w" : 0.0905349779428926
+    },
+    {
+      "conf" : 1,
+      "h" : 0.0117312653859456,
+      "x" : 0.7047325095679013,
+      "y" : 0.1830878550787164,
+      "text" : "Q42. [Clinical Exam] A 60-year-old female with cirrhosis and",
+      "w" : 0.4094649980653008
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011705426110161676,
+      "x" : 0.7139917641460907,
+      "y" : 0.17001937948889523,
+      "text" : "refractory ascites is treated with high-dose Spironolactone and",
+      "w" : 0.4320987725407823
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01029069794548887,
+      "x" : 0.6656378656035663,
+      "y" : 0.1576453487981555,
+      "text" : "Furosemide. What is the rational diuretic ratio?",
+      "w" : 0.3312757000233393
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.7139917738683126,
+      "y" : 0.1417151163517441,
+      "text" : "[A] Furosemide 160 mg alone without spironolactone to maximize diuresis",
+      "w" : 0.43209877254078216
+    },
+    {
+      "conf" : 1,
+      "h" : 0.0117312653859456,
+      "x" : 0.7160493828703703,
+      "y" : 0.12941214487283392,
+      "text" : "[B] Spironolactone 100 mg to Furosemide 40 mg (maintains normokalemia",
+      "w" : 0.43621399117715703
+    },
+    {
+      "conf" : 1,
+      "h" : 0.01030361758338083,
+      "x" : 0.5925925894375859,
+      "y" : 0.1170704133948215,
+      "text" : "and blocks hyperaldosteronism)",
+      "w" : 0.18930040515443813
+    },
+    {
+      "conf" : 1,
+      "h" : 0.011718345748053638,
+      "x" : 0.6800411583333331,
+      "y" : 0.10469638263140735,
+      "text" : "[C] Acetazolamide 500 mg combined with mannitol IV infusion",
+      "w" : 0.3641975210897577
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010290697415669792,
+      "x" : 0.7026749034636486,
+      "y" : 0.09235465122763264,
+      "text" : "[D] Hydrochlorothiazide 100 mg alone with potassium chloride 80 mEq",
+      "w" : 0.41358021670167544
+    },
+    {
+      "conf" : 1,
+      "h" : 0.010174418555365716,
+      "x" : 0.6522633692729769,
+      "y" : 0.07921511620639549,
+      "text" : "[E] Triamterene 200 mg combined with indomethacin",
+      "w" : 0.31275719216784587
+    },
+    {
+      "conf" : 1,
+      "h" : 0.017519379191928475,
+      "x" : 0.3343621474537035,
+      "y" : 0.014573643611020815,
+      "text" : "Twisted Medicine • Renal Pharmacology Master Class • Strictly Grounded in Faculty & Bad Exam Past Papers",
+      "w" : 0.6028806578438237
+    },
+    {
+      "conf" : 1,
+      "h" : 0.008888888623979296,
+      "x" : 0.8724279809327847,
+      "y" : 0.018888889005369114,
+      "text" : "Confidential Student Revision Bank",
+      "w" : 0.19341563578671628
+    }
+  ],
+  "page" : 77
+}

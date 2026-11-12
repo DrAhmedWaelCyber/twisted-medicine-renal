@@ -1,0 +1,965 @@
+{
+  "items" : [
+    {
+      "x" : 0.2870370455075443,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal System Module • Lecture 15 MCQ Masterclass",
+      "y" : 0.9774224804225952,
+      "w" : 0.5082304372727495,
+      "h" : 0.013178294499715193
+    },
+    {
+      "x" : 0.3816872544238679,
+      "conf" : 1,
+      "text" : "Twisted Medicine Medical Series • Late Distal Tubule, Collecting Ducts, ADH, Aldosterone & Acidification • Standard Practice Bank",
+      "y" : 0.9651162791182171,
+      "w" : 0.6975308304312845,
+      "h" : 0.00872092988755968
+    },
+    {
+      "x" : 0.2572016530178324,
+      "conf" : 1,
+      "text" : "Q29. [2025 Exam] Atrial Natriuretic Peptide (ANP) and Urodilatin",
+      "y" : 0.9454295866051785,
+      "w" : 0.41563785001166964,
+      "h" : 0.01030361758338083
+    },
+    {
+      "x" : 0.7139917626200276,
+      "conf" : 1,
+      "text" : "Q36. [2023 Exam] Gordon Syndrome (Pseudohypoaldosteronism",
+      "y" : 0.9447351419225569,
+      "w" : 0.41563785001166953,
+      "h" : 0.011692505942450637
+    },
+    {
+      "x" : 0.48971194521604905,
+      "conf" : 1,
+      "text" : "reduce final urine concentration and promote natriuresis primarily by Type II) is caused by mutations in WNK kinases that hyperactivate",
+      "y" : 0.9316666668625548,
+      "w" : 0.8847736862470519,
+      "h" : 0.011666666666666714
+    },
+    {
+      "x" : 0.1430041120370371,
+      "conf" : 1,
+      "text" : "acting on collecting ducts to:",
+      "y" : 0.9179166668773838,
+      "w" : 0.19135801447262552,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6193415666152262,
+      "conf" : 1,
+      "text" : "the NCC cotransporter, producing:",
+      "y" : 0.9179166665110823,
+      "w" : 0.22633743286132812,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.23353909811385443,
+      "conf" : 1,
+      "text" : "[A] Increase proximal tubule bicarbonate reabsorption via NHE3",
+      "y" : 0.9033430230862403,
+      "w" : 0.37242798235431407,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.7170781857853223,
+      "conf" : 1,
+      "text" : "[A] Hypertension, hyperkalemia, and metabolic acidosis with normal GFR",
+      "y" : 0.903343023195252,
+      "w" : 0.4218107019580385,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.2129629671039094,
+      "conf" : 1,
+      "text" : "[B] Stimulate aldosterone synthesis in the adrenal cortex",
+      "y" : 0.8909883721656977,
+      "w" : 0.3312757000233393,
+      "h" : 0.00872092988755968
+    },
+    {
+      "x" : 0.6841563725994515,
+      "conf" : 1,
+      "text" : "[B] Severe hypotension, hypokalemia, and metabolic alkalosis",
+      "y" : 0.890261627882752,
+      "w" : 0.3600823024533829,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.2551440381172838,
+      "conf" : 1,
+      "text" : "[C] Induce rapid exocytosis of Aquaporin-2 channels into principal cells",
+      "y" : 0.8786337209847384,
+      "w" : 0.41563785001166953,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.6502057649176954,
+      "conf" : 1,
+      "text" : "[C] Profound polyuria exceeding 15 Liters per day",
+      "y" : 0.8779069768168605,
+      "w" : 0.2880658323659837,
+      "h" : 0.00872092988755968
+    },
+    {
+      "x" : 0.23559671409465002,
+      "conf" : 1,
+      "text" : "[D] Activate the renin-angiotensin-aldosterone axis systemically",
+      "y" : 0.864037467809897,
+      "w" : 0.3765432009906889,
+      "h" : 0.010297157499525311
+    },
+    {
+      "x" : 0.6563785957475996,
+      "conf" : 1,
+      "text" : "[D] Massive nephrotic-range proteinuria with edema",
+      "y" : 0.8640374677129977,
+      "w" : 0.30452673090328963,
+      "h" : 0.0102971574995252
+    },
+    {
+      "x" : 0.42695474200102856,
+      "conf" : 1,
+      "text" : "[E] Inhibit apical ENaC channels and block ADH-mediated water reabsorption [E] Extensive calcium oxalate renal stone formation",
+      "y" : 0.8524709302870639,
+      "w" : 0.7592592539277467,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.10288065658436221,
+      "conf" : 1,
+      "text" : "in medullary ducts",
+      "y" : 0.8401162790213178,
+      "w" : 0.11111110711247667,
+      "h" : 0.00872092988755968
+    },
+    {
+      "x" : 0.2520576172222222,
+      "conf" : 1,
+      "text" : "Q30. [2024 Exam] Urodilatin is a natriuretic peptide structurally",
+      "y" : 0.8183333332682592,
+      "w" : 0.4053497794289259,
+      "h" : 0.011666666666666714
+    },
+    {
+      "x" : 0.18209876992455404,
+      "conf" : 1,
+      "text" : "related to ANP. It is unique because it is:",
+      "y" : 0.80457041358862,
+      "w" : 0.26954732451049035,
+      "h" : 0.01030361758338083
+    },
+    {
+      "x" : 0.2448559720164608,
+      "conf" : 1,
+      "text" : "[A] A potent mineralocorticoid agonist stimulating ENaC expression",
+      "y" : 0.7899709302870639,
+      "w" : 0.3950617088461822,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.25720165308641957,
+      "conf" : 1,
+      "text" : "[B] Produced exclusively by the cardiac left ventricle during heart failure",
+      "y" : 0.77682170540046,
+      "w" : 0.41975306864804446,
+      "h" : 0.01031007766723624
+    },
+    {
+      "x" : 0.23251028182441721,
+      "conf" : 1,
+      "text" : "[C] An artificial synthetic peptide not found in human physiology",
+      "y" : 0.7637532298575251,
+      "w" : 0.37448559167250145,
+      "h" : 0.01028423786163335
+    },
+    {
+      "x" : 0.26851852589163216,
+      "conf" : 1,
+      "text" : "[D] Synthesized locally by distal tubule\/collecting duct cells and acts as a",
+      "y" : 0.7514114984537504,
+      "w" : 0.4423867951399126,
+      "h" : 0.011711886194017085
+    },
+    {
+      "x" : 0.12654320751028814,
+      "conf" : 1,
+      "text" : "paracrine natriuretic agent",
+      "y" : 0.739037467567649,
+      "w" : 0.15843620540211034,
+      "h" : 0.010297157499525311
+    },
+    {
+      "x" : 0.22222107875504876,
+      "conf" : 1,
+      "text" : "[E] Excreted by the liver into bile without reaching the kidney",
+      "y" : 0.7266184086658651,
+      "w" : 0.34995360944256093,
+      "h" : 0.012009780142042348
+    },
+    {
+      "x" : 0.9341563774342924,
+      "conf" : 1,
+      "text" : "Page 3 of 4",
+      "y" : 0.976017441792336,
+      "w" : 0.07003724799965916,
+      "h" : 0.010446916156344965
+    },
+    {
+      "x" : 0.7057613218621397,
+      "conf" : 1,
+      "text" : "Q37. [2022 Exam] The Syndrome of Inappropriate Antidiuretic",
+      "y" : 0.818333333282794,
+      "w" : 0.3991769514743637,
+      "h" : 0.011666666666666714
+    },
+    {
+      "x" : 0.7139917653909467,
+      "conf" : 1,
+      "text" : "Hormone (SIADH) results in which classic clinical and laboratory",
+      "y" : 0.8045704134238914,
+      "w" : 0.41563785001166964,
+      "h" : 0.01030361758338083
+    },
+    {
+      "x" : 0.616255142037037,
+      "conf" : 1,
+      "text" : "pattern of final urine and serum?",
+      "y" : 0.7914244185029069,
+      "w" : 0.22016460490676593,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.6574074124485596,
+      "conf" : 1,
+      "text" : "[A] Hypernatremia, hyperosmolality, and dilute urine",
+      "y" : 0.77682170540046,
+      "w" : 0.3024691215851022,
+      "h" : 0.01031007766723624
+    },
+    {
+      "x" : 0.7160493755829906,
+      "conf" : 1,
+      "text" : "[B] Euvolemic hyponatremia (<280 mOsm) with concentrated urine (>100",
+      "y" : 0.7637532298090755,
+      "w" : 0.42798350592079404,
+      "h" : 0.01028423786163335
+    },
+    {
+      "x" : 0.5257201637511979,
+      "conf" : 0.5,
+      "text" : "mOsm)",
+      "y" : 0.7514534883284456,
+      "w" : 0.051536572054497076,
+      "h" : 0.009008702172173422
+    },
+    {
+      "x" : 0.6697530808984913,
+      "conf" : 1,
+      "text" : "[C] Hypokalemic metabolic alkalosis with hypercalcemia",
+      "y" : 0.7390374677129977,
+      "w" : 0.33127570002333917,
+      "h" : 0.0102971574995252
+    },
+    {
+      "x" : 0.6697530823302469,
+      "conf" : 1,
+      "text" : "[D] Hypovolemic shock with marked hemoconcentration",
+      "y" : 0.7259722222786088,
+      "w" : 0.3271604813869645,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6378600868312756,
+      "conf" : 1,
+      "text" : "[E] Massive glucosuria and osmotic diuresis",
+      "y" : 0.7129166669110044,
+      "w" : 0.2716049338286777,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.2633744787379975,
+      "conf" : 1,
+      "text" : "Q31. [2023 Exam] Final acidification of urine down to the minimum",
+      "y" : 0.6911337207606589,
+      "w" : 0.42798350592079404,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.7211934210133744,
+      "conf" : 1,
+      "text" : "Q38. [2021 Exam] Nephrogenic Diabetes Insipidus (NDI) caused by",
+      "y" : 0.6911337209847384,
+      "w" : 0.4300411392307881,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.4958847826337447,
+      "conf" : 1,
+      "text" : "physiological pH (~4.5) is carried out in the medullary collecting duct chronic Lithium therapy is mediated at the cellular level in collecting",
+      "y" : 0.6772642119814085,
+      "w" : 0.8971192941725629,
+      "h" : 0.011750646167331236
+    },
+    {
+      "x" : 0.0576131684670782,
+      "conf" : 1,
+      "text" : "by:",
+      "y" : 0.6635174420239826,
+      "w" : 0.024691356802886394,
+      "h" : 0.013081394831339521
+    },
+    {
+      "x" : 0.5370370378600823,
+      "conf" : 1,
+      "text" : "ducts by:",
+      "y" : 0.6641957360185253,
+      "w" : 0.061728393506703894,
+      "h" : 0.011724805831909157
+    },
+    {
+      "x" : 0.2633744927983537,
+      "conf" : 1,
+      "text" : "[A] Vacuolar H+-ATPase in Type A Intercalated cells pumping H+ against",
+      "y" : 0.6497222220603727,
+      "w" : 0.4320987725407822,
+      "h" : 0.011666666666666603
+    },
+    {
+      "x" : 0.723251021502058,
+      "conf" : 1,
+      "text" : "[A] Direct antibody-mediated destruction of hypothalamic supraoptic nuclei",
+      "y" : 0.6497222219634733,
+      "w" : 0.43827157650353776,
+      "h" : 0.011666666666666603
+    },
+    {
+      "x" : 0.12551440582990392,
+      "conf" : 1,
+      "text" : "steep 1000-fold gradients",
+      "y" : 0.6373611113193206,
+      "w" : 0.15226336545164482,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.7283950542524007,
+      "conf" : 1,
+      "text" : "[B] Lithium accumulation via ENaC inhibiting GSK-3beta and down-regulating",
+      "y" : 0.6359625322385527,
+      "w" : 0.4485596470862815,
+      "h" : 0.010297157499525311
+    },
+    {
+      "x" : 0.2613168795610423,
+      "conf" : 1,
+      "text" : "[B] Passive non-ionic diffusion of hydrochloric acid across tight junctions",
+      "y" : 0.624305555294717,
+      "w" : 0.42798350592079404,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.5751028782921811,
+      "conf" : 1,
+      "text" : "Aquaporin-2 expression",
+      "y" : 0.6249999999515503,
+      "w" : 0.14197530686480442,
+      "h" : 0.008888888888888835
+    },
+    {
+      "x" : 0.2170781926954732,
+      "conf" : 1,
+      "text" : "[C] SGLT2 cotransporters pumping protons into the lumen",
+      "y" : 0.6112467701909244,
+      "w" : 0.33950616128789557,
+      "h" : 0.010284237861633239
+    },
+    {
+      "x" : 0.6975308670781892,
+      "conf" : 1,
+      "text" : "[C] Complete mechanical obstruction of the ureteropelvic junction",
+      "y" : 0.6112467699910699,
+      "w" : 0.38271602894525125,
+      "h" : 0.010284237861633239
+    },
+    {
+      "x" : 0.19958848117283942,
+      "conf" : 1,
+      "text" : "[D] Direct secretion of sulfuric acid by principal cells",
+      "y" : 0.5995833332646254,
+      "w" : 0.30452673090328963,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6841563829989712,
+      "conf" : 1,
+      "text" : "[D] Hyper-activation of basolateral V2 vasopressin receptors",
+      "y" : 0.5995833332646254,
+      "w" : 0.35185184118882673,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.1851851805212622,
+      "conf" : 1,
+      "text" : "[E] Glomerular ultrafiltration of free gastric acid",
+      "y" : 0.586527777594211,
+      "w" : 0.2798353711014274,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.6965020624228393,
+      "conf" : 1,
+      "text" : "[E] Precipitation of lithium phosphate crystals in Bowman's space",
+      "y" : 0.5865277777213912,
+      "w" : 0.38477366225524523,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.2654321030864197,
+      "conf" : 1,
+      "text" : "Q32. [2022 Exam] Because the maximum free proton concentration",
+      "y" : 0.5639114986799003,
+      "w" : 0.43209877254078227,
+      "h" : 0.011711886723836162
+    },
+    {
+      "x" : 0.7088477338477368,
+      "conf" : 1,
+      "text" : "Q39. [2025 Exam] Vaptans (e.g., Tolvaptan) are pharmacologic",
+      "y" : 0.5639114985506496,
+      "w" : 0.4053497794289259,
+      "h" : 0.011711886194017085
+    },
+    {
+      "x" : 0.26851852232510276,
+      "conf" : 1,
+      "text" : "at urine pH 4.5 is only ~0.03 mEq\/L, high amounts of daily acid (~70",
+      "y" : 0.550843023104614,
+      "w" : 0.4423867951399125,
+      "h" : 0.011686046388414195
+    },
+    {
+      "x" : 0.6841563720507546,
+      "conf" : 1,
+      "text" : "agents that block V2 vasopressin receptors. Their primary",
+      "y" : 0.550138888729129,
+      "w" : 0.39300409952799464,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.15534979783950603,
+      "conf" : 1,
+      "text" : "mEq\/day) are excreted bound to:",
+      "y" : 0.5370833333312437,
+      "w" : 0.21604938627039108,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.6203703742455418,
+      "conf" : 1,
+      "text" : "therapeutic effect on final urine is:",
+      "y" : 0.5370833333312437,
+      "w" : 0.23251028480769698,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.2530864156378603,
+      "conf" : 1,
+      "text" : "[A] Urinary buffers: Titratable Acid (primarily HP04^2-) and Ammonium",
+      "y" : 0.5225290699370155,
+      "w" : 0.41152263137529477,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.7016460954218107,
+      "conf" : 1,
+      "text" : "[A] Massive kaliuresis with severe hypokalemic metabolic alkalosis",
+      "y" : 0.5225290698219478,
+      "w" : 0.3909464902098073,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.06995884717078191,
+      "conf" : 0.30000001192092896,
+      "text" : "(NH4+)",
+      "y" : 0.5101744185319768,
+      "w" : 0.045267488971446286,
+      "h" : 0.00872092988755968
+    },
+    {
+      "x" : 0.7088477434499311,
+      "conf" : 1,
+      "text" : "[B] Pure aquaresis (electrolyte-free water excretion), increasing serum",
+      "y" : 0.509447674491279,
+      "w" : 0.4094649980653007,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.18209876880144024,
+      "conf" : 1,
+      "text" : "[B] Filtered glucose and amino acid molecules",
+      "y" : 0.49781976749636625,
+      "w" : 0.26954732451049035,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.6111111146090533,
+      "conf" : 1,
+      "text" : "sodium in euvolemic hyponatremia",
+      "y" : 0.4970930233527132,
+      "w" : 0.2098765343240222,
+      "h" : 0.00872092988755968
+    },
+    {
+      "x" : 0.19547325360082296,
+      "conf" : 1,
+      "text" : "[C] Intraluminal free albumin and immunoglobulins",
+      "y" : 0.484738371965843,
+      "w" : 0.29629629363054,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.6615226376800412,
+      "conf" : 1,
+      "text" : "[C] Complete inhibition of all glomerular ultrafiltration",
+      "y" : 0.4847383721475291,
+      "w" : 0.31481480148603336,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.20164608539094672,
+      "conf" : 1,
+      "text" : "[D] Calcium oxalate and uric acid crystals exclusively",
+      "y" : 0.47165697671996126,
+      "w" : 0.30864197353147116,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.6893004054183816,
+      "conf" : 1,
+      "text" : "[D] Intense sodium retention with worsening pulmonary edema",
+      "y" : 0.47165697671996126,
+      "w" : 0.3662551304079452,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.18312756776406053,
+      "conf" : 1,
+      "text" : "[E] Tamm-Horsfall glycoprotein mucin strands",
+      "y" : 0.4593023257751938,
+      "w" : 0.2716049338286778,
+      "h" : 0.011627906163533597
+    },
+    {
+      "x" : 0.6872428028806585,
+      "conf" : 1,
+      "text" : "[E] Precipitation of uric acid crystals causing acute renal colic",
+      "y" : 0.4585755814861919,
+      "w" : 0.36213991177157034,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.2654321041666665,
+      "conf" : 1,
+      "text" : "Q33. [2021 Exam] In Type 1 (Distal) Renal Tubular Acidosis (dRTA),",
+      "y" : 0.4368055557215806,
+      "w" : 0.4320987725407822,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.69547325733882,
+      "conf" : 1,
+      "text" : "Q40. [Facul Exam] Mineralocorticoid Receptor Antagonists",
+      "y" : 0.43680555577608654,
+      "w" : 0.3786008103088764,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.2613168795610423,
+      "conf" : 1,
+      "text" : "the fundamental molecular defect is located in the collecting duct",
+      "y" : 0.4230200260291028,
+      "w" : 0.42798350592079404,
+      "h" : 0.01173772546980123
+    },
+    {
+      "x" : 0.7181070011831274,
+      "conf" : 1,
+      "text" : "Spironolactone and Eplerenone prevent final sodium reabsorption",
+      "y" : 0.4230200260048779,
+      "w" : 0.4238682872844193,
+      "h" : 0.011737725469801119
+    },
+    {
+      "x" : 0.0915637871141975,
+      "conf" : 1,
+      "text" : "and involves:",
+      "y" : 0.40988372100290693,
+      "w" : 0.08847736262675351,
+      "h" : 0.00872092988755968
+    },
+    {
+      "x" : 0.5987654339506172,
+      "conf" : 1,
+      "text" : "and potassium secretion by:",
+      "y" : 0.4091569768168605,
+      "w" : 0.18518518651806326,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.25617284125514395,
+      "conf" : 1,
+      "text" : "[A] Complete absence of the thick ascending limb NKCC2 cotransporter",
+      "y" : 0.39458333341018714,
+      "w" : 0.4176954353380503,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6934156416049382,
+      "conf" : 1,
+      "text" : "[A] Competitively blocking MR, preventing ENaC\/pump induction",
+      "y" : 0.39458333312261606,
+      "w" : 0.3744855916725014,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.2716049419067214,
+      "conf" : 1,
+      "text" : "[B] Generalized failure of the proximal convoluted tubule (Fanconi syndrome)",
+      "y" : 0.38292958670207766,
+      "w" : 0.4485596470862815,
+      "h" : 0.01030361758338083
+    },
+    {
+      "x" : 0.6502057566529494,
+      "conf" : 1,
+      "text" : "[B] Blocking apical NKCC2 in thick ascending limb",
+      "y" : 0.38292958670207766,
+      "w" : 0.3045267309032896,
+      "h" : 0.01030361758338083
+    },
+    {
+      "x" : 0.2695473325102878,
+      "conf" : 1,
+      "text" : "[C] Inactivating mutation of the sodium-chloride cotransporter (NCC) in DCT",
+      "y" : 0.3691666667543249,
+      "w" : 0.44444442844990656,
+      "h" : 0.008888888623979407
+    },
+    {
+      "x" : 0.6563786063100137,
+      "conf" : 1,
+      "text" : "[C Directly opening apical ROMK potassium channels",
+      "y" : 0.3691666667058752,
+      "w" : 0.32921809070515196,
+      "h" : 0.008888888623979407
+    },
+    {
+      "x" : 0.26851852589163216,
+      "conf" : 1,
+      "text" : "[D] Inability of Type A Intercalated cells to secrete H+, failing to acidify urine",
+      "y" : 0.35611111134354534,
+      "w" : 0.4423867951399126,
+      "h" : 0.011666666666666714
+    },
+    {
+      "x" : 0.6347736624485596,
+      "conf" : 1,
+      "text" : "[D] Inhibiting ACE in pulmonary capillary bed",
+      "y" : 0.3561111110528479,
+      "w" : 0.26131686324593406,
+      "h" : 0.011666666666666714
+    },
+    {
+      "x" : 0.08744856047304575,
+      "conf" : 1,
+      "text" : "below pH 5.5",
+      "y" : 0.34520348844588966,
+      "w" : 0.08027527167362238,
+      "h" : 0.010286634233262815
+    },
+    {
+      "x" : 0.648148143347051,
+      "conf" : 1,
+      "text" : "[E] Inducing apoptosis of principal epithelial cells",
+      "y" : 0.34445090406708434,
+      "w" : 0.2880658323659837,
+      "h" : 0.011679586304558676
+    },
+    {
+      "x" : 0.21604938693415632,
+      "conf" : 1,
+      "text" : "[E] Hypersecretion of aldosterone by an adrenal adenoma",
+      "y" : 0.3320833331044476,
+      "w" : 0.33744855196970813,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.4927983627777775,
+      "conf" : 1,
+      "text" : "Q34. [2020 Exam] Type 4 Renal Tubular Acidosis (Hyperkalemic RTA) Q41. [Core Exam] What is the physiological role of the 'Aldosterone",
+      "y" : 0.3095930233139534,
+      "w" : 0.886831223589819,
+      "h" : 0.01162790722317164
+    },
+    {
+      "x" : 0.26851851298868323,
+      "conf" : 1,
+      "text" : "is characterized by impaired distal acidification and hyperkalemia. It",
+      "y" : 0.29651162787063956,
+      "w" : 0.4423868431235259,
+      "h" : 0.011627906163533597
+    },
+    {
+      "x" : 0.7232510363854593,
+      "conf" : 1,
+      "text" : "Escape' phenomenon observed in primary hyperaldosteronism (Conn",
+      "y" : 0.29651162795542635,
+      "w" : 0.4547324990326504,
+      "h" : 0.011627906163533486
+    },
+    {
+      "x" : 0.09465020740740737,
+      "conf" : 1,
+      "text" : "is caused by:",
+      "y" : 0.2826453487981554,
+      "w" : 0.09876542721154555,
+      "h" : 0.01029069794548887
+    },
+    {
+      "x" : 0.245884767043896,
+      "conf" : 1,
+      "text" : "[A] Aldosterone deficiency or resistance, reducing ENaC activity and",
+      "y" : 0.2681944444325409,
+      "w" : 0.39711931816436963,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.1327160513374485,
+      "conf" : 1,
+      "text" : "proton\/potassium secretion",
+      "y" : 0.2565277776762812,
+      "w" : 0.16666666666666669,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.24588476869855985,
+      "conf" : 1,
+      "text" : "[B] Massive over-activation of the basolateral Na+\/K+ ATPase pump",
+      "y" : 0.2434722224387867,
+      "w" : 0.39711934215617634,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.2335391008573386,
+      "conf" : 1,
+      "text" : "[C] Overexpression of Aquaporin-2 in medullary collecting ducts",
+      "y" : 0.23041666649291354,
+      "w" : 0.37242798235431407,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.2242798412894374,
+      "conf" : 1,
+      "text" : "[D] Ingestion of large doses of carbonic anhydrase inhibitors",
+      "y" : 0.21804909593291566,
+      "w" : 0.35390945050701406,
+      "h" : 0.011679586304558676
+    },
+    {
+      "x" : 0.6831275764403291,
+      "conf" : 1,
+      "text" : "[A] ECF expansion triggers ANP & natriuresis, limiting edema",
+      "y" : 0.2681944445112716,
+      "w" : 0.35390945050701406,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6430041186471193,
+      "conf" : 1,
+      "text" : "[B] Total adrenal cortical metabolic exhaustion",
+      "y" : 0.25513888900437476,
+      "w" : 0.2736625431468651,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.6450617307613168,
+      "conf" : 1,
+      "text" : "[C] Down-regulation of cardiac beta-1 receptors",
+      "y" : 0.24276485822279192,
+      "w" : 0.27777776178324,
+      "h" : 0.011692505942450637
+    },
+    {
+      "x" : 0.6368312800754456,
+      "conf" : 1,
+      "text" : "[D] Spontaneous infarction of adrenal tumor",
+      "y" : 0.23041666649291354,
+      "w" : 0.26131686324593406,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.6574074022976683,
+      "conf" : 1,
+      "text" : "[E] Disappearance of sodium from extracellular fluid",
+      "y" : 0.2158430232315891,
+      "w" : 0.30658434022147696,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.17798353467078204,
+      "conf" : 1,
+      "text" : "[E] Excessive parathyroid hormone secretion",
+      "y" : 0.2056944443840914,
+      "w" : 0.2654320818823089,
+      "h" : 0.010277777777777719
+    },
+    {
+      "x" : 0.2479423917952674,
+      "conf" : 1,
+      "text" : "Q35. [2024 Exam] Liddle Syndrome is an autosomal dominant",
+      "y" : 0.1830878550802797,
+      "w" : 0.3971193421561763,
+      "h" : 0.011731265915764677
+    },
+    {
+      "x" : 0.25617284639917676,
+      "conf" : 1,
+      "text" : "disorder caused by gain-of-function mutations in ENaC subunits",
+      "y" : 0.17001937961001923,
+      "w" : 0.41358021670167555,
+      "h" : 0.011705426110161676
+    },
+    {
+      "x" : 0.16872428287037033,
+      "conf" : 1,
+      "text" : "(deleting the PY motif), resulting in:",
+      "y" : 0.15554909595714056,
+      "w" : 0.24279835539044073,
+      "h" : 0.011679586304558565
+    },
+    {
+      "x" : 0.24691358696844967,
+      "conf" : 1,
+      "text" : "[A] Constitutive ENaC opening: severe HTN, hypokalemia & low renin",
+      "y" : 0.14098837214147275,
+      "w" : 0.4032921461189318,
+      "h" : 0.011627906163533597
+    },
+    {
+      "x" : 0.18827160846193405,
+      "conf" : 1,
+      "text" : "[B] Salt wasting, hypotension, and hyperkalemia",
+      "y" : 0.12790697681686047,
+      "w" : 0.28189300441142146,
+      "h" : 0.011627906163533597
+    },
+    {
+      "x" : 0.17181069537037053,
+      "conf" : 1,
+      "text" : "[C] Massive glucosuria and aminoaciduria",
+      "y" : 0.11555232550872097,
+      "w" : 0.2530864019813778,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.1944444493484223,
+      "conf" : 1,
+      "text" : "[D] Polyuria due to nephrogenic diabetes insipidus",
+      "y" : 0.10247093030523247,
+      "w" : 0.29423868431235256,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.18518518045267507,
+      "conf" : 1,
+      "text" : "[E] Isolated hypocalciuria and hypomagnesemia",
+      "y" : 0.08932170525511135,
+      "w" : 0.28395061372960895,
+      "h" : 0.01031007766723635
+    },
+    {
+      "x" : 0.7253086364969137,
+      "conf" : 1,
+      "text" : "Q42. [Clini Exam] A 52-year-old male with small cell lung cancer has",
+      "y" : 0.18308785493493107,
+      "w" : 0.43827157650353765,
+      "h" : 0.011731265915764677
+    },
+    {
+      "x" : 0.6985596739711932,
+      "conf" : 1,
+      "text" : "serum Na+ 118 mEq\/L, Posm 248 mOsm\/kg, and Uosm 580",
+      "y" : 0.16861111105284776,
+      "w" : 0.38477363826343847,
+      "h" : 0.011666666666666714
+    },
+    {
+      "x" : 0.7314814758487657,
+      "conf" : 1,
+      "text" : "mOsm\/kg. He is euvolemic. The mechanism of concentrated urine is:",
+      "y" : 0.1562499999091569,
+      "w" : 0.4506172803962756,
+      "h" : 0.01027777777777783
+    },
+    {
+      "x" : 0.659465018021262,
+      "conf" : 1,
+      "text" : "[A] Severe dehydration from gastrointestinal losses",
+      "y" : 0.14026162784641477,
+      "w" : 0.3065843642132837,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.6656378560956793,
+      "conf" : 1,
+      "text" : "[B] Central diabetes insipidus from tumor compression",
+      "y" : 0.12863372087572683,
+      "w" : 0.3189300441142148,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.6378600778463649,
+      "conf" : 1,
+      "text" : "[C] Primary polydipsia with water intoxication",
+      "y" : 0.11555232550872097,
+      "w" : 0.26748969120049626,
+      "h" : 0.010174418555365605
+    },
+    {
+      "x" : 0.6450617318672839,
+      "conf" : 1,
+      "text" : "[D] Addisonian crisis due to adrenal destruction",
+      "y" : 0.10247093028706394,
+      "w" : 0.27777776178324,
+      "h" : 0.010174418555365716
+    },
+    {
+      "x" : 0.6790123413065844,
+      "conf" : 1,
+      "text" : "[E] Ectopic ADH driving constitutive AQP2 insertion (SIADH)",
+      "y" : 0.08932170527327976,
+      "w" : 0.3497942318706393,
+      "h" : 0.01031007766723624
+    },
+    {
+      "x" : 0.3209876615226336,
+      "conf" : 1,
+      "text" : "Twisted Medicine • Renal Physiology Master Class • Strictly Grounded in Faculty & Boar am Past Papers",
+      "y" : 0.014573643611020815,
+      "w" : 0.5761316647319674,
+      "h" : 0.017519379191928475
+    },
+    {
+      "x" : 0.8734567925154321,
+      "conf" : 1,
+      "text" : "Confidential Student Revision Bank",
+      "y" : 0.01966085278616625,
+      "w" : 0.19135801447262546,
+      "h" : 0.007344961166381836
+    }
+  ],
+  "page" : 61
+}
